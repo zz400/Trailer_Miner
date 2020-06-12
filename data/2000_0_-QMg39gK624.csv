@@ -1,0 +1,41 @@
+timestamp,text,like_count,reply_count,author
+2018-09-26T10:29:57Z,Code here: https://github.com/nikhilkumarsingh/YouTubeAPI-Examples/blob/master/1.Setup.ipynb,4,2,Indian Pythonista
+2020-06-10T15:12:54Z,do you have for android?,0,0,hanada nefa
+2020-05-31T06:57:24Z,"Hi.Thanks for all the tutorial videos so far, they've really helped beginners like me to come a long way. I am presently working on a project. I want to be able to play Live videos (alone) from my channel on my app. I've successfully added the youtube player to my app, i have an API key and a client ID. I was able to enter my parameters in the Youtube Data explorer and got a 200 success (green bar). The problem is that i don't  know how to get this generated codes into my Android studio to as to enable my app make the data calls. i'll be very happy, if you can help me with this explanation. thanks.",0,0,Samuel Akporedafe
+2020-05-26T05:08:23Z,Thanks for the tutorial and for your efforts!,1,0,Soumya Ranjan Das
+2020-04-30T09:07:08Z,nice,0,0,l Niebieskv l
+2020-04-20T16:28:30Z,Bro if we like to fetch the comments for NLP Analysis as good or bad then how we can do it with this APIs  in Django?,0,0,Anwar Ali
+2020-04-17T11:29:41Z,"Great video, but you said that you are writing all this code in the google-api-python client. You have it open in a chrome tab. How can I also do this? I did not find an explanation looking on the web. So I hope someone can help me out :) Thanks for any help :)",0,0,Luca Hainz
+2020-04-11T22:36:58Z,I can't understand a word you are saying.,0,5,Ethan Bennett
+2020-04-08T04:21:54Z,Thank you for sharing!,0,0,Yesenia Hernandez
+2020-03-29T19:22:14Z,can you make a playlist of this tutorial series? it's hard to find out the whole video series.,0,2,ranjan paul
+2020-03-28T19:24:32Z,"Thanks for your great video. But could you please help me through this problem: I did exactly what you did and when I run youtube=build ('youtube', 'v3', developerKey=api_key) I get this error: HttpError 403 when requesting http://www.googleapis.com/discovery/v1/apis/youtube/v3/rest?key=... returned ""Forbidden""  Am I missing anything? Are you sure we don't need to set OAuth client ID or sth? I'm from Iran and have to use VPN. Plz don't tell me the error I'm getting is because I'm using VPN. If it is, what could I do about it?",0,2,Zahra Movahhedinia
+2020-03-27T06:42:08Z,I made an app to find the length of YouTube playlists.  https://ytplaylist-len.herokuapp.com/ You can see the repo here.  https://github.com/sharatsachin/ytplaylist-len  Btw. You were my instructor during the Nagarro bootcamp. Taught me to make webapps. :D,0,0,Sharat
+2020-03-10T19:17:59Z,This is the start of a comment thread.,0,0,Paul Illing
+2020-02-20T12:13:29Z,"Super clear! But I got a trackback. ""NameError: name 'api_key' is not defined"". I copied the code in jupyter and got this. But everything goes smoothly when i run the program in command. Why?",0,1,Sophie Liu
+2020-02-20T04:20:21Z,Never sudo pip ! Otherwise to the point 👍,0,0,Anupam Chakrawarti
+2020-02-10T02:36:22Z,1) how can i get channel list order by subscribed count?   2) how can i get channel list group by country?,2,0,신형준
+2020-01-16T18:59:41Z,thank u so fukci much mate <3,0,0,K0zoh
+2020-01-08T04:59:12Z,How to get most viewed video by week ?,0,0,Kamlesh Likhare
+2020-01-02T00:36:29Z,"hi, I'm getting the below error. Did I miss any steps in between? Please Direct me. thank you from apiclient.discovery import build  youtube = build('youtube', 'v3', developerkey=api_key)   ---------------------------------------------------------------------------  NameError                                 Traceback (most recent call last)  <ipython-input-2-d03f03801b5c> in <module>  ----> 1 youtube = build('youtube', 'v3', developerkey=api_key)    NameError: name 'build' is not defined",0,0,Vikram Kalvakuntla
+2019-12-15T13:25:19Z,Which distro?,0,0,SoniSins
+2019-11-23T11:49:09Z,"I've encountered this error:   ""AttributeError: 'str' object has no attribute 'request'""  Do you know why and how can I fix this?",0,0,Dejio Dejimoto
+2019-10-17T14:16:52Z,Is it safe to share your Google API key publicly ?,0,5,Abhishek Mishra [IIT Kgp]
+2019-09-28T07:02:22Z,test,0,0,Tyler Vanzo
+2019-09-28T07:02:18Z,#test,0,0,Tyler Vanzo
+2019-09-28T07:02:12Z,*test,0,0,Tyler Vanzo
+2019-09-06T00:11:10Z,"Dude, you rock. So straightforward, looking forward to more.",3,0,Micah Myers
+2019-08-27T19:52:00Z,"Disclaimer: I come from an analytics and data science background I have been playing around with YT API for a while but I can't wrap my head around them. It seems to me, but please tell me that I am wrong, that there is no way to access the detailed data that are necessary to do some proper data science. What I would like to have is a flat file, csv, excel, text, whatever that contains: 1 ROW per each VIEW in the ow, there must be ALL the data available for the view (video, duration, date, time, playback location, source, demographic, geography, browser, OS, etc. etc. etc.) I don't mind filtering the data, I would be perfectly happy to download a few terabytes of data every month or so. This information must exist because it is exposed in aggregated form in the YT analytics, but it seems that it is not accessible in any way. It is really frustrating, for a data scientist, to have to cope with aggregated data that do not offer any real insight. I can tell if a video or a group of videos are doing well but not why! I Is there anyone else around who shares the same frustration? Is there a way of doing what I need?",1,0,Millennium 7 * HistoryTech
+2019-08-10T16:59:09Z,I just to display 1) No of subscriber and 2) Total no of videos on my channel. These two info on my personal website. Can I use this API ?,0,0,Tanzeel Mirza
+2019-08-01T14:53:45Z,"indian Pythnoist I have a question. Will this method of creating client blog = build('blogger', 'v3', developerKey=Key). works for everyone like drive and all ? or we need to do O Auth Authorization?",0,2,soumilshah1995
+2019-04-21T15:48:22Z,what  is the notebook you are using to implement the key etc? And how do you connect it together? I need help connection youtube api (already have the key) and connect it to my django project. Need help what,0,1,Andy hussain
+2019-04-07T09:10:44Z,where is the url of the videos?,0,1,Atharva Sapre
+2019-03-11T12:40:24Z,Which OS are you using?,3,0,Mayank Devnani
+2019-02-22T09:51:49Z,"Nice video but you speak like you are in a rush!!! Try to speak more slowly, for those who are not English native language... thanks.",1,3,Mariana Belo Quertier
+2019-02-16T15:52:13Z,Please help me to get up with jupyter and make video on it with all package you used,0,0,Self Learner
+2019-02-14T13:02:57Z,"Hello, how did you get to this screen at 1:27 where you were actually adding the code later in the video?",9,6,Andrew Coyne
+2019-02-12T03:33:09Z,"Hi, it is a great video but I have a problem. I can't run the build() function. It occured TimeoutError: [WinError 10060]. I am in China where i should use VPN to aceess Youtube. Is it the problem? How can I solve the problem? THANKS",0,2,Mage Mei
+2019-01-09T08:03:13Z,"Oh, it's very hard for me, cos' I'm Russian and my English... bad (hello (sry for my bad english)), haha (so funny (nope)) Hello. I need to log stream chat from YouTube to txt file. How to make it easier? Maybe there is already a ready answer to my question? Or where I can ask about this? And can I get donate informations (nickname, the sum and text of donation) to txt? With which project (donation alerts, streamlabs and other) will it be easier to realize?",0,0,Spirit
+2018-12-13T14:31:39Z,DO YOU ACTLY NEED THIS API TO USE YOUTUBE ALL TOGETHER ?,0,0,DA REAL BREEZEE TV
+2018-09-27T05:57:24Z,great explanation,0,0,Useful Adhyan
+2018-09-26T12:56:39Z,Hi! I really like your videos. Can you start a series of Data Science from the beginning? We really like to learn from you.  Happy Pythoning;),1,1,Shritam Kumar Mund
