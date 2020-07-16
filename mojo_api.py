@@ -1,6 +1,8 @@
+#!/usr/bin/env python
+
 """
 Box Office Mojo API
-Crawl movie information from www.boxofficemojo.com
+Scraping movie information from www.boxofficemojo.com and imdb.com using BeautifulSoup.
 
 Author: Zhengyang Zhao
 Date: 2020-06-08
@@ -9,15 +11,13 @@ Mojo API example: https://www.youtube.com/watch?v=LcnZhJnSXTE
 BeautifulSoup tutorials: 
 https://www.jianshu.com/p/2b783f7914c6
 https://www.dataquest.io/blog/web-scraping-beautifulsoup/
-
-Old Mojo API's that no longer work:
-https://github.com/skozilla/BoxOfficeMojo  -- Python2
-https://github.com/lamlamngo/Box-Office-Mojo-API  -- 2 years ago
-https://github.com/earthican/BoxOfficeMojoAPI -- 6 years ago
 """
 
 
 import requests
+from selenium import webdriver
+# import urllib.request
+
 from bs4 import BeautifulSoup
 import re
 from decimal import Decimal
@@ -27,8 +27,7 @@ from datetime import datetime
 
 import pandas
 
-
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36'}
+headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Chrome/83.0.4103.116 Gecko/20100101 Firefox/32.0',}
 metadata_dir = "./data/movie_metadata/"
 today = datetime.today().strftime('%Y-%m-%d')  # '2020-06-10'
 
@@ -39,7 +38,7 @@ def get_movie_list(year):
     dfs = pandas.read_html(soup.select_one('table').prettify())
     df = dfs[0]
     df = df[~df['Release'].str.contains('-release')]  # remove re-release movies.
-    df = df[~df['Release'].str.contains("'s cut")]  # remove Director's Cut.
+    df = df[~df['Release'].str.lower().str.contains("'s cut")]  # remove Director's Cut.
     df.loc[:, 'Year'] = year
     df = df[['Year', 'Rank', 'Release']]
     df.columns = ['Year', 'Rank', 'Title']
@@ -96,7 +95,7 @@ class Movie(object):
         self.crawl_cast_info()
         if self.budget == None:
             self.get_imdb_budget()
-        self.print_info()
+#         self.print_info()
         return True
 
     def set_title(self, title):
@@ -111,16 +110,22 @@ class Movie(object):
         if self.year != None:
             imdb_url = "https://www.imdb.com/search/title/?title={}&release_date={}-01-01,{}-12-31"\
                         .format(title_url, self.year - 1, self.year)
-#         print(imdb_url)
+        
         imdb_res = requests.get(imdb_url, headers=headers)
+#         driver = webdriver.Chrome("./chromedriver")
+#         driver.get(imdb_url)
+#         imdb_soup = BeautifulSoup(driver.page_source, 'html.parser')
+#         driver.quit()
         if imdb_res.status_code != 200:
             print("Request Error. Code =", imdb_res.status_code)
             return False
         imdb_soup = BeautifulSoup(imdb_res.text, 'html5lib')
+        
         imdb_items = imdb_soup.find_all("div", class_="lister-item-content")
         find_movie = False
-        for imdb_item in imdb_items[:5]:
+        for imdb_item in imdb_items[:3]:
             imdb_title = imdb_item.h3.a.get_text()
+#             print(imdb_item.h3.a)
             if imdb_title.lower() != self.title.lower():
                 continue
             self.title = imdb_title
@@ -199,6 +204,11 @@ class Movie(object):
             hours = int(s[0])
             minutes = int(s[2])
             self.movie_length = 60 * hours + minutes
+        # Corner case:
+        if self.movie_length == 2:
+            self.movie_length = 120
+        if self.movie_length == 3:
+            self.movie_length = 180
         
     def process_info_genres(self, info_entry):
         s = info_entry.select('span')[1].get_text()
@@ -210,9 +220,12 @@ class Movie(object):
             # for a few movies which has been re-released, the domestic box office table is at another page.
             # e.g. https://www.boxofficemojo.com/title/tt0816692
             realease_table = self.crawl_boxoffice_info_helper(realease_table)
-        assert(len(realease_table.select('tr')) == 2)   # rows of table 
-        assert(len(realease_table.select('tr')[1].select('td')) == 4)   # columns of table 
-        assert(realease_table.select('tr')[1].select('td')[0].get_text() == "Domestic")
+        try:
+            assert(len(realease_table.select('tr')) == 2)   # rows of table 
+            assert(len(realease_table.select('tr')[1].select('td')) == 4)   # columns of table 
+            assert(realease_table.select('tr')[1].select('td')[0].get_text() == "Domestic")
+        except:
+            return
         self.rl_id = realease_table.select('tr')[1].select('td')[0].a['href'].split('?')[0].split('/')[2]
         release_date = realease_table.select('tr')[1].select('td')[1].get_text()
         self.release_date = self.parse_date(release_date)
@@ -220,14 +233,20 @@ class Movie(object):
         if today < self.release_date:
             self.released = False
             return
-        money_opening = realease_table.select('tr')[1].select('td')[2].get_text()
-        self.bo_opening = float(Decimal(re.sub(r'[^\d.]', '', money_opening))) / 1000000.0
-        money_gross = realease_table.select('tr')[1].select('td')[3].get_text()
-        self.bo_gross = float(Decimal(re.sub(r'[^\d.]', '', money_gross))) / 1000000.0
+        try:
+            money_opening = realease_table.select('tr')[1].select('td')[2].get_text()
+            self.bo_opening = float(Decimal(re.sub(r'[^\d.]', '', money_opening))) / 1000000.0
+            money_gross = realease_table.select('tr')[1].select('td')[3].get_text()
+            self.bo_gross = float(Decimal(re.sub(r'[^\d.]', '', money_gross))) / 1000000.0
+        except:
+            return
         
         
     def crawl_boxoffice_info_helper(self, realease_table):
-        assert(realease_table.select('tr')[1].select('td')[0].a.get_text() == "Original Release")
+        try:
+            assert(realease_table.select('tr')[1].select('td')[0].a.get_text() == "Original Release")
+        except:
+            return
         ref = "https://www.boxofficemojo.com" + realease_table.select('tr')[1].select('td')[0].a['href']
         temp_res = requests.get(ref, headers=headers)
         temp_soup = BeautifulSoup(temp_res.text, 'html5lib')
@@ -269,11 +288,14 @@ class Movie(object):
         self.director = crew_df[crew_df['Role'] == 'Director']['Crew Member'].iloc[0]
         actor_table = crew_soup.select('table')[1].prettify()
         actor_df = pandas.read_html(actor_table)[0]
-        actor1 = actor_df['Actor'].iloc[0]
-        self.actors = actor1
-        if actor_df.shape[0] > 1: 
-            actor2 = actor_df['Actor'].iloc[1]
-            self.actors += "," + actor2
+        keep = min(4, actor_df.shape[0])  # keep at most 4 actors
+        actor_df = actor_df.loc[:keep, :]
+        self.actors = ",".join(actor_df['Actor'].to_list())
+#         actor1 = actor_df['Actor'].iloc[0]
+#         self.actors = actor1
+#         if actor_df.shape[0] > 1: 
+#             actor2 = actor_df['Actor'].iloc[1]
+#             self.actors += "," + actor2
         
     def crawl_boxoffice_byWeek(self):
         time_range = "weekly"

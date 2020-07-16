@@ -1,21 +1,19 @@
 Clint Eastwood
 Tyler Perry
 Anthony Russo
-Tim Story
-Antoine Fuqua
 Jaume Collet-Serra
 Ridley Scott
 Sean Anders
 Paul Feig
-Deon Taylor
 Francis Lawrence
 Michael Bay
 Bryan Singer
 Nicholas Stoller
+Tim Story
 Wes Ball
+Antoine Fuqua
 David Ayer
 Ben Falcone
-Lasse Hallström
 James Bobin
 Kenneth Branagh
 Chad Stahelski
@@ -28,3 +26,4 @@ James Wan
 F. Gary Gray
 Steven Spielberg
 M. Night Shyamalan
+Denis Villeneuve

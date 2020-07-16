@@ -1,3 +1,13 @@
+#!/usr/bin/env python
+
+"""
+Test Streamlit
+
+Author: Zhengyang Zhao
+Date: Jun. 13 2020.
+"""
+
+import os
 import time 
 import sys
 import random
@@ -10,7 +20,6 @@ import webbrowser
 from bokeh.models.widgets import Div
 import streamlit as st
 
-import mojo_api
 
 # st.write('Hello, world!')
 # st.write('Hello, *World!* :sunglasses:')
@@ -22,121 +31,100 @@ import mojo_api
 # st.text("Text1\nText2")
 # st.markdown('Streamlit is **_really_ cool**.')
 
+# Insert image:
+# st.image("./image0.png", use_column_width=True)
+
 # Image Link:
 # link_md = "[![](image0.png)](https://streamlit.io)"
 # st.markdown(link_md)
 
-st.title("Welcome to Trailer Miner!")
 
-st.subheader("Please input a movie title:")
-user_movie = st.text_input("", value="Avengers: Endgame")
+# Example:
 
-movie = mojo_api.Movie()
-find_movie = movie.get_app_movie_info(user_movie)
-if not find_movie:
-    st.subheader("Sorry, movie '*{}*' is not found, please retry with a standard IMDB movie title.".format(user_movie))
-else:
-    st.subheader("Information for *{}*:".format(movie.title))
-    movie_info_md = """
-        - **Production company**: {}
-        - **Release date**: {}
-        - **MPAA**: {}
-        - **Runtime**: {} min
-        - **Genres**: {}
-        - **Director**: {}
-        - **Actors**: {}
-        """.format(movie.company, movie.release_date, movie.mpaa, movie.movie_length, \
-                   ", ".join(movie.genres.split(",")),\
-                   ", ".join(movie.director.split(",")),\
-                   ", ".join(movie.actors.split(",")))
-    st.markdown(movie_info_md)
-    
-    st.subheader("Box office prediction:")
-    bo_opening = movie.bo_opening
-    bo_gross = movie.bo_gross
-    bo_opening_pred_metaonly = random.uniform(50, 300)
-    bo_opening_pred_overall = random.uniform(50, 300)
-    if movie.released: 
-        movie_bo_md = """
-        - **Real opening box office**: ${:.2f} M
-        - **Predicted opening box office (use metadata only)**: ${:.2f} M
-        - **Predicted opening box office (use metadata + trailer)**: ${:.2f} M
-        """.format(bo_opening, bo_opening_pred_metaonly, bo_opening_pred_overall)
-    else:
-        movie_bo_md = """
-        - **Real opening box office**: not available yet.
-        - **Predicted opening box office (use metadata only)**: ${:.2f} M
-        - **Predicted opening box office (use metadata + trailer)**: ${:.2f} M
-        """.format(bo_opening_pred_metaonly, bo_opening_pred_overall)
-    st.markdown(movie_bo_md)
+# x = st.slider('Select a value')
+# st.write(x, 'squared is', x * x)
 
-    
+# progress_bar = st.progress(0)
+# status_text = st.empty()
+# last_rows = np.random.randn(1, 1)
+# chart = st.line_chart(last_rows)
 
-    st.subheader("")
-    if st.button('Go to Trailer1'):
-        url = 'https://www.streamlit.io/'
-        webbrowser.open_new_tab(url)
-    #     js = "window.open(url)"  # New tab or window
-    #     js = "window.location.href = 'https://www.streamlit.io/'"  # Current tab
-    #     html = '<img src onerror="{}">'.format(js)
-    #     div = Div(text=html)
-    #     st.bokeh_chart(div)   
+# for i in range(1, 101):
+#     new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)
+#     status_text.text("%i%% Complete" % i)
+#     chart.add_rows(new_rows)
+#     progress_bar.progress(i)
+#     last_rows = new_rows
+#     time.sleep(0.001)
 
-    if st.button('Go to Trailer2'):
-        url = 'https://www.streamlit.io/'
-        webbrowser.open_new_tab(url)
-        
-# image = Image.open("./image0.png")
-st.image("./image0.png", use_column_width=True)
+# # progress_bar.empty()
+
+# chart_data = pd.DataFrame(
+#                 np.random.randn(20, 3),
+#                 columns=['a', 'b', 'c'])
+# st.line_chart(chart_data)
 
 
-x = st.slider('Select a value')
-st.write(x, 'squared is', x * x)
+# st.title("Welcome to Trailer Miner!")
 
-progress_bar = st.progress(0)
-status_text = st.empty()
-last_rows = np.random.randn(1, 1)
-chart = st.line_chart(last_rows)
-
-for i in range(1, 101):
-    new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)
-    status_text.text("%i%% Complete" % i)
-    chart.add_rows(new_rows)
-    progress_bar.progress(i)
-    last_rows = new_rows
-    time.sleep(0.001)
-
-# progress_bar.empty()
-
-chart_data = pd.DataFrame(
-                np.random.randn(20, 3),
-                columns=['a', 'b', 'c'])
-st.line_chart(chart_data)
-
-# Streamlit widgets automatically run the script from top to bottom. Since
-# this button is not connected to any other logic, it just causes a plain
-# rerun.
-# st.button("Re-run")
+# st.subheader("Please input a movie title:")
 
 
-file = "./data/temp/2019_27_zyYgDtY2AMY.csv"
-df = pd.read_csv(file)
-df['timestamp'] = df['timestamp'].apply(lambda x : x[:19])
-df['datetime'] = pd.to_datetime(df['timestamp'], format="%Y-%m-%dT%H:%M:%S")
-df['Year-Month'] = df['datetime'].apply(lambda x: "{:d}-{:02d}".format(x.year, x.month))
-df.sort_values('datetime')
 
-# Sentiment extraction
-df['Sentiment'] = df['text'].apply(lambda x: TextBlob(x).sentiment.polarity)
-df['isPos'] = df['Sentiment'].apply(lambda x: x > 0.2)
-df['isNeg'] = df['Sentiment'].apply(lambda x: x < -0.2)
-df_agg = df.groupby(['Year-Month']).agg({
-                "datetime": "first",
-                "text": "count",
-                "isPos": "sum",
-                "isNeg": "sum",
-            })
-df_agg['pos_ratio'] = df_agg['isPos'] / df_agg['text']
-df_agg['neg_ratio'] = df_agg['isNeg'] / df_agg['text']
+html = """
+  <style>
+    /* Disable overlay (fullscreen mode) buttons */
+    .overlayBtn {
+      display: none;
+    }
 
-st.line_chart(df_agg.set_index("datetime")[['isPos', 'isNeg']])
+    /* Remove horizontal scroll */
+    .element-container {
+      width: auto !important;
+    }
+
+    .fullScreenFrame > div {
+      width: auto !important;
+    }
+
+    /* 2nd thumbnail */
+    .element-container:nth-child(4) {
+      top: -266px;
+      left: 350px;
+    }
+
+    /* 1st button */
+    .element-container:nth-child(3) {
+      left: 10px;
+      top: -60px;
+    }
+
+    /* 2nd button */
+    .element-container:nth-child(5) {
+      left: 360px;
+      top: -326px;
+    }
+  </style>
+"""
+# st.markdown(html, unsafe_allow_html=True)
+
+# st.image("https://www.w3schools.com/howto/img_forest.jpg", width=300)
+# st.button("Show", key=1)
+
+# st.image("https://www.w3schools.com/howto/img_forest.jpg", width=300)
+# st.button("Show", key=2)
+
+image1 = "https://www.w3schools.com/howto/img_forest.jpg"
+image2 = "https://www.w3schools.com/howto/img_forest.jpg"
+
+href1 = "https://docs.streamlit.io/"
+caption1 = "Trailer 1"
+
+bbb = """
+        <table><tr>
+        <td> <a href={} target="_blank"><img src={} alt="Drawing" style="width: 200px;"/><figcaption>Fig.1</figcaption> </td>
+        <td> <img src={} alt="Drawing" style="width: 200px;"/> </td>
+        </tr></table>
+        """.format(href1, image1, image2,)
+st.markdown(bbb, unsafe_allow_html=True)
+st.write(bbb)
