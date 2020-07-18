@@ -70,15 +70,15 @@ import time
 import sys
 import logging
 import random
+import traceback
+import pathlib
+from bs4 import BeautifulSoup
+
 import numpy as np
 import pandas as pd
-
-import traceback
-from apiclient.discovery import build
 from textblob import TextBlob
-from PIL import Image
-import webbrowser
-from bokeh.models.widgets import Div
+
+from apiclient.discovery import build
 import streamlit as st
 
 import chart_studio
@@ -152,6 +152,8 @@ def get_trailer_list(movie, trailer_list_df):
         trailer_df = trailer_df[trailer_df.viewCount >= 1e5]
         
         # Keep atmost 3 trailers for each movie:
+        if trailer_df.shape[0] == 0:
+            return [], trailer_list_df
         max_viewCount = trailer_df["viewCount"].max()
         trailer_df.loc[:, 'remove'] = False
         for i in trailer_df.index:
@@ -189,6 +191,7 @@ def get_trailer_comments(video_id, trailer_list_df, trailer_comments_raw_dir, tr
     Given the trailer's video_id, scrape, process and store trailer comments.
     """
     if video_id+".csv" not in os.listdir(trailer_comments_dir):
+        progress_string = st.text('Collecting comments from www.youtube.com/watch?v={} ...'.format(video_id))
         
         # Fetch comments using youtube-api (similar with notebook 12):
         youtube = random_select_youtube_api_key()
@@ -211,6 +214,7 @@ def get_trailer_comments(video_id, trailer_list_df, trailer_comments_raw_dir, tr
         df.to_csv(os.path.join(trailer_comments_dir, video_id+".csv"), index=False)
         
         logger.warning("Fetch trailer comments on Youtube. Trailer: {}".format(video_id))
+        progress_string.empty()
 
 
 def display_movie_info(movie):
@@ -280,8 +284,8 @@ def display_trailer_comments(movie, trailer_list, trailer_comments_dir):
             comment_df = comment_df.append(tr_df, ignore_index=True)
         
         # plot comment sentiment
-        st.subheader("Sentiment of trailer comments:")
-        logger.info("Sentiment of trailer comments:")
+        st.subheader("Sentiment of Youtube comments on above trailers:")
+        logger.info("Sentiment of Youtube comments on above trailers:")
         comment_fig = plot_comment_df(comment_df)
         st.plotly_chart(comment_fig, use_container_width=True)
 
@@ -394,9 +398,10 @@ def display_bo_prediction(movie, cache_df, trailer_list_df):
     if movie.budget is None or movie.budget is np.nan:
         st.subheader("Sorry, budget of the movie is not found. Thus can't do box office prediction.")
         logger.info("Sorry, budget of the movie is not found. Thus can't do box office prediction.")
+        return
     else: 
-        st.subheader("Opening box office prediction:")
-        logger.info("Opening box office prediction:")
+        st.subheader("Prediction of first week box office:")
+        logger.info("Prediction of first week box office:")
         
     df = df.reset_index(drop=True)
     X_wTrailer, y_wTrailer = build_features(df, with_Trailer=True)
@@ -410,10 +415,10 @@ def display_bo_prediction(movie, cache_df, trailer_list_df):
     fig, ax = plt.subplots(figsize=(10, 5))
     plt.margins(0.05)
     data = [pred_woTrailer.reshape(-1), pred_wTrailer.reshape(-1)]
-    ax.boxplot(data, showmeans=False, labels=['Without Trailer Info', 'With Trailer Info'])
+    ax.boxplot(data, showmeans=False, labels=['Predict Without Trailer Info', 'Predict With Trailer Info'], sym='')
     # ax.set_xticklabels(labels=['Without Trailer Comments', 'With Trailer Comments'], fontsize=14)
     ax.tick_params(axis='both', which='major', labelsize=14)
-    ax.set_ylabel("Opening Box Office ($M)", fontsize=16)
+    ax.set_ylabel("Predicted Box Office ($M)", fontsize=16)
     
     if true_openingBO is not None and true_openingBO is not np.nan:
         plt.axhline(y=true_openingBO, color='b', linestyle='-')
@@ -422,6 +427,10 @@ def display_bo_prediction(movie, cache_df, trailer_list_df):
         plt.text(1.25, true_openingBO_p*1.03 , 'True value + 30%', dict(size=16, color='blue'))
         plt.axhline(y=true_openingBO_m, color='b', linestyle=':')
         plt.text(1.25, true_openingBO_m*1.03 , 'True value - 30%', dict(size=16, color='blue'))
+        y_lim = list(ax.get_ylim())
+        y_lim[0] = min(y_lim[0], true_openingBO*0.5)
+        y_lim[1] = max(y_lim[1], true_openingBO*1.5)
+        ax.set_ylim(y_lim)
     st.pyplot(fig)
     
     
@@ -517,6 +526,40 @@ def build_features(df, with_Trailer=True):
     
 if __name__ == "__main__":
     
+    initialize_logger()
+    
+    ###############################################
+    ########## Setup Google Analytics #############
+    # See:
+    # https://developers.google.com/analytics/devguides/collection/analyticsjs
+    # https://discuss.streamlit.io/t/how-to-add-google-analytics-or-js-code-in-a-streamlit-app/1610
+    
+    # Google Analytics account: zzy**ly, time-zone selection: Chicago.
+    
+    # Insert the script in the head tag of the static template inside your virtual environement
+    GA_JS = """
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-172987294-1');
+    """
+    index_path = pathlib.Path(st.__file__).parent / "static" / "index.html"
+    soup = BeautifulSoup(index_path.read_text(), features="lxml")
+    if not soup.find(id='GoogleAnalytics-js'):
+        script_tag_0 = soup.new_tag("script", id='GoogleAnalytics-js', \
+                                    src="https://www.googletagmanager.com/gtag/js?id=UA-172987294-1")
+        script_tag_0.attrs['async'] = None
+        script_tag_1 = soup.new_tag("script", id='GoogleAnalytics-js')
+        script_tag_1.string = GA_JS
+        soup.head.append(script_tag_0)
+        soup.head.append(script_tag_1)
+        index_path.write_text(str(soup))
+        logger.info("****** Setup Google Analytics js script...")
+        logger.info("****** {}".format(script_tag_0))
+    ###############################################
+    
+    
     # load models
     global crew_power
     crew_power = True
@@ -540,11 +583,11 @@ if __name__ == "__main__":
         s = f.read().split('\n')
     chart_studio.tools.set_credentials_file(username=s[0], api_key=s[1])
     
-    initialize_logger()
     
-    st.title("Welcome to Trailer Miner!")
+    st.title("Trailer Miner")
+    st.markdown("**_Can the comments about a trailer predict the success of the movie?_**")
 
-    st.subheader("Please input the title of your interested movie (case-insensitive):")
+    st.subheader("To start, type a movie title (case-insensitive):")
     user_movie = st.text_input("", value="Joker")
     logger.info("=" * 30)
     logger.info("INPUT: {}".format(user_movie))
