@@ -1,5 +1,5 @@
-/private_api_key
-/data/trailer_comments_raw
+/private_api_key/*
+/data/trailer_comments_raw/*
 /__pycache__
 .ipynb_checkpoints
 /.gitattributes
