@@ -1,0 +1,478 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2016-09-22T03:00:34,ok,0,0,Brad Shand,9aIzXYo6VCE,0.5,2016-09-22 03:00:34,True,True
+2016-09-22T03:00:53,first,1,2,Ethkas,9aIzXYo6VCE,0.25,2016-09-22 03:00:53,True,True
+2016-09-22T03:01:53,Looks meh,13,3,Divinus Secreto,9aIzXYo6VCE,0.0,2016-09-22 03:01:53,True,True
+2016-09-22T03:02:45,82 and a half,0,0,FartLaser 892,9aIzXYo6VCE,-0.16666666666666666,2016-09-22 03:02:45,True,True
+2016-09-22T03:02:57,This looks so funny. Not.,0,0,Nighthawk,9aIzXYo6VCE,0.25,2016-09-22 03:02:57,True,True
+2016-09-22T03:03:16,This looks terrible,1,1,slickaziandude101,9aIzXYo6VCE,-1.0,2016-09-22 03:03:16,True,True
+2016-09-22T03:03:21,hello,0,0,Irma Espinosa,9aIzXYo6VCE,0.0,2016-09-22 03:03:21,True,True
+2016-09-22T03:04:27,trailer for the trailer before the trailer? dislike,0,0,Adoro Filmes,9aIzXYo6VCE,0.0,2016-09-22 03:04:27,True,True
+2016-09-22T03:05:16,Looks promising. But probably a miss.,5,1,Sena setunga,9aIzXYo6VCE,0.2,2016-09-22 03:05:16,True,True
+2016-09-22T03:05:56,"Here before this goes viral , sikeee",4,0,Denis Sokhom,9aIzXYo6VCE,0.0,2016-09-22 03:05:56,True,True
+2016-09-22T03:07:04,This has to be rated R. That's the only way it'll be honestly good.,275,12,Rudy Juarez,9aIzXYo6VCE,0.35,2016-09-22 03:07:04,True,True
+2016-09-22T03:08:33,what's the song name?,5,1,Tadeu Henrique,9aIzXYo6VCE,0.0,2016-09-22 03:08:33,True,True
+2016-09-22T03:08:38,So what is the reason why they're fighting lol,37,9,Bruce Wayne,9aIzXYo6VCE,0.8,2016-09-22 03:08:38,True,True
+2016-09-22T03:08:49,who the fuck green-lights this bullshit,0,0,Zed,9aIzXYo6VCE,-0.4,2016-09-22 03:08:49,True,True
+2016-09-22T03:11:28,Oh great. More High School bullshit.,0,0,Brian ORB Lindsey,9aIzXYo6VCE,0.48666666666666664,2016-09-22 03:11:28,True,True
+2016-09-22T03:11:50,i am down. anyone else,221,4,Keane Martin,9aIzXYo6VCE,-0.15555555555555559,2016-09-22 03:11:50,True,True
+2016-09-22T03:15:16,Lil kid siting on the dumpster at the beginning got the funniest shock face ever lmaoo,8,0,Wave God,9aIzXYo6VCE,0.0,2016-09-22 03:15:16,True,True
+2016-09-22T03:16:00,WTF 911?!,1,0,Mistah_Sinister99,9aIzXYo6VCE,-0.625,2016-09-22 03:16:00,True,True
+2016-09-22T03:16:14,Any movie with Charlie Day I will watch! He's a funny guy!,2,0,WndrWmn72 A,9aIzXYo6VCE,0.3125,2016-09-22 03:16:14,True,True
+2016-09-22T03:17:24,Looks good. Too bad all these cool jokes just got spoiled and no one's really going to laugh when they see the exact same jokes in theaters,0,0,Playinitwood,9aIzXYo6VCE,0.15714285714285717,2016-09-22 03:17:24,True,True
+2016-09-22T03:18:23,I can't wait to see this! On TBS.,0,0,Izzy Ti,9aIzXYo6VCE,0.0,2016-09-22 03:18:23,True,True
+2016-09-22T03:20:16,Someone fight me!,0,0,Shellyman Studios,9aIzXYo6VCE,0.0,2016-09-22 03:20:16,True,True
+2016-09-22T03:20:31,Go on and take that ass whoop'n lmao,3,0,Deven Fuentes,9aIzXYo6VCE,0.6,2016-09-22 03:20:31,True,True
+2016-09-22T03:20:51,Corny as fuck,1,0,Infamous Numero Uno,9aIzXYo6VCE,-0.4,2016-09-22 03:20:51,True,True
+2016-09-22T03:22:01,This better have sea creatures in this movie,0,0,AUGIE Productions,9aIzXYo6VCE,0.5,2016-09-22 03:22:01,True,True
+2016-09-22T03:25:34,I'm seeing it purely because Charlie Day is in it,18,0,Am,9aIzXYo6VCE,0.21428571428571427,2016-09-22 03:25:34,True,True
+2016-09-22T03:28:00,The Wild Card,1,0,ShittyVlog,9aIzXYo6VCE,0.1,2016-09-22 03:28:00,True,True
+2016-09-22T03:28:24,I will see this just for Charlie Day.,0,0,Darklord Verrick,9aIzXYo6VCE,0.0,2016-09-22 03:28:24,True,True
+2016-09-22T03:29:55,Teacher vs. Teacher,0,0,Johnny,9aIzXYo6VCE,0.0,2016-09-22 03:29:55,True,True
+2016-09-22T03:30:41,I remember when I was in high school and on my last senior day I started a food fight at the cafeteria. Now I work in McDonald's,793,13,Marcos Amparo,9aIzXYo6VCE,0.08,2016-09-22 03:30:41,True,True
+2016-09-22T03:33:01,looks pg-13,2,0,The Master Baetor,9aIzXYo6VCE,0.0,2016-09-22 03:33:01,True,True
+2016-09-22T03:33:50,Saw Charlie Day in the thumbnail and clicked on this as fast as possible.,2,0,Unique Caleb,9aIzXYo6VCE,0.1,2016-09-22 03:33:50,True,True
+2016-09-22T03:35:02,Lmao this seems hilarious,1,0,MrSham3less,9aIzXYo6VCE,0.55,2016-09-22 03:35:02,True,True
+2016-09-22T03:35:26,Cast is great but premise looks too thin to be a full movie,43,5,Mayur,9aIzXYo6VCE,0.25,2016-09-22 03:35:26,True,True
+2016-09-22T03:38:57,Any movie with Ice Cube in it is always gonna be epic af,0,0,Jess A,9aIzXYo6VCE,0.1,2016-09-22 03:38:57,True,True
+2016-09-22T03:39:07,Wow I cant even think of a drug that would make this movie fun to watch,2,1,Ruby Night,9aIzXYo6VCE,0.2,2016-09-22 03:39:07,True,True
+2016-09-22T03:40:30,Sign me the fuck up,2,0,Prince,9aIzXYo6VCE,-0.4,2016-09-22 03:40:30,True,True
+2016-09-22T03:42:20,that's poor taste using Biggie and Pac,0,0,war_walker,9aIzXYo6VCE,-0.4,2016-09-22 03:42:20,True,True
+2016-09-22T03:44:01,"ice cube vs the guy from always sunny in Philadelphia, can't wait.",149,5,MrClaude,9aIzXYo6VCE,0.0,2016-09-22 03:44:01,True,True
+2016-09-22T03:44:10,"Nothing to see here, just some people collecting pay checks",2,1,sanderflop,9aIzXYo6VCE,0.0,2016-09-22 03:44:10,True,True
+2016-09-22T03:46:18,"I Know This Shit is going be Funny, I Can't Wait",2,0,TheKingWizard,9aIzXYo6VCE,0.024999999999999994,2016-09-22 03:46:18,True,True
+2016-09-22T03:47:17,its good,0,0,Super7 Hero,9aIzXYo6VCE,0.7,2016-09-22 03:47:17,True,True
+2016-09-22T03:48:53,"lol, this looks hilarious.",1,0,Chinpokoman,9aIzXYo6VCE,0.65,2016-09-22 03:48:53,True,True
+2016-09-22T03:57:11,"*My god, don't put this 5 seconds teaser on the freaking trailer!*",92,17,Steve Rogers,9aIzXYo6VCE,0.0,2016-09-22 03:57:11,True,True
+2016-09-22T04:01:46,"*I don't know. . . I usually don't like movies where the actors laugh to sign us to laugh, because the script should do this for us, so if they're doing, the jokes probably sucks hard.*",6,4,Steve Rogers,9aIzXYo6VCE,-0.04833333333333334,2016-09-22 04:01:46,True,True
+2016-09-22T04:03:55,Is this  comment stupid?,0,1,Orange Deer,9aIzXYo6VCE,-0.7999999999999999,2016-09-22 04:03:55,True,True
+2016-09-22T04:10:44,Looks funny 👌,0,0,The Donutvan,9aIzXYo6VCE,0.25,2016-09-22 04:10:44,True,True
+2016-09-22T04:20:26,"""you're a grown man, now go on and take that ass whoopin"", some funny shit",12,0,Mr Not That Famous,9aIzXYo6VCE,0.024999999999999994,2016-09-22 04:20:26,True,True
+2016-09-22T04:31:26,"this is shit, but a good shit",26,2,juan moreno,9aIzXYo6VCE,0.09999999999999998,2016-09-22 04:31:26,True,True
+2016-09-22T04:31:29,awesome! Good to see Tracy Morgan back in action!,58,11,Victor Creed,9aIzXYo6VCE,0.45625,2016-09-22 04:31:29,True,True
+2016-09-22T04:33:28,Ice cube he's my homie,1,0,DragoonVSgamin GG,9aIzXYo6VCE,0.0,2016-09-22 04:33:28,True,True
+2016-09-22T04:34:05,Dat nut punch tho,0,0,leslie gatlin,9aIzXYo6VCE,0.0,2016-09-22 04:34:05,True,True
+2016-09-22T04:34:29,"king of the rats, bash em throw em in the traaaash.",1,0,BudleyBailey,9aIzXYo6VCE,0.0,2016-09-22 04:34:29,True,True
+2016-09-22T04:49:32,Watch ice cute get knocked out slipping on an ice cube lol,0,0,The Wheel,9aIzXYo6VCE,0.4000000000000001,2016-09-22 04:49:32,True,True
+2016-09-22T04:55:18,I'll have the milksteak boiled over hard and a side of your finest jelly beans..raw,123,5,John Smith91,9aIzXYo6VCE,-0.2916666666666667,2016-09-22 04:55:18,True,True
+2016-09-22T05:01:12,"That's cool, a movie about bullying",0,0,jmanxoom,9aIzXYo6VCE,0.35,2016-09-22 05:01:12,True,True
+2016-09-22T05:10:19,This looks terrible. I like the people in it fine but this is just a mess.,2,4,Jarrett Edwards,9aIzXYo6VCE,-0.25277777777777777,2016-09-22 05:10:19,True,True
+2016-09-22T05:12:04,wtf,1,0,Victor Ruiz,9aIzXYo6VCE,-0.5,2016-09-22 05:12:04,True,True
+2016-09-22T05:13:29,Christina Hendricks 😄,1,0,Justin,9aIzXYo6VCE,0.0,2016-09-22 05:13:29,True,True
+2016-09-22T05:23:02,the cast in this is unreal. can't wait for this!,0,0,Cameron Kok,9aIzXYo6VCE,0.0,2016-09-22 05:23:02,True,True
+2016-09-22T05:23:30,3 O'clock high ?,2,0,Eric Folmz,9aIzXYo6VCE,0.16,2016-09-22 05:23:30,True,True
+2016-09-22T05:24:47,I'm down. Lol,1,0,Skynet Dreams,9aIzXYo6VCE,0.32222222222222224,2016-09-22 05:24:47,True,True
+2016-09-22T05:29:52,Tenner this sucks a bag of dicks.,0,0,Monkballkyle,9aIzXYo6VCE,-0.3,2016-09-22 05:29:52,True,True
+2016-09-22T05:49:08,Whats the ost used in this trailer called?,0,1,Hassan Kookiez,9aIzXYo6VCE,0.0,2016-09-22 05:49:08,True,True
+2016-09-22T05:50:41,"lol cant wait for the movie, i love 1:32",0,0,Sinfulbliss,9aIzXYo6VCE,0.65,2016-09-22 05:50:41,True,True
+2016-09-22T05:51:26,What's the song in the background?,4,1,Mr sniper,9aIzXYo6VCE,0.0,2016-09-22 05:51:26,True,True
+2016-09-22T05:52:05,"""...after school you better run to a yo car, class clown already know I'm a star!""  -Ice Cube",0,0,RXME,9aIzXYo6VCE,0.625,2016-09-22 05:52:05,True,True
+2016-09-22T05:57:56,just damn,0,0,FatmanDD1,9aIzXYo6VCE,0.0,2016-09-22 05:57:56,True,True
+2016-09-22T06:03:29,"It's like Three O'Clock High, but with teachers lol",113,12,ChaoticMatters,9aIzXYo6VCE,0.48000000000000004,2016-09-22 06:03:29,True,True
+2016-09-22T06:07:12,charlie day is the only person in history who's screamings make me laugh,13,0,kasra khatir,9aIzXYo6VCE,0.15,2016-09-22 06:07:12,True,True
+2016-09-22T06:31:20,Reminds me of my first day of high school. 2 stabbings before lunch time. And then we had the rest of the day off.  School just isn't the same anymore is it for the young people like back in the day. Too bad it was much more exciting years ago.,0,0,Herc Zeus,9aIzXYo6VCE,0.07625000000000001,2016-09-22 06:31:20,True,True
+2016-09-22T06:48:38,WTF is this,0,1,The WaCkY Mooder,9aIzXYo6VCE,-0.5,2016-09-22 06:48:38,True,True
+2016-09-22T06:53:16,The shit looks hilarious!! I'm going to try and get my wife to watch this when it comes out.,0,0,THEBOXINGSAMURAI KTP,9aIzXYo6VCE,0.290625,2016-09-22 06:53:16,True,True
+2016-09-22T06:57:30,Charlie Day's voice kills me Horrible Bosses 2 will never get old,0,0,Wasiu Adeyeye,9aIzXYo6VCE,-0.45,2016-09-22 06:57:30,True,True
+2016-09-22T07:07:25,So it's like Three O' Clock High where that skinny kid tries to avoid fighting the School Psycho Buddy Revell? Fuck you Hollywood.,2,1,Damjan Plamenac,9aIzXYo6VCE,-0.11333333333333334,2016-09-22 07:07:25,True,True
+2016-09-22T07:13:23,idk this seems like it will have 1 or 2 funny scenes in it with a few jokes but overall a shit movie,0,0,Holyflygon,9aIzXYo6VCE,-0.037500000000000006,2016-09-22 07:13:23,True,True
+2016-09-22T07:22:00,What a stupid premise for a film.,2,6,oogity-boogity woogity,9aIzXYo6VCE,-0.7999999999999999,2016-09-22 07:22:00,True,True
+2016-09-22T07:24:35,didnt even mention Cap America vs Ironman. u mugfuckas bedda put sum respec on the Caps name.,0,0,Daz Krackin,9aIzXYo6VCE,0.0,2016-09-22 07:24:35,True,True
+2016-09-22T07:37:26,LOOKS FUNNY ICECUBE,1,0,kendall cuthand,9aIzXYo6VCE,0.25,2016-09-22 07:37:26,True,True
+2016-09-22T08:22:49,So whats the point of the fist fight? I dont get it.,0,1,Ash Menon,9aIzXYo6VCE,0.0,2016-09-22 08:22:49,True,True
+2016-09-22T08:27:28,Anything Charlie does im watching!,0,0,PietreADI,9aIzXYo6VCE,0.0,2016-09-22 08:27:28,True,True
+2016-09-22T08:44:52,finally no kevin hart!,299,14,DipoM,9aIzXYo6VCE,0.0,2016-09-22 08:44:52,True,True
+2016-09-22T09:16:17,really WB? really?,0,0,Haroun Siladjan,9aIzXYo6VCE,0.2,2016-09-22 09:16:17,True,True
+2016-09-22T09:59:49,"hahaha i get it, that guy's weak, and the other guy is strong, ahhahahaha cant wait to hear jokes about how weak he is for 2 hours hahahahahahha.",0,0,Jack Dutfield,9aIzXYo6VCE,-0.04833333333333334,2016-09-22 09:59:49,True,True
+2016-09-22T10:00:05,Oh dear.    Testosterone is dragging us back to the Stone Age.   Warner Brothers are pathetic.,0,2,Gra Piken,9aIzXYo6VCE,-0.5,2016-09-22 10:00:05,True,True
+2016-09-22T10:21:42,Wow! I wonder who's gonna win?...smh,0,0,Nkazi Sibanda,9aIzXYo6VCE,0.125,2016-09-22 10:21:42,True,True
+2016-09-22T10:25:56,"Lol this trailer is so good, I might actually see this movie!",0,0,K. Bermejo,9aIzXYo6VCE,0.5,2016-09-22 10:25:56,True,True
+2016-09-22T10:34:50,"way off topic, somebody has to know the name of this song. It has slipped my memory. Big fan of ominous music down to the Halo theme song xD",0,0,John David,9aIzXYo6VCE,-0.07777777777777779,2016-09-22 10:34:50,True,True
+2016-09-22T11:20:13,Didn't expect this was gonna be this funny. XD,4,0,Kal-El fan 49,9aIzXYo6VCE,0.25,2016-09-22 11:20:13,True,True
+2016-09-22T11:20:51,this looks more like an episode rather than a movie,0,0,SPURT,9aIzXYo6VCE,0.5,2016-09-22 11:20:51,True,True
+2016-09-22T11:44:43,Lol👻👽,0,0,only257,9aIzXYo6VCE,0.0,2016-09-22 11:44:43,True,True
+2016-09-22T11:58:02,when its going to be played,0,0,GameForFun,9aIzXYo6VCE,0.0,2016-09-22 11:58:02,True,True
+2016-09-22T11:59:31,i hope in the end they have a long family guy style fight. i'd pay to see a full lengh movie dedicated to that,13,1,Cyberdemon,9aIzXYo6VCE,0.15,2016-09-22 11:59:31,True,True
+2016-09-22T12:14:22,Shit,1,0,Geo Cho,9aIzXYo6VCE,-0.2,2016-09-22 12:14:22,True,True
+2016-09-22T12:15:00,how dare they put 2pac vs biggie,0,1,keith Parker,9aIzXYo6VCE,0.0,2016-09-22 12:15:00,True,True
+2016-09-22T12:17:21,Three O'clock High,0,0,ThePsychicSasquatch,9aIzXYo6VCE,0.16,2016-09-22 12:17:21,True,True
+2016-09-22T12:24:06,"A premissa desse filme é boa, vamos ver o que vai dar!",0,0,Sandor Clegane,9aIzXYo6VCE,0.0,2016-09-22 12:24:06,True,True
+2016-09-22T12:53:00,and who said teacher are boring!!🤔,1,0,Sandeep,9aIzXYo6VCE,0.0,2016-09-22 12:53:00,True,True
+2016-09-22T12:59:36,a kevin hart movie that doesnt star kevin hart?!,0,0,yaya yaseen,9aIzXYo6VCE,0.0,2016-09-22 12:59:36,True,True
+2016-09-22T13:01:11,I don't know why but this looks amazing.. such an epic trailer for the stupidest concept film ever. I can't wait!,352,1,RealCoolGuy,9aIzXYo6VCE,0.2416666666666667,2016-09-22 13:01:11,True,True
+2016-09-22T13:08:38,"Wow. Does Ice Cube play anything else but a snarling, scary, angry dude?",0,0,T. E. Burgos,9aIzXYo6VCE,-0.3,2016-09-22 13:08:38,True,True
+2016-09-22T13:31:15,this is the teacher version of 3 o clock high,10,1,XJ G,9aIzXYo6VCE,0.16,2016-09-22 13:31:15,True,True
+2016-09-22T13:40:25,New Ice Cube movie!!! 💛,0,0,Saffat AHMED,9aIzXYo6VCE,0.26633522727272724,2016-09-22 13:40:25,True,True
+2016-09-22T13:52:55,what the song please,0,0,amin asakereh,9aIzXYo6VCE,0.0,2016-09-22 13:52:55,True,True
+2016-09-22T13:53:00,what the song please,0,0,amin asakereh,9aIzXYo6VCE,0.0,2016-09-22 13:53:00,True,True
+2016-09-22T14:14:39,Sold!!,1,0,HAPPY DREAMER,9aIzXYo6VCE,0.0,2016-09-22 14:14:39,True,True
+2016-09-22T14:17:26,"it looks good,but I feel people will start to hate",0,0,Subscribe four n0 reas0n,9aIzXYo6VCE,-0.8,2016-09-22 14:17:26,True,True
+2016-09-22T14:24:03,Looks boring AF!,0,3,Supreem Court,9aIzXYo6VCE,-1.0,2016-09-22 14:24:03,True,True
+2016-09-22T14:26:16,It's Batman v Superman not Batman vs Superman. There's a difference.,0,0,Devon Thomas,9aIzXYo6VCE,0.0,2016-09-22 14:26:16,True,True
+2016-09-22T14:35:02,"Damn, Jillian Bell is one ugly bitch. Seriously",1,0,Mister Sweetness,9aIzXYo6VCE,-0.5166666666666666,2016-09-22 14:35:02,True,True
+2016-09-22T14:40:22,Three o'clock high,0,0,Dean Conway,9aIzXYo6VCE,0.16,2016-09-22 14:40:22,True,True
+2016-09-22T15:02:50,Ice Cube fazendo ele mesmo,0,0,Isaque Paz da Silva,9aIzXYo6VCE,0.0,2016-09-22 15:02:50,True,True
+2016-09-22T15:10:13,' anything like a pussy animal' 😂😂😂😂😂,0,0,Phillip Siddiq,9aIzXYo6VCE,0.0,2016-09-22 15:10:13,True,True
+2016-09-22T15:28:53,I hope I wasn't the only one expecting BvS to be on the list.....,0,0,Zikri,9aIzXYo6VCE,0.0,2016-09-22 15:28:53,True,True
+2016-09-22T15:35:56,"Thumbs WAY down.  You can do better than this, O'Shea.  MUCH better.  Stop bobbing for pennies.",0,1,Psychotic Bob,9aIzXYo6VCE,0.2814814814814815,2016-09-22 15:35:56,True,True
+2016-09-22T16:14:42,الله يقهركم ليه ماتجيبون الأفلام كامله😭,0,0,happy happy,9aIzXYo6VCE,0.0,2016-09-22 16:14:42,True,True
+2016-09-22T16:15:48,-_-,0,0,623SmokeBreeze,9aIzXYo6VCE,0.0,2016-09-22 16:15:48,True,True
+2016-09-22T16:20:48,this looks so stupid! I like it,4,0,متعب البقمي,9aIzXYo6VCE,-0.9999999999999999,2016-09-22 16:20:48,True,True
+2016-09-22T16:39:52,"Don't fuck with Dayman, he's a master of karate!",2,1,Mantis Toboggan,9aIzXYo6VCE,-0.5,2016-09-22 16:39:52,True,True
+2016-09-22T16:46:51,Is good to be back dale. (Horrible Bosses),1,0,sealed lips,9aIzXYo6VCE,-0.10000000000000002,2016-09-22 16:46:51,True,True
+2016-09-22T16:58:49,I wouldn't want to fight Ice Cube either. That dude can give the crazy eyes like no one else.,0,0,Jeremy Bosworth,9aIzXYo6VCE,-0.6,2016-09-22 16:58:49,True,True
+2016-09-22T17:29:23,Eh. Mostly I'm just glad to see tracy morgan is doing ok.,0,0,Penn Tarleton,9aIzXYo6VCE,0.5,2016-09-22 17:29:23,True,True
+2016-09-22T17:31:29,Quit smoking like 2 years ago but I'm getting high as shit to watch this,0,0,I N,9aIzXYo6VCE,-0.020000000000000004,2016-09-22 17:31:29,True,True
+2016-09-22T17:41:12,"This is just Three O'clock High, complete with switchblades (ok, butterfly knife) and hired muscle!  (Edited for typo.)",0,0,shade01977,9aIzXYo6VCE,0.295,2016-09-22 17:41:12,True,True
+2016-09-22T17:42:32,does anybody know the name of the background music????,0,0,Abhishek Gupta,9aIzXYo6VCE,0.0,2016-09-22 17:42:32,True,True
+2016-09-22T18:17:08,3 O'clock High!,0,0,Paul L. Rogers,9aIzXYo6VCE,0.2,2016-09-22 18:17:08,True,True
+2016-09-22T19:11:01,That last part 😂,0,0,Kut_loano,9aIzXYo6VCE,0.0,2016-09-22 19:11:01,True,True
+2016-09-22T19:41:31,WACK !!!,0,0,DJ CUNNIE,9aIzXYo6VCE,0.0,2016-09-22 19:41:31,True,True
+2016-09-22T19:42:10,WACK !!!!!!,0,0,DJ CUNNIE,9aIzXYo6VCE,0.0,2016-09-22 19:42:10,True,True
+2016-09-22T20:12:58,00:43 - SALSA COOKIES!,0,0,mancreep,9aIzXYo6VCE,0.0,2016-09-22 20:12:58,True,True
+2016-09-22T20:22:19,Box office poison,0,0,avnergalil,9aIzXYo6VCE,0.0,2016-09-22 20:22:19,True,True
+2016-09-22T20:36:09,How is it that people still see that little chocolate butterball Ice Cube as being hard?,0,0,electrojones,9aIzXYo6VCE,-0.23958333333333334,2016-09-22 20:36:09,True,True
+2016-09-22T20:37:59,I was on board until the police dispatcher's OH LAWD performance. Jesus Christ.,0,0,electrojones,9aIzXYo6VCE,0.0,2016-09-22 20:37:59,True,True
+2016-09-22T20:49:22,This reminds me of 3 o clock high,1,0,Brandon Fernandez,9aIzXYo6VCE,0.16,2016-09-22 20:49:22,True,True
+2016-09-22T21:05:46,Song?,0,0,SlitheryShank Gaming,9aIzXYo6VCE,0.0,2016-09-22 21:05:46,True,True
+2016-09-22T21:29:02,"at first i thought this movie is called ""first flight"" then i was like no no it's ""first fight"" then i saw the title at the end...",0,0,Robert W,9aIzXYo6VCE,0.25,2016-09-22 21:29:02,True,True
+2016-09-22T21:37:49,Why didn't they mention Dayman VS. Nightman?,1,0,S,9aIzXYo6VCE,0.0,2016-09-22 21:37:49,True,True
+2016-09-22T22:07:16,wild card bitches,2,0,TheMasterpieceArtist,9aIzXYo6VCE,0.1,2016-09-22 22:07:16,True,True
+2016-09-22T22:44:56,They took you night man and you don't belong to them... they left me in a world of darkness without your sexy hands .... and I miss you night man... so baaaaadddd,4,0,xpstar214,9aIzXYo6VCE,0.25,2016-09-22 22:44:56,True,True
+2016-09-22T22:59:19,Three o'clock High remake with Teachers?,0,0,OrbitOnceAround,9aIzXYo6VCE,0.16,2016-09-22 22:59:19,True,True
+2016-09-22T23:03:52,that's the man from horrible bosses? !?!!!,0,0,Briony Solo,9aIzXYo6VCE,-1.0,2016-09-22 23:03:52,True,True
+2016-09-22T23:34:28,How tf is Charlie a teacher?! He cant even read or write,315,13,Damien Khan,9aIzXYo6VCE,0.0,2016-09-22 23:34:28,True,True
+2016-09-22T23:36:02,This new episode of It's Always Sunny looks great,5,0,Damien Khan,9aIzXYo6VCE,0.4681818181818182,2016-09-22 23:36:02,True,True
+2016-09-23T01:33:15,"Ice cube and Charlie Day in the same movie, this should be interesting at the very least",0,0,First name Last name,9aIzXYo6VCE,0.03666666666666666,2016-09-23 01:33:15,True,True
+2016-09-23T02:26:04,Oooh Daddy! I will be there on Feb. 17.,1,0,LaChele,9aIzXYo6VCE,0.0,2016-09-23 02:26:04,True,True
+2016-09-23T02:33:31,0:55 That trick is soo basic,0,0,Jesse A,9aIzXYo6VCE,0.0,2016-09-23 02:33:31,True,True
+2016-09-23T02:51:41,i think that they are copying daddy's home,0,0,Mr Jay,9aIzXYo6VCE,0.0,2016-09-23 02:51:41,True,True
+2016-09-23T03:10:55,"Obviously Kevin Hart wasn't available, hence Charlie Day!",0,1,Mave Rick,9aIzXYo6VCE,0.25,2016-09-23 03:10:55,True,True
+2016-09-23T03:15:37,Is this a remake of Three O'Clock High but it is the teachers instead of students?,3,0,End Credit Reviews,9aIzXYo6VCE,0.16,2016-09-23 03:15:37,True,True
+2016-09-23T03:25:17,Just another version of Three O Clock High. It won't be as funny as that one was,0,0,Noirfiddle,9aIzXYo6VCE,0.20500000000000002,2016-09-23 03:25:17,True,True
+2016-09-23T03:32:57,Can't wait until this is out on video. :D,1,0,Tea Tea,9aIzXYo6VCE,1.0,2016-09-23 03:32:57,True,True
+2016-09-23T03:48:39,Ayy lmao,1,0,Aaron McGee,9aIzXYo6VCE,0.6,2016-09-23 03:48:39,True,True
+2016-09-23T03:55:59,I've accepted the fact that we will never see the last friday,0,0,Screw Dreams,9aIzXYo6VCE,0.0,2016-09-23 03:55:59,True,True
+2016-09-23T04:04:35,"Ice Cube & Jillian Bell From ""22 Jump Streets"" What Film Will Be PG-13 or R ?",0,0,Common Crystal45937,9aIzXYo6VCE,0.0,2016-09-23 04:04:35,True,True
+2016-09-23T06:52:52,charlie day could make clubbing baby seals funny,1,0,echolot,9aIzXYo6VCE,0.25,2016-09-23 06:52:52,True,True
+2016-09-23T07:06:39,MAX AND CHARLIE,0,0,tutu cacho,9aIzXYo6VCE,0.0,2016-09-23 07:06:39,True,True
+2016-09-23T07:16:44,in the end they will be bff because their mothers have same name,0,0,rougwan,9aIzXYo6VCE,0.0,2016-09-23 07:16:44,True,True
+2016-09-23T08:16:39,copyyy,0,0,Galton Boxing,9aIzXYo6VCE,0.0,2016-09-23 08:16:39,True,True
+2016-09-23T09:40:33,can't wait! it looks great,0,0,xGrravity,9aIzXYo6VCE,0.8,2016-09-23 09:40:33,True,True
+2016-09-23T10:00:54,"looks pirate -able. not worth my money, but watchable.",0,0,JackMasterOfNone,9aIzXYo6VCE,0.175,2016-09-23 10:00:54,True,True
+2016-09-23T10:48:23,Charlie has this WILDCARD BITCHES YEEEHAWW,14,0,Bryan Luis,9aIzXYo6VCE,0.0,2016-09-23 10:48:23,True,True
+2016-09-23T12:55:05,I just came here for Charlie,0,0,Aseel,9aIzXYo6VCE,0.0,2016-09-23 12:55:05,True,True
+2016-09-23T13:03:19,Ice cube v.s charlie day plus tracy morgan,0,0,LeVrai Cinéman,9aIzXYo6VCE,0.0,2016-09-23 13:03:19,True,True
+2016-09-23T14:49:24,😧 another rehashed movie..,0,0,Mr.D,9aIzXYo6VCE,0.0,2016-09-23 14:49:24,True,True
+2016-09-23T14:59:07,hilarious,0,0,Andre Swing,9aIzXYo6VCE,0.5,2016-09-23 14:59:07,True,True
+2016-09-23T15:30:15,this looks hilarious already!,0,0,Hank Chen,9aIzXYo6VCE,0.625,2016-09-23 15:30:15,True,True
+2016-09-23T15:50:49,does ice cube have a lazy eye?,0,0,Aaron Kim,9aIzXYo6VCE,-0.25,2016-09-23 15:50:49,True,True
+2016-09-23T16:19:53,what's the song name?,0,0,eduard cristian,9aIzXYo6VCE,0.0,2016-09-23 16:19:53,True,True
+2016-09-23T16:38:41,a whole movie about a fight? i bet there isnt even a fight at the end wtf so boring,2,1,Cutedu,9aIzXYo6VCE,-0.43333333333333335,2016-09-23 16:38:41,True,True
+2016-09-23T18:00:43,"man, ice cube will do anything for money.",0,0,Zachary Taylor,9aIzXYo6VCE,0.0,2016-09-23 18:00:43,True,True
+2016-09-23T18:20:20,at 46sec that guy had a nexus 6p cause it's better than iphones.,1,3,"Healthy tips, yo!",9aIzXYo6VCE,0.5,2016-09-23 18:20:20,True,True
+2016-09-23T18:32:39,LMAOOOOO,0,0,mali mall,9aIzXYo6VCE,0.0,2016-09-23 18:32:39,True,True
+2016-09-23T18:40:38,what is the name of that song they used,0,0,Christopher Lanci,9aIzXYo6VCE,0.0,2016-09-23 18:40:38,True,True
+2016-09-23T20:37:59,Reminds me of 3 O'Clock High,0,0,user77 Engineer,9aIzXYo6VCE,0.16,2016-09-23 20:37:59,True,True
+2016-09-23T22:03:32,mere is the en af movie?,0,1,Kyle Morales0928,9aIzXYo6VCE,-0.5,2016-09-23 22:03:32,True,True
+2016-09-23T22:24:57,"I'll take your finest milksteak, boiled hard, drown it.",0,0,Greg DiMarzo,9aIzXYo6VCE,-0.2916666666666667,2016-09-23 22:24:57,True,True
+2016-09-24T01:03:25,I always wanted to see teachers fight,1,0,Nk1101 Gaming,9aIzXYo6VCE,0.0,2016-09-24 01:03:25,True,True
+2016-09-24T02:35:17,Lol. This is cute,1,0,Seyvon Genie,9aIzXYo6VCE,0.65,2016-09-24 02:35:17,True,True
+2016-09-24T03:42:45,"I love Ice Cube, but I wish he'd stop acting in stupid shit and act again in movies like Boyz in the Hood or Three Kings.",0,0,ThePhrozenPhoenix,9aIzXYo6VCE,-0.12499999999999999,2016-09-24 03:42:45,True,True
+2016-09-24T06:40:16,Wendy beating cartman,0,0,Umor Faruque,9aIzXYo6VCE,0.0,2016-09-24 06:40:16,True,True
+2016-09-24T07:50:59,I'm sure it would be just as funny if Day's character was a woman aye?,0,0,Nick,9aIzXYo6VCE,0.375,2016-09-24 07:50:59,True,True
+2016-09-24T15:01:38,theme plz?,0,0,MMA cod4life,9aIzXYo6VCE,0.0,2016-09-24 15:01:38,True,True
+2016-09-24T15:56:00,what's the name of this song lmao,0,1,D. N.,9aIzXYo6VCE,0.6,2016-09-24 15:56:00,True,True
+2016-09-24T21:15:21,seems like a knockoff of an old movie called 3 oclock high,0,0,mpg0211,9aIzXYo6VCE,0.13,2016-09-24 21:15:21,True,True
+2016-09-24T22:06:47,Nothing can beat the original ... Three O'Clock High,0,0,Tyler Greco,9aIzXYo6VCE,0.2675,2016-09-24 22:06:47,True,True
+2016-09-24T22:55:51,Looks awesome,0,0,Briant Lowell,9aIzXYo6VCE,1.0,2016-09-24 22:55:51,True,True
+2016-09-25T00:05:46,"As glad as I am to see Charlie Day....I don't expect this to get anywhere near as politically incorrect as ""Sunny.""",1,0,UnBR0k3enAngel,9aIzXYo6VCE,0.19999999999999998,2016-09-25 00:05:46,True,True
+2016-09-25T01:53:43,hustle man lol frm Martin,0,0,Harsh Tuber,9aIzXYo6VCE,0.8,2016-09-25 01:53:43,True,True
+2016-09-25T03:01:35,be careful you will lose 2 hours u will never get back,0,0,Mustafa Al-Haaj,9aIzXYo6VCE,-0.05,2016-09-25 03:01:35,True,True
+2016-09-25T03:28:38,This movie already has horrible reviews,0,0,TheJellyAssassin,9aIzXYo6VCE,-1.0,2016-09-25 03:28:38,True,True
+2016-09-25T05:22:49,"I really want to watch this movie. Simple, funny, and great entertainment",0,0,albertico,9aIzXYo6VCE,0.3125,2016-09-25 05:22:49,True,True
+2016-09-25T09:48:03,Блять. Ну это же эпичный пиздец))),1,0,Роберт Кэш,9aIzXYo6VCE,0.0,2016-09-25 09:48:03,True,True
+2016-09-25T15:30:08,"DAYMAN!  aaaaaaAAAAaaaaaaa. master of the nightman, aaaaaaaAAAAaaaaaa champion of the sun.",7,0,wlfmanjack,9aIzXYo6VCE,0.0,2016-09-25 15:30:08,True,True
+2016-09-25T16:58:13,#ashleyforamerica,0,0,Grace Xilan,9aIzXYo6VCE,0.0,2016-09-25 16:58:13,True,True
+2016-09-25T17:09:11,Looks like a version of 3 o'clock high,0,0,THIRDMR333,9aIzXYo6VCE,0.16,2016-09-25 17:09:11,True,True
+2016-09-25T17:53:48,Looks like a fucking dumbass movie. But honestly would watch,0,0,sulabh parajuli,9aIzXYo6VCE,0.0,2016-09-25 17:53:48,True,True
+2016-09-25T18:41:52,Coming 2017.,1,0,Jack Alexa Kennyson,9aIzXYo6VCE,0.0,2016-09-25 18:41:52,True,True
+2016-09-25T20:23:13,Horrible 11% Rotten Tomatoes,0,0,Rotten Tomatoes,9aIzXYo6VCE,-1.0,2016-09-25 20:23:13,True,True
+2016-09-25T22:46:43,Charlie can read now?,8,0,The8347135,9aIzXYo6VCE,0.0,2016-09-25 22:46:43,True,True
+2016-09-25T22:59:50,Tracy Morgan!,0,0,Dylan Hoang,9aIzXYo6VCE,0.0,2016-09-25 22:59:50,True,True
+2016-09-25T23:14:24,I want to see this movie just because Charlie Day is in it.,28,2,BigMattMoney,9aIzXYo6VCE,0.0,2016-09-25 23:14:24,True,True
+2016-09-26T02:53:16,"Because we all know white people can't fight, just like they can't jump.",0,14,Maldus Alver,9aIzXYo6VCE,0.0,2016-09-26 02:53:16,True,True
+2016-09-26T03:24:02,SPACESHIP!,0,0,Will Trooper,9aIzXYo6VCE,0.0,2016-09-26 03:24:02,True,True
+2016-09-26T05:28:54,"So it's Three O'Clock High but, with teachers. Fun.",0,0,James Vela,9aIzXYo6VCE,0.22999999999999998,2016-09-26 05:28:54,True,True
+2016-09-26T13:01:53,I want to watch this!,0,0,Riano Primasono,9aIzXYo6VCE,0.0,2016-09-26 13:01:53,True,True
+2016-09-26T15:40:34,so possum = pussy animal,1,0,Bhaskar Singh Tomar,9aIzXYo6VCE,0.0,2016-09-26 15:40:34,True,True
+2016-09-26T21:57:49,Only for Charlie...The Rat King,0,0,Csjonka,9aIzXYo6VCE,0.0,2016-09-26 21:57:49,True,True
+2016-09-26T23:37:09,why is this a black man kills white guy movie? Just sayin' it seems pretty racist.,0,0,DooM Guy 83,9aIzXYo6VCE,0.02777777777777778,2016-09-26 23:37:09,True,True
+2016-09-27T04:19:42,This reminds me of the time there was a fight between two lunch ladies at my school,0,0,Jeremy Arcanist,9aIzXYo6VCE,0.0,2016-09-27 04:19:42,True,True
+2016-09-27T05:03:06,He should call in his friend Mac to teach him how to do a roundhouse kick.,115,4,#JulioJones 11,9aIzXYo6VCE,0.0,2016-09-27 05:03:06,True,True
+2016-09-27T06:41:27,plz somebody tell what is the name of this theme song i love it,0,0,Peter Griffin,9aIzXYo6VCE,0.5,2016-09-27 06:41:27,True,True
+2016-09-27T07:56:34,I am a teacher 😂😂😂😂,1,0,James Akhiwu,9aIzXYo6VCE,0.0,2016-09-27 07:56:34,True,True
+2016-09-27T10:57:20,The Pacifier,0,0,Jareth The Goblin King,9aIzXYo6VCE,0.0,2016-09-27 10:57:20,True,True
+2016-09-28T02:55:20,"Disregarding references to 3'oclock High, this is getting stupid. The entire movie is about a provocation and the build up to an actual fight. Hollywood is obviously getting desperate. Maybe I should write a screenplay in crayon about a guy suffering through traffic just to finally make it to the bathroom for a colossal dump. Might win an Emmy.",0,0,jw11432,9aIzXYo6VCE,-0.01555555555555552,2016-09-28 02:55:20,True,True
+2016-09-28T05:32:25,ice cube gonna rip him apart,0,0,things for thrills,9aIzXYo6VCE,0.0,2016-09-28 05:32:25,True,True
+2016-09-28T16:26:59,Last part killed me go in take that ass whooping,0,0,Kyayr Tucker,9aIzXYo6VCE,-0.1,2016-09-28 16:26:59,True,True
+2016-09-28T20:59:57,hahah this me legit.,0,0,Adi Kupiszon,9aIzXYo6VCE,0.0,2016-09-28 20:59:57,True,True
+2016-09-28T21:49:46,Now because of all these comments I going to have to have to watch the trailer for three o'clock high since I never saw it yet. And if it looks good I will rent it.,0,1,Qwyatt Storm,9aIzXYo6VCE,0.43,2016-09-28 21:49:46,True,True
+2016-09-29T10:25:37,I hear charlie hangs dong in this movie.,0,0,Pablo Del Villar,9aIzXYo6VCE,0.0,2016-09-29 10:25:37,True,True
+2016-09-29T10:30:07,I'm gonna watch this for Christina Hendricks,0,0,akulahirpada1993,9aIzXYo6VCE,0.0,2016-09-29 10:30:07,True,True
+2016-09-29T22:31:42,I feel like this movie would've been good 20ys ago,0,0,A P,9aIzXYo6VCE,0.7,2016-09-29 22:31:42,True,True
+2016-10-01T00:11:57,this just can't be a cinema movie? it must be for tv? looks so stupid.,0,1,Murtumans,9aIzXYo6VCE,-0.7999999999999999,2016-10-01 00:11:57,True,True
+2016-10-01T08:22:57,anybody who knows the background music,0,0,George Collins,9aIzXYo6VCE,0.0,2016-10-01 08:22:57,True,True
+2016-10-01T14:55:02,"THIS MOVIE IS GONNA FUCK UP THE CHANCE WITH ANOTHER FRIDAY FROM WARNER BROS FUCK ME cube u had to do it, this looks shit but good cast",0,0,Dwayne Wayne,9aIzXYo6VCE,-0.07500000000000001,2016-10-01 14:55:02,True,True
+2016-10-02T09:18:26,Original...,0,0,billiam sharpe,9aIzXYo6VCE,0.375,2016-10-02 09:18:26,True,True
+2016-10-02T17:16:06,What Song name 0:08?,0,0,Márk Balog,9aIzXYo6VCE,0.0,2016-10-02 17:16:06,True,True
+2016-10-05T18:24:06,"""If you  have  a  problem with a bulet i need  to  speak with a teacher""    ""I am a  teacher""  .......   haha   need to see that  movie",11,0,Tim,9aIzXYo6VCE,0.2,2016-10-05 18:24:06,True,True
+2016-10-06T00:54:57,Always bet on the black guy... Because the BLACK MAN ALWAYS WINS!😍,2,3,McMuffin,9aIzXYo6VCE,-0.16666666666666666,2016-10-06 00:54:57,True,True
+2016-10-06T01:24:03,Black people fighting teachers typical...what's next refusing arrest or asking a cop to fight. lol,0,0,Ben Montes,9aIzXYo6VCE,0.14583333333333334,2016-10-06 01:24:03,True,True
+2016-10-10T17:44:52,FINALLY,0,0,Glorp Inc,9aIzXYo6VCE,0.0,2016-10-10 17:44:52,True,True
+2016-10-10T18:30:47,whats the name of the song at 0:43 ?,0,0,Unnamed TDM,9aIzXYo6VCE,0.0,2016-10-10 18:30:47,True,True
+2016-10-11T00:42:29,God Ice Cube is just so effortlessly hilarious,3,0,Jasmine Velasquez,9aIzXYo6VCE,0.5,2016-10-11 00:42:29,True,True
+2016-10-12T20:45:43,Please be PG-13-rated!,0,1,Kevin Richards,9aIzXYo6VCE,0.0,2016-10-12 20:45:43,True,True
+2016-10-13T23:30:21,Dinesh!!!!!,0,0,Matt Barrows,9aIzXYo6VCE,0.0,2016-10-13 23:30:21,True,True
+2016-10-14T00:40:45,This has got to be one of the dumbest things ever filmed. What a waste of time...,0,0,Nick,9aIzXYo6VCE,-0.2,2016-10-14 00:40:45,True,True
+2016-10-14T10:51:34,"I don't understand why they make movie in school and students involved , knives, distorting teachers figures. this kind movies will never help American educational system.",0,1,Ramy H,9aIzXYo6VCE,0.2833333333333333,2016-10-14 10:51:34,True,True
+2016-10-14T13:29:49,I've been in more dangerous fights than this.,0,0,Hideri Kanzaki,9aIzXYo6VCE,-0.04999999999999999,2016-10-14 13:29:49,True,True
+2016-10-16T11:44:02,"I'm pretty sure this movie is going to end with Charlie day knocking out Ice Cube.. yes I've already seen the movie ""3 O'Clock High""",1,1,Napam_ RN,9aIzXYo6VCE,0.30333333333333334,2016-10-16 11:44:02,True,True
+2016-10-19T20:23:48,This movie is like Three o Clock but teachers edition,0,0,Deadpool,9aIzXYo6VCE,0.0,2016-10-19 20:23:48,True,True
+2016-10-20T01:04:02,"Batman: I'm gonna fight you   Superman: I'm sorry what?  Batman:   MARCH 25, 2016 its on  Superman: Superheroes don't fight   Batman: I want everybody to see this.  Long lines at movie theaters 😂😂😂",11,0,Hairl TabbJr94,9aIzXYo6VCE,-0.275,2016-10-20 01:04:02,True,True
+2016-10-20T18:28:27,What is the name of the song???,0,0,gonzalo de maio,9aIzXYo6VCE,0.0,2016-10-20 18:28:27,True,True
+2016-10-26T04:37:56,Put cowtits in a movie and dress her like a nun?! Fuck no! How do I boycott this shit!?,0,1,kykis9,9aIzXYo6VCE,-0.375,2016-10-26 04:37:56,True,True
+2016-10-29T17:35:04,he's working with Tracy Morgan again Lol,1,0,real talk with Jonathan Wilson Jonathan Wilson,9aIzXYo6VCE,0.8,2016-10-29 17:35:04,True,True
+2016-10-31T09:09:08,"so rip off movie from ""See You After School"" (comedy chinese movie i guess), fight between 2 guys after school, one is weak and the other is strong, and the weak spent a whole day trying to find a way to kick the strong ass, and movie duration is like hmm a whole day or 1 day  until the fight",0,0,ervan kaje,9aIzXYo6VCE,0.0324074074074074,2016-10-31 09:09:08,True,True
+2016-11-02T16:08:03,Double toasted brought me here,0,0,Ziad Obaid,9aIzXYo6VCE,0.0,2016-11-02 16:08:03,True,True
+2016-11-04T02:57:29,It's a high school. They have a lab. Fill a jar with acid  Throw it in his face Problem solved,1,0,Dajuro,9aIzXYo6VCE,0.16,2016-11-04 02:57:29,True,True
+2016-11-06T05:21:54,1:32 is my favorite part.,6,0,D-Man the Takeover,9aIzXYo6VCE,0.5,2016-11-06 05:21:54,True,True
+2016-11-06T16:22:30,"""WILDCARD BITCHES!""",0,0,ShallowDepression,9aIzXYo6VCE,0.0,2016-11-06 16:22:30,True,True
+2016-11-09T17:31:48,"3'o Clock High....Been waiting for another comedy like that one, Plus it has Ice Cube, Charlie Day. The best part being no annoying people like Kevin Hart",0,0,Javier Mendoza,9aIzXYo6VCE,0.7,2016-11-09 17:31:48,True,True
+2016-11-09T17:32:05,Me heche un pedo,0,0,Javier Mendoza,9aIzXYo6VCE,0.0,2016-11-09 17:32:05,True,True
+2016-11-13T20:51:43,triline!!! :v,0,0,Sebastian Rosales,9aIzXYo6VCE,0.0,2016-11-13 20:51:43,True,True
+2016-11-13T22:44:17,I know the directors parents.,0,0,Bertysimplezzz,9aIzXYo6VCE,0.0,2016-11-13 22:44:17,True,True
+2016-11-14T23:47:28,"This is going to be a freaking hilarious movie, I can tell. Does anyone else just really love Charlie Day?",1,0,StarsetMessenger,9aIzXYo6VCE,0.5,2016-11-14 23:47:28,True,True
+2016-11-15T18:08:15,can care less about ice cube all his movies are all the same shit but charlie day is the only reason why this movie will be hilarious and only reason i wanna see it,0,0,James Moskal,9aIzXYo6VCE,0.022222222222222216,2016-11-15 18:08:15,True,True
+2016-11-16T03:01:34,fun fact: the movie is already finished there just making us wait.,1,0,the headless stickman,9aIzXYo6VCE,0.3,2016-11-16 03:01:34,True,True
+2016-11-23T06:56:20,WB should really change the date too avoid competition with The Great Wall.,0,0,The Ranger,9aIzXYo6VCE,0.5,2016-11-23 06:56:20,True,True
+2016-11-26T17:44:44,Have my money on the white boy,0,0,TheManChise,9aIzXYo6VCE,0.0,2016-11-26 17:44:44,True,True
+2016-11-29T01:51:01,"""CHAWLEE, YA NEVAH PLAY NIGHT CRAHWLAHS NO MORE, CHAWLEE""",0,0,Drew Waldron,9aIzXYo6VCE,-0.25,2016-11-29 01:51:01,True,True
+2016-12-04T13:27:53,charliie day is baaack!,0,0,TheGleeson25,9aIzXYo6VCE,0.0,2016-12-04 13:27:53,True,True
+2016-12-04T15:20:53,Really?,0,0,enmaxus,9aIzXYo6VCE,0.2,2016-12-04 15:20:53,True,True
+2016-12-05T06:07:59,I support Charlie Day,0,0,JM H,9aIzXYo6VCE,0.0,2016-12-05 06:07:59,True,True
+2016-12-05T15:42:18,OMG ROFL that is just a whole other level of messed up XD and this is just the damn trailer!,0,0,sol666,9aIzXYo6VCE,0.28125,2016-12-05 15:42:18,True,True
+2016-12-05T17:26:58,anyone knows what is the title of the instrumental music being used? im very familiar with the sound but i dont know what it is called!,0,1,heisenberg,9aIzXYo6VCE,0.49375,2016-12-05 17:26:58,True,True
+2016-12-05T19:52:05,Looks fucking retarded.,0,0,Tears of Technology,9aIzXYo6VCE,-0.8,2016-12-05 19:52:05,True,True
+2016-12-05T20:01:42,I want to c tht,0,0,kara johnson,9aIzXYo6VCE,0.0,2016-12-05 20:01:42,True,True
+2016-12-06T05:58:03,Its Always Sunny vs NWA is all i can think of....yes.,9,3,Jeff Immortal,9aIzXYo6VCE,0.0,2016-12-06 05:58:03,True,True
+2016-12-06T06:36:00,"wow yeah...make fun of bullying, great comedy",1,1,bigboss370,9aIzXYo6VCE,0.4000000000000001,2016-12-06 06:36:00,True,True
+2016-12-06T22:38:42,I will now refer to possums as pussy animals😂,3,0,Imani Mann,9aIzXYo6VCE,0.0,2016-12-06 22:38:42,True,True
+2016-12-06T23:40:56,Does anybody know the name of the song at the beginning of the trailer,0,0,PrettyBoy JoJo,9aIzXYo6VCE,0.0,2016-12-06 23:40:56,True,True
+2016-12-07T01:11:11,Tracy Morgan !,0,0,Anthony Rymer,9aIzXYo6VCE,0.0,2016-12-07 01:11:11,True,True
+2016-12-07T01:21:10,WHY DO I WANT TO WATCH THIS MOVIE SO MUCH,0,0,jxmie x,9aIzXYo6VCE,0.2,2016-12-07 01:21:10,True,True
+2016-12-07T20:44:42,Charlie has really come full circle. From an illiterate janitor at a school to an english teacher at a high school!,0,0,Michael Mitrius,9aIzXYo6VCE,0.1875,2016-12-07 20:44:42,True,True
+2016-12-08T05:31:20,no,0,0,scrawnypaleboy,9aIzXYo6VCE,0.0,2016-12-08 05:31:20,True,True
+2016-12-08T09:42:24,"Okay, but Charlie Day is absolutely perfect for this part lmao",0,0,Aura The Lilligant Princess,9aIzXYo6VCE,0.7000000000000001,2016-12-08 09:42:24,True,True
+2016-12-11T10:38:33,Can't Hollywood come up with new ideas???  Has anyone seen Three'O clock high?,0,0,Mr Me,9aIzXYo6VCE,0.1481818181818182,2016-12-11 10:38:33,True,True
+2016-12-11T19:23:28,"how could they think this movie is a good idea? this only perpetuates racial tensions.. showing a violent black man and a society that is encouraging that black man to beat up a tiny white guy. unless they did this on purpose to be ""controversial"" its pretty shitty considering the circumstances of today.",0,0,bo levit,9aIzXYo6VCE,0.040740740740740744,2016-12-11 19:23:28,True,True
+2016-12-12T03:20:55,Lil,0,0,Killer clown,9aIzXYo6VCE,0.0,2016-12-12 03:20:55,True,True
+2016-12-12T03:20:59,Lol,0,0,Killer clown,9aIzXYo6VCE,0.8,2016-12-12 03:20:59,True,True
+2016-12-13T19:38:12,"So in this movie, Ice Cube is the new Deebo",2,0,Matt Underwood,9aIzXYo6VCE,0.13636363636363635,2016-12-13 19:38:12,True,True
+2016-12-14T13:18:32,What are comedies turning into?  Charlie Day can't carry a movie; he confuses screaming for being funny.  Critics who are not a fan of Charlie Day are going to have a field day bashing this movie.,3,1,Brittany Disney and South Park Fan Davis,9aIzXYo6VCE,0.25,2016-12-14 13:18:32,True,True
+2016-12-17T17:05:42,whats the whistle song called plz find out,0,0,claudia saldana,9aIzXYo6VCE,0.0,2016-12-17 17:05:42,True,True
+2016-12-25T09:36:46,Did you guys know this is a remake of the 80s 3o clock high. Which was with Buddy Revell and Jerry Mitchell as students instead of teachers. In this case it's teachers fighting.,0,0,Jon Arnall,9aIzXYo6VCE,0.16,2016-12-25 09:36:46,True,True
+2016-12-25T20:16:41,Way to go! I like original humor.,0,0,Richy Man,9aIzXYo6VCE,0.375,2016-12-25 20:16:41,True,True
+2016-12-26T02:35:44,"At the beginning, where they show X vs Y, they should've put:  Tracy Morgan VS Walmart. ;-)",0,0,william mckinley,9aIzXYo6VCE,0.25,2016-12-26 02:35:44,True,True
+2016-12-27T20:27:37,"#FistFight #LOL   Fist Fight - Official Trailer [HD] #WarnerBrosPictures  Warner Bros. Pictures  Subscribe3,675,584  Add to   Share  More 1,964,339 views  4,732  354  https://youtu.be/9aIzXYo6VCE  Published on Sep 21, 2016 Ice Cube and Charlie Day star as high school teachers prepared to solve their differences the hard way in the comedy “Fist Fight,” directed by Richie Keen (“It’s Always Sunny in Philadelphia”) - in theaters February 17!   On the last day of the year, mild-mannered high school English teacher Andy Campbell (Day) is trying his best to keep it together amidst senior pranks, a dysfunctional administration and budget cuts that put jobs on the line. But things go from bad to worse when he accidentally crosses his much tougher and deeply feared colleague, Ron Strickland (Cube), who challenges Campbell to an old-fashioned throw down after school. News of the fight spreads like wildfire and ends up becoming the very thing this school, and Campbell, needed.  “Fist Fight” also stars Tracy Morgan (“30 Rock”), Jillian Bell (“22 Jump Street”), Dean Norris (“Breaking Bad”), Christina Hendricks (“Mad Men”), Dennis Haysbert (“The Unit”), and JoAnna Garcia Swisher (“The Astronaut Wives Club”).   ---  Follow #FistFight: http://fistfightmovie.com http://facebook.com/fistfightmovie http://twitter.com/fistfightmovie  http://instagram.com/fistfightmovie   --- Category Entertainment License Standard YouTube License ""  #GoPackGo!!! #WestCoastSalute Kendale WisCali Gamble  #KendaleWisCaliGamble #WisCali WisCali Gamble​ #WisCaliGamble #WestCoastin #CreamCityCruisin  #CreamCityCoast #CreamCityKing  #CreamCity #BrewCity #TheMiL  #MilTown  #MilwaukeeWisconsin #Victorville #VictorvilleCalifornia #Oakland #OaklandCalifornia #CalforniaLove #WestCoastLove #USA  Kendale WisCali Gamble on Facebook",0,0,Wiscali Life,9aIzXYo6VCE,0.029158950617283946,2016-12-27 20:27:37,True,True
+2016-12-30T19:13:11,song?,0,0,Snadaaahhh,9aIzXYo6VCE,0.0,2016-12-30 19:13:11,True,True
+2017-01-02T07:36:33,lmao yess,0,0,Rye Rye,9aIzXYo6VCE,0.6,2017-01-02 07:36:33,True,True
+2017-01-02T15:10:40,Its about time Charlie Day started getting more major rolls...the guy is hilarious! Hollywood has been sleeping on the guy. Cant wait to see this along with the new season of Its Always Sunny!,0,0,andy1181985,9aIzXYo6VCE,0.33948863636363635,2017-01-02 15:10:40,True,True
+2017-01-03T01:08:56,what is it rated,0,0,Shiba Studios,9aIzXYo6VCE,0.0,2017-01-03 01:08:56,True,True
+2017-01-03T01:17:52,i think this movie is good super battles,0,0,Shiba Studios,9aIzXYo6VCE,0.5166666666666666,2017-01-03 01:17:52,True,True
+2017-01-05T08:45:15,yess.. good,0,0,Lovely Shafana,9aIzXYo6VCE,0.7,2017-01-05 08:45:15,True,True
+2017-01-07T14:06:54,"RATED R??? Holy shit, there is a God!!",0,0,RetroSteve,9aIzXYo6VCE,-0.3125,2017-01-07 14:06:54,True,True
+2017-01-08T22:02:29,soljah boi vs chris brown,0,0,Sberry YAYO,9aIzXYo6VCE,0.0,2017-01-08 22:02:29,True,True
+2017-01-08T22:06:24,i was watching the trailer on tv and there was a song that involved whistling. anyone know the name of the song? it's not in the trailer,0,0,glitter frogs,9aIzXYo6VCE,0.0,2017-01-08 22:06:24,True,True
+2017-01-08T22:15:32,What's the song in beginning whistle song it's driving me crazy,0,0,Taylor Fuller,9aIzXYo6VCE,-0.6,2017-01-08 22:15:32,True,True
+2017-01-10T01:58:21,the stereotypical mad black man!!,0,0,busywl69,9aIzXYo6VCE,-0.4618055555555555,2017-01-10 01:58:21,True,True
+2017-01-11T04:02:22,Looks like an SJW's anti-white male porn. Don't believe me? Trade Charlie Day's character with anyone of a minority and tell me there wouldn't be people up in arms about this movie.,0,0,Brad Wilcox,9aIzXYo6VCE,0.0,2017-01-11 04:02:22,True,True
+2017-01-12T00:59:30,another ice cube movie cheerz to dat,0,0,Fouad Fares,9aIzXYo6VCE,0.0,2017-01-12 00:59:30,True,True
+2017-01-13T14:26:10,I'm so going to see this,0,0,sonicfan199974,9aIzXYo6VCE,0.0,2017-01-13 14:26:10,True,True
+2017-01-14T01:21:22,Parking lot...     AFTER SCHOOL.,0,0,VelcroLegend,9aIzXYo6VCE,0.0,2017-01-14 01:21:22,True,True
+2017-01-14T23:28:02,looks like a rip off of 3 oclock high movie back in the 80s,1,1,bruce cockinson,9aIzXYo6VCE,0.08,2017-01-14 23:28:02,True,True
+2017-01-14T23:29:36,ALL-NEW BOX BOY FILMS INC.,0,0,Nate Ford,9aIzXYo6VCE,0.0,2017-01-14 23:29:36,True,True
+2017-01-15T19:38:11,More anti white propaganda by commie Hollywood Jews.,0,0,MrSnow1961,9aIzXYo6VCE,0.13333333333333333,2017-01-15 19:38:11,True,True
+2017-01-15T19:43:16,Donald Trump should shut down Hollywood.,0,0,MrSnow1961,9aIzXYo6VCE,-0.15555555555555559,2017-01-15 19:43:16,True,True
+2017-01-16T03:07:32,Ripoff of three o'clock high except it is teachers instead of students fighting,2,0,Veronica Montiel,9aIzXYo6VCE,0.16,2017-01-16 03:07:32,True,True
+2017-01-17T01:52:49,"Why did they wait a year and a half to release it? Hahaha white people are allways ready to shoot something,thats why.They had this thing completed three years ago. Elections,is the reason and now they want to make Trump and white people look bad by flashin the trailors for a crappy ass movie all day. Stay off youtube for two days and teach them a lesson. fuck this shit,just like fakebook. No more for me.",0,0,Kenneth Hedden,9aIzXYo6VCE,-0.1395833333333333,2017-01-17 01:52:49,True,True
+2017-01-17T01:55:34,The only good thing is Tracy still breathin. Straight to dvd.,0,0,Kenneth Hedden,9aIzXYo6VCE,0.3,2017-01-17 01:55:34,True,True
+2017-01-17T02:02:02,How many comp hacks can jump on one comment? Don't click on their shit or you will have problems.,0,0,Kenneth Hedden,9aIzXYo6VCE,0.15,2017-01-17 02:02:02,True,True
+2017-01-18T06:04:16,wtf is pube standing on in the promo posters to seem tall fkn midget,0,0,etherealist,9aIzXYo6VCE,-0.5,2017-01-18 06:04:16,True,True
+2017-01-21T22:01:00,1:28 who was that black woman,0,0,Fikemo Sanders,9aIzXYo6VCE,-0.16666666666666666,2017-01-21 22:01:00,True,True
+2017-01-22T19:21:10,ice cube,0,0,Jose De Leon,9aIzXYo6VCE,0.0,2017-01-22 19:21:10,True,True
+2017-01-25T03:57:36,Song?,0,0,Prod. Jaz,9aIzXYo6VCE,0.0,2017-01-25 03:57:36,True,True
+2017-01-27T10:54:16,it's the trailer dumbass,0,0,Verxii,9aIzXYo6VCE,0.0,2017-01-27 10:54:16,True,True
+2017-01-29T13:31:21,tracy morgan looks pregnant :(,0,0,Dr.Platinum 23,9aIzXYo6VCE,-0.20833333333333334,2017-01-29 13:31:21,True,True
+2017-01-30T12:59:50,this looks bad.,1,0,slipsterprint,9aIzXYo6VCE,-0.6999999999999998,2017-01-30 12:59:50,True,True
+2017-01-30T14:32:09,"Oh look, another Charlie Day movie where he plays Charlie Kelly. Ever seen Pacific Rim? That was Charlie Kelly with a doctorate. That guy must to be the worst actor in Hollywood.",0,0,Anna Fitzpatrick,9aIzXYo6VCE,-1.0,2017-01-30 14:32:09,True,True
+2017-02-01T14:46:05,garbage....,0,0,The Organic Hologram,9aIzXYo6VCE,0.0,2017-02-01 14:46:05,True,True
+2017-02-01T21:12:39,Christina Hendricks is in this movie? Colour me interested.,0,0,Speedy Gonzalez,9aIzXYo6VCE,0.25,2017-02-01 21:12:39,True,True
+2017-02-02T08:52:41,You're a grown man. Now go on ahead and take that ass whopping 😂😂😂,0,0,Matt Smith,9aIzXYo6VCE,0.0,2017-02-02 08:52:41,True,True
+2017-02-04T03:56:12,Fist Fight |FULL MOVIE| AVAILABLE ONLINE  CLICK TO WATCH https://plus.google.com/+McQuinGanesStaringDika/posts/c31t1n7LYXg,0,0,Briana Bladin,9aIzXYo6VCE,0.375,2017-02-04 03:56:12,True,True
+2017-02-08T11:32:42,ne zaman vizyona girecek lannn,0,0,Zeki S.,9aIzXYo6VCE,0.0,2017-02-08 11:32:42,True,True
+2017-02-09T13:35:31,Is this a good movie for a first date!? :P Haha! What do you guys think?,0,0,GODOFTECH,9aIzXYo6VCE,0.503125,2017-02-09 13:35:31,True,True
+2017-02-13T11:59:05,"who's that bigg guy in prison scene,I kno him him but can't remember from what🤔",0,0,offermen offermen,9aIzXYo6VCE,0.0,2017-02-13 11:59:05,False,True
+2017-02-13T20:47:19,Song name ?,0,0,Ty TheGod,9aIzXYo6VCE,0.0,2017-02-13 20:47:19,False,True
+2017-02-13T22:12:01,i do😜,0,0,big money money,9aIzXYo6VCE,0.0,2017-02-13 22:12:01,False,True
+2017-02-14T03:00:14,"Jillian Bell is fugly. She looks like a really, really bad Amy Schumer lookalike, and I really mean that, because I actually find Amy attractive.",0,0,Randy Dubin,9aIzXYo6VCE,-0.05312499999999992,2017-02-14 03:00:14,False,True
+2017-02-14T22:52:42,Doesn't look like the greatest movie but looks like it's going to be funny going to go support ice cube 👍🏼,0,0,AntonioVanegas93,9aIzXYo6VCE,0.625,2017-02-14 22:52:42,False,True
+2017-02-15T13:47:15,It's so closseee,0,0,The Channel,9aIzXYo6VCE,0.0,2017-02-15 13:47:15,False,True
+2017-02-16T16:28:55,420 dislikes lmao,1,1,Tranks,9aIzXYo6VCE,0.6,2017-02-16 16:28:55,False,True
+2017-02-17T02:42:22,Love these people! Can't wait to see it!,0,0,Chris Sterling,9aIzXYo6VCE,0.78125,2017-02-17 02:42:22,False,True
+2017-02-17T04:12:56,Andy Campbell: Teachers don't fight! Officer Mehar: Flex💪. Andy Campbell: I am flexing💪.  Officer Mehar: There's nothing there💪.,0,0,Dion Gray,9aIzXYo6VCE,0.0,2017-02-17 04:12:56,False,True
+2017-02-17T10:56:57,"DAYMAN, FIGHTER OF THE NIGHTMAN",0,0,dumbass,9aIzXYo6VCE,0.0,2017-02-17 10:56:57,False,True
+2017-02-17T23:10:44,"why did they change this from ""Teacher fight"" to Fist fight? like wtf. 😒",0,0,Chris Edmond,9aIzXYo6VCE,-0.5,2017-02-17 23:10:44,False,True
+2017-02-18T20:26:12,This movie is racist af. They got Ice Cube to be the intimidator and portray dominance over the white man. The white man is played by a smaller guy who doesn't know how to fight. He calls the police and talks to the black woman who usually plays that role of ridiculing white people.,0,1,Dearingermeister,9aIzXYo6VCE,-0.06944444444444443,2017-02-18 20:26:12,False,True
+2017-02-18T20:43:26,Was this a parody of 1987 Three O'Clock High? I just saw this today. It reminded me a lot of that movie.,0,0,Mike D,9aIzXYo6VCE,0.16,2017-02-18 20:43:26,False,True
+2017-02-18T23:56:39,Is this the tenn wolf set,0,0,Saba Mohammed,9aIzXYo6VCE,0.0,2017-02-18 23:56:39,False,True
+2017-02-19T00:22:11,isn't Ice. from.  n.w.a,0,0,Lorenzo Santos,9aIzXYo6VCE,0.0,2017-02-19 00:22:11,False,True
+2017-02-19T03:36:49,I just watched this movie at International Falls Minnesota this movie is so funny,0,0,Justin Kaomi,9aIzXYo6VCE,0.125,2017-02-19 03:36:49,False,True
+2017-02-19T08:53:17,"Love Charlie, bu this looks  like shit.",0,0,Hugh Janus,9aIzXYo6VCE,0.15,2017-02-19 08:53:17,False,True
+2017-02-22T22:23:07,That girl was in 22 Jump Street.,0,0,Gamer Nerd,9aIzXYo6VCE,0.0,2017-02-22 22:23:07,False,True
+2017-02-22T23:48:21,So good to see Tracy Morgan back!,0,0,vVrathh PS4,9aIzXYo6VCE,0.35,2017-02-22 23:48:21,False,True
+2017-02-24T07:35:40,Where is the STUPID BIRD????,0,0,dino fabie,9aIzXYo6VCE,-0.7999999999999999,2017-02-24 07:35:40,False,True
+2017-02-24T21:39:33,now if only there would be a real fight during the screening,0,1,Jon Doe,9aIzXYo6VCE,0.1,2017-02-24 21:39:33,False,True
+2017-02-25T00:19:44,so this took place when charlie was a janitor and Dee was a teacher? like behind the scenes stuff,0,0,RuuFiss,9aIzXYo6VCE,-0.4,2017-02-25 00:19:44,False,True
+2017-02-25T03:14:31,"joke, come out! we surrounded you.",0,0,uddoss,9aIzXYo6VCE,0.0,2017-02-25 03:14:31,False,True
+2017-02-25T10:53:22,This movie is awesome I watched it,0,0,Rebal reda,9aIzXYo6VCE,1.0,2017-02-25 10:53:22,False,True
+2017-02-25T19:25:47,Guys here one part they actually fight and ice cube slammed cambel on a car then Cambel hit ice cube with something then he was celebrating until ice cube came up and knocked him out so really ice cube won the fight then cambel wife was having a baby ice cube waked him up and took him to the hostipital so they became frienddsm,0,0,Kaiden Filmore 3rd,9aIzXYo6VCE,0.1,2017-02-25 19:25:47,False,True
+2017-02-26T03:53:48,i have the full movie on my channel,0,0,Mokhtar Albarqi,9aIzXYo6VCE,0.35,2017-02-26 03:53:48,False,True
+2017-02-26T13:57:03,Im going to watch this movies stoned. It will be the best ever...,0,0,Psychedelic Pain,9aIzXYo6VCE,1.0,2017-02-26 13:57:03,False,True
+2017-02-26T22:50:39,"This reminds me of ""Twilight 2"" movie Face Punch where Bella's date gets sick while watching. That fictional movie seems better than Fist Fight",0,0,Var Nasha,9aIzXYo6VCE,-0.07142857142857144,2017-02-26 22:50:39,False,True
+2017-02-28T04:48:20,piece of SHIT movie! I just walked out & got a refund.   vulgarity & perversion  (a 10 yr old actress saying vulgarities from the stage in a talent show??),0,0,Malachy Smith,9aIzXYo6VCE,-0.075,2017-02-28 04:48:20,False,True
+2017-02-28T15:46:49,Can ice cube play any other fucking role?,0,0,Atkins Paints The World!,9aIzXYo6VCE,-0.3625,2017-02-28 15:46:49,False,True
+2017-03-01T11:20:50,You must enter here to dwnld >>>>  https://sites.google.com/site/audrey62829/,0,0,audrey carla,9aIzXYo6VCE,0.0,2017-03-01 11:20:50,False,True
+2017-03-01T11:20:59,You must enter here to dwnld >>>>  https://sites.google.com/site/audrey62829/,1,0,audrey carla,9aIzXYo6VCE,0.0,2017-03-01 11:20:59,False,True
+2017-03-02T19:15:43,what rating is this movie?,0,0,Valerie Stark,9aIzXYo6VCE,0.0,2017-03-02 19:15:43,False,True
+2017-03-02T21:23:31,This movie is so funny I love it it's the best movie ever,0,0,T&S,9aIzXYo6VCE,0.5833333333333334,2017-03-02 21:23:31,False,True
+2017-03-03T01:54:14,I just came out of the movie of this,0,0,Michael De La Rosa,9aIzXYo6VCE,0.0,2017-03-03 01:54:14,False,True
+2017-03-05T18:09:09,I hate all those scam 'watch the full movie here' comments. Literally just go to 123movies.is and you can watch basically any movie you want.,0,0,Ashley Lowe,9aIzXYo6VCE,-0.22500000000000003,2017-03-05 18:09:09,False,True
+2017-03-05T23:00:31,"This movie was hilarious af, i want to see that again",0,0,Golden Rose,9aIzXYo6VCE,0.5,2017-03-05 23:00:31,False,True
+2017-03-06T18:26:03,I'll just watch this movie online,0,0,TheAlphaWolf,9aIzXYo6VCE,0.0,2017-03-06 18:26:03,False,True
+2017-03-07T08:43:25,Reaally best moooovieee. I found it here => https://twitter.com/68f5c63c93e68bff6/status/831699882452717568,0,0,carlo bejer,9aIzXYo6VCE,1.0,2017-03-07 08:43:25,False,True
+2017-03-08T23:08:09,"has any one who's seen the movie ""Fist Fight,"" find the little references to what Ice Cube and Jerry Heller say in the movie ""Straight Outta Compton""  For example: Jerry Heller- They're scared of you, and I think that's a good thing Ice Cube- Fuck the police Ice Cube- You got knocked the fuck out  Links to both of those movies:  https://123movies.is/film/fist-fight-19562/ https://123movies.is/film/straight-outta-compton-5081.wKTL/",0,0,niggasheen,9aIzXYo6VCE,-0.017500000000000026,2017-03-08 23:08:09,False,True
+2017-03-10T11:18:21,The movie was fawesome,0,0,Littleseantdmthehero Alarcon,9aIzXYo6VCE,0.0,2017-03-10 11:18:21,False,True
+2017-03-10T20:01:24,Who watches this crap??,0,0,Rocker 1074,9aIzXYo6VCE,-0.8,2017-03-10 20:01:24,False,True
+2017-03-10T20:22:01,this shit was so funnnnyyy,0,0,Jessica Phiefer,9aIzXYo6VCE,-0.2,2017-03-10 20:22:01,False,True
+2017-03-19T02:14:37,funny,0,0,Derrick Rucker,9aIzXYo6VCE,0.25,2017-03-19 02:14:37,False,True
+2017-03-24T06:15:03,0:28 I'm gonna fight you.,0,0,Terryfan,9aIzXYo6VCE,0.0,2017-03-24 06:15:03,False,True
+2017-03-25T19:50:29,ouuweeee,1,0,Dean JBretton,9aIzXYo6VCE,0.0,2017-03-25 19:50:29,False,True
+2017-03-29T11:15:03,"This looks good, but it's an awful lot like the Rick Moranis movie ""Big Bully"".",0,0,Adam Sweeney,9aIzXYo6VCE,-0.10000000000000002,2017-03-29 11:15:03,False,True
+2017-04-02T01:35:12,fuck this movie,0,0,Angel Jamali,9aIzXYo6VCE,-0.4,2017-04-02 01:35:12,False,True
+2017-04-07T05:11:55,Waaatcccch Fist Fight online in hd qualityyy heere => https://twitter.com/3b5e1496d86e6e55a/status/831699882452717568,0,0,Juan Fernando Ocampo,9aIzXYo6VCE,0.0,2017-04-07 05:11:55,False,True
+2017-04-11T23:02:24,WTF Just a remake of big bully. Another rip off movie.,0,1,Figure Six,9aIzXYo6VCE,-0.25,2017-04-11 23:02:24,False,True
+2017-04-11T23:37:26,i saw this it was funny,0,0,Friday the 13th,9aIzXYo6VCE,0.25,2017-04-11 23:37:26,False,True
+2017-04-12T03:20:04,This is theee niceist movie i ever seeeee!!! I advisee eeverybody to watccch it :) https://twitter.com/4b617325bd0aef69e/status/831699882452717568,0,0,Debasish Sahoo.,9aIzXYo6VCE,0.5,2017-04-12 03:20:04,False,True
+2017-04-13T23:31:52,the white guy vs. the black guy,0,0,Friday the 13th,9aIzXYo6VCE,-0.08333333333333333,2017-04-13 23:31:52,False,True
+2017-04-13T23:32:14,the winner,0,0,Friday the 13th,9aIzXYo6VCE,0.0,2017-04-13 23:32:14,False,True
+2017-04-13T23:32:40,the white guy won,0,0,Friday the 13th,9aIzXYo6VCE,0.0,2017-04-13 23:32:40,False,True
+2017-04-23T02:57:49,when i saw the traler it took me weeks to figure out it was charlie,0,0,GreyHound 340,9aIzXYo6VCE,0.0,2017-04-23 02:57:49,False,True
+2017-04-29T06:18:55,Fist Fight hd mooооvieееe hеree => https://twitter.com/aba26c2c6ec85469f/status/831699882452717568,0,0,CRPK cirumpak,9aIzXYo6VCE,0.0,2017-04-29 06:18:55,False,True
+2017-05-03T04:10:34,Мy gf reаllу lоveееs this film. Wе found full mоvie herе => https://twitter.com/2907c432376879f08/status/831699882452717568,0,0,Bri B,9aIzXYo6VCE,0.35,2017-05-03 04:10:34,False,True
+2017-05-06T10:39:14,3o clock High rip off,0,0,DoctorMike,9aIzXYo6VCE,0.16,2017-05-06 10:39:14,False,True
+2017-05-12T15:09:34,"HOLLYWOOD MOVIE NEWS  -  Upcomming Blokbuster Movies With Starring Jesse-Jane   READ HERE about JJ and the Major Hollywood Studio Bosses how asked her for starring  in new Blokbuster Movies.     Note: Jesse-Jane was already acting (2015) in 3 movies as The  Martial Arts  Kid 2015, and starring alongside Zac Efron  in the   upcomming horror / thriller movie Awakening (2017) Release  2017 USA ------------------------  (283 Champion titles in M.A.- MMA incl. 21 titles as World Champion) 11 apr. 2017 - ... THE BEAST directed by Bill Condon ·  Jesse-Jane McParland. . Jesse-Jane has recently completed filming on the second series of INTO THE BADLANDS for AMC alongside Nick Frost, Daniel Wu & Orla Brady. Photo    https://plus.google.com/photos/photo/111450336760724009894/6414582345242814930?icm=false&authkey=COeXkOykzJHnggE  Click on the reaction button below the photo for the video of JJ Golden Dragon https://plus.google.com/photos/photo/111450336760724009894/6415719469902585826?icm=false",0,0,TFE niname,9aIzXYo6VCE,0.07126623376623377,2017-05-12 15:09:34,False,True
+2017-05-12T23:40:59,This is a remake of Three O'Clock High.,0,0,kxmode,9aIzXYo6VCE,0.16,2017-05-12 23:40:59,False,True
+2017-05-13T03:44:34,*Three O'Clock High  copy movie*,1,1,Franco Narvaez,9aIzXYo6VCE,0.16,2017-05-13 03:44:34,False,True
+2017-05-13T06:32:40,Yo le doy una calificación de 4.0 la acabo de ver,1,0,Josue Nieto,9aIzXYo6VCE,0.0,2017-05-13 06:32:40,False,True
+2017-05-14T22:40:18,"Just saw the Movie... 8/10. Too bad the fight didn't take place on a college campus, so Charlie could run to a ""safe space"" with all the other SJWs...",1,0,Kevin Daskal,9aIzXYo6VCE,-0.10833333333333328,2017-05-14 22:40:18,False,True
+2017-05-15T19:21:25,this movie makes you want to punch somebody.,0,0,DBA,9aIzXYo6VCE,0.0,2017-05-15 19:21:25,False,True
+2017-05-16T06:29:44,"This was to be rated R, standing for retarded. Dumbest movie ive ever seen, waste of money",0,0,A Aganik,9aIzXYo6VCE,-0.5,2017-05-16 06:29:44,False,True
+2017-05-20T23:32:27,So now we're making fun of people who were bullied in school? Great...,0,1,T P F,9aIzXYo6VCE,0.55,2017-05-20 23:32:27,False,False
+2017-05-24T12:31:43,للمشاهده https://twitter.com/SuGaRx_WoRLD/status/867355624065179648,0,0,SuGaR X,9aIzXYo6VCE,0.0,2017-05-24 12:31:43,False,False
+2017-05-26T18:48:27,The story is ridicilous-_- like wtf dude,0,0,michelle jayasurya,9aIzXYo6VCE,-0.5,2017-05-26 18:48:27,False,False
+2017-05-29T17:22:26,"it SUCKED! !!No comedies nowadays just swearing and bullshit,no plot,nothing at all.destroying everything we ever knew about comedies.where are the comedies like bad boys?just disappointing waste of time!!",1,0,Irini Anas,9aIzXYo6VCE,-0.5375,2017-05-29 17:22:26,False,False
+2017-05-29T20:28:06,this is the stupidest movie ive ever seen,0,0,Ghostara,9aIzXYo6VCE,0.0,2017-05-29 20:28:06,False,False
+2017-05-30T11:17:50,"I'm a simple man, I see Ice Cube, i hit like. but he don't need to be liked.",0,0,Charles Albutra,9aIzXYo6VCE,0.3,2017-05-30 11:17:50,False,False
+2017-06-01T13:18:31,This was a straight 90's feel movie. And I loved it...,0,0,KBM 515,9aIzXYo6VCE,0.44999999999999996,2017-06-01 13:18:31,False,False
+2017-06-02T00:01:07,"Just watched this movie. It was not only full of colorful cursing, but funny as hell. Every bit of this ""feel-good"" movie was hysterical. There is one part where I couldn't stop laughing because of the audacity of it. Probably the best comedy that I will have seen for a long time coming. I give it 10/10.",0,0,u8sumthinbad,9aIzXYo6VCE,0.12142857142857141,2017-06-02 00:01:07,False,False
+2017-06-04T00:55:02,What is the name of this sound,0,0,Aoomle,9aIzXYo6VCE,0.4,2017-06-04 00:55:02,False,False
+2017-06-04T19:24:17,پوخ یمه,0,0,Bruclee f.z,9aIzXYo6VCE,0.0,2017-06-04 19:24:17,False,False
+2017-06-06T06:05:36,Austin Zajur needs to become famous asap .the kid is a good actor in this movie,0,0,xXGAMING101Xx,9aIzXYo6VCE,0.6,2017-06-06 06:05:36,False,False
+2017-06-14T11:40:31,Who love o fortuna?,0,0,Placeholder Blank space,9aIzXYo6VCE,0.5,2017-06-14 11:40:31,False,False
+2017-06-15T15:48:03,Max and Charlie Carver 😍😍,0,0,Jill V.,9aIzXYo6VCE,0.0,2017-06-15 15:48:03,False,False
+2017-06-24T19:06:45,Man Ice Cube is a sell out now he doing everything to stay relevant even tho he dont want to,0,1,Mando Gucci,9aIzXYo6VCE,0.4,2017-06-24 19:06:45,False,False
+2017-07-08T09:50:52,the bloopers are funnier than the actual movie. the only funny scene is the one with the little girl singing. don't bother :/,1,0,Imany Faith,9aIzXYo6VCE,-0.0375,2017-07-08 09:50:52,False,False
+2017-07-22T05:45:30,this movie is great af. i recommend everyone to watch it.,1,0,Vээzÿ Not,9aIzXYo6VCE,0.8,2017-07-22 05:45:30,False,False
+2017-08-10T03:33:22,"this movie is a remake of three o clock high,!!😇",0,0,Manual Villacana,9aIzXYo6VCE,0.0,2017-08-10 03:33:22,False,False
+2017-08-22T08:27:59,1:10 me when l see a spider on my shoulder,0,0,leyla yetmezz,9aIzXYo6VCE,0.0,2017-08-22 08:27:59,False,False
+2017-09-06T19:27:48,Belize I want the full movie,0,0,اميره باخلاقي,9aIzXYo6VCE,0.35,2017-09-06 19:27:48,False,False
+2017-10-12T03:26:41,"The part when they said ""If you're being bullied please inform a teacher"" Now i remember seeing commercials on tv and wanting to see it but im 13 and its rated r. I never knew it was the same movie xD",0,0,RainyNights,9aIzXYo6VCE,0.0,2017-10-12 03:26:41,False,False
+2017-10-21T07:12:45,😂😂😂😂😂😂,0,0,:,9aIzXYo6VCE,0.0,2017-10-21 07:12:45,False,False
+2017-11-10T00:30:38,Im going to the crevice,0,0,Brody,9aIzXYo6VCE,0.0,2017-11-10 00:30:38,False,False
+2017-11-16T02:54:24,“Flex.” “I am flexing!”  “There’s nothing there.....:/“😂😂😂😂,0,0,Lunar Harmony,9aIzXYo6VCE,0.0,2017-11-16 02:54:24,False,False
+2017-11-16T17:12:21,LOLS,0,0,Blood Reaping Gamer,9aIzXYo6VCE,0.0,2017-11-16 17:12:21,False,False
+2017-11-23T19:44:59,I watch it last night,0,0,Mylee Davis,9aIzXYo6VCE,0.0,2017-11-23 19:44:59,False,False
+2017-12-10T21:12:31,Is that water around them,0,0,Kaden Esparza,9aIzXYo6VCE,0.0,2017-12-10 21:12:31,False,False
+2017-12-11T07:56:28,I don't fuck with you,0,0,Ykia Uchiha,9aIzXYo6VCE,-0.4,2017-12-11 07:56:28,False,False
+2017-12-15T16:06:41,"Only came here for that scene where the little girl says "" I don't fuck with you. "" :)",0,0,Sarah Anna,9aIzXYo6VCE,-0.021875000000000006,2017-12-15 16:06:41,False,False
+2017-12-24T01:43:15,Bizzare concept but too damn funny. Good shit right there 😂,0,0,Eliza Awan,9aIzXYo6VCE,0.2589285714285714,2017-12-24 01:43:15,False,False
+2017-12-31T19:32:50,"The twins, Max and Charlie Carver from Desperate Housewives and Teen Wolf!",0,0,F dL,9aIzXYo6VCE,-0.3,2017-12-31 19:32:50,False,False
+2018-01-31T21:01:09,this was so cool i love it,0,0,Elijah Athelstan,9aIzXYo6VCE,0.425,2018-01-31 21:01:09,False,False
+2018-02-18T04:14:12,Little girl singing was cringy... no wonder teens act stupid. They are made from little.,1,0,Christian Figueroa,9aIzXYo6VCE,-0.3916666666666666,2018-02-18 04:14:12,False,False
+2018-03-06T13:27:33,The trainer looks kinda like jayz a lil bit.,0,0,Random Dude,9aIzXYo6VCE,0.0,2018-03-06 13:27:33,False,False
+2018-03-21T21:55:53,Ksi vs Logan,0,0,Muaz Mahmood,9aIzXYo6VCE,0.0,2018-03-21 21:55:53,False,False
+2018-04-14T00:13:31,HA GOTTI,0,0,Chrissy Holloran,9aIzXYo6VCE,0.0,2018-04-14 00:13:31,False,False
+2018-04-14T00:14:15,Hilarious last day of school bitches,0,0,Chrissy Holloran,9aIzXYo6VCE,0.25,2018-04-14 00:14:15,False,False
+2018-04-27T12:40:52,😂😂😂,0,0,Risa Adistia,9aIzXYo6VCE,0.0,2018-04-27 12:40:52,False,False
+2018-06-08T12:25:21,hahahaa i am a teacher  hahaha,0,0,crazy boy,9aIzXYo6VCE,0.2,2018-06-08 12:25:21,False,False
+2018-06-10T20:04:45,Amazing,0,0,Ti Wozo,9aIzXYo6VCE,0.6000000000000001,2018-06-10 20:04:45,False,False
+2018-07-12T06:07:19,This movie sucked so much!,0,0,wiinterflowers,9aIzXYo6VCE,0.25,2018-07-12 06:07:19,False,False
+2018-07-15T00:58:54,Um guys don't not let the kids see this movie do not try this at home,0,0,Super Semaj Gamer,9aIzXYo6VCE,0.0,2018-07-15 00:58:54,False,False
+2018-07-15T00:59:40,0:19,0,0,Super Semaj Gamer,9aIzXYo6VCE,0.0,2018-07-15 00:59:40,False,False
+2018-07-17T00:25:42,BGC,0,0,Brooklyn Fresh,9aIzXYo6VCE,0.0,2018-07-17 00:25:42,False,False
+2018-08-05T02:09:28,O Fortuna is always the perfect and right music mix for this comedy movie trailer.,0,0,BM Marcelo,9aIzXYo6VCE,0.6428571428571428,2018-08-05 02:09:28,False,False
+2018-10-07T10:37:35,IM GETTING THIS DVD,0,0,Clive,9aIzXYo6VCE,0.0,2018-10-07 10:37:35,False,False
+2018-10-23T14:11:41,He's like that dude from American Dad. The black guy.,0,0,Rebel Fleet Trooper,9aIzXYo6VCE,-0.08333333333333333,2018-10-23 14:11:41,False,False
+2018-11-14T04:38:16,*I DON’T FUCK WITH YOU*,0,0,Peyton Playz,9aIzXYo6VCE,-0.4,2018-11-14 04:38:16,False,False
+2018-12-11T18:48:21,Aidennnnn,0,0,Paula,9aIzXYo6VCE,0.0,2018-12-11 18:48:21,False,False
+2018-12-17T13:16:38,Fucking 3 O'Clock High but teachers instead of students. He even gets a bigger guy to fight for him just like Jerry did.,0,0,Sarys,9aIzXYo6VCE,-0.14666666666666664,2018-12-17 13:16:38,False,False
+2018-12-31T16:49:43,Godzilla vs king Kon,0,0,Godzilla Gamer,9aIzXYo6VCE,0.0,2018-12-31 16:49:43,False,False
+2019-01-01T04:13:35,Who else came from tik toc.,0,0,Kaylea Hightower,9aIzXYo6VCE,0.0,2019-01-01 04:13:35,False,False
+2019-01-23T04:46:23,Right because every fight starts with “I’m gonna fight you” 😂,6,0,Trevor Donegan,9aIzXYo6VCE,0.2857142857142857,2019-01-23 04:46:23,False,False
+2019-01-30T01:46:23,On people fighting list were is Godzilla vs King Kong,0,0,Godzilla Gamer,9aIzXYo6VCE,0.0,2019-01-30 01:46:23,False,False
+2019-02-16T16:24:16,ice cube sucks in this lol,0,0,Iron Buddha,9aIzXYo6VCE,0.25,2019-02-16 16:24:16,False,False
+2019-03-25T17:19:11,0:29 when i saw this i died,1,1,Antonisアライグマ,9aIzXYo6VCE,0.0,2019-03-25 17:19:11,False,False
+2019-04-20T02:47:23,u lil stupid as bitch i aint fucking with yOUUUU,1,0,ZaCh I_XaNdEr,9aIzXYo6VCE,-0.7,2019-04-20 02:47:23,False,False
+2019-04-22T12:42:55,Is this on Netflix? :(,0,0,Vanessa Baez,9aIzXYo6VCE,-0.75,2019-04-22 12:42:55,False,False
+2019-04-27T01:56:03,Is this the first school film I've seen without Kevin Hart,0,0,Chromie,9aIzXYo6VCE,0.25,2019-04-27 01:56:03,False,False
+2019-06-15T16:40:28,*You Got gas money*,0,0,Amit,9aIzXYo6VCE,0.0,2019-06-15 16:40:28,False,False
+2019-07-19T21:23:16,"Racists robber_ideas, it's a mexican fight between teachers in Mexico fuck off USA and thief  Trump, you just copied mexican users",0,0,Maya Democrat,9aIzXYo6VCE,-0.13333333333333333,2019-07-19 21:23:16,False,False
+2019-08-05T22:33:49,That was the most fucked up movie i’ve ever seen but i loved it. Its perfect to watch it after a tired day or a really bad one.,0,1,Stf Rzv,9aIzXYo6VCE,0.08333333333333338,2019-08-05 22:33:49,False,False
+2019-08-16T11:09:50,2   0     1       9         ?,0,0,G Arnold 17,9aIzXYo6VCE,0.0,2019-08-16 11:09:50,False,False
+2019-08-16T12:51:18,Godzilla vs Kong should have been in the list of people vs each other,1,0,Godzilla Gamer,9aIzXYo6VCE,-0.125,2019-08-16 12:51:18,False,False
+2019-08-30T00:19:44,Bully this Trisha! Mic drop...,1,0,R Feyman,9aIzXYo6VCE,0.0,2019-08-30 00:19:44,False,False
+2019-09-07T13:39:17,Ice cube vs Kevin Heart,0,0,Nikolos Becker,9aIzXYo6VCE,0.0,2019-09-07 13:39:17,False,False
+2019-09-13T05:27:47,What if FIST FIGHT of US will have a Collaboration movie of GREAT TEACHER ONIZUKA AND GOKUSEN of Japan? It will be really good...,0,0,Lyndie Yano,9aIzXYo6VCE,0.75,2019-09-13 05:27:47,False,False
+2019-09-18T20:43:10,Charlie? Playing a teacher? Did he adapt to reading?,0,0,Carl Johnson,9aIzXYo6VCE,0.0,2019-09-18 20:43:10,False,False
+2019-09-26T20:43:22,Wht song is tht,0,0,Hamzah Khan,9aIzXYo6VCE,0.0,2019-09-26 20:43:22,False,False
+2019-10-24T16:57:46,Ok this movie is brilliant it really funny 😂,1,0,H,9aIzXYo6VCE,0.5499999999999999,2019-10-24 16:57:46,False,False
+2019-12-18T03:40:31,"Knockoff of the 1987 movie ""Three O'Clock High"" https://www.youtube.com/watch?v=rDpq2DjaQOY",0,0,Mr. ENGlishJELLo,9aIzXYo6VCE,0.16,2019-12-18 03:40:31,False,False
+2019-12-22T02:38:34,This was an awful movie,0,0,James Haye,9aIzXYo6VCE,-1.0,2019-12-22 02:38:34,False,False
+2019-12-28T11:36:37,"Charlie would kick his ass no problem, I mean we all saw what he did to that Mall Santa.",0,0,Dead Cool,9aIzXYo6VCE,-0.3125,2019-12-28 11:36:37,False,False
+2020-02-13T03:59:30,🔥🔥🔥🔥 1:25 ❤💖   👇💛,1,0,Joziah Bullock,9aIzXYo6VCE,0.0,2020-02-13 03:59:30,False,False
+2020-02-19T02:56:27,Am I the only one who thinks of him as Dale from Horrible Bosses and not Charlie from IASIP?,2,0,Just a Dancing Hotdog,9aIzXYo6VCE,-0.5,2020-02-19 02:56:27,False,False
+2020-02-20T08:12:57,"Does it get an oscar?   No, no, of course not",0,0,Nad Nav,9aIzXYo6VCE,0.0,2020-02-20 08:12:57,False,False
+2020-02-28T13:23:11,🔥🔥🔥🔥🔥   a tough fight   1:58 💕🔥💃💛    👇 👇 👇🔥💃,0,0,Hezekiah Meyers,9aIzXYo6VCE,-0.3888888888888889,2020-02-28 13:23:11,False,False
+2020-03-07T09:54:10,I love charlie day jesus,0,0,Courtney Hazlewood,9aIzXYo6VCE,0.5,2020-03-07 09:54:10,False,False
+2020-03-09T19:29:09,🔥🔥🔥🔥   much excited as one looks on   0:35 💝🔥     👇 👇 👇 👇 👇💗,0,0,Cassius Bentley,9aIzXYo6VCE,0.375,2020-03-09 19:29:09,False,False
+2020-03-12T00:24:55,🔥🔥   a serious blow   1:39 💟💚    👇👇👇👇👇💛,0,0,Houston Butler,9aIzXYo6VCE,-0.3333333333333333,2020-03-12 00:24:55,False,False
+2020-03-14T07:17:22,🔥🔥   holds your attention to the end   1:53 🔥💯    👇👇👇👇🔥,0,0,ARI L,9aIzXYo6VCE,0.0,2020-03-14 07:17:22,False,False
+2020-03-23T11:23:19,🔥   real fight   0:39 💛🔥💕    👇 👇 👇🥊,0,0,Casey Nicholson,9aIzXYo6VCE,0.2,2020-03-23 11:23:19,False,False
+2020-03-24T21:44:40,I can't believe they didn't put his daughter singing at the talent show that's like the best part,2,1,Sophie,9aIzXYo6VCE,1.0,2020-03-24 21:44:40,False,False
+2020-04-01T22:10:42,This movie was so good.,0,0,Cali,9aIzXYo6VCE,0.7,2020-04-01 22:10:42,False,False
+2020-04-08T00:09:36,3 o clock high?,1,0,The Nerd Director,9aIzXYo6VCE,0.16,2020-04-08 00:09:36,False,False
+2020-04-29T23:31:26,Yoooooo the 911 operator lady is auntie suga from next Friday 🤯🥺😍,0,0,Tamu Domoni,9aIzXYo6VCE,0.0,2020-04-29 23:31:26,False,False
+2020-05-15T22:10:33,Niceeeee,0,0,Só não pisa no meu boot,9aIzXYo6VCE,0.0,2020-05-15 22:10:33,False,False
+2020-05-21T19:21:46,ℚ,1,0,aidencrow11,9aIzXYo6VCE,0.0,2020-05-21 19:21:46,False,False
+2020-06-10T04:46:26,This movie was so epic I watch it 5 times 😂,0,0,Tony Clarke,9aIzXYo6VCE,0.1,2020-06-10 04:46:26,False,False
+2020-06-11T12:57:59,im gonna watch this for the song which is for trishia(idk how to write it srry),1,0,Lilyx _,9aIzXYo6VCE,0.0,2020-06-11 12:57:59,False,False

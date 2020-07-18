@@ -1,138 +1,32 @@
-2020-07-16 17:48:02,399 INFO ==============================
-2020-07-16 17:48:05,713 INFO Information for *Joker*:
-2020-07-16 17:48:05,717 INFO Trailers for *Joker*:
-2020-07-16 17:48:06,440 INFO Sentiment of trailer comments:
-2020-07-16 17:48:08,818 INFO Opening box office prediction:
-2020-07-16 18:01:30,399 INFO ==============================
-2020-07-16 18:01:30,401 INFO ==============================
-2020-07-16 18:01:33,956 INFO Information for *Joker*:
-2020-07-16 18:01:33,957 INFO Trailers for *Joker*:
-2020-07-16 18:01:33,977 INFO Information for *Joker*:
-2020-07-16 18:01:33,979 INFO Trailers for *Joker*:
-2020-07-16 18:01:35,219 INFO Sentiment of trailer comments:
-2020-07-16 18:01:35,280 INFO Sentiment of trailer comments:
-2020-07-16 18:01:39,498 INFO Opening box office prediction:
-2020-07-16 18:01:39,571 INFO Opening box office prediction:
-2020-07-16 18:04:29,293 INFO ==============================
-2020-07-16 18:04:32,102 INFO Sorry, the movie '*aaa*' is not found, please retry with a standard IMDB movie title.
-2020-07-16 18:04:38,131 INFO ==============================
-2020-07-16 18:04:40,076 INFO Information for *Frozen II*:
-2020-07-16 18:04:40,077 INFO Trailers for *Frozen II*:
-2020-07-16 18:04:40,577 INFO Sentiment of trailer comments:
-2020-07-16 18:04:41,722 INFO Opening box office prediction:
-2020-07-16 18:04:59,345 INFO ==============================
-2020-07-16 18:05:02,431 INFO Information for *Titanic*:
-2020-07-16 18:05:02,431 INFO Sorry, the movie '*titanic*' is before 2014 and may not fit well with the model. Please retry with a movie after 2014.
-2020-07-16 18:05:36,320 INFO ==============================
-2020-07-16 18:05:39,610 INFO Information for *Avengers: Endgame*:
-2020-07-16 18:05:39,611 INFO Trailers for *Avengers: Endgame*:
-2020-07-16 18:05:40,993 INFO Sentiment of trailer comments:
-2020-07-16 18:05:44,215 INFO Opening box office prediction:
-2020-07-16 18:05:58,543 INFO ==============================
-2020-07-16 18:06:01,579 INFO Information for *Terminator: Dark Fate*:
-2020-07-16 18:06:01,581 INFO Trailers for *Terminator: Dark Fate*:
-2020-07-16 18:06:01,879 INFO Sentiment of trailer comments:
-2020-07-16 18:06:02,393 INFO Opening box office prediction:
-2020-07-16 18:06:28,462 INFO ==============================
-2020-07-16 18:06:31,378 INFO Information for *Toy Story 4*:
-2020-07-16 18:06:31,379 INFO Trailers for *Toy Story 4*:
-2020-07-16 18:06:31,381 INFO Comments about the trailers are not available.
-2020-07-16 18:06:31,382 INFO Opening box office prediction:
-2020-07-16 18:06:39,863 INFO ==============================
-2020-07-16 18:06:43,485 INFO Information for *Mulan*:
-2020-07-16 18:06:43,487 INFO Trailers for *Mulan*:
-2020-07-16 18:06:43,957 INFO Sentiment of trailer comments:
-2020-07-16 18:06:45,482 INFO Opening box office prediction:
-2020-07-16 19:35:04,923 INFO ==============================
-2020-07-16 19:35:04,959 INFO INPUT: Joker
-2020-07-16 19:35:05,662 INFO ==============================
-2020-07-16 19:35:05,663 INFO INPUT: Joker
-2020-07-16 19:35:08,696 INFO Information for *Joker*:
-2020-07-16 19:35:08,698 INFO Trailers for *Joker*:
-2020-07-16 19:35:08,705 INFO Information for *Joker*:
-2020-07-16 19:35:08,707 INFO Trailers for *Joker*:
-2020-07-16 19:35:09,981 INFO Sentiment of trailer comments:
-2020-07-16 19:35:10,057 INFO Sentiment of trailer comments:
-2020-07-16 19:35:14,508 INFO Opening box office prediction:
-2020-07-16 19:35:14,585 INFO Opening box office prediction:
-2020-07-16 19:35:32,389 INFO ==============================
-2020-07-16 19:35:32,389 INFO INPUT: aaa
-2020-07-16 19:35:35,484 INFO Sorry, the movie '*aaa*' is not found, please retry with a standard IMDB movie title.
-2020-07-16 19:36:38,075 INFO ==============================
-2020-07-16 19:36:38,075 INFO INPUT: Joker
-2020-07-16 19:36:40,409 INFO Information for *Joker*:
-2020-07-16 19:36:40,411 INFO Trailers for *Joker*:
-2020-07-16 19:36:41,108 INFO Sentiment of trailer comments:
-2020-07-16 19:36:43,383 INFO Opening box office prediction:
-2020-07-16 19:38:35,111 INFO ==============================
-2020-07-16 19:38:35,111 INFO INPUT: frozen ii
-2020-07-16 19:38:36,855 INFO Information for *Frozen II*:
-2020-07-16 19:38:36,857 INFO Trailers for *Frozen II*:
-2020-07-16 19:38:37,376 INFO Sentiment of trailer comments:
-2020-07-16 19:38:38,498 INFO Opening box office prediction:
-2020-07-16 19:38:39,661 INFO ==============================
-2020-07-16 19:38:39,661 INFO INPUT: Terminator: dark fate
-2020-07-16 19:38:42,073 INFO Information for *Terminator: Dark Fate*:
-2020-07-16 19:38:42,075 INFO Trailers for *Terminator: Dark Fate*:
-2020-07-16 19:38:42,373 INFO Sentiment of trailer comments:
-2020-07-16 19:38:42,993 INFO Opening box office prediction:
-2020-07-16 19:40:18,293 INFO ==============================
-2020-07-16 19:40:18,293 INFO INPUT: joker
-2020-07-16 19:40:19,067 INFO ==============================
-2020-07-16 19:40:19,067 INFO INPUT: Sonic the Hedgehog
-2020-07-16 19:40:21,535 INFO Information for *Joker*:
-2020-07-16 19:40:21,537 INFO Trailers for *Joker*:
-2020-07-16 19:40:22,400 INFO Sentiment of trailer comments:
-2020-07-16 19:40:23,416 INFO Information for *Sonic the Hedgehog*:
-2020-07-16 19:40:23,418 INFO Trailers for *Sonic the Hedgehog*:
-2020-07-16 19:40:24,712 INFO Sentiment of trailer comments:
-2020-07-16 19:40:26,018 INFO Opening box office prediction:
-2020-07-16 19:40:27,906 INFO Opening box office prediction:
-2020-07-16 19:42:41,457 INFO ==============================
-2020-07-16 19:42:41,458 INFO INPUT: Joker
-2020-07-16 19:42:42,220 INFO ==============================
-2020-07-16 19:42:42,220 INFO INPUT: Joker
-2020-07-16 19:42:44,243 INFO Information for *Joker*:
-2020-07-16 19:42:44,245 INFO Trailers for *Joker*:
-2020-07-16 19:42:44,540 INFO Information for *Joker*:
-2020-07-16 19:42:44,542 INFO Trailers for *Joker*:
-2020-07-16 19:42:45,457 INFO Sentiment of trailer comments:
-2020-07-16 19:42:45,922 INFO Sentiment of trailer comments:
-2020-07-16 19:42:49,954 INFO Opening box office prediction:
-2020-07-16 19:42:49,988 INFO Opening box office prediction:
-2020-07-16 19:43:13,461 INFO ==============================
-2020-07-16 19:43:13,461 INFO INPUT: mulan
-2020-07-16 19:43:16,656 INFO Information for *Mulan*:
-2020-07-16 19:43:16,658 INFO Trailers for *Mulan*:
-2020-07-16 19:43:17,133 INFO Sentiment of trailer comments:
-2020-07-16 19:43:18,811 INFO Opening box office prediction:
-2020-07-16 19:43:34,439 INFO ==============================
-2020-07-16 19:43:34,439 INFO INPUT: Jojo Rabbit
-2020-07-16 19:43:36,401 INFO Information for *Jojo Rabbit*:
-2020-07-16 19:43:36,402 INFO Trailers for *Jojo Rabbit*:
-2020-07-16 19:43:36,473 INFO Sentiment of trailer comments:
-2020-07-16 19:43:36,606 INFO Opening box office prediction:
-2020-07-16 19:44:06,475 INFO ==============================
-2020-07-16 19:44:06,475 INFO INPUT: Queen & Slim
-2020-07-16 19:44:07,857 INFO Information for *Queen & Slim*:
-2020-07-16 19:44:07,859 INFO Trailers for *Queen & Slim*:
-2020-07-16 19:44:07,882 INFO Sentiment of trailer comments:
-2020-07-16 19:44:07,948 INFO Opening box office prediction:
-2020-07-16 19:44:26,638 INFO ==============================
-2020-07-16 19:44:26,638 INFO INPUT: The Last Full Measure
-2020-07-16 19:44:28,851 INFO Information for *The Last Full Measure*:
-2020-07-16 19:44:31,549 WARNING Search trailer list on Youtube. Trailer list: ['Go8zI2sytEc', 'GzEe75PYnEg']
-2020-07-16 19:44:31,550 INFO Trailers for *The Last Full Measure*:
-2020-07-16 19:44:34,689 WARNING Fetch trailer comments on Youtube. Trailer: Go8zI2sytEc
-2020-07-16 19:44:37,400 WARNING Fetch trailer comments on Youtube. Trailer: GzEe75PYnEg
-2020-07-16 19:44:37,414 INFO Sentiment of trailer comments:
-2020-07-16 19:44:37,532 INFO Opening box office prediction:
-2020-07-16 19:45:09,747 INFO ==============================
-2020-07-16 19:45:09,747 INFO INPUT: The Assistant
-2020-07-16 19:45:14,232 INFO Information for *The Assistant*:
-2020-07-16 19:45:17,235 WARNING Search trailer list on Youtube. Trailer list: ['z9761kQCNWc', '6cLf0i-kYio']
-2020-07-16 19:45:17,236 INFO Trailers for *The Assistant*:
-2020-07-16 19:45:20,666 WARNING Fetch trailer comments on Youtube. Trailer: z9761kQCNWc
-2020-07-16 19:45:26,373 WARNING Fetch trailer comments on Youtube. Trailer: 6cLf0i-kYio
-2020-07-16 19:45:26,389 INFO Sentiment of trailer comments:
-2020-07-16 19:45:26,516 INFO Sorry, budget of the movie is not found. Thus can't do box office prediction.
+2020-07-18 07:54:17,402 INFO ****** Setup Google Analytics js script...
+2020-07-18 07:54:17,403 INFO ****** <script async id="GoogleAnalytics-js" src="https://www.googletagmanager.com/gtag/js?id=UA-172987294-1"></script>
+2020-07-18 07:54:18,650 INFO ==============================
+2020-07-18 07:54:18,650 INFO INPUT: Joker
+2020-07-18 07:54:21,650 INFO Information for *Joker*:
+2020-07-18 07:54:21,652 INFO Trailers for *Joker*:
+2020-07-18 07:54:22,350 INFO Sentiment of Youtube comments on above trailers:
+2020-07-18 07:54:24,604 INFO Prediction of first week box office:
+2020-07-18 07:54:51,531 INFO ==============================
+2020-07-18 07:54:51,531 INFO INPUT: Joker
+2020-07-18 07:54:53,507 INFO Information for *Joker*:
+2020-07-18 07:54:53,509 INFO Trailers for *Joker*:
+2020-07-18 07:54:54,221 INFO Sentiment of Youtube comments on above trailers:
+2020-07-18 07:54:56,444 INFO Prediction of first week box office:
+2020-07-18 07:56:05,278 INFO ==============================
+2020-07-18 07:56:05,278 INFO INPUT: The Assistant
+2020-07-18 07:56:10,064 INFO Information for *The Assistant*:
+2020-07-18 07:56:10,066 INFO Trailers for *The Assistant*:
+2020-07-18 07:56:10,085 INFO Sentiment of Youtube comments on above trailers:
+2020-07-18 07:56:10,204 INFO Sorry, budget of the movie is not found. Thus can't do box office prediction.
+2020-07-18 07:56:30,227 INFO ==============================
+2020-07-18 07:56:30,227 INFO INPUT: Color Out of Space
+2020-07-18 07:56:32,839 INFO Information for *Color Out of Space*:
+2020-07-18 07:56:35,342 WARNING Search trailer list on Youtube. Trailer list: ['agnpaFLo0to', 'RfYAXMwCpk0']
+2020-07-18 07:56:35,343 INFO Trailers for *Color Out of Space*:
+2020-07-18 07:56:40,531 WARNING Fetch trailer comments on Youtube. Trailer: agnpaFLo0to
+2020-07-18 07:57:00,295 WARNING Fetch trailer comments on Youtube. Trailer: RfYAXMwCpk0
+2020-07-18 07:57:00,318 INFO Sentiment of Youtube comments on above trailers:
+2020-07-18 07:57:00,465 INFO Prediction of first week box office:
+2020-07-18 07:57:27,251 INFO ==============================
+2020-07-18 07:57:27,251 INFO INPUT: aaaa
+2020-07-18 07:57:27,683 INFO Sorry, the movie '*aaaa*' is not found, please retry with a standard IMDB movie title.

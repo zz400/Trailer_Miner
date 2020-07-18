@@ -1,0 +1,678 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2016-09-08T15:21:55,first,0,0,Schweiner Schinkler,gdLXPv5NsA4,0.25,2016-09-08 15:21:55,True,True
+2016-09-08T15:22:01,first,0,0,Patrick C.,gdLXPv5NsA4,0.25,2016-09-08 15:22:01,True,True
+2016-09-08T15:22:17,First comment and view.,0,1,Vicente fuentes,gdLXPv5NsA4,0.25,2016-09-08 15:22:17,True,True
+2016-09-08T15:22:36,"McConaughey always brings the best movies, cannot wait.",197,5,Mr Not That Famous,gdLXPv5NsA4,1.0,2016-09-08 15:22:36,True,True
+2016-09-08T15:22:55,⊂_ヽ 　 ＼＼ 　　 ＼( ͡° ͜ʖ ͡°) 　　 　⌒ヽ 　　　/ 　 へ＼ 　　 /　　/　＼＼ 　　 ﾚ　ノ　　 ヽ_つ 　　/　/ 　 /　/| 　(　(ヽ 　|　|、＼ 　| 丿 ＼ ⌒) 　| |　　) / `ノ )　　Lﾉ (_／,46,3,Bolt the Superdog,gdLXPv5NsA4,0.0,2016-09-08 15:22:55,True,True
+2016-09-08T15:23:17,ok,0,0,EL ÑATO,gdLXPv5NsA4,0.5,2016-09-08 15:23:17,True,True
+2016-09-08T15:23:18,cool,0,0,adrian .c,gdLXPv5NsA4,0.35,2016-09-08 15:23:18,True,True
+2016-09-08T15:23:38,Thousand likes  for my comment  plz ..😐 let me be in the top,0,0,Husayn Kamil Ni'mah,gdLXPv5NsA4,0.5,2016-09-08 15:23:38,True,True
+2016-09-08T15:23:51,first,0,0,Adnan Mahboob,gdLXPv5NsA4,0.25,2016-09-08 15:23:51,True,True
+2016-09-08T15:23:59,I love him what song is playing!?,0,2,yann m,gdLXPv5NsA4,0.625,2016-09-08 15:23:59,True,True
+2016-09-08T15:24:47,Damn this looks actually very interesting.,0,0,Gen Games,gdLXPv5NsA4,0.65,2016-09-08 15:24:47,True,True
+2016-09-08T15:25:01,Fea,0,0,cᴀʏᴅᴇɴ,gdLXPv5NsA4,0.0,2016-09-08 15:25:01,True,True
+2016-09-08T15:25:11,looks like trash,1,0,android 18 stan,gdLXPv5NsA4,0.0,2016-09-08 15:25:11,True,True
+2016-09-08T15:25:28,Alright alright alright!😍,0,0,Hemanth G,gdLXPv5NsA4,0.0,2016-09-08 15:25:28,True,True
+2016-09-08T15:25:52,feels weird seeing McConaughey  part bald,5,0,PTR,gdLXPv5NsA4,-0.5,2016-09-08 15:25:52,True,True
+2016-09-08T15:26:06,trailer spoilers to much of the story but it looks intressting love matthews new hair cut haha,239,12,DeadpoolsX,gdLXPv5NsA4,0.2590909090909091,2016-09-08 15:26:06,True,True
+2016-09-08T15:26:13,The wolf of gold business,0,0,RAKESH DAS,gdLXPv5NsA4,0.0,2016-09-08 15:26:13,True,True
+2016-09-08T15:26:30,Can't wait for this!!!!,0,0,TheRubberStudiosASMR,gdLXPv5NsA4,0.0,2016-09-08 15:26:30,True,True
+2016-09-08T15:26:43,Assassin's creed,0,0,Noctis Caelum,gdLXPv5NsA4,0.0,2016-09-08 15:26:43,True,True
+2016-09-08T15:26:52,Mehhh...,0,0,Dimitris Bright,gdLXPv5NsA4,0.0,2016-09-08 15:26:52,True,True
+2016-09-08T15:27:07,He's not a fool anymore.,0,0,Jørgen,gdLXPv5NsA4,0.0,2016-09-08 15:27:07,True,True
+2016-09-08T15:27:44,Kind of reminds me of the wolf of Wall Street,306,13,Deformed Adult Man,gdLXPv5NsA4,0.6,2016-09-08 15:27:44,True,True
+2016-09-08T15:27:56,WOWW INDONESIA that's my lovely land !!!! and I SAW AN OSCAR just now,0,0,sky fia,gdLXPv5NsA4,1.0,2016-09-08 15:27:56,True,True
+2016-09-08T15:28:06,k i lost it at the tiger.. this shit is stupid,0,0,Sevira Asynjur,gdLXPv5NsA4,-0.5,2016-09-08 15:28:06,True,True
+2016-09-08T15:28:22,there is a thai actor,0,0,Anariah Wang,gdLXPv5NsA4,0.0,2016-09-08 15:28:22,True,True
+2016-09-08T15:29:29,Does Mconaughey ever take a break? This dude always has stuff in theaters.,0,0,Commence FA,gdLXPv5NsA4,0.0,2016-09-08 15:29:29,True,True
+2016-09-08T15:30:39,"Alright, alright, alright...",6,0,Mc Melon,gdLXPv5NsA4,0.0,2016-09-08 15:30:39,True,True
+2016-09-08T15:32:33,Love his hair XD,0,0,Supermovies,gdLXPv5NsA4,0.5,2016-09-08 15:32:33,True,True
+2016-09-08T15:33:15,Matheww!! We found a goldmine hee!  Matthew : ...  Mathew??  (Pat shoulder) Matthew : ALRIGHT.. ALRIGHT.. ALRIGHT..,7,0,PaneMando,gdLXPv5NsA4,0.0,2016-09-08 15:33:15,True,True
+2016-09-08T15:33:17,"1 LIKE = $1,000,000,000 🤑 1 SUB = Immortality + your crush 👼🏽💗 1 COMMENT = Infinite luck 😍🍀",0,0,S Singh,gdLXPv5NsA4,0.0,2016-09-08 15:33:17,True,True
+2016-09-08T15:33:47,Nice,0,0,Shannon Blair,gdLXPv5NsA4,0.6,2016-09-08 15:33:47,True,True
+2016-09-08T15:34:53,Fools gold 2 lol,0,0,Everyday Gaming,gdLXPv5NsA4,0.8,2016-09-08 15:34:53,True,True
+2016-09-08T15:35:57,Fools Gold 2,0,0,vapid vices,gdLXPv5NsA4,0.0,2016-09-08 15:35:57,True,True
+2016-09-08T15:36:47,It's the Wolf of Wall Street Cinematic Universe!,33,0,Lucien WD,gdLXPv5NsA4,0.0,2016-09-08 15:36:47,True,True
+2016-09-08T15:37:51,"Great fee movie, it was good maybe more development between his wife but overrall 6/10",0,3,Fanboys Love To Cry like Girls,gdLXPv5NsA4,0.6666666666666666,2016-09-08 15:37:51,True,True
+2016-09-08T15:42:31,its in indo nice,0,0,ElixBomber,gdLXPv5NsA4,0.6,2016-09-08 15:42:31,True,True
+2016-09-08T15:42:41,"Don't trust Darren Cross, Matthew. It won't end well.",43,3,TwilitLugia,gdLXPv5NsA4,0.0,2016-09-08 15:42:41,True,True
+2016-09-08T15:42:52,ugh humans.,0,0,Satvik Soni,gdLXPv5NsA4,0.0,2016-09-08 15:42:52,True,True
+2016-09-08T15:43:03,I still want a sequel to interstellar...I want to know if he finds her.,0,0,VoidFish,gdLXPv5NsA4,0.0,2016-09-08 15:43:03,True,True
+2016-09-08T15:43:09,Edgar Ramírez Venezuela is proud of you,0,0,Alejandro E,gdLXPv5NsA4,0.8,2016-09-08 15:43:09,True,True
+2016-09-08T15:44:14,alrirght alright alright,1,0,Giovansiva,gdLXPv5NsA4,0.0,2016-09-08 15:44:14,True,True
+2016-09-08T15:44:21,So wolf of wall street + gold= THIS,0,0,Alejandro E,gdLXPv5NsA4,0.0,2016-09-08 15:44:21,True,True
+2016-09-08T15:44:25,it looks gooood,0,0,Netizaki,gdLXPv5NsA4,0.0,2016-09-08 15:44:25,True,True
+2016-09-08T15:44:39,alrirght alright alri...wtf is even that hair,0,0,Giovansiva,gdLXPv5NsA4,0.0,2016-09-08 15:44:39,True,True
+2016-09-08T15:46:55,The Wolf Of Gold Street?,10,0,iamdikko,gdLXPv5NsA4,0.0,2016-09-08 15:46:55,True,True
+2016-09-08T15:49:01,#VENEZUELA NOJODAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!! MAMAGUEBA SEA ESTE COÑO E' SU MADREEEEEE... DEJANDO EL NOMBRE DE VENEZUELA POR TODO LO ALTOOOOOO... ASÍ ES CARAJOOOOOOO... #Proud #RoleModel #SíLaDa,0,0,Rodrigo Colina.,gdLXPv5NsA4,0.8,2016-09-08 15:49:01,True,True
+2016-09-08T15:54:45,"I knew the ending will be like this, greed is never beneficial.",0,0,Victor T,gdLXPv5NsA4,0.0,2016-09-08 15:54:45,True,True
+2016-09-08T15:55:10,the narcos trailer before this trailer had the same song in it,0,0,Daskaar,gdLXPv5NsA4,0.0,2016-09-08 15:55:10,True,True
+2016-09-08T15:55:20,looks like Johnny Quid became FBI instead of a real Rock'nRolla.,0,0,Faust Smith,gdLXPv5NsA4,0.2,2016-09-08 15:55:20,True,True
+2016-09-08T15:56:03,reminds me of the wolf of wall street,0,0,A EL,gdLXPv5NsA4,0.0,2016-09-08 15:56:03,True,True
+2016-09-08T15:56:13,"Alright, Alright...Alright!",0,0,Nithin V Gopal,gdLXPv5NsA4,0.0,2016-09-08 15:56:13,True,True
+2016-09-08T15:58:20,When it started i thought it was Uncharted:The movie..,0,0,Ειρήνη Σαλούστρου,gdLXPv5NsA4,0.0,2016-09-08 15:58:20,True,True
+2016-09-08T15:59:19,Gold: The Trevor Phillips Story.,3,0,Skynet1,gdLXPv5NsA4,0.0,2016-09-08 15:59:19,True,True
+2016-09-08T16:00:27,He looks like Tom Cruise in Tropic Thunder ^^,0,0,Frank van Wijhe,gdLXPv5NsA4,0.0,2016-09-08 16:00:27,True,True
+2016-09-08T16:00:27,I love movies like this,0,0,GravityGamerXCII™,gdLXPv5NsA4,0.5,2016-09-08 16:00:27,True,True
+2016-09-08T16:01:50,Edgar ramirez saposss hablale,0,0,Juanito Alcachofa,gdLXPv5NsA4,0.0,2016-09-08 16:01:50,True,True
+2016-09-08T16:03:00,You know what a fugazi is?,0,0,Darkor56,gdLXPv5NsA4,0.0,2016-09-08 16:03:00,True,True
+2016-09-08T16:03:48,the wolf of wale street in another vision,5,0,mo0onlightmovies,gdLXPv5NsA4,0.0,2016-09-08 16:03:48,True,True
+2016-09-08T16:03:54,0:57 Iron Maiden T-Shirt! Up the Irons!,0,0,Anton Tati,gdLXPv5NsA4,0.0,2016-09-08 16:03:54,True,True
+2016-09-08T16:05:33,some of the better direct to video flicks of the year,1,0,Xenial Xerus,gdLXPv5NsA4,0.3,2016-09-08 16:05:33,True,True
+2016-09-08T16:05:38,Peter Russo! <3,0,0,ThePowerOfAngel,gdLXPv5NsA4,1.0,2016-09-08 16:05:38,True,True
+2016-09-08T16:08:35,The Wolf of Gold Mines,0,0,PeterMcPete,gdLXPv5NsA4,0.0,2016-09-08 16:08:35,True,True
+2016-09-08T16:11:27,There Will Be Blood all over again ;D,11,0,Mateusz Nowak,gdLXPv5NsA4,0.25,2016-09-08 16:11:27,True,True
+2016-09-08T16:11:40,McConaughey is at it again! I smell another Oscar coming along..,0,0,Vs2nice,gdLXPv5NsA4,0.0,2016-09-08 16:11:40,True,True
+2016-09-08T16:13:28,Murph....,0,0,AnnoyingOnion,gdLXPv5NsA4,0.0,2016-09-08 16:13:28,True,True
+2016-09-08T16:15:59,"alright alright alright.. with all that money, he could've done something with his hair..",0,0,Manzar Sajjad,gdLXPv5NsA4,0.0,2016-09-08 16:15:59,True,True
+2016-09-08T16:22:27,Intersteller 2!!!!,0,0,toolizawesome,gdLXPv5NsA4,0.0,2016-09-08 16:22:27,True,True
+2016-09-08T16:26:06,alite alite alite.,0,0,Vd3r,gdLXPv5NsA4,0.0,2016-09-08 16:26:06,True,True
+2016-09-08T16:26:23,Wolf of wall street and a little hangover i guess. Cool,0,0,Mustafa Sevindik,gdLXPv5NsA4,0.08124999999999999,2016-09-08 16:26:23,True,True
+2016-09-08T16:27:49,Song matched the trailer pretty well,0,0,Jesse Meyer,gdLXPv5NsA4,0.25,2016-09-08 16:27:49,True,True
+2016-09-08T16:28:18,He needs a good movie after Free State of Crap,0,0,Lateralusian,gdLXPv5NsA4,0.10000000000000002,2016-09-08 16:28:18,True,True
+2016-09-08T17:05:48,Fool's gold? Lol,1,0,Hey Looey,gdLXPv5NsA4,0.8,2016-09-08 17:05:48,True,True
+2016-09-08T17:07:43,Bryce Dallas Howard forever stays fire.,0,0,Kyle Mosher,gdLXPv5NsA4,0.0,2016-09-08 17:07:43,True,True
+2016-09-08T17:08:34,sequel to fool's gold?,0,0,xxXeRoXxx21,gdLXPv5NsA4,0.0,2016-09-08 17:08:34,True,True
+2016-09-08T17:10:35,Now we know what happened to his wolf of wall street character after going bankrupt,0,0,Navi Gill,gdLXPv5NsA4,0.0,2016-09-08 17:10:35,True,True
+2016-09-08T17:11:14,"Supernatural fans be like ""I know this song!""",45,9,StoneGuy,gdLXPv5NsA4,0.20833333333333331,2016-09-08 17:11:14,True,True
+2016-09-08T17:16:49,McConaughey going after Gold again,0,0,Om Shree,gdLXPv5NsA4,0.0,2016-09-08 17:16:49,True,True
+2016-09-08T17:16:53,That was a good 2min 23secs movie.,682,10,Sushant Thapaliya,gdLXPv5NsA4,0.7,2016-09-08 17:16:53,True,True
+2016-09-08T17:20:50,Is this a sequel to Fool's Gold?,0,0,Jetnipat Teeravithayapinyo,gdLXPv5NsA4,0.0,2016-09-08 17:20:50,True,True
+2016-09-08T17:22:09,Is this movie based from Freeport?,0,0,K42292,gdLXPv5NsA4,0.0,2016-09-08 17:22:09,True,True
+2016-09-08T17:35:27,it based on the bre-x scam where they seeded the gold in the test drills. the guy matthew play disappeared while flying home in a chopper,0,0,eric johnson,gdLXPv5NsA4,0.0,2016-09-08 17:35:27,True,True
+2016-09-08T17:37:32,another oscar for Matthew,0,0,sultan mubark,gdLXPv5NsA4,0.0,2016-09-08 17:37:32,True,True
+2016-09-08T17:38:07,Its the well documented Bre-X Minerals Ltd Gold stock scam.. I cant wait to see it,0,0,mo7881,gdLXPv5NsA4,0.0,2016-09-08 17:38:07,True,True
+2016-09-08T17:53:10,"Matthew McConaughey always selling something whether it's Lincoln vehicles, whiskey or gold lol.",201,10,Rcker31BDrinkN,gdLXPv5NsA4,0.8,2016-09-08 17:53:10,True,True
+2016-09-08T17:53:13,nice story,0,0,gallardo Vi,gdLXPv5NsA4,0.6,2016-09-08 17:53:13,True,True
+2016-09-08T17:58:33,Matthew maconahey seems like the kid in school you just can't help but hate,0,0,ASMRYouReady,gdLXPv5NsA4,-0.8,2016-09-08 17:58:33,True,True
+2016-09-08T17:59:20,"Meh, im not impressed",0,0,DhDeadMan,gdLXPv5NsA4,-0.5,2016-09-08 17:59:20,True,True
+2016-09-08T18:00:34,Wall street 2: the prequel 😎,0,0,Ryan Zeus Fernandes,gdLXPv5NsA4,0.0,2016-09-08 18:00:34,True,True
+2016-09-08T18:05:08,"Also starring Edgar Ramirez, who is a venezuelan actor.",0,0,Andreina Pérez,gdLXPv5NsA4,0.0,2016-09-08 18:05:08,True,True
+2016-09-08T18:08:12,Finally Matthew is doing a sequel to Fool's Gold! That's what we've all been craving,0,0,Ben Maguire,gdLXPv5NsA4,0.0,2016-09-08 18:08:12,True,True
+2016-09-08T18:11:42,waiting for some proud indonesian comments,0,0,Bintang Bimo,gdLXPv5NsA4,0.8,2016-09-08 18:11:42,True,True
+2016-09-08T18:11:45,"Well that was a pretty good movie, very Wolf of Wall Street, also feel like Matthew getting another Oscar nod is a given this year. Thank you trailer for saving me the ticket monies.   ffs",0,0,FullDarkGear,gdLXPv5NsA4,0.3833333333333333,2016-09-08 18:11:45,True,True
+2016-09-08T18:12:58,'wolf of gold mine',0,0,Babar Khan,gdLXPv5NsA4,0.0,2016-09-08 18:12:58,True,True
+2016-09-08T18:13:53,Plot twist: All the gold turns out to be Fool's Gold (2008).,0,0,EthnicThunder,gdLXPv5NsA4,0.0,2016-09-08 18:13:53,True,True
+2016-09-08T18:15:25,The Golden Wolf Of Wall Street!,0,0,VDJ Chris Forde,gdLXPv5NsA4,0.375,2016-09-08 18:15:25,True,True
+2016-09-08T18:20:16,meh.,0,0,scottdpt12,gdLXPv5NsA4,0.0,2016-09-08 18:20:16,True,True
+2016-09-08T18:21:16,What happened to his hair,0,0,A,gdLXPv5NsA4,0.0,2016-09-08 18:21:16,True,True
+2016-09-08T18:21:34,"0:05 So, Reese seems to have promotion in Wayne Corp",0,0,SYNCpro,gdLXPv5NsA4,0.0,2016-09-08 18:21:34,True,True
+2016-09-08T18:23:52,What a epic trailer it was!strongest contender of Oscar unless the arrival of denzel's first trailer of fences.,2,0,Anchal Kumar,gdLXPv5NsA4,0.175,2016-09-08 18:23:52,True,True
+2016-09-08T18:24:37,so its the wolf of wall street for gold.....looking forward to it!!!,1,0,Alejandro James,gdLXPv5NsA4,0.0,2016-09-08 18:24:37,True,True
+2016-09-08T18:29:45,gold is a worthless barberous relic.,0,0,mrzack888,gdLXPv5NsA4,-0.8,2016-09-08 18:29:45,True,True
+2016-09-08T18:32:07,Based on Bre X scandal?,0,0,Mike A,gdLXPv5NsA4,0.0,2016-09-08 18:32:07,True,True
+2016-09-08T18:35:06,Wolf of wall street part 2,0,0,M I88,gdLXPv5NsA4,0.0,2016-09-08 18:35:06,True,True
+2016-09-08T18:35:11,"Looks quite decent, showed too much though.",0,0,TheAutistWhisperer,gdLXPv5NsA4,0.18333333333333335,2016-09-08 18:35:11,True,True
+2016-09-08T18:37:54,But that Narcos song doe,0,0,HMS,gdLXPv5NsA4,0.0,2016-09-08 18:37:54,True,True
+2016-09-08T18:53:58,Lol that tiger scene though,0,0,Lucas Macfarlane,gdLXPv5NsA4,0.8,2016-09-08 18:53:58,True,True
+2016-09-08T18:59:24,"Woody Harrelson, is that you?",114,2,Eddie Cardwell,gdLXPv5NsA4,0.0,2016-09-08 18:59:24,True,True
+2016-09-08T19:00:06,Definitely got a wolf of wall street and american hustle vibe to it,0,0,mystery_man,gdLXPv5NsA4,0.0,2016-09-08 19:00:06,True,True
+2016-09-08T19:00:07,aka if you hit it big hide about half and say you gave that half to the homeless. gg.,0,0,peace maker,gdLXPv5NsA4,-0.1111111111111111,2016-09-08 19:00:07,True,True
+2016-09-08T19:07:57,Just Fuckin Rip it........,0,0,CoolBeans Dude,gdLXPv5NsA4,0.0,2016-09-08 19:07:57,True,True
+2016-09-08T19:09:01,Less Grossman: The gold adventure,0,0,Roma P.,gdLXPv5NsA4,-0.16666666666666666,2016-09-08 19:09:01,True,True
+2016-09-08T19:19:36,someone stop giving this man cocaine,0,0,riibear,gdLXPv5NsA4,0.0,2016-09-08 19:19:36,True,True
+2016-09-08T19:20:12,What's the song?,0,0,robert glasgow,gdLXPv5NsA4,0.0,2016-09-08 19:20:12,True,True
+2016-09-08T19:31:09,He ain't working with Fools Gold no more,0,0,Brandon Schreur,gdLXPv5NsA4,-0.25,2016-09-08 19:31:09,True,True
+2016-09-08T19:36:02,Is this a sequel to his other movie Fool's Gold 🙄🙄🙄,0,0,Tony Lawliet,gdLXPv5NsA4,-0.125,2016-09-08 19:36:02,True,True
+2016-09-08T19:37:53,EDGAR IS THAT U?,0,0,kaleidoskopaugen,gdLXPv5NsA4,0.0,2016-09-08 19:37:53,True,True
+2016-09-08T19:38:20,Colman Reeves got DAFAK out of Gotham in time I see.,0,0,vbgggfff,gdLXPv5NsA4,0.0,2016-09-08 19:38:20,True,True
+2016-09-08T19:46:06,"""We are so screwed""  My people will get this quote 😂",0,0,Emma 09,gdLXPv5NsA4,0.0,2016-09-08 19:46:06,True,True
+2016-09-08T19:48:09,Is this the sequel to Fool's Gold?,0,0,slen182,gdLXPv5NsA4,0.0,2016-09-08 19:48:09,True,True
+2016-09-08T19:52:33,What was the song?,0,0,Michael Devlin,gdLXPv5NsA4,0.0,2016-09-08 19:52:33,True,True
+2016-09-08T19:56:23,"""How did 17 billion dollars disappear over night?"" Umm... He took it",54,8,John Smith,gdLXPv5NsA4,0.0,2016-09-08 19:56:23,True,True
+2016-09-08T20:02:34,i made movies about gold long before anyone thought it was cool i made movies about gold because i liked it,0,0,aaron jay,gdLXPv5NsA4,0.3,2016-09-08 20:02:34,True,True
+2016-09-08T20:31:35,Fools Gold seems to be the better GOLD movie he has been in,0,0,Benjamin Brawler,gdLXPv5NsA4,0.5,2016-09-08 20:31:35,True,True
+2016-09-08T20:37:37,Another Oscar.,0,0,TrueInnovator159,gdLXPv5NsA4,0.0,2016-09-08 20:37:37,True,True
+2016-09-08T20:43:47,Toby speaking with an American accent !,1,0,Jay Martin,gdLXPv5NsA4,0.0,2016-09-08 20:43:47,True,True
+2016-09-08T20:55:43,what's the second song?,0,0,QuaffleVideos,gdLXPv5NsA4,0.0,2016-09-08 20:55:43,True,True
+2016-09-08T20:57:02,"This movie is based on a company who stole money from Canadian Public Sector Pensioners, Teachers, and Retirement Board, there should be laws passed around world so that the revenue of these types of movies GLORIFYING THEFT are classified proceeds of crime.",14,9,Sam,gdLXPv5NsA4,0.0,2016-09-08 20:57:02,True,True
+2016-09-08T21:16:20,did he had a fat belly! Holy shit!,0,0,Walter White,gdLXPv5NsA4,-0.25,2016-09-08 21:16:20,True,True
+2016-09-08T21:17:00,"what song is playing in the background, its so familiar but i cant put my finger on it!!",0,0,Slavic Potato,gdLXPv5NsA4,0.5859375,2016-09-08 21:17:00,True,True
+2016-09-08T21:42:23,"edgar ramirez you are in everything man, good for you",0,0,patricia Bermudez,gdLXPv5NsA4,0.7,2016-09-08 21:42:23,True,True
+2016-09-08T21:46:38,Looks to be a re-telling of the BRE-X gold scandal. A few people lost their shirts and early risk taking common folk became millionaires and sold before the ugly truth came out,0,0,Brent Dallyn,gdLXPv5NsA4,-0.275,2016-09-08 21:46:38,True,True
+2016-09-08T21:52:02,first music please?,0,0,Fuad a,gdLXPv5NsA4,0.25,2016-09-08 21:52:02,True,True
+2016-09-08T21:55:23,"""I'm touchin' a tiger. Hahaaaaaa.""",1,0,Cineflect,gdLXPv5NsA4,0.0,2016-09-08 21:55:23,True,True
+2016-09-08T21:57:38,Fool's????? (;,0,0,ParrottBoy1212,gdLXPv5NsA4,0.0,2016-09-08 21:57:38,True,True
+2016-09-08T22:01:59,Matthew McConaughey just good with  money and space,0,0,K,gdLXPv5NsA4,0.7,2016-09-08 22:01:59,True,True
+2016-09-08T22:03:01,i'm going to watch this.,0,0,Ｈｙｐｅｒ ｔｒａｐ キリング・,gdLXPv5NsA4,0.0,2016-09-08 22:03:01,True,True
+2016-09-08T22:08:27,"And then, out of nowhere, Iko Uwais kicks Matthew McConaughey's face...",3,0,Zedfinite,gdLXPv5NsA4,0.0,2016-09-08 22:08:27,True,True
+2016-09-08T22:13:54,It is the Bre-X story. Has nothing to do with Reno and they simply salted the core samples.,0,0,Steph S,gdLXPv5NsA4,0.0,2016-09-08 22:13:54,True,True
+2016-09-08T22:14:06,He'll always be Rust Cohle to me.,0,0,Pasajero De La Brújula,gdLXPv5NsA4,0.0,2016-09-08 22:14:06,True,True
+2016-09-08T22:20:52,Dont trust that New York investor guy. He is Yellow Jacket!,0,0,Sandouras,gdLXPv5NsA4,0.06818181818181818,2016-09-08 22:20:52,True,True
+2016-09-08T22:33:29,I was hoping for a fools gold type thing. I was wrong.,0,0,--,gdLXPv5NsA4,-0.5,2016-09-08 22:33:29,True,True
+2016-09-08T22:43:38,the ad for this video was the trailer,0,0,Vivian Zheng,gdLXPv5NsA4,0.0,2016-09-08 22:43:38,True,True
+2016-09-08T22:45:33,The wolf of Wall Street prequel,0,0,TEAM 1-3,gdLXPv5NsA4,0.0,2016-09-08 22:45:33,True,True
+2016-09-08T22:54:14,Fool's Gold 2,79,2,Dogs Mohawk,gdLXPv5NsA4,0.0,2016-09-08 22:54:14,True,True
+2016-09-08T22:54:47,"Funny how the plot is about ""finding gold deep in the uncharted jungles of Indonesia (Borneo)"", and they shot the entire scene of Indonesia in Thailand. Plus, it's labelled ""based on true events"". #catastrophe #dosomeresearch",0,2,Rendy Salendu,gdLXPv5NsA4,0.15,2016-09-08 22:54:47,True,True
+2016-09-08T23:03:55,Wolf of Indonesia,0,0,Luke Youngman,gdLXPv5NsA4,0.0,2016-09-08 23:03:55,True,True
+2016-09-08T23:15:23,wow amazing trailer,0,0,Anjeeth Nani,gdLXPv5NsA4,0.35000000000000003,2016-09-08 23:15:23,True,True
+2016-09-08T23:17:39,indonesia?,0,0,iqbal baihaqi,gdLXPv5NsA4,0.0,2016-09-08 23:17:39,True,True
+2016-09-08T23:31:52,trailers nowadays tell everything this one did too,0,0,Tony Montana,gdLXPv5NsA4,0.0,2016-09-08 23:31:52,True,True
+2016-09-08T23:32:55,Styx makes this trailer golden,8,0,BaLLHands87,gdLXPv5NsA4,0.3,2016-09-08 23:32:55,True,True
+2016-09-08T23:36:21,McConaughey looks like Roy Munson in this trailer.,0,0,J1E2TS,gdLXPv5NsA4,0.0,2016-09-08 23:36:21,True,True
+2016-09-08T23:38:54,Bryce 😍,0,0,Pink Blush,gdLXPv5NsA4,0.0,2016-09-08 23:38:54,True,True
+2016-09-08T23:41:11,Yay! Toby Kebbell.,0,0,Imbokeri,gdLXPv5NsA4,0.0,2016-09-08 23:41:11,True,True
+2016-09-08T23:41:43,Mark Hanna Gold a wolf of wall street prequel,1,0,Carlos Ontiveros,gdLXPv5NsA4,0.0,2016-09-08 23:41:43,True,True
+2016-09-08T23:44:38,"*movie trailer announcer* you've seen him in fools gold but he's no longer a fool, GOLD!   Haven't even watched the trailer but this is all I can picture",0,0,Walter soprano,gdLXPv5NsA4,0.0,2016-09-08 23:44:38,True,True
+2016-09-08T23:44:54,"Wow, that was a very interesting movie! Short but sweet. I'd probably say 76% on the tomato scale",0,0,nfl20,gdLXPv5NsA4,0.315625,2016-09-08 23:44:54,True,True
+2016-09-08T23:55:19,Super stoked for this Fool's Gold sequel!,0,0,Peter Koros,gdLXPv5NsA4,0.41666666666666663,2016-09-08 23:55:19,True,True
+2016-09-08T23:56:11,"Se quedo pelado, Alopecia le agarro a Matthew McConaughey.",0,0,Jav Ag,gdLXPv5NsA4,0.0,2016-09-08 23:56:11,True,True
+2016-09-08T23:56:44,Had no idea McConaughey had such a great Joker laugh,0,0,Jon Snow,gdLXPv5NsA4,0.3666666666666667,2016-09-08 23:56:44,True,True
+2016-09-09T00:02:44,That was a great movie.  Thanks for saving me $15.,0,0,kemosabe19,gdLXPv5NsA4,0.5,2016-09-09 00:02:44,True,True
+2016-09-09T00:09:46,is this a sequel for the wolf of wall of Street??,0,0,mohamed dakane,gdLXPv5NsA4,0.0,2016-09-09 00:09:46,True,True
+2016-09-09T00:12:00,How could Ron Howard make her?,0,0,GodUd6589,gdLXPv5NsA4,0.0,2016-09-09 00:12:00,True,True
+2016-09-09T00:17:00,"For someone who has been trading Gold and Silver stocks for 15 years, this is probably next to {There Will Be Blood} the most excited I've been for a non fiction movie. In my view this is required viewing.  Gold/Money/Wall Street = Amazing!",0,0,edward gofsky,gdLXPv5NsA4,0.40625,2016-09-09 00:17:00,True,True
+2016-09-09T00:39:43,nice Iron Maiden shirt 0:57,9,4,Jon-David Taylor,gdLXPv5NsA4,0.6,2016-09-09 00:39:43,True,True
+2016-09-09T00:48:52,"Finally we're getting the sequel to ""Fool's Gold""",31,1,Ryan MacGibbon,gdLXPv5NsA4,0.0,2016-09-09 00:48:52,True,True
+2016-09-09T00:56:16,OMG EDGAR RAMIREZ!! <3 <3 <3,0,0,Laura,gdLXPv5NsA4,1.0,2016-09-09 00:56:16,True,True
+2016-09-09T01:05:25,"_""Gold: The Story of America - Waltz into a sovereign country, and take what you find until they stop you. At which point you can kick & scream all the way home!""_",0,0,Snakebloke,gdLXPv5NsA4,0.0,2016-09-09 01:05:25,True,True
+2016-09-09T01:09:00,So this is what  Matthew McConaughey's character did after wolf of wall street.,0,0,cklambo,gdLXPv5NsA4,0.0,2016-09-09 01:09:00,True,True
+2016-09-09T01:11:48,nice actress ...... what is her name ???,2,5,Mr. A,gdLXPv5NsA4,0.6,2016-09-09 01:11:48,True,True
+2016-09-09T01:23:37,I smell Oscar.,0,0,Grammatical Erorr,gdLXPv5NsA4,0.0,2016-09-09 01:23:37,True,True
+2016-09-09T01:26:28,He keeps getting better with every movie,1,0,Ven Karri,gdLXPv5NsA4,0.5,2016-09-09 01:26:28,True,True
+2016-09-09T01:32:31,Fool's Gold,0,0,Brigitte,gdLXPv5NsA4,0.0,2016-09-09 01:32:31,True,True
+2016-09-09T01:33:51,Liked this trailer only because BRYCE DALLAS HOWARD.,0,0,Pradeep Maan,gdLXPv5NsA4,0.3,2016-09-09 01:33:51,True,True
+2016-09-09T01:35:34,Fool's Gold or nah?,0,0,Briarley Klassen,gdLXPv5NsA4,0.0,2016-09-09 01:35:34,True,True
+2016-09-09T01:44:30,"it finally happened, mathew mcconaughey has become woody harrelson",0,0,Griffin Edwards,gdLXPv5NsA4,0.0,2016-09-09 01:44:30,True,True
+2016-09-09T01:52:26,The wold of gold street,0,0,Mitesh Kumar,gdLXPv5NsA4,0.0,2016-09-09 01:52:26,True,True
+2016-09-09T01:56:37,Can't wait to see this😛🤑😆,0,0,Thomas C.,gdLXPv5NsA4,0.0,2016-09-09 01:56:37,True,True
+2016-09-09T02:20:37,indonesia...really..?,0,0,garing tea,gdLXPv5NsA4,0.0,2016-09-09 02:20:37,True,True
+2016-09-09T02:31:07,and the best actor gooes to.....,0,0,Jonny The Virgin,gdLXPv5NsA4,1.0,2016-09-09 02:31:07,True,True
+2016-09-09T02:36:34,War Dogs 2: McConaughsaince Resurrection,0,0,Jetty Wallace,gdLXPv5NsA4,0.0,2016-09-09 02:36:34,True,True
+2016-09-09T02:42:43,"This is whats wrong with the world, 1 man laid claim to an area of the earth, for the cause of greed thousands died and geo-political power swings.",0,0,Gumber cules,gdLXPv5NsA4,-0.5,2016-09-09 02:42:43,True,True
+2016-09-09T02:47:59,Mathew McConaughey wants to be the Wolf of Wall Street so bad. With a lot less hair...,12,0,LibertyStudios,gdLXPv5NsA4,-0.22222222222222218,2016-09-09 02:47:59,True,True
+2016-09-09T02:50:36,"So, the prequel to Wolf of Wall Street.",0,0,MrKernkraft4000,gdLXPv5NsA4,0.0,2016-09-09 02:50:36,True,True
+2016-09-09T02:58:57,And I bet McConaughey will get OSCAR-gold come early next year.,1,0,rhaspodel,gdLXPv5NsA4,0.05,2016-09-09 02:58:57,True,True
+2016-09-09T03:02:18,all you guys had been stealing gold from our country indonesia,0,0,dany x,gdLXPv5NsA4,0.0,2016-09-09 03:02:18,True,True
+2016-09-09T03:07:28,Bryce Dallas Howard's Legs...,0,0,TheTAKES06,gdLXPv5NsA4,0.0,2016-09-09 03:07:28,True,True
+2016-09-09T03:16:09,indonesia baby!,0,0,Hamzah Abdullah,gdLXPv5NsA4,0.0,2016-09-09 03:16:09,True,True
+2016-09-09T03:16:44,Fools Gold 2,0,0,Merkwurdiig,gdLXPv5NsA4,0.0,2016-09-09 03:16:44,True,True
+2016-09-09T03:38:59,A Matthew McConaughey le gusta trabajar en peliculas basadas en la vida real,0,0,Agus Contreras,gdLXPv5NsA4,0.2,2016-09-09 03:38:59,True,True
+2016-09-09T03:56:51,much like wolf of wall street,0,0,skyblueshark,gdLXPv5NsA4,0.2,2016-09-09 03:56:51,True,True
+2016-09-09T04:19:27,Why did they make him bold..,0,0,Alex Altringer,gdLXPv5NsA4,0.3333333333333333,2016-09-09 04:19:27,True,True
+2016-09-09T04:19:58,EDGAR RAMIREZ,0,0,Estefania Brigit,gdLXPv5NsA4,0.0,2016-09-09 04:19:58,True,True
+2016-09-09T04:26:51,vote trump and lets make america great again #buildawall #trumpalltheway  #hillaryforprison,21,12,John Smith,gdLXPv5NsA4,0.8,2016-09-09 04:26:51,True,True
+2016-09-09T04:28:13,The Wolf Of Bald Street.,985,15,JACKOTACO,gdLXPv5NsA4,0.0,2016-09-09 04:28:13,True,True
+2016-09-09T04:33:33,Smart ass Fools Gold comments in 3..2..1......,0,0,MrHEC381991,gdLXPv5NsA4,0.21428571428571427,2016-09-09 04:33:33,True,True
+2016-09-09T04:37:08,so mathew is the one who stealin the gold from us indonesian,0,0,fabian alifka,gdLXPv5NsA4,0.0,2016-09-09 04:37:08,True,True
+2016-09-09T04:43:36,just showed the whole movie from start to finish wtf? why would i watch this?,6,0,G-man,gdLXPv5NsA4,-0.15,2016-09-09 04:43:36,True,True
+2016-09-09T04:43:42,"It's like ""Blow"", but with gold this time.  Looking forward to it!",0,0,Joshua Abraham,gdLXPv5NsA4,0.0,2016-09-09 04:43:42,True,True
+2016-09-09T04:44:55,edgar ramirez venezuela representando nojoda,0,0,Sonia Rincon,gdLXPv5NsA4,0.0,2016-09-09 04:44:55,True,True
+2016-09-09T04:46:18,Trailer 1?...So there's more?,0,0,Shane Best,gdLXPv5NsA4,0.5,2016-09-09 04:46:18,True,True
+2016-09-09T04:55:32,Alright alright alright...,0,0,1997residente,gdLXPv5NsA4,0.0,2016-09-09 04:55:32,True,True
+2016-09-09T05:03:15,so this is what David Wooderson has been doing since Dazed and Confused,0,0,Jesus Sotelo,gdLXPv5NsA4,-0.45,2016-09-09 05:03:15,True,True
+2016-09-09T05:07:42,omg the two matthews together in a film. A not-sexy mmc & a chubby modine. How cool!,0,0,kuriousitykat,gdLXPv5NsA4,0.4375,2016-09-09 05:07:42,True,True
+2016-09-09T05:11:02,Is it just me or does Matthew look like Les Grossman from Tropic Thunder?,0,0,Sylis,gdLXPv5NsA4,0.0,2016-09-09 05:11:02,True,True
+2016-09-09T05:13:04,well this time it ain't Fool's Gold,0,0,Sachin Chauhan,gdLXPv5NsA4,0.0,2016-09-09 05:13:04,True,True
+2016-09-09T05:18:29,INDONESIA,0,0,randa prima,gdLXPv5NsA4,0.0,2016-09-09 05:18:29,True,True
+2016-09-09T05:22:26,Wolf of Gold Amazon Street. The worst McConaughey rip-off ode to Wolf of Wall Street in this era. Bye.,0,0,xt230,gdLXPv5NsA4,-0.7,2016-09-09 05:22:26,True,True
+2016-09-09T05:22:27,Wolf of Gold Amazon Street. The worst McConaughey rip-off ode to Wolf of Wall Street in this era. Bye.,0,0,xt230,gdLXPv5NsA4,-0.7,2016-09-09 05:22:27,True,True
+2016-09-09T05:31:02,Trailers ruin so many movies nowadays.,0,0,Sea Pig,gdLXPv5NsA4,0.5,2016-09-09 05:31:02,True,True
+2016-09-09T05:42:53,I had gold before they paid me with gold lol,0,0,Cloud strife,gdLXPv5NsA4,0.8,2016-09-09 05:42:53,True,True
+2016-09-09T05:47:54,Watching because it's director of Syriana who also wrote Traffic.,7,1,supermariofan03,gdLXPv5NsA4,0.0,2016-09-09 05:47:54,True,True
+2016-09-09T05:50:46,"Uhm, how about hell yeah?",0,0,Matthew Jordan,gdLXPv5NsA4,0.0,2016-09-09 05:50:46,True,True
+2016-09-09T05:54:23,poor guy used to find any reason to take his shirt off and now he even wears a hat FeelsBadMan,0,0,dreadful,gdLXPv5NsA4,-0.4,2016-09-09 05:54:23,True,True
+2016-09-09T05:54:33,"""Styx"" ftw",0,0,Uncle Moose,gdLXPv5NsA4,0.0,2016-09-09 05:54:33,True,True
+2016-09-09T06:04:43,"I recommend watching only 30 seconds. Matthew looks like big fun in this. It's not the only search for Gold film coming out. So is Z, which is a great book.",0,0,sclogse1,gdLXPv5NsA4,0.22000000000000003,2016-09-09 06:04:43,True,True
+2016-09-09T06:09:22,"The twist is there was no gold at all, it was a scam.",0,0,Азар Явед,gdLXPv5NsA4,0.0,2016-09-09 06:09:22,True,True
+2016-09-09T06:10:16,haircut goal for #2050,0,0,POA,gdLXPv5NsA4,0.0,2016-09-09 06:10:16,True,True
+2016-09-09T06:11:22,INDONESIA !!!,0,0,Heru Bale,gdLXPv5NsA4,0.0,2016-09-09 06:11:22,True,True
+2016-09-09T06:27:22,Never seen him so fat,0,0,Gundam117,gdLXPv5NsA4,0.0,2016-09-09 06:27:22,True,True
+2016-09-09T06:35:43,is this snother scorsese movie?,0,0,Travis Woody,gdLXPv5NsA4,0.0,2016-09-09 06:35:43,True,True
+2016-09-09T06:37:33,Gained weight? Check. Various prosthetics to 'transform' the actor? Check. Wonderfully set shots to showcase his characterisms? Check. Scheduled just in time to be nominated for 2016? Check.   Hollywood is nothing if not predictable.,1,0,Roger Wayne,gdLXPv5NsA4,0.3666666666666667,2016-09-09 06:37:33,True,True
+2016-09-09T06:48:06,"Look, is that asshole that Ant Man killed.",0,0,Adler Post HC,gdLXPv5NsA4,-0.2,2016-09-09 06:48:06,True,True
+2016-09-09T07:14:42,McConaughey's still got it,14,4,Ryan,gdLXPv5NsA4,0.0,2016-09-09 07:14:42,True,True
+2016-09-09T07:17:32,please tell me the name of the song in the background,0,0,Mrinal Singh,gdLXPv5NsA4,0.0,2016-09-09 07:17:32,True,True
+2016-09-09T07:27:33,here comes another GOLDEN oscar to matthew,0,0,Amir Azemi,gdLXPv5NsA4,0.3,2016-09-09 07:27:33,True,True
+2016-09-09T07:31:14,"McConaughey is incredible. Definitely one of the top actors in the biz right now. And my God does he look like shit in this movie. And when you're him, you can afford a personal trainer that will turn him back into the person we know him as in no more than a weeks time. Movie looks solid I'll def see this one.",1,0,korlu01,gdLXPv5NsA4,0.13730158730158729,2016-09-09 07:31:14,True,True
+2016-09-09T07:35:47,remember Fool's Gold anyone?...,0,0,SAMBA BAMBA,gdLXPv5NsA4,0.0,2016-09-09 07:35:47,True,True
+2016-09-09T07:47:14,Man so many people doing really bad wolf of wallstreet analogies in here.,0,0,Angel M.,gdLXPv5NsA4,-0.09999999999999992,2016-09-09 07:47:14,True,True
+2016-09-09T07:58:05,Song ?,0,0,suresh k,gdLXPv5NsA4,0.0,2016-09-09 07:58:05,True,True
+2016-09-09T08:37:59,What's with trailers nowadays showing the whole movie? I just came from the Live by Night trailer.,4,0,Winduct,gdLXPv5NsA4,0.16818181818181818,2016-09-09 08:37:59,True,True
+2016-09-09T08:48:09,im in,0,0,Qartveli84,gdLXPv5NsA4,0.0,2016-09-09 08:48:09,True,True
+2016-09-09T08:48:15,the wolf of the interstellar,0,0,dollayx8,gdLXPv5NsA4,0.0,2016-09-09 08:48:15,True,True
+2016-09-09T08:54:23,So this is what happened to Peck after he ran away into the jungle,0,0,SpaceHawk13,gdLXPv5NsA4,0.0,2016-09-09 08:54:23,True,True
+2016-09-09T09:06:56,scam artist got lucky or what?,0,0,MageBlackstone,gdLXPv5NsA4,0.3333333333333333,2016-09-09 09:06:56,True,True
+2016-09-09T09:08:37,The Wolf of Gold Street,0,0,clrscr,gdLXPv5NsA4,0.0,2016-09-09 09:08:37,True,True
+2016-09-09T09:15:52,looks like we got a good one,0,0,AlexJUSSME,gdLXPv5NsA4,0.7,2016-09-09 09:15:52,True,True
+2016-09-09T09:16:42,no need to watch the movies anymore. i just watch the trailers.,3,0,Umut Birey,gdLXPv5NsA4,0.0,2016-09-09 09:16:42,True,True
+2016-09-09T09:17:27,"Hey, it's the ""asset"" from Bourne Ultimatum.    Wow, from emaciated to corpulent, Matthew is the man.",0,0,B. Chandler,gdLXPv5NsA4,-0.2,2016-09-09 09:17:27,True,True
+2016-09-09T09:31:16,i'm wondering how much weight he gained for this role,0,0,My Name,gdLXPv5NsA4,0.2,2016-09-09 09:31:16,True,True
+2016-09-09T09:36:17,1:43...Somebody call Pie Patel.....Rechard Parker have been found in Matthew McConaughey's movie....,0,0,Thinker's Channel,gdLXPv5NsA4,0.0,2016-09-09 09:36:17,True,True
+2016-09-09T09:40:09,"I'm sure, the movie about OIL with ""The Butcher"", was more interesting",0,0,Nicky Lucchese,gdLXPv5NsA4,0.5,2016-09-09 09:40:09,True,True
+2016-09-09T09:44:23,Alright Alright Alrightttt,0,0,Ketchupboyz,gdLXPv5NsA4,0.0,2016-09-09 09:44:23,True,True
+2016-09-09T09:45:51,What's happened to beautiful matthew McConahay's hair 😩😂,0,0,Sophie Aylward,gdLXPv5NsA4,0.85,2016-09-09 09:45:51,True,True
+2016-09-09T09:48:03,the gold horsemen...,0,0,Vega Aryan,gdLXPv5NsA4,0.0,2016-09-09 09:48:03,True,True
+2016-09-09T09:52:39,0:37 looks like Uncharted 4 scene,0,0,chickendumpling,gdLXPv5NsA4,0.0,2016-09-09 09:52:39,True,True
+2016-09-09T09:56:03,Another full length movie in 2:23. They're getting shorter every time.,6,0,STAG162,gdLXPv5NsA4,0.35,2016-09-09 09:56:03,True,True
+2016-09-09T09:58:03,I SMELL OSCAR XD,4,0,Freak Mind,gdLXPv5NsA4,0.0,2016-09-09 09:58:03,True,True
+2016-09-09T09:58:13,The man who risked his life for capped teeth and hair-plugz. Luv that STYX soundtrack. gank!,0,0,Black and Silver,gdLXPv5NsA4,0.0,2016-09-09 09:58:13,True,True
+2016-09-09T10:08:21,I feel like I've already watched it. The trailer went through the entire script.,3,0,BordersaneX,gdLXPv5NsA4,0.0,2016-09-09 10:08:21,True,True
+2016-09-09T10:12:39,Is this movie based on the Canadian Bre-X Gold scandal concocted by the late David Walsh? If it is at least portray the truth in it.,0,0,David Buswa,gdLXPv5NsA4,-0.3,2016-09-09 10:12:39,True,True
+2016-09-09T10:18:23,This movie is gold...FOOL'S gold,0,0,Funny Coconut Animatics,gdLXPv5NsA4,0.0,2016-09-09 10:18:23,True,True
+2016-09-09T10:21:10,Indonesian gold stealed,0,0,Fitra R.W,gdLXPv5NsA4,0.0,2016-09-09 10:21:10,True,True
+2016-09-09T10:34:25,They showed us far too much in the trailer but I still wouldn't hesitate in downloading this movie. Hooray for the internet.,13,2,Alex,gdLXPv5NsA4,0.15000000000000002,2016-09-09 10:34:25,True,True
+2016-09-09T10:38:27,Its #GOLDMEMBER,0,0,Hardik Dikshit,gdLXPv5NsA4,0.0,2016-09-09 10:38:27,True,True
+2016-09-09T10:45:24,Jesus McConaughey dial it down a notch you'e acting like a cartoon character.,0,0,Parramatta,gdLXPv5NsA4,-0.07777777777777779,2016-09-09 10:45:24,True,True
+2016-09-09T10:53:58,I bet Matthew was jealous of Di Caprio and wanted his own Bald Wolf of Gold Street,0,0,Adi Adrian,gdLXPv5NsA4,0.6,2016-09-09 10:53:58,True,True
+2016-09-09T10:58:25,Not surprised this is the path he took after Wall Street collapsed.,0,0,Josh Wilson,gdLXPv5NsA4,-0.05,2016-09-09 10:58:25,True,True
+2016-09-09T11:20:41,Indonesia?,0,0,hany reina natasya,gdLXPv5NsA4,0.0,2016-09-09 11:20:41,True,True
+2016-09-09T11:21:53,alright alright alright!,0,0,Ashish Personal,gdLXPv5NsA4,0.0,2016-09-09 11:21:53,True,True
+2016-09-09T11:21:53,Congrats McConaughey for his second Oscar.,4,0,comolokko,gdLXPv5NsA4,0.0,2016-09-09 11:21:53,True,True
+2016-09-09T11:37:01,Matthew's at it again,0,0,Matt Morgan,gdLXPv5NsA4,0.0,2016-09-09 11:37:01,True,True
+2016-09-09T11:37:08,I'm certainly interested enough to see this. The cast is pretty great.,0,0,xoMUSICismyESCAPEox,gdLXPv5NsA4,0.325,2016-09-09 11:37:08,True,True
+2016-09-09T11:50:42,like sahara with good acting,0,0,kwasi quartey,gdLXPv5NsA4,0.35,2016-09-09 11:50:42,True,True
+2016-09-09T11:56:15,so greed is really good,0,0,JIMINIE PABO ARMY,gdLXPv5NsA4,0.7,2016-09-09 11:56:15,True,True
+2016-09-09T12:16:04,This guy is getting better and better....  I still remember he was constantly being made fun of cuz of his acting,1,0,SO What,gdLXPv5NsA4,0.26,2016-09-09 12:16:04,True,True
+2016-09-09T13:19:54,"first comes the blessing  of all that you've dreamed, but then comes the courses of diamonds and rings...",0,0,Акжол Куатбек,gdLXPv5NsA4,0.25,2016-09-09 13:19:54,True,True
+2016-09-09T13:21:42,The Spin off of the Wolf of Wall Street,0,0,Michell Dominguez,gdLXPv5NsA4,0.0,2016-09-09 13:21:42,True,True
+2016-09-09T13:39:21,Dallas is very sexy.,0,0,Johnny Favourites,gdLXPv5NsA4,0.65,2016-09-09 13:39:21,True,True
+2016-09-09T13:42:21,Matthews 👍,0,0,Ruturaj,gdLXPv5NsA4,0.0,2016-09-09 13:42:21,True,True
+2016-09-09T13:42:21,I will never be able to separate the character he's playing from McCunnyhey himself. He's like George Clooney #2.,0,0,Raime,gdLXPv5NsA4,0.5,2016-09-09 13:42:21,True,True
+2016-09-09T13:45:18,1:18 Agent 47...,0,0,Arvy Apolinares,gdLXPv5NsA4,0.0,2016-09-09 13:45:18,True,True
+2016-09-09T13:59:54,"Hey guys! I'm a student on a gap year, hoping to go to film school. Please check out my fundraiser page & share, thank you! https://www.gofundme.com/pjx4dvrw",0,0,KEMLookie,gdLXPv5NsA4,0.0,2016-09-09 13:59:54,True,True
+2016-09-09T14:06:19,"Great, but did they really have to give the whole thing away?",0,0,rocker4577,gdLXPv5NsA4,0.39999999999999997,2016-09-09 14:06:19,True,True
+2016-09-09T14:11:41,This is basically what Matthew's head should look like in real life. He's had hair transplants. He was balding since his mid 20s,0,0,Polpiv4tifish,gdLXPv5NsA4,0.1,2016-09-09 14:11:41,True,True
+2016-09-09T14:15:13,i want to be rich too :D,0,0,Sailor Mars,gdLXPv5NsA4,0.6875,2016-09-09 14:15:13,True,True
+2016-09-09T15:12:56,So this is Matthew McConaughey after he got inspired by Les Grossman.,1,0,Sai Ren,gdLXPv5NsA4,0.0,2016-09-09 15:12:56,True,True
+2016-09-09T15:43:46,Oscar season.,0,0,John L,gdLXPv5NsA4,0.0,2016-09-09 15:43:46,True,True
+2016-09-09T15:56:26,is that Freeport?,0,0,Fakhrusy Syakirin,gdLXPv5NsA4,0.0,2016-09-09 15:56:26,True,True
+2016-09-09T16:05:27,that was a good movie. ty for the spark notes version,0,0,Recovering Weirdo,gdLXPv5NsA4,0.7,2016-09-09 16:05:27,True,True
+2016-09-09T16:11:17,"We're all born bald, baby.",0,0,Ijaz Ali,gdLXPv5NsA4,0.0,2016-09-09 16:11:17,True,True
+2016-09-09T16:16:52,wolf of wall Street vibe..,0,0,tonysopranosleftnut,gdLXPv5NsA4,0.0,2016-09-09 16:16:52,True,True
+2016-09-09T16:23:34,Edgar Ramirez keeps growing!,0,0,Roy Hernández,gdLXPv5NsA4,0.0,2016-09-09 16:23:34,True,True
+2016-09-09T16:29:50,I smell an Oscar,1,0,Shaun Nodangala,gdLXPv5NsA4,0.0,2016-09-09 16:29:50,True,True
+2016-09-09T16:40:13,Blood Diamond + Wolf of Wall Street - DiCaprio,0,0,Alex Fraga,gdLXPv5NsA4,0.0,2016-09-09 16:40:13,True,True
+2016-09-09T16:46:44,"Basically without Matthew McConaughe this would be a guarantee flop, right?",1,0,Leandro Creature,gdLXPv5NsA4,0.2857142857142857,2016-09-09 16:46:44,True,True
+2016-09-09T16:49:46,Edgar ramirez is killing it! so much love for him,0,0,Renzo Ocando,gdLXPv5NsA4,0.5,2016-09-09 16:49:46,True,True
+2016-09-09T16:51:05,Why did they give Woody Harrelson's part to McConaughey ?,0,0,Ubercubertuber,gdLXPv5NsA4,0.0,2016-09-09 16:51:05,True,True
+2016-09-09T16:51:24,some women are so predictable..i never doubted you for a second..please,0,0,misled dawn,gdLXPv5NsA4,0.0,2016-09-09 16:51:24,True,True
+2016-09-09T17:01:31,I've been waiting for a sequel for Fool's Gold :D,0,0,Matt Britzius,gdLXPv5NsA4,1.0,2016-09-09 17:01:31,True,True
+2016-09-09T17:03:06,Cada vez que veo un trailer con Edgar Ramirez solo puedo sentirme orgulloso de ser Venezolano...,0,0,Fabian Mazuera,gdLXPv5NsA4,0.0,2016-09-09 17:03:06,True,True
+2016-09-09T17:10:28,THATS WHAT A TRAILER SHOULD BE! LOOKS GREAT !,1,0,Benjamin George,gdLXPv5NsA4,1.0,2016-09-09 17:10:28,True,True
+2016-09-09T17:46:37,In Indonesia.. that Gold Digger is called FREEPORT !!,0,0,joe rock in,gdLXPv5NsA4,0.0,2016-09-09 17:46:37,True,True
+2016-09-09T17:53:03,looks not good,0,0,strongwise,gdLXPv5NsA4,-0.35,2016-09-09 17:53:03,True,True
+2016-09-09T17:58:43,"well, since Rust Cohle didn't find the meaning of life, he found gold",0,0,zer0 95,gdLXPv5NsA4,0.0,2016-09-09 17:58:43,True,True
+2016-09-09T18:20:51,so did he find gold of what?,0,0,Itzak,gdLXPv5NsA4,0.0,2016-09-09 18:20:51,True,True
+2016-09-09T18:37:05,Paul Russo is back!,0,0,__,gdLXPv5NsA4,0.0,2016-09-09 18:37:05,True,True
+2016-09-09T18:51:27,McConaughey in this movie reminds me of Woody Harrelson in Kingpin XD!,0,0,FlexTits,gdLXPv5NsA4,0.0,2016-09-09 18:51:27,True,True
+2016-09-09T19:02:35,why trevor (gta5) is in uncharted 4..?,0,0,Virtual disaster,gdLXPv5NsA4,0.0,2016-09-09 19:02:35,True,True
+2016-09-09T19:06:24,"All the Gold in the World couldn't buy 1 scumbag a Soul....                                                     I'll pass, Mr. hee haw.",1,0,Natalie G,gdLXPv5NsA4,0.0,2016-09-09 19:06:24,True,True
+2016-09-09T19:07:54,Thought it was a sequel of 'Fools Gold' 😀,0,0,Neel Sen,gdLXPv5NsA4,0.0,2016-09-09 19:07:54,True,True
+2016-09-09T19:27:51,Another Wolf on Wall Street Type,0,0,Aakarsh Kabir,gdLXPv5NsA4,0.0,2016-09-09 19:27:51,True,True
+2016-09-09T19:29:49,"hollywood is taking on too many of ""TRUE EVENTS"" type of projects and they always cast actors like leo or Mcconnaughey...They all look same to me, a broke guy gets rich by doing something which involves way too many disputes with government and with other high profile individuals.I think they only making movies for oscars now.",0,0,Pankaj Singh,gdLXPv5NsA4,0.22,2016-09-09 19:29:49,True,True
+2016-09-09T19:35:56,Matthew balding for real?,0,0,fish,gdLXPv5NsA4,0.2,2016-09-09 19:35:56,True,True
+2016-09-09T19:59:46,"Thanks for the free pass, now I don't have to spend $10 to see it.",0,0,Eric,gdLXPv5NsA4,0.30000000000000004,2016-09-09 19:59:46,True,True
+2016-09-09T20:35:21,with edgar ramiez the venezuelan actor!!,0,0,Heidy Vazquez,gdLXPv5NsA4,0.0,2016-09-09 20:35:21,True,True
+2016-09-09T20:38:13,"I was a BG (BackGround) actor aka ""extra"" in this movie, for a one-day scene in upstate New York, at a backyard party at a fancy house.  Matthew McConaughey walked by me and shook me hand.  He's a very nice and very down to earth guy, and a very talented actor.  Most of the stories you hear about famous actors being a@@holes are complete bs.  Acting is all about networking and being friendly.  This movie looks interesting.",0,0,kris kemp,gdLXPv5NsA4,0.3271946740128558,2016-09-09 20:38:13,True,True
+2016-09-09T20:50:59,"Not one black person in the movie. Really surprising... Congratulations, hollywood!",0,2,MRVEGAS,gdLXPv5NsA4,0.3541666666666667,2016-09-09 20:50:59,True,True
+2016-09-09T20:52:13,looks good!,0,0,Matthew Maimone,gdLXPv5NsA4,0.875,2016-09-09 20:52:13,True,True
+2016-09-09T21:15:38,another trailer that gives away the whole movie in 2 minutes,0,0,RBMonty,gdLXPv5NsA4,0.2,2016-09-09 21:15:38,True,True
+2016-09-09T21:17:29,Bre-x story.,1,0,Sam Fitt,gdLXPv5NsA4,0.0,2016-09-09 21:17:29,True,True
+2016-09-09T21:59:38,Vi esto por Edgar Ramirez. :')  Demasiado orgullosa.,1,0,Sofia Gonzalez,gdLXPv5NsA4,0.0,2016-09-09 21:59:38,True,True
+2016-09-09T22:19:49,So this is what McConaughey's character from The Wolf of Wall Street did after leaving the stock exchange.,0,0,Cameron Tungate,gdLXPv5NsA4,0.0,2016-09-09 22:19:49,True,True
+2016-09-09T22:34:38,"well shit, seems oscar bait season has snuck up on me",0,0,George Mitchinson,gdLXPv5NsA4,-0.2,2016-09-09 22:34:38,True,True
+2016-09-09T22:57:12,that's a shitty trailer song,0,0,Abigail,gdLXPv5NsA4,0.0,2016-09-09 22:57:12,True,True
+2016-09-09T23:10:55,Jolly green jizz face.,0,0,desiii420,gdLXPv5NsA4,-0.2,2016-09-09 23:10:55,True,True
+2016-09-09T23:13:35,"Looks like a mix of The Wolf of Wall Street, Goodfellas and War Dogs - and I'm perfectly OK with that😉",0,0,MarineBeast_86,gdLXPv5NsA4,0.5,2016-09-09 23:13:35,True,True
+2016-09-09T23:55:32,There Will Be Bald,0,0,Ethan MC,gdLXPv5NsA4,0.0,2016-09-09 23:55:32,True,True
+2016-09-09T23:59:30,Oscar bate.,0,0,UNSPOILED Trailers,gdLXPv5NsA4,0.0,2016-09-09 23:59:30,True,True
+2016-09-10T00:30:06,Hey that song was on Gta IV :p,0,0,FLEETWOOD Jak,gdLXPv5NsA4,0.75,2016-09-10 00:30:06,True,True
+2016-09-10T00:34:42,"The way of the world, YOU MAKE IT-THEY TAKE IT",0,0,COURTNEY CFOSTER,gdLXPv5NsA4,0.0,2016-09-10 00:34:42,True,True
+2016-09-10T01:13:30,This is Wolf of wall street part 2,0,0,Divyanshu Gupta,gdLXPv5NsA4,0.0,2016-09-10 01:13:30,True,True
+2016-09-10T01:17:35,Looks like this might be based on the Bre-X/Busang scandal back in early 1990's.,1,0,bimapringgo,gdLXPv5NsA4,0.05,2016-09-10 01:17:35,True,True
+2016-09-10T01:56:33,"""Fool's Gold""  xD",0,0,Sandy Shores,gdLXPv5NsA4,0.0,2016-09-10 01:56:33,True,True
+2016-09-10T02:00:30,What's the real story behind this film? It seems they changed the names and I can't find anything.,1,0,CarlHH777,gdLXPv5NsA4,-0.1,2016-09-10 02:00:30,True,True
+2016-09-10T02:14:38,ÉDGARRRRRRRRRRRR!,0,0,Maria Gabriela Ramirez,gdLXPv5NsA4,0.0,2016-09-10 02:14:38,True,True
+2016-09-10T02:31:56,Mathew mconahey is always lookin for gold,0,0,wildcard749,gdLXPv5NsA4,0.0,2016-09-10 02:31:56,True,True
+2016-09-10T02:44:46,Finally Mathew took off his toupee for a movie.,0,0,buyerofsorts,gdLXPv5NsA4,0.0,2016-09-10 02:44:46,True,True
+2016-09-10T02:47:06,and indonesian keep loosing their gold !,0,0,garnadi sadikin,gdLXPv5NsA4,0.0,2016-09-10 02:47:06,True,True
+2016-09-10T02:49:40,edgar ramires you are the best actor of venezuela we are proud of you keep going,0,0,Andres Barroso,gdLXPv5NsA4,0.9,2016-09-10 02:49:40,True,True
+2016-09-10T03:17:35,lol bald Mathew mcComnaughey,0,0,Ultra unboxer 350 Tor-browser,gdLXPv5NsA4,0.8,2016-09-10 03:17:35,True,True
+2016-09-10T04:05:10,Edgar Ramirez written should be named in the description instead of Toby k.,0,0,halfwaydowntheroad,gdLXPv5NsA4,0.0,2016-09-10 04:05:10,True,True
+2016-09-10T04:17:53,The Wolf of Wall Street meets Fitzcarraldo meets There Will Be Blood... with Matthew McConaughey.,0,0,lildamgwada,gdLXPv5NsA4,0.0,2016-09-10 04:17:53,True,True
+2016-09-10T04:20:32,got an american hustle/wolf of wall street feel,0,0,AD4M9,gdLXPv5NsA4,0.0,2016-09-10 04:20:32,True,True
+2016-09-10T04:37:22,Matt McConaughey looking more and more like Woody Harrelson.,6,1,chendaddy,gdLXPv5NsA4,0.5,2016-09-10 04:37:22,True,True
+2016-09-10T04:37:23,"So crazy people use to be so crazy about finding gold. If somebody told me there's gold somewhere now i'd be like ""Suree, have fun""",0,0,Derek Shelby,gdLXPv5NsA4,-0.3,2016-09-10 04:37:23,True,True
+2016-09-10T05:02:28,narcos season 2,0,0,Michael Tovar,gdLXPv5NsA4,0.0,2016-09-10 05:02:28,True,True
+2016-09-10T05:07:34,This looks amazing,0,0,aldown,gdLXPv5NsA4,0.6000000000000001,2016-09-10 05:07:34,True,True
+2016-09-10T05:57:56,1:18 Dr. Ephraim Goodweather!,0,0,TheLouis177,gdLXPv5NsA4,0.0,2016-09-10 05:57:56,True,True
+2016-09-10T06:03:25,Woooow woooow 👏 👏 👏 👏 👏 👏 BRAVISIMOOO 👏 👏 👏 BRAVISIMOOO,0,0,Kalla Miranda,gdLXPv5NsA4,0.0,2016-09-10 06:03:25,True,True
+2016-09-10T06:11:43,Everyone wanted Matthew's more screentime in Wolf of Wall Street. So here is it.,1,0,Châu Vĩ Hào,gdLXPv5NsA4,0.5,2016-09-10 06:11:43,True,True
+2016-09-10T06:26:27,at first i thought it was johnny depp from black mass,1,0,Sports ki baat,gdLXPv5NsA4,0.04166666666666667,2016-09-10 06:26:27,True,True
+2016-09-10T06:58:07,another oscars nomination on it's way for matthew i guess....,0,0,akash deep,gdLXPv5NsA4,0.0,2016-09-10 06:58:07,True,True
+2016-09-10T07:04:15,Edgar Ramierez,0,0,No name,gdLXPv5NsA4,0.0,2016-09-10 07:04:15,True,True
+2016-09-10T07:11:26,Fools gold new verison,0,0,Gemini Land,gdLXPv5NsA4,0.13636363636363635,2016-09-10 07:11:26,True,True
+2016-09-10T07:15:43,The Wolf of Wall Street 2: The rise of Mark Hanna,0,0,dakan92,gdLXPv5NsA4,0.0,2016-09-10 07:15:43,True,True
+2016-09-10T07:16:36,There Will Be Gold of Wall Street.,0,0,Ben Lonergan,gdLXPv5NsA4,0.0,2016-09-10 07:16:36,True,True
+2016-09-10T07:30:55,Keeps playing this stupid commercial and freezing. I can't watch.,0,0,J. Eric Sandoval,gdLXPv5NsA4,-0.39999999999999997,2016-09-10 07:30:55,True,True
+2016-09-10T08:04:26,American Hustle 2: Electric Boogaloo.   I'm down.,0,0,Godzilla52,gdLXPv5NsA4,-0.07777777777777779,2016-09-10 08:04:26,True,True
+2016-09-10T09:50:08,"Wolf of wall Street with Matthew McConaughey. Best movie ever made! Even though i havent watched it, yet.",0,1,Penne,gdLXPv5NsA4,1.0,2016-09-10 09:50:08,True,True
+2016-09-10T10:06:20,"McConaughey's Wolf of Wall Street.. So, gold too is not the answer..",0,0,Muddassir Zafar,gdLXPv5NsA4,0.0,2016-09-10 10:06:20,True,True
+2016-09-10T10:42:00,huhmmmm hmmm hmmm hhmmmm hm hm hm hm hm hm hmmm hmm hmmmm hmm hm hm hm hm hm...,1,0,Neo Jef,gdLXPv5NsA4,0.0,2016-09-10 10:42:00,True,True
+2016-09-10T10:42:34,Inspired by another country in history that has been raped up the arse for it's resources.,2,0,oncall21,gdLXPv5NsA4,0.0,2016-09-10 10:42:34,True,True
+2016-09-10T11:01:01,Murphy's law,0,0,Turaab Syed,gdLXPv5NsA4,0.0,2016-09-10 11:01:01,True,True
+2016-09-10T11:16:08,this is story of Freeport in papua??,0,0,Edwin Joseph,gdLXPv5NsA4,0.0,2016-09-10 11:16:08,True,True
+2016-09-10T11:18:51,Count how many retards say wolf of wall street in the comments. the de-evolution gen.,0,0,Sucker Free,gdLXPv5NsA4,-0.2,2016-09-10 11:18:51,True,True
+2016-09-10T11:24:27,alright alright alright,0,0,Ayush Agrawal,gdLXPv5NsA4,0.0,2016-09-10 11:24:27,True,True
+2016-09-10T11:31:37,Biggest gold mine in my country? And i didn't know it?,0,3,Nanda Raffi Fajrianto,gdLXPv5NsA4,0.0,2016-09-10 11:31:37,True,True
+2016-09-10T11:47:10,Edgar Ramírez <3,0,0,David Martone,gdLXPv5NsA4,1.0,2016-09-10 11:47:10,True,True
+2016-09-10T11:57:20,"white people taking whats ""theirs"" from another persons back yard *rolls eyes*",1,0,Moses ainsz,gdLXPv5NsA4,0.0,2016-09-10 11:57:20,True,True
+2016-09-10T12:29:04,Fool's Gold 2? xD,0,0,Nenad Stevanovic,gdLXPv5NsA4,0.0,2016-09-10 12:29:04,True,True
+2016-09-10T13:02:22,"I guess Mark Hanna didn't manage well after Jordan Belfort (In case lost, Wolf of Wall Street reference)",6,0,i jonazy,gdLXPv5NsA4,0.0,2016-09-10 13:02:22,True,True
+2016-09-10T13:09:45,Alright Alright Alright,0,0,Hussein Adam,gdLXPv5NsA4,0.0,2016-09-10 13:09:45,True,True
+2016-09-10T13:30:15,looks good.,0,0,5aral,gdLXPv5NsA4,0.7,2016-09-10 13:30:15,True,True
+2016-09-10T13:38:19,ANOTHER scorcese ripoff?? cool. Most of them have been good. Pain and Gain/ War dogs etc.,0,0,supersatanic,gdLXPv5NsA4,0.5166666666666666,2016-09-10 13:38:19,True,True
+2016-09-10T14:00:03,the cast lol,0,0,L3ndzo83,gdLXPv5NsA4,0.8,2016-09-10 14:00:03,True,True
+2016-09-10T15:31:34,garbage,0,0,Tamil Zara,gdLXPv5NsA4,0.0,2016-09-10 15:31:34,True,True
+2016-09-10T15:34:17,"""The gold is mine! Allright! Allright! Allright!""",27,0,Marcio Couto,gdLXPv5NsA4,0.0,2016-09-10 15:34:17,True,True
+2016-09-10T15:42:11,*1:37** n0 b0ss*,0,0,Ha Kou,gdLXPv5NsA4,0.0,2016-09-10 15:42:11,True,True
+2016-09-10T16:03:24,Matty always brings a stellar performance,5,0,Daniel Reyna,gdLXPv5NsA4,0.25,2016-09-10 16:03:24,True,True
+2016-09-10T16:08:48,Matthew know how to prepare for his roles indeed.,6,0,JR Ewing,gdLXPv5NsA4,0.0,2016-09-10 16:08:48,True,True
+2016-09-10T17:13:41,They had to work effing hard to make him look unattractive...,94,0,Rhetoricalmuse,gdLXPv5NsA4,-0.39583333333333337,2016-09-10 17:13:41,True,True
+2016-09-10T17:19:47,looks like Bre-X,0,0,Mr. Sunrise 1961,gdLXPv5NsA4,0.0,2016-09-10 17:19:47,True,True
+2016-09-10T17:34:25,I'm wondering if mcconaughey has finally started going bald,0,0,That SriLankanGuy,gdLXPv5NsA4,0.0,2016-09-10 17:34:25,True,True
+2016-09-10T18:36:01,"""Inspired By True Events"" That means 99% of it is made up and the 1% truth is 'A man found gold in a jungle.'",11,0,Speedy Gunz,gdLXPv5NsA4,0.35,2016-09-10 18:36:01,True,True
+2016-09-10T20:02:32,For a second I thought I click on the trailer of Narcos Season 2,0,0,Team Nike,gdLXPv5NsA4,0.0,2016-09-10 20:02:32,True,True
+2016-09-10T20:17:38,"Oh shit, it's Mr. Reese from Dark Knight.",1,0,yakuza01,gdLXPv5NsA4,-0.175,2016-09-10 20:17:38,True,True
+2016-09-10T20:57:01,Inspired By True Events = Has no resemblance to any actual event ever,0,0,Disco Crisis,gdLXPv5NsA4,0.175,2016-09-10 20:57:01,True,True
+2016-09-10T20:59:32,Anothern guaranteed  Academy for Matthew McConaughey,4,0,zack brown,gdLXPv5NsA4,0.0,2016-09-10 20:59:32,True,True
+2016-09-10T21:05:52,Oscar goes to M.McConaughey...,0,0,Mutlu Binboga,gdLXPv5NsA4,0.0,2016-09-10 21:05:52,True,True
+2016-09-10T21:23:36,Matthew McConaughey is Less Grossman,0,0,julien blanc,gdLXPv5NsA4,-0.16666666666666666,2016-09-10 21:23:36,True,True
+2016-09-10T21:37:17,Wolf of wall street meets American Gangster kind of vibes,0,0,Edrice91,gdLXPv5NsA4,0.3,2016-09-10 21:37:17,True,True
+2016-09-10T22:12:09,Matthew McConaughey. #NoFilter,0,0,Diadlo,gdLXPv5NsA4,0.0,2016-09-10 22:12:09,True,True
+2016-09-10T22:23:40,The laugh at 1:26 is Joker worthy!,0,0,juan c,gdLXPv5NsA4,0.3583333333333333,2016-09-10 22:23:40,True,True
+2016-09-11T00:20:49,must watch,0,0,Chef Lambo,gdLXPv5NsA4,0.0,2016-09-11 00:20:49,True,True
+2016-09-11T01:02:22,So like Wolf of Wall Street but with less quaaludes and more hair loss,0,0,Adrian,gdLXPv5NsA4,0.16666666666666669,2016-09-11 01:02:22,True,True
+2016-09-11T01:28:20,A shout out to Supernatural.,0,0,jefferson starships,gdLXPv5NsA4,0.16666666666666666,2016-09-11 01:28:20,True,True
+2016-09-11T01:31:58,De ja vu,0,0,Aerlangga Rasvati,gdLXPv5NsA4,0.0,2016-09-11 01:31:58,True,True
+2016-09-11T01:37:51,Alright alright alright,0,0,Tai Thang Cong,gdLXPv5NsA4,0.0,2016-09-11 01:37:51,True,True
+2016-09-11T04:08:57,go read about the people of papua and what has happened to them at the hands of the indonesian and american governments,0,0,titaniumonkey,gdLXPv5NsA4,0.0,2016-09-11 04:08:57,True,True
+2016-09-11T04:38:56,WOWS part two,0,0,vivekh vivek,gdLXPv5NsA4,0.0,2016-09-11 04:38:56,True,True
+2016-09-11T05:19:56,Bre-x mining scandal?,0,0,radhit huwf,gdLXPv5NsA4,0.0,2016-09-11 05:19:56,True,True
+2016-09-11T09:46:08,2:11 worst CGI,4,1,Fabian D,gdLXPv5NsA4,-1.0,2016-09-11 09:46:08,True,True
+2016-09-11T15:49:11,Alright. alright alright,0,0,Rahul Shah,gdLXPv5NsA4,0.0,2016-09-11 15:49:11,True,True
+2016-09-11T16:01:57,Now jordan belfort has jack shit on him😂,2,0,sttraatdichter,gdLXPv5NsA4,-0.2,2016-09-11 16:01:57,True,True
+2016-09-11T17:58:57,Oscar gold for McConaughey again?,0,0,Daviddjx44,gdLXPv5NsA4,0.0,2016-09-11 17:58:57,True,True
+2016-09-11T18:23:49,i will watch this,0,0,landmovies,gdLXPv5NsA4,0.0,2016-09-11 18:23:49,True,True
+2016-09-11T20:41:48,McConaughey is turning into Les Grossman,2,0,Bill Proud,gdLXPv5NsA4,0.0,2016-09-11 20:41:48,True,True
+2016-09-11T21:11:45,I can't believe they made a movie about Woody Harrelson.,0,0,schmuckatelly,gdLXPv5NsA4,0.0,2016-09-11 21:11:45,True,True
+2016-09-11T23:51:40,"For the first few seconds of this trailer, I thought it was going to be a movie about Donald Trump.",0,0,TheBo0mer,gdLXPv5NsA4,0.024999999999999994,2016-09-11 23:51:40,True,True
+2016-09-11T23:58:39,I skipped the ad for this movie to watch the trailer for this movie. Trippy,0,0,Nick,gdLXPv5NsA4,0.0,2016-09-11 23:58:39,True,True
+2016-09-12T02:41:48,mathew could pull off a great joker I know he could do it,0,0,thunder5843,gdLXPv5NsA4,0.8,2016-09-12 02:41:48,True,True
+2016-09-12T02:56:01,Alright alright alright....where's my hair?!,4,0,Dinglie Danglie Doodle,gdLXPv5NsA4,0.0,2016-09-12 02:56:01,True,True
+2016-09-12T05:23:01,Song: Styx- Renegade. You're welcome guys :),0,0,João Miguel Monteiro,gdLXPv5NsA4,0.65,2016-09-12 05:23:01,True,True
+2016-09-12T10:39:32,freeport?,0,0,Achmad Enolison,gdLXPv5NsA4,0.0,2016-09-12 10:39:32,True,True
+2016-09-12T11:31:01,What is it with McConaughey and movies about gold/treasure,0,0,Yolo Swaggins,gdLXPv5NsA4,0.0,2016-09-12 11:31:01,True,True
+2016-09-12T13:45:39,Sahara 2 : Bald Fool's Gold,0,0,Due Decimal,gdLXPv5NsA4,0.0,2016-09-12 13:45:39,True,True
+2016-09-12T15:16:47,It hurts to see Matthews hair like that,0,0,JacobusOptimum,gdLXPv5NsA4,0.0,2016-09-12 15:16:47,True,True
+2016-09-12T16:24:56,INDONESIAAAA,0,0,Elfran Vido,gdLXPv5NsA4,0.0,2016-09-12 16:24:56,True,True
+2016-09-12T17:32:13,"Now that I've seen the TRAILER, I don't have to go see the movie. Just saved myself $40.00 (movie plus popcorn for two).",0,0,PhotoGeorge,gdLXPv5NsA4,0.0,2016-09-12 17:32:13,True,True
+2016-09-12T20:48:55,Looks like a squeal to the Wolf of Wall Street.,0,0,adam ropp,gdLXPv5NsA4,0.0,2016-09-12 20:48:55,True,True
+2016-09-12T21:44:34,whats the name of that song?,0,0,cuau tavera,gdLXPv5NsA4,0.0,2016-09-12 21:44:34,True,True
+2016-09-12T23:09:56,So this are the asshole who steal gold from my country? Not the actor but the real person behind this movie,0,0,Abubakhar bin Albar,gdLXPv5NsA4,-0.1,2016-09-12 23:09:56,True,True
+2016-09-13T01:20:32,"This movie will be a great succesfull because is the great Mattew and my brother, my countryman Edgar Ramirez, so proud of him...",0,0,Andres Mendoza Fotografía,gdLXPv5NsA4,0.8000000000000002,2016-09-13 01:20:32,True,True
+2016-09-13T07:48:57,Matthew and 80's İ am in.,0,0,Ron Swanson,gdLXPv5NsA4,0.0,2016-09-13 07:48:57,True,True
+2016-09-13T09:07:13,Well nice movie! Seen it now it's all in the trailer :=),0,0,SwedishGringo,gdLXPv5NsA4,0.625,2016-09-13 09:07:13,True,True
+2016-09-13T10:56:07,he needs this on 2 flops this year already lol. sea of treas and the other one not worth mentioning,0,0,Rowan W,gdLXPv5NsA4,0.17500000000000002,2016-09-13 10:56:07,True,True
+2016-09-13T15:54:28,omg that's Got Jirayu,0,0,MARIMO,gdLXPv5NsA4,0.0,2016-09-13 15:54:28,True,True
+2016-09-13T15:57:06,There Will Be Baldness.,1,0,GGMuscle,gdLXPv5NsA4,0.0,2016-09-13 15:57:06,True,True
+2016-09-13T16:54:03,Huge past enhance illustrate somebody sidewalk,0,0,Lewis Khan,gdLXPv5NsA4,0.07500000000000004,2016-09-13 16:54:03,True,True
+2016-09-13T18:39:15,He's just perfectionist,0,0,moin khan,gdLXPv5NsA4,0.0,2016-09-13 18:39:15,True,True
+2016-09-13T19:24:32,Does anyone know what that song is at 0:09??,0,2,vasia kal,gdLXPv5NsA4,0.0,2016-09-13 19:24:32,True,True
+2016-09-13T23:38:42,"first it was fool's gold, second the wolf of wall street and now gold I wonder what's next Matthew",0,0,Sarah Hermy,gdLXPv5NsA4,0.08333333333333333,2016-09-13 23:38:42,True,True
+2016-09-14T03:15:11,This one will be a hit!,0,0,Kimberly Thibodeaux,gdLXPv5NsA4,0.0,2016-09-14 03:15:11,True,True
+2016-09-14T03:47:08,I smell another Oscar.,0,0,Kenneth Uyabeme,gdLXPv5NsA4,0.0,2016-09-14 03:47:08,True,True
+2016-09-14T04:18:42,i think it might be the second Oscar :D,0,0,Mahmoud ali,gdLXPv5NsA4,0.5,2016-09-14 04:18:42,True,True
+2016-09-14T04:53:02,Like por edgar ramirez triunfador Venezolano carajooo,0,0,Carlos vera,gdLXPv5NsA4,0.0,2016-09-14 04:53:02,True,True
+2016-09-14T08:57:48,I'm indonesian...and no wonder my country is still like a poor country...,5,0,kartika metafisika,gdLXPv5NsA4,-0.4,2016-09-14 08:57:48,True,True
+2016-09-14T09:45:34,I'm from Indonesia and I never heard of this Gold?,0,0,Frank William,gdLXPv5NsA4,0.0,2016-09-14 09:45:34,True,True
+2016-09-14T21:57:15,Styx Renegade !!!!!!!!!!!! Great song!!!,0,0,Gábor Kiss,gdLXPv5NsA4,1.0,2016-09-14 21:57:15,True,True
+2016-09-14T22:57:01,Wolf of wallstreet 2?,23,1,Jan Jo,gdLXPv5NsA4,0.0,2016-09-14 22:57:01,True,True
+2016-09-15T01:28:44,"Why are Hollywood producers leaking their movies online nowadays, in the name of a trailer????",9,0,thiruvetti,gdLXPv5NsA4,0.0,2016-09-15 01:28:44,True,True
+2016-09-15T04:07:03,"Hollywood's war against Reno Nv continues. This is based on a true story about a Canadian mining company called Bre-X, who falsified their gold findings. Which brought them from a penny stock to a company worth 6 Billion.   But in this movie the company resides in Reno and the company is called Washoe mining. The people making this movie have gone out of their way to single out Reno. In the past 20 years Reno is consistently the butt of jokes and b is presented as the worst of the worst of America. I'm quite sick of it.  Read the true story here; https://en.m.wikipedia.org/wiki/Bre-X",0,0,chris vargas,gdLXPv5NsA4,-0.1984126984126984,2016-09-15 04:07:03,True,True
+2016-09-15T08:13:29,ก๊อต จิรายุ ผมยินดีด้วย สำเร็จไปอีกขั้นแล้ว ปรบมือเลย,5,1,กำเคียว เกลียวคลื่น,gdLXPv5NsA4,0.0,2016-09-15 08:13:29,True,True
+2016-09-15T09:19:07,"1:43 God Jirayu, look good!",0,0,Orachar H.,gdLXPv5NsA4,0.875,2016-09-15 09:19:07,True,True
+2016-09-15T10:35:42,OMF INDONESIA. MATTHEW WHY DIDN'T U TOLD US,0,0,Marchela,gdLXPv5NsA4,0.0,2016-09-15 10:35:42,True,True
+2016-09-15T13:10:34,"alright alright alright, never gets gold,  i mean old",0,0,vcwchen,gdLXPv5NsA4,-0.10625,2016-09-15 13:10:34,True,True
+2016-09-15T19:12:56,I smell an Oscar,0,0,Patrick Brannen,gdLXPv5NsA4,0.0,2016-09-15 19:12:56,True,True
+2016-09-15T20:31:40,Gold? Sounds like a movie just asking to get a Oscar because it said gold in it,0,0,Pixel Boy1738,gdLXPv5NsA4,0.0,2016-09-15 20:31:40,True,True
+2016-09-16T03:11:45,what's the song on first part of the trailer and the second song,1,0,Tawhid K,gdLXPv5NsA4,0.125,2016-09-16 03:11:45,True,True
+2016-09-16T10:33:36,Awesome👻,0,0,only257,gdLXPv5NsA4,0.0,2016-09-16 10:33:36,True,True
+2016-09-16T11:05:26,The McConaissance ride never ends!,1,0,KAMLU,gdLXPv5NsA4,0.0,2016-09-16 11:05:26,True,True
+2016-09-16T14:09:05,this what happen after fools gold,0,0,Meal Random,gdLXPv5NsA4,0.0,2016-09-16 14:09:05,True,True
+2016-09-16T15:58:20,Matthew will win oscar like of you agree,0,0,Abod Irshedat,gdLXPv5NsA4,0.8,2016-09-16 15:58:20,True,True
+2016-09-16T16:57:41,"I am Indonesian, if I found a Gold in America worth billion can I claim it?",0,1,NITENICHRYU,gdLXPv5NsA4,0.3,2016-09-16 16:57:41,True,True
+2016-09-16T18:44:46,freeport?,0,0,Cika Theresia,gdLXPv5NsA4,0.0,2016-09-16 18:44:46,True,True
+2016-09-17T04:37:58,"Soundtrack starts and I'm like; ""Wth? SUPERNATURAAALLL!!!""",0,0,Christian Nelson,gdLXPv5NsA4,0.0,2016-09-17 04:37:58,True,True
+2016-09-17T17:54:45,Now lets see what meets what here :  The Big Short meets The Wolf Of Wall Street meets Casino meets There Will Be Blood.,0,0,psychaddy,gdLXPv5NsA4,0.0,2016-09-17 17:54:45,True,True
+2016-09-17T19:39:46,music please,0,0,Matej Zi,gdLXPv5NsA4,0.0,2016-09-17 19:39:46,True,True
+2016-09-17T19:45:15,Holy shit that CGI gold at 2:10 is horrendous,0,0,Matthew Moldovan,gdLXPv5NsA4,-0.2,2016-09-17 19:45:15,True,True
+2016-09-17T19:51:24,XD trailer couldn't give away too much as I was distracted by the marvellous comment section.,1,0,Blades O Grass,gdLXPv5NsA4,0.2,2016-09-17 19:51:24,True,True
+2016-09-17T22:00:56,need another tom cruise-mcconaughey film  those poor Haitians are asking themselves a similar question about where those billions of dollars went too,0,0,wheelmanstan,gdLXPv5NsA4,-0.2,2016-09-17 22:00:56,True,True
+2016-09-18T00:00:22,Wolf of touch a tiger or you have no balls Street.,0,0,lobzpooatu,gdLXPv5NsA4,0.0,2016-09-18 00:00:22,True,True
+2016-09-18T16:14:45,Wolf of Wall Street: McConaughey takes the wheel,0,0,ogorjefan,gdLXPv5NsA4,0.0,2016-09-18 16:14:45,True,True
+2016-09-19T00:36:24,That's just like the government trying to take something that doesn't belong to them,0,0,s,gdLXPv5NsA4,0.0,2016-09-19 00:36:24,True,True
+2016-09-19T04:38:37,"Interesting article and comments in the Jakarta Post about the story the film is based on. The Bre-X Mining scandal. Still a notorious story in Indonesia, it took place in the 90s. Suharto's sons were also involved in this. I'm guessing they're the ones who own the tiger.",0,0,Mini Maxi,gdLXPv5NsA4,0.55,2016-09-19 04:38:37,True,True
+2016-09-19T05:49:56,I N D O N E S I A,0,0,subagjavlog,gdLXPv5NsA4,0.0,2016-09-19 05:49:56,True,True
+2016-09-19T20:13:53,Mark Hanna!,0,0,Eren Nova,gdLXPv5NsA4,0.0,2016-09-19 20:13:53,True,True
+2016-09-20T14:34:35,Looks good.,0,0,Dave's view,gdLXPv5NsA4,0.7,2016-09-20 14:34:35,True,True
+2016-09-20T16:39:31,This Movie will tell the true story that happened in Indonesia precisely in East Kalimantan. my village,0,0,Paschalis Lasah,gdLXPv5NsA4,0.375,2016-09-20 16:39:31,True,True
+2016-09-20T16:56:10,Fool's Gold: The beginning.,0,0,Dakota Lustick,gdLXPv5NsA4,0.0,2016-09-20 16:56:10,True,True
+2016-09-20T21:53:51,*hears wolf money new york* SHUT UP AND TAKE MY MONEY,0,0,no cap,gdLXPv5NsA4,0.13636363636363635,2016-09-20 21:53:51,True,True
+2016-09-21T07:06:00,this is about freeport?,0,0,zinedine Huzen,gdLXPv5NsA4,0.0,2016-09-21 07:06:00,True,True
+2016-09-22T00:34:25,"senang banget karna sutingnya di daerahku,,kalimantan,,,thanks to crew shooting in my place",1,1,Al Salam25,gdLXPv5NsA4,0.0,2016-09-22 00:34:25,True,True
+2016-09-22T01:36:33,"Thats what happens when you do too much cocaine, from wall street to bum.",0,0,RussianBot [Lvl 9001],gdLXPv5NsA4,0.2,2016-09-22 01:36:33,True,True
+2016-09-22T06:02:00,All that gold and he still can't solve that ugly hairdo.,0,0,LXXXV,gdLXPv5NsA4,-0.7,2016-09-22 06:02:00,True,True
+2016-09-22T15:53:23,Matthew is so handsome in this,1,0,Kyrie,gdLXPv5NsA4,0.5,2016-09-22 15:53:23,True,True
+2016-09-23T16:32:35,This trailer changed quickly,0,0,CupidStuntBoyZ,gdLXPv5NsA4,0.3333333333333333,2016-09-23 16:32:35,True,True
+2016-09-23T20:25:08,The gold belongs to the Earth.  NOTHING is yours!  You OWN nothing!  Jus' sayin'.  =),0,1,Andrew Lynch,gdLXPv5NsA4,0.625,2016-09-23 20:25:08,True,True
+2016-09-24T04:59:58,for a second there I thought it was going to be about briex,0,0,Logan B,gdLXPv5NsA4,0.0,2016-09-24 04:59:58,True,True
+2016-09-24T07:02:26,It kind of like the wolf of Wall Street but only not cause it will go straight to DVD!!!!,0,0,Chaster Cha,gdLXPv5NsA4,0.3627604166666667,2016-09-24 07:02:26,True,True
+2016-09-24T10:26:14,Sh'moke an'a Pancake?,0,0,WlLKO,gdLXPv5NsA4,0.0,2016-09-24 10:26:14,True,True
+2016-09-25T18:59:40,they should name it gold mine not gold ??,0,0,josef marria,gdLXPv5NsA4,0.0,2016-09-25 18:59:40,True,True
+2016-09-26T04:57:00,God dammit the fonts and shit for movies always look like shit,0,0,Blah Bam,gdLXPv5NsA4,-0.2,2016-09-26 04:57:00,True,True
+2016-09-26T18:20:32,McConnaughey surely getting an Oscar nod next year,0,0,Sudeep Chopra,gdLXPv5NsA4,0.25,2016-09-26 18:20:32,True,True
+2016-09-26T20:09:49,It's the wolf of bald street,0,0,HoobtheNoob,gdLXPv5NsA4,0.0,2016-09-26 20:09:49,True,True
+2016-09-29T19:12:39,The entire movie was in this trailer...,0,0,kiknav,gdLXPv5NsA4,0.0,2016-09-29 19:12:39,True,True
+2016-10-01T16:47:05,"Seen many pranks on ""gold diggers"".. the trailer of this movie looks good.. hope its good",0,0,Jenny,gdLXPv5NsA4,0.6333333333333333,2016-10-01 16:47:05,True,True
+2016-10-03T21:17:12,Woody Harelson is McConaughey's stunt double..,0,0,Matty Leduc,gdLXPv5NsA4,0.0,2016-10-03 21:17:12,True,True
+2016-10-04T00:30:59,whats the name of the song,0,0,Kyle Wilcox,gdLXPv5NsA4,0.0,2016-10-04 00:30:59,True,True
+2016-10-04T03:35:55,McConaughey is in it... well i will watch it as he is one hell of an actor!,0,0,Scottys Boxing Club,gdLXPv5NsA4,0.0,2016-10-04 03:35:55,True,True
+2016-10-04T05:21:58,Indonesia!,0,0,Sentyaki Bayu Adjie,gdLXPv5NsA4,0.0,2016-10-04 05:21:58,True,True
+2016-10-04T13:40:05,01:00 Song please...,0,0,Box Boy,gdLXPv5NsA4,0.0,2016-10-04 13:40:05,True,True
+2016-10-05T09:34:15,Got jirayu thai's actor is included in this film i'm so proud. พี่ก๊อตสู้ๆค่ะ,0,0,wendyhera,gdLXPv5NsA4,0.8,2016-10-05 09:34:15,True,True
+2016-10-07T08:40:02,"Did Matthew mention Indonesia? Wow, it a must-seen movie.",2,0,Tri Nuroni,gdLXPv5NsA4,0.1,2016-10-07 08:40:02,True,True
+2016-10-08T00:55:22,Sello Venezolano un urgullo para edgar ramirez,0,0,Geovanny Godoy,gdLXPv5NsA4,0.0,2016-10-08 00:55:22,True,True
+2016-10-08T11:19:08,Budget past tournament ritual.,0,0,Milan Maes,gdLXPv5NsA4,-0.25,2016-10-08 11:19:08,True,True
+2016-10-09T12:31:00,Great. Another Hollywood movie about white people. Typical America.,0,0,CakeProDuckShins,gdLXPv5NsA4,0.21111111111111114,2016-10-09 12:31:00,True,True
+2016-10-10T19:39:39,EDGAR RAMIREZ!!!!!,0,0,Karen Pinzón,gdLXPv5NsA4,0.0,2016-10-10 19:39:39,True,True
+2016-10-13T13:01:26,"Gold is a valuable currency, alright, alright, alright",0,0,The King Of Norway,gdLXPv5NsA4,0.0,2016-10-13 13:01:26,True,True
+2016-10-15T11:23:47,"PT. Freeport must to kickout from my Country, Indonesia !",3,1,Grupway Gadget,gdLXPv5NsA4,0.0,2016-10-15 11:23:47,True,True
+2016-10-15T11:27:11,Based On Bre X Mining Scandal,0,0,sujit hippergekar,gdLXPv5NsA4,0.0,2016-10-15 11:27:11,True,True
+2016-10-16T15:26:50,which Indonesia are they filming?,0,0,Ken F,gdLXPv5NsA4,0.0,2016-10-16 15:26:50,True,True
+2016-10-17T10:15:31,"as an Indonesian, I agree that we're rich of gold... but we're robbed by The american from P.T Freeport in Papua",0,0,Ferdian Arkasatya,gdLXPv5NsA4,0.1875,2016-10-17 10:15:31,True,True
+2016-10-18T15:43:16,They could have chosen better text in the trailer.,0,0,Designland Architects & Interiors,gdLXPv5NsA4,0.5,2016-10-18 15:43:16,True,True
+2016-10-23T21:57:21,what song is that,0,0,Mark Duran,gdLXPv5NsA4,0.0,2016-10-23 21:57:21,True,True
+2016-10-25T08:14:13,bad trailer...,0,0,Phat Le,gdLXPv5NsA4,-0.6999999999999998,2016-10-25 08:14:13,True,True
+2016-10-29T23:24:34,what's the name of the song,0,0,Miguel Alfaro,gdLXPv5NsA4,0.0,2016-10-29 23:24:34,True,True
+2016-11-03T23:07:17,I thought the bre-x mine was fake?,0,0,Jacob Bassett,gdLXPv5NsA4,-0.5,2016-11-03 23:07:17,True,True
+2016-11-05T14:35:07,"Nuestro Caciqueeeee, que orgullo",0,0,Cesar Marchan,gdLXPv5NsA4,0.0,2016-11-05 14:35:07,True,True
+2016-11-06T16:41:19,Wolf of Wall Street : Gold Editionbtw i'm expecting Bryce Dallas Howard sex scene,0,0,MusicOrGetMugged,gdLXPv5NsA4,0.0,2016-11-06 16:41:19,True,True
+2016-11-07T12:40:59,This movie is double copper aluminium foil,0,0,Kalid Ali,gdLXPv5NsA4,0.0,2016-11-07 12:40:59,True,True
+2016-11-07T21:06:20,Edgar Ramirez; VENEZUELAAA!,0,0,Jorgelys Medina,gdLXPv5NsA4,0.0,2016-11-07 21:06:20,True,True
+2016-11-11T07:02:00,1:01 name of song??,0,0,Daniel Attrell,gdLXPv5NsA4,0.0,2016-11-11 07:02:00,True,True
+2016-11-13T06:45:32,edgar ramirez es el coprotagonista no Bryce Dallas Howard ni toby kebbell,0,0,luismemeses,gdLXPv5NsA4,0.0,2016-11-13 06:45:32,True,True
+2016-11-15T22:02:36,"Only in America where an actor gains *40 lbs* for a role, and the character he plays looks more fit than most people watching the movie.",0,0,Geesedude,gdLXPv5NsA4,0.35,2016-11-15 22:02:36,True,True
+2016-11-17T07:41:07,Oscar nomination right there!,0,0,Pirooz Pejman,gdLXPv5NsA4,0.3571428571428571,2016-11-17 07:41:07,True,True
+2016-11-28T04:37:24,"This was based on a true story. It was basically a fraud, and the gold samples were faked by the mining company.But in reality there was almost NO GOLD :) So the shares went rocket high on stock, made the mining company worth 6 Billons at peak.  In the end all came out.  Read here the full story. https://en.wikipedia.org/wiki/Bre-X    Your welcome !",10,0,Gold Digger,gdLXPv5NsA4,0.44333333333333336,2016-11-28 04:37:24,True,True
+2016-12-02T01:53:34,seems like i know where's the place :/,0,0,gor mor,gdLXPv5NsA4,-0.25,2016-12-02 01:53:34,True,True
+2016-12-05T21:15:02,Renegade by Styx,0,0,marsha Reino,gdLXPv5NsA4,0.0,2016-12-05 21:15:02,True,True
+2016-12-09T22:34:43,Is this based on Bre-X?,0,0,surprisenaps,gdLXPv5NsA4,0.0,2016-12-09 22:34:43,True,True
+2016-12-10T09:04:32,I haven't seen much branding on this movie....,0,0,Laura Fascinista,gdLXPv5NsA4,0.2,2016-12-10 09:04:32,True,True
+2016-12-11T22:20:15,Song:- Styx-Renegade (:,4,0,gerisamsung,gdLXPv5NsA4,0.0,2016-12-11 22:20:15,True,True
+2016-12-16T00:59:13,whats the song playing in the background?,0,0,Jp Ram,gdLXPv5NsA4,0.0,2016-12-16 00:59:13,True,True
+2016-12-17T15:29:03,toby kebbell is in the movie to 💯👍,0,0,heyitsalice XD,gdLXPv5NsA4,0.0,2016-12-17 15:29:03,True,True
+2016-12-19T14:35:39,"Welcome to Indonesia, Matthew! That's our precious gold! You fine people should dig some more! We are so fucked!",7,0,Awagel,gdLXPv5NsA4,0.3833333333333333,2016-12-19 14:35:39,True,True
+2016-12-23T03:22:22,what happened to Christmas release,0,0,Jacob Hupp,gdLXPv5NsA4,0.0,2016-12-23 03:22:22,True,True
+2016-12-23T23:44:06,Looking forward to the film but Jesus music to the trailer is utter shite. Doesnt fit the film style at all,0,0,Matthew Barron,gdLXPv5NsA4,0.2,2016-12-23 23:44:06,True,True
+2016-12-28T07:51:51,Woody Harrelson would have nailed this roll perfect.... Stills hats off to Mr. McConaughey..🎖,0,0,Luck Charmz,gdLXPv5NsA4,1.0,2016-12-28 07:51:51,True,True
+2016-12-30T02:50:14,LOOKS SHIT!,0,0,Melly Watsamoto,gdLXPv5NsA4,-0.25,2016-12-30 02:50:14,True,True
+2017-01-01T06:37:29,I would watch it because it has Toby Kebbel lol :P,0,0,Gabriella Young,gdLXPv5NsA4,0.775,2017-01-01 06:37:29,True,True
+2017-01-07T18:37:22,This is mix of The Wolf of Wall Street and Tropic Thunder! But it looks good.,0,0,Vernus,gdLXPv5NsA4,0.7,2017-01-07 18:37:22,True,True
+2017-01-07T20:54:32,"We saw this this past late Summer for an audience preview, I loved it!!!❣😊 M.M. will win Best Actor, amazing & beautiful movie!!❣💰😀",0,0,AmericansAgainstBush,gdLXPv5NsA4,0.4857142857142857,2017-01-07 20:54:32,True,True
+2017-01-07T22:55:55,Since I just saw the entire plot of the film why the F would I now pay to watch it?,3,0,ExVeritateLibertas,gdLXPv5NsA4,0.0,2017-01-07 22:55:55,True,True
+2017-01-08T20:31:29,the government probably took it lol hint hint lol it's stored at fort ox,0,0,Tony Martinez,gdLXPv5NsA4,0.8,2017-01-08 20:31:29,True,True
+2017-01-15T20:01:42,"1:44 Who's the Asian actor, he looks kinda familiar but it could be nothing. Wanna know just in case.",0,0,DrawingIsMyOxygen,gdLXPv5NsA4,0.1875,2017-01-15 20:01:42,True,True
+2017-01-17T02:41:29,"You shea mr Powersh, I love goooooooooooooold",0,0,Jon Mar,gdLXPv5NsA4,0.5,2017-01-17 02:41:29,True,True
+2017-01-17T15:30:01,a commercial really?  sucks,0,0,Johnny Aingel,gdLXPv5NsA4,-0.15,2017-01-17 15:30:01,True,True
+2017-01-17T15:52:31,so is this going to oscar..?,0,0,Tobok Tampubolon,gdLXPv5NsA4,0.0,2017-01-17 15:52:31,True,True
+2017-01-18T16:04:05,"Matthew McConaughey is, without a doubt, one of the best actor of Hollywood. I'm with him.",0,0,Carpincho Podcast,gdLXPv5NsA4,1.0,2017-01-18 16:04:05,True,True
+2017-01-18T21:43:56,McConaughey and Edgar Ramirez? Mmmmmmmmmm.... I have to watch that!!!,0,0,Gabriel Bracho,gdLXPv5NsA4,0.0,2017-01-18 21:43:56,True,True
+2017-01-19T00:55:18,•°∆  L↑∆ΠDEF.,1,0,ME,gdLXPv5NsA4,0.0,2017-01-19 00:55:18,True,True
+2017-01-22T00:57:24,"""I never doubted you for a second"" LOL .. all women say then when you score.... you always hear the word, ""soulmate"" too",1,1,Ted Cantu,gdLXPv5NsA4,0.4,2017-01-22 00:57:24,False,True
+2017-01-23T20:52:30,"This movie is about the Bre-X gold mining scandal that occurred during the mid 1990's.  True story, only they changed the name of the mining company and the names of the characters. But it's based on a true story.",0,0,Ronny Paul,gdLXPv5NsA4,0.175,2017-01-23 20:52:30,False,True
+2017-01-26T04:41:09,Is this the sequel to fools gold?,0,0,BellicIV,gdLXPv5NsA4,0.0,2017-01-26 04:41:09,False,True
+2017-01-26T11:30:16,Love him can't wait,0,0,Dora williams,gdLXPv5NsA4,0.5,2017-01-26 11:30:16,False,True
+2017-01-26T18:51:57,Time is a bald circle.,0,0,BillyVeryStrong,gdLXPv5NsA4,0.0,2017-01-26 18:51:57,False,True
+2017-01-26T19:41:00,this is are freeport history in indonesia,0,0,Serhan Abidzar,gdLXPv5NsA4,0.0,2017-01-26 19:41:00,False,True
+2017-01-27T02:00:08,Go Steelers.,0,0,Harv,gdLXPv5NsA4,0.0,2017-01-27 02:00:08,False,True
+2017-01-27T05:34:53,What's the name of the song?,0,0,-,gdLXPv5NsA4,0.0,2017-01-27 05:34:53,False,True
+2017-01-27T07:09:39,Stories based on a Canadian mining company called Bre-X,0,0,tiber574,gdLXPv5NsA4,0.0,2017-01-27 07:09:39,False,True
+2017-01-27T07:39:14,"VERY LOOSELY based on a true story. I already know the real story ,I don't need to watch the Hollyweird version. Bre-X",0,0,comikdebris,gdLXPv5NsA4,0.15,2017-01-27 07:39:14,False,True
+2017-01-28T01:22:44,5/5 STARS.....WOW! ANOTHER MUST SEE MOVIE 2017,0,0,Dr. Edwconr,gdLXPv5NsA4,0.0,2017-01-28 01:22:44,False,True
+2017-01-28T05:14:45,Don't ever trust rotten tomato! Matthew will never disappoint you,0,0,Eth Sam,gdLXPv5NsA4,0.0,2017-01-28 05:14:45,False,True
+2017-01-28T10:52:49,With that laugh at 1:24 someone needs to cast him as the next joker,0,0,Joseph Briffa,gdLXPv5NsA4,0.15,2017-01-28 10:52:49,False,True
+2017-01-28T11:35:23,INDONESIA!!!!!!,0,0,Diyardita Dipa,gdLXPv5NsA4,0.0,2017-01-28 11:35:23,False,True
+2017-01-29T00:43:20,don't ever trust rotten tomato. this was a very good movie,1,0,tenacious anus,gdLXPv5NsA4,0.9099999999999999,2017-01-29 00:43:20,False,True
+2017-01-29T20:14:18,Wow this looks interesting and fun!,0,0,Jonny Cat,gdLXPv5NsA4,0.325,2017-01-29 20:14:18,False,True
+2017-01-29T20:15:07,"I like Mathew McConaughey, he was awesome in Interstellar!  I'm certain he is awesome in Gold to!",0,0,Jonny Cat,gdLXPv5NsA4,0.7380952380952381,2017-01-29 20:15:07,False,True
+2017-01-30T01:29:40,Bryce is so cute!!!,0,0,Lauren Waksman,gdLXPv5NsA4,0.9765625,2017-01-30 01:29:40,False,True
+2017-01-30T02:06:09,good movie,0,0,Goldboy Jr,gdLXPv5NsA4,0.7,2017-01-30 02:06:09,False,True
+2017-01-30T02:06:17,only smart people can watch,0,0,Goldboy Jr,gdLXPv5NsA4,0.10714285714285714,2017-01-30 02:06:17,False,True
+2017-01-30T16:12:43,"So is McConaughey back to doing shit movies now? The Sea of Trees, Free State of Jones, and now this.",0,1,Jordan Rios,gdLXPv5NsA4,0.06666666666666667,2017-01-30 16:12:43,False,True
+2017-02-01T06:08:39,I love  Matthew McConaughey  but I think Leonardo DiCaprio is better suited for this role.,0,0,aalatiah,gdLXPv5NsA4,0.5,2017-02-01 06:08:39,False,True
+2017-02-03T23:01:08,What is the sound track?,0,0,Masøud IbNu MuhaMed,gdLXPv5NsA4,0.4,2017-02-03 23:01:08,False,True
+2017-02-04T09:38:17,SOng?,0,1,Vito Veselý,gdLXPv5NsA4,0.0,2017-02-04 09:38:17,False,True
+2017-02-04T23:30:10,"its so true a movie about a tiny small cap mining company the ups and down are unreal . the movie begins with the stock being oversubscribed for the little tenement they get in indonesia , than later they do another announcement about the geo being a beast they raise 280g yada yada yada  theres so many twist about the geologist its brilliant",0,1,trent jenkins,gdLXPv5NsA4,0.14461805555555557,2017-02-04 23:30:10,False,True
+2017-02-08T17:58:01,"oh, look. another 'rags-to-riches-to-excess-to-government-problems-to-divorce-to-drugs-to-rehab-to-rags-again-probably' story! we've never seen something like THAT before!!  i mean...McConaughey was _in ""The Wolf of Wall Street"" for christ's sake!_ the parallels here are *not* very subtle, are they?",0,0,Bijinius Cross,gdLXPv5NsA4,0.1282051282051282,2017-02-08 17:58:01,False,True
+2017-02-08T21:17:02,"the Hispanic MAN- Edgar Ramirez is fu@king HOT!     oh and yes, the film is good, not great but worth watching!",3,0,Alexei Romanov,gdLXPv5NsA4,0.24687499999999998,2017-02-08 21:17:02,False,True
+2017-02-09T01:13:24,What is the name of the song at the beginning?,0,0,D0onee,gdLXPv5NsA4,0.0,2017-02-09 01:13:24,False,True
+2017-02-09T17:39:54,Does the same actor lead every FBI raid shot?,0,0,Michael Colello,gdLXPv5NsA4,0.0,2017-02-09 17:39:54,False,True
+2017-02-09T21:10:38,where can I watch it for free? :(,0,0,Mikki Mouse,gdLXPv5NsA4,-0.175,2017-02-09 21:10:38,False,True
+2017-02-11T04:12:52,In Indonesia? Mmm.......,0,0,'Alv Vin,gdLXPv5NsA4,0.0,2017-02-11 04:12:52,False,True
+2017-02-11T09:58:24,you know a movieis bad when  its show entirely in a trailer,0,0,Dolph,gdLXPv5NsA4,-0.3499999999999999,2017-02-11 09:58:24,False,True
+2017-02-12T18:26:08,merciiiiiiii,0,0,belakhel abdou,gdLXPv5NsA4,0.0,2017-02-12 18:26:08,False,True
+2017-02-13T05:28:26,mean hustle.,0,0,michael Forever,gdLXPv5NsA4,-0.3125,2017-02-13 05:28:26,False,True
+2017-02-13T12:28:36,Really awesome movie! 10/10! keep it up,0,0,Arteezy,gdLXPv5NsA4,1.0,2017-02-13 12:28:36,False,True
+2017-02-14T13:34:49,"This is a very good film guys, don't worry, the so-called spoiler in the trailer, isn't... So you can go watch it knowing that there's a lot you don't know yet...",0,0,TheSLK66,gdLXPv5NsA4,0.9099999999999999,2017-02-14 13:34:49,False,True
+2017-02-16T15:16:11,Someone came here by Edgar Ramirez? I love you baby you are a great pride,2,0,Edith Linarez,gdLXPv5NsA4,0.65,2017-02-16 15:16:11,False,True
+2017-02-17T16:21:58,Edgar Ramirez excellent too. Now go ld for Versace.,0,0,Abner Chamate,gdLXPv5NsA4,1.0,2017-02-17 16:21:58,False,True
+2017-02-17T20:44:48,"*GOOD MOVIE,BEST MOVIE 2017,GOOD FOR KENNY , 82 MILLIONS AT THE END*",0,0,Imperio Classic Movies,gdLXPv5NsA4,0.7,2017-02-17 20:44:48,False,True
+2017-02-18T06:38:38,"Glad they changed his look up a bit, everybody worth anything knows the real players and rich do not look like celebrities.  Their wives, husbands, girlfriends, boyfriends, or play toys may, but not the other way around.  True reality.",0,0,Boo Boo,gdLXPv5NsA4,0.26666666666666666,2017-02-18 06:38:38,False,True
+2017-02-20T17:42:05,"Seems like a piece of shit, i´m done with this shitty actor",0,0,slb slayer,gdLXPv5NsA4,-0.2,2017-02-20 17:42:05,False,True
+2017-02-22T16:15:31,stupid trailer..they spoiled everything,0,0,Phil Makak,gdLXPv5NsA4,-0.7999999999999999,2017-02-22 16:15:31,False,True
+2017-02-23T06:00:25,"Thanks to the trailer, I feel like I've watched this movie, I just didn't have to sit through the entire ""hugging a sweaty guy in the jungle while he's in his underwear"" scene.",0,0,Joseph McMurray,gdLXPv5NsA4,0.1,2017-02-23 06:00:25,False,True
+2017-02-24T17:36:32,too much that showed here .,0,0,G-man,gdLXPv5NsA4,0.2,2017-02-24 17:36:32,False,True
+2017-02-28T14:35:21,"Looks like ""Wardogs""",0,0,Chathu Reed,gdLXPv5NsA4,0.0,2017-02-28 14:35:21,False,True
+2017-02-28T21:22:37,I liked this movie.   Very good.,4,0,Vilve Yachke,gdLXPv5NsA4,0.7549999999999999,2017-02-28 21:22:37,False,True
+2017-03-01T03:26:35,"I remember when the actual scandal was revealed, there was one investor even killed himself.",0,0,FR Bmp,gdLXPv5NsA4,-0.1,2017-03-01 03:26:35,False,True
+2017-03-01T07:36:50,At first I didn't know who was in this movie but now that I see Matthew McConaughey is in it all I have to say is     Alright Alright Alright,0,0,Brosama,gdLXPv5NsA4,0.25,2017-03-01 07:36:50,False,True
+2017-03-01T14:30:19,is this about freeport company? in indonesia,0,1,Decky Putra,gdLXPv5NsA4,0.0,2017-03-01 14:30:19,False,True
+2017-03-02T10:24:18,Everytime the rise and downfall of a lucky guy just like wolf of wallstreet,0,0,Victor Soares,gdLXPv5NsA4,0.3333333333333333,2017-03-02 10:24:18,False,True
+2017-03-02T11:44:22,Hold kalimantan Indonesia,0,0,B.30s [INDO],gdLXPv5NsA4,0.0,2017-03-02 11:44:22,False,True
+2017-03-03T02:43:30,"i thought this was going to be about the bre-x scandal, which i lost all my savings on. but i was like 7 years old so i only lost about $500 lol",0,0,romper stomper,gdLXPv5NsA4,0.3,2017-03-03 02:43:30,False,True
+2017-03-05T11:02:02,movies glamorizing pricks destroying forests in 3rd world countries.  YEAHHHHHHHHH,0,0,Petrus Amp,gdLXPv5NsA4,-0.1,2017-03-05 11:02:02,False,True
+2017-03-06T20:52:30,lol,0,0,Neeloy Chitan,gdLXPv5NsA4,0.8,2017-03-06 20:52:30,False,True
+2017-03-09T06:29:04,The movie of the thief,2,0,Maria Agustini Titin,gdLXPv5NsA4,0.0,2017-03-09 06:29:04,False,True
+2017-03-13T11:05:28,"este filme é simplesmente espectacular, eu adorei 😍😍😍😍",0,0,VoVO Tube,gdLXPv5NsA4,0.0,2017-03-13 11:05:28,False,True
+2017-03-15T00:14:44,Wellcome to Indonesia guysss..enjoy our view our beach ofcouse our GOLD..😉😉😉😉,0,0,Sam M1,gdLXPv5NsA4,0.0,2017-03-15 00:14:44,False,True
+2017-03-20T10:46:56,"Hi! Does anyone know what the title of the song that starts at 1:01 is? Thanks a lot! By the way, I´ve watched the movie and, except its soundtrack, I don´t find it too bad.",0,0,Luis Marty,gdLXPv5NsA4,-0.22499999999999992,2017-03-20 10:46:56,False,True
+2017-03-23T05:02:29,what is the sensitive issue of Indonesia from this movie?,0,0,Meuthianabila Pratiwi,gdLXPv5NsA4,0.1,2017-03-23 05:02:29,False,True
+2017-03-25T12:40:11,MURPH!,0,0,Dziordan1,gdLXPv5NsA4,0.0,2017-03-25 12:40:11,False,True
+2017-03-29T20:17:24,1:21 MACON BLAIR?!,0,0,Dinnershark!,gdLXPv5NsA4,0.0,2017-03-29 20:17:24,False,True
+2017-03-30T04:56:31,"kasus Busang Kalimantan, penipuan saham, filmnya mantap 👍",0,0,Arsabubay Channel,gdLXPv5NsA4,0.0,2017-03-30 04:56:31,False,True
+2017-03-31T09:25:56,in INDONESIA #papua gold,0,0,Bowo M,gdLXPv5NsA4,0.0,2017-03-31 09:25:56,False,True
+2017-04-09T07:34:00,As Indonesian.. We have the largest Gold Mining tragedy.. It's FREEPORT in Papua,0,2,Ferra Sri Aryani,gdLXPv5NsA4,0.0,2017-04-09 07:34:00,False,True
+2017-04-09T07:38:10,YUP American.. Suck more gold in Indonesia..,0,0,Ferra Sri Aryani,gdLXPv5NsA4,0.25,2017-04-09 07:38:10,False,True
+2017-04-14T16:30:01,"Kopasus,,,,,",0,0,the other side,gdLXPv5NsA4,0.0,2017-04-14 16:30:01,False,True
+2017-04-16T23:56:33,"Hi homies, what is the song playing in the background? Thanks in advance.",0,0,Agu Agu,gdLXPv5NsA4,0.2,2017-04-16 23:56:33,False,True
+2017-04-18T19:04:11,"My God, they're frigging giving away the whole movie.",0,0,rocked30,gdLXPv5NsA4,0.2,2017-04-18 19:04:11,False,True
+2017-04-21T16:14:11,The Wolf of Wall Street + Blood Diamond = GOLD,3,0,Hola!,gdLXPv5NsA4,0.0,2017-04-21 16:14:11,False,True
+2017-04-22T07:54:25,"Well, I don't think I need to watch the movie anymore after seeing the trailer here.",0,0,Chris Kartana,gdLXPv5NsA4,0.0,2017-04-22 07:54:25,False,True
+2017-04-23T01:53:16,"To me... this story is a massive lie. No spoilers here but!! He said He Loves Gold More Than Money, therefor he had psychical gold but the plot never points this out. It's a Con -man story told by con-men in hollywood",0,0,MrSinn,gdLXPv5NsA4,0.25,2017-04-23 01:53:16,False,True
+2017-04-23T03:14:12,Alright Alright,0,0,M H,gdLXPv5NsA4,0.0,2017-04-23 03:14:12,False,True
+2017-04-23T09:38:24,"So, a prospector finds gold and everyone wants a piece. okay.",1,0,WeirdWorld,gdLXPv5NsA4,0.35,2017-04-23 09:38:24,False,True
+2017-04-23T09:58:24,The movie is very different than the trailer. He never got any Gold...,0,0,Debashish Smith,gdLXPv5NsA4,0.0,2017-04-23 09:58:24,False,True
+2017-04-23T19:21:11,ตามมาดูพี่ก๊อต,0,0,MSN Chanel,gdLXPv5NsA4,0.0,2017-04-23 19:21:11,False,True
+2017-04-28T11:38:02,Good job on spoiling the movie. Who the fuck made this trailer.,0,0,ArmouredSpacePony,gdLXPv5NsA4,0.14999999999999997,2017-04-28 11:38:02,False,False
+2017-05-01T02:54:50,What's the song?,0,0,MikaylaRayne020,gdLXPv5NsA4,0.0,2017-05-01 02:54:50,False,False
+2017-05-01T17:58:39,"Un film de toata cacaoa. O realitate masluita. Pt. analfabetii in ale realitatii, care NU stiu, in romanica noastra este aur cat sa colapseze ""piata"" mondiala de AUR. Acest film este de toata CACAOUA......",0,0,Florin Bogdan,gdLXPv5NsA4,0.0,2017-05-01 17:58:39,False,False
+2017-05-09T02:09:37,"Just saw it and it was genius, probably one of the best movies I saw in recent memory. But this trailer is shit...",0,0,aiefoneten,gdLXPv5NsA4,0.26666666666666666,2017-05-09 02:09:37,False,False
+2017-05-11T22:49:43,"I saw this move, loved it",1,0,N8,gdLXPv5NsA4,0.7,2017-05-11 22:49:43,False,False
+2017-05-24T10:46:18,It's a coincidence that he played on Fools Gold,0,0,414MrMilwaukee,gdLXPv5NsA4,0.0,2017-05-24 10:46:18,False,False
+2017-06-20T22:59:06,what a ride,1,0,soledad bartek,gdLXPv5NsA4,0.0,2017-06-20 22:59:06,False,False
+2017-07-19T13:50:28,INDONESIA,0,0,Muhammad Yøgi Helmanda,gdLXPv5NsA4,0.0,2017-07-19 13:50:28,False,False
+2017-07-22T04:10:37,Money digging whores.,0,0,WARian,gdLXPv5NsA4,0.0,2017-07-22 04:10:37,False,False
+2017-07-31T17:24:16,"One of the best movies i have ever seen. Hands down,it will rock your world.",0,0,Mad Ness,gdLXPv5NsA4,1.0,2017-07-31 17:24:16,False,False
+2017-08-05T16:06:56,"I saw this movie weeks ago on my device and i couldn't finish it. It was interesting but then i got bored of the plot. And honestly, i stopped watching it and didn't have a care in the world returning to finish this movie. I find that surprising because usually i would stop watching the movie, but i would always be interested to continue it later. In this case, i wasn't.   Matthew is a great actor. I suggest watching Free State of Jones if you want a good film. If you like this film, ok.",1,2,White Emerald_,gdLXPv5NsA4,0.3363636363636363,2017-08-05 16:06:56,False,False
+2017-09-13T04:01:24,It funny how a song brought me to the trailer.... and not the otherway around...,0,0,BeginnersLuck,gdLXPv5NsA4,0.25,2017-09-13 04:01:24,False,False
+2017-10-09T23:44:03,What a great film! Thanks Matthew!,1,0,robin breslow,gdLXPv5NsA4,0.625,2017-10-09 23:44:03,False,False
+2017-10-15T13:33:21,Indonesia,1,0,HENI DOANK,gdLXPv5NsA4,0.0,2017-10-15 13:33:21,False,False
+2017-10-20T21:10:52,This is the movie where Matthew shows his bare backside. I thought he looked pretty good in this and sexy without his clothes on.,0,0,greg herried,gdLXPv5NsA4,0.375,2017-10-20 21:10:52,False,False
+2017-10-27T04:28:24,This movie is gold. I mean it's name is Gold. In case someone missed,1,0,MrMDanny,gdLXPv5NsA4,-0.3125,2017-10-27 04:28:24,False,False
+2017-10-28T03:29:20,Great movie! Emotional ending..,1,1,SupimpaBear,gdLXPv5NsA4,0.5,2017-10-28 03:29:20,False,False
+2017-11-03T21:24:59,GOLD!!!,0,0,Jerusalem,gdLXPv5NsA4,0.0,2017-11-03 21:24:59,False,False
+2017-11-08T17:54:30,We have gold nuggets available now in Kenya at affordable price.Add me on whatsapp +254713020475 or email at ernestmaraga6@gmail.com for more details.payment after assay and we are ready to send visa and invitation letter to serious buyer,0,0,Ernest Maraga,gdLXPv5NsA4,0.1916666666666667,2017-11-08 17:54:30,False,False
+2017-11-13T03:48:26,"Matt looked truly gross in this movie, I’ll give him that. Nice Bre-X cover, but the soundtrack totally sucked.",1,0,McAllister Pulswaithe,gdLXPv5NsA4,0.19999999999999998,2017-11-13 03:48:26,False,False
+2017-11-21T19:05:18,srsly don't know why this got bad reviews it's pretty good. gold in fact,1,0,Russell Quiazon,gdLXPv5NsA4,0.08333333333333337,2017-11-21 19:05:18,False,False
+2017-11-29T04:12:18,Why is the cast so whitewashed? Michael De Guzman is Filipino!!!!,0,1,Sheldon Cooper,gdLXPv5NsA4,0.0,2017-11-29 04:12:18,False,False
+2017-11-30T06:14:36,Berita tentang wafatnya pak Bondan winarno membawaku sampe ke sini,0,0,Papah Fandi Perdana,gdLXPv5NsA4,0.0,2017-11-30 06:14:36,False,False
+2017-11-30T12:27:50,Apa cuma gue yg kesini karena statement kasus Bre-X dari alm.Bondan di salah satu medsos IG ? Wkwkwk,0,0,Michael Dafa,gdLXPv5NsA4,0.0,2017-11-30 12:27:50,False,False
+2017-11-30T18:34:34,"ceritanya pak bondan(Alm) si "" maknyuuss "" yg d tuntut 2 triliun ternyat asal muasal dr film ini.... wweewwwww.....",0,0,Hanung Timor,gdLXPv5NsA4,0.0,2017-11-30 18:34:34,False,False
+2018-01-05T05:57:27,"hello, i'm from Indonesia",0,0,Wirawan Barr_,gdLXPv5NsA4,0.0,2018-01-05 05:57:27,False,False
+2018-01-10T16:04:35,"Wait, where is his hair from the top of the head? In Interstellar movie (2014) he looked cool. Was it purpose for this movie to let it cut?",0,0,Ľubomír Vlasko,gdLXPv5NsA4,0.425,2018-01-10 16:04:35,False,False
+2018-01-25T13:15:19,Im can't bellivet it in indonesia,0,0,Abraham Lie,gdLXPv5NsA4,0.0,2018-01-25 13:15:19,False,False
+2018-02-09T01:52:50,Is this a movie to watch?,0,0,Mauricio_0fficial,gdLXPv5NsA4,0.0,2018-02-09 01:52:50,False,False
+2018-02-10T15:07:47,VERY NICE MOVIE JUST WATCHED IT FROM FOX MOVIES,0,0,dakog OLOK,gdLXPv5NsA4,0.78,2018-02-10 15:07:47,False,False
+2018-03-04T15:23:44,Lol i dont need to watch movie now,0,0,CryptoWealthy,gdLXPv5NsA4,0.8,2018-03-04 15:23:44,False,False
+2018-03-19T19:07:50,"no need to watch the movie after this, I had the intention to watch it but nah",0,0,Brutal Sam,gdLXPv5NsA4,0.0,2018-03-19 19:07:50,False,False
+2018-04-11T00:35:21,Hey ก้อต จิรายุ,0,0,Diamond Suriya,gdLXPv5NsA4,0.0,2018-04-11 00:35:21,False,False
+2018-04-12T03:00:42,No balls ...No dell 😃😃😃😀😀😀 สุดยอด,0,0,jam kuci,gdLXPv5NsA4,0.0,2018-04-12 03:00:42,False,False
+2018-04-13T05:41:03,"2:11 yeahhhh, not in the movie, and it looks like a slapped together fan edit.",0,0,Jonas Polsky,gdLXPv5NsA4,0.0,2018-04-13 05:41:03,False,False
+2018-06-15T20:03:03,FUCKING great movie!! End was just awesome!,0,1,Dusan Ivkovic,gdLXPv5NsA4,1.0,2018-06-15 20:03:03,False,False
+2018-07-19T13:13:03,Matthew McConaughey all his movies are about gold and searching for treasures,0,0,nick money,gdLXPv5NsA4,0.0,2018-07-19 13:13:03,False,False
+2018-08-04T00:38:39,showing how they took all the fat of Asia n bring all to america   ...make asia poor country,0,0,flower power,gdLXPv5NsA4,-0.4,2018-08-04 00:38:39,False,False
+2018-08-04T21:03:07,Great story but i left wanting more...felt like there wasn't an ending.,0,0,JASON KALANI,gdLXPv5NsA4,0.4,2018-08-04 21:03:07,False,False
+2018-08-29T03:16:03,Matthew McConaughey is the best!!!!,0,0,Two Grumpy Reviewers,gdLXPv5NsA4,1.0,2018-08-29 03:16:03,False,False
+2018-09-11T03:48:41,Okay not one of his best performances...2.5 out of 5!,0,0,Chenale Gaines,gdLXPv5NsA4,0.75,2018-09-11 03:48:41,False,False
+2018-10-04T01:40:10,Seems more like a Tom Cruise movie but ok.,0,0,Spencer Belcher,gdLXPv5NsA4,0.5,2018-10-04 01:40:10,False,False
+2018-10-12T14:56:30,Best movie ever $$,0,0,E Albania,gdLXPv5NsA4,1.0,2018-10-12 14:56:30,False,False
+2018-10-27T10:52:56,This trailer is priceless,0,0,frostbite Heated,gdLXPv5NsA4,1.0,2018-10-27 10:52:56,False,False
+2018-11-17T08:29:49,This is one great movie and it is true just check Wikipedia. 10 out of 10 and a BIG thumbs up for this little gem.,1,0,7316bobe,gdLXPv5NsA4,0.24062499999999998,2018-11-17 08:29:49,False,False
+2018-12-10T03:44:08,dasar maling amerika laknat...,0,0,Cahaya Mati,gdLXPv5NsA4,0.0,2018-12-10 03:44:08,False,False
+2018-12-27T12:49:57,harika bir film gerçekten..,0,0,Esen Gul,gdLXPv5NsA4,0.0,2018-12-27 12:49:57,False,False
+2019-04-03T09:34:27,that asian man at 1.37 what's his name please,0,0,roro beauty,gdLXPv5NsA4,0.0,2019-04-03 09:34:27,False,False
+2019-04-11T00:51:04,wew ada kostrad ama kopasus ^_^,0,0,Fisioterapi Dot Id,gdLXPv5NsA4,0.0,2019-04-11 00:51:04,False,False
+2019-04-13T18:40:35,Totally headache,0,0,sameer ahmed,gdLXPv5NsA4,0.0,2019-04-13 18:40:35,False,False
+2019-04-29T21:51:33,Well done ! phenomenal 📽📼🎞📼🎥,0,0,Safedob 777,gdLXPv5NsA4,0.5,2019-04-29 21:51:33,False,False
+2019-06-29T19:35:16,Styx - Renegade  MUSIC,0,0,Valdemar,gdLXPv5NsA4,0.0,2019-06-29 19:35:16,False,False
+2019-07-13T16:57:31,"Film ini menceritakan banyaknya perampok2 kekayaan alam indonesia dari negara luar,,indonesia memiliki kekayaan alam paling besar dan paling banyak,dan negara diluar sana memantau dan mengincar harta kekayaan negara indonesia,,negara ini sudah sangat maju dan sudah bisa mengolah sendiri kekayaan nya tanpa harus campur tangan dari negara asing yang hanya ingin merampas kekayaan indonesia..salam indonesia,,",1,0,david kanemitsu,gdLXPv5NsA4,0.0,2019-07-13 16:57:31,False,False
+2019-08-22T04:54:16,"Please dont watch this trailer , it spoils the movie, just skip this and watch the film, it is one of the greatest gold films",0,0,nick gers,gdLXPv5NsA4,1.0,2019-08-22 04:54:16,False,False
+2019-10-06T20:04:06,"owh, I have to watch this one... the beginning of fr*****t?",0,0,Hidup Tuh Gini2 Aja,gdLXPv5NsA4,0.0,2019-10-06 20:04:06,False,False
+2019-10-07T00:17:26,1:25 Joker's laugh,0,0,myusernameistaken23,gdLXPv5NsA4,0.3,2019-10-07 00:17:26,False,False
+2019-10-15T12:48:32,Yeahh that is how the USA steal Indonesian gold,0,1,Axle Botami,gdLXPv5NsA4,0.0,2019-10-15 12:48:32,False,False
+2019-10-16T17:47:28,auuuuohohohowowowownonononono???copy393684727,0,1,Victor 1110,gdLXPv5NsA4,0.0,2019-10-16 17:47:28,False,False
+2019-11-16T18:31:49,Is this supposed to be like wolf of Wall Street?,0,1,Mike Moretz,gdLXPv5NsA4,0.0,2019-11-16 18:31:49,False,False
+2019-12-08T01:09:43,"Not a single comment about he looks worse having gained weight for the role, which he discussed on Kimmel. It's remarkable the level of harassment and bullying women have to tolerate for their appearance. It is alienating for the person being targeted there is not some sort of right to evaluate a person in public proclamations.",0,0,E,gdLXPv5NsA4,0.0619047619047619,2019-12-08 01:09:43,False,False
+2019-12-14T17:28:17,Awesome movie,0,0,No Expert,gdLXPv5NsA4,1.0,2019-12-14 17:28:17,False,False
+2019-12-24T13:59:02,"This story is loosely based on a real Canadian mining scandal (Bre-X). Just read the summary of the movie. Believe it or not, the part in the story about the helicopter 'suicide' was real. I remember that insanity in the news.",0,0,Toby Holland,gdLXPv5NsA4,0.1076923076923077,2019-12-24 13:59:02,False,False
+2020-01-16T03:06:49,Basically TSLA stock lol,0,0,Mo Karney,gdLXPv5NsA4,0.8,2020-01-16 03:06:49,False,False
+2020-01-29T03:45:21,hi,0,0,Chann Savin,gdLXPv5NsA4,0.0,2020-01-29 03:45:21,False,False
+2020-01-29T15:37:12,Freeport?,0,0,Bos Rengge,gdLXPv5NsA4,0.0,2020-01-29 15:37:12,False,False
+2020-03-10T13:53:03,"Nyeritain indonesia...tp para pemain dan figurannya orang Thailand semua, lokasi shooting nya pun di Thailand",0,0,Abbe Budiman,gdLXPv5NsA4,0.0,2020-03-10 13:53:03,False,False
+2020-03-28T17:40:58,Montana vs mathew,0,0,Jude Sarpong,gdLXPv5NsA4,0.0,2020-03-28 17:40:58,False,False
+2020-04-23T11:39:18,this movie is ban of the all website i stil didnt see this movie i really want to watch this movie any one can help me to find out where i watch this movie,0,0,music/infinity channel,gdLXPv5NsA4,0.2,2020-04-23 11:39:18,False,False
+2020-05-17T20:48:33,matthew mcconaughey whether he Gains weight and gets bald   He still incredible 😍😍😍 Great performance! 👏👏👏,0,0,scarlet butler,gdLXPv5NsA4,0.95,2020-05-17 20:48:33,False,False
+2020-05-27T21:52:08,"Great film, not great trailer",0,0,Marlow White,gdLXPv5NsA4,0.2,2020-05-27 21:52:08,False,False
+2020-06-08T19:01:27,The located country american and indonesia,0,0,Ari Sujarno,gdLXPv5NsA4,0.0,2020-06-08 19:01:27,False,False

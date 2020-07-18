@@ -1,0 +1,780 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2015-03-04T16:47:39,Looks like it could be pretty good. Finally a movie that's not a reboot. A fresh concept.,295,27,Dustin Alkire,3agaVwt0tb8,0.3125,2015-03-04 16:47:39,True,True
+2015-03-04T16:48:55,Looks cool,0,0,krysiu98,3agaVwt0tb8,0.35,2015-03-04 16:48:55,True,True
+2015-03-04T16:52:55,did they use prometheus trailer score ?,0,0,Shubham Gupta,3agaVwt0tb8,0.0,2015-03-04 16:52:55,True,True
+2015-03-04T16:53:42,This looks awesome ,0,0,Adam Di Filippe,3agaVwt0tb8,1.0,2015-03-04 16:53:42,True,True
+2015-03-04T17:09:03,OMG! I need to watch this movie!!,0,0,R3verse,3agaVwt0tb8,0.0,2015-03-04 17:09:03,True,True
+2015-03-04T17:10:13,This could be the sequel to 2010's Never Let Me Go. ,0,1,aybarker,3agaVwt0tb8,0.0,2015-03-04 17:10:13,True,True
+2015-03-04T17:11:11,showed too much in the trailer.....,0,0,hungrybearcub,3agaVwt0tb8,0.2,2015-03-04 17:11:11,True,True
+2015-03-04T17:15:27,"Manderin and Deadpool in the same movie, yay!",434,17,Spider Jeranimo,3agaVwt0tb8,0.0,2015-03-04 17:15:27,True,True
+2015-03-04T17:19:59,"So Ryan Reynolds' character was killed so that Ben Kingsleys could live on, and the woman he meets was his wife?",0,0,Joel's Channel :D,3agaVwt0tb8,-0.03181818181818183,2015-03-04 17:19:59,True,True
+2015-03-04T17:22:33,"Looks pretty good, but would look equally good with way less info/shorter trailer",0,0,Mickael Vest,3agaVwt0tb8,0.3708333333333333,2015-03-04 17:22:33,True,True
+2015-03-04T17:34:53,Looks good! Glad I won't have to pay to see it tho cause the trailer just told me everything.,0,0,Tom Frances,3agaVwt0tb8,0.6875,2015-03-04 17:34:53,True,True
+2015-03-04T17:35:43,Looks like Face Off but with dead pool ,0,0,SaviG,3agaVwt0tb8,-0.2,2015-03-04 17:35:43,True,True
+2015-03-04T17:36:32,Can't wait.,0,0,Jade Fibula,3agaVwt0tb8,0.0,2015-03-04 17:36:32,True,True
+2015-03-04T17:36:36,well thx for giving away most of the major plot details. ,195,8,M SDoc,3agaVwt0tb8,0.28125,2015-03-04 17:36:36,True,True
+2015-03-04T17:40:44,That scene where Ben Kingsley is looking out the window reminds me of the character he played in Lucky Number Slevin - Shlomo (aka: the Rabbi).,4,0,STAG162,3agaVwt0tb8,0.3333333333333333,2015-03-04 17:40:44,True,True
+2015-03-04T17:42:48,The dream of the ultra rich.,0,0,A.P.Total Fitness,3agaVwt0tb8,0.375,2015-03-04 17:42:48,True,True
+2015-03-04T17:46:16,1:15 what song is playing?,1,1,ksaa,3agaVwt0tb8,0.0,2015-03-04 17:46:16,True,True
+2015-03-04T17:47:54,i get the feeling that they give away a little too much but still looks pretty good seems like a rian johnson movie honestly,0,0,melih narinç,3agaVwt0tb8,0.3125,2015-03-04 17:47:54,True,True
+2015-03-04T17:49:12,Looks good this does,0,0,joe5494,3agaVwt0tb8,0.7,2015-03-04 17:49:12,True,True
+2015-03-04T17:54:39,"Ozymandias, Manderin and Deadpool... They have the best evil plan ever!",0,0,José Neto,3agaVwt0tb8,0.0,2015-03-04 17:54:39,True,True
+2015-03-04T17:59:17,00:58 - them nails be outta control!,0,0,Warren Kent,3agaVwt0tb8,0.0,2015-03-04 17:59:17,True,True
+2015-03-04T18:00:05,...Yea!,0,0,mrIlovethe90s1,3agaVwt0tb8,0.0,2015-03-04 18:00:05,True,True
+2015-03-04T18:01:23,"If I can choose a mortal life or immortality, I will take immortality.",0,0,Ferdy Hoshigaki Tube,3agaVwt0tb8,0.0,2015-03-04 18:01:23,True,True
+2015-03-04T18:04:13,love it,0,0,ARK ANGEL,3agaVwt0tb8,0.5,2015-03-04 18:04:13,True,True
+2015-03-04T18:06:12,Hurry up with this shit and give me my deadpool movie ryan reynolds! Nice twitter teaser btw,0,0,Ichigo Kurosaki,3agaVwt0tb8,0.175,2015-03-04 18:06:12,True,True
+2015-03-04T18:09:35,Every single motherfucking trailer gives all the plot twists these days.... Only teasers are worth it (or maybe just not watching the second half of every trailer to spare yourself from spoilers).,313,39,WhosYourDaddyNow,3agaVwt0tb8,0.012380952380952381,2015-03-04 18:09:35,True,True
+2015-03-04T18:12:48,"Heinlein rip off- I will fear no evil, at least make it a transfer into a hot chick.",0,0,Walter Lawrence,3agaVwt0tb8,0.15,2015-03-04 18:12:48,True,True
+2015-03-04T18:17:44,when is it in the cinema???? i want to see it,0,0,jules basemans,3agaVwt0tb8,0.0,2015-03-04 18:17:44,True,True
+2015-03-04T18:26:36,Looks bad ass!,0,0,xjxxxx,3agaVwt0tb8,-0.8749999999999998,2015-03-04 18:26:36,True,True
+2015-03-04T18:42:58,like the look of this,0,0,phillip kerfoot,3agaVwt0tb8,0.0,2015-03-04 18:42:58,True,True
+2015-03-04T18:51:28,Dollhouse?,0,0,Kenya Asante,3agaVwt0tb8,0.0,2015-03-04 18:51:28,True,True
+2015-03-04T18:52:50,"It reminds me of the island a little bit... although in that movie they were clones. But close. I'm intrigued, I can say that I am gonna watch it, but not in theaters",0,0,Dahlia Blake,3agaVwt0tb8,-0.1875,2015-03-04 18:52:50,True,True
+2015-03-04T18:56:14,"Ryan Reynolds, YES!",45,1,Max Obra,3agaVwt0tb8,0.0,2015-03-04 18:56:14,True,True
+2015-03-04T19:00:09,if they just left the fact that they killed ryan character so the guy from iron man can get imotality it would had a better twist but oh well i'm still watching it ,0,0,Rao comicbook,3agaVwt0tb8,0.09999999999999999,2015-03-04 19:00:09,True,True
+2015-03-04T19:03:04,Seems like a new concept.. Hoping this movie to be awesome..,0,0,NaveenLiveIn,3agaVwt0tb8,0.5681818181818181,2015-03-04 19:03:04,True,True
+2015-03-04T19:05:14,Why does every movie has that stupid Inception sound?? What a lack of originality,22,3,Belen Álzaga,3agaVwt0tb8,-0.19999999999999996,2015-03-04 19:05:14,True,True
+2015-03-04T19:11:44,"Nothing new, a new spin on Freejack. ",3,5,redmercurypr,3agaVwt0tb8,0.13636363636363635,2015-03-04 19:11:44,True,True
+2015-03-04T19:25:49,Interesting. Will check it when it comes out!,0,0,ZeroExMachina,3agaVwt0tb8,0.625,2015-03-04 19:25:49,True,True
+2015-03-04T19:26:42,Looks good but I have to say that this looks very different for Tarsem Singh film. ,0,0,Kor Viray,3agaVwt0tb8,0.35,2015-03-04 19:26:42,True,True
+2015-03-04T19:26:42,wow thank u for showing most of the movie in this one trailer.,0,0,roisin,3agaVwt0tb8,0.3,2015-03-04 19:26:42,True,True
+2015-03-04T19:37:54,"~slow turn~ ""aaand you'll neverrrr see meeee coming""",0,0,BakemonoShiz,3agaVwt0tb8,-0.30000000000000004,2015-03-04 19:37:54,True,True
+2015-03-04T19:40:03,gijobaa,0,0,beso gogrichiani,3agaVwt0tb8,0.0,2015-03-04 19:40:03,True,True
+2015-03-04T19:42:18,"Sweet looks actually promising :) i love Sci Fi Thrillers   Usually in today's standards Sci Fi hasn't been much of a factor or people try to over complicate it  Great Modern Sci Fi films that are great are Predestination, Edge of Tomarrow, Looper and ect  Just don't do an After Earth or Jupiter Ascending.",20,1,Tony Lawliet,3agaVwt0tb8,0.36666666666666664,2015-03-04 19:42:18,True,True
+2015-03-04T19:56:47,Looks interesting.  Reminds me of movies like minority report... vanilla sky and face off... well have 2 wait and see. ,0,0,Leon de klerk,3agaVwt0tb8,0.5,2015-03-04 19:56:47,True,True
+2015-03-04T20:07:43,this story is very interesting!!! finally something different!! instead of a reboot or a sequel! will be very interesting to watch! can't wait! :),0,0,Penguin Entertainment,3agaVwt0tb8,0.5,2015-03-04 20:07:43,True,True
+2015-03-04T20:14:58,Reminds me of The 6th Day ,0,0,bourniboy,3agaVwt0tb8,0.0,2015-03-04 20:14:58,True,True
+2015-03-04T20:16:39,SONG PLEASE?,2,1,Hi I'm Oscar Freetoo... too soon Leonardo?,3agaVwt0tb8,0.0,2015-03-04 20:16:39,True,True
+2015-03-04T20:34:17,An amazing plot but the trailer is just destroying this for me none the less I am gonna give it a try ,1,0,Galid beer,3agaVwt0tb8,0.0777777777777778,2015-03-04 20:34:17,True,True
+2015-03-04T20:47:23,"Before he gained invulnerability as the Deadpool, he reached immortality as The Mandarin.  X-Men Origins: Deadpool",2,0,OminousFlare,3agaVwt0tb8,0.0,2015-03-04 20:47:23,True,True
+2015-03-04T20:54:53,Looks interesting ,0,0,Aldo Raine,3agaVwt0tb8,0.5,2015-03-04 20:54:53,True,True
+2015-03-04T21:01:28,"A fucked up Avatar...on Earth! Orsum (!!!)...tho that sed (trailer making Ppel!) don't use the blown-away-by-the-wind lettering of Transcendence coz it's a bad omen, that movie was pritE bad! ",0,0,MarkDavidson / M__ZIME - GB&NI,3agaVwt0tb8,-0.8583333333333331,2015-03-04 21:01:28,True,True
+2015-03-04T21:09:59,Looks promising but typical. Don't fail us ryan!,0,0,christopherxiong,3agaVwt0tb8,-0.19722222222222222,2015-03-04 21:09:59,True,True
+2015-03-04T21:24:23,Ah classic transformers 4 trailer music. ,1,0,darkdancerman,3agaVwt0tb8,0.16666666666666666,2015-03-04 21:24:23,True,True
+2015-03-04T21:37:07,Man I am so pumped that there have been so many new sci fi movies coming out with decent plots!,0,0,Nick Stumphauzer,3agaVwt0tb8,0.2815656565656566,2015-03-04 21:37:07,True,True
+2015-03-04T21:42:02,ok ill buy this ,0,0,Robbie Jordan,3agaVwt0tb8,0.0,2015-03-04 21:42:02,True,True
+2015-03-04T22:07:54,Nice new concept,0,0,Kungfauxboi,3agaVwt0tb8,0.36818181818181817,2015-03-04 22:07:54,True,True
+2015-03-04T22:28:33,The fact that Tarsem Singh is directing tells me that it's already going to be a flop. That guy have something like ant-movie making disease. ,0,0,Godzilla52,3agaVwt0tb8,0.0,2015-03-04 22:28:33,True,True
+2015-03-04T22:57:36,This is my kind of movie. ,0,0,The Uncolored Man,3agaVwt0tb8,0.6,2015-03-04 22:57:36,True,True
+2015-03-04T23:00:50,.....Interesting. ,0,0,Krispy Donutt,3agaVwt0tb8,0.0,2015-03-04 23:00:50,True,True
+2015-03-04T23:00:52,Dang.,0,0,Jole Aron,3agaVwt0tb8,0.0,2015-03-04 23:00:52,True,True
+2015-03-04T23:17:48,This isn't a fresh concept. More like a different angle of the movie Freejack in the early 90s.,2,2,The Game Bench,3agaVwt0tb8,0.225,2015-03-04 23:17:48,True,True
+2015-03-04T23:21:59,The Lazarus Effect 2 + Transcendence 2: Eletric Boogaloo,2,0,Isaac Thefallenapple,3agaVwt0tb8,0.0,2015-03-04 23:21:59,True,True
+2015-03-04T23:27:31,They literally spoiled the whole movie in minutes! SMH,0,0,toxiclow,3agaVwt0tb8,0.25,2015-03-04 23:27:31,True,True
+2015-03-04T23:33:40,"Wow, this actually looks great! ",0,0,Sorin B,3agaVwt0tb8,0.3666666666666667,2015-03-04 23:33:40,True,True
+2015-03-04T23:51:55,"Looks pretty good, just wish they didn't give away the entire movie",0,1,danielmvids,3agaVwt0tb8,0.31666666666666665,2015-03-04 23:51:55,True,True
+2015-03-04T23:55:14,i have to see this movie,0,0,Carl Kearse,3agaVwt0tb8,0.0,2015-03-04 23:55:14,True,True
+2015-03-05T00:21:20,genius!,0,0,C M,3agaVwt0tb8,0.0,2015-03-05 00:21:20,True,True
+2015-03-05T01:14:17,Why does this feel oddly familiar? For some reason this seems like a old wine in a new bottle with a fancy new cork.,0,0,VGLICIOUS,3agaVwt0tb8,0.18693181818181817,2015-03-05 01:14:17,True,True
+2015-03-05T01:23:32,"Wow, this looks brilliant ",0,0,V,3agaVwt0tb8,0.5,2015-03-05 01:23:32,True,True
+2015-03-05T01:54:31,"Hm, this looks interesting. Big Ryan Reynolds fan. This would make an excellent date movie...",0,0,Brian Keith MacDonald,3agaVwt0tb8,0.5,2015-03-05 01:54:31,True,True
+2015-03-05T01:57:46,looks promising ,0,0,Jim joe Kelly,3agaVwt0tb8,0.2,2015-03-05 01:57:46,True,True
+2015-03-05T01:59:36,  ,0,0,Alicea Thompson,3agaVwt0tb8,0.0,2015-03-05 01:59:36,True,True
+2015-03-05T02:18:25,looks good!,0,0,Hanif Halimi,3agaVwt0tb8,0.875,2015-03-05 02:18:25,True,True
+2015-03-05T04:01:35,"This kinda reminds me of Face-Off, but I can be wrong",0,0,MetalGamerGuy,3agaVwt0tb8,-0.5,2015-03-05 04:01:35,True,True
+2015-03-05T04:10:09,This really looks good.,0,0,William Cleveland,3agaVwt0tb8,0.44999999999999996,2015-03-05 04:10:09,True,True
+2015-03-05T04:58:40,YAY GUY FROM INTIMIDATION GAME!,0,0,GoldenTV3,3agaVwt0tb8,-0.5,2015-03-05 04:58:40,True,True
+2015-03-05T06:00:11,genius.,0,0,Angel Lewis,3agaVwt0tb8,0.0,2015-03-05 06:00:11,True,True
+2015-03-05T06:05:16,OMG copy Avatar movie in 0:25 in the 1:50 copy godzilla soundtrack trailer  what wrong this movie,0,2,Kaga Kouko,3agaVwt0tb8,-0.5,2015-03-05 06:05:16,True,True
+2015-03-05T07:02:06,this movie is F*ck!ng Murder  can't wait for this one,0,0,Arman Ericson Molina,3agaVwt0tb8,0.0,2015-03-05 07:02:06,True,True
+2015-03-05T07:03:14,This looks dope.,0,0,Neon Peon,3agaVwt0tb8,0.0,2015-03-05 07:03:14,True,True
+2015-03-05T08:05:16,looks really interesting ,0,0,Concrete3vidence,3agaVwt0tb8,0.5,2015-03-05 08:05:16,True,True
+2015-03-05T08:32:06,hmmm seems like they just ruined the whole film...,3,0,Aidan CC,3agaVwt0tb8,0.2,2015-03-05 08:32:06,True,True
+2015-03-05T09:07:11,I like it.,0,0,mcwhogivesafuck,3agaVwt0tb8,0.0,2015-03-05 09:07:11,True,True
+2015-03-05T09:22:42,Hopefully this never becomes possible in the future.,1,4,Tyrone Thanos,3agaVwt0tb8,0.0,2015-03-05 09:22:42,True,True
+2015-03-05T09:31:47,Wow...Ryan Reynolds is starting to star in some really interesting movies...,1,0,Regie Ferrer,3agaVwt0tb8,0.25,2015-03-05 09:31:47,True,True
+2015-03-05T09:36:21,looks really good!,1,0,Satyajit Mukherjee,3agaVwt0tb8,0.875,2015-03-05 09:36:21,True,True
+2015-03-05T10:44:57,with a trailer like that who needs to see the movie?,0,0,C K,3agaVwt0tb8,0.0,2015-03-05 10:44:57,True,True
+2015-03-05T11:58:58,THAT LOOKS PRETTY GOOD,0,0,murry001,3agaVwt0tb8,0.475,2015-03-05 11:58:58,True,True
+2015-03-05T13:58:18,looks pretty cool.,0,0,skinoff89,3agaVwt0tb8,0.3,2015-03-05 13:58:18,True,True
+2015-03-05T14:50:51,"Life is a gift, people need to just enjoy what they have instead of messing around with what they think they need",18,0,daisy hopkinson,3agaVwt0tb8,0.4,2015-03-05 14:50:51,True,True
+2015-03-05T16:46:34,"Why would you restart your life in the body of a 38 year-old? I know it's Ryan Reynolds, but still, I'd go for someone a bit younger.",0,0,shim2dawg,3agaVwt0tb8,0.0,2015-03-05 16:46:34,True,True
+2015-03-05T17:38:33,Jesus saves some plot twists for the movie why don't you?,15,1,Riley Brewer,3agaVwt0tb8,0.0,2015-03-05 17:38:33,True,True
+2015-03-05T18:14:16,annnnnd... THIS will _bomb._,0,0,Bijinius Cross,3agaVwt0tb8,0.0,2015-03-05 18:14:16,True,True
+2015-03-05T18:52:59,Song?,0,0,Jean-Marc Ulysse,3agaVwt0tb8,0.0,2015-03-05 18:52:59,True,True
+2015-03-05T21:41:15,"This is like The Host in some way, just without the aliens, etc.",0,0,Baziela Cabrera,3agaVwt0tb8,0.0,2015-03-05 21:41:15,True,True
+2015-03-05T21:58:12,"1:22 Captain, who is she? :)",0,0,NiceOne,3agaVwt0tb8,0.5,2015-03-05 21:58:12,True,True
+2015-03-06T01:12:45,I see no point in seeing the film since the entire plot has been surmised for me by this trailer.,3,0,TheSpiritOfTheTimes,3agaVwt0tb8,0.0,2015-03-06 01:12:45,True,True
+2015-03-06T06:01:04,"Aventador Roadster? Okay, okay i can deal with that :D",0,0,Hail Hydra,3agaVwt0tb8,0.6666666666666666,2015-03-06 06:01:04,True,True
+2015-03-06T07:41:43,"Who's the actor at 0:12? I've seen him in a few things here and there but can't remember his name. I'm not talking about Ben Kingsley, I'm talking about the guy who looks a bit like James Marsden.",0,2,Icedmetal57,3agaVwt0tb8,-0.2,2015-03-06 07:41:43,True,True
+2015-03-06T07:49:17,Only on YouTube do I need to watch an ad to allow me the ability to watch an ad.,0,0,aznfratboy1,3agaVwt0tb8,0.0,2015-03-06 07:49:17,True,True
+2015-03-06T08:28:38,^^,0,0,Apple A. Phuchan,3agaVwt0tb8,0.0,2015-03-06 08:28:38,True,True
+2015-03-06T12:14:39,this is look more than freejack movie? remember that?? it would be awesome if mick jager appears here !! hahah anyway this movie looks pretty awesome!,0,0,Ova Chambers,3agaVwt0tb8,0.6875,2015-03-06 12:14:39,True,True
+2015-03-06T12:21:12,Prefer Face/Off.,0,0,Nayden,3agaVwt0tb8,0.0,2015-03-06 12:21:12,True,True
+2015-03-06T16:11:55,looks good,0,0,SuperKillerpickle,3agaVwt0tb8,0.7,2015-03-06 16:11:55,True,True
+2015-03-06T18:53:34,LOOKS INTERESTING. ,0,0,LX-Ander Sing Mong Lee,3agaVwt0tb8,0.5,2015-03-06 18:53:34,True,True
+2015-03-06T19:03:43,Tarsem needs to make more movies.,0,0,John Shepherd Smith,3agaVwt0tb8,0.5,2015-03-06 19:03:43,True,True
+2015-03-06T22:57:36,What if... this is a troll-movie... and it's actually Deadpool?,161,2,Gato Negro,3agaVwt0tb8,0.0,2015-03-06 22:57:36,True,True
+2015-03-07T13:57:56,"OMG, Karl Pilkington (The Ricky Gervais Show) came up with this idea lol",0,0,mabhido,3agaVwt0tb8,0.8,2015-03-07 13:57:56,True,True
+2015-03-07T14:18:56,ozymandias making some evil plans again,0,0,TheMeerkat7,3agaVwt0tb8,-1.0,2015-03-07 14:18:56,True,True
+2015-03-07T17:51:43,This looks good,0,0,def roach,3agaVwt0tb8,0.7,2015-03-07 17:51:43,True,True
+2015-03-07T19:40:41,this looks awesome,0,0,KovuTheKid,3agaVwt0tb8,1.0,2015-03-07 19:40:41,True,True
+2015-03-07T20:44:12,orichimaruuu hhh,0,0,abdallah ismail,3agaVwt0tb8,0.0,2015-03-07 20:44:12,True,True
+2015-03-07T21:14:57,"If you feel the trailer is showing you the half way point of the film, stop watching and bingo, good trailer.",0,0,Film Gob,3agaVwt0tb8,0.26666666666666666,2015-03-07 21:14:57,True,True
+2015-03-07T23:41:30,Seems a bit like Seconds,0,0,if6was929,3agaVwt0tb8,0.0,2015-03-07 23:41:30,True,True
+2015-03-07T23:42:09,This movie looks crazy good.,0,0,John Pinkston,3agaVwt0tb8,0.04999999999999999,2015-03-07 23:42:09,True,True
+2015-03-08T01:45:10,I click to watch this trailer and got the trailer in the ad.,0,0,Al Hoyt,3agaVwt0tb8,0.0,2015-03-08 01:45:10,True,True
+2015-03-08T02:21:01,"looks really cool, but they din't need to spoil half the movie in the first trailer",1,0,Anthony Marquez,3agaVwt0tb8,0.14444444444444446,2015-03-08 02:21:01,True,True
+2015-03-08T04:06:32,That Wiz lhalifa song sounds dope,0,0,jjvader123,3agaVwt0tb8,0.0,2015-03-08 04:06:32,True,True
+2015-03-08T05:25:58,This looks interesting. ,1,0,WrecklessEating,3agaVwt0tb8,0.5,2015-03-08 05:25:58,True,True
+2015-03-08T05:36:45,Another into for the public of alien technology.,0,2,Yaakov Reed,3agaVwt0tb8,-0.125,2015-03-08 05:36:45,True,True
+2015-03-08T15:00:27,ooo I can't wait to see this movie on the big screen..but why do trailers nowadays give away soo much? ,0,0,Geraldine şϻίţħ,3agaVwt0tb8,0.1,2015-03-08 15:00:27,True,True
+2015-03-08T16:03:48,Dollhouse did pretty much everything that can be done in this topic.,0,0,woobiesftw,3agaVwt0tb8,0.225,2015-03-08 16:03:48,True,True
+2015-03-08T17:15:41,A movie about Ben Kingsley inside Ryan Reynolds......,0,1,zbudda,3agaVwt0tb8,0.0,2015-03-08 17:15:41,True,True
+2015-03-08T18:10:24,seems there is a nice sf movie coming soon,0,0,DK Choi,3agaVwt0tb8,0.6,2015-03-08 18:10:24,True,True
+2015-03-08T20:37:32,Uiuuuuuuuuyiyuyu,0,0,Scot Galloway,3agaVwt0tb8,0.0,2015-03-08 20:37:32,True,True
+2015-03-08T20:41:15,Face/Off,0,0,Muzi Tshabalala,3agaVwt0tb8,0.0,2015-03-08 20:41:15,True,True
+2015-03-08T20:41:35,Iu uo ooyy,0,0,Scot Galloway,3agaVwt0tb8,0.0,2015-03-08 20:41:35,True,True
+2015-03-08T20:53:52,"At one point I forgot I was watching the trailer, I thought I was watching the whole movie",1,0,Milica Savatovic,3agaVwt0tb8,0.2,2015-03-08 20:53:52,True,True
+2015-03-08T21:58:42,I can't fathom a world where Ben Kingsley plays water carrier to Ryan Reynolds. ,0,0,SINATRA303,3agaVwt0tb8,0.0,2015-03-08 21:58:42,True,True
+2015-03-08T22:01:42,I need to see this now 😃,0,0,Famousgirlification,3agaVwt0tb8,0.0,2015-03-08 22:01:42,True,True
+2015-03-08T22:43:15,"Its not even a fakking Sci-Fi, its just a filler to make an action thriller....i am terribly sick of these....besides...ppl that read-watch sci-fi are past this idea like 30000 times already. BORING !",0,0,Kilyén Balázs,3agaVwt0tb8,-0.4660714285714286,2015-03-08 22:43:15,True,True
+2015-03-09T00:21:09,Jjduueuke OK Jo or Jo Ehfn  cld kill inn is Ivie bhaji r j hhbfoai jh UK,0,0,Alison Cooley,3agaVwt0tb8,0.5,2015-03-09 00:21:09,True,True
+2015-03-09T01:02:52,"Doesnt make any sense. How is he still rich after he transfers to another body, ",7,13,cell23chromosomepair,3agaVwt0tb8,0.375,2015-03-09 01:02:52,True,True
+2015-03-09T01:19:41,"Matthew Goode rocks more than my socks,but this looks horrible.",0,0,AllThingsGeek1,3agaVwt0tb8,-0.25,2015-03-09 01:19:41,True,True
+2015-03-09T01:32:49,This looks really good !!!,9,3,Cassandra,3agaVwt0tb8,1.0,2015-03-09 01:32:49,True,True
+2015-03-09T02:15:20,Good father movie,0,0,uguumur uyanga,3agaVwt0tb8,0.7,2015-03-09 02:15:20,True,True
+2015-03-09T02:37:20,"Must of Got the Idea from Rod Serling... Twilight Zone: Season 3, Episode 31 The Trade-Ins (20 Apr. 1962)  An elderly couple shop for younger replacement bodies, then resort to desperate measures to cover the cost.!!  Hollywood Still got to go back over 50 years to get the same idea just change the Story. ",0,0,jerseyjoe jerseyjoenj,3agaVwt0tb8,-0.234375,2015-03-09 02:37:20,True,True
+2015-03-09T03:43:13,Interesting,0,0,Bigi O.,3agaVwt0tb8,0.5,2015-03-09 03:43:13,True,True
+2015-03-09T05:12:25,someone read superior spider man made this movie,0,0,Fibonochos,3agaVwt0tb8,0.7,2015-03-09 05:12:25,True,True
+2015-03-09T06:12:34,   ,0,0,Britain Swarbrick,3agaVwt0tb8,0.0,2015-03-09 06:12:34,True,True
+2015-03-09T07:15:52,SONG: no limit wiz khalifa,0,0,dontneedone,3agaVwt0tb8,0.0,2015-03-09 07:15:52,True,True
+2015-03-09T14:32:33,What a unique and original plot...  Vanilla Sky + Avatar + Freaky Friday + loud Alien/Prometheus trailer music = THIS!,52,14,Tommy Nico,3agaVwt0tb8,0.2916666666666667,2015-03-09 14:32:33,True,True
+2015-03-09T16:16:49,"Ryan Reynolds is a very under rated actor, i whish him the best in future, even in Safe house he was far better than Denzel Washington  i'm a huge fan of D.W believe me, but R.Reynolds is pretty damn good, this movie looks great, can't wait",0,0,HumanUnit,3agaVwt0tb8,0.44499999999999995,2015-03-09 16:16:49,True,True
+2015-03-09T21:25:26,What's the name of the song wiz khaflifa was rapping ,0,1,Zach Shaw,3agaVwt0tb8,0.0,2015-03-09 21:25:26,True,True
+2015-03-09T23:46:17,What is name of the song? Anybody. ,0,1,Marco Belgrade,3agaVwt0tb8,0.0,2015-03-09 23:46:17,True,True
+2015-03-10T03:20:22,THis is like that episode of family guy where extremely successful celebrities had a doppleganger to take their place when they die or something,0,0,LivingCrossFire,3agaVwt0tb8,0.75,2015-03-10 03:20:22,True,True
+2015-03-10T09:47:18,"Three of my favorite actors in one, hell yeh! This looks promising.",0,0,nelson kaboots,3agaVwt0tb8,0.4125,2015-03-10 09:47:18,True,True
+2015-03-10T16:33:20,Dear Hollywood  Mmm     Can we get more spiritual movie? Hello! ,0,0,UurdChuluut Negen,3agaVwt0tb8,0.25,2015-03-10 16:33:20,True,True
+2015-03-10T17:34:57,Yes also The Island was pretty similar to this. Remember? That honey Scarlett Johansson and dear Ewan McGregor played.,0,0,UurdChuluut Negen,3agaVwt0tb8,0.125,2015-03-10 17:34:57,True,True
+2015-03-10T18:09:29,i thought it was a movie about how selfies will destroy the world   aww it was not,0,0,احمد يونس,3agaVwt0tb8,0.04999999999999999,2015-03-10 18:09:29,True,True
+2015-03-10T21:22:29,This actually looks pretty good.,0,0,Jarroda Kelsaw,3agaVwt0tb8,0.31666666666666665,2015-03-10 21:22:29,True,True
+2015-03-11T00:18:48,Is that Howie Mandel?,0,0,Nick Hill,3agaVwt0tb8,0.0,2015-03-11 00:18:48,True,True
+2015-03-11T02:15:11,Don't worry guys this is a prequel to how deadpool got his multiple personalities,9,0,Joseph Ben-Obasa,3agaVwt0tb8,0.0,2015-03-11 02:15:11,True,True
+2015-03-11T06:06:45,Illuminati confirmed,0,0,Skylion,3agaVwt0tb8,0.4,2015-03-11 06:06:45,True,True
+2015-03-11T09:47:01,I love Jake Gyllenhaal this movies gonna be sick!!!,0,0,RinzleR One,3agaVwt0tb8,-0.25,2015-03-11 09:47:01,True,True
+2015-03-11T10:40:00,this like a remake of face over ,0,0,Hartoyo,3agaVwt0tb8,0.0,2015-03-11 10:40:00,True,True
+2015-03-11T11:06:39,FACE/OFF,0,0,Michael Walela,3agaVwt0tb8,0.0,2015-03-11 11:06:39,True,True
+2015-03-11T13:56:26,Well that's great I just saw the whole movie!!!! wtf ,0,0,Carlos Flores,3agaVwt0tb8,0.26276041666666666,2015-03-11 13:56:26,True,True
+2015-03-11T22:54:15,Let me go ahead and state the ending as I see happening thru the preview. Kingsley will decide to let ryan Reynolds have his life back and allow his consciousness die,0,0,ninjabonez86,3agaVwt0tb8,0.0,2015-03-11 22:54:15,True,True
+2015-03-12T01:57:52,I feel like this movie will have an interesting twist in the end ....,0,0,Neil Tomlinson,3agaVwt0tb8,0.5,2015-03-12 01:57:52,True,True
+2015-03-12T09:25:01,Dhaayuuummm...,0,0,A. Ajay S,3agaVwt0tb8,0.0,2015-03-12 09:25:01,True,True
+2015-03-12T10:47:56,"Movie looks pretty cool but the religious bullshit at the end was annoying... ""God created man. Man created Immortality.""  Have to prove that a god even exists before you can claim that it could possibly create something.  ""The flying spaghetti monster created man. Man created Immortality.""",0,0,Globalgenocide,3agaVwt0tb8,-0.040000000000000015,2015-03-12 10:47:56,True,True
+2015-03-12T21:03:36,The moral lesson of the story be more like Ryan Reynolds or you are nothing.,0,0,AEEA,3agaVwt0tb8,0.25,2015-03-12 21:03:36,True,True
+2015-03-13T00:46:28,WOW!!!!,0,0,Shine Favila,3agaVwt0tb8,0.244140625,2015-03-13 00:46:28,True,True
+2015-03-13T02:03:57,What's that song at 1:14,0,0,Zach Shaw,3agaVwt0tb8,0.0,2015-03-13 02:03:57,True,True
+2015-03-13T03:13:45,Trippy trippy trippy. But a tad predictable!,0,0,Q The First Timelord,3agaVwt0tb8,-0.25,2015-03-13 03:13:45,True,True
+2015-03-13T05:06:01,@JB Murdock cool sci-fi trailer,1,0,"Smark Shillington, DFCO",3agaVwt0tb8,0.35,2015-03-13 05:06:01,True,True
+2015-03-13T08:37:55,trailer spoiler,0,0,Tito Ruiz,3agaVwt0tb8,0.0,2015-03-13 08:37:55,True,True
+2015-03-13T16:13:43,face/off 2099,0,0,Spiralking,3agaVwt0tb8,0.0,2015-03-13 16:13:43,True,True
+2015-03-13T19:25:10,2:10 epic man,4,0,Nikhil Gupta,3agaVwt0tb8,0.1,2015-03-13 19:25:10,True,True
+2015-03-13T20:52:50,"they showed too much.. they didn't need to show so much of the ""you're using the body of a man who had a family"" part.",0,0,Blaxximuss,3agaVwt0tb8,0.2,2015-03-13 20:52:50,True,True
+2015-03-13T21:49:00,He finally in the end decides to go back to his old body the movie.,7,0,PartyPooper,3agaVwt0tb8,0.03333333333333333,2015-03-13 21:49:00,True,True
+2015-03-13T22:29:22,Remember Face/Off?,0,0,CZsWorld,3agaVwt0tb8,0.0,2015-03-13 22:29:22,True,True
+2015-03-13T23:00:10,Altered Carbon anyone?,0,0,jd52wtf,3agaVwt0tb8,0.0,2015-03-13 23:00:10,True,True
+2015-03-14T08:20:44,Interesting idea.,0,0,Ciprian Ionut,3agaVwt0tb8,0.5,2015-03-14 08:20:44,True,True
+2015-03-14T19:14:57,guess I don't need to see the movie now that I know everything that happens. Ugh I hate trailers like this that leave nothing to the imagination.,0,0,Shuster4221,3agaVwt0tb8,-0.8,2015-03-14 19:14:57,True,True
+2015-03-14T22:33:40,"The ""science"" of it is bullshit, the concept is mildly amusing. I'm not so sure that it's anything new, however.",0,0,The Crimson Fucker,3agaVwt0tb8,0.4121212121212121,2015-03-14 22:33:40,True,True
+2015-03-15T09:57:00,That female voice at the end is that burd off Eagle Eye....:-),0,0,Mark Shepherd,3agaVwt0tb8,0.25,2015-03-15 09:57:00,True,True
+2015-03-16T00:11:00,"Very odd, i came across a very paranoid individual who was also homeless and he was speaking in tongues so I thought, but i was listening. He said something about the most powerful elite wanting to be able to purchase body's to ""upload"" they're consciousness transcendence style into body's to become immortal. He then said they would use computers or robots but those vessels do not feel or have the sensations the human body has. Eery...",0,0,tajaih c,3agaVwt0tb8,0.18333333333333332,2015-03-16 00:11:00,True,True
+2015-03-16T12:11:19,Well damn they just showed the whole movie,0,0,Erika Montez,3agaVwt0tb8,0.2,2015-03-16 12:11:19,True,True
+2015-03-16T15:09:21,"""Seconds"" a film starring Rock Hudson, 1966. The original on this theme. Terrifying with the saddest ending. Maybe this film can re-interpret it successfully.",0,0,Statichouse Music,3agaVwt0tb8,0.041666666666666664,2015-03-16 15:09:21,True,True
+2015-03-16T16:41:50,I will see this just because of Ryan Reynolds,0,0,WinterSplinterM.II,3agaVwt0tb8,0.0,2015-03-16 16:41:50,True,True
+2015-03-17T00:37:28,"I remember a movie on television, maybe in the 1960's, with Rock Hudson..something shorter but very similar. Yes, 1966 movie titled Seconds.",0,0,judith weathers,3agaVwt0tb8,0.0,2015-03-17 00:37:28,True,True
+2015-03-17T01:01:30,hmmmmm the ending looks good,0,0,Bonifacy Wszsszsa,3agaVwt0tb8,0.7,2015-03-17 01:01:30,True,True
+2015-03-17T02:24:42,Ryan Reynolds already did this with Jason Bateman.,1,0,Samuel Harvey,3agaVwt0tb8,0.0,2015-03-17 02:24:42,True,True
+2015-03-17T11:23:13,now this is interesting,0,0,H ЛЕША,3agaVwt0tb8,0.5,2015-03-17 11:23:13,True,True
+2015-03-17T14:51:11,So cool！,0,0,对白无言的,3agaVwt0tb8,0.0,2015-03-17 14:51:11,True,True
+2015-03-17T19:17:17,"Complete copy of Hanif Kureishi short story novel ""The Body"". Amazing what Hollywood can get away with",0,0,Super Mario Busker,3agaVwt0tb8,0.23333333333333336,2015-03-17 19:17:17,True,True
+2015-03-18T00:54:09,"immortality is a curse! you see your loved ones die before you eyes and never see them again, not only that, you will become suicidal and wish you never existed, its like fullmetal alchemist, you need to take a life in order to extend your own. its a fate worse than death!!!",0,0,Jason Leaf,3agaVwt0tb8,0.12968749999999996,2015-03-18 00:54:09,True,True
+2015-03-18T03:18:42,Ryan reynolds + movie = great,0,0,Kumo_Black,3agaVwt0tb8,0.8,2015-03-18 03:18:42,True,True
+2015-03-19T00:17:51,Looks kind a cool!!,0,0,Josie T,3agaVwt0tb8,0.5734375,2015-03-19 00:17:51,True,True
+2015-03-19T02:29:53,"Trailer pretty much just showed the whole plot, but this still looks pretty good. ",1,0,James Collins,3agaVwt0tb8,0.32,2015-03-19 02:29:53,True,True
+2015-03-19T15:33:48,"I was wondering how long it would take for someone to remake Freejack. It's not an exact copy, but certainly a copy.",0,0,unallocated,3agaVwt0tb8,0.13809523809523808,2015-03-19 15:33:48,True,True
+2015-03-19T19:57:54,Interesting ! ,0,0,David Marcu,3agaVwt0tb8,0.625,2015-03-19 19:57:54,True,True
+2015-03-20T07:01:40,Did i just saw the whole movie,1,0,SpymanTIVC,3agaVwt0tb8,0.2,2015-03-20 07:01:40,True,True
+2015-03-21T08:25:07,This looks so amazing. I hope this movie lives up to expectations set by the trailer.,0,0,Paru Ap,3agaVwt0tb8,0.6000000000000001,2015-03-21 08:25:07,True,True
+2015-03-21T09:07:17,"this is sad, now i cant watch the movie anymore cos i think i main twist has been exposed in the trailer.",1,0,whealz nelson,3agaVwt0tb8,-0.16666666666666669,2015-03-21 09:07:17,True,True
+2015-03-22T01:43:34,There would never be a good movie without complications...,0,0,Federico Jimbo Smithson,3agaVwt0tb8,0.7,2015-03-22 01:43:34,True,True
+2015-03-22T04:42:04,looks interesting but is it just me or this movie its like THE 6TH DAY,1,0,Jorge Flores,3agaVwt0tb8,0.5,2015-03-22 04:42:04,True,True
+2015-03-22T08:21:03,"Looks like a massive rip-off of Seconds with Rock Hudson. And looks like Rock Hudson was better in it than Reynolds will be by a LONG way. Shame we can improve everything else about movies except performances: those get worse and worse, emptier and emptier. Just like the human race it seems. Brilliant.",1,0,Unice Fidiots,3agaVwt0tb8,0.018750000000000003,2015-03-22 08:21:03,True,True
+2015-03-22T18:10:49,"A perfect example on how NOT to create a trailer. Absolutely no need to see the film now. The entire film told in two and a half minutes leaving nothing to the imagination, and certainly not leaving me wanting to see more. Complete balls-up.",67,0,Andrew Young,3agaVwt0tb8,0.17517006802721088,2015-03-22 18:10:49,True,True
+2015-03-22T19:32:16,looks good,0,0,viktor Turalyon,3agaVwt0tb8,0.7,2015-03-22 19:32:16,True,True
+2015-03-22T20:52:31,This movie is going to be nuts!,0,0,Nicolas Tibbert,3agaVwt0tb8,0.0,2015-03-22 20:52:31,True,True
+2015-03-22T23:57:44,looks decent,0,0,wildcard749,3agaVwt0tb8,0.16666666666666666,2015-03-22 23:57:44,True,True
+2015-03-23T01:47:38,"Wow. A brain transplant movie in 2015. Ok, then.",0,0,MrWBrust,3agaVwt0tb8,0.3,2015-03-23 01:47:38,True,True
+2015-03-23T04:08:49,im glad to see ryan reynolds get some work,0,0,BIG AMERICAN,3agaVwt0tb8,0.5,2015-03-23 04:08:49,True,True
+2015-03-23T15:54:09,Was that shot in Donald Trump's apartment?,0,0,113flowers,3agaVwt0tb8,0.0,2015-03-23 15:54:09,True,True
+2015-03-23T16:35:14,"I swear Ryan Reynalds is one lucky guy, goes to show if you got the looks you can make it. I mean it's just him he plays in everyone of his movies.",0,0,david beardy-kam,3agaVwt0tb8,0.010416666666666657,2015-03-23 16:35:14,True,True
+2015-03-24T01:40:23,"The Host, but more intense.",0,0,Tazmaster,3agaVwt0tb8,0.35,2015-03-24 01:40:23,True,True
+2015-03-24T16:22:31,This looks awesome.,0,0,Pablo jones,3agaVwt0tb8,1.0,2015-03-24 16:22:31,True,True
+2015-03-24T21:30:12,"So the old rich guy get's a fresh body but the fresh body didn't lost all hes memory so they just melt together and than he needs to save hes family and try to hunt down the bad guys and bring out the truth which has some sort of a ploth in the end, thx for let us watch movie in 2 min :D",4,0,Devil Seph,3agaVwt0tb8,0.17420634920634923,2015-03-24 21:30:12,True,True
+2015-03-25T02:55:24,Whoa is it possible...Ryan Reynolds in an actually decent movie?? I'll have to see it for myself!,0,0,Michelle Graham,3agaVwt0tb8,0.20833333333333331,2015-03-25 02:55:24,True,True
+2015-03-25T22:22:56,wow this looks like a really good movie.,0,0,Suleman Malik,3agaVwt0tb8,0.39999999999999997,2015-03-25 22:22:56,True,True
+2015-03-25T22:51:57,"Immortality has emotional and psychological consequential affects and effects, which is why it will never work genetically nor bio-technologically! Interesting movie though, will watch.",1,0,Vex T,3agaVwt0tb8,0.16666666666666666,2015-03-25 22:51:57,True,True
+2015-03-26T00:37:04,Matthew Goode 😍,0,0,Megan Alli,3agaVwt0tb8,0.0,2015-03-26 00:37:04,True,True
+2015-03-26T13:36:23,Despite all the spoilers and what many consider a generic plot I will definitely still watch it,0,0,Jacob Odom,3agaVwt0tb8,0.16666666666666666,2015-03-26 13:36:23,True,True
+2015-03-26T21:04:30,"Oh, so Trascendence / the end of Chappie made it to it's own movie. Good. Originality first, way to go Hollywood. Btw, *spoiler*",0,0,Subscribe to this channel for literally no reason,3agaVwt0tb8,0.5166666666666666,2015-03-26 21:04:30,True,True
+2015-03-27T12:27:09,Can't we just make a petition to stop ryan Reynolds from being in movies? He's shit ,1,0,Taylor G,3agaVwt0tb8,-0.2,2015-03-27 12:27:09,True,True
+2015-03-28T02:27:23,"this looks like a really badass, adult version of the movie 17 Again lol, still gonna see it though",0,0,Sapphire Sky824,3agaVwt0tb8,0.3666666666666667,2015-03-28 02:27:23,True,True
+2015-03-28T07:58:15,this looks epic! ,0,0,James Patrick - Artist,3agaVwt0tb8,0.125,2015-03-28 07:58:15,True,True
+2015-03-28T08:28:47,"Supreme leader, this movie looks aladeen!",0,0,NouveauPoor,3agaVwt0tb8,0.0,2015-03-28 08:28:47,True,True
+2015-03-28T13:40:43,Loosely based on the novel 'Airhead' by Meg Cabot....,0,0,HushIAmTalking,3agaVwt0tb8,-0.07692307692307693,2015-03-28 13:40:43,True,True
+2015-03-28T14:26:39,"It's like someone watched Seconds (1966), and decided to add more action.",1,0,bas b.rush,3agaVwt0tb8,0.3,2015-03-28 14:26:39,True,True
+2015-03-29T21:17:25,Yet another trailer that outlines the entire plot of the movie...,2,0,TakeThisification,3agaVwt0tb8,0.0,2015-03-29 21:17:25,True,True
+2015-03-30T01:00:33,face off re-boot.,0,0,Antonio Perez,3agaVwt0tb8,0.0,2015-03-30 01:00:33,True,True
+2015-03-30T02:00:50,Oh hey! this is just like transfer!,0,0,Sarah Lewiski,3agaVwt0tb8,0.0,2015-03-30 02:00:50,True,True
+2015-03-30T04:06:48,Finally! A film I can watch through with Ryan Reynolds. I never quite forgave him after The Green Lantern lol,0,0,L G,3agaVwt0tb8,0.20000000000000004,2015-03-30 04:06:48,True,True
+2015-03-30T08:07:01,"Ozymandias, The Mandarin and Deadpool in the same movie",2,0,Official Filmilen,3agaVwt0tb8,0.0,2015-03-30 08:07:01,True,True
+2015-03-30T22:31:32,Awesome movie!!! Can't wait to watch thissss!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0,0,Gabrielle Au,3agaVwt0tb8,1.0,2015-03-30 22:31:32,True,True
+2015-03-31T15:20:38,what is the song??,0,1,jayash kakria,3agaVwt0tb8,0.0,2015-03-31 15:20:38,True,True
+2015-03-31T16:59:05,"I love Ryan Reynolds movies, he just brings such a twist. Can be funny, serious, violent, scary, etc...I gotta see this and Deadpool",2,0,The Payne Legacy,3agaVwt0tb8,-0.14722222222222223,2015-03-31 16:59:05,True,True
+2015-04-01T07:02:34,"Man, I loved Ryan Reynolds ever since I saw him in Blade. Glad to seem him appear in such a cool movie.",0,0,Sword Spirit Hollow Soul Reaper Tensa Zangetsu Who Uses Computers,3agaVwt0tb8,0.38749999999999996,2015-04-01 07:02:34,True,True
+2015-04-01T08:11:18,Who the hell would want their new body to be ryan reynolds,0,0,Bronson Castro,3agaVwt0tb8,0.13636363636363635,2015-04-01 08:11:18,True,True
+2015-04-01T16:16:08,"...watch trailer, and now I've seen the film.",0,0,Terry Harrison,3agaVwt0tb8,0.0,2015-04-01 16:16:08,True,True
+2015-04-01T16:20:37,"Wait, just caught the end tag line... 'God created man. Man created immortality' Shit, is this some Christian morals bullshit film? That's it, I'm out.",0,0,Terry Harrison,3agaVwt0tb8,-0.1,2015-04-01 16:20:37,True,True
+2015-04-01T18:22:07,"Demonic Luciferian Body Soul Swapping has some side effects, looking way forward to Olivia wilde's black goo eye event horizon movie than this",0,0,Baphomet,3agaVwt0tb8,-0.16666666666666666,2015-04-01 18:22:07,True,True
+2015-04-02T07:32:28,"Ryan Reynolds, huh?  May as well chalk this up as a colossal bust.  ",0,0,RedDuppers,3agaVwt0tb8,0.3,2015-04-02 07:32:28,True,True
+2015-04-02T16:16:32,thank you for showing the whole god dam movie.... creativety,0,0,baltusd,3agaVwt0tb8,0.2,2015-04-02 16:16:32,True,True
+2015-04-02T17:06:43,ciekawe jak nasi mistrzowie przetłumaczą tytuł....,0,0,Raczyna,3agaVwt0tb8,0.0,2015-04-02 17:06:43,True,True
+2015-04-02T17:42:16,vanilla sky,0,0,G A,3agaVwt0tb8,0.0,2015-04-02 17:42:16,True,True
+2015-04-02T18:56:47,Original movie is called TRANSFER but this looks good too..,0,1,Kayhla J.,3agaVwt0tb8,0.5375,2015-04-02 18:56:47,True,True
+2015-04-02T19:09:56,This kind of movies are burning your brain people open your eyes.,0,0,Juan Gallegos,3agaVwt0tb8,0.3,2015-04-02 19:09:56,True,True
+2015-04-02T23:52:54,"side effects may cause fever,cough,heart failure and or brain failure. Other side effects may cause the loss of your actual soul,replaced by the lingering soul of the body in which you occupy that may turn you into a homicidal killer/rapist or worse. it is advised you do not act on the memories of the captive soul as you may run across family members of that ex-person and then they might try to kill you as well. Remember, here at self/less we care about you,the customer and you should care about us too.. since you are destined to go fucknut crazy without our help.",2,0,kordulus,3agaVwt0tb8,-0.22261904761904766,2015-04-02 23:52:54,True,True
+2015-04-03T16:11:41,"Damn you, Ozymandias... always playing god with people...",6,0,Litigation Man,3agaVwt0tb8,0.0,2015-04-03 16:11:41,True,True
+2015-04-03T17:45:21,this movie sucks this movie sucks this movie sucks. There now that that's outta we are free leave objective comments. ,0,0,BLACKA BLACKA,3agaVwt0tb8,-0.09999999999999998,2015-04-03 17:45:21,True,True
+2015-04-03T18:13:39,going straight  to my blue-ray collection a,0,0,TobiDeLafayette,3agaVwt0tb8,0.2,2015-04-03 18:13:39,True,True
+2015-04-04T06:38:12,"Wow this looks incredible, but true they game way to much away....like where can they go aside from Bens character accepting death and letting Ryan get his life back after saving his family",0,0,ShareALaugh,3agaVwt0tb8,0.19166666666666668,2015-04-04 06:38:12,True,True
+2015-04-04T10:31:18,what the name of the track in 1.14,1,0,ibrahim mahdy,3agaVwt0tb8,0.0,2015-04-04 10:31:18,True,True
+2015-04-04T18:56:17,...NOT DEADPOOL...,0,0,CINGA NYANGINTSIMBI,3agaVwt0tb8,0.0,2015-04-04 18:56:17,True,True
+2015-04-04T21:21:58,Ryan Renalds aka the killer of films ,0,0,PeppermintThinker,3agaVwt0tb8,0.0,2015-04-04 21:21:58,True,True
+2015-04-04T22:38:42,this is a very scary but awesome concept. scary in the scense of how real it can potentially get in the future..,12,0,LE0NSKA,3agaVwt0tb8,0.008333333333333331,2015-04-04 22:38:42,True,True
+2015-04-06T05:03:34,LOVE IT,0,0,princbul,3agaVwt0tb8,0.5,2015-04-06 05:03:34,True,True
+2015-04-07T15:19:16,Doctor Who without a TARDIS. ,0,0,hohenheim1,3agaVwt0tb8,0.0,2015-04-07 15:19:16,True,True
+2015-04-07T15:32:30,O.o. Looks cool!,0,0,Nick Andreas,3agaVwt0tb8,0.4375,2015-04-07 15:32:30,True,True
+2015-04-07T17:30:31,"Inception meets Limitless, which adopts Faceoff, and asks to run for Premonition......like........I can't....ehhhh",1,0,MuddaGoose,3agaVwt0tb8,0.0,2015-04-07 17:30:31,True,True
+2015-04-07T19:04:09,Awesome !,0,0,The One And Only,3agaVwt0tb8,1.0,2015-04-07 19:04:09,True,True
+2015-04-08T02:00:44,At least the trailer dident reveal EVERYTHING...,50,0,angela k,3agaVwt0tb8,-0.3,2015-04-08 02:00:44,True,True
+2015-04-08T07:01:44,well that was a good movie,0,0,Talisac80,3agaVwt0tb8,0.7,2015-04-08 07:01:44,True,True
+2015-04-09T16:23:50,Whoa what a cool concept for a movie!,3,0,Alex Pisano,3agaVwt0tb8,0.4375,2015-04-09 16:23:50,True,True
+2015-04-09T18:40:07,Mathew Goode as a handsome geeky villain.... who am I rooting for again??,11,0,Kayla,3agaVwt0tb8,0.5,2015-04-09 18:40:07,True,True
+2015-04-09T18:47:41,Nice,0,0,Soul Machines,3agaVwt0tb8,0.6,2015-04-09 18:47:41,True,True
+2015-04-10T03:20:10,interesting plot. i will watch this fuckface,0,0,Acidic Milan,3agaVwt0tb8,0.5,2015-04-10 03:20:10,True,True
+2015-04-10T13:01:11,This looks Good.,0,0,BrandonHeat92,3agaVwt0tb8,0.7,2015-04-10 13:01:11,True,True
+2015-04-10T22:14:04,"Wow, that actually looks good!",0,0,ayngemac,3agaVwt0tb8,0.325,2015-04-10 22:14:04,True,True
+2015-04-11T13:41:23,"I feel they should have put Ian Mckellen as the older gentleman or someone in that aspect instead of ben kingsley, His bad acting as manderin in ironman still lingerers in my mind. I'll probably just wait till it hits netflix.",0,0,chris chulo,3agaVwt0tb8,-0.17777777777777773,2015-04-11 13:41:23,True,True
+2015-04-11T22:34:22,"Hebrews 9:27 ""And as it is appointed unto men once to die, but after this the judgment:""",5,0,No Hope In The Pope,3agaVwt0tb8,0.0,2015-04-11 22:34:22,True,True
+2015-04-12T12:51:30,"Well that was a good movie. Thanks for wrapping the hole thing up for me in 2 mins 30 seconds, movie trailer gods.",0,0,Henry M,3agaVwt0tb8,0.44999999999999996,2015-04-12 12:51:30,True,True
+2015-04-12T14:49:20,"Ryan Reynolds is such a underrated actor! He has been playing in so many bad movies like Green Lantern, but he can definitly pull off some great performances :)",0,0,IDevILordI,3agaVwt0tb8,0.15000000000000002,2015-04-12 14:49:20,True,True
+2015-04-14T18:30:42,Looks like a oscar film for dead pool.,0,0,SuperCrazydada,3agaVwt0tb8,-0.2,2015-04-14 18:30:42,True,True
+2015-04-15T02:46:00,"I feel like they could have made a really cool and intriguing trailer, but I kind of feel like ive just seen half the film.  The idea seems like a new take on a story already done but I really like the 3 main actors so jot this down on the watchlist",0,0,RyanGiggsOBE,3agaVwt0tb8,0.1788510101010101,2015-04-15 02:46:00,True,True
+2015-04-15T03:41:01,"They really couldn't take an unmarried, childless man's body instead?",0,0,Rakhil T.,3agaVwt0tb8,0.2,2015-04-15 03:41:01,True,True
+2015-04-15T18:49:17,"Reminds me strongly of -- and I would recommend viewing of -- the excellent 2010 German scifi film ""Transfer"" (in that one, there was an aging COUPLE who took over young bodies, and as the story proceeded the young person's memories started surfacing etc...)",0,0,simonjeste,3agaVwt0tb8,0.3266666666666667,2015-04-15 18:49:17,True,True
+2015-04-15T22:32:16,All u need to watch is from 0:00 to 1:00 Anything further just reveals the whole movie  Like if i saved you from spoilers Like if u didn't see this comment in time and now ur pissed,4,0,VideoFanatic13,3agaVwt0tb8,0.1,2015-04-15 22:32:16,True,True
+2015-04-16T10:30:55,what is the name of the song at 1:15?,0,0,Roxianne Alberto,3agaVwt0tb8,0.0,2015-04-16 10:30:55,True,True
+2015-04-16T21:27:04,this is same shit as the korean movie..  더 게임 ( The Game - 2007 )  ...lol,0,0,manji JOO,3agaVwt0tb8,-0.20000000000000004,2015-04-16 21:27:04,True,True
+2015-04-17T02:06:48,FINALLY SOMETHING NEW!!!!!! But the only thing is that this kinda reminds me of Face/Off,0,0,MetalGamerGuy,3agaVwt0tb8,0.1733953302556818,2015-04-17 02:06:48,True,True
+2015-04-17T03:34:47,"oh good, the trailer included the twist and basically what happens from start to finish",0,0,Hannah Kidd,3agaVwt0tb8,0.7,2015-04-17 03:34:47,True,True
+2015-04-17T05:59:57,Would explain where all the X-Factor winners are.,0,0,Paolo Moss,3agaVwt0tb8,0.0,2015-04-17 05:59:57,True,True
+2015-04-17T10:38:36,did pul y,0,0,Not FBI,3agaVwt0tb8,0.0,2015-04-17 10:38:36,True,True
+2015-04-17T14:28:35,i like it!,0,0,Nebleez,3agaVwt0tb8,0.0,2015-04-17 14:28:35,True,True
+2015-04-17T16:36:11,gggg,0,0,تصميم ويب العراق,3agaVwt0tb8,0.0,2015-04-17 16:36:11,True,True
+2015-04-17T18:42:13,sexy beast,0,0,Kuziai,3agaVwt0tb8,0.5,2015-04-17 18:42:13,True,True
+2015-04-18T01:36:25,@Luis Manuel Then Alvarez ,1,2,Willy Bernardo,3agaVwt0tb8,0.0,2015-04-18 01:36:25,True,True
+2015-04-18T04:43:02,Is this what it feels like to get mind fucked?,0,0,Roger PENS Gray,3agaVwt0tb8,-0.6,2015-04-18 04:43:02,True,True
+2015-04-18T23:37:14,How boring.,0,0,RagHelen,3agaVwt0tb8,-1.0,2015-04-18 23:37:14,True,True
+2015-04-19T02:30:19,This looks really good.  It's about time Reynolds does something serious as opposed to R.I.P.D.,0,0,hobbs1701a,3agaVwt0tb8,0.18333333333333332,2015-04-19 02:30:19,True,True
+2015-04-19T12:59:46,"So Hollywood bit off of Arabic Fiction. The premise of this movie is EXACTLY the same as a novel that came out about two years ago. How do I know this? I used to work in one of the biggest bookstore chains in Cairo, Egypt. Unfortunately, I can't remember the name of the book, but I know for a fact that this is the exact same plot, at least in the beginning with the whole; Aged rich guy who's getting close to deaths door goes to a company that can place his mind in a different body and does so. Why am i even surprised?",0,0,BKNimaruIchi,3agaVwt0tb8,0.025,2015-04-19 12:59:46,True,True
+2015-04-19T13:20:14,Seems interesting..,0,0,St. Andreas,3agaVwt0tb8,0.5,2015-04-19 13:20:14,True,True
+2015-04-19T22:38:13,i wanna see this movie!!! :O Ryan Rainolds<3,0,0,J,3agaVwt0tb8,0.05,2015-04-19 22:38:13,True,True
+2015-04-19T22:49:57,"tell that biatch to kiss the rings, mr mandarin.",0,0,MassDynamic,3agaVwt0tb8,0.0,2015-04-19 22:49:57,True,True
+2015-04-20T04:13:37,"Looks good but as usual, they give everything away in the trailer.",0,0,Jamie1200,3agaVwt0tb8,0.22499999999999998,2015-04-20 04:13:37,True,True
+2015-04-20T06:23:17,"And here we go again, another hymn to death and pain, may they forever gnaw on humanity! Right drones? /giggles  This is great really. I suppose I should be rejoicing. These adorable little propaganda films are going to charm you snakes right into the grave.  Meanwhile, back in reality...  https://en.wikipedia.org/wiki/Strategies_for_Engineered_Negligible_Senescence  Sidenote: I love the literal Horatio Alger work hymn snippet lyric. Though I have a feeling the original was actually singing about the lie of class mobility. At least I hope it was.",0,0,Brandon Sergent,3agaVwt0tb8,0.2006868131868132,2015-04-20 06:23:17,True,True
+2015-04-20T20:15:03,jesus trailers now adays just show to much...,2,0,Chino Vash,3agaVwt0tb8,0.2,2015-04-20 20:15:03,True,True
+2015-04-21T08:30:48,Interesting,0,0,Royal Zeux,3agaVwt0tb8,0.5,2015-04-21 08:30:48,True,True
+2015-04-21T14:41:05,It's total similar/analogous to Limitless. What happened to the imagination?,0,0,Irvin Albert Seitz,3agaVwt0tb8,0.0,2015-04-21 14:41:05,True,True
+2015-04-21T15:48:50,it's like Face/off,0,0,OrbitOnceAround,3agaVwt0tb8,0.0,2015-04-21 15:48:50,True,True
+2015-04-22T05:34:03,Total Relapse!!! LOL,0,0,Jay Dolla,3agaVwt0tb8,0.4,2015-04-22 05:34:03,True,True
+2015-04-22T15:02:38,I wonder if GoogleX is working on something like this; the plot seems very Ray Kurzweil-ish.,0,0,Reaz Mohmed,3agaVwt0tb8,0.2,2015-04-22 15:02:38,True,True
+2015-04-22T20:21:21,Cute vid cheak out mine,0,0,Evie Barton,3agaVwt0tb8,0.5,2015-04-22 20:21:21,True,True
+2015-04-22T22:10:17,"This looks really good,as for the trailer giving away too much,I don't buy it.Plus when I see a film I almost always forget about most of the trailer anyways! I have a feeling Self/less will be as good as Looper.",0,0,PAUL brandel,3agaVwt0tb8,0.5083333333333333,2015-04-22 22:10:17,True,True
+2015-04-22T23:55:04,this is similiar to karl pilkingtons movie idea. he says it in one of the podcasts.,0,0,jake gill,3agaVwt0tb8,0.0,2015-04-22 23:55:04,True,True
+2015-04-23T07:08:57,matthew goode looks so goooooood,1,0,Brianna Kim,3agaVwt0tb8,0.0,2015-04-23 07:08:57,True,True
+2015-04-23T17:07:31,This looks to me like a one-man version of Face/off.,0,0,Blastronaut,3agaVwt0tb8,0.0,2015-04-23 17:07:31,True,True
+2015-04-24T09:39:01,"deadpool what are you doing,this isnt your movie maaaan.....",0,0,Angel Valenzuela,3agaVwt0tb8,0.0,2015-04-24 09:39:01,True,True
+2015-04-24T18:37:10,"Yere, more generic crap. Pass.",0,0,dirkbogarde44,3agaVwt0tb8,-0.10000000000000002,2015-04-24 18:37:10,True,True
+2015-04-25T00:25:33,What's the song playing in the video?,0,0,Lucretia Debrev,3agaVwt0tb8,0.0,2015-04-25 00:25:33,True,True
+2015-04-25T11:38:13,I'm looking forward to watch this movie! Ryan Reynolds and Ben Kingsley (The Elite)!,51,9,Kolbjørn Stjern,3agaVwt0tb8,0.0,2015-04-25 11:38:13,True,True
+2015-04-25T13:10:22,Why buy the cow when you can watch a trailer and get the milk for free...or something like that...,0,0,Rory O'Flaherty,3agaVwt0tb8,-0.13333333333333333,2015-04-25 13:10:22,True,True
+2015-04-25T16:23:10,love it ... seems like a awesome storyline,0,0,PrITH viE,3agaVwt0tb8,0.75,2015-04-25 16:23:10,True,True
+2015-04-25T20:29:32,"NOW THIS LOOKS SERIOUS!!!!!, ALMOST NOT HOLLYWOOD!!!!!!!",0,0,Octavio Andres Tejeiro Carrillo,3agaVwt0tb8,-1.0,2015-04-25 20:29:32,True,True
+2015-04-26T10:26:47,"Let me guess, he kills the bad guy then kills himself out of selflessness.",0,0,Ateka9,3agaVwt0tb8,-0.6999999999999998,2015-04-26 10:26:47,True,True
+2015-04-26T11:47:35,Ben Kingsley has it all!,0,0,Immortal989,3agaVwt0tb8,0.0,2015-04-26 11:47:35,True,True
+2015-04-27T09:48:35,Watching him walk around in his trench coat reminded me of Castiel from Supernatural,0,0,Diane Lee,3agaVwt0tb8,0.16666666666666666,2015-04-27 09:48:35,True,True
+2015-04-28T03:55:17,"2:37   ""GOD CREATED MAN MAN CREATED IMMORTALITY""  why, oh why did i read that as ""man created *immorality*""?",3,2,linux750,3agaVwt0tb8,0.0,2015-04-28 03:55:17,True,True
+2015-04-28T07:21:34,Reminds me of vanilla sky in a way,0,0,mcnallymomina,3agaVwt0tb8,0.0,2015-04-28 07:21:34,True,True
+2015-04-29T06:04:37,this looks dope and created finally something never really touched upon in movies.,0,0,Light Far Away,3agaVwt0tb8,-0.05,2015-04-29 06:04:37,True,True
+2015-04-29T16:10:17,WOAH. im watching this,0,0,Syeda Fathima,3agaVwt0tb8,0.0,2015-04-29 16:10:17,True,True
+2015-04-29T23:58:16,Natalie Martinez from Under the Dome and Mathew Goode from Chasing Liberty will pick up his voice anywhere and well can't forget Ryan Reynolds. What a combination,0,0,Kelly Ramoutar,3agaVwt0tb8,0.0,2015-04-29 23:58:16,True,True
+2015-04-30T01:23:50,"Looks like the next ""Limitless"" for me. Will definitely watch it.",0,0,DerHalbeEuro,3agaVwt0tb8,0.0,2015-04-30 01:23:50,True,True
+2015-04-30T14:58:24,Suffers from the Ryan Reynolds effect...,0,0,Joshua Godfrey,3agaVwt0tb8,-0.6,2015-04-30 14:58:24,True,True
+2015-04-30T21:36:31,Irony is Kingsly never seems to age anyway,0,0,wayne crookes,3agaVwt0tb8,0.0,2015-04-30 21:36:31,True,True
+2015-05-01T02:11:05,"As a neurologist I experience this sort of thing day-in, day-out. This is basically my day, switching patients' minds, mixing things up a little, of course heartlessly keeping crucial information away from patients, because of course as any film would tell you, medicine and science are built on a solid foundation of apathy and emotionless malice...",48,11,Rainy Jane,3agaVwt0tb8,-0.0625,2015-05-01 02:11:05,True,True
+2015-05-01T21:16:45,No comments? How?         First? pls.,0,0,OrangePumasFTW,3agaVwt0tb8,0.25,2015-05-01 21:16:45,True,True
+2015-05-02T01:30:42,There is no science without a side effect!!😄😄😄,0,0,Sharm 101,3agaVwt0tb8,0.0,2015-05-02 01:30:42,True,True
+2015-05-02T03:03:54,A film by Karl Pilkington,0,0,Skew Films,3agaVwt0tb8,0.0,2015-05-02 03:03:54,True,True
+2015-05-02T17:35:52,"Nice, a Scifi morality movie. Unfortunately, in real life, morality rarely exists.",0,0,weareallanimals,3agaVwt0tb8,0.3666666666666667,2015-05-02 17:35:52,True,True
+2015-05-02T20:54:54,This actually looks...pretty good.,0,0,gideongraves231,3agaVwt0tb8,0.35,2015-05-02 20:54:54,True,True
+2015-05-03T05:35:55,Looks crazy cant wait to see it!!,0,0,NeverMe01,3agaVwt0tb8,-0.9375,2015-05-03 05:35:55,True,True
+2015-05-03T11:44:42,"Trailers give away WAY too much, we know how the movie begins, and pretty much how it ends....",0,0,G.ea.M,3agaVwt0tb8,0.21666666666666667,2015-05-03 11:44:42,True,True
+2015-05-03T14:38:39,spoilers man -_-,0,0,Vincent Leyva,3agaVwt0tb8,0.0,2015-05-03 14:38:39,True,True
+2015-05-03T15:13:01,"Hmm, i'm a bit skeptic about this movie. It clearly got a nice context but i'm not really sure about the elaboration.",0,0,Ice Man,3agaVwt0tb8,0.15,2015-05-03 15:13:01,True,True
+2015-05-05T07:43:40,Face-Off starring John Travolta and Nicholas Cage.,0,0,Rodan Danner,3agaVwt0tb8,0.0,2015-05-05 07:43:40,True,True
+2015-05-05T13:33:07,"Ryan being pulling out good stuff recently, good for you Ryan.",0,0,Eoin Coyle,3agaVwt0tb8,0.7,2015-05-05 13:33:07,True,True
+2015-05-06T00:00:37,I'm 25 but I would switch bodies with Ryan Reynolds in a heartbeat.,0,0,Onlyin K,3agaVwt0tb8,0.0,2015-05-06 00:00:37,True,True
+2015-05-06T02:01:36,"Loooooks goooooood, goonaa wattch iiittt!",0,0,FluffVideos,3agaVwt0tb8,0.0,2015-05-06 02:01:36,True,True
+2015-05-06T08:52:10,I'll watch it. for the hot girls.,0,0,Ash A,3agaVwt0tb8,0.25,2015-05-06 08:52:10,True,True
+2015-05-06T23:14:35,Thanks for filling us in. Now we realize why the Elite will pay for immortality and yet  want to kill  all  the rest of us with their sterilization packed vaccines and fluoride and chemical sprays in the clouds filled with Barium  (Bury  em) and aluminum and Lithium. As if they really care about our teeth! LOL,0,0,laserus3333,3agaVwt0tb8,0.41250000000000003,2015-05-06 23:14:35,True,True
+2015-05-06T23:26:01,Mmmmm ryan reynolds and matthew goode ᕦ( ͡° ͜ʖ ͡°)....oh and it looks good,0,0,numbersnletters,3agaVwt0tb8,0.7,2015-05-06 23:26:01,True,True
+2015-05-07T23:32:13,what is the name of the song??,0,0,Alex Miller,3agaVwt0tb8,0.0,2015-05-07 23:32:13,True,True
+2015-05-08T07:16:15,coming this summer dunt dunt dunnnnn Dollhouse the movie,0,0,dan f,3agaVwt0tb8,0.0,2015-05-08 07:16:15,True,True
+2015-05-08T10:38:30,It looks like good movie from Ryan Reynolds. Lord knows he needs a hit.,0,0,David Buswa,3agaVwt0tb8,0.7,2015-05-08 10:38:30,True,True
+2015-05-08T18:10:19,Looks like a good movie. What is worrisome however is the amount of car crashes and race scenes in the trailer. Ho-hum.,0,0,Carlo D'Anna,3agaVwt0tb8,0.7,2015-05-08 18:10:19,True,True
+2015-05-08T18:24:13,Basically a 'Cast-off'' from  Torment.,0,0,John Baum,3agaVwt0tb8,0.0,2015-05-08 18:24:13,True,True
+2015-05-09T06:34:39,the guy with the glasses is ozymandias in watchmen. holy shit!!!,0,0,Ishmum Bashir,3agaVwt0tb8,-0.390625,2015-05-09 06:34:39,True,True
+2015-05-09T20:43:28,Avatar 2,0,0,Jeffrey Batobalani,3agaVwt0tb8,0.0,2015-05-09 20:43:28,True,True
+2015-05-10T03:42:19,"Yep, by now I'm down for just about anything with Ryan Reynolds..",2,0,RealCoolGuy,3agaVwt0tb8,-0.15555555555555559,2015-05-10 03:42:19,True,True
+2015-05-11T00:29:29,intense.,0,0,Georgie,3agaVwt0tb8,0.2,2015-05-11 00:29:29,True,True
+2015-05-11T04:36:05,Why don't they just use a body of some young guy that just died? They have all this money and technology and they can't just do a couple organ swaparoos (Like if the guy died from liver failure or something)?,0,0,0x2404,3agaVwt0tb8,-0.10833333333333335,2015-05-11 04:36:05,True,True
+2015-05-11T22:52:55,"Another instant classic for rire, another major step down for what was once a respectable and extremely talented actor like Bingsley. Can someone please give rire a tv show or something so he can quit polluting movies? Just another hackneyed jaunt down the corridor labeled cloning and consciousness transferability and of course no one actually spells out the process and the poor downtrodden genre of scifi takes another huge hit. Wow, I just had a flashback to the fonz doing pinky tuscadero in the happy days malt shop. And here we thought 70s television never made any sense. Oh ye of little faith. Hey, remember when Bingsley was an actor before he started shitting on cars in the middle of the night? Ah, those were the days. Shame on you, Ben. RiRe has never known any better so his ignorance is more excusable, being a permanent bottom to scarjo's top down rubber fetish. And he never even bought any Goodyear stock. Here's lookin at you, charlie brown. May you one day kick that football but I doubt it.",0,0,bullwinkle moose,3agaVwt0tb8,0.1763888888888889,2015-05-11 22:52:55,True,True
+2015-05-12T00:48:38,is starters!!!,0,0,Rodrigo Acosta,3agaVwt0tb8,0.0,2015-05-12 00:48:38,True,True
+2015-05-12T01:31:33,Hello as you wanted to comment that I'm putting together a Twitter for my idol Ryan Reynolds is that there is lot and officers but not eh seen Argentine if there are thousand apologies I would like me to follow if they can @iloveyouryanre1 from already thank you hope you can help me,0,0,Martin Peluffo,3agaVwt0tb8,0.0,2015-05-12 01:31:33,True,True
+2015-05-12T14:21:51,ffs when will i learn.... never watch the full trailer.... now i dont need to see the movie ffs,0,0,gamerupuass,3agaVwt0tb8,0.35,2015-05-12 14:21:51,True,True
+2015-05-14T06:41:21,sooo similar to 'The Island' but with changes.. hmmm,0,0,ejyption,3agaVwt0tb8,0.0,2015-05-14 06:41:21,True,True
+2015-05-14T06:49:22,"Studio Exec: ""...but Ryan Reynolds is a horribly shitty actor!"" Mitch the Intern: ""Sir, there's something you had better read...""",0,0,MisterPlatitude,3agaVwt0tb8,-0.25,2015-05-14 06:49:22,True,True
+2015-05-14T14:26:22,finally a movie i want to see that is not based on a superhero.,0,0,maskedathiest,3agaVwt0tb8,0.0,2015-05-14 14:26:22,True,True
+2015-05-15T05:36:18,"Oh, now I understand what the movie is about. For some weird reason my hometown theatre decided to throw this trailer at us in French before Ex_Machina. Without understanding the dialogue I thought Ben Kingsley was sent into his younger body or something, I don't know. This was much better.",0,0,BKAllmighty,3agaVwt0tb8,0.0,2015-05-15 05:36:18,True,True
+2015-05-15T17:10:38,So they couldn't find someone who a) didn't have a wife and kid b) wasn't pushing 40 himself?,0,0,turdrhinofiend,3agaVwt0tb8,0.0,2015-05-15 17:10:38,True,True
+2015-05-16T11:14:44,Reminds me of Avatar...,0,0,Carissa Tan,3agaVwt0tb8,0.0,2015-05-16 11:14:44,True,True
+2015-05-17T02:43:44,I expect more from Tarsem. Far too tame. ,0,0,Michael Haas,3agaVwt0tb8,0.12777777777777777,2015-05-17 02:43:44,True,True
+2015-05-17T07:28:12,Remember the days when Movie trailers didnt give away 2 thirds of a movie ? I miss those days.,1144,31,Sjrick,3agaVwt0tb8,0.0,2015-05-17 07:28:12,True,True
+2015-05-19T15:05:37,"Ben Kingley extraordinary actor but then I see Ryan Reynolds and I know this movie is crap. Beautiful, sexy guy but he's a bad actor. Case and point, Ashton Kutcher, Freddie Prince Jr. I could go on but I place him in thier category. Cash in while you still have your looks because we will never forget the green lantern. ",0,0,blaizebleu4u,3agaVwt0tb8,-0.002777777777777759,2015-05-19 15:05:37,True,True
+2015-05-23T13:28:41,Terrible trailer. Very irritating going to black all the time and the overuse of dark-tone dropping in the sound.. Despite the bad trailer I will go see this film due to the actors Ben Kingsley and Ryan Reynolds,0,0,computerjantje,3agaVwt0tb8,-0.3519444444444444,2015-05-23 13:28:41,True,True
+2015-05-24T21:01:43,Whoa! This looks awesome! And you know it will be because Ryan Reynolds is in it,0,0,Taylor Reese,3agaVwt0tb8,1.0,2015-05-24 21:01:43,True,True
+2015-05-25T09:46:24,this is quite like minority report meets the host,0,0,hazyangel,3agaVwt0tb8,0.0,2015-05-25 09:46:24,True,True
+2015-05-26T02:45:23,Looks like a modern day Face Off.,0,0,Blaze Ho'omakoa,3agaVwt0tb8,0.2,2015-05-26 02:45:23,True,True
+2015-05-26T06:00:58,Looks like it might be better written than most in the genre.,0,0,satexguy1,3agaVwt0tb8,0.5,2015-05-26 06:00:58,True,True
+2015-05-26T12:17:09,"The segment from 1:13 till he starts having vivid ""hallucinations"" was done superbly, movie looks real good",0,0,Slick Miracle,3agaVwt0tb8,0.7083333333333334,2015-05-26 12:17:09,True,True
+2015-05-27T04:14:01,now that is what i call a movie,0,0,Easton West,3agaVwt0tb8,0.0,2015-05-27 04:14:01,True,True
+2015-05-28T18:32:54,That looks amazing! Looking forward to it.,0,0,Jean-Francois Joanisse,3agaVwt0tb8,0.7500000000000001,2015-05-28 18:32:54,True,True
+2015-05-28T21:04:19,Kind of reminds me of 'Vanilla Sky'.,0,0,Garrett Johnson,3agaVwt0tb8,0.6,2015-05-28 21:04:19,True,True
+2015-05-29T20:13:50,I didn't even watch the trailer coz short attention span and it still looked good. Can't wait.,0,0,8BallEyes,3agaVwt0tb8,0.35,2015-05-29 20:13:50,True,True
+2015-05-29T21:30:55,"Well, that was a fun movie",0,0,Arran Thomas,3agaVwt0tb8,0.3,2015-05-29 21:30:55,True,True
+2015-05-30T07:56:57,Love Ryan Reynolds!!!,0,0,Paul Herbst,3agaVwt0tb8,0.9765625,2015-05-30 07:56:57,True,True
+2015-05-30T21:19:34,"Tarsem Singh, le réalisateur de ""The Cell"" et ""The Fall"" : Good Feeling !",1,0,Plaza De lavega,3agaVwt0tb8,0.875,2015-05-30 21:19:34,True,True
+2015-06-01T03:12:42,thats a powerful concept,0,0,Anne Reed,3agaVwt0tb8,0.3,2015-06-01 03:12:42,True,True
+2015-06-02T13:35:23,I will watch this movie solely for Matthew Goode!,0,0,Sameera Amra,3agaVwt0tb8,0.0,2015-06-02 13:35:23,True,True
+2015-06-03T09:30:25,"Looks like Seconds without the cool cinematography... or Rock Hudson. In other words, no reason to see this.",0,0,xSanSanfanx,3agaVwt0tb8,0.11249999999999999,2015-06-03 09:30:25,True,True
+2015-06-05T15:00:21,"Dear Trailers, could you please not give away the plot twist. It makes me not want to see the movie. Sincerely, a movie fan.",1,0,martthesling,3agaVwt0tb8,0.5,2015-06-05 15:00:21,True,True
+2015-06-09T01:36:01,seems boring.,0,0,BattousaiHBr,3agaVwt0tb8,-1.0,2015-06-09 01:36:01,True,True
+2015-06-09T18:00:56,"Girls watch and learn, this is what all men really dream of :-D Money, cars and bitches.",0,0,Dustie,3agaVwt0tb8,0.6,2015-06-09 18:00:56,True,True
+2015-06-11T03:01:10,Come to NETFLIX already!,0,0,Absaar Hussain,3agaVwt0tb8,0.0,2015-06-11 03:01:10,True,True
+2015-06-11T20:13:12,"I wanna watch this movie cause Tarsem Singh directed it, and he's a director of one of the greatest, but most underrated movies - The Fall. Also, it's great to see Matthew Goode and Sam Page in any movie.",0,1,Runawayto Sam'sTown,3agaVwt0tb8,0.7666666666666666,2015-06-11 20:13:12,True,True
+2015-06-11T21:57:57,Another damn trailer that shows you the entire movie .....,0,0,FrozenTub3,3agaVwt0tb8,0.0,2015-06-11 21:57:57,True,True
+2015-06-13T02:22:16,The SELFIE / Horror Film - Group of teens take pictures at a popular party as a strange man is behind the picture in the background *mind = blown*,0,0,Nexash,3agaVwt0tb8,0.04999999999999997,2015-06-13 02:22:16,True,True
+2015-06-13T03:00:43,Thanks for telling me the whole movie plotline so I don't waste the money.,0,0,Snow Anaya,3agaVwt0tb8,0.06666666666666667,2015-06-13 03:00:43,True,True
+2015-06-13T05:56:55,This shit is the same thing as the face/off movie.,0,1,iKentSpell,3agaVwt0tb8,-0.1,2015-06-13 05:56:55,True,True
+2015-06-14T17:29:58,"Ok, so basically the trailer showed me the entire movie. Good job marketing guys..",0,0,bettyfromhell,3agaVwt0tb8,0.39999999999999997,2015-06-14 17:29:58,True,True
+2015-06-14T17:52:48,"giving away the entire plot much?  jeez if they arn't doing that, they are leaking stuff... what sloppiness marketing has become.",1,0,Rick D,3agaVwt0tb8,0.1,2015-06-14 17:52:48,True,True
+2015-06-14T19:12:50,Only came here cause of ASAP Science. This movie looks dumb.,0,0,14lanicup,3agaVwt0tb8,-0.1875,2015-06-14 19:12:50,True,True
+2015-06-14T21:53:52,Reminds me of Orochimaru from Naruto...,0,0,dtlee,3agaVwt0tb8,0.0,2015-06-14 21:53:52,True,True
+2015-06-15T01:35:15,this latest flick has the the stench of a Freejack remake....Ben Kingsley once again you acting in a blighted movie.,0,0,skeaneable,3agaVwt0tb8,0.25,2015-06-15 01:35:15,True,True
+2015-06-15T03:16:10,Song ?,0,0,Noel Gomez,3agaVwt0tb8,0.0,2015-06-15 03:16:10,True,True
+2015-06-15T20:00:07,"Transformers 4 noise, wow I thought they would have been to at least able to make their own inception bass moments.",0,0,► SquidBot™,3agaVwt0tb8,0.15,2015-06-15 20:00:07,True,True
+2015-06-15T21:33:56,1:38 made me cry ,1,0,Mirvana Miljkovic,3agaVwt0tb8,0.0,2015-06-15 21:33:56,True,True
+2015-06-16T02:21:40,What's the song called?,0,0,Cesar Quistian,3agaVwt0tb8,0.0,2015-06-16 02:21:40,True,True
+2015-06-16T02:28:28,"Does anyone else not see the strong connection with the movie ""Mr Nobody""??? the bald guy was in the movie, and the plot line with immortality was the same shit lol",0,0,bicboi46,3agaVwt0tb8,0.2583333333333333,2015-06-16 02:28:28,True,True
+2015-06-16T04:23:30,"Spoilers or the could clone a body, instead of stealing it.",0,0,Roger Adams,3agaVwt0tb8,0.0,2015-06-16 04:23:30,True,True
+2015-06-17T00:20:43,Reminds me of that one tales from the crypt episode,0,0,Louie Morin,3agaVwt0tb8,0.0,2015-06-17 00:20:43,True,True
+2015-06-17T13:29:29,Who wants to live forever anyways ~,0,0,AndЯew,3agaVwt0tb8,0.16818181818181818,2015-06-17 13:29:29,True,True
+2015-06-17T13:59:26,Essentially the same thing as the German movie Transfer.,0,0,Todd S. Gallows,3agaVwt0tb8,0.0,2015-06-17 13:59:26,True,True
+2015-06-18T03:10:26,Am I the only one reminded of Flowers of Algernon after watching this trailer ?,0,0,Michael Kraus,3agaVwt0tb8,0.0,2015-06-18 03:10:26,True,True
+2015-06-19T05:16:54,wheres john travolta,0,0,tablelampdoor,3agaVwt0tb8,0.0,2015-06-19 05:16:54,True,True
+2015-06-20T04:37:41,What if this movie self/less and voices a preparation for deadpool ,0,0,Grim Reaper,3agaVwt0tb8,0.0,2015-06-20 04:37:41,True,True
+2015-06-21T21:42:07,Loooks amazing,0,0,Job Cruz,3agaVwt0tb8,0.6000000000000001,2015-06-21 21:42:07,True,True
+2015-06-22T02:50:13,love both actors.,1,0,ErosTKB,3agaVwt0tb8,0.5,2015-06-22 02:50:13,True,True
+2015-06-22T20:05:15,Way to go Green Lantern.,0,0,Clarity,3agaVwt0tb8,-0.2,2015-06-22 20:05:15,True,True
+2015-06-24T06:24:31,What's the name of the song that starts at 1:49?,0,0,Benjiman Schmidt,3agaVwt0tb8,0.0,2015-06-24 06:24:31,True,True
+2015-06-24T11:40:49,Trailer gave the whole plot...,0,0,blood hound,3agaVwt0tb8,0.2,2015-06-24 11:40:49,True,True
+2015-06-24T18:10:11,What's the song?,0,2,Km199717,3agaVwt0tb8,0.0,2015-06-24 18:10:11,True,True
+2015-06-25T23:43:45,Tarsem Singh sealed the deal for me to see this movie. ,0,0,Izzy G.,3agaVwt0tb8,0.0,2015-06-25 23:43:45,True,True
+2015-06-26T07:14:33,The trailer should have ended when Ryan Reynolds discovers he has a family...,0,0,Saif Khan Chishty,3agaVwt0tb8,0.0,2015-06-26 07:14:33,True,True
+2015-06-27T04:44:27,What's the song that wiz is singing ,0,2,Reid,3agaVwt0tb8,0.0,2015-06-27 04:44:27,True,True
+2015-06-28T06:50:11,satanic; if people only knew...,17,33,kxmode,3agaVwt0tb8,0.0,2015-06-28 06:50:11,True,True
+2015-06-28T08:33:22,Song when they show the dodge challenger?,0,0,Yungboyuno,3agaVwt0tb8,0.0,2015-06-28 08:33:22,True,True
+2015-06-29T04:15:12,what song is playing,0,0,Ashley Henderson,3agaVwt0tb8,0.0,2015-06-29 04:15:12,True,True
+2015-06-29T04:27:28,God Damnit! They could've just hinted at those memories. Now the fuckin' trailer spoiled 90% of the movie. What fucktards make those things?,0,0,JSmellerM,3agaVwt0tb8,0.0,2015-06-29 04:27:28,True,True
+2015-06-29T06:56:29,All all all you can have all of this all all all you can have all of this all the hard work you've one all all all all money cars clothes all you can have all the women : #WIZ KHALIFA NO LIMIT VEVO#,0,0,Jaime Cortinas,3agaVwt0tb8,-0.2916666666666667,2015-06-29 06:56:29,True,True
+2015-07-01T07:33:32,Does anyone know the name of the song in this trailer? ,0,2,Ellie Wilson,3agaVwt0tb8,0.0,2015-07-01 07:33:32,True,True
+2015-07-01T23:24:54,Was it me or did I hear the transformers age of extinction soundtrack ,0,0,Angel Morales,3agaVwt0tb8,0.0,2015-07-01 23:24:54,True,True
+2015-07-02T20:26:58,"Yaaaaas, yaaaaas. Tarsem! <3",0,0,Emily H.,3agaVwt0tb8,1.0,2015-07-02 20:26:58,True,True
+2015-07-03T03:22:24,Love the song that go with the trailer ,3,0,Sharne Lenise,3agaVwt0tb8,0.5,2015-07-03 03:22:24,False,True
+2015-07-03T19:06:57,Looks interesting.,0,0,Jānis Stiprais,3agaVwt0tb8,0.5,2015-07-03 19:06:57,False,True
+2015-07-05T22:38:55,Couldn't find any good movies to watch for summer. Started watching this preview & was really interested. Finally a good movie worth seeing! Then the actor who was only good in Van Wilder but terrible in everything else showed up. Why? I guess I'll have to find something else to watch.,0,0,Fimontronia,3agaVwt0tb8,0.24642857142857139,2015-07-05 22:38:55,False,True
+2015-07-06T02:29:26,"I cannot wait to SEE THIS,.  Wow.  Immortality.  What Price will We Pay to GET ON BOARD?",0,0,MarvelGirl100,3agaVwt0tb8,0.1,2015-07-06 02:29:26,False,True
+2015-07-06T18:57:12,"Seen this concept before, but I really want to see how the director plays with the formula.  Especially since the concept of the previous owner talking to the new one looks like a fun one.  Last time I saw that was The Host.  It needed to be in a better movie.",0,0,Mitsuki Horenake,3agaVwt0tb8,0.13852813852813853,2015-07-06 18:57:12,False,True
+2015-07-06T21:35:07,"Sooo I don't mean to sound like an idiot, but is there a particular reason the Prometheus donk ping noise is used so noticeably? Is this suppose to tie into Prometheus somehow?? Idk maybe I'm just reading into the donk/ping noise from the Prometheus trailers..... Just seems to me that, if you're going to use such a recognizable sound, there would be an overall point to it.    I need all my nerd friends out there to answer this one! lol",0,0,H.B. Security,3agaVwt0tb8,0.10046296296296296,2015-07-06 21:35:07,False,True
+2015-07-07T19:58:05,Looks really good!,0,0,Isabelle Sch,3agaVwt0tb8,0.875,2015-07-07 19:58:05,False,True
+2015-07-07T22:30:37,"Immortality my ass. Stop deceiving people about immortality. This is one the movies meant to sell us lies and fill our heads sublimely with 'bullshit'. These movies are not fictional as they want us to believe. It's all pre-planned premeditated course of action to achieve a desired goal. Don't just look, open your eyes and look!",0,0,Kwesi Andoh Abban,3agaVwt0tb8,0.03333333333333333,2015-07-07 22:30:37,False,True
+2015-07-08T00:37:54,O.o,0,0,Panda Seungri,3agaVwt0tb8,0.05,2015-07-08 00:37:54,False,True
+2015-07-08T01:10:19,Death Becomes Her and The Island had a baby,0,0,Khes Moon,3agaVwt0tb8,0.0,2015-07-08 01:10:19,False,True
+2015-07-08T01:14:29,"I used to fantasize about going to a ""body shop"" and picking a perfect body piece by piece long before this movie came out so I like the concept of it even though their angle is slightly different. In my fantasy I could only have the ""perfect body"" for 20 years after that I gradually start to look like how I would had I not bought that body.",0,0,Khes Moon,3agaVwt0tb8,0.39,2015-07-08 01:14:29,False,True
+2015-07-08T09:36:35,Kwon Ji Young!,0,0,Neza X,3agaVwt0tb8,0.125,2015-07-08 09:36:35,False,True
+2015-07-08T18:52:32,Brian's Brain!,0,0,Luke Trainor,3agaVwt0tb8,0.0,2015-07-08 18:52:32,False,True
+2015-07-09T01:16:40,"ok, when I clicked on this video, the ad was the trailer for Selfless, how freaky is that.",4,0,Nik Peterson,3agaVwt0tb8,0.5,2015-07-09 01:16:40,False,True
+2015-07-09T01:24:42,Does anyone know that GD is starring in the movie?😍,0,0,Seokjins Hoe,3agaVwt0tb8,0.0,2015-07-09 01:24:42,False,True
+2015-07-10T01:51:26,Song? ,0,0,Jeep Liberty KJ Renagade,3agaVwt0tb8,0.0,2015-07-10 01:51:26,False,True
+2015-07-10T17:02:39,er no,0,0,ppauly,3agaVwt0tb8,0.0,2015-07-10 17:02:39,False,True
+2015-07-11T03:56:57,Surprisingly a really enjoyable movie ,0,0,Sky65z,3agaVwt0tb8,0.5,2015-07-11 03:56:57,False,True
+2015-07-11T05:09:32,GOD CREATED MAN -- LOLOLOL,0,0,Vin Ienco,3agaVwt0tb8,0.0,2015-07-11 05:09:32,False,True
+2015-07-11T07:05:41,"the best movie trailer of all time, ROCKY2",0,0,Angelo berlecio,3agaVwt0tb8,1.0,2015-07-11 07:05:41,False,True
+2015-07-11T13:18:04,it's really the whole movie in this tralier,0,0,Jasmine Tiwana,3agaVwt0tb8,0.2,2015-07-11 13:18:04,False,True
+2015-07-11T16:22:06,Name of the song please m8s,0,0,Robert Novosel,3agaVwt0tb8,0.0,2015-07-11 16:22:06,False,True
+2015-07-11T18:05:52,"that was weird, just clicked on this video and the ad for this video was the same trailer as this",0,0,Jack Gregson,3agaVwt0tb8,-0.25,2015-07-11 18:05:52,False,True
+2015-07-13T05:32:00,Cant they just make a clone instead of killing someone like the Island movie?,0,0,Qwerty Simpson,3agaVwt0tb8,0.0,2015-07-13 05:32:00,False,True
+2015-07-13T21:35:10,Anybody know the Wiz Khalifa song?,0,1,Tyler Shaw,3agaVwt0tb8,0.0,2015-07-13 21:35:10,False,True
+2015-07-14T06:43:03,Goosebumps 😱want to watch this now,0,0,Gipz,3agaVwt0tb8,0.0,2015-07-14 06:43:03,False,True
+2015-07-15T01:05:10,Isn't this the movie Karl Pilkington thought of?,90,9,PaintraSeaPea,3agaVwt0tb8,0.0,2015-07-15 01:05:10,False,True
+2015-07-15T02:14:12,"Ouch, that movie bumped so hard opening week ...",1,0,Gabriel Moors,3agaVwt0tb8,-0.2916666666666667,2015-07-15 02:14:12,False,True
+2015-07-15T06:24:13,"okay , i just got back from the theater,  damned !  this movie is one of the BEST FILM  ive ever seen in years,  deserved an Oscar nomination.  -  unforgetable !   this movie might not have a big promotion but by word of mouth ,  im sure more people will love it .  The story so intense ,  you dont want to miss a scene. great storyline, original concept and great performance by Ryan Reynolds.",0,0,Jacob Thompson,3agaVwt0tb8,0.47045454545454546,2015-07-15 06:24:13,False,True
+2015-07-17T22:46:58,Just watched to movie today.I walked out half way through.Probably the worst movie I have watched in many a year.Becomes very boring after the first few minutes.Waste of money buying a ticket for this heap of cow dung.,1,1,paul nodalo,3agaVwt0tb8,-0.25,2015-07-17 22:46:58,False,True
+2015-07-18T21:55:39,ooh very interesting concept,0,0,Curious Wilf,3agaVwt0tb8,0.65,2015-07-18 21:55:39,False,True
+2015-07-18T23:28:16,Damn ryan reynolds...he's just too damn hot,0,0,Fierrryyy,3agaVwt0tb8,0.25,2015-07-18 23:28:16,False,True
+2015-07-18T23:45:29,This looks good,2,0,tru williams,3agaVwt0tb8,0.7,2015-07-18 23:45:29,False,True
+2015-07-20T17:19:40,"A perfect example of how a trailer can show too much and make you feel like you know the whole movie.  Specially for a movie that looks to have a lot of cool mind-blowing shit, they should have been a lot more vague in spoon feeding what the movie is all about. Imagine how much less enjoyable it would have been if The Matrix trailer had totally answered the question of What Is The Matrix?",0,0,Mark Grandlouis,3agaVwt0tb8,0.20367965367965368,2015-07-20 17:19:40,False,True
+2015-07-21T20:21:12,Yawn...,0,0,fountain water,3agaVwt0tb8,0.0,2015-07-21 20:21:12,False,True
+2015-07-22T00:00:23,I hate science fiction.. but Ryan Reynolds is gonna make me watch my first one.. looks HOT !,1,0,snakeXxbite,3agaVwt0tb8,-0.07916666666666668,2015-07-22 00:00:23,False,True
+2015-07-22T01:28:46,"another "" Butterfly Effects"" movie",0,0,kisuna mayan,3agaVwt0tb8,0.0,2015-07-22 01:28:46,False,True
+2015-07-22T22:42:00,"Just saw the movie, it was good. Hadn't seen the trailer, happy I didn't.",0,0,MsPrettyLate,3agaVwt0tb8,0.75,2015-07-22 22:42:00,False,True
+2015-07-24T04:29:28,another stupid movie,0,0,Richard Cockerill,3agaVwt0tb8,-0.7999999999999999,2015-07-24 04:29:28,False,True
+2015-07-27T01:52:06,"This got remarkably terrible reviews. I don't know what to think, seeing as Tarsem Singh has always been great...",0,0,FailedComedian,3agaVwt0tb8,-0.09999999999999998,2015-07-27 01:52:06,False,True
+2015-07-27T03:09:26,"Ya no necesito verla, el trailer me contó toda la película. Me sacó las ganas",0,0,sebastian kozak,3agaVwt0tb8,0.0,2015-07-27 03:09:26,False,True
+2015-07-27T11:35:49,"Thanks dumbfucks, you spoiled everything with the trailer... Damn they're so stupid",0,0,hatedumb,3agaVwt0tb8,-0.29999999999999993,2015-07-27 11:35:49,False,True
+2015-07-27T20:27:42,1:13 anyone know name of this track?  or this was specially performed for this trailer?,1,0,Andrè Green,3agaVwt0tb8,0.35714285714285715,2015-07-27 20:27:42,False,True
+2015-08-01T00:03:29,"Just remember, life imitates art. The elite already have the technology, and as Bateson said, you need to give the masses an archaic reset so they don't become aware of new technology. I suggest you look up UN Agenda 21 to see how the elite will have us living whilst they roam with life extension technology. Dr. David Suzuki is someone you should also look up regarding the technology... Peace.",4,0,Dan Fernandes,3agaVwt0tb8,0.19318181818181818,2015-08-01 00:03:29,False,True
+2015-08-02T03:43:37,Huge Ryan Reynolds fans!!.  Definitely looking forward to this 😁,3,0,K Breezy,3agaVwt0tb8,0.31250000000000006,2015-08-02 03:43:37,False,True
+2015-08-02T17:56:00,I saw this movie yesterday.  The theatre was empty.  It was just me and friends.  I really enjoyed this motion picture.  The other movies overshadowed this well made movie.,0,0,TheDigitalslayer,3agaVwt0tb8,0.09166666666666667,2015-08-02 17:56:00,False,True
+2015-08-05T22:41:06,This movie reminds of another one... uhm... Freejack or something...,0,0,Hammern28,3agaVwt0tb8,0.0,2015-08-05 22:41:06,False,True
+2015-08-06T19:02:17,Is that the same guy from Imitation Game? professor doctor dude,0,0,sketchwish,3agaVwt0tb8,-0.17777777777777778,2015-08-06 19:02:17,False,True
+2015-08-07T05:18:47,Limitless meets The Time Machine ?,0,0,Y Hideit,3agaVwt0tb8,0.0,2015-08-07 05:18:47,False,True
+2015-08-08T14:23:35,Umbrella Corporation does consciousness transfer too?,0,0,manofsan,3agaVwt0tb8,0.0,2015-08-08 14:23:35,False,True
+2015-08-09T11:28:18,Aventador,0,0,Orcjura,3agaVwt0tb8,0.0,2015-08-09 11:28:18,False,True
+2015-08-09T11:28:31,Lamborghini Aventador,0,0,Orcjura,3agaVwt0tb8,0.0,2015-08-09 11:28:31,False,True
+2015-08-09T11:28:56,Lamborghini,0,0,Orcjura,3agaVwt0tb8,0.0,2015-08-09 11:28:56,False,True
+2015-08-14T04:45:51,Hell. Yes.,0,0,Boadsy,3agaVwt0tb8,0.0,2015-08-14 04:45:51,False,True
+2015-08-15T16:02:37,"When you die, you die. A deep deep sleep till the FINAL day.",0,0,Raza Syed,3agaVwt0tb8,0.0,2015-08-15 16:02:37,False,True
+2015-08-18T22:50:24,share the link where i can watch this movie online thankyou,0,0,Sultanmouzam sultan,3agaVwt0tb8,0.0,2015-08-18 22:50:24,False,True
+2015-08-20T00:00:51,what is the song at 1:12 ?,0,0,Dr3amersSelectik,3agaVwt0tb8,0.0,2015-08-20 00:00:51,False,True
+2015-08-20T00:42:40,Watched this movie tonight and loved it! It's a great one,3,0,Mariana Ribeiro,3agaVwt0tb8,0.8375,2015-08-20 00:42:40,False,True
+2015-08-20T05:55:46,Yes!!!! Matthew Goode! Who in the hell is Ryan Reynolds?!?!,0,2,Jennifer Chambers,3agaVwt0tb8,0.0,2015-08-20 05:55:46,False,True
+2015-08-24T07:33:10,"There was a movie starring Kyle McLachlan called ""Xchange"" that has the same concept of exchanging conscious.",0,0,KanishQ Quotes,3agaVwt0tb8,0.05,2015-08-24 07:33:10,False,True
+2015-08-25T22:46:26,Great movie where a total new concept explored. I saw it today and i recomend it to everyone. Amazing.,1,0,HeavenlyEx,3agaVwt0tb8,0.38409090909090915,2015-08-25 22:46:26,False,True
+2015-08-26T01:09:07,Ted Danson as Bryan as Tom Cruise as Ethan Hunt in Mission Impossible 8,0,0,Jack McDermott,3agaVwt0tb8,-0.6666666666666666,2015-08-26 01:09:07,False,True
+2015-08-28T10:28:10,I already saw this story somewhere...,3,0,Darko Ristanovic,3agaVwt0tb8,0.0,2015-08-28 10:28:10,False,True
+2015-08-29T03:50:35,OH YEAH! Gotta watch my sexy fantasy love Ryan Reynolds.,0,0,PAR PATREQ,3agaVwt0tb8,0.5,2015-08-29 03:50:35,False,True
+2015-08-29T08:03:30,Weird - What the.....? I thought this was shopped around last year and under a different title??,0,0,GoldiRock Records,3agaVwt0tb8,-0.16666666666666666,2015-08-29 08:03:30,False,True
+2015-08-29T09:54:14,This movie is very special.,1,0,Fred & Co,3agaVwt0tb8,0.4642857142857143,2015-08-29 09:54:14,False,True
+2015-08-29T14:14:52,So pretty much the exact concept as The Host,0,0,HeyKirsty,3agaVwt0tb8,0.2333333333333333,2015-08-29 14:14:52,False,True
+2015-08-30T01:06:51,"Very very good movie, I recommend watching it. I am not a movie fanatic because most movies now a days are pretty lame but this one is one of the better ones I have watched in years.",7,0,Chris Zimmerman,3agaVwt0tb8,0.22666666666666666,2015-08-30 01:06:51,False,True
+2015-08-30T03:58:53,this is a pretty good movie.  don't let the low rating fool you.  give it a shot.  i enjoyed watching it,0,0,kafaya77,3agaVwt0tb8,0.3625,2015-08-30 03:58:53,False,True
+2015-08-30T11:29:16,"could someone, ANYONE who saw the movie tell me the one epic song from the fat phased scene where he started to party, run, water sport, party, take medicine, go to club, get women, take madicine, do sports, get medicine, do sports, get women go to clubs, take medicine etc etc and so on.. the scene had an EPIC song and I can't find it!",0,1,TheDiamond123123,3agaVwt0tb8,0.1125,2015-08-30 11:29:16,False,True
+2015-08-30T22:14:09,whats the point of watching this movie now it shows it all here,0,0,BongZilla Cough,3agaVwt0tb8,0.0,2015-08-30 22:14:09,False,True
+2015-08-30T23:26:46,"Just finished watching this one, and I gotta say, I enjoyed this movie very much. But alas, like with almost all trailers these days, they pretty much sum up the whole movie in a couple minute video... I would still recommend that you watch it, though.  Rule *#1* of Hollywood movies:   DON'T   WATCH   THE   FU***NG   TRAILERS!",271,7,ಠ_ృ,3agaVwt0tb8,0.17666666666666667,2015-08-30 23:26:46,False,True
+2015-08-31T01:14:23,"Well least I know it's a shit movie given the trailer has all of the content in it. Easy choice, thanks.",0,0,Fuck Channels,3agaVwt0tb8,0.03333333333333334,2015-08-31 01:14:23,False,True
+2015-08-31T07:43:57,"Seems like story is similar as Arnold's ""THE 6th Day""..!!!",0,0,Jigar Makwana,3agaVwt0tb8,0.0,2015-08-31 07:43:57,False,True
+2015-08-31T20:53:02,the copied avatar in a sense,0,0,Stevie Mullins,3agaVwt0tb8,0.0,2015-08-31 20:53:02,False,True
+2015-08-31T20:53:02,the copied avatar in a sense,0,0,Stevie Mullins,3agaVwt0tb8,0.0,2015-08-31 20:53:02,False,True
+2015-08-31T22:06:28,why do i feel like ive seen the movie... what a comprehensive trailer,0,0,trulifesounds,3agaVwt0tb8,0.0,2015-08-31 22:06:28,False,True
+2015-09-01T06:27:45,ah freaking deadpool,0,0,SpellSinger,3agaVwt0tb8,0.0,2015-09-01 06:27:45,False,True
+2015-09-01T10:32:21,"If you think U.S can collapse China entirely... you got another thing coming... Russia and China hold VASTS amounts of gold, this gold will be used to form the new currency and U.S will be left paying of their debt for 24 generations to come, all that gold the U.S owes to much of the world will not be forgiven either in my opinion... Militaries are only usefull if you can control them... no money= no food= no structure of civilization.   I believe Russia and China will try everything in their power to avoid giving the U.S the war it so despretly needs in order to avoid a economic collapse... nations are already starting to sell out of the U.S dollar and the oil prices have made shale oil industry obsolete.",0,2,SmithsCrhronicles,3agaVwt0tb8,0.07662337662337662,2015-09-01 10:32:21,False,True
+2015-09-01T15:04:54,legal,0,0,Gdo gdo,3agaVwt0tb8,0.2,2015-09-01 15:04:54,False,True
+2015-09-02T14:06:42,SECOND! Wait........ DOH!,0,0,True,3agaVwt0tb8,0.0,2015-09-02 14:06:42,False,True
+2015-09-02T15:37:14,Saw the film and it was actually really good. the trailer does give some away but some of the images are out of order so it doesn't fully tell the story like other trailers. worth a watch.,0,0,Maryama Oyefusi,3agaVwt0tb8,0.2916666666666667,2015-09-02 15:37:14,False,True
+2015-09-02T18:58:05,everybody is coming to this trailer's comment section to comment.... oohhhhh ryan reynolds ohhhhhh *in overly excited girls voice*.... and i'm over here like BEN MOTHERFUCKIN!!! KINGSLEY!!!,0,0,Phil Summers,3agaVwt0tb8,1.0,2015-09-02 18:58:05,False,True
+2015-09-02T22:12:12,"The film is not bad, but too predictable, especially after watching the trailer. Who are interested, the title song, which begins at <a href=""https://youtu.be/3agaVwt0tb8?t=73"">1:13</a> : Wiz Khalifa feat. Sensit Music – No Limit (Sencit Remix)",0,0,Владимир Татаров,3agaVwt0tb8,0.09999999999999998,2015-09-02 22:12:12,False,True
+2015-09-03T20:48:40,"just watched the movie ,it was a great movie.i don't know why it got such a bad rating.",1,0,Pranav Mann,3agaVwt0tb8,0.0333333333333334,2015-09-03 20:48:40,False,True
+2015-09-04T23:09:20,"just watched it,  it was really good!   only watched 38 seconds of the trailer before i decided it was worth watching. Was not disappointed :)",0,0,sarre87,3agaVwt0tb8,0.41,2015-09-04 23:09:20,False,True
+2015-09-06T02:34:34,NIce movie resume....,0,0,FASSLAYER ART,3agaVwt0tb8,0.6,2015-09-06 02:34:34,False,True
+2015-09-06T05:24:49,"the trailer gave away too much, please do not suck!",0,0,Carlo Salvador,3agaVwt0tb8,0.25,2015-09-06 05:24:49,False,True
+2015-09-06T19:06:11,interesant,0,0,PULS ZERO,3agaVwt0tb8,0.0,2015-09-06 19:06:11,False,True
+2015-09-07T12:36:33,"Reminds me of ""Limitless""",0,0,R-Mon Solace,3agaVwt0tb8,0.0,2015-09-07 12:36:33,False,True
+2015-09-07T19:17:54,"Well, I don't need to watch the movie anymore since this trailer pretty much gave it all away.",0,0,britoca,3agaVwt0tb8,0.225,2015-09-07 19:17:54,False,True
+2015-09-09T05:05:00,"This trailer told us everything. Now, Whats the point in watching?",0,0,Ap3x St4rZz,3agaVwt0tb8,0.0,2015-09-09 05:05:00,False,True
+2015-09-10T22:06:50,"Did not injoy the movie 1% Im thinkin about it right now  Not 1 % Its like the green lantern But whats 2 hours in real life (Watching this damn movie) When you can just buy a new body for 250 million.. And try to protect your Ex Body,s Wife o,0  Go ahead Like these videos Let our Kids stay a nother 50 years in these shitty times",0,0,pauly G,3agaVwt0tb8,0.10551948051948051,2015-09-10 22:06:50,False,True
+2015-09-11T22:13:36,This has not been a good year for movies...,0,0,Wenn Ethicus,3agaVwt0tb8,0.7,2015-09-11 22:13:36,False,True
+2015-09-13T04:03:20,it's croaky voice from under the dome,0,0,no name,3agaVwt0tb8,0.0,2015-09-13 04:03:20,False,True
+2015-09-13T16:55:50,I'm watched movie yesterday and i can say the movie is excellent!!! I recommended to watch movie  :),4,0,Don Karlo Čimbur,3agaVwt0tb8,0.75,2015-09-13 16:55:50,False,True
+2015-09-13T19:16:22,I always knew Deadpool was born insane,0,0,Bruce Wayne,3agaVwt0tb8,-1.0,2015-09-13 19:16:22,False,True
+2015-09-14T08:54:11,A perfect piece of art!.. I knew the movie was going to be good but not GREAT!,14,0,andrew richardson,3agaVwt0tb8,0.39999999999999997,2015-09-14 08:54:11,False,True
+2015-09-15T14:22:23,"nice movie,",0,0,Stanlim LHY,3agaVwt0tb8,0.6,2015-09-15 14:22:23,False,True
+2015-09-16T21:24:07,I watched the movie the ending made me cry,9,0,Baran P,3agaVwt0tb8,0.0,2015-09-16 21:24:07,False,True
+2015-09-19T02:59:19,1:46 whos remeber that latino woman wlth pibull song rain over me in 2011,1,0,hefdjwewf,3agaVwt0tb8,0.0,2015-09-19 02:59:19,False,True
+2015-09-19T17:42:01,"From 1:48 onward, each time they show a text, the text appears with the same background sound as it did in the Prometheus trailer...hmmm...",0,0,Ilya Lips,3agaVwt0tb8,0.2,2015-09-19 17:42:01,False,True
+2015-09-22T22:18:58,"wow my name is Mark I almost died from server brain injury and now I am working and helping with my three daughters again  this is a touching and helpful movie, thanks",0,1,Mark Moffatt,3agaVwt0tb8,0.26666666666666666,2015-09-22 22:18:58,False,True
+2015-09-24T22:50:48,and now i dont have to watch the movie because the trailer already gave away everything,4,0,Rampster27,3agaVwt0tb8,0.0,2015-09-24 22:50:48,False,True
+2015-09-26T17:37:42,deadpool!!,0,0,Wan Don,3agaVwt0tb8,0.0,2015-09-26 17:37:42,False,True
+2015-09-28T03:35:04,¿cual es el nombre de esta pelicula? y si esta online tienen link para verla,0,0,John Cruz,3agaVwt0tb8,0.0,2015-09-28 03:35:04,False,True
+2015-09-29T20:53:37,"never thought i'd post one of these comments, but the trailer really spoiled the whole movie",16,1,I'M IN Media!,3agaVwt0tb8,0.2,2015-09-29 20:53:37,False,True
+2015-10-03T03:12:50,really a great movie i love it amazing <3,0,0,sahar tounsi,3agaVwt0tb8,0.7250000000000001,2015-10-03 03:12:50,False,True
+2015-10-04T00:43:58,aren't you supposed to be filming deadpool??!,0,0,Samuel Esan,3agaVwt0tb8,0.0,2015-10-04 00:43:58,False,True
+2015-10-04T03:21:55,No limit by Wiz khalifa,0,0,Andres Romero,3agaVwt0tb8,0.0,2015-10-04 03:21:55,False,True
+2015-10-06T04:38:34,Awful film.,0,0,Cie Tai,3agaVwt0tb8,-1.0,2015-10-06 04:38:34,False,True
+2015-10-12T13:32:27,I can't take a life to be immortal but I can kill mosquitoes they are spreading dengu and shitty other diseases,0,0,Kash Ahuja,3agaVwt0tb8,-0.125,2015-10-12 13:32:27,False,False
+2015-10-29T04:25:49,Watching this I was thinking Ben Kingsley could really pull off playing Freddy Kruger.,0,0,Jason L,3agaVwt0tb8,0.2,2015-10-29 04:25:49,False,False
+2015-10-29T18:54:37,Just finished watching this movie. i recommend this to watch. this is really good movie :),0,0,Lutchmarie Agaser,3agaVwt0tb8,0.6,2015-10-29 18:54:37,False,False
+2015-10-30T01:45:40,"i just watched it , it's one of the best movies !!!!",0,0,Q8 Rising,3agaVwt0tb8,1.0,2015-10-30 01:45:40,False,False
+2015-10-30T22:29:49,If trailers didn't spoil the whole movie plots i'd be so happy,0,0,Dingle Berry,3agaVwt0tb8,0.5,2015-10-30 22:29:49,False,False
+2015-11-06T07:17:19,".. ben kingsley near the large glass window, as if looking for a taxi. funny",0,0,Jun hee Bae,3agaVwt0tb8,0.1880952380952381,2015-11-06 07:17:19,False,False
+2015-11-09T11:24:16,the best!! worth watching :),0,0,Weng Oirebo,3agaVwt0tb8,0.6,2015-11-09 11:24:16,False,False
+2015-11-10T01:43:33,I saw this on a Flintsones episode.,0,0,FSM,3agaVwt0tb8,0.0,2015-11-10 01:43:33,False,False
+2015-11-12T18:13:58,Will there be a sequel to this entire movie I just watched?,2,0,Jadin Andrews,3agaVwt0tb8,0.0,2015-11-12 18:13:58,False,False
+2015-11-15T13:30:41,"No need to watch it ,whole movie in 2 min right here!",127,0,Panohiro,3agaVwt0tb8,0.2785714285714286,2015-11-15 13:30:41,False,False
+2015-11-18T11:29:44,Karl Pilkington..,4,0,Matej K,3agaVwt0tb8,0.0,2015-11-18 11:29:44,False,False
+2015-11-18T19:04:12,just saw it. nice movie. one bit of advice   ----------------->     DONT WATCH THE TRAILER ! :D,0,2,adwnis argyropoulos,3agaVwt0tb8,0.875,2015-11-18 19:04:12,False,False
+2015-11-21T04:27:15,"This movie was good, I had to watch it twice.",0,0,Dana Louise,3agaVwt0tb8,0.7,2015-11-21 04:27:15,False,False
+2015-11-23T21:29:32,"i did not understand the end , how mark get back to the life ?",0,2,Yssra A,3agaVwt0tb8,0.0,2015-11-23 21:29:32,False,False
+2015-11-28T18:30:18,I just finished watching the movie. The trailer says it all lol wtf. Who ever made this trailer is a f idiot.,203,13,Kirsten Hoppins,3agaVwt0tb8,-0.16666666666666666,2015-11-28 18:30:18,False,False
+2015-11-29T06:08:09,"Take action guys: use this link ...before they runs out !! Links Here!! ---  https://www.facebook.com/1096862673657113/photos/a.1096865416990172.1073741828.1096862673657113/1096865370323510/?type=3&pidid=a3ce4fe9-e42a-43b8-bbe5-6c3c3afe6bd4  === !! Guides placed right here commonly working. Just got that 9999999 Credits                                                                Self/less Official Trailer #1 (2015) - Ryan Reynolds, Ben Kingsley Sci-Fi Thriller HD",0,0,Kawsar Kps1,3agaVwt0tb8,0.12239467075892857,2015-11-29 06:08:09,False,False
+2015-12-05T04:19:34,"Free Live Sex Cam Show, Exclusive Unlimited Access:      BABETONIGHT------------------c0m",0,0,Stacy Cohen,3agaVwt0tb8,0.2681818181818182,2015-12-05 04:19:34,False,False
+2015-12-06T19:47:56,que PELICULON esta buenisima muy recomendada,2,0,BerZerqueX,3agaVwt0tb8,0.0,2015-12-06 19:47:56,False,False
+2015-12-15T20:42:10,It was AWESOME!,0,0,Tanner James,3agaVwt0tb8,1.0,2015-12-15 20:42:10,False,False
+2015-12-19T10:57:53,this movie is a masterpiece and no doubt the best movie i´ve seen in a long time!,0,0,Janbanan,3agaVwt0tb8,0.46875,2015-12-19 10:57:53,False,False
+2015-12-22T06:03:19,"The trailer should have stopped at 1:30. It would give the movie perfect set up, but not spoil the twist. Let the audience discover what happens right along with Damian.",2,1,A Rob,3agaVwt0tb8,0.6428571428571428,2015-12-22 06:03:19,False,False
+2015-12-31T19:46:47,The relationships is the love of two brains innit?,0,0,chainsawchav,3agaVwt0tb8,0.5,2015-12-31 19:46:47,False,False
+2016-01-06T08:21:57,SPOILER ALERT !! maybe they should teach this word to movies makers ?!  (O_O)^,0,0,boody,3agaVwt0tb8,0.05,2016-01-06 08:21:57,False,False
+2016-01-07T00:04:23,an unoriginal idea. kinda predictable. And wasn't that great. I give Reynolds props for trying. but I was kinda disappointed,0,0,Donovan Dominguez,3agaVwt0tb8,-0.0875,2016-01-07 00:04:23,False,False
+2016-01-10T08:05:54,move sucks don't watch it. I just watched it on Showbox and I'm very disappointed they have such a good idea for a movie but the whole storyline is what kills it. Hollywood please find some new screenplay writers... or maybe just give me a ring when your looking for an A list movie screenplay. I've never even written one yet but I can promise you this I've seen enough movies to know that everybody is writing the same kinda crappie movies in the same kinda of crappie way... lame so till then Hollywood your fired,0,0,no reason for reason,3agaVwt0tb8,-0.07386363636363638,2016-01-10 08:05:54,False,False
+2016-01-12T22:25:13,"i don't really believe all this cloning stuff, but things make sense B.O.B brought me here",6,0,ninefive,3agaVwt0tb8,0.2,2016-01-12 22:25:13,False,False
+2016-01-13T18:04:42,"This is a great movie, the trailer actually didn't give the whole movie away like I thought it would.",0,0,Weabe,3agaVwt0tb8,0.3333333333333333,2016-01-13 18:04:42,False,False
+2016-01-25T14:19:14,"I wouldn't give 3 shits. And neither would you, so this film's whole premise is bogus.",0,0,Robert Clary,3agaVwt0tb8,0.2,2016-01-25 14:19:14,False,False
+2016-01-30T00:15:38,"This movie started out as a movie and 30 minutes in, turned into a TV show. Predictable, storyline turned stupid mid way through. Ryan can't act like anyone but himself in every movie",0,0,Mr Gordy,3agaVwt0tb8,-0.3333333333333333,2016-01-30 00:15:38,False,False
+2016-01-30T03:19:52,I was about to watch this movie but I think I just saw the whole movie in a couple of minutes.,0,0,MrDemon3434,3agaVwt0tb8,0.2,2016-01-30 03:19:52,False,False
+2016-01-31T01:37:56,how could Damian get away with the trial of his brain replacement  for the second time? how can he live without those pills after he got rid of the bad guy ?,0,1,knight in shinging armor,3agaVwt0tb8,-0.18787878787878784,2016-01-31 01:37:56,False,False
+2016-02-12T21:43:52,what's the song? thanks,0,1,David Zhuang,3agaVwt0tb8,0.2,2016-02-12 21:43:52,False,False
+2016-02-14T18:00:32,So a remake of Face/Off then?,0,0,The Hive,3agaVwt0tb8,0.0,2016-02-14 18:00:32,False,False
+2016-02-17T11:10:52,if he could spent 250mil for a new body why not throw in another 100mil for the new him ?,0,0,wutdafuk Gingerb,3agaVwt0tb8,0.057575757575757565,2016-02-17 11:10:52,False,False
+2016-02-18T04:43:22,Is this Ryan Reynolds audition tape to Deadpool?,0,0,iJamie8467x,3agaVwt0tb8,0.0,2016-02-18 04:43:22,False,False
+2016-02-24T02:10:39,Ozymandias is being a global control freak again. What a bastard.,1,1,benjovi55,3agaVwt0tb8,0.0,2016-02-24 02:10:39,False,False
+2016-03-03T15:43:00,I'm in love with this movie ❤️❤️❤️,8,0,lindzy fernandez,3agaVwt0tb8,0.5,2016-03-03 15:43:00,False,False
+2016-03-10T23:02:43,this reminds me of Whedon's Dollhouse bec of the concept of transferring/uploading personalities in a body,0,0,Judy Plants,3agaVwt0tb8,0.0,2016-03-10 23:02:43,False,False
+2016-03-12T07:50:26,in before deadpool,0,0,MaD vlaD,3agaVwt0tb8,0.0,2016-03-12 07:50:26,False,False
+2016-03-15T17:39:22,"deadpool , is that you ???w",0,0,antonio da hora,3agaVwt0tb8,0.0,2016-03-15 17:39:22,False,False
+2016-03-27T23:03:23,"change up,self less,and criminal wtf hes doing the same movies",52,4,Irvin Parrado,3agaVwt0tb8,-0.3,2016-03-27 23:03:23,False,False
+2016-03-30T17:52:30,The Mandarin and Deadpool in a movie together,0,0,The Flamebolt,3agaVwt0tb8,0.0,2016-03-30 17:52:30,False,False
+2016-04-02T11:44:56,what the music name?,0,0,Tamás Simon,3agaVwt0tb8,0.0,2016-04-02 11:44:56,False,False
+2016-04-03T15:00:32,"; This was the worst remake of the 1966 motion-picture titled 'Seconds', although it could have been improved with editing an hour from it. It was difficult to believe that Tarsem Singh got lost circling/chasing-his-tail in the same no-talent cul-de-sac as M. Night Shyamalan.",0,0,Valkyrie Ziege,3agaVwt0tb8,-0.5,2016-04-03 15:00:32,False,False
+2016-04-04T19:24:13,am I the only one who stop half way the trailer so I don't spoil for myself? I do it in every trailer I think I might like.,1,2,Rome_05,3agaVwt0tb8,-0.08333333333333333,2016-04-04 19:24:13,False,False
+2016-04-05T09:43:05,now this is the part that ryan becomes a experemental simulations on other movie damn!,0,0,Gaspy The Dog,3agaVwt0tb8,-0.15625,2016-04-05 09:43:05,False,False
+2016-04-11T17:08:06,This is a great flick if you don't watch the trailer first. I feel sorry for people who watched this complete spoiler of a trailer first.,10,0,mrbrainchild76,3agaVwt0tb8,0.18,2016-04-11 17:08:06,False,False
+2016-04-15T22:26:10,I just watched this movie i got to say he's Good,0,0,Relief Yoga,3agaVwt0tb8,0.7,2016-04-15 22:26:10,False,False
+2016-04-20T13:23:35,trailer nowadays FULL OF SPOILERS!!!!,22,0,Guibelson,3agaVwt0tb8,0.8544921875,2016-04-20 13:23:35,False,False
+2016-04-22T09:20:58,This is a fantastic movie!!,5,0,Robert Schlie,3agaVwt0tb8,0.625,2016-04-22 09:20:58,False,False
+2016-04-22T13:29:26,no spoilers at all Kappa,0,0,MegaRoFLL,3agaVwt0tb8,0.0,2016-04-22 13:29:26,False,False
+2016-04-25T12:42:45,Your whole life is Olga!,0,0,István Kundi,3agaVwt0tb8,0.25,2016-04-25 12:42:45,False,False
+2016-04-28T13:25:32,Does anybody know the song name used in this video? Its awesome.,0,1,help me,3agaVwt0tb8,1.0,2016-04-28 13:25:32,False,False
+2016-05-01T00:26:33,the mandarin meets deadpool,11,0,charles pool,3agaVwt0tb8,0.0,2016-05-01 00:26:33,False,False
+2016-05-01T17:21:53,Vanilla sky rip off,0,1,Karla brown,3agaVwt0tb8,0.0,2016-05-01 17:21:53,False,False
+2016-05-05T20:59:46,Wiz Khalifa - No Limit (ONIFC album) if you're wondering:),0,0,starpxwer,3agaVwt0tb8,0.5,2016-05-05 20:59:46,False,False
+2016-05-10T20:07:14,trevor slatery became deadpool,0,0,Daniel Tentori,3agaVwt0tb8,0.0,2016-05-10 20:07:14,False,False
+2016-05-12T21:35:04,"LOL why would he not see any young woman like that in 52 years? He is a rich guy, you can buy woman if you have a lot of money. They love money so much that you would end up with young woman chasing you. Like the owner of Playboy :-)",0,0,4TheRecord,3agaVwt0tb8,0.3678571428571428,2016-05-12 21:35:04,False,False
+2016-05-14T04:49:16,CANNOT WAIT TO SEE THIS MOVIE!! SOUNDS VERY UNIQUE AND LOOKS AWESOME!!,0,0,PHINEX XXX,3agaVwt0tb8,0.74375,2016-05-14 04:49:16,False,False
+2016-05-29T23:47:57,"not all presented in two minutes, People who say that are idiots, movie is Excellent",0,0,zorankolica,3agaVwt0tb8,0.09999999999999998,2016-05-29 23:47:57,False,False
+2016-06-02T12:02:09,Ryan Reynolds looks like Ryan Reynolds from Deadpool,2,1,loser,3agaVwt0tb8,0.0,2016-06-02 12:02:09,False,False
+2016-06-03T23:03:26,I should have watched the trailer. The whole movie was far too predictable and a waste of time.,0,0,Dream Warrior,3agaVwt0tb8,-0.024999999999999994,2016-06-03 23:03:26,False,False
+2016-06-04T05:47:26,This is magic disguised as science.,1,0,hlawulekani mangwani,3agaVwt0tb8,0.5,2016-06-04 05:47:26,False,False
+2016-06-04T08:33:39,Dude it's deadpool again! I mean it happens here too,1,0,spn peekaboo,3agaVwt0tb8,-0.3125,2016-06-04 08:33:39,False,False
+2016-06-09T23:54:26,deadpool,17,0,Meshack Kekana,3agaVwt0tb8,0.0,2016-06-09 23:54:26,False,False
+2016-06-19T15:47:45,Just finished watching this 10 minutes ago. DAMN THIS IS GOOD! I love the scenes but sadly the ending made this movie put to an end for possible sequel. =(,6,1,shindayuki,3agaVwt0tb8,0.025,2016-06-19 15:47:45,False,False
+2016-06-30T19:05:05,"If you love Source Code or Limitless, you will love this movie",0,0,Pak Tempe,3agaVwt0tb8,0.5,2016-06-30 19:05:05,False,False
+2016-07-01T01:20:39,"I know it's just a sci-fi movie and I did enjoy it, but since the movie kind of just skipped over the technology in just how they do it, I'll have to debunk the simple procedure and say ""IMO"" (not really debunking) but if we were so advanced in neurology and the thought of a brain transplant, scientist would be in for a bitter sweet shock. The memories of that person might survive but their soul or consciousness would not follow. The brain is just another organ that the body needs.",0,0,thetexanfan,3agaVwt0tb8,0.2214285714285714,2016-07-01 01:20:39,False,False
+2016-07-06T08:13:40,How to watch a whole movie in 2 minutes,386,3,BSPancake,3agaVwt0tb8,0.2,2016-07-06 08:13:40,False,False
+2016-07-07T02:55:35,Deadpool reborn!!!,0,0,Grace P,3agaVwt0tb8,0.0,2016-07-07 02:55:35,False,False
+2016-07-07T11:52:50,Is that GEN. ADMIRAL. ALADEEN's Colonel.? haha,0,1,Jay,3agaVwt0tb8,0.2,2016-07-07 11:52:50,False,False
+2016-07-11T18:47:21,Awesome Movie.. Ryan Reynolds is so damn hot!!,18,2,winteriscoming,3agaVwt0tb8,0.6953125,2016-07-11 18:47:21,False,False
+2016-07-12T03:32:15,"This movie is completely satanic. The original lie refurbished- Thou shalt live forever as a god, free from judgement of the One True God.",1,0,HeavnIsEarth,3agaVwt0tb8,0.2722727272727273,2016-07-12 03:32:15,False,False
+2016-07-12T19:54:43,"First time I've EVER been glad I read the comments first; thank you everyone, you saved me from a spoiler filled trailer. I'll watch the film in the dark :L",60,1,Ellie,3agaVwt0tb8,0.25,2016-07-12 19:54:43,False,False
+2016-07-14T08:16:43,So Deadpool doesnt annoy Gandhi???,0,0,A Venu Mohan,3agaVwt0tb8,0.0,2016-07-14 08:16:43,False,False
+2016-07-19T01:09:31,Why isn't this movie in 21:9. This is why I never buy movies.,0,0,Wybrem,3agaVwt0tb8,0.0,2016-07-19 01:09:31,False,False
+2016-07-27T03:25:50,looks like the concept combination of FACE OFF/ VANILLA SKY......,1,0,Chantal Corleone,3agaVwt0tb8,0.0,2016-07-27 03:25:50,False,False
+2016-08-08T04:56:08,"seems like it would've been a lot easier to just take $250 million from a gullible rich person and let them die... Damien should've just taken the trip to Hawaii and lived it up.  That would've been more entertaining to watch.  If you haven't seen this yet, just think about Limitless and Vanilla Sky in a blender but not as tasty.",0,0,Hexx 7bb,3agaVwt0tb8,0.4583333333333333,2016-08-08 04:56:08,False,False
+2016-08-08T14:18:39,fantastic movie...one of my favourites for sure.... its  A MUST WATCH MOVIE.....FROM START TO FINISH ITS PERFECT....well done to all that made this movie a reality,0,0,sith lord,3agaVwt0tb8,0.45,2016-08-08 14:18:39,False,False
+2016-08-08T23:18:03,SPOILER ALERT INCASE YOU HAVEN'T SEEN IT YET .  .  .  .  .  .  Imagine how many families and lives he's destroyed by killing off the Doctor. Everything and everyone is confidential so unless they're smart enough to have the pills reverse engineered like his friend did then they're screwed. Good movie though. Just a thought.,0,0,purestress2,3agaVwt0tb8,0.35357142857142854,2016-08-08 23:18:03,False,False
+2016-08-23T04:22:21,"This movie is hiding the elite's agenda in plain sight regarding AI, transhumanism, the singularity, and the extermination of mankind (you and I) as the elite plan to merge with technology and live forever as ""gods."" Google Ray Kurzweil and Peter Thiel to learn more.",15,0,Yotto O.,3agaVwt0tb8,0.14069264069264067,2016-08-23 04:22:21,False,False
+2016-08-23T08:39:56,this is it guys! The best movie to watch,0,0,S S,3agaVwt0tb8,1.0,2016-08-23 08:39:56,False,False
+2016-08-29T18:11:35,"I love the concept of switching bodies, i'm actually currently writing a novel with that premise. And who knows, maybe one day my novel might get adapted into a movie. But i shouldn't get my hopes up, this is reality after all.",30,8,Ef Kay,3agaVwt0tb8,0.25,2016-08-29 18:11:35,False,False
+2016-09-16T12:10:14,So self less and criminal are the same universe?,16,1,Chrjs,3agaVwt0tb8,-0.18888888888888888,2016-09-16 12:10:14,False,False
+2016-09-21T15:27:14,Simply Amazing from Beginning to End,2,0,The Grid,3agaVwt0tb8,0.6000000000000001,2016-09-21 15:27:14,False,False
+2016-09-25T15:46:04,"This is how people made trailer in the old days, i mean old days when there's no internet.",0,0,Nicholas Lam,3agaVwt0tb8,-0.0375,2016-09-25 15:46:04,False,False
+2016-09-25T20:36:44,Remind me off face off,0,0,Christopher Engman,3agaVwt0tb8,0.0,2016-09-25 20:36:44,False,False
+2016-09-27T23:23:11,Hands down best movie,0,0,Amanda Halls,3agaVwt0tb8,0.4222222222222222,2016-09-27 23:23:11,False,False
+2016-10-10T02:08:54,"Oh look, a trailer I seen before until I notice Battlefield 1 Offical Gameplay Trailer takes it, which fits perfectly than that...",0,0,DJ Blackhood,3agaVwt0tb8,1.0,2016-10-10 02:08:54,False,False
+2016-10-15T16:16:47,Reminds me of a Rock Hudson movie.,0,0,Vinay Seth,3agaVwt0tb8,0.0,2016-10-15 16:16:47,False,False
+2016-10-30T16:46:38,so women do like money ...,0,0,Brandon Vasquez,3agaVwt0tb8,0.0,2016-10-30 16:46:38,False,False
+2016-12-05T05:58:44,It was an amazing idea except the script and the directions was poorly done. It wasn't as suspenseful as it should have been,1,0,Chaotic Cinema,3agaVwt0tb8,0.0666666666666667,2016-12-05 05:58:44,False,False
+2016-12-15T02:52:08,"The The trick is structure. My brain me my frontal cortex is what is me. Electrical signals mean nothing programming or memory means nothing it is the structure that makes me me. So MRI type of reprogramming of a brain means nothing it has to me re structured to be me. A clone will get close but as the clone grows or ages it changes its brain structure, So growing a clone will get the new body but you need a way to repair or reconnect the spinal cord or you get a new body but have to be on a hart lung machine. Iron lung time. Live forever in a iron lung machine only if there is no power outages.",0,0,Ed Hughes,3agaVwt0tb8,0.01931818181818181,2016-12-15 02:52:08,False,False
+2016-12-18T00:06:06,It Was Just Awesome,0,0,MOHAMMAD RAHEEL SHAH,3agaVwt0tb8,1.0,2016-12-18 00:06:06,False,False
+2016-12-22T10:46:07,"Very edgy, with the / in the title",6,0,PoisonTheOgres,3agaVwt0tb8,-0.39,2016-12-22 10:46:07,False,False
+2016-12-26T11:39:18,after you see this trailer no need to watch the movie anymore is all here,2,0,marius euo,3agaVwt0tb8,0.0,2016-12-26 11:39:18,False,False
+2017-01-05T09:06:38,"Love Ryan Reynolds. Anyone remember his sitcom 2 guys and a girl and a pizza place? Miss that show, was the best in the 90s.",0,0,Nik W,3agaVwt0tb8,0.75,2017-01-05 09:06:38,False,False
+2017-01-05T12:30:10,Did they just spoil the movie in a trailer?,30,0,WeepingOdin,3agaVwt0tb8,0.0,2017-01-05 12:30:10,False,False
+2017-01-25T13:45:51,"it should be called ""The Redemption of Karl Pilkington""",1,0,Osten Pontus,3agaVwt0tb8,0.0,2017-01-25 13:45:51,False,False
+2017-01-29T00:24:21,Is that the trump tower penthouse,1,0,Luis Flores,3agaVwt0tb8,0.0,2017-01-29 00:24:21,False,False
+2017-01-30T12:30:31,"LOL, dirty grandpa become a playboy xD",0,0,Amr Fwwz,3agaVwt0tb8,0.10000000000000003,2017-01-30 12:30:31,False,False
+2017-03-10T08:02:37,this movie is f*ing phenomenal. the actors were f*ing amazing. the chemistry was on point. love love love it.,0,1,That Chick,3agaVwt0tb8,0.52,2017-03-10 08:02:37,False,False
+2017-03-10T08:11:05,"for all the people here butt-hurting cuz ""it shows the whole movie. no need to watch it now"" your lives must really suck :) that is all.",0,0,That Chick,3agaVwt0tb8,0.3,2017-03-10 08:11:05,False,False
+2017-03-11T23:31:28,Wow. Now I didn't even need to watch the film - the trailer literally showed the 3 acts and covered the plot.   Whoever cut this trailer just cost the studio a lot of money.,1,0,Resvrgam,3agaVwt0tb8,0.1,2017-03-11 23:31:28,False,False
+2017-03-14T23:09:19,I've watched this and it's pretty much the plot of Deadpool.,0,0,DeadFlag70,3agaVwt0tb8,0.225,2017-03-14 23:09:19,False,False
+2017-03-22T01:57:00,this movie was great,0,0,Alessandra Racanelli,3agaVwt0tb8,0.8,2017-03-22 01:57:00,False,False
+2017-03-22T06:38:45,"RIP Rockefeller, or not...",14,0,Listen And Learn Channel,3agaVwt0tb8,0.0,2017-03-22 06:38:45,False,False
+2017-03-26T16:03:12,The Mandarin turns into Deadpool VS Ozymandias?,0,0,LordMichaelRahl,3agaVwt0tb8,0.0,2017-03-26 16:03:12,False,False
+2017-04-06T08:22:30,Ok first off you would never tell anyone that a medicine there giving you is stopping your heart. Second the human brain can only hold so much information. With is one reason why when people are older they forget stuff. So saying it be immortality isn't true. You would eventually become either a mindless husk or get an entire new personality with no memory of your past life. Also Immortality means eternal life. He can still die so that's also false. Lastly I'm i the only one who thinks this should have been a dark/comedy movie maybe some sadness in it. Story could have easily been a comedy such as instead of getting the body he did he got some chicks body. That has so many option for comedy.,0,1,Isaiah Belter,3agaVwt0tb8,0.0936868686868687,2017-04-06 08:22:30,False,False
+2017-04-09T17:59:06,What is the song at 1:15,0,1,Jac-Henry Owens,3agaVwt0tb8,0.0,2017-04-09 17:59:06,False,False
+2017-04-25T18:58:17,"Havent't even gone on rotten tomatoes yet, but i can imagine this had terrbible reviews.",0,0,Lcarter52,3agaVwt0tb8,0.0,2017-04-25 18:58:17,False,False
+2017-05-02T09:05:49,Matthew Goode was exceptionally unnerving.,0,0,Kaiter Enless,3agaVwt0tb8,0.6666666666666666,2017-05-02 09:05:49,False,False
+2017-05-06T06:12:46,When Deadpool and the Mandarin uses the Superior Spiderman's plot.,0,0,SMP2390,3agaVwt0tb8,0.7,2017-05-06 06:12:46,False,False
+2017-05-20T20:51:37,Ryan Rynolds is getting better and better.,0,0,Matarese Circle,3agaVwt0tb8,0.5,2017-05-20 20:51:37,False,False
+2017-05-25T12:33:47,Gandhi X Deadpool : Homecoming,2,0,Dhrithik,3agaVwt0tb8,0.0,2017-05-25 12:33:47,False,False
+2017-05-31T20:40:48,"Well , I don't know if anybody knows what I'm talking about , but wasn't that guy Mick from Supernatural?",0,0,MariaMyrto Moschou,3agaVwt0tb8,0.16666666666666666,2017-05-31 20:40:48,False,False
+2017-06-21T02:59:44,"Hey, howie mandel looks to have recovered from his fear of germs !",0,0,skygrace546,3agaVwt0tb8,0.0,2017-06-21 02:59:44,False,False
+2017-07-15T04:23:28,"Ryan, Natalie, Ben = Awesome! I love this film. 😎",0,0,Wayne Riley,3agaVwt0tb8,0.75,2017-07-15 04:23:28,False,False
+2017-07-23T09:18:07,One of the best films I've ever watched!!!,0,0,Milan Kosovic,3agaVwt0tb8,1.0,2017-07-23 09:18:07,False,False
+2017-08-19T07:05:35,Lucky this guy managed to turn himself into deadpool.,0,0,Saber Sin,3agaVwt0tb8,0.3333333333333333,2017-08-19 07:05:35,False,False
+2017-09-15T01:44:36,The little girl Anna goes to my school her name is Janie Kinchen she is like my bff,0,0,Fairy Tail Lover Dragneel,3agaVwt0tb8,-0.1875,2017-09-15 01:44:36,False,False
+2017-09-16T18:40:19,amazing movie,0,0,Naissus Digital,3agaVwt0tb8,0.6000000000000001,2017-09-16 18:40:19,False,False
+2017-09-22T21:31:10,pretty good movie...,0,0,cherry viña,3agaVwt0tb8,0.475,2017-09-22 21:31:10,False,False
+2017-11-18T00:19:54,1:57 soundtrack,0,0,João Sousa,3agaVwt0tb8,0.0,2017-11-18 00:19:54,False,False
+2017-12-01T05:09:41,titles ok but tabline sucks,0,0,Ashton Grist,3agaVwt0tb8,0.1,2017-12-01 05:09:41,False,False
+2018-01-05T05:29:33,So underrated movie this was. It was very good.,0,0,Jobs mine,3agaVwt0tb8,0.9099999999999999,2018-01-05 05:29:33,False,False
+2018-01-05T18:07:28,From the producers of Face/Off! LOL,0,0,Valiant Lion,3agaVwt0tb8,0.8,2018-01-05 18:07:28,False,False
+2018-02-03T12:41:03,Is da song from Battlefield 1???,0,0,Leong Jun Xien,3agaVwt0tb8,0.0,2018-02-03 12:41:03,False,False
+2018-03-01T05:08:14,Seconds de John Frankenheimer.,0,0,Leonel Buelvas,3agaVwt0tb8,0.0,2018-03-01 05:08:14,False,False
+2018-03-04T15:40:06,I remember watching at the theater when there was nothing else to watch. It was surprisingly good. Shame small sci-fi releases like this don't get much attention.,3,0,Kyle L,3agaVwt0tb8,0.21666666666666665,2018-03-04 15:40:06,False,False
+2018-03-07T22:03:21,Excelente!!,0,0,Gareth Botelho,3agaVwt0tb8,0.0,2018-03-07 22:03:21,False,False
+2018-03-21T02:02:11,eh puke...sick of trans humanoid liberal trash .,0,0,Generation Noise,3agaVwt0tb8,0.0,2018-03-21 02:02:11,False,False
+2018-03-30T18:28:04,"Just saw it, it blew my Mind, it was so amazing, didn't expect it to be so good!  what a Movie ❤❤❤",10,0,Arthur Morgan,3agaVwt0tb8,0.7375,2018-03-30 18:28:04,False,False
+2018-04-02T01:11:39,Well thats 2 hours of my life I'll never get back... absolute shite,0,0,Mr Truth,3agaVwt0tb8,0.1,2018-04-02 01:11:39,False,False
+2018-04-06T07:54:31,Deadpool and The Mandarin aka Trevor,0,0,Hendra Darmawan,3agaVwt0tb8,0.0,2018-04-06 07:54:31,False,False
+2018-04-11T17:36:54,Is this a good film? Worth watching?,0,0,Muskateering,3agaVwt0tb8,0.5,2018-04-11 17:36:54,False,False
+2018-04-23T14:01:04,"Thats not him, he's there, we cant say he lives homeless in a car then we cant pin this on him to then take him down, we made him, we can destroy him and BE HERO's YEAY. Cue Victory Music. Roll Credits. You got my address. Record scratch, film burn.",0,0,Jeff Caligari,3agaVwt0tb8,-0.1777777777777778,2018-04-23 14:01:04,False,False
+2018-04-28T15:44:56,Thanks for the trailer. Now I don't have to watch the movie anymore.,0,0,doraluffy,3agaVwt0tb8,0.2,2018-04-28 15:44:56,False,False
+2018-05-10T16:31:18,Deadpool brought me here,0,0,jimbo salgado,3agaVwt0tb8,0.0,2018-05-10 16:31:18,False,False
+2018-05-11T04:38:19,I'm here after Beckham insulting Ryan 😂,0,0,AlifLukman Fandi,3agaVwt0tb8,-1.0,2018-05-11 04:38:19,False,False
+2018-05-12T01:18:14,Well I guess there is no need to see the movie after watching the trailer.,0,0,Nanachi of the abyss,3agaVwt0tb8,0.0,2018-05-12 01:18:14,False,False
+2018-05-12T06:57:30,Stupid apple add,0,0,Parthiv Bomma,3agaVwt0tb8,-0.7999999999999999,2018-05-12 06:57:30,False,False
+2018-05-14T20:33:20,Why does Ryan himself say it's terrible?,0,0,LordConnord,3agaVwt0tb8,-1.0,2018-05-14 20:33:20,False,False
+2018-06-13T15:43:50,"Sort of reminds me of a forgotten (edit) German/Dutch film, called Transfer.",0,1,theabberration,3agaVwt0tb8,0.0,2018-06-13 15:43:50,False,False
+2018-07-07T01:13:58,An interesting movie full of ideas. I don't think they all work but I think they are extremely interesting.  I particularly like that the director focuses on the little girl when they are arguing.  If it suffers from anything it's that the director is still finding his feet. But most of the characters are pretty likeable and believable and that's a big plus.,1,0,William Kinsey,3agaVwt0tb8,0.19791666666666669,2018-07-07 01:13:58,False,False
+2018-07-17T00:27:52,The Mandarin becomes Wade Wilson.,0,0,Dag Nasty Odi,3agaVwt0tb8,0.0,2018-07-17 00:27:52,False,False
+2018-07-17T19:36:11,Best movie ever,0,0,Thije Draad,3agaVwt0tb8,1.0,2018-07-17 19:36:11,False,False
+2018-07-24T18:34:22,I am from the future iron man will die captain America live and thanos die and DC again flop,0,0,Ankush Basu,3agaVwt0tb8,0.06818181818181818,2018-07-24 18:34:22,False,False
+2018-07-25T19:37:00,So basically the plot of deadpool but more money less death,0,0,Sara T,3agaVwt0tb8,0.16666666666666669,2018-07-25 19:37:00,False,False
+2018-08-05T02:31:13,You got way too much in the trailer,0,0,Arai Luke,3agaVwt0tb8,0.2,2018-08-05 02:31:13,False,False
+2018-08-21T21:47:32,"Wow, selfless, used to, being used all the time so F.",0,0,Hue Lu,3agaVwt0tb8,0.1,2018-08-21 21:47:32,False,False
+2018-08-21T21:48:06,"By the way, are these actors crazy? Yeap, new era, sounds like going backwards 100 years... stop trolling Jack.",0,0,Hue Lu,3agaVwt0tb8,-0.2318181818181818,2018-08-21 21:48:06,False,False
+2018-08-22T07:17:54,GET OUT,0,0,sebatian,3agaVwt0tb8,0.0,2018-08-22 07:17:54,False,False
+2018-08-25T19:06:06,I´m glad the trailer didn´t give away anything...,0,0,dolorodon,3agaVwt0tb8,0.5,2018-08-25 19:06:06,False,False
+2018-08-27T15:15:24,Is this DEADPOOLs prequel story,0,0,Archit misal,3agaVwt0tb8,0.0,2018-08-27 15:15:24,False,False
+2018-09-11T21:50:41,Oh hi it's Ozymandias!!,0,0,Razor,3agaVwt0tb8,0.0,2018-09-11 21:50:41,False,False
+2018-09-24T05:26:37,Immortality is cured forever,0,0,Austin Gordon,3agaVwt0tb8,0.0,2018-09-24 05:26:37,False,False
+2018-09-24T19:36:31,I'm so glad I read comments before watching the trailer😂 no spoilers for me😁,0,0,Kieran Jones,3agaVwt0tb8,0.5,2018-09-24 19:36:31,False,False
+2018-09-29T19:30:16,Good movie,0,0,segafan13,3agaVwt0tb8,0.7,2018-09-29 19:30:16,False,False
+2018-10-15T09:39:11,people complaining about the trailer spoiling 2 third of the movie. just try forgetting the trailer and after one week or two watch the movie lol problem solved. im doing the same hahaa,0,0,Kaizoku,3agaVwt0tb8,0.26666666666666666,2018-10-15 09:39:11,False,False
+2018-11-04T04:25:03,Now thats what you call a perfect science fiction thriller. Can't wait for watching it.,2,0,Javid Akhtar Baba,3agaVwt0tb8,1.0,2018-11-04 04:25:03,False,False
+2018-11-22T00:53:39,The best movie. Loved it,0,0,Vasudev Gupta,3agaVwt0tb8,0.85,2018-11-22 00:53:39,False,False
+2018-11-22T08:13:48,Deapool and get out,0,0,Bryan Dubon,3agaVwt0tb8,0.0,2018-11-22 08:13:48,False,False
+2018-11-27T16:55:49,"Deadpool body swaps with Trevor. You're welcome, random commenter.",0,0,Declan Corey,3agaVwt0tb8,0.15000000000000002,2018-11-27 16:55:49,False,False
+2018-12-05T06:12:22,Steve Jobs probably did this and now he’s working in huawei,0,0,FreeMinded,3agaVwt0tb8,0.0,2018-12-05 06:12:22,False,False
+2018-12-18T19:42:18,"Can someone help me i`m trying to remember the name of a movie, either a pure sci-fi or maybe horror category: I only remeber the ending the ""bad guy"" tries to transfer his consciousness into a body clone in progress, but it gets interrupted by ""the good guy"" so he ends up in a partly complete body. i think it was a very futuristic, privately owned laboratory off course used for illegal purposes.",0,1,Christian Bjerga,3agaVwt0tb8,-0.009523809523809502,2018-12-18 19:42:18,False,False
+2018-12-24T17:37:20,I will never switch bodies with anyone.  No thanks to any offers.,0,0,Alexander Arnold,3agaVwt0tb8,0.0,2018-12-24 17:37:20,False,False
+2018-12-25T03:54:19,So this is where Get Out got its idea from 🧐,0,0,Jarrett Jackson,3agaVwt0tb8,0.0,2018-12-25 03:54:19,False,False
+2018-12-25T10:08:20,movie was BADASS highly recommend watching it the trailer gives some away but not all of it this is one of those underrated movies,0,0,Oscar Sanchez,3agaVwt0tb8,0.16,2018-12-25 10:08:20,False,False
+2018-12-31T21:55:11,guess i dont have to watch it anymore,0,0,Lukas Post,3agaVwt0tb8,0.0,2018-12-31 21:55:11,False,False
+2019-01-02T19:58:48,For me the movie was very predictable. The idea is nice but the only Aha moment I had was (spoiler alert) when the doctor ended up being Albright. Wasnt that fun for me.,0,0,jlyxx,3agaVwt0tb8,0.15999999999999998,2019-01-02 19:58:48,False,False
+2019-01-05T23:01:41,Why did this get such bad reviews? I loved it,0,0,blah,3agaVwt0tb8,3.700743415417188e-17,2019-01-05 23:01:41,False,False
+2019-01-18T19:56:15,Everyone is complaining about how the trailer gave away the movie but I watched it without having seen the trailer so I knew nothing going in. Hooray for me I guess,0,0,Jon Snow,3agaVwt0tb8,0.0,2019-01-18 19:56:15,False,False
+2019-01-31T01:02:36,"I watched the movie before I saw the trailer and loved it. I don't get why there is so much criticism (for the movie, not the trailer)",0,0,David Humphries,3agaVwt0tb8,0.44999999999999996,2019-01-31 01:02:36,False,False
+2019-02-04T05:32:25,"This sucks, the movie starts good then gets really shitty.",0,0,Yu Yu,3agaVwt0tb8,0.19999999999999998,2019-02-04 05:32:25,False,False
+2019-02-12T10:04:23,I was very impressed with Reynolds in this one he basically played three guys in one and absolutely killed it. I’ve seen some hate online but I don’t get it at all first off it was a awesome plot written great casted even better and the fight scenes were really good. All in all this is a really good movie in my opinion the ending twist gives you a lot of emotion and I think Reynolds should have got some type of award for this one.,0,0,TMT 1,3agaVwt0tb8,0.4388888888888889,2019-02-12 10:04:23,False,False
+2019-03-03T16:38:00,How can I watch this movie?,1,2,gold Alotaibi,3agaVwt0tb8,0.0,2019-03-03 16:38:00,False,False
+2019-03-24T23:43:47,Alien world order is where i heard of this movie and we are 2019. Why havent ever heard of,1,1,ddogglife21,3agaVwt0tb8,-0.25,2019-03-24 23:43:47,False,False
+2019-03-30T14:40:47,Bhai movie bhi de ma re,1,0,Saurabh Dubey,3agaVwt0tb8,0.0,2019-03-30 14:40:47,False,False
+2019-04-11T08:08:12,film paling bodoh dan tolol yang pernah aku tonton,0,0,Daus Warzuqni,3agaVwt0tb8,0.0,2019-04-11 08:08:12,False,False
+2019-04-13T21:45:08,"Can't take Ryan Reynolds seriously, so",1,0,TamarHodel,3agaVwt0tb8,-0.3333333333333333,2019-04-13 21:45:08,False,False
+2019-05-30T09:19:02,Underrated movie,5,0,Aaron R,3agaVwt0tb8,0.0,2019-05-30 09:19:02,False,False
+2019-06-26T05:00:43,"Movie was awesome! And the trailer totally gives away everything, so glad I listened to the comments",0,0,Yousaf s,3agaVwt0tb8,0.5,2019-06-26 05:00:43,False,False
+2019-08-04T17:18:21,"If anyone watches ""The 100"" then season 6 is pretty much the plot of this movie. Now I understand, where the idea came from.",1,0,TheMarkoZanev,3agaVwt0tb8,0.225,2019-08-04 17:18:21,False,False
+2019-08-18T00:14:12,"Wow, just watched this for the 1st time.   Rough start but good movie!",0,0,La Vida Loca,3agaVwt0tb8,0.2916666666666667,2019-08-18 00:14:12,False,False
+2019-08-18T00:51:10,Read the first comment and passed on this spoiler!! IDIOTS!!!,0,0,Ricky Pisano,3agaVwt0tb8,-0.3046875,2019-08-18 00:51:10,False,False
+2019-08-18T00:52:38,Prepping all of our common asses for the N.W.O.,0,0,Ricky Pisano,3agaVwt0tb8,-0.3,2019-08-18 00:52:38,False,False
+2019-08-20T19:57:27,Never heard of this movie till today..Awesome Movie..love to see Derek Luke in this and  Ryan Reynolds ..💕💕💕💕💕👍👍👍👍👍👍👍👍,8,0,SWEETEE 247,3agaVwt0tb8,0.0,2019-08-20 19:57:27,False,False
+2019-08-23T23:09:37,Garbage.,0,0,Joey Monroe,3agaVwt0tb8,0.0,2019-08-23 23:09:37,False,False
+2019-08-24T07:12:46,Who's here from Netflix? .. lol 🤪,554,17,Sonny Beltran,3agaVwt0tb8,0.8,2019-08-24 07:12:46,False,False
+2019-08-26T06:17:16,The Mandarin turning into Deadpool was pretty OK.,0,0,Ph@tMantv,3agaVwt0tb8,0.375,2019-08-26 06:17:16,False,False
+2019-08-26T09:16:15,This movie was phenomenal,0,0,Sergeant RhymeSpitter,3agaVwt0tb8,0.5,2019-08-26 09:16:15,False,False
+2019-08-28T17:27:28,I had to watch the trailer before deciding if i want to watch it and im not. I love you Ryan but its a no from me,0,1,multifandomz,3agaVwt0tb8,-0.25,2019-08-28 17:27:28,False,False
+2019-08-28T17:29:45,Great movie just watch it in. 2 minutes,0,0,sabrina marie,3agaVwt0tb8,0.8,2019-08-28 17:29:45,False,False
+2019-08-28T22:07:46,"This. Movie. Was. So. Good. The theme surrounding this movie was to be ""selfless"" and not selfish. Watch this movie!!",0,0,Autumn Munden,3agaVwt0tb8,0.5453125,2019-08-28 22:07:46,False,False
+2019-09-01T15:53:17,wow,2,0,Meme2Basic,3agaVwt0tb8,0.1,2019-09-01 15:53:17,False,False
+2019-09-01T23:31:35,It's like an updated Seconds...,0,0,Jess Frankel,3agaVwt0tb8,0.0,2019-09-01 23:31:35,False,False
+2019-09-02T00:24:51,Guess I don't need to watch the movie now,6,1,Elle Oswald,3agaVwt0tb8,0.0,2019-09-02 00:24:51,False,False
+2019-09-02T23:23:21,So are the wife and kid enjoying the money now?,0,0,Balasaravanan Palanirajh,3agaVwt0tb8,0.5,2019-09-02 23:23:21,False,False
+2019-09-03T05:18:37,I do one thing Is save one is my family if I die a immortal,0,0,Austin Gordon,3agaVwt0tb8,0.0,2019-09-03 05:18:37,False,False
+2019-09-04T00:26:13,Trailers have become clip notes for movies 🤣🤣,0,0,Darren Gilliam,3agaVwt0tb8,0.0,2019-09-04 00:26:13,False,False
+2019-09-04T00:34:56,"Just watched this.  Was surprised, reviews seemed to bury this movie.  I actually really enjoyed it.  Sure it has some flaws but overall I had fun with it, and that's all that matters.",10,0,Robert Breeden,3agaVwt0tb8,0.28,2019-09-04 00:34:56,False,False
+2019-09-05T23:04:39,This movie just pisses me off,0,0,jad choubassi,3agaVwt0tb8,0.0,2019-09-05 23:04:39,False,False
+2019-09-07T20:16:51,I do not recommend to watch the trailer before watching the movie . It gives too much away . Good thing i didnt watch it before i enjoyed the movie,0,0,Maquillate Conlily,3agaVwt0tb8,0.4666666666666666,2019-09-07 20:16:51,False,False
+2019-09-08T21:48:39,Wasn’t Jason Bourne but it was alright,0,0,OrbitOnceAround,3agaVwt0tb8,0.0,2019-09-08 21:48:39,False,False
+2019-09-09T04:13:44,The movie trailer gave too much away but I just watched this!! Had to comment!! It was Great!! Action and suspense packed!! I cried at the end!! Love Ryan Reynolds!!!,1,0,Ryanne Barlow,3agaVwt0tb8,0.67724609375,2019-09-09 04:13:44,False,False
+2019-09-10T23:37:11,Slightly reminiscent of an old episode from Star Trek:  The original series.,1,0,John Baird,3agaVwt0tb8,0.15833333333333333,2019-09-10 23:37:11,False,False
+2019-09-12T05:15:54,I gotta get me one of those.,0,0,Jeremy Drafall,3agaVwt0tb8,0.0,2019-09-12 05:15:54,False,False
+2019-09-16T22:11:04,Enjoyed the movie Except for that ladies voice!!!!🙄🙄🙄,0,0,Ashley Francine,3agaVwt0tb8,0.5,2019-09-16 22:11:04,False,False
+2019-09-18T07:22:50,🎁✍️📘📕👂📁🥰,0,0,Miss Cheddargetter,3agaVwt0tb8,0.0,2019-09-18 07:22:50,False,False
+2019-09-28T08:50:54,"To those who haven't seen it. Don't let all these ""The trailer shows too much"" comments discourage you. Trust me there's a lot in the movie that isn't given away in this trailer. It's a good movie give it a go.",0,0,Kyle Arreola,3agaVwt0tb8,0.44999999999999996,2019-09-28 08:50:54,False,False
+2019-09-29T03:55:02,well luckily i'm watching the trailer after watching the movie...,3,2,Helix Haze,3agaVwt0tb8,0.3333333333333333,2019-09-29 03:55:02,False,False
+2019-09-29T03:57:22,Wow! I’m glad i didn’t watch the trailer first!  I thought they stole the idea from “Get Out” but get out stoke the idea from them!!,0,0,Davis Vo,3agaVwt0tb8,0.37109375,2019-09-29 03:57:22,False,False
+2019-10-13T04:38:01,I'd take a life for fun,0,0,yuugen,3agaVwt0tb8,0.3,2019-10-13 04:38:01,False,False
+2019-10-21T02:57:23,I just came here to see all the idiots fuss about every single movie preview on YouTube. Stop watching them.  No body wants to just watch a random movie they know nothing about. So they make previews. Y’all gotta be Democrats.,0,0,Mr. D6,3agaVwt0tb8,-0.29285714285714287,2019-10-21 02:57:23,False,False
+2019-11-21T07:44:24,It is a good movie.,1,0,Carlos Franco,3agaVwt0tb8,0.7,2019-11-21 07:44:24,False,False
+2019-11-23T17:18:38,Good movie. Better than a lot of the nonsense in the main theatres that's for sure. Glad I read the comments before watching the trailer so thank  comments folk for the warning,0,0,Rome,3agaVwt0tb8,0.47333333333333333,2019-11-23 17:18:38,False,False
+2019-11-24T00:01:43,"I know Ryan Reynolds gets typecast as deadpool but he is a very talented actor, although tbh it would've been funny to see his reactions as deadpool 😂",1,0,GM TV,3agaVwt0tb8,0.58,2019-11-24 00:01:43,False,False
+2019-12-03T07:03:16,ye watched it on netflix good movie now Im hyped for 6feet underground,0,0,LiangHuBBB,3agaVwt0tb8,0.7,2019-12-03 07:03:16,False,False
+2019-12-05T01:42:03,DO NOT watch the trailer!! Besides that it was a great movie :),0,0,Anna Blinov,3agaVwt0tb8,0.65,2019-12-05 01:42:03,False,False
+2019-12-07T22:58:45,Why don't people have Ryan Reynolds more serious roles? He's pretty good in this pretty serious movie,1,0,Gerstein03,3agaVwt0tb8,0.17222222222222225,2019-12-07 22:58:45,False,False
+2019-12-13T19:10:28,"is it an entertaining film? It's Ryan fuckin Renolds man, hell yeah",0,0,Dennis Menace,3agaVwt0tb8,0.5,2019-12-13 19:10:28,False,False
+2019-12-14T13:56:45,I would love to live a life like that it would be awesome 😎👍💪💯💯,0,0,Alex Sanchez,3agaVwt0tb8,0.5454545454545454,2019-12-14 13:56:45,False,False
+2019-12-15T06:42:25,I am lol,0,0,Cait s,3agaVwt0tb8,0.8,2019-12-15 06:42:25,False,False
+2019-12-20T00:50:56,So they pretty much killed a young guy to immortalize an old one. Why did I watch this trailer? I thought I was about to relax and Netflix smh.,0,0,Connie,3agaVwt0tb8,0.0625,2019-12-20 00:50:56,False,False
+2020-01-13T06:01:30,I hate when people in the comments say oh I just saw this whole movie in 2 mins or  the whole trailer gave away the movie,1,0,Jayliah Johnson,3agaVwt0tb8,-0.13333333333333336,2020-01-13 06:01:30,False,False
+2020-01-14T00:01:48,great movie. must wath,0,0,Madhav Pathak,3agaVwt0tb8,0.8,2020-01-14 00:01:48,False,False
+2020-01-18T12:36:43,Might as well show the whole movie instead.,3,0,Stringfreak,3agaVwt0tb8,0.2,2020-01-18 12:36:43,False,False
+2020-01-18T17:05:22,"Why do I never learn? Never watch the trailer before the movie, just read the description.",3,0,xwenzl,3agaVwt0tb8,0.0,2020-01-18 17:05:22,False,False
+2020-01-21T01:15:39,"If you scrolling through the comments to see if u should watch the movie then... yes i recommend it, it’s pretty good.😂💯",37,4,A.J_Lifetime A.J,3agaVwt0tb8,0.25,2020-01-21 01:15:39,False,False
+2020-02-01T02:57:33,"***PAUSE THE TRAILER NOW AND JUST WATCH THE MOVIE*** It's a great film, don't ruin it by watching the trailer!!!!",0,0,Paige Turnner,3agaVwt0tb8,1.0,2020-02-01 02:57:33,False,False
+2020-03-19T04:27:03,Tarsem Singh,0,0,Lost Space,3agaVwt0tb8,0.0,2020-03-19 04:27:03,False,False
+2020-04-04T21:27:45,so anybody seen this movie?,0,0,Edmond Dantes monte criston kreivi,3agaVwt0tb8,0.0,2020-04-04 21:27:45,False,False
+2020-04-07T14:12:06,1:23 Does someone understand what he said ? 😂😂,0,2,Mélanie La Fujoshi,3agaVwt0tb8,0.0,2020-04-07 14:12:06,False,False
+2020-04-13T00:10:54,Remake Van Wilder. Funny funny make me laught your loud,0,0,Jack S Dank,3agaVwt0tb8,0.19999999999999998,2020-04-13 00:10:54,False,False
+2020-04-15T15:22:00,I love these 2min shot films <3,1,0,The Non Smoker,3agaVwt0tb8,0.75,2020-04-15 15:22:00,False,False
+2020-04-18T00:07:40,"Guys only watch enough of the trailer to see if you wanna see what’s going to happen next. I stopped at 56 seconds, gonna go watch it on Netflix now. SEE YA",0,0,Finesse,3agaVwt0tb8,0.0,2020-04-18 00:07:40,False,False
+2020-04-22T11:54:39,Just got done watching it this some mk ultra clone body Illuminati stuff sad Ryan is a illuminati smh I love his movies but he a sell out sad 😔😢,0,0,Tae'Jaun Dre4mz Gonzalez,3agaVwt0tb8,-0.16666666666666666,2020-04-22 11:54:39,False,False
+2020-04-22T22:58:07,this is what happen before he became deadpool,0,0,Lulzaf,3agaVwt0tb8,0.0,2020-04-22 22:58:07,False,False
+2020-04-23T20:00:59,Useless waste of time 😐😐,0,0,Rafiq Khan,3agaVwt0tb8,-0.35,2020-04-23 20:00:59,False,False
+2020-04-25T06:07:17,"Good advice for movie goers out there. Watch 30 sec of the trailer and if you feel that you might like it watch it, and if you don’t don’t. I see a lot of comments here saying that this trailer summed up the whole movie. I wouldn’t know though. I only watched 30 seconds",1,0,Jack Murray,3agaVwt0tb8,0.2,2020-04-25 06:07:17,False,False
+2020-05-01T02:32:43,great movie,0,0,rosaly savinon,3agaVwt0tb8,0.8,2020-05-01 02:32:43,False,False
+2020-05-13T19:09:18,Altered Carbon: The Movie,0,0,Shuvo Speaking,3agaVwt0tb8,0.0,2020-05-13 19:09:18,False,False
+2020-05-16T19:06:22,So Ryan Reynolds did two movies in 2015 and 2016 where he switches minds or bodies with somebody else,0,0,Iyed Jaballah,3agaVwt0tb8,0.0,2020-05-16 19:06:22,False,False
+2020-05-17T16:12:32,I didn’t get the part with that guy’s kid. Can someone explain???,0,1,jhiselebardot,3agaVwt0tb8,0.0,2020-05-17 16:12:32,False,False
+2020-05-18T03:02:35,Should I watch it yes or no?,0,0,360 GMG,3agaVwt0tb8,0.0,2020-05-18 03:02:35,False,False
+2020-06-03T04:31:11,I’ve seen this movie before and I wanna watch it again,0,0,Steve Leahy,3agaVwt0tb8,0.0,2020-06-03 04:31:11,False,False
+2020-06-07T13:31:19,This is an under rated movie. I freakin love it. Especially the ending.,0,0,Ycel Rey,3agaVwt0tb8,0.25,2020-06-07 13:31:19,False,False

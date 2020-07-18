@@ -1,0 +1,905 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2015-04-24T15:29:03,First,1,0,4micahbell,E_j1eFy0zp4,0.25,2015-04-24 15:29:03,True,True
+2015-04-24T15:39:37,Looks awful.,4,0,Ismaila Amadou,E_j1eFy0zp4,-1.0,2015-04-24 15:39:37,True,True
+2015-04-24T15:39:56,Shamalamadingdong!!!,316,17,YoDuuh,E_j1eFy0zp4,0.0,2015-04-24 15:39:56,True,True
+2015-04-24T15:41:04,"M. Night Shyamalan's trailers are always good, but his movies...............",85,5,Ify Omokaro,E_j1eFy0zp4,0.7,2015-04-24 15:41:04,True,True
+2015-04-24T15:47:15,omg.. another found footage movie type -_-,30,15,xet happens,E_j1eFy0zp4,0.0,2015-04-24 15:47:15,True,True
+2015-04-24T15:47:25,God hate shamalayamyamotobokolomuchachunapoleon!,2,2,Kobe A5 Wagyu,E_j1eFy0zp4,-1.0,2015-04-24 15:47:25,True,True
+2015-04-24T15:49:27,i laughed...,1,0,BowBomb Gaming,E_j1eFy0zp4,0.7,2015-04-24 15:49:27,True,True
+2015-04-24T15:50:41,NOPE NOPE NOPE NOPE NOPE,1,0,stormking279,E_j1eFy0zp4,0.0,2015-04-24 15:50:41,True,True
+2015-04-24T15:53:13,"I bet its not even a horror movie, its probably a sad attempt at a drama about schizophrenia. Last trailers by M. Night fooled us  Lady in the Water looked like a horror movie and was a shitty fantasy garbage fest  The Happening looked like a horror movie but was a comedy shitty garbage fest  The Last Airbender looked like an awesome adaptation of a popular cartoon but was the real horror movie.﻿",335,33,Tony Lawliet,E_j1eFy0zp4,0.21666666666666667,2015-04-24 15:53:13,True,True
+2015-04-24T15:53:30,zZZ,1,0,Marcus Vinícius,E_j1eFy0zp4,0.0,2015-04-24 15:53:30,True,True
+2015-04-24T15:55:22,"Like Stephen King, the premise to his scripts are always tantalizing only to be sorely let down at the end. I expect this to be no different.",6,11,My name is August West,E_j1eFy0zp4,-0.051851851851851864,2015-04-24 15:55:22,True,True
+2015-04-24T15:57:12,What is this hansel and grettel shit getting up all in my grill,5,0,kabtastick,E_j1eFy0zp4,-0.2,2015-04-24 15:57:12,True,True
+2015-04-24T16:01:08,YUSSSS I WILL SEE THIS,0,0,wetiki,E_j1eFy0zp4,0.0,2015-04-24 16:01:08,True,True
+2015-04-24T16:01:47,M. Night is the greatest comedy director of all time.,308,11,wetiki,E_j1eFy0zp4,1.0,2015-04-24 16:01:47,True,True
+2015-04-24T16:04:46,"The guy has made nothing but garbage movies despite always managing to produce some sort of awesome trailer to make his shit smell good.  I won't be paying a dime to see this, but I'm sure I'll still watch it through other means. ;)",1,0,djvapid,E_j1eFy0zp4,0.3541666666666667,2015-04-24 16:04:46,True,True
+2015-04-24T16:06:03,When is this coming out ?,1,0,Catherine SlaterY,E_j1eFy0zp4,0.0,2015-04-24 16:06:03,True,True
+2015-04-24T16:10:11,Prepare to be shyamalized...,0,0,Vlad of Wallachia,E_j1eFy0zp4,0.0,2015-04-24 16:10:11,True,True
+2015-04-24T16:11:34,The best twist would be if this movie was actually good.,44,1,UziNineMillomeetah,E_j1eFy0zp4,0.85,2015-04-24 16:11:34,True,True
+2015-04-24T16:13:27,"Did anyone else just burst into laughter when they open the door and the old lady is naked and scratching the wall? ""Something is wrong with nana and papa""-girl ""They're just old""-mom....This movie is going to rival the happening.",74,6,Fintan,E_j1eFy0zp4,-0.06000000000000001,2015-04-24 16:13:27,True,True
+2015-04-24T16:17:20,"""What is in the shed?""     DEEZ NUTS",5,0,Helloimfergie,E_j1eFy0zp4,0.0,2015-04-24 16:17:20,True,True
+2015-04-24T16:19:45,"Let me guess, produced by the waynes bros. Would totally watch this comedy.",0,0,John Smith,E_j1eFy0zp4,0.0,2015-04-24 16:19:45,True,True
+2015-04-24T16:24:37,can anybody say invasion of the body satchers that is what it reminds me of then with the oven bit that reminded me of hansel and Gretel,2,2,girlsrule001,E_j1eFy0zp4,0.0,2015-04-24 16:24:37,True,True
+2015-04-24T16:25:29,hehe mom just passed my room kind of scared me after seeing this preview hehe,0,0,girlsrule001,E_j1eFy0zp4,0.6,2015-04-24 16:25:29,True,True
+2015-04-24T16:26:08,another 1 trick pony result.... ,0,0,Newzionis,E_j1eFy0zp4,0.0,2015-04-24 16:26:08,True,True
+2015-04-24T16:29:39,"They're just old. I know hunnie, they're just old. It's ok baby, their old it's ok. Everything's going to be fine, their just old. Just old... just dead.",81,2,Tullock,E_j1eFy0zp4,0.19074074074074077,2015-04-24 16:29:39,True,True
+2015-04-24T16:33:18,What is this...,2,1,McKonir,E_j1eFy0zp4,0.0,2015-04-24 16:33:18,True,True
+2015-04-24T16:37:52,"1999 called... they want their ""found footage"" filming style back.",21,3,tehkoalainsurgency,E_j1eFy0zp4,0.0,2015-04-24 16:37:52,True,True
+2015-04-24T16:39:18,Anyone know the music in the beginning?,0,2,Benny Boom,E_j1eFy0zp4,0.0,2015-04-24 16:39:18,True,True
+2015-04-24T16:42:07,From the director of the sixth sense and the village ... let's just leave it there shall we ,0,0,StephUchiha,E_j1eFy0zp4,0.0,2015-04-24 16:42:07,True,True
+2015-04-24T16:47:37,Who keeps giving this jackoff money?,0,0,FieryEasy,E_j1eFy0zp4,0.0,2015-04-24 16:47:37,True,True
+2015-04-24T16:48:56,So it's M Night Shyamalan's take on Paranormal Activity with a Hansel & Gretel twist... pass.,4,0,supervegeta101,E_j1eFy0zp4,0.0,2015-04-24 16:48:56,True,True
+2015-04-24T16:51:17,The first trailer is scarier,0,0,Niall,E_j1eFy0zp4,0.25,2015-04-24 16:51:17,True,True
+2015-04-24T16:57:09,"I don't care what ya'll say, I wanna see this. Haters gonna hate.",104,17,Curtis006,E_j1eFy0zp4,-0.8,2015-04-24 16:57:09,True,True
+2015-04-24T17:00:48,It's probably the plants that are controlling them!,2,0,Biringvad,E_j1eFy0zp4,0.0,2015-04-24 17:00:48,True,True
+2015-04-24T17:03:30,Hope these are the deleted scenes.,0,0,FelixTOONS,E_j1eFy0zp4,0.0,2015-04-24 17:03:30,True,True
+2015-04-24T17:06:29,Let me guess the Shyamalan twist...The grandma and grandpa are actually dead the entire movie,45,1,Taiga,E_j1eFy0zp4,-0.1,2015-04-24 17:06:29,True,True
+2015-04-24T17:12:50,I tried hiding the like bar so I could form my own judgement - Shyamalan gets a bad wrap - this might be genuinely creepy with a good mystery,0,0,Rigmarole,E_j1eFy0zp4,0.025000000000000022,2015-04-24 17:12:50,True,True
+2015-04-24T17:15:13,Great...... Another terrible M. Night Movie.,0,0,Taco1011,E_j1eFy0zp4,-0.09999999999999998,2015-04-24 17:15:13,True,True
+2015-04-24T17:16:37,Wait i remember this in a creepy pasta. Cant put my finger on it but it was the same premise.,1,0,Elevator Doors,E_j1eFy0zp4,-0.25,2015-04-24 17:16:37,True,True
+2015-04-24T17:30:24,"""I was just cleaning it"" XD ",0,0,Josh Sinclair,E_j1eFy0zp4,0.0,2015-04-24 17:30:24,True,True
+2015-04-24T17:38:53,"When the grandma just stared, it brought back horrible memories of The Happening. I've come to realize, that no matter who directs a movie, plot twists are becoming predictable. That's probably because it's been done so many times. I'm sure there's RECENT movies I haven't seen with good plot twists.",0,0,Rcker31BDrinkN,E_j1eFy0zp4,0.11875,2015-04-24 17:38:53,True,True
+2015-04-24T17:44:09,They spoil a plot twist.,0,0,By Extrimemanⓡ,E_j1eFy0zp4,0.0,2015-04-24 17:44:09,True,True
+2015-04-24T17:47:42,WAIT! M. Night Shyamalan film..................Say No More. I'll be definitely skipping this horse shit. These days M. Night Shyamalan is box office poison and a big joke.,0,0,Neon_Radd_Catcher,E_j1eFy0zp4,-0.1125,2015-04-24 17:47:42,True,True
+2015-04-24T17:48:48,"M.Night twist, the two old geezers are actually flower people from the planet known as  Moon thrown to Earth to stop two children from eating an old can of Spaghetti-O's which would inadvertently trigger a global catastrophe that would re-blind the blind. Leaving in it's wake everything we love and care about unaffected and bored.",0,0,Repair Bo Jackson's hip with liquid metal,E_j1eFy0zp4,-0.04375,2015-04-24 17:48:48,True,True
+2015-04-24T17:53:01,Worst director on the planet,9,12,Rony Sandoval,E_j1eFy0zp4,-1.0,2015-04-24 17:53:01,True,True
+2015-04-24T17:54:49,No black people wtf,69,19,TOMMY,E_j1eFy0zp4,-0.20833333333333334,2015-04-24 17:54:49,True,True
+2015-04-24T17:55:20,"you almost had me going there, Shyamalan, almost thought it was a decent movie, almost.",0,0,Milton Martinez,E_j1eFy0zp4,0.16666666666666666,2015-04-24 17:55:20,True,True
+2015-04-24T17:58:07,1:24 that's a sick shot!,0,0,Fanis K.,E_j1eFy0zp4,-0.8928571428571429,2015-04-24 17:58:07,True,True
+2015-04-24T18:05:47,I guess someone saw Taking of Deborah Logan.,0,0,Messedup_LP,E_j1eFy0zp4,0.0,2015-04-24 18:05:47,True,True
+2015-04-24T18:08:23,OH HELL NO I'M NOT FALLING FOR THIS SHIT AGAIN.,0,0,billjohn,E_j1eFy0zp4,-0.2,2015-04-24 18:08:23,True,True
+2015-04-24T18:11:26,This movie is about to get shamalaned ,0,0,Nicholas Olivier,E_j1eFy0zp4,0.0,2015-04-24 18:11:26,True,True
+2015-04-24T18:15:09,M. Night Shamalamalamlanalanalamnalalan..... somebody stop me!!!,8,1,Usman Afzal,E_j1eFy0zp4,0.0,2015-04-24 18:15:09,True,True
+2015-04-24T18:19:35,Looks great haters going to hate,1,0,TOLDtheTRUTH,E_j1eFy0zp4,0.0,2015-04-24 18:19:35,True,True
+2015-04-24T18:25:36,download this app and watch the new movies https://popcorntime.io/ hope its help,0,0,JackHammer,E_j1eFy0zp4,0.13636363636363635,2015-04-24 18:25:36,True,True
+2015-04-24T18:40:01,The grandparents are already dead. Calling it now.,16,0,even1313,E_j1eFy0zp4,-0.2,2015-04-24 18:40:01,True,True
+2015-04-24T19:02:07,Yes! Will see.,0,0,tazem81,E_j1eFy0zp4,0.0,2015-04-24 19:02:07,True,True
+2015-04-24T19:10:32,His trailers make he movies so tempting,0,0,Awall12454,E_j1eFy0zp4,0.0,2015-04-24 19:10:32,True,True
+2015-04-24T19:14:49,"The big twist at the end? The grandparents are normal, but the kids are really aliens. However that isn't twist enough, so the kids are aliens, but from Earth, and they are on another planet that looks like Earth and the grandparents are really cat-people.",0,0,DarkcIoud1111,E_j1eFy0zp4,0.11000000000000001,2015-04-24 19:14:49,True,True
+2015-04-24T19:15:24,What is the song on the background at the beginning? ;),1,0,Albert,E_j1eFy0zp4,0.25,2015-04-24 19:15:24,True,True
+2015-04-24T19:32:44,"Let me guess, the twist is that the family are ghosts, they are sheltered in a post-modern house but they're actually in the year 2425 and it's inhabitant are grey aliens that can't take a bath because water kills them...  Wait.",168,7,Cybershroom,E_j1eFy0zp4,-0.025,2015-04-24 19:32:44,True,True
+2015-04-24T19:42:10,Yep another found footage horror flick. Cuz we need more of those.,0,0,Max M,E_j1eFy0zp4,0.5,2015-04-24 19:42:10,True,True
+2015-04-24T19:42:14,"Woah, whats up with all these bandwagons?",0,0,Skull Knight,E_j1eFy0zp4,0.0,2015-04-24 19:42:14,True,True
+2015-04-24T19:59:01,I see empty theaters! ,0,0,Chantya Cooper,E_j1eFy0zp4,-0.125,2015-04-24 19:59:01,True,True
+2015-04-24T20:02:36,Found footage horror needs to end already.,1,1,AA1891,E_j1eFy0zp4,0.0,2015-04-24 20:02:36,True,True
+2015-04-24T20:22:02,"""Would you mind getting inside of the oven to clean it"".... Seems legit, I should go do what she says.",0,0,Tramnit1,E_j1eFy0zp4,0.3666666666666667,2015-04-24 20:22:02,True,True
+2015-04-24T20:36:53,Shyamalan's tank has officially ran out.  It's hard to believe that this is the same guy that created Unbreakable.,0,0,ThaRedPitbull-Mix,E_j1eFy0zp4,-0.14583333333333334,2015-04-24 20:36:53,True,True
+2015-04-24T20:49:41,  M Nights last few movies or whatever  might not have been good to some people but to me he will always  be one of my favorite  directors.,0,0,MegaFallen28,E_j1eFy0zp4,0.25,2015-04-24 20:49:41,True,True
+2015-04-24T20:56:13,"wtf i thought this was going to be so a friendly kids movie, like Home Alone or something, at first and then the grandma ruined it lmao",0,0,fluffiah,E_j1eFy0zp4,0.18125,2015-04-24 20:56:13,True,True
+2015-04-24T20:57:47,M. Night Shyamalan?... Nope. This movie is gonna sucks.,1,0,Fernando Maverick,E_j1eFy0zp4,-0.3,2015-04-24 20:57:47,True,True
+2015-04-24T21:06:40,I'm calling it! The real Nana and Poppop are dead or in the well and those grandparents are impostors!,0,0,Infinite Sky,E_j1eFy0zp4,-0.024999999999999994,2015-04-24 21:06:40,True,True
+2015-04-24T21:11:16,Why?! Why do they keep allowing this man to make movies?! WHY!?,6,0,Gentlemanly Gent,E_j1eFy0zp4,0.0,2015-04-24 21:11:16,True,True
+2015-04-24T21:16:38,"Best scene at the end when little brother is just casually filming when his grandma is pushing his sister into the oven... And when I think about it, it would not surprised me if I would hear about something like this on the news, society is so messed up...",0,0,Koro,E_j1eFy0zp4,0.06562499999999998,2015-04-24 21:16:38,True,True
+2015-04-24T21:35:13,This is crazy. I watched the domestic (official) trailer and I had no interest in seeing the film. Seen this international trailer and the films suddenly seems good now. I am so confused.,0,0,kerfies,E_j1eFy0zp4,-0.05000000000000001,2015-04-24 21:35:13,True,True
+2015-04-24T21:40:56,I think I'll go watch this when I need a good laugh,0,0,Kaitlyn Ervin,E_j1eFy0zp4,0.5,2015-04-24 21:40:56,True,True
+2015-04-24T21:47:53,OH MY GOD this actually looks like a good one from M Night. Hope they don't over kill it with more trailers and a crappy plot twist he pulls in every movie. ,0,0,Jason,E_j1eFy0zp4,0.39999999999999997,2015-04-24 21:47:53,True,True
+2015-04-24T21:51:49,"What the hell is with all of this Shyamalan hate always. Signs, The 6th Sense, Unbreakable, The Village, Lady in the Water, these were all incredible f*cking movies.",87,54,RetroDeath,E_j1eFy0zp4,-0.16666666666666666,2015-04-24 21:51:49,True,True
+2015-04-24T22:01:52,"I'm confused, is this a found-footage movie? At least there aren't jump-scares (in the trailer at least.) And if you can't take it seriously, just watch it as a comedy and it'll be much better.",0,0,ECKohns,E_j1eFy0zp4,-0.16666666666666666,2015-04-24 22:01:52,True,True
+2015-04-24T22:10:51,Fool me once...,0,0,bbcasting,E_j1eFy0zp4,0.0,2015-04-24 22:10:51,True,True
+2015-04-24T22:15:44,Disappointing. Was hoping he would come up with something different like 'Devil' movie. ,0,0,R R,E_j1eFy0zp4,-0.3,2015-04-24 22:15:44,True,True
+2015-04-24T22:20:47,"IMDB lists this as a comedy/horror movie. I'm still betting the twist is that the old couple aren't really the grandparents and that they killed the real ones.  If you notice in the previous trailer and this one the mother never physically interacts with her mother and father (the grandparents). She sends her kids on a train by themselves to them and every time they kids and her talk on the laptop the webcam is covered up on the kids side. Though with the chat, ""I knew we were going to have this call."" from the mother, she may be ""in on it.""",2,1,Lady Deadpool 💋,E_j1eFy0zp4,0.02222222222222223,2015-04-24 22:20:47,True,True
+2015-04-24T22:28:12,Is that a creepy version of Hansel and Gretel...?,0,0,001VI,E_j1eFy0zp4,-0.5,2015-04-24 22:28:12,True,True
+2015-04-24T22:33:19,They better pay me for watching this trailer.,0,0,blackbrixeli,E_j1eFy0zp4,0.5,2015-04-24 22:33:19,True,True
+2015-04-24T22:47:30,That was weird. Cool but weird. ,0,0,HayleeTheComet,E_j1eFy0zp4,-0.21666666666666667,2015-04-24 22:47:30,True,True
+2015-04-24T22:58:36,I have vowed to never ever in my life watch another M. Night Shyamalan...,0,0,MrGuyOhh,E_j1eFy0zp4,0.0,2015-04-24 22:58:36,True,True
+2015-04-24T23:00:30,"As expected, trailer gave away too much.",0,0,D E,E_j1eFy0zp4,0.05,2015-04-24 23:00:30,True,True
+2015-04-24T23:12:46,"Meh, he's had several misses but he started off strong, so really hoping he can get back on track. Go low budget and focus more on the story, this certainly has his vibe on it, hope it's good, it has to be, otherwise he's really done in hollywood.",1,0,nelson kaboots,E_j1eFy0zp4,0.24973544973544973,2015-04-24 23:12:46,True,True
+2015-04-24T23:15:43,This is animated!!! Interesting! ,0,0,joelercoaster,E_j1eFy0zp4,0.625,2015-04-24 23:15:43,True,True
+2015-04-24T23:22:41,Wait so this isn't cgi? Why do I 100% fee like this movie is animated..!?!? Anyone else? ,0,0,joelercoaster,E_j1eFy0zp4,0.0,2015-04-24 23:22:41,True,True
+2015-04-24T23:26:58,I bet this will be funnier than after earth. Best comedy by M Night,0,0,Moonloft,E_j1eFy0zp4,1.0,2015-04-24 23:26:58,True,True
+2015-04-24T23:31:41,"""Would you mind getting inside the oven to clean it?"" clasical M Night",0,0,Moonloft,E_j1eFy0zp4,0.3666666666666667,2015-04-24 23:31:41,True,True
+2015-04-24T23:42:09,I still like the sixth sense ,0,0,Diego Hernandez,E_j1eFy0zp4,0.0,2015-04-24 23:42:09,True,True
+2015-04-25T00:09:44,"plot twist! the old lady and the old man are the same person, and the oven is played by Bruce Willis.",466,19,JMJ -K,E_j1eFy0zp4,0.06666666666666667,2015-04-25 00:09:44,True,True
+2015-04-25T00:14:40,OMG THIS LOOK HILARIOUS,0,0,Reissecup YTP,E_j1eFy0zp4,0.5,2015-04-25 00:14:40,True,True
+2015-04-25T00:22:15,After he ruined avatar I don't want to see any of his movie anymore.,0,0,Jordan,E_j1eFy0zp4,0.0,2015-04-25 00:22:15,True,True
+2015-04-25T00:35:36,I know I know he sucks. I know twist. I know avatar. I know water. I know its just another paranormal but I like the trailer.,0,0,Bryan A,E_j1eFy0zp4,-0.3,2015-04-25 00:35:36,True,True
+2015-04-25T00:48:40,The kid is just standing there watching his sister getting pulled into an oven.,567,41,ZaxBaka,E_j1eFy0zp4,0.0,2015-04-25 00:48:40,True,True
+2015-04-25T00:55:07,"0:47 I get why Shyamalan still uses The Sixth Sense to get some cred, but why did he use The Village here? By all accounts it sucked. Why not Unbreakable? That one was actually pretty good",0,1,najhoant,E_j1eFy0zp4,0.475,2015-04-25 00:55:07,True,True
+2015-04-25T01:30:18,I'm so ready for the twist in this..I just hope it's not because they didn't finish their meal. Nana is not happy. I see horny dead old people,0,0,silent3668,E_j1eFy0zp4,-0.07500000000000001,2015-04-25 01:30:18,True,True
+2015-04-25T01:36:15,"i am afraid to watch this, not because is horror but because M. Night Shyamalan made it. hope this is his big break",0,0,Miguel Jackson,E_j1eFy0zp4,-0.3,2015-04-25 01:36:15,True,True
+2015-04-25T01:42:30,This is hilarious,0,0,Calosaurus,E_j1eFy0zp4,0.5,2015-04-25 01:42:30,True,True
+2015-04-25T01:54:49,Who keeps giving this guy money to make movies?  Viewers should have the Pearl Harbor mentality when considering watching an M. Night film:  Never Again,0,0,Fernando L,E_j1eFy0zp4,0.0,2015-04-25 01:54:49,True,True
+2015-04-25T01:57:20,"Watching this gave chills😖😍🙌 love the trailer,... Hope the movie is better",0,0,Blood Child,E_j1eFy0zp4,0.5,2015-04-25 01:57:20,True,True
+2015-04-25T02:08:51,"let me guess, the plot twist is that the grandparents are aang and katara trying to get revenge for ruining the a:tla movie",1,0,raiya,E_j1eFy0zp4,0.0,2015-04-25 02:08:51,True,True
+2015-04-25T02:09:04,You know they've ran out of horror movie ideas when they use evil saggy grandparents. I mean you can literally fly with those arms flabs....,0,0,Wonderation,E_j1eFy0zp4,-0.1708333333333333,2015-04-25 02:09:04,True,True
+2015-04-25T02:14:52,song name please :(,1,2,Ivan Aristeo Williamson,E_j1eFy0zp4,-0.75,2015-04-25 02:14:52,True,True
+2015-04-25T02:59:07,*M. Night Shyamalan*: Hey let's go to the mall. *Me*: Aren't you busy making another shitty movie.,1,0,Cyberdemon,E_j1eFy0zp4,0.1,2015-04-25 02:59:07,True,True
+2015-04-25T03:00:52,"Reality is creepier than any fiction film. Check out: ""allies of humanity"" in a search for a REAL creepfest-",0,0,justoldog,E_j1eFy0zp4,0.2,2015-04-25 03:00:52,True,True
+2015-04-25T03:02:44,For fucksake another found footage movie,0,0,imnotebenmad,E_j1eFy0zp4,0.0,2015-04-25 03:02:44,True,True
+2015-04-25T03:09:30,idk what it is about found footage films but i like them,0,0,jeremy ward,E_j1eFy0zp4,0.0,2015-04-25 03:09:30,True,True
+2015-04-25T03:13:30,It's labelled as a comedy and horror on IMDB,5,0,Johnny,E_j1eFy0zp4,0.0,2015-04-25 03:13:30,True,True
+2015-04-25T03:30:05,Is this meant to be an Aussie family? Aussie child actors...,0,0,legit_khajiit,E_j1eFy0zp4,0.0,2015-04-25 03:30:05,True,True
+2015-04-25T03:49:35,"Okay... It wasn't that bad, really... until the end.  I'm going into this expecting a comedy.",0,0,eeltap,E_j1eFy0zp4,5.551115123125783e-17,2015-04-25 03:49:35,True,True
+2015-04-25T03:58:11,Lets hope this is his comeback. Wonder what the twist will be.,0,0,lexmax08,E_j1eFy0zp4,0.0,2015-04-25 03:58:11,True,True
+2015-04-25T04:08:01,"Damn producers of insidious produce everything! Ok, we know insidious was good but it's not that prestigious lol",0,0,Bigtim850,E_j1eFy0zp4,0.6666666666666666,2015-04-25 04:08:01,True,True
+2015-04-25T04:29:40,here's the twist. this movie is.............another found footage movie!!!!!,0,0,Absolute Justice,E_j1eFy0zp4,0.0,2015-04-25 04:29:40,True,True
+2015-04-25T04:38:35,This movie will be a classic like six sense,0,0,Rodnell,E_j1eFy0zp4,0.16666666666666666,2015-04-25 04:38:35,True,True
+2015-04-25T04:58:40,Shyamalan isn't my only concern...we also have the kooky kid from Alexander and the Really Long Title Day film in this. Yikes.,0,0,David Martyn Johansson,E_j1eFy0zp4,-0.025,2015-04-25 04:58:40,True,True
+2015-04-25T05:06:57,I'm pretty sure its the plants.,0,0,Wrekage18,E_j1eFy0zp4,0.375,2015-04-25 05:06:57,True,True
+2015-04-25T06:26:18,"Omgomgomg can't wait to see his latest trainwreck. Some of the best comedy in the industry XD  Srsly though, pretty meh. Ooooooo old people acting weird, scared stiff now guys.",0,0,yanipheonu,E_j1eFy0zp4,0.1622448979591837,2015-04-25 06:26:18,True,True
+2015-04-25T06:50:02,mnight all you can do is hope for a good ending. LOL,0,0,Rowan W,E_j1eFy0zp4,0.75,2015-04-25 06:50:02,True,True
+2015-04-25T06:58:14,M. Night Shyamalan i dont know about that,0,0,Xxxheroexx777,E_j1eFy0zp4,0.0,2015-04-25 06:58:14,True,True
+2015-04-25T07:04:41,More found footage bullshit,0,0,Shawn Hunter,E_j1eFy0zp4,0.5,2015-04-25 07:04:41,True,True
+2015-04-25T08:25:35,Plot twist! Grandma is Actually Bruce willis trying to hide her powers.,0,0,Memoon Khan,E_j1eFy0zp4,0.0,2015-04-25 08:25:35,True,True
+2015-04-25T08:43:18,YES ! my kind of movie,0,0,Thanawat Sidthidtham,E_j1eFy0zp4,0.6,2015-04-25 08:43:18,True,True
+2015-04-25T08:53:46,"Please dont mess it up m night, i want it to be good",0,0,Ethan Guest,E_j1eFy0zp4,0.26249999999999996,2015-04-25 08:53:46,True,True
+2015-04-25T09:22:51,Spoiler: the Devil was dead all the time because of water.,1,0,Михаил Кшиштовский,E_j1eFy0zp4,-0.2,2015-04-25 09:22:51,True,True
+2015-04-25T09:44:13,this is the only horror movie that im expecting to be good,0,0,Notis Kal,E_j1eFy0zp4,0.35,2015-04-25 09:44:13,True,True
+2015-04-25T09:58:05,just the fact that it's a M. Night Shyamalan movie makes it alot scarier,0,0,briskeg,E_j1eFy0zp4,0.0,2015-04-25 09:58:05,True,True
+2015-04-25T10:14:20,Song please?,0,2,Sakura,E_j1eFy0zp4,0.0,2015-04-25 10:14:20,True,True
+2015-04-25T10:52:26,omg this looks hilarious,0,0,Rourke Productions,E_j1eFy0zp4,0.5,2015-04-25 10:52:26,True,True
+2015-04-25T12:43:07,"""I'm just cleaning it.""   heh",0,0,Andy G,E_j1eFy0zp4,0.0,2015-04-25 12:43:07,True,True
+2015-04-25T12:50:31,"imagine this,happening to you if you were still a child",0,0,Christopher.T,E_j1eFy0zp4,0.0,2015-04-25 12:50:31,True,True
+2015-04-25T12:50:32,"Ok, the new meme, old people are terrifying and monsters.",0,0,Khannea,E_j1eFy0zp4,-0.06590909090909092,2015-04-25 12:50:32,True,True
+2015-04-25T13:16:23,People might not realise this but it look like a modernized verison of Hansel and Gretel,0,0,Jin Kazama,E_j1eFy0zp4,0.0,2015-04-25 13:16:23,True,True
+2015-04-25T14:13:11,1:39 oh look the out of focus jump scare monster.,0,0,ig33ku,E_j1eFy0zp4,0.0,2015-04-25 14:13:11,True,True
+2015-04-25T14:21:20,Bill Withers - Grandma's Hands .- its the name of the song at the beginning,0,0,Ignacio Pinto,E_j1eFy0zp4,0.0,2015-04-25 14:21:20,True,True
+2015-04-25T14:37:05,It just looks like M. Night sat down in front of a computer and thought about scary moments he can put in a trailer and did so. There are horror cliches you accept and there are ones you simply can't and this is the latter. ,0,0,RWM,E_j1eFy0zp4,-0.1638888888888889,2015-04-25 14:37:05,True,True
+2015-04-25T15:25:32,Is this real?,0,0,gloria hernandez,E_j1eFy0zp4,0.2,2015-04-25 15:25:32,True,True
+2015-04-25T16:00:31,"clearly the grandma is a nymphomaniac and granddad has issues down there, so he's making all these sex toys in the shed for grandma's insatiable lust. meanwhile grandma wants the kids dead because they keep on sneaking around the house at night disturbing their sexy times",0,0,jigglymabob,E_j1eFy0zp4,-0.009259259259259264,2015-04-25 16:00:31,True,True
+2015-04-25T16:04:52,"Died laughing when the old man said ""I'm just cleaning it""",1,0,RJ C,E_j1eFy0zp4,0.1,2015-04-25 16:04:52,True,True
+2015-04-25T17:11:29,i also remember the happening trailer looking good,0,0,jbh16,E_j1eFy0zp4,0.7,2015-04-25 17:11:29,True,True
+2015-04-25T19:05:19,always white people in horror movie,1,0,Meh .Evver,E_j1eFy0zp4,0.0,2015-04-25 19:05:19,True,True
+2015-04-25T20:03:03,Some directors need good producers. It looks like he's got one this time.,0,0,Vera Evans,E_j1eFy0zp4,0.7,2015-04-25 20:03:03,True,True
+2015-04-25T20:05:37,"oh my god, when does this come out?",0,0,woahbrinley,E_j1eFy0zp4,0.0,2015-04-25 20:05:37,True,True
+2015-04-25T20:27:27,Didn't he make After Earth? Ew definitely not seeing that shit.,0,0,Gabriel,E_j1eFy0zp4,-0.1,2015-04-25 20:27:27,True,True
+2015-04-25T20:59:04,"""Would you mind getting inside the oven to clean it"" yea sure no problem XD XD ",1,0,Zenith project,E_j1eFy0zp4,0.43333333333333335,2015-04-25 20:59:04,True,True
+2015-04-25T21:08:41,ahahah)),0,0,KROPAMAN,E_j1eFy0zp4,0.0,2015-04-25 21:08:41,True,True
+2015-04-25T23:12:12,Song at 0:08?,0,0,Chris Molin,E_j1eFy0zp4,0.0,2015-04-25 23:12:12,True,True
+2015-04-25T23:18:47,M. Night Shyamalan shitty Plot Twist: Their mom acts weird at the end too.,0,0,Locbui1989,E_j1eFy0zp4,-0.5,2015-04-25 23:18:47,True,True
+2015-04-26T00:15:28,It sounds a lot like hansel and gretel...,0,0,Kate Lyons,E_j1eFy0zp4,0.0,2015-04-26 00:15:28,True,True
+2015-04-26T00:30:11,"Plays trailer Noticed ""Director M. Night Shyamalan"" Stoped trailer Closed firefox Burn Computer",1,0,Breedon,E_j1eFy0zp4,-0.1,2015-04-26 00:30:11,True,True
+2015-04-26T02:28:17,"This guy has put out 6 dog shit movies in a row(Signs was horrible sorry), unless he funded this himself, I can see who in their right mind would give him money to make a movie at this point.",0,0,Young Blood,E_j1eFy0zp4,-0.35357142857142854,2015-04-26 02:28:17,True,True
+2015-04-26T04:07:35,Ahhhh naked nude old lady alert ,1,0,Sasaki TM,E_j1eFy0zp4,0.05,2015-04-26 04:07:35,True,True
+2015-04-26T04:30:57,M Night Shayamalan. Yeh im out,1,0,Liamv4696,E_j1eFy0zp4,0.0,2015-04-26 04:30:57,True,True
+2015-04-26T07:57:14,"Looks good, is M. Knight making comeback?",0,0,Compton Eskimo,E_j1eFy0zp4,0.7,2015-04-26 07:57:14,True,True
+2015-04-26T13:28:45,after the Avatar last air bender movie from him...i cant expect anything more,0,0,Yogesh Dubey,E_j1eFy0zp4,0.25,2015-04-26 13:28:45,True,True
+2015-04-26T14:45:04,"This trailer actually looks good, at the beginning i thought this movie would be shit, but the trailer makes me want to watch the movie now, im totally gonna watch thos movie when it comes out",0,0,Clement Field,E_j1eFy0zp4,0.12499999999999999,2015-04-26 14:45:04,True,True
+2015-04-26T14:47:27,"""Would you mind getting inside the oven to clean it?"" That is some awkward dialogue.",0,0,Matt S,E_j1eFy0zp4,-0.11666666666666664,2015-04-26 14:47:27,True,True
+2015-04-26T15:13:51,m.knight movies promise and never deliver,0,0,Bunglezip2,E_j1eFy0zp4,0.0,2015-04-26 15:13:51,True,True
+2015-04-26T16:00:14,"I guarantee this, the mum is always seeing the two children playing pranks and jokes on each overs and trying to scare eatchover, hence the girl scaring him inside the wardrobe or whatever at the start, the mum tells the grandparents to offer them to stay with them for a week and make it scary for them, ",0,0,Vope Clan,E_j1eFy0zp4,-0.5,2015-04-26 16:00:14,True,True
+2015-04-26T16:06:34,Another Shyamalan piece of crap?,0,0,InformantNet,E_j1eFy0zp4,-0.8,2015-04-26 16:06:34,True,True
+2015-04-26T17:14:54,And The M. Night Comeback Begins ,1,0,O.G. Productions,E_j1eFy0zp4,0.0,2015-04-26 17:14:54,True,True
+2015-04-26T17:31:54,"Dear God, no. Not *another* one.",0,0,Jack Calvert,E_j1eFy0zp4,0.0,2015-04-26 17:31:54,True,True
+2015-04-26T17:53:48,This movie looks crazy!!,0,0,jodarling peguero,E_j1eFy0zp4,-0.9375,2015-04-26 17:53:48,True,True
+2015-04-26T19:03:20,Hahaha! Oh M.Night.,0,0,Adonis,E_j1eFy0zp4,0.25,2015-04-26 19:03:20,True,True
+2015-04-26T19:18:31,Omg ,0,0,Gema Castro,E_j1eFy0zp4,0.0,2015-04-26 19:18:31,True,True
+2015-04-26T20:22:05,"He's putting his name on this movie, so he must have some faith in it.",0,0,Seventy Eight,E_j1eFy0zp4,0.0,2015-04-26 20:22:05,True,True
+2015-04-26T20:49:08,"wow, must see. would you mind getting in the oven to clean it.",1,0,Pyre Blaze,E_j1eFy0zp4,0.23333333333333334,2015-04-26 20:49:08,True,True
+2015-04-26T21:05:58,This looks like something I could take my daughter in law to hehehe,0,0,Missy Gallagher,E_j1eFy0zp4,0.0,2015-04-26 21:05:58,True,True
+2015-04-26T21:15:07,Of all the preview I've had to watch on the way to the grandparents house and I found this shit. Epic...,0,0,RJ,E_j1eFy0zp4,-0.05,2015-04-26 21:15:07,True,True
+2015-04-26T21:31:04,The twist: remember the Leonardo DiCaprio movie 'Shutter Island'? It's like that but with a spooky/horror aspect. The grandparents are fine. It's the kids who are cuckoo. ,0,0,Kayaking Dachshund,E_j1eFy0zp4,0.4166666666666667,2015-04-26 21:31:04,True,True
+2015-04-26T21:34:04,"Shyamalan is at his best with smaller budgets.  His movies got worse the more expensive they got.  We all saw how horrible Air Bender and After Earth were.  When a director is forced to scare the audience with things unseen, that is when they're most successful.  Signs was genius.",0,0,Bobby Rebholz,E_j1eFy0zp4,0.061111111111111116,2015-04-26 21:34:04,True,True
+2015-04-26T22:41:44,This isnt a horror movie just a white family on crack and meth case closed,1,0,Daddy,E_j1eFy0zp4,-0.05,2015-04-26 22:41:44,True,True
+2015-04-26T23:58:35,"I don't know, it seems interesting but I'm not sure I'll go to see it. At least, not in theaters anyway!",0,0,Corey Pack,E_j1eFy0zp4,-0.041666666666666664,2015-04-26 23:58:35,True,True
+2015-04-27T00:28:45,Another horror movie that'll make me laugh.,0,0,No,E_j1eFy0zp4,0.3,2015-04-27 00:28:45,True,True
+2015-04-27T02:45:51,Another shit stain on M. Night's list.,0,0,Abel Villa,E_j1eFy0zp4,-0.2,2015-04-27 02:45:51,True,True
+2015-04-27T02:56:34,Looks like another shite movie ,0,0,tito tito,E_j1eFy0zp4,0.0,2015-04-27 02:56:34,True,True
+2015-04-27T03:03:28,"The twist ending is that the 'grandparents' are actually pagan gods that the children's mother sacrifices her children to every twenty/thirty years or so in exchange for youth. Using her new youth, the mother then goes out and gets herself a new man in order to have more kids, so that the cycle can start again. You will see this in paintings, photographic evidence, and other found footage that the children will find in the 'grandparents' house... showing that the mother and 'grandparents' have been alive for years and years, and that other children have been sacrificed before them.  The movie will end with the mother dumping all the kids electronics onto the pile with the other evidence of her past lives and children, then waltzing out a younger women. ... the only question is, will the mother and 'grandparents' be enough ""with the times"" to know that content posted over the internet isn't so easily disposed of? Will they finally be caught, or will the children's sacrifice, and the youth it gives them, have altered ALL of their appearances enough that they can claim that they aren't the old couple and mother shown in the videos? We will see....  P.S. I just made all this up, but it's my official head-cannon until the movie comes out. XD",0,0,onichat,E_j1eFy0zp4,0.048816287878787876,2015-04-27 03:03:28,True,True
+2015-04-27T03:21:31,Wow these haters.,0,0,Jerbear,E_j1eFy0zp4,0.1,2015-04-27 03:21:31,True,True
+2015-04-27T03:35:14,YESSS! ITS BEEN A WHILE SINCE THEIRS BEEN A DECENT COMEDY!,0,0,Mr. Távlati,E_j1eFy0zp4,0.20833333333333331,2015-04-27 03:35:14,True,True
+2015-04-27T03:37:13,Plot Twist: Shyamalan just recorded his Grandparents.,0,0,Mr. Távlati,E_j1eFy0zp4,0.0,2015-04-27 03:37:13,True,True
+2015-04-27T03:47:34,I best you there'll be a huge disappointing plot twist at the end ,0,0,Chewy V,E_j1eFy0zp4,0.2666666666666667,2015-04-27 03:47:34,True,True
+2015-04-27T05:53:41,What i'ts the song ? pls,0,0,David Varas,E_j1eFy0zp4,0.0,2015-04-27 05:53:41,True,True
+2015-04-27T06:53:48,M. Night Shyamalan makes the best animes!,0,0,El Nieto PR,E_j1eFy0zp4,1.0,2015-04-27 06:53:48,True,True
+2015-04-27T08:45:07,What's the song please ,0,0,Giorgio Emporio,E_j1eFy0zp4,0.0,2015-04-27 08:45:07,True,True
+2015-04-27T09:24:10,Plot summary :The Witch from Hansel and Gretel is reincarnated as Nana. Two grandkids are sent to their grandparents home during the summer holidays only to find a deep dark secret untold for many centuries. Now they must piece together the clues for their grandparents somewhat rather disillusioned behavior. They must pay the ultimate sacrifice to keep their families secret a secret.,0,0,Lonewolf777able,E_j1eFy0zp4,-0.10625000000000001,2015-04-27 09:24:10,True,True
+2015-04-27T11:46:06,"The Cameraman should assist, He sees all the right things at the right moment.",0,0,A. Ajay S,E_j1eFy0zp4,0.2857142857142857,2015-04-27 11:46:06,True,True
+2015-04-27T13:11:33,"Why didn't they include the last Airbender in the ""Writer and Director of"" part?? That movie has haunted all who have witnessed it and also his career for years.",0,0,Mr4433,E_j1eFy0zp4,0.0,2015-04-27 13:11:33,True,True
+2015-04-27T15:32:07,"0 = Number of people posting their hate for M. Night that have actually made a movie themselves. Like his movies, or not, at least he's putting in the work. Even horrible movies are a pain in the ass to get made. A better use of your time would be going to see Fast & Furious 7 for the fifth time to see Paul Walker's ghost giving Vin Diesel road-head right before the credits roll.",0,0,Baron Marx,E_j1eFy0zp4,-0.15918367346938775,2015-04-27 15:32:07,True,True
+2015-04-27T15:59:22,song name? check my channel :),0,0,Adrian Zashecky,E_j1eFy0zp4,0.5,2015-04-27 15:59:22,True,True
+2015-04-27T16:01:20,Leave it to M Night Shyamalan to make fun of Alzheimer's sufferers.,0,0,Kevin Alan,E_j1eFy0zp4,0.3,2015-04-27 16:01:20,True,True
+2015-04-27T16:11:19,The song is Grandma's Hands- Bill Withers,0,0,MrPent9295,E_j1eFy0zp4,0.0,2015-04-27 16:11:19,True,True
+2015-04-27T18:16:07,"I stopped watching after ""M. Night Shyamalan""",0,0,Cody,E_j1eFy0zp4,0.0,2015-04-27 18:16:07,True,True
+2015-04-27T18:36:09,"Wow its like paranormal or pretty much like EVERY SINGLE 'FOUND' FOOTAGE movie before, is there anything remotely creative in this? This movie is going to hurt people's intellect more then an episode of spongebob squarepants.The  'I'm just cleaning it' scene was just bloody stupid, I am not putting money to a ticket for farce.  Then again I suppose he is reduced to doing B-movie cash in after his string of film failures to the point that his name wasn't on 'After Earth' till the very last minute.",0,0,World Of Thought,E_j1eFy0zp4,-0.05214285714285714,2015-04-27 18:36:09,True,True
+2015-04-27T18:58:58,"It looks okay, but we have all been here before with Shymalan. We think, ""Okay this is the film to get him back into the thick of great filmmaking."" Each time we have been let down. We shall see.",1,0,Gaming Movie Slackers,E_j1eFy0zp4,0.22407407407407406,2015-04-27 18:58:58,True,True
+2015-04-27T19:29:47,"I love how a lot of his recent movies don't say his name outright. But seriously...""director/producer of signs, the village, 6th sense, etc..."" hahaha. ",0,0,ThePancoon,E_j1eFy0zp4,0.09166666666666667,2015-04-27 19:29:47,True,True
+2015-04-27T19:52:40,i dunno whyi find this funny hahahaha,0,0,Mayar nh,E_j1eFy0zp4,0.225,2015-04-27 19:52:40,True,True
+2015-04-27T20:03:03,Finally M. Night Shyamalan  doesn't screw up for once!,0,4,box of popeyes,E_j1eFy0zp4,0.0,2015-04-27 20:03:03,True,True
+2015-04-27T20:27:24,"shymalanadingdong is a master of deadpan comedy horror, watch ""the happening"" again as a comedy and you'll see the genius of that movie",0,0,Ryu BLADE,E_j1eFy0zp4,-0.55,2015-04-27 20:27:24,True,True
+2015-04-27T23:39:02,jaden and will are stuck in the shed along with their careers.,1,0,B.D. Sharples,E_j1eFy0zp4,0.0,2015-04-27 23:39:02,True,True
+2015-04-28T00:13:08,After Lady in the pool drain!,0,0,L,E_j1eFy0zp4,0.0,2015-04-28 00:13:08,True,True
+2015-04-28T02:26:39,Looks like The Happening meets The Village meets American Gothic; grannys' fucked up no matter how you slice it.,0,0,Blue Louie,E_j1eFy0zp4,-0.3,2015-04-28 02:26:39,True,True
+2015-04-28T03:44:05,Scratching wall in the middle of the night is just acting weird? God. Kids these days. ,0,0,Elbert Reyner,E_j1eFy0zp4,-0.16666666666666666,2015-04-28 03:44:05,True,True
+2015-04-28T08:11:15,My hope Plot Twist is Grandparents are Cannibals Witchs eaten Kids for dinner regain their Young Age,0,0,Dimitri Theodosakis,E_j1eFy0zp4,0.1,2015-04-28 08:11:15,True,True
+2015-04-28T13:07:21,"Shyamalan has directed three movies with twist endings in 23 years of filmmaking (the last one released 11 years ago), but apparently is still the ""twist ending guy."" Weird! YouTube commentators showing themselves up to be ill-informed band-wagon jumpers once again. Now insert standard racist gag about how funny the name Shyamalan is.",0,0,astralweeks88,E_j1eFy0zp4,-0.06499999999999999,2015-04-28 13:07:21,True,True
+2015-04-28T14:05:45,"[insert intelligent  plot twist joke here] [insert a comment insulting  M. Night Shyamalan here]  You are obligated to follow the instructions, otherwise you won't seem cool and fashionable and  won't get any thumbs.",0,0,ATo1,E_j1eFy0zp4,0.05000000000000001,2015-04-28 14:05:45,True,True
+2015-04-28T14:15:00,Let's bake a cake XD,0,0,wolfie black,E_j1eFy0zp4,0.0,2015-04-28 14:15:00,True,True
+2015-04-28T17:22:33,hansel and gretel on vacation with same shit,0,0,21shaqman,E_j1eFy0zp4,-0.1,2015-04-28 17:22:33,True,True
+2015-04-28T17:35:08,grimm brothers hansel and gretel,0,0,N810garcia,E_j1eFy0zp4,0.0,2015-04-28 17:35:08,True,True
+2015-04-28T20:48:22,"So M. Night failed to scare adults for the last 10 years, so now he's resorted to scaring kids",0,0,Jane,E_j1eFy0zp4,-0.25,2015-04-28 20:48:22,True,True
+2015-04-28T22:45:13,Name of the Song that starts around 0:09 please!!!! :),0,0,Vincent Bender,E_j1eFy0zp4,0.5,2015-04-28 22:45:13,True,True
+2015-04-29T00:36:46,This movie looks so funny I don't get scared Easley ,0,0,Chloe eagle,E_j1eFy0zp4,0.25,2015-04-29 00:36:46,True,True
+2015-04-29T01:59:27,As the last M. Night fan alive.. I'm worried for this one. Found footage? paranormal activity style? Full blown horror? Nah his wheelhouse is thrillers and he should get back to them.,0,0,SuperWolfkin,E_j1eFy0zp4,0.11249999999999999,2015-04-29 01:59:27,True,True
+2015-04-29T18:48:50,got my attention and interest.,0,0,Keneth Wilkins,E_j1eFy0zp4,0.0,2015-04-29 18:48:50,True,True
+2015-04-30T01:29:30,Is it me or did M Night Shamalan just make a trailer that looked promising and had a decent concept...?,1,1,Patrick Blake,E_j1eFy0zp4,0.18333333333333335,2015-04-30 01:29:30,True,True
+2015-04-30T01:55:12,"Kind of reminds me of The Taking of Deborah Logan, which is on Netflix. Sweet old woman turning into a monster after dark -- new genre?",0,0,Wackson Jittemore,E_j1eFy0zp4,0.20727272727272728,2015-04-30 01:55:12,True,True
+2015-04-30T02:30:39,"This is listed as a ""comedy"". How?.//",0,0,Edbrad,E_j1eFy0zp4,0.0,2015-04-30 02:30:39,True,True
+2015-04-30T03:38:56,"Shyamalan should really consider making porn movies. That way when they say ""It sucked!"", it would be a good thing. ",0,0,Steven75pr,E_j1eFy0zp4,0.475,2015-04-30 03:38:56,True,True
+2015-04-30T03:48:15,The plot twist is that there is no plot twist since M. Night Shyamalan expects you to think there is a plot twist...,2,0,LabbyShepherd Puppy,E_j1eFy0zp4,0.0,2015-04-30 03:48:15,True,True
+2015-04-30T07:48:30,Hope this is a comeback for m night. Used to watch the six sense with dad a lot when i was a kid. Scared shitless everytime.,0,0,TheBigGuitar,E_j1eFy0zp4,0.0,2015-04-30 07:48:30,True,True
+2015-04-30T17:58:26,this looks craptastic,0,0,unkomannn,E_j1eFy0zp4,0.0,2015-04-30 17:58:26,True,True
+2015-04-30T21:31:27,Is this movie appropriate for a me I'm a 12 year old girl btw but I watched the ring and didn't get scared ,0,0,Saige Bergstrom,E_j1eFy0zp4,0.3,2015-04-30 21:31:27,True,True
+2015-04-30T21:38:57,This is the funniest trailers I've seen this year. ,0,0,ZomBettie,E_j1eFy0zp4,0.0,2015-04-30 21:38:57,True,True
+2015-05-01T00:32:04,O crap that looks creepy,0,0,marshall’s fun times,E_j1eFy0zp4,-0.65,2015-05-01 00:32:04,True,True
+2015-05-01T03:46:27,plot twist the plants did it,0,0,Chris K,E_j1eFy0zp4,0.0,2015-05-01 03:46:27,True,True
+2015-05-01T07:25:22,aaaaa kill it with fire!,0,0,random name,E_j1eFy0zp4,0.0,2015-05-01 07:25:22,True,True
+2015-05-01T12:00:21,"couldn't stop laughing my ass off through the entire trailer. i mean, i know this is supposed to be a horror comedy, but even the ""horror"" aspects had me dying! Shyamalan, just stop. please, just stop making movies!",0,0,Timber Humphrey,E_j1eFy0zp4,-0.244140625,2015-05-01 12:00:21,True,True
+2015-05-01T12:21:28,Tha scene with tha shotgun reminds me of a mother coming n2 her son's room catching him jacking off lmfao ,0,0,algerae1984,E_j1eFy0zp4,0.6,2015-05-01 12:21:28,True,True
+2015-05-01T13:23:42,"There are two ways to look at this movie: 1.A low-budget horror movie, in a tired and lame found-footage genre, produced by genre hacks behind Paranormal Activity, by a director behind some of the most notorious big budget flops in the past decade. 2.A return to indie small-scale filmmaking by a renowned and once-successful auteur-director, who burst on to the scene with a small-scale horror movie just like this one which became a phenomenon.",0,2,Simon Thomas,E_j1eFy0zp4,-0.18125000000000002,2015-05-01 13:23:42,True,True
+2015-05-01T13:24:53,M Night should direct every movie in a Goosebumps Cinematic Universe! All his movies seem ripped from R.L.Stine's mind.,0,0,Simon Thomas,E_j1eFy0zp4,0.05,2015-05-01 13:24:53,True,True
+2015-05-01T15:55:38,i love the part when the sister shouts papa and papa just goes nope screw that,0,0,Curtis Cox,E_j1eFy0zp4,0.5,2015-05-01 15:55:38,True,True
+2015-05-01T19:08:29,"He owes me 6 hour from my life for Avatar,Lady in the Water and The happening",0,0,Nolan Wright,E_j1eFy0zp4,0.0,2015-05-01 19:08:29,True,True
+2015-05-01T23:04:50,"if you look at it as a demented meant to be offensive comedy its actually pretty fuckin funny          ""I WAS JUST CLEANING iT""",0,0,M W,E_j1eFy0zp4,0.25,2015-05-01 23:04:50,True,True
+2015-05-02T09:49:10,i see a twist coming: the grandparents were dead all the time and the mom was part of it all,0,0,Timber Humphrey,E_j1eFy0zp4,-0.2,2015-05-02 09:49:10,True,True
+2015-05-02T20:18:23,ITS THE TREES!!!,0,0,Champ,E_j1eFy0zp4,0.0,2015-05-02 20:18:23,True,True
+2015-05-02T20:32:04,"Everyone hatin, but personally I think it looks pretty cool. Good plot too!",0,0,grossgalpal,E_j1eFy0zp4,0.36875,2015-05-02 20:32:04,True,True
+2015-05-02T21:41:56,"Either the mom is in on it, or the children will end up being the actual villains somehow. It'll be one of those twists.",1,0,Big Bryan,E_j1eFy0zp4,0.0,2015-05-02 21:41:56,True,True
+2015-05-03T01:49:29,Whts,0,0,XxSkittleBurgerxX,E_j1eFy0zp4,0.0,2015-05-03 01:49:29,True,True
+2015-05-03T02:13:35,"Surprisingly looks decent, it'll probably be shit tho",0,0,Daniel Robillard,E_j1eFy0zp4,0.22222222222222218,2015-05-03 02:13:35,True,True
+2015-05-04T00:01:20,I have a very weird love for Shyamalan. He seems like a pretty nice dude that's just so oblivious to the fact that most of his movies are shit. Or maybe he's fully aware and couldn't care any less.,0,0,bthep96,E_j1eFy0zp4,0.13541666666666666,2015-05-04 00:01:20,True,True
+2015-05-04T22:46:44,100% crap like 95% of his movies.,0,0,winston smith,E_j1eFy0zp4,-0.8,2015-05-04 22:46:44,True,True
+2015-05-04T23:03:27,"what a shitty liar the old guy is. ""i was just sucking these shotgun barrels to clean them"" what!?",0,0,JMJ -K,E_j1eFy0zp4,0.2791666666666667,2015-05-04 23:03:27,True,True
+2015-05-05T17:34:36,"James Cameron directed Avatar and is the highest grossing movie of all time, just as an FYI to those who think it was directed by M. Night Shyamalan.",0,0,Sarah Bc,E_j1eFy0zp4,0.0,2015-05-05 17:34:36,True,True
+2015-05-07T20:16:02,"After this  I told my mawmaw if she acted this weird it would be... A ""GOODBYE""!",0,0,cool but wish,E_j1eFy0zp4,-0.625,2015-05-07 20:16:02,True,True
+2015-05-08T04:46:08,All I thought of is hansel and gretel story idk y,0,0,Ernesto b,E_j1eFy0zp4,0.0,2015-05-08 04:46:08,True,True
+2015-05-08T20:39:24,Dwight Howard's favorite movie is Finding Nemo,0,0,Marco Duenas,E_j1eFy0zp4,0.5,2015-05-08 20:39:24,True,True
+2015-05-08T23:02:31,"It's actually going to be a horror comedy, look it up. Might give it a shot. Shyamalan hasn't made a good movie in years but this still looks better than the happening or airbender.",0,0,BUCHT,E_j1eFy0zp4,0.39999999999999997,2015-05-08 23:02:31,True,True
+2015-05-09T14:54:25,What if the Nana died in the well and Pop pop is trying to join her? ,0,0,Nicole Smith,E_j1eFy0zp4,0.0,2015-05-09 14:54:25,True,True
+2015-05-09T19:12:24,um no thanks sham- o- lon has not made a good movie in a long time,0,0,leos not lyon,E_j1eFy0zp4,0.08749999999999998,2015-05-09 19:12:24,True,True
+2015-05-10T06:06:56,"""would u mind getting inside the oven to clean it?"" who tf would listen to someone who asks u to get into an oven? ",0,0,nicolette,E_j1eFy0zp4,0.3666666666666667,2015-05-10 06:06:56,True,True
+2015-05-10T17:29:23,This looks like a Horror/ Comedy to me.,0,0,Son of Jesus,E_j1eFy0zp4,0.0,2015-05-10 17:29:23,True,True
+2015-05-13T03:30:30,"Its directed, written by m night shamalangadingdong so if you don't want to waste your money I recommend not seeing it.",0,0,nawab256,E_j1eFy0zp4,-0.2,2015-05-13 03:30:30,True,True
+2015-05-13T05:52:25,I don't know.....but I guess its worth a shot.,0,0,SoulReaperSango,E_j1eFy0zp4,0.3,2015-05-13 05:52:25,True,True
+2015-05-17T05:34:50,"its all in the girl's head, and she is in a coma ;)",0,0,melissa,E_j1eFy0zp4,0.075,2015-05-17 05:34:50,True,True
+2015-05-17T18:39:29,what is the name of the song?,0,0,Marcos Fabela,E_j1eFy0zp4,0.0,2015-05-17 18:39:29,True,True
+2015-05-18T08:41:43,"I'm surprised that not only is this guy still allowed to make movies in Hollywood but that his name is advertised as if that's a reason to go see it. I enjoyed his first two films too but they were a long time ago and his name is poison to a film's credibility at this stage, surely. People have been shunted into the wilderness of Hollywood for far less egregious turds than Shyamalan has been responsible for so why does he keep coming back and making awful movies? This looks like a crappy film with bad writing (I bet he wrote the script) and awkward performances. So par for the course then.",0,0,hyperdeath84,E_j1eFy0zp4,-0.06666666666666667,2015-05-18 08:41:43,True,True
+2015-05-18T21:15:57,I wonder if the people who gave this thumbs up actually have faith in this film despite knowing who's film it is or did they give it thumbs up because we know this will more than likely be mind-breakingly stupid?,0,0,Kira Lawlet,E_j1eFy0zp4,-0.07499999999999998,2015-05-18 21:15:57,True,True
+2015-05-18T22:33:34,"Grandmother is obviously nuts, still gets in the oven. I'll bet they're the aliens from Signs who brought the plants from The Happening so we can get a Shamalyan shared universe going. FUTURE OF HOLLYWOOD BABY",0,0,Chris Richey,E_j1eFy0zp4,0.0,2015-05-18 22:33:34,True,True
+2015-05-19T15:58:20,This is going to be hilarious !!!! :D,0,0,Saru,E_j1eFy0zp4,1.0,2015-05-19 15:58:20,True,True
+2015-05-19T17:11:59,At least the trailer looks good.,0,0,Devin McCreery,E_j1eFy0zp4,0.19999999999999998,2015-05-19 17:11:59,True,True
+2015-05-21T21:26:56,People! Stop giving MNS your money and he'll stop making films!,0,0,No El,E_j1eFy0zp4,0.0,2015-05-21 21:26:56,True,True
+2015-05-23T16:08:14,"I cannot wait to see this one! I liked every Shyamalan film so far, and I know this one's going to be just as good. Night's an incredible artist! ^_^ Lady in the Water is my favorite.",0,0,mazardeus,E_j1eFy0zp4,0.58,2015-05-23 16:08:14,True,True
+2015-05-24T23:38:17,seriously though this trailer reminds me of a movie called the taking of deborah logan crazy old possessed people,0,0,Frostbunbun,E_j1eFy0zp4,-0.2777777777777778,2015-05-24 23:38:17,True,True
+2015-05-25T00:52:33,What a twist..,0,0,Jerkix,E_j1eFy0zp4,0.0,2015-05-25 00:52:33,True,True
+2015-05-26T18:05:49,"Wait a second,a found footage film directed by M.Night Syamalan?  I don't know man,his last 3 films was horrible in any kind of way. (The Happening,The Last Airbender,After Earth)  Anyway...",0,0,Femin-IST,E_j1eFy0zp4,-0.1,2015-05-26 18:05:49,True,True
+2015-05-27T01:09:04,"On imdb it saz its a horror and comedy, but why comedy? ",0,0,GhostDog 25,E_j1eFy0zp4,0.0,2015-05-27 01:09:04,True,True
+2015-05-27T23:23:32,"That kid like needs to help his sister. That's like watching a person about to die of a car wreck  and just screaming ""no car! No!!!!"" ",0,0,Sidewalk Siblings,E_j1eFy0zp4,0.0,2015-05-27 23:23:32,True,True
+2015-05-28T14:54:11,I kind of want to see it but I know it's probably going to be just as bad as The Village,0,0,lilith servino,E_j1eFy0zp4,-0.04999999999999993,2015-05-28 14:54:11,True,True
+2015-05-30T11:29:34,"Plot twist, the old lady is played by Tom Cruz, who sings and dance in the credits, also, there's a teaser for the avengers.",0,0,Tommy Conners,E_j1eFy0zp4,0.1,2015-05-30 11:29:34,True,True
+2015-06-06T12:03:12,"OMG that kid is from "" the terrible horrible no good very bad day "" movie !",0,0,sa alhameli,E_j1eFy0zp4,-0.8375,2015-06-06 12:03:12,True,True
+2015-06-08T15:10:29,"So is it like in ""Oculus"" where the wife is the one that's insane, and the husband just deals with it? Or are they both like Bat-Crap crazy???",0,0,Jake Dather,E_j1eFy0zp4,-0.8,2015-06-08 15:10:29,True,True
+2015-06-08T19:33:09,"Oooh E, ooh ah ah, M. Night Shamalamadingdong . . .",0,0,Johnny James,E_j1eFy0zp4,0.0,2015-06-08 19:33:09,True,True
+2015-06-10T12:17:23,*Plot twist* the grandparents have the Sixth Sense to see what's Happening After Earth. The oven is the last Air Bender. ,2,0,MadeInVolantis,E_j1eFy0zp4,0.0,2015-06-10 12:17:23,True,True
+2015-06-10T14:28:09,"Don't worry kids, they're just old. If any other person did the shit they did, an exorcist would be called, but y'know, they're just old",0,0,Jake Dather,E_j1eFy0zp4,-0.03125,2015-06-10 14:28:09,True,True
+2015-06-12T09:36:54,"Okay, but riddle me this... Why is Pinkie Pie in the shed?",0,0,Abi Burton,E_j1eFy0zp4,0.5,2015-06-12 09:36:54,True,True
+2015-06-13T00:25:52,Plot twist!  I killed myself in the middle of the movie and I was a ghost the whole time.,9,0,Dumbsville,E_j1eFy0zp4,0.0,2015-06-13 00:25:52,True,True
+2015-06-15T03:53:23,Plot twist - the house is really their father and the grandparents are actually the boy and girl grown up with dimentia the moms been living inside of their computer since they escaped tron world that's why she can't visit,0,0,critic bot,E_j1eFy0zp4,0.1,2015-06-15 03:53:23,True,True
+2015-06-15T12:25:54,The grandparents are witches/demons/aliens and the mother gave her kids as a sacrifice,244,48,Qwerty Uiop,E_j1eFy0zp4,0.0,2015-06-15 12:25:54,True,True
+2015-06-16T19:00:28,I realize this movie is probaly going to suck because of M. Night shyamalan because he is JUST TERRIBLE as a movie director he only made 2 good movie I forgot the name of and he makes a lot of movies that don't make sense ,0,0,spagghetti n' meatballs,E_j1eFy0zp4,-0.10000000000000002,2015-06-16 19:00:28,True,True
+2015-06-16T19:03:12,It probably going to be one of those movies where everyone dies so you know it's gonna suck ,0,0,spagghetti n' meatballs,E_j1eFy0zp4,0.0,2015-06-16 19:03:12,True,True
+2015-06-17T20:10:47,"Spoilers in case no one wants to find out. Found out from someone who went to a screening to the movie.            the mom sends them off to there ""grandparents"" house as she wanted to go on a vacation with her boyfriend. the first 3 days it shows them being happy with the grandparents but one night they see their grandmother running around naked in the house and scratching the wall but they think she has a disability of some sort.The twist begins when the grandmother is cooking and she drops hot oil on the daughters laptop camera and because of that whenever they skype there mother she cant see whats happening.Then eventually she fixes it two days after and when they talk to there mother her mother is worried because of whats happening in the house.Then the son puts the laptop on the camera on the window to show what there doing and its then when they found out that theyre not the grandparents.Then the movie gets tense and the chasing scenes start and in the end the daughter goes in the basement to see two dead bodies.Its their actual grandparents. and then it ends with the two killing the grandparents and in the end the police come.  Overall the ""grandparents"" were mental patients who escaped and killed their actual ones.",70,25,Dinospikester,E_j1eFy0zp4,0.05555555555555556,2015-06-17 20:10:47,True,True
+2015-06-20T00:47:01,The moment I saw directed by m night shyamalan I was like nope..,0,0,Effin MadD,E_j1eFy0zp4,0.0,2015-06-20 00:47:01,True,True
+2015-06-24T05:13:18,Thats what happens when you insult grandmas cookies kids!,1,0,Kaz Productions,E_j1eFy0zp4,0.0,2015-06-24 05:13:18,True,True
+2015-06-25T20:09:42,The kid is watching his sister get shoved in the oven! Yep this is going to be funny.,4,0,Robert Fella,E_j1eFy0zp4,0.25,2015-06-25 20:09:42,True,True
+2015-06-26T01:26:44,Who keeps letting this man make movies!?,0,0,Sen I,E_j1eFy0zp4,0.0,2015-06-26 01:26:44,True,True
+2015-06-27T13:05:13,"M. Night. Shamalayanalabalannightvisionanalprobesalanfromtwoandahalfmenashamalianitchyrectum always does the best trailers. And idgaf if the found footage genre is old and in many cases, hated upon, it's my all time favorite genre and i can't wait to see this movie. Even if a movie sucks, i still think you learn something from it.",0,0,Mytomanen bre,E_j1eFy0zp4,0.15000000000000002,2015-06-27 13:05:13,True,True
+2015-06-27T16:55:16,"I enjoy his movies a lot! I watch Signs and the Village every time they are on TV. The hate happens a lot when someone new sets a new standard but is unable to keep it going. He started on top with no where else to go but down. His stories are amazing, the acting wonderful under his direction,. His qwerty characters are memorable as is his dialogue. Don't hate everything.",0,0,jody Higinbotham,E_j1eFy0zp4,0.08593628593628594,2015-06-27 16:55:16,True,True
+2015-06-29T05:53:35,the grand parents doesn't exist and bruce wilis is inside the well,0,0,GamesGirlsMovies,E_j1eFy0zp4,0.5,2015-06-29 05:53:35,True,True
+2015-06-29T16:12:34,"prtty sure the trailer ""is"" basically the whole movie....",0,0,Michael Thao,E_j1eFy0zp4,0.35,2015-06-29 16:12:34,True,True
+2015-07-01T15:56:35,Wtf this should be hellla scaryy cus  grandparents are always nice to others and shit this like some life time shit,0,0,Natan Corbin,E_j1eFy0zp4,-0.07500000000000001,2015-07-01 15:56:35,True,True
+2015-07-05T19:20:14,What a tweest!,0,0,Hamman Samuel,E_j1eFy0zp4,0.0,2015-07-05 19:20:14,True,True
+2015-07-05T22:11:38,engste film ooit,0,0,Andy Siku,E_j1eFy0zp4,0.0,2015-07-05 22:11:38,True,True
+2015-07-07T01:18:56,God this acting looks horrendous ,0,0,The Media,E_j1eFy0zp4,0.0,2015-07-07 01:18:56,True,True
+2015-07-09T06:43:18,I would throat punch my Nana if she tried to put me in the oven.,1,0,jalvarezrcp1971,E_j1eFy0zp4,0.0,2015-07-09 06:43:18,True,True
+2015-07-09T23:12:59,"the twist is they are depressed after giving their routing and account numbers to a nigerian prince, and are now suicidal maniacs.",0,0,John Smith,E_j1eFy0zp4,0.0,2015-07-09 23:12:59,True,True
+2015-07-09T23:18:02,This actually looks pretty good.,0,0,Soulrunners1Freerun,E_j1eFy0zp4,0.31666666666666665,2015-07-09 23:18:02,True,True
+2015-07-11T03:55:08,Wtf,0,0,Mckenzie Ellison,E_j1eFy0zp4,-0.5,2015-07-11 03:55:08,True,True
+2015-07-11T05:36:55,Hansel and Gretel?,3,0,jay hamilton,E_j1eFy0zp4,0.0,2015-07-11 05:36:55,True,True
+2015-07-12T04:16:20,Turns out the house was dead the whole time.,0,0,Sylvester Socks,E_j1eFy0zp4,0.0,2015-07-12 04:16:20,True,True
+2015-07-12T21:37:33,Mmmm the only good move that he made was the sixth sense and signals other movies specially avatar ate shitty :/ ,0,0,Onimanju,E_j1eFy0zp4,0.13642857142857143,2015-07-12 21:37:33,True,True
+2015-07-14T02:11:46,This is a hell of a lot scarier then I thought it was gonna be especially the grandma acting like a cat scratching the wall. An na na na na na na na na na na na na na na na CAT LADY😺,0,0,Hells Ghost,E_j1eFy0zp4,0.0,2015-07-14 02:11:46,True,True
+2015-07-18T15:53:01,...... its hansel and gretel,0,0,- Seradest,E_j1eFy0zp4,0.0,2015-07-18 15:53:01,True,True
+2015-07-18T18:55:39,"Thankfully this isn't just a horror movie, its a comedy as well.",0,0,HawkeyeTheCupcake,E_j1eFy0zp4,0.0,2015-07-18 18:55:39,True,True
+2015-07-19T02:57:53,this is m night shyamalan ladies and gentlemen  be prepared for the worst,0,0,King Cricket,E_j1eFy0zp4,-1.0,2015-07-19 02:57:53,True,True
+2015-07-20T05:42:40,I don't. get the trailer this movie!? ,0,0,kritsada Thammataree,E_j1eFy0zp4,0.0,2015-07-20 05:42:40,True,True
+2015-07-24T09:06:16,Hopefully this signals the return of something good from him,0,0,Friedrich Von Eichel,E_j1eFy0zp4,0.7,2015-07-24 09:06:16,True,True
+2015-07-24T22:38:44,idk man 0:15 scared me the most,0,0,sophie !!,E_j1eFy0zp4,0.5,2015-07-24 22:38:44,True,True
+2015-07-25T03:10:51,The only scary part is the oven like that gets to me,0,0,Connor Rooks,E_j1eFy0zp4,-0.25,2015-07-25 03:10:51,True,True
+2015-07-28T00:41:37,There was a viewing for this at Vidcon this most recent weekend and it was actually really good. I was not expecting anything that happened and every comment I have seen predicting the outcome has been incorrect in the comments so far. Give it a chance!,0,0,Adam Russell,E_j1eFy0zp4,0.33125,2015-07-28 00:41:37,True,True
+2015-07-28T01:39:06,"""Would you mind getting inside the oven too clean it"" INSIDE THE OVEN? Oh hell yea, gotta see this. Thats like, one of the craziest things to say to someone.",0,0,artesha wright,E_j1eFy0zp4,0.3666666666666667,2015-07-28 01:39:06,True,True
+2015-07-28T03:02:31,"There appear to be deliberate ""glitches"" in the footage of the grandfather walking away from the shed?",0,0,Jim Wagner,E_j1eFy0zp4,0.0,2015-07-28 03:02:31,True,True
+2015-07-28T05:55:30,Twist guess: the grandparents aren't actually their grandparents,0,0,Robert hagen,E_j1eFy0zp4,0.0,2015-07-28 05:55:30,True,True
+2015-07-28T21:17:20,how fukked up yet brilliant is it that they are using Grandma's Hand by Bill Withers during the trailer? lol,0,0,IKE NOT TURNER315,E_j1eFy0zp4,0.8500000000000001,2015-07-28 21:17:20,True,True
+2015-07-28T21:26:10,I'm just going to see it to see what happens when she's in the oven. Other than that it looks awful,0,0,Take It Easy - I'm Easily Offended,E_j1eFy0zp4,-0.5625,2015-07-28 21:26:10,True,True
+2015-07-29T03:29:57,I saw this trailer accompanying Paper Towns AND I LAUGHED THE ENTIRE FRIGGING TIME 😂😂😂  This movie looks so dumb.,0,2,Christopher Romero Sosa,E_j1eFy0zp4,0.10833333333333332,2015-07-29 03:29:57,True,True
+2015-07-29T18:19:37,Scary ass hell,0,0,Chuck Norris,E_j1eFy0zp4,-0.5,2015-07-29 18:19:37,True,True
+2015-07-29T20:25:17,This looks rubish,0,0,Jamie G Jackson,E_j1eFy0zp4,0.0,2015-07-29 20:25:17,True,True
+2015-07-30T04:33:01,"""would you mind getting inside the oven to clean it?""  Okay, I admit it.. I laughed really hard at that scene... Also... 666th comment! :O",0,0,Satan Claus,E_j1eFy0zp4,0.2504166666666667,2015-07-30 04:33:01,True,True
+2015-08-01T01:57:02,"Oh shit more M. Night Shamulan. Nostalgia Critic if you would.  Nostalgia Critic: What a twist!!!  M.Night: I know, brilliant isn't it.  Movie Viewers: No!!! ",0,0,Yuriis,E_j1eFy0zp4,0.5921875,2015-08-01 01:57:02,True,True
+2015-08-01T02:23:27,ITS JEN BARKLEY ,0,0,Jalen Suwa,E_j1eFy0zp4,0.0,2015-08-01 02:23:27,True,True
+2015-08-01T03:34:58,Is this comedy?,59,16,Andrew Cardenas,E_j1eFy0zp4,0.0,2015-08-01 03:34:58,True,True
+2015-08-01T04:13:37,M. Night....nope ,0,0,Matt Seltzer,E_j1eFy0zp4,0.0,2015-08-01 04:13:37,True,True
+2015-08-01T04:39:02,"1:50 I bet that kid was like, ""I'm gonna put this shit on Youtube!"" xD",0,0,MrSharkBait561,E_j1eFy0zp4,-0.25,2015-08-01 04:39:02,True,True
+2015-08-01T08:28:50,The real horror of this movie is that M Night is behind it,0,0,Lisa Ann,E_j1eFy0zp4,-0.1,2015-08-01 08:28:50,True,True
+2015-08-01T08:51:19,this looked kinda interesting when i saw an ad for it but now that i know its an M night shitmalan movie i think ill pass,0,0,Old Longfellow,E_j1eFy0zp4,0.0,2015-08-01 08:51:19,True,True
+2015-08-01T11:14:24,"The real twist is that they're just old and misunderstood.       Nah, just kidding, they're actually robots.",8,0,LEGOStudios9083,E_j1eFy0zp4,0.10000000000000002,2015-08-01 11:14:24,True,True
+2015-08-01T12:08:02,Their spending one week at their grandmothers house I guess you could say it's five nights at Granny's,2,0,Matthew Devine,E_j1eFy0zp4,0.0,2015-08-01 12:08:02,True,True
+2015-08-01T16:27:00,when is it out ?,0,2,stefan corpas,E_j1eFy0zp4,0.0,2015-08-01 16:27:00,True,True
+2015-08-01T16:33:35,Hansel and gretel thing,0,0,Marifer Juarez,E_j1eFy0zp4,0.0,2015-08-01 16:33:35,True,True
+2015-08-01T16:46:36,A real f#$*$%# mom would fly out there immediately if her kids said there's something wrong like seriously this mom must be up to something if she's acting so nonchalant.,1,0,Ky Pisces,E_j1eFy0zp4,0.03333333333333334,2015-08-01 16:46:36,True,True
+2015-08-01T18:33:45,Looks like a good comedy XD,0,0,Eden Lewicki,E_j1eFy0zp4,0.7,2015-08-01 18:33:45,True,True
+2015-08-01T19:10:09,it looked creepy,0,0,Abby Steinberg,E_j1eFy0zp4,-0.5,2015-08-01 19:10:09,True,True
+2015-08-01T21:24:03,Plot twist: The kids are really the ones who's trying to kill their grandparents. ,7,4,John Emerson,E_j1eFy0zp4,0.2,2015-08-01 21:24:03,True,True
+2015-08-01T21:28:36,"This is a ridiculous concept, but if done correctly, could actually be scary.",0,0,AortaPlatinum,E_j1eFy0zp4,-0.41666666666666663,2015-08-01 21:28:36,True,True
+2015-08-01T23:43:43,"I swore, I thought the title of this was going to be ""Meet the Grandparents"".",1,0,Erica Siri,E_j1eFy0zp4,0.0,2015-08-01 23:43:43,True,True
+2015-08-02T01:57:41,Nana apparently makes animal noises xD,0,0,Ben Arfa,E_j1eFy0zp4,0.05,2015-08-02 01:57:41,True,True
+2015-08-02T02:14:50,@Kenneth Becker  I wanna see this with you sweetie it seems badass,0,0,AmyLette Xc,E_j1eFy0zp4,0.0,2015-08-02 02:14:50,True,True
+2015-08-02T03:44:13,I got an ad in the beginning of this video that was the second trailer for this movie,4,0,Brandon Mendoza,E_j1eFy0zp4,0.0,2015-08-02 03:44:13,True,True
+2015-08-02T04:35:29,"Even the trailer looks pretty boring. After all, it's directed by the same director from ""Air bender""..",0,0,Sundincubus,E_j1eFy0zp4,-0.25,2015-08-02 04:35:29,True,True
+2015-08-02T09:04:07,Plot twist it was just a reality show telling kids how scary going to your grandparents house is,0,0,Lane Pruitt,E_j1eFy0zp4,-0.5,2015-08-02 09:04:07,True,True
+2015-08-02T16:57:59,This looks so bad,0,0,EAVolOfficial,E_j1eFy0zp4,-0.6999999999999998,2015-08-02 16:57:59,True,True
+2015-08-02T17:36:23,The naked grandma was the reason why the grandpa said don't go out after 9:30,0,0,daz 2018,E_j1eFy0zp4,0.0,2015-08-02 17:36:23,True,True
+2015-08-02T18:01:23,This looks intriguing but its still M. Night Shmoney Dance.  Redbox for sure.,0,0,Tyrelle Davenport,E_j1eFy0zp4,0.4,2015-08-02 18:01:23,True,True
+2015-08-02T18:11:10,Was the old lady scratching the wall naked wtf ,0,0,Alpatriod,E_j1eFy0zp4,-0.13333333333333333,2015-08-02 18:11:10,True,True
+2015-08-02T18:13:28,I already know what's going to happen the old people will not be able to kill the kids they will escape the popo will decide to burn or tear down the old ghost inhabited house then it will be over ,0,0,Alpatriod,E_j1eFy0zp4,0.1361111111111111,2015-08-02 18:13:28,True,True
+2015-08-02T19:11:32,"When killer grandparents attack! Lack of prune juice, it makes em cranky when they don't get their daily dose.",0,0,Jared Smith,E_j1eFy0zp4,0.0,2015-08-02 19:11:32,True,True
+2015-08-02T19:15:15,Just gonna say I bet the plot of land is haunted and the kids room is acting as a contamination area that's immune to the haunting.  So my theory is that the old people were exposed to it for so long as that they are now possessed and they never remember doing any of the more than likely bad stuff that they've been doing.  So the kids'll prob end up showing the footage then the grand parents'll try to kill themselves to escape :D and the reason the kids are being attacked is because they opened the door,0,0,Conner Woodruff,E_j1eFy0zp4,0.16875,2015-08-02 19:15:15,True,True
+2015-08-02T21:40:49,Rated R?,0,0,Tatyana Garcia,E_j1eFy0zp4,0.0,2015-08-02 21:40:49,True,True
+2015-08-02T21:46:58,Plot twist: the grandparents are pterodactyls,1,0,grease man,E_j1eFy0zp4,0.0,2015-08-02 21:46:58,True,True
+2015-08-02T23:35:05,I want to see it it looks cool because I can handle scary movies so ya  lol 😀😀😀😀😀😀😁😀😁😁😁😁,1,0,Davia Seri,E_j1eFy0zp4,0.21666666666666667,2015-08-02 23:35:05,True,True
+2015-08-03T02:53:57,The trailer came on right before this XD,0,0,Regan Rhyne,E_j1eFy0zp4,0.2857142857142857,2015-08-03 02:53:57,True,True
+2015-08-03T10:08:51,"Plot twist: The kids beat the living crap out of their ""Just old"" grandparents in self defense.",0,0,Bacon Bankai,E_j1eFy0zp4,-0.35000000000000003,2015-08-03 10:08:51,True,True
+2015-08-03T11:55:00,GUYS... GUYS THEIR JUST OLD.,0,0,Madara Uchiha,E_j1eFy0zp4,0.1,2015-08-03 11:55:00,True,True
+2015-08-03T13:38:29,Doesn't this remind anyone of Hansel and Gretel???,325,28,emilie tice,E_j1eFy0zp4,0.0,2015-08-03 13:38:29,True,True
+2015-08-03T14:06:37,My ad to watch this was the tralair so I thought that was vid. Then I skip ad and I *facepalm*,1,0,Bob Henry,E_j1eFy0zp4,0.0,2015-08-03 14:06:37,True,True
+2015-08-03T14:37:35,You don't have to tell me twice,1,0,hey,E_j1eFy0zp4,0.0,2015-08-03 14:37:35,True,True
+2015-08-03T17:51:04,Swing away merril!!!,0,0,ScottieDoesntKnow,E_j1eFy0zp4,0.0,2015-08-03 17:51:04,True,True
+2015-08-03T18:17:01,"In my head M. Night Shymal- whatever I'm not even going to attempt to spell his name right, is dead. He's been dead since Avatar. He ruined what could have been a crazy good movie franchise. He will not get any of my money ever again. ",0,0,Jasmine McDowell,E_j1eFy0zp4,-0.0028571428571428693,2015-08-03 18:17:01,True,True
+2015-08-03T22:56:49,I bet it's a prank,0,0,Lily,E_j1eFy0zp4,0.0,2015-08-03 22:56:49,True,True
+2015-08-03T23:26:44,"0:52 Is she......naked? Ew, I think I saw some old lady sideboobage.",0,0,anina,E_j1eFy0zp4,0.1,2015-08-03 23:26:44,True,True
+2015-08-04T01:18:20,Is this hansel and Gretel but different,0,0,Jondall Kelly,E_j1eFy0zp4,0.0,2015-08-04 01:18:20,True,True
+2015-08-04T02:08:30,Whats funny is that im waiting for the ad to go away but realize its the trailer for the movie.ruined the whole experience.,2,0,Robbie,E_j1eFy0zp4,0.225,2015-08-04 02:08:30,True,True
+2015-08-04T03:25:56,Scariest part will be if the grandparents are smart enough to turn off the wifi...,0,0,Clintonomo Bay,E_j1eFy0zp4,0.10714285714285714,2015-08-04 03:25:56,True,True
+2015-08-04T07:33:38,I bet this movie rated R.,0,0,Kevin is THICC,E_j1eFy0zp4,0.0,2015-08-04 07:33:38,True,True
+2015-08-04T13:09:52,Maybe they're on crack,0,0,Carlos Leon,E_j1eFy0zp4,0.0,2015-08-04 13:09:52,True,True
+2015-08-04T13:54:07,Makes sense.,0,0,Levi Marshall,E_j1eFy0zp4,0.0,2015-08-04 13:54:07,True,True
+2015-08-04T15:04:49,No no no no no no HELL no he ruined my child with The Last Airbender I'm not having high hopes for this movie anymore,0,0,Justin JDM,E_j1eFy0zp4,0.08,2015-08-04 15:04:49,True,True
+2015-08-04T17:05:12,But m. Night is full of bees. How can he direct a new movie and expect it to not be full of bees as well?,0,0,Caleb Ueckert,E_j1eFy0zp4,0.23409090909090907,2015-08-04 17:05:12,True,True
+2015-08-04T18:50:35,"Try that shit with me, I'll do everything that Eminem said he'd do to you! ",1,0,cHriiSzbEe,E_j1eFy0zp4,-0.25,2015-08-04 18:50:35,True,True
+2015-08-04T18:59:25, Anyone got the visit trailer ad before you saw the visit trailer,0,0,Poradon,E_j1eFy0zp4,0.0,2015-08-04 18:59:25,True,True
+2015-08-04T19:07:07,"Honestly I believe that this movie is very original, in the idea of the antagonist being the elderly. Most horror movies use the super natural as the antagonist and this movie went the complete opposite direction. The use of the elderly as a insane couple is completely realistic and therefore makes the overall movie Better. Also the plot twist of the elderly becoming the antagonist after originally being normal is great. As well for the protagonist having connections to the outside world makes the plot even better. I honestly wished that instead the parents ignoring the problem didn't happen but hopefully that's another plot twist which the way it was shown in the trailer makes it a complete possibility. Although the movie may seem a bit uninteresting I'm looking forward to watching this movie.",2,0,Stone Age Survival,E_j1eFy0zp4,0.2506578947368421,2015-08-04 19:07:07,True,True
+2015-08-04T19:18:46,"Plot twist, they all have butt secks",0,0,Jesus Christhole,E_j1eFy0zp4,0.0,2015-08-04 19:18:46,True,True
+2015-08-04T19:28:52,Wow,0,0,tu_mom,E_j1eFy0zp4,0.1,2015-08-04 19:28:52,True,True
+2015-08-04T19:42:42,The twist has to do with the mom or something. What mom wouldn't be worried or at least curious as to what they might be talking about ,0,0,lynettebr,E_j1eFy0zp4,-0.2,2015-08-04 19:42:42,True,True
+2015-08-04T19:51:52,Maybe they just have Alzheimer's?,0,0,Thomas Knight,E_j1eFy0zp4,0.0,2015-08-04 19:51:52,True,True
+2015-08-04T21:22:05,Bedtime is 9:30?! How am I supposed to get my midnight snacks? 😒,0,0,Life with Care,E_j1eFy0zp4,0.0,2015-08-04 21:22:05,True,True
+2015-08-04T21:35:50,"""Would you like to get in the oven to clean it?""😂",0,0,Lil Panda,E_j1eFy0zp4,0.3666666666666667,2015-08-04 21:35:50,True,True
+2015-08-04T21:52:21,The movies gonna be released on 9/11 why,0,0,Lil Panda,E_j1eFy0zp4,0.0,2015-08-04 21:52:21,True,True
+2015-08-04T21:52:44,Oh no... The horrors of... OLD PEOP...LE...zzZzzzZzzzz...,0,0,DK64Ranger,E_j1eFy0zp4,0.1,2015-08-04 21:52:44,True,True
+2015-08-04T22:19:55,They should have just stayed in there room after 9:30,0,0,average wanna be,E_j1eFy0zp4,0.0,2015-08-04 22:19:55,True,True
+2015-08-04T22:26:39,Looks like another creepy classic from M.Night !!!!!!!!!!,0,0,Prog X,E_j1eFy0zp4,0.25,2015-08-04 22:26:39,True,True
+2015-08-04T22:38:14,Omg the ad for this vid was the same trailor LOL,0,0,"kitty5,000",E_j1eFy0zp4,0.4,2015-08-04 22:38:14,True,True
+2015-08-04T22:59:25,Wow it's coming out on 9/11,0,0,Chrissy Lu,E_j1eFy0zp4,0.1,2015-08-04 22:59:25,True,True
+2015-08-04T23:14:10,The first trailer is better,0,0,Serenity Beisch,E_j1eFy0zp4,0.375,2015-08-04 23:14:10,True,True
+2015-08-05T02:41:12,"""I was just cleaning it""",0,0,Andreea Cheva,E_j1eFy0zp4,0.0,2015-08-05 02:41:12,True,True
+2015-08-05T05:34:08,Twist is the mom wants them dead so she paid off her parents to kill them,92,16,Nathaniel Yonas,E_j1eFy0zp4,0.0,2015-08-05 05:34:08,True,True
+2015-08-05T08:29:44,"""Would you mind getting in the oven to clean it?"" Talk about subtlety granny",0,0,ItsRobertAhern,E_j1eFy0zp4,0.3666666666666667,2015-08-05 08:29:44,True,True
+2015-08-05T12:55:25,"""They're just old"" lmao",3,0,TheBeatlesRock12341,E_j1eFy0zp4,0.35,2015-08-05 12:55:25,True,True
+2015-08-05T15:07:20,White people smh,0,0,DairangerSentai7,E_j1eFy0zp4,0.0,2015-08-05 15:07:20,True,True
+2015-08-05T15:14:59,This trailer has been hounding me,0,0,Tempest Assassin,E_j1eFy0zp4,0.0,2015-08-05 15:14:59,True,True
+2015-08-05T15:45:20,I think the old man is just... Paranoid... That his wife is a demon/Possessed spirit and he tries to live with it... But he wants to protect the kids at the same time... ,0,0,Salad Lettuce Bish Niglet,E_j1eFy0zp4,0.06727272727272728,2015-08-05 15:45:20,True,True
+2015-08-05T15:45:58,"""Would you mind getting in the oven to clean it"" I laugh so hard at that quote ",0,0,James Holland,E_j1eFy0zp4,0.12500000000000003,2015-08-05 15:45:58,True,True
+2015-08-05T15:54:43,"dude i got the ""the visit trailer",0,0,Grell Sutcliff,E_j1eFy0zp4,0.0,2015-08-05 15:54:43,True,True
+2015-08-05T16:13:08,Cant wait to watch this!!,0,0,paige madelynn,E_j1eFy0zp4,0.0,2015-08-05 16:13:08,True,True
+2015-08-05T16:44:52,"""Do you mind getting in the oven to clean it for me?"" Lol",0,0,Max Cazares,E_j1eFy0zp4,0.5833333333333334,2015-08-05 16:44:52,True,True
+2015-08-05T16:45:22,Gonna cause me never to go to my grandmas house alone ,0,0,Ryan Callahan,E_j1eFy0zp4,0.0,2015-08-05 16:45:22,True,True
+2015-08-05T16:47:35,The commercial before this video was another trailer of the visit😂 ,2,0,DancingMockingjay,E_j1eFy0zp4,0.0,2015-08-05 16:47:35,True,True
+2015-08-05T17:34:33,Scary ,0,0,Estrella Neie,E_j1eFy0zp4,-0.5,2015-08-05 17:34:33,True,True
+2015-08-05T17:58:08,M. Night Shyamallama and the director of The Purge working on the same film? This is a train wreck already.,0,0,Nathan Campbell,E_j1eFy0zp4,0.0,2015-08-05 17:58:08,True,True
+2015-08-05T18:43:53,It would be hilarious if its a comedy about demon grandparents living with human grandchildren.,0,0,Pablo Cabrera,E_j1eFy0zp4,0.25,2015-08-05 18:43:53,True,True
+2015-08-05T18:50:34,Seems like a twist on Hansel & Gretel.,0,0,Vicky Wiley,E_j1eFy0zp4,0.0,2015-08-05 18:50:34,True,True
+2015-08-05T22:23:17,The brother may be possessed at the end,0,0,Emily Flores,E_j1eFy0zp4,0.0,2015-08-05 22:23:17,True,True
+2015-08-06T02:57:53,Oh no a movie about crazy old people 😩I see plenty of that in New York!!!,0,0,Regina Fussin,E_j1eFy0zp4,-0.07788825757575758,2015-08-06 02:57:53,True,True
+2015-08-06T14:03:30,M. Night Shamalamadingdong is directing... K,0,0,Berk,E_j1eFy0zp4,0.0,2015-08-06 14:03:30,True,True
+2015-08-06T19:55:38,I hope this is funnier than the happening ,0,0,Trill Samuel,E_j1eFy0zp4,0.0,2015-08-06 19:55:38,True,True
+2015-08-06T23:34:28,"Kid: Grandma, don't kill my sister, noooooo... *Keeps on holding camera*",0,0,DragonSlayer 1919,E_j1eFy0zp4,0.0,2015-08-06 23:34:28,True,True
+2015-08-07T00:37:33,So this movie is basically reasons to put old people in retirement homes,2,0,Red Truth,E_j1eFy0zp4,0.1,2015-08-07 00:37:33,True,True
+2015-08-07T02:57:41,"maybe it's time mr shyamalan stops adding ""An M. Night Shyamalan movie"" to his marketing strategy. That brand has long been destroyed a long time ago...",5,0,Damien Spectre,E_j1eFy0zp4,-0.05,2015-08-07 02:57:41,True,True
+2015-08-07T04:46:08,at 0:51 someone is using the laser pointer on grandma again! lmao!! oh I got it! at night grandma is possessed by the cats she once owned and grandpa has been taking care of her but he's sick of it and ready to end his life!,0,0,Trevor Hutcheson,E_j1eFy0zp4,0.17857142857142858,2015-08-07 04:46:08,True,True
+2015-08-07T10:24:40,"Just a really big hint, pause it on 1:04.... They can see their mom, but their mom can't see them...",0,0,Chansey Nielsen,E_j1eFy0zp4,0.0,2015-08-07 10:24:40,True,True
+2015-08-08T18:36:27,I think its kinda like Hansel and gretel,0,0,lisbeth moreno,E_j1eFy0zp4,0.0,2015-08-08 18:36:27,True,True
+2015-08-09T05:56:27,Why don't they show the mom the footage? :|,0,1,Finn Rady,E_j1eFy0zp4,0.0,2015-08-09 05:56:27,True,True
+2015-08-09T19:29:46,I hope this isn't a disappointment because so far the movies of 2015 have been exactly that,0,0,Tae Aubrey,E_j1eFy0zp4,-0.08333333333333333,2015-08-09 19:29:46,True,True
+2015-08-09T19:50:20,Who ever is behind these movies should be awarded worst director ever.,0,0,The Proud Sun Bro.,E_j1eFy0zp4,-0.7,2015-08-09 19:50:20,True,True
+2015-08-10T04:48:10,O__O M. Night Shyamalan being stupid again.,0,0,Misha Mayhem,E_j1eFy0zp4,-0.7999999999999999,2015-08-10 04:48:10,True,True
+2015-08-10T16:23:43,Plot twist: water kills grandma. ,0,0,Quint,E_j1eFy0zp4,0.0,2015-08-10 16:23:43,True,True
+2015-08-10T17:09:51,I was excited until I saw that it came from Blumhouse. All of the movies from that company are the same 😒,1,0,.......,E_j1eFy0zp4,0.1875,2015-08-10 17:09:51,True,True
+2015-08-11T05:45:20,it's an M Night Shamalyan movie so the plot twist isn't as complex as you all think. the weird behavior is probably going to be caused by some moss on the land or the wood treatment from the house is causing them to act like that. something terrible I'm sure.,0,0,AceKidd,E_j1eFy0zp4,-0.325,2015-08-11 05:45:20,True,True
+2015-08-11T11:35:25,Sham is way too confident after wayward pines.,0,0,Andrew,E_j1eFy0zp4,0.15,2015-08-11 11:35:25,True,True
+2015-08-11T12:45:35,theres that creepy tree witout leaves again.,0,0,Samson No Delilah,E_j1eFy0zp4,-0.5,2015-08-11 12:45:35,True,True
+2015-08-11T16:51:16,lol the movie is funny old people wow i like the movie XD,0,0,TheBeastSir,E_j1eFy0zp4,0.31250000000000006,2015-08-11 16:51:16,True,True
+2015-08-11T21:08:25,Isn't M. Night Shyamalan the guy that did After Earth and The Last Airbender? Because I'm not gonna look forward to this if he is.,0,0,Jenna M,E_j1eFy0zp4,0.0,2015-08-11 21:08:25,True,True
+2015-08-12T00:55:45,"M. Night's favorite basketball player is Stephen ""Curry""",0,0,VertyVertTV,E_j1eFy0zp4,0.5,2015-08-12 00:55:45,True,True
+2015-08-12T03:00:34,Are you people really releasing a movie on 9 11,4,4,TheMelonParty,E_j1eFy0zp4,0.2,2015-08-12 03:00:34,True,True
+2015-08-12T22:53:35,WHY WAS THAT LITTLE BOY JUST STANDING THERE WATCHING HER SISTER FORCED INTO AN OVEN! (horror movie physics ;D ),0,0,Aaron Paul,E_j1eFy0zp4,-0.10416666666666667,2015-08-12 22:53:35,True,True
+2015-08-13T01:07:03,Plot twist: the kids are actually aliens and the grandparents are actually from the fire nation,0,0,Kokopelli,E_j1eFy0zp4,0.0,2015-08-13 01:07:03,True,True
+2015-08-13T01:08:49,this is why I quit visiting my grandparents.....,0,0,TheXJthatCould,E_j1eFy0zp4,0.0,2015-08-13 01:08:49,True,True
+2015-08-13T01:11:46,"this movie looked good, and then I saw that M. Night Shamalamadingdong directed it.",0,0,Anthonymw13,E_j1eFy0zp4,0.7,2015-08-13 01:11:46,True,True
+2015-08-13T01:43:43,"""Would you mind getting inside the oven to clean it"" 😂",0,0,Zach Pope,E_j1eFy0zp4,0.3666666666666667,2015-08-13 01:43:43,True,True
+2015-08-13T02:13:31,I feel like this is just like you know the story about the witch and two siblings walking into the forest and eats candy and the witch wanted the girl to go into the oven to cook her and eat her,0,0,April,E_j1eFy0zp4,0.0,2015-08-13 02:13:31,True,True
+2015-08-13T02:26:10,Looks like Nana needs a scratching post. 😮,0,0,dxlvs1,E_j1eFy0zp4,0.0,2015-08-13 02:26:10,True,True
+2015-08-13T02:49:26,I can tell this is gonna be as good as avatar the last airbender,0,0,Maria C,E_j1eFy0zp4,0.35,2015-08-13 02:49:26,True,True
+2015-08-13T03:19:41,"Was I the only that found the ""I'm was cleaning it"" bit hilarious. I'm still laughing.",0,0,Ella White,E_j1eFy0zp4,0.25,2015-08-13 03:19:41,True,True
+2015-08-13T03:50:08,You're about to get m night shatupon if you watch this movie. Just saying.,0,0,David. T - EgnyteHQ,E_j1eFy0zp4,0.0,2015-08-13 03:50:08,True,True
+2015-08-13T04:40:44,BRUH THIS AD COMES ON EVERYTIME I WANT TO WATCH A VID ITS 2AM AND I DONT WANNA BE SCARED SHITLESS.,0,0,alyssa,E_j1eFy0zp4,0.0,2015-08-13 04:40:44,True,True
+2015-08-13T04:44:24,I really hope M. Night gets back on track and starts making good movies again.,0,0,Mateo Merenyi,E_j1eFy0zp4,0.3,2015-08-13 04:44:24,True,True
+2015-08-13T08:07:51,Oh great. The movie comes out on September 11th. Way to make all Americans hate this movie already -_-,3,0,dembo eats salad,E_j1eFy0zp4,0.0,2015-08-13 08:07:51,True,True
+2015-08-13T11:11:29,the ovan is really a tree,0,0,Kanru,E_j1eFy0zp4,0.2,2015-08-13 11:11:29,True,True
+2015-08-13T11:11:45,the ovan is really a tree,0,0,Kanru,E_j1eFy0zp4,0.2,2015-08-13 11:11:45,True,True
+2015-08-13T20:24:59,"At first I thought... wow, this is actually going to be a great movie. Then I saw the name ""Shyamalan"" on the screen and I said... oh shit...",0,0,Palakpa Khan,E_j1eFy0zp4,0.19,2015-08-13 20:24:59,True,True
+2015-08-13T23:44:43,before I watchd this a ad poped up bout this movie XD,0,0,Froody Favbear,E_j1eFy0zp4,0.0,2015-08-13 23:44:43,True,True
+2015-08-15T00:54:13,"Plot twist nana and papa are ""just old""  PS I smell a nostalgia critic review",0,0,Wyguy the French Fry,E_j1eFy0zp4,0.1,2015-08-15 00:54:13,True,True
+2015-08-15T03:43:26,Plot Twist: It was only just a dream :D,29,6,Teymur,E_j1eFy0zp4,0.5,2015-08-15 03:43:26,True,True
+2015-08-15T12:59:34,That movie is so scary the one who created insidious 😁😩,0,0,Deema Almutlak,E_j1eFy0zp4,-0.5,2015-08-15 12:59:34,True,True
+2015-08-16T06:07:06,who has seen the movie and what happend,0,0,Cece Jackson,E_j1eFy0zp4,0.0,2015-08-16 06:07:06,True,True
+2015-08-16T13:01:14,This is really cheesy whoever made this LOLZ,0,0,Elsa Snow,E_j1eFy0zp4,-0.5,2015-08-16 13:01:14,True,True
+2015-08-16T16:30:14,There was this trailer that had the grandma roll some dice and then turn to the camera with something that clearly is oatmeal in her mouth screaming yahtzee.  i get this is supposed to be a horror movie but i just couldn't take it seriously after seeing that,43,10,SlayersoftheGame,E_j1eFy0zp4,-0.11666666666666664,2015-08-16 16:30:14,True,True
+2015-08-16T16:59:20,Ooh! This movie looks pretty cool! *see's Shamalammadingdong's name* Well shit...,0,0,Jackendo,E_j1eFy0zp4,0.1625,2015-08-16 16:59:20,True,True
+2015-08-17T04:15:15,"Idc who you are, you ask me to ""get in the oven to clean it"" I'm going to say ""Hell no, crazy.""",0,0,Rami Kasyanov,E_j1eFy0zp4,0.33333333333333337,2015-08-17 04:15:15,True,True
+2015-08-17T04:51:26,1:50 When you are grandmas cookies.,2,0,ToxicWolf,E_j1eFy0zp4,0.0,2015-08-17 04:51:26,True,True
+2015-08-17T05:19:13,Is this out..?,0,0,Aliyah Acosta,E_j1eFy0zp4,0.0,2015-08-17 05:19:13,True,True
+2015-08-17T06:44:10,no they r mental patients who escped a hospital and the girl finds 2 dead bodies in the basement and finds out they arnt the real grand parents when the mother can finally see them on the cam they took a taxi to the house anyways,0,0,oliver closehoff,E_j1eFy0zp4,0.11249999999999999,2015-08-17 06:44:10,True,True
+2015-08-17T07:48:45,This movie looks as shitty as my parent's love for me.,0,0,Zack Miller,E_j1eFy0zp4,0.5,2015-08-17 07:48:45,True,True
+2015-08-17T12:45:33,Absolutely bone chilling I would go see it if I weren't ten years old.,0,0,Jessie Stewart,E_j1eFy0zp4,-0.049999999999999996,2015-08-17 12:45:33,True,True
+2015-08-17T16:35:19,I clicked on the video and the commercial was the trailer... 😑,1,0,Random girls,E_j1eFy0zp4,0.0,2015-08-17 16:35:19,True,True
+2015-08-17T16:36:45,It's all the same shit these days,0,0,Cody,E_j1eFy0zp4,-0.1,2015-08-17 16:36:45,True,True
+2015-08-17T18:10:26,The Grandma is a nazi confirmed ,0,0,Thousand Sons,E_j1eFy0zp4,0.4,2015-08-17 18:10:26,True,True
+2015-08-17T18:40:18,What did they say the grandmas name was? Her name sounded like mine.,1,10,marya,E_j1eFy0zp4,0.0,2015-08-17 18:40:18,True,True
+2015-08-17T18:56:24,it's funny because the ad before this was the visit trailer,1,0,Sam Bork,E_j1eFy0zp4,0.25,2015-08-17 18:56:24,True,True
+2015-08-17T19:49:39,REMOTE PENNSYLVANIA FARM. GREAT. Who thinks Pennsylvanians are creepy now? We're not bad people. 😂😑,0,0,Mack Drag,E_j1eFy0zp4,0.1375,2015-08-17 19:49:39,True,True
+2015-08-18T01:59:13,Did anyone else see this at Vidcon?,0,0,Hannah Montgomery,E_j1eFy0zp4,0.0,2015-08-18 01:59:13,True,True
+2015-08-18T06:03:28,Well I'm not going to grandma & grandpas house any time soon after I see this movie.,0,0,Paco Marquez,E_j1eFy0zp4,0.0,2015-08-18 06:03:28,True,True
+2015-08-18T13:33:01,"The moment i saw M. Night Shyamalan, i decided this movie was shit and not worth my time.",0,0,Mallory Scott,E_j1eFy0zp4,-0.175,2015-08-18 13:33:01,True,True
+2015-08-18T13:55:20,Did anyone notice in 0:52 grandma is naked,0,0,Jacob Jones,E_j1eFy0zp4,0.0,2015-08-18 13:55:20,True,True
+2015-08-18T13:57:59,The call to their parents was fake,0,0,Jacob Jones,E_j1eFy0zp4,-0.5,2015-08-18 13:57:59,True,True
+2015-08-18T15:37:46,"Ewwww Old people are EVIL! Wow this movie is dumb. I don't think things can be dumb to the point of not deserving to live, this is the exception that proves the rule. And if this is about Alzheimer's Disease, M. Night needs to stop making movies. This is embarrassing and disrespectful. At least Saint Vincent gave emotional pull.",1,0,Ginger Jack,E_j1eFy0zp4,-0.17136363636363638,2015-08-18 15:37:46,True,True
+2015-08-18T15:53:43,"Plot twist! The moms a mop, and the Grandparents are brooms.",0,0,Wal,E_j1eFy0zp4,0.0,2015-08-18 15:53:43,True,True
+2015-08-18T16:27:24,"I love how lately, they've been downplaying how much screen time the name ""M. Night Shyamalan"" gets in his trailers, and instead just list movies he made... ya know, since his ego and ability to ruin his recent movies have become a thing.",0,0,Keto Wolf,E_j1eFy0zp4,0.1,2015-08-18 16:27:24,True,True
+2015-08-18T19:41:26,Kind of looks like The Shining meets Hansel and Gretel,0,0,Unicorn Demon,E_j1eFy0zp4,0.6,2015-08-18 19:41:26,True,True
+2015-08-18T19:52:43,i see it as Hansel and Gretel with a twist,0,0,Lauren Avery,E_j1eFy0zp4,0.0,2015-08-18 19:52:43,True,True
+2015-08-18T20:31:42,They tried to make an old lady scratching a wall like a cat scary..........who directed thi-ooooooooooooooohhhh that explains soooooooooo much.......this movies going to suck.,0,0,Nox Xelor,E_j1eFy0zp4,0.1,2015-08-18 20:31:42,True,True
+2015-08-18T20:36:14,This shit looks GLORIOUS!,0,0,TheSonOfAGunFrom410,E_j1eFy0zp4,-0.25,2015-08-18 20:36:14,True,True
+2015-08-19T04:02:06,This looks awesome!!,0,0,NintendoFanBoy07,E_j1eFy0zp4,1.0,2015-08-19 04:02:06,True,True
+2015-08-19T04:53:00,Grandma is insane and grandfather is coping with it and trying to keep it a secret.,0,0,max cadey,E_j1eFy0zp4,-0.7,2015-08-19 04:53:00,True,True
+2015-08-19T05:47:18,"I think that a good ending to this movie would be the grandparents coming out and telling their grandkids that they have just been punked, hahaha!",0,0,sunshine11931,E_j1eFy0zp4,0.475,2015-08-19 05:47:18,True,True
+2015-08-19T05:49:52,"My guess is that the grandparents are already dead, but the family doesn't know about it yet. Kind of like that movie ""The others"" with Nicole Kidman.",0,0,sunshine11931,E_j1eFy0zp4,0.19999999999999998,2015-08-19 05:49:52,True,True
+2015-08-19T12:46:31,Looks like a comedy classic!,0,0,Michaeljack,E_j1eFy0zp4,0.20833333333333331,2015-08-19 12:46:31,True,True
+2015-08-19T16:23:19,If you watch this on psychedelics it makes so much more sense.,0,0,Will Procel,E_j1eFy0zp4,0.5,2015-08-19 16:23:19,True,True
+2015-08-19T16:33:40,lame,0,0,JAYDIN Bruner,E_j1eFy0zp4,-0.5,2015-08-19 16:33:40,True,True
+2015-08-19T17:01:15,"""I was just cleaning it!""  Me: Nah son h had dat shit in yo mouf😩",1,0,Project Mystic,E_j1eFy0zp4,-0.2,2015-08-19 17:01:15,True,True
+2015-08-19T17:19:23,I really want to watch it but its scary talk about creepy,0,0,NightcoreRadio,E_j1eFy0zp4,-0.26666666666666666,2015-08-19 17:19:23,True,True
+2015-08-19T18:20:20,lol i got the visit ad on the main official trailer,0,0,noir ramen,E_j1eFy0zp4,0.48333333333333334,2015-08-19 18:20:20,True,True
+2015-08-19T19:04:02,"U know, this move kind of reminds me of The taking of Deborah Logan.",0,0,erin mark,E_j1eFy0zp4,0.6,2015-08-19 19:04:02,True,True
+2015-08-19T20:23:06,"I bet that the two kids are already dead, and the grandpa wants to keep them from finding out because he's Mr. Glass.  The grandma is clearly the devil, and has been driven insane by plant chemicals.  However, she's deathly allergic to water.  After driving her away with a garden hose, the kids will flee to the outskirts of the town.  They will then be run over by a starship, because the whole movie is actually taking place in 2315.  WHAT A TWIST! * * * * * Nah, but seriously:  The movie is probably going to be a modern-day twist on the Hansel and Gretel myth.  On the teaser poster, one of ""Grandma's Rules"" is ""eat as much as you want"".  She's trying to fatten the children up for the slaughter (see the boy flexing his muscles at 0:30).  Her asking the girl to climb into the oven to clean it is another obvious reference.  The mom's nonchalant attitude toward the whole affair is also significant; in the original tale of Hansel and Gretel, their mother is the one who comes up with the plot to abandon them in the woods.  The twist will be that she was in on the grandmother's plan all along, as several others have already predicted.  It's an interesting concept, but I'm definitely waiting for the reviews to come in before I decide to see it.  Mr. Shyamalan has made too many mistakes to get the benefit of the doubt from me anymore.",1,0,Dominique Smith,E_j1eFy0zp4,0.08725490196078432,2015-08-19 20:23:06,True,True
+2015-08-19T20:56:07,I got an ad for this exact movie before this video...,0,0,Jack Woodruff,E_j1eFy0zp4,0.25,2015-08-19 20:56:07,True,True
+2015-08-20T00:53:51,The ad for this movie played before this video. Coinsidinse i tink nawt luminarty cunfermd,0,0,ripanneschannel,E_j1eFy0zp4,0.0,2015-08-20 00:53:51,True,True
+2015-08-20T20:24:00,Lol even the advertisement was this movie.,0,0,Nexus,E_j1eFy0zp4,0.8,2015-08-20 20:24:00,True,True
+2015-08-20T21:30:04,Alzheimers is bad.,0,0,Donald Duck,E_j1eFy0zp4,-0.6999999999999998,2015-08-20 21:30:04,True,True
+2015-08-20T23:15:13,man I wanna watch this,0,0,ashreya,E_j1eFy0zp4,0.0,2015-08-20 23:15:13,True,True
+2015-08-21T02:39:58,"looks like it's going to be a long boring movie. after all, it's directed by the same director that directed ""Air Bender""..lol",0,0,Sundincubus,E_j1eFy0zp4,-0.35000000000000003,2015-08-21 02:39:58,True,True
+2015-08-21T04:38:38,The ad I got for the trailer for The visit was the trailer for the visit. ,0,0,Allana Halfacre,E_j1eFy0zp4,0.0,2015-08-21 04:38:38,True,True
+2015-08-21T12:32:48,Plot twist: It was all a dream from the initial night after grandpa closes the door.,0,0,Victor Anthony,E_j1eFy0zp4,0.0,2015-08-21 12:32:48,True,True
+2015-08-21T14:34:52,"""Would you mind getting in the oven to clean it?"" Me: That sounds legit. But ok! I trust you fully!! :D",0,0,impressive,E_j1eFy0zp4,0.7810763888888889,2015-08-21 14:34:52,True,True
+2015-08-21T18:52:36,Poop,0,0,Sam montoya,E_j1eFy0zp4,0.0,2015-08-21 18:52:36,True,True
+2015-08-22T00:30:31,Please don't suck.,0,0,Ef Kay,E_j1eFy0zp4,0.0,2015-08-22 00:30:31,True,True
+2015-08-22T00:37:59,"""Nana, it's got a self cleaner.""",0,0,Fernando L,E_j1eFy0zp4,0.0,2015-08-22 00:37:59,True,True
+2015-08-22T04:49:13,FINAL NAIL IN THE COFFIN...,0,0,G.Santos Nagao,E_j1eFy0zp4,0.0,2015-08-22 04:49:13,True,True
+2015-08-22T10:27:27,oh no. M. nightshamala ding dong.,0,0,Tom Nguyen,E_j1eFy0zp4,0.0,2015-08-22 10:27:27,True,True
+2015-08-22T15:49:28,Horror movies are running out of ideas.,114,12,- Fetch -,E_j1eFy0zp4,0.0,2015-08-22 15:49:28,True,True
+2015-08-22T16:41:49,I am legitimately excited to see this movie because of how stupid it looks,0,0,SO SHINY! SO CHROME!,E_j1eFy0zp4,-0.21249999999999997,2015-08-22 16:41:49,True,True
+2015-08-22T20:40:23,the old lady is like the witch from Hansel and Gretel...,14,1,Extreme Vampyr,E_j1eFy0zp4,0.1,2015-08-22 20:40:23,True,True
+2015-08-23T03:05:39,M. Night Shamalan has resurrected to haunt unknowing audiences. That's the REAL scary part.,0,0,rmwtsou,E_j1eFy0zp4,-0.75,2015-08-23 03:05:39,True,True
+2015-08-23T05:04:01,"""Would you mind getting in the oven to clean it....."" *pulls out 44. and pops a cap*",0,0,Collin P,E_j1eFy0zp4,0.3666666666666667,2015-08-23 05:04:01,True,True
+2015-08-23T05:49:05,I cant find this anywhere it looks amazing but I can tell the actings a bit off.... ,0,0,Knightmare Mystery,E_j1eFy0zp4,0.6000000000000001,2015-08-23 05:49:05,True,True
+2015-08-23T12:17:50,Alzheimers is a serious disease. This movie is offensive.,0,0,Hoti is ton eona to eleos aftou,E_j1eFy0zp4,-0.3333333333333333,2015-08-23 12:17:50,True,True
+2015-08-23T13:45:47,"Horror movies like to turn really nice and fun things, into evil and murderous things. They did it with clowns, dolls, and NOW, with GRANDPARENTS? I think that's just mean, to think that when that movie comes out, and kids watch it, then their mom says that their going to visit their grandparents, and then the kids get scared, because they watched a movie about grandparents becoming DEMONS. Of course, I love my grandparents, so this has no effect on me, but I'm just thinking about future kids.",7,7,JMoviedude,E_j1eFy0zp4,0.07678571428571426,2015-08-23 13:45:47,True,True
+2015-08-23T19:48:17,Damn Granny how many times do I have to tell you to lay of the wine,0,0,Golden God,E_j1eFy0zp4,0.5,2015-08-23 19:48:17,True,True
+2015-08-24T11:46:17,"0:51  Shoulders sideways, smack it smack it in the air! Get it grandma! :D",0,0,Quiet Storm,E_j1eFy0zp4,1.0,2015-08-24 11:46:17,True,True
+2015-08-24T20:57:50,Ok what's the twist this time?,0,4,Freedom Crusher,E_j1eFy0zp4,0.5,2015-08-24 20:57:50,True,True
+2015-08-25T02:36:26,There there the comments will keep you safe,0,0,ava b,E_j1eFy0zp4,0.5,2015-08-25 02:36:26,True,True
+2015-08-25T18:28:48,I got an ad for this before it played.,0,0,4 boding,E_j1eFy0zp4,0.0,2015-08-25 18:28:48,True,True
+2015-08-25T23:42:40,This is what happens when we make companies like life alert,1,0,SkankHunt 42,E_j1eFy0zp4,0.0,2015-08-25 23:42:40,True,True
+2015-08-26T01:12:15,"Wait, when the grandma was scratching the walls was she naked? I could see she wasn't wearing anything.... -cough-",0,0,mel,E_j1eFy0zp4,0.0,2015-08-26 01:12:15,True,True
+2015-08-26T14:04:20,Plot twist: The wall has worms,0,0,Jack-Dylan Nolan,E_j1eFy0zp4,0.0,2015-08-26 14:04:20,True,True
+2015-08-26T22:52:46,"Terrible actors. Bad call, Shyamalan.",0,0,Engelbreg Bread,E_j1eFy0zp4,-0.8499999999999999,2015-08-26 22:52:46,True,True
+2015-08-27T01:38:08,"I was the trailer,thought it was good, then I saw M. Knight Shyamalan's name",0,0,Kaz Miller,E_j1eFy0zp4,0.7,2015-08-27 01:38:08,True,True
+2015-08-27T04:07:34,"""They're just weird. They're just old.""  Dafaq?",0,0,KatKost,E_j1eFy0zp4,-0.2,2015-08-27 04:07:34,True,True
+2015-08-27T04:30:31,"Is this really a horror/comedy cause idk about everyone else but it's clear to me that the actors aren't playing their roles comedic. Just look at their facial expressions. I'll admit, some of the scenes are funny in how they're delivered but this seems like it wasn't intended to be ""funny"".",0,0,NightAn93l,E_j1eFy0zp4,0.16,2015-08-27 04:30:31,True,True
+2015-08-27T06:30:35,"I hope one of the children drinks water with flavor crystals and THAT kills the grandparents! Not the water, that's too ""Signs,"" but rather the flavor crystals. Great product placement opportunities will abound. Can't wait to see this (on VHS)!",0,0,Leuthaneous,E_j1eFy0zp4,1.0,2015-08-27 06:30:35,True,True
+2015-08-27T12:41:27,Ummm why don't these kids just run away? What are these grannies gonna do? Run after you?,2,0,Chacosseke,E_j1eFy0zp4,0.0,2015-08-27 12:41:27,True,True
+2015-08-27T18:48:08,"I have faith in this movie. I think M. Night might get his groove back. If he would just stick to these type of movies, and not let his ego get so big.",0,0,uh0oo,E_j1eFy0zp4,0.0,2015-08-27 18:48:08,True,True
+2015-08-27T19:24:01,scary,0,0,Syeedah Mckenzie,E_j1eFy0zp4,-0.5,2015-08-27 19:24:01,True,True
+2015-08-27T22:29:13,First song name?,0,1,Florian Van Dingenen,E_j1eFy0zp4,0.25,2015-08-27 22:29:13,True,True
+2015-08-27T22:39:40,"*witnesses grandma clawing at the walls late at night and closing and opening a door repeatedly* mom: ""they're just old"" #Momoftheyear 👏🏻",5,0,ShrekDaddy445 V2,E_j1eFy0zp4,-0.09999999999999999,2015-08-27 22:39:40,True,True
+2015-08-28T01:14:08,so ready for this to come in theater so I can go see if looks like good movie and can't stop watching the trailer the how ready I am,0,0,GRAVITYFALLS JOURNALS,E_j1eFy0zp4,0.36666666666666664,2015-08-28 01:14:08,True,True
+2015-08-28T03:50:19,Grandma and Grandpa are off their meds again,0,0,Hobo with a shotgun,E_j1eFy0zp4,0.0,2015-08-28 03:50:19,True,True
+2015-08-28T17:47:44,she said do u mind getting in the oven to clean it I knew right there it was a set up,0,0,chianti serrano,E_j1eFy0zp4,0.3261904761904762,2015-08-28 17:47:44,True,True
+2015-08-28T17:59:41,Would you mind getting into the oven to clean it? (Comment what u think the girl should say or should have said. Or even what you would say😂),0,0,It's Brie,E_j1eFy0zp4,0.3666666666666667,2015-08-28 17:59:41,True,True
+2015-08-28T18:37:13,Whats the song at 0:08?,0,0,Arek Kokot,E_j1eFy0zp4,0.0,2015-08-28 18:37:13,True,True
+2015-08-28T18:37:16,Whats the song at 0:08?,1,0,Arek Kokot,E_j1eFy0zp4,0.0,2015-08-28 18:37:16,True,True
+2015-08-29T00:03:36,Lol Wut? Before This Video I got An Ad of the Trailer I thought it was the video but it was a ad and then the trailer video started Coincidence?,1,1,CrArbon,E_j1eFy0zp4,0.8,2015-08-29 00:03:36,True,True
+2015-08-29T14:26:53,"THIS IS THE MOST DUMBESS MOVIE EVER, ""can you get in my oven to fix it"" XD , most stupid line i've ever heard in a horror film!!!",0,3,Drink Me,E_j1eFy0zp4,0.0,2015-08-29 14:26:53,True,True
+2015-08-29T16:42:35,this reminds me of Hansel and Gretel at the end,0,0,Beauty Stars,E_j1eFy0zp4,0.0,2015-08-29 16:42:35,True,True
+2015-08-29T20:28:01,Jump scare lol,0,0,Sophiaa 808,E_j1eFy0zp4,0.8,2015-08-29 20:28:01,True,True
+2015-08-29T21:23:54,I just saw the visit as an ad on the visit trailer video lol,0,0,junior vallejo,E_j1eFy0zp4,0.8,2015-08-29 21:23:54,True,True
+2015-08-30T02:29:01,Plot Twist: Grandpa is Vladimir Putin and Grandma is Hillary Clinton,0,0,Adamo Mezzomo,E_j1eFy0zp4,0.0,2015-08-30 02:29:01,True,True
+2015-08-30T02:33:21,Looks like Alexander is going to have another crappy day :(,0,0,TheyCallMeLiz,E_j1eFy0zp4,-0.75,2015-08-30 02:33:21,True,True
+2015-08-30T03:18:58,grandmas crazy wow,0,0,Kala Hopper,E_j1eFy0zp4,-0.25,2015-08-30 03:18:58,True,True
+2015-08-30T14:30:19,It's another version of Hansel and griddle lol,0,0,Sammiieexox,E_j1eFy0zp4,0.8,2015-08-30 14:30:19,True,True
+2015-08-30T16:03:49,"""Would you mind getting in the oven to clean it?""  ""Sure Gramma""  Uhh",91,10,Boom,E_j1eFy0zp4,0.43333333333333335,2015-08-30 16:03:49,True,True
+2015-08-30T20:14:42,when I first saw this add I was like is this a comedy and then it gets kinda creepy and I'm like mmmk... but then I'm ohhh damn thats creepy ;-; but them im like this is awesome,1,0,Bee F,E_j1eFy0zp4,0.0625,2015-08-30 20:14:42,True,True
+2015-08-31T00:27:29,The movie looks scary but the release date tho....,0,0,Aracely Pinto,E_j1eFy0zp4,-0.5,2015-08-31 00:27:29,True,True
+2015-08-31T03:18:49,Too unbelievable to actually scare me,0,0,Mmmchutney,E_j1eFy0zp4,-0.125,2015-08-31 03:18:49,True,True
+2015-08-31T16:39:33,the grandparents and kids are in a horror movie while the mother is making frozen 2.,0,0,Derek Ramos,E_j1eFy0zp4,0.0,2015-08-31 16:39:33,True,True
+2015-08-31T16:45:22,kids and mom are dead and trying to haunt grandparents. granny has alzheimer's. grandpa is having a  hard time to cope. right m night shaymalan?,0,0,Derek Ramos,E_j1eFy0zp4,-0.06865079365079367,2015-08-31 16:45:22,True,True
+2015-08-31T21:36:29,That oven part reminds me of an episode of Salad Fingers. He ate the kid though...,2,0,AnimeOnePiece123,E_j1eFy0zp4,0.0,2015-08-31 21:36:29,True,True
+2015-09-01T01:05:04,If anyone has ever seen the village (btw not scary) it has a twist at the end where the people of the village made the whole monster thing up it tells you in the movie. This is probably gonna be like that. Bye I'm 10,0,0,riri k,E_j1eFy0zp4,0.225,2015-09-01 01:05:04,True,True
+2015-09-01T01:25:01,The plot twist is the grandmother is a cat who is having an affair with Bob saget from space.,0,0,Jack Honauer,E_j1eFy0zp4,0.0,2015-09-01 01:25:01,True,True
+2015-09-01T07:59:40,YAHHHTzehhhhhhhhhh!!!!!!!!!!!!,0,0,milkmandan77,E_j1eFy0zp4,0.0,2015-09-01 07:59:40,True,True
+2015-09-01T18:10:24,I need to see this 😈!!!!!!!,0,0,GForce 101,E_j1eFy0zp4,0.0,2015-09-01 18:10:24,True,True
+2015-09-01T21:30:57,Madison Night Shyamalan you're a freaking genius,0,0,Invader'Os,E_j1eFy0zp4,0.0,2015-09-01 21:30:57,True,True
+2015-09-01T21:46:49,You know I think this was all a prank. I really don't think they would do that unless they were like shape-shifters or something because this looks crappy. It would be funny if it was a prank from set up from their parents. I don't even wanna see the movie I just wanna know why. Also this director sucks. His movies are really bad. I wouldn't watch this if someone payed me.,0,0,Elle H.,E_j1eFy0zp4,-0.13749999999999996,2015-09-01 21:46:49,True,True
+2015-09-01T22:05:03,anyone else sent by kevin and lil?,0,0,PLANTINGGAMER'S BIGGEST FAN!!!!,E_j1eFy0zp4,0.0,2015-09-01 22:05:03,True,True
+2015-09-01T23:22:24,the grandma is the big bad wolf duh,0,0,Walia Art,E_j1eFy0zp4,-0.33333333333333326,2015-09-01 23:22:24,True,True
+2015-09-01T23:56:18,the reason they made this movie for grown people could get jobs and stop living with pa and ma,0,0,YoloSwagM9 Holy Snipes,E_j1eFy0zp4,0.0,2015-09-01 23:56:18,True,True
+2015-09-02T00:19:54,it's weird how slamming a dorr repeatedly is scary,0,0,Kid Jess,E_j1eFy0zp4,-0.5,2015-09-02 00:19:54,True,True
+2015-09-02T05:22:33,Grandma- Would you mind getting inside the oven to clean it?  Me- Hell yeah I mind! lol,1,0,Honey Lee,E_j1eFy0zp4,0.6291666666666667,2015-09-02 05:22:33,True,True
+2015-09-02T05:37:07,"this is what I think will happen. they visit the grandparents,  everythings normal but the grandparents are murdered by  crazy people who escape from a mental hospital or something and  the kids had no clue. that's my guess",0,0,HORROR eXpErT,E_j1eFy0zp4,-0.18333333333333332,2015-09-02 05:37:07,True,True
+2015-09-02T10:35:32,"None of this would of happened, if they kept the f*cking door closed.   Edit: after finishing the trailer, I am in tears of laughter. This movie is gonna be hilarious.",0,0,Bobbicorn,E_j1eFy0zp4,-0.06666666666666665,2015-09-02 10:35:32,True,True
+2015-09-02T14:29:26,2010 The Last Airbender: $150 million of budget 2013 After Earth: $130 million of budget 2015 The Visit: $5 million of budget  Draw whatever conclusions you like,0,0,yarpen26,E_j1eFy0zp4,0.0,2015-09-02 14:29:26,True,True
+2015-09-02T21:37:10,see adults need to get jobs and stop living with pa or ma or this will happened u been warn,0,0,YoloSwagM9 Holy Snipes,E_j1eFy0zp4,0.0,2015-09-02 21:37:10,True,True
+2015-09-02T23:38:23,0:50 it looks like Nana is naked,1,0,Billie Eyelash,E_j1eFy0zp4,0.0,2015-09-02 23:38:23,True,True
+2015-09-03T01:13:35,i love grandmas cooking,0,0,Max Bowen,E_j1eFy0zp4,0.5,2015-09-03 01:13:35,True,True
+2015-09-03T02:46:17,So Hollywood's pretty much gonna make every fairy tale into a scary/awesome movie?? Huh.,0,0,Kiljaz Ink,E_j1eFy0zp4,0.225,2015-09-03 02:46:17,True,True
+2015-09-03T02:59:26,I wanna see this movie but I don't ,0,0,Kaiyla Mayer,E_j1eFy0zp4,0.0,2015-09-03 02:59:26,True,True
+2015-09-03T20:11:10,There's a film similar to this one from the 80s or 90s anyone know what its called.  Does anyone know the name of a film from the 80s or 90s about a brother and sister who travelled by bus to their grandparents house. (The bus stopped right outside their house) And they went into the basement where there was a large wooden workbench/  ,0,0,Laze,E_j1eFy0zp4,0.1,2015-09-03 20:11:10,True,True
+2015-09-03T20:17:45,Notice how you only see white people in these movies,1,0,Sumayah,E_j1eFy0zp4,0.0,2015-09-03 20:17:45,True,True
+2015-09-04T00:00:33,going to see it with all my friends!!,0,0,Jazmynn Wheeler,E_j1eFy0zp4,0.0,2015-09-04 00:00:33,False,True
+2015-09-04T02:47:39,Immediately knew this was crappy movie when I saw M. Night Shyamalan👎👎,1,0,UNBOUND HUNTER,E_j1eFy0zp4,0.0,2015-09-04 02:47:39,False,True
+2015-09-04T17:24:04,you all can read the plot on wikipedia! its a crazy twist,0,0,Meghan Callahan,E_j1eFy0zp4,-0.6,2015-09-04 17:24:04,False,True
+2015-09-04T19:54:02,Plot twist grandpa and grandma are just off there pills.,0,0,Ice Bear,E_j1eFy0zp4,0.0,2015-09-04 19:54:02,False,True
+2015-09-04T22:28:43,I thought the ad was for a fablehaven movie. Anyone else,0,0,none,E_j1eFy0zp4,0.0,2015-09-04 22:28:43,False,True
+2015-09-05T00:42:06,Oh my god I saw one trailer and the grandmother said would you mind getting into the oven to clean it,0,0,Molly Boys,E_j1eFy0zp4,0.3666666666666667,2015-09-05 00:42:06,False,True
+2015-09-05T09:04:35,Here's the plot warning Spoilers #spoilers,0,1,K Southall,E_j1eFy0zp4,0.0,2015-09-05 09:04:35,False,True
+2015-09-05T13:47:14,Gnnv,0,0,Lola Tremusini,E_j1eFy0zp4,0.0,2015-09-05 13:47:14,False,True
+2015-09-05T18:05:30,"THE PLOT TWIST IS: IT'S NOT THEIR GRANDPARENTS, SOME RANDOM OLDIES",0,1,Real Og,E_j1eFy0zp4,-0.5,2015-09-05 18:05:30,False,True
+2015-09-05T18:33:55,have to watch it !!!!,0,0,Anabella Acosta,E_j1eFy0zp4,0.0,2015-09-05 18:33:55,False,True
+2015-09-06T03:31:44,"Wait, is it only the Grandma who's insane? Is the Grandpa putting his gun in his mouth to kill himself because of her?",0,0,Cory Kingley,E_j1eFy0zp4,-0.5,2015-09-06 03:31:44,False,True
+2015-09-06T03:47:30,this shit is more a comedy than a horror movie lmao,0,0,That Guy,E_j1eFy0zp4,0.3,2015-09-06 03:47:30,False,True
+2015-09-06T08:07:42,plot twist :NOTE: this is the actual twist there not the grandparents the actual grandparents where kill and the grand parents they visit are mental patients that killed the actual grand parents,0,0,Paprika Foxx,E_j1eFy0zp4,0.09999999999999999,2015-09-06 08:07:42,False,True
+2015-09-06T08:07:49,plot twist :NOTE: this is the actual twist there not the grandparents the actual grandparents where kill and the grand parents they visit are mental patients that killed the actual grand parents,1,0,Paprika Foxx,E_j1eFy0zp4,0.09999999999999999,2015-09-06 08:07:49,False,True
+2015-09-06T11:56:29,The twist ending to this one is that I won't bother being there to see it this time...pfft,0,0,MoonlitDevil_ Princess,E_j1eFy0zp4,0.0,2015-09-06 11:56:29,False,True
+2015-09-06T15:10:08,"shit this is so interesting but I don't like horror movies, but this looks good",0,0,DommyBomb,E_j1eFy0zp4,0.3333333333333333,2015-09-06 15:10:08,False,True
+2015-09-06T22:07:03,I JUST REALIZED I GO TO SLEEP AT 9:30 EVERY NIGHT.....,0,0,Im here too I guess,E_j1eFy0zp4,0.0,2015-09-06 22:07:03,False,True
+2015-09-07T00:17:24,The plot twist is that the Shotgun the grandpa was gagging on is really just a bong. They be out there gettin higher than gas prices.,1,0,raymondjackso25,E_j1eFy0zp4,0.225,2015-09-07 00:17:24,False,True
+2015-09-07T00:53:04,"When I saw this on TV i was so certain it was a joke. I was laughing throughout the entire thing - then I saw at the end ""Directed by M Night Shyamalan"" I was like Oh this is serious....  I am completely blown away by this, it's like a whole new level.  I'm actually looking forward to seeing it though because I'm pretty certain it's going to be one of the funniest things ever.   M Night Shyamalan is regressing to Tommy Wiseau level - and it might actually be a good thing...",0,0,Aaron Christopher,E_j1eFy0zp4,0.14816017316017316,2015-09-07 00:53:04,False,True
+2015-09-07T02:38:49,Ain't subscribing sht until you include an imdb link in your post.,0,0,Golden Ratio,E_j1eFy0zp4,0.0,2015-09-07 02:38:49,False,True
+2015-09-07T03:59:10,"that bih said ""would u mind getting inside the oven to clean it""😂😂😂😂😂😂😂😂😂😂 weak asf",1,0,Q Berry,E_j1eFy0zp4,-0.004166666666666652,2015-09-07 03:59:10,False,True
+2015-09-07T07:20:25,This comment is for anyone whose seen the Yahtzee trailer.  Really Shyamalan? An old women screaming Yahtzee is supposed to be scary? I don't know what's worse. That or jelly side down means devil.,0,0,Deathwishx95,E_j1eFy0zp4,-0.1511111111111111,2015-09-07 07:20:25,False,True
+2015-09-07T09:22:38,Plot Twist: the kids are infact the grand parents!!,0,0,Rayden30,E_j1eFy0zp4,0.78125,2015-09-07 09:22:38,False,True
+2015-09-07T15:59:37,When does this come out?,0,0,Jordyn Slater,E_j1eFy0zp4,0.0,2015-09-07 15:59:37,False,True
+2015-09-07T17:10:07,Spoiler - The grandparents were volunteers at a mental hospital and these two are imposters who killed them and assumed their identities.,0,0,SeeBrake,E_j1eFy0zp4,-0.15000000000000002,2015-09-07 17:10:07,False,True
+2015-09-07T18:08:01,will somone dare me to watch this movie at night,0,0,Daniel Ruiz,E_j1eFy0zp4,0.0,2015-09-07 18:08:01,False,True
+2015-09-07T18:08:02,"this is unfair, how can they be so insensitive towards the elderly? how can the grandparents do wrong to their own grandchildren? this is just sending a very negative message to the younger generation. portraying grandparents as witches or whatever is very disrespectful to this relationship. if this movie was Indian a lot of people would have been offended.",0,0,tara ss,E_j1eFy0zp4,-0.09833333333333334,2015-09-07 18:08:02,False,True
+2015-09-07T19:37:58,whats the name of the song?,0,0,johnny kirov,E_j1eFy0zp4,0.0,2015-09-07 19:37:58,False,True
+2015-09-08T00:47:35,"looks like another lame pg-13 movie everyone wants to see, but fails at box office...bad",0,0,hank hill,E_j1eFy0zp4,-0.26666666666666666,2015-09-08 00:47:35,False,True
+2015-09-08T02:14:40,"m. night: the twist is, they have dementia. geeeeeniusss",0,0,Scuba Steve,E_j1eFy0zp4,0.0,2015-09-08 02:14:40,False,True
+2015-09-08T15:36:07,I was looking for the yahtzee scene. ...,0,0,It'sFire,E_j1eFy0zp4,0.0,2015-09-08 15:36:07,False,True
+2015-09-08T19:07:32,This doesn't look that scary at all,0,0,Janelle Crowley,E_j1eFy0zp4,-0.5,2015-09-08 19:07:32,False,True
+2015-09-08T21:48:09,this looks like they tried to get an R rating so bad,0,0,Anahi Fontes,E_j1eFy0zp4,-0.6999999999999998,2015-09-08 21:48:09,False,True
+2015-09-08T23:57:21,I what to see it so bad,0,0,Aylissa White,E_j1eFy0zp4,-0.6999999999999998,2015-09-08 23:57:21,False,True
+2015-09-09T01:50:23,OK so at 1:24 did anyone else bust out laughing when the grandma was standing there just slamming the door over and over again or was that just me BC I thought that was great😂😂😂,0,0,Brendan B,E_j1eFy0zp4,0.5,2015-09-09 01:50:23,False,True
+2015-09-09T02:10:05,that's probably how they usually clean the house right,0,0,mia,E_j1eFy0zp4,0.3261904761904762,2015-09-09 02:10:05,False,True
+2015-09-09T02:34:51,"Plot Twist:  The mother sent them away, never to come back.",0,0,Matt Victor,E_j1eFy0zp4,0.0,2015-09-09 02:34:51,False,True
+2015-09-09T03:20:12,"I legitimately almost detached my eyeballs from their sockets due to excessive eye rolling while watching this trailer; such a weak horror film, if you could even call it that. 😑",0,0,Mike Domingos,E_j1eFy0zp4,-0.1875,2015-09-09 03:20:12,False,True
+2015-09-09T03:52:46,"Dude, What Is This Song!!?",0,0,Ezzzioo Bissshh,E_j1eFy0zp4,0.0,2015-09-09 03:52:46,False,True
+2015-09-09T04:22:21,do you mind getting inside the oven to clean it,0,0,Gabby Miller,E_j1eFy0zp4,0.3666666666666667,2015-09-09 04:22:21,False,True
+2015-09-09T04:44:09,"M. Night Shyamalan please don't let me down again, I still believe in you.",1,0,mario monzon,E_j1eFy0zp4,-0.15555555555555559,2015-09-09 04:44:09,False,True
+2015-09-09T12:49:37,this reminds me of hasle and greatl,0,0,chicken nugget,E_j1eFy0zp4,0.0,2015-09-09 12:49:37,False,True
+2015-09-09T13:46:23,Saw this as a annoying YT ad and 3 seconds in assume it was a live action Frozen parody lol,1,0,Spec0pleader,E_j1eFy0zp4,0.05909090909090908,2015-09-09 13:46:23,False,True
+2015-09-09T17:44:05,Song: Bill Withers - Grandma's Hands,1,0,Yssel Venter,E_j1eFy0zp4,0.0,2015-09-09 17:44:05,False,True
+2015-09-09T20:43:12,Honest Trailer are gonna be all over this.,1,0,DarkSeekerCosplay,E_j1eFy0zp4,0.6,2015-09-09 20:43:12,False,True
+2015-09-09T20:56:48,Pvp saan,0,0,Josip Guberac,E_j1eFy0zp4,0.0,2015-09-09 20:56:48,False,True
+2015-09-09T21:57:50,Those are actually mental patients who murdered their real grandparents,50,12,Sebastian H.,E_j1eFy0zp4,0.05,2015-09-09 21:57:50,False,True
+2015-09-10T01:11:01,I love haters like I love watching this movie and loving THE VISIT!,0,0,Hello Good Day here!,E_j1eFy0zp4,0.5833333333333334,2015-09-10 01:11:01,False,True
+2015-09-10T02:40:01,how old im have to be for see that movie!?,0,0,Alexandra Lalu,E_j1eFy0zp4,0.125,2015-09-10 02:40:01,False,True
+2015-09-10T08:33:58,"this trailer doesnt do it justice.. just saw the movie. really liked it, nice plot especially towards the end was very scary too",0,0,Fitzy,E_j1eFy0zp4,0.13749999999999998,2015-09-10 08:33:58,False,True
+2015-09-10T08:51:01,Yes this is a comedy,0,0,Davina Kehoe,E_j1eFy0zp4,0.0,2015-09-10 08:51:01,False,True
+2015-09-10T12:53:34,I'm never gonna go see my Nanan and Poppop again!!!,1,0,J Boxer,E_j1eFy0zp4,0.0,2015-09-10 12:53:34,False,True
+2015-09-10T13:08:12,Looks like a lot of kids will be afraid of their grandparents after watching this...,1,0,zedfenix,E_j1eFy0zp4,-0.6,2015-09-10 13:08:12,False,True
+2015-09-10T15:07:32,I had access to an early screening. I did a review on my channel for anyone interested.,2,1,Blu-Ray King,E_j1eFy0zp4,0.175,2015-09-10 15:07:32,False,True
+2015-09-10T20:16:05,Hansel and Gretel?,0,0,gmon78,E_j1eFy0zp4,0.0,2015-09-10 20:16:05,False,True
+2015-09-10T23:01:37,When i saw the trailer in the beginning at the cinema i thought it was just a classical Disney movie...I thought wrong.,0,0,Tina,E_j1eFy0zp4,-0.25,2015-09-10 23:01:37,False,True
+2015-09-10T23:50:35,m night shave a lamb,0,0,Jeep Ford Guy,E_j1eFy0zp4,0.0,2015-09-10 23:50:35,False,True
+2015-09-11T00:21:59,"SPOILER: THE GRANDPARENTS ARENT REALLY THE REAL ONES, THEYRE ACTUALLY MENTAL PATIENTS, THE REAL GRANDPARENTS ARE IN THE BASEMENT DEAD.",4,3,Jonathan Alvarez,E_j1eFy0zp4,0.06,2015-09-11 00:21:59,False,True
+2015-09-11T02:22:33,The plot twist is that the grandparents aren't their real grandparents they are actually escape mental patients the real grandparents were killed by them the mom had gotten into a argument with the real grandparents and it got physical cause the mom had hit the grandma and the grandpa had hit her back so she had left that night and then the mom had came in contect with the fake grandparents and they killed the real grandparents thats the full plot twist✋🏽👌🏽,0,0,Johnte Maffett,E_j1eFy0zp4,0.01153846153846154,2015-09-11 02:22:33,False,True
+2015-09-11T03:08:33,😁😭,0,0,mercedes livingston,E_j1eFy0zp4,0.0,2015-09-11 03:08:33,False,True
+2015-09-11T07:08:33,"I can't take this too seriously cos the mom is the woman from Step Brothers, We're The Millers and Bad Words",0,0,Luke S.,E_j1eFy0zp4,-0.5166666666666666,2015-09-11 07:08:33,False,True
+2015-09-11T12:54:01,"Ok, everyone commenting that this doesn't even look like a horror movie.... That's because it isn't. It's been categorised as a Thriller. M. Night Shyamalan is not known for doing horror. He's known for his plot twists. When you watch his movies you don't sit there thinking 'I'm going to be scared out of my mind.' You think 'I'm going to try and pick up on the twist before it ends.'",0,0,Itserinjaneok,E_j1eFy0zp4,0.5,2015-09-11 12:54:01,False,True
+2015-09-11T17:15:36,They're just senile.. and at early stage of mad cow disease!,0,0,Schubert Aloysius,E_j1eFy0zp4,-0.23055555555555554,2015-09-11 17:15:36,False,True
+2015-09-11T22:26:33,"Meh, I'd watch it and not be scared",0,0,Ethoz,E_j1eFy0zp4,0.0,2015-09-11 22:26:33,False,True
+2015-09-12T02:24:28,"This movie was creepy, disturbing, and kinda funny, too. 9/10",2,0,adam zarbon,E_j1eFy0zp4,-0.25,2015-09-12 02:24:28,False,True
+2015-09-12T04:55:24,Best unintentional comedy since The Happening.,1,0,FilmGuyChris,E_j1eFy0zp4,1.0,2015-09-12 04:55:24,False,True
+2015-09-12T06:37:32,no the grandparents are escape mental patients and they killed the original grandparents,0,0,CrazyGorilla GM,E_j1eFy0zp4,0.024999999999999984,2015-09-12 06:37:32,False,True
+2015-09-12T07:51:15,Yourn grandma is great with discipline like don't get out of ur bed does it then dies,0,0,Kenneth Chou,E_j1eFy0zp4,0.8,2015-09-12 07:51:15,False,True
+2015-09-12T13:21:41,"This movie just came out, I saw it last night and it was Crazy scary! Definitely recommend.",0,0,VirralGaming 2012,E_j1eFy0zp4,-0.30625,2015-09-12 13:21:41,False,True
+2015-09-12T13:29:41,I just watched this last night at the movies it was weird I would love to tell y'all but I think y'all would want to see it,0,0,Gordon Rogers,E_j1eFy0zp4,0.0,2015-09-12 13:29:41,False,True
+2015-09-12T14:21:44,Omg I'm such an idiot. Okay so I hate horror films because I'm really easily scared and my friends persuaded me to come and see this film. I thought it was a comedy. It is not. Don't watch it,1,0,Lucy Myhill,E_j1eFy0zp4,-0.13333333333333336,2015-09-12 14:21:44,False,True
+2015-09-12T17:29:13,Spoiler: Plot twist they ain't there grandparents they the freaks that killed the real ones!,0,0,Sam Evans,E_j1eFy0zp4,0.024999999999999994,2015-09-12 17:29:13,False,True
+2015-09-12T19:03:51,hansel and gretel only in a horror,0,0,Anishar 17,E_j1eFy0zp4,0.0,2015-09-12 19:03:51,False,True
+2015-09-12T22:59:05,ong today im going yo the movies the visit,0,0,Precious Rojas,E_j1eFy0zp4,0.0,2015-09-12 22:59:05,False,True
+2015-09-12T23:14:10,"Just saw The Visit... NOT scarey at all... It's actually really funny some comedy in it.. a couple of spoky moment's and a little twist.   I expected it to be morely scarey but it was Okay, enjoyable.",0,0,Alicia McDonald,E_j1eFy0zp4,0.10178571428571428,2015-09-12 23:14:10,False,True
+2015-09-12T23:36:32,Gonna go see it today I just don't know what time its going to start?,0,0,Barbara Lopez,E_j1eFy0zp4,0.0,2015-09-12 23:36:32,False,True
+2015-09-13T00:40:20,THOSE ARENT THEIR REAL GRANDPARENTS.,0,0,hideoushorror,E_j1eFy0zp4,0.2,2015-09-13 00:40:20,False,True
+2015-09-13T01:58:47,I just saw this movie a few hours ago. It was pretty good. It is loosely based off of Hansel and Gretel.,0,0,Ari,E_j1eFy0zp4,0.16826923076923078,2015-09-13 01:58:47,False,True
+2015-09-13T02:06:35,i felt sorry for those two kids,0,0,Gwynneth Sulla,E_j1eFy0zp4,-0.5,2015-09-13 02:06:35,False,True
+2015-09-13T02:07:00,i know the boy his from the paper planes movie....,0,0,Gwynneth Sulla,E_j1eFy0zp4,0.0,2015-09-13 02:07:00,False,True
+2015-09-13T03:47:18,No thanks,0,0,Sara Jayne,E_j1eFy0zp4,-0.1,2015-09-13 03:47:18,False,True
+2015-09-13T04:39:04,A very Great movie!!!,0,0,Shantel Goggins,E_j1eFy0zp4,1.0,2015-09-13 04:39:04,False,True
+2015-09-13T06:12:18,"What is the movie rated, MA15+ or R18",0,0,luciana pintos,E_j1eFy0zp4,0.0,2015-09-13 06:12:18,False,True
+2015-09-13T09:38:13,"I saw this last night and i thought it was hilarious, i found myself laughing more than getting scared! Id recommend tho still a good film:)",0,0,Paddyhere_5,E_j1eFy0zp4,0.465,2015-09-13 09:38:13,False,True
+2015-09-13T11:31:03,YAHTZEE!!!! Like if you get it😂,0,0,ew.itscass,E_j1eFy0zp4,0.0,2015-09-13 11:31:03,False,True
+2015-09-13T13:55:08,Spoiler! Those aren't her grandparents. They're Psycho,0,0,Eugene Thao,E_j1eFy0zp4,0.0,2015-09-13 13:55:08,False,True
+2015-09-13T15:28:35,those arent their grandparents the grandparents are dead in the basement,0,0,nSoupon,E_j1eFy0zp4,-0.2,2015-09-13 15:28:35,False,True
+2015-09-13T20:10:37,wow looks dope,0,0,akiim allen,E_j1eFy0zp4,0.1,2015-09-13 20:10:37,False,True
+2015-09-14T09:53:38,Movie: Would you mind getting inside the oven to clean it??? Me: LOL LMFAO XD,1,0,_bernie.hutchinson_,E_j1eFy0zp4,0.5833333333333334,2015-09-14 09:53:38,False,True
+2015-09-14T21:09:19,this was not even a horror movie 😂,0,0,Sonia Gutierrez,E_j1eFy0zp4,0.0,2015-09-14 21:09:19,False,True
+2015-09-15T15:08:38,TWIST: The house is made out of Gingerbread!!,0,0,JWBeyond,E_j1eFy0zp4,0.0,2015-09-15 15:08:38,False,True
+2015-09-15T16:43:02,i was hyped for the movie but now i see that m. night shamalam ia the director... after what he did to avatar.. i kinda have. mixed feelings,0,0,Ace NoeloX,E_j1eFy0zp4,0.0,2015-09-15 16:43:02,False,True
+2015-09-15T17:39:01,"Please check out this review of The Visit, it would really help me out! https://www.the-newshub.com/film-and-tv/the-visit-a-return-to-form-for-m-night-shyamalan",0,0,Tom Cooney,E_j1eFy0zp4,0.25,2015-09-15 17:39:01,False,True
+2015-09-16T00:49:37,mazerunner sounds more interesting,0,0,Lena Gennuso,E_j1eFy0zp4,0.5,2015-09-16 00:49:37,False,True
+2015-09-16T15:35:53,Kinda like me and my sister... I think were the same age too O_O. Little brother- big sister masterrace,0,0,Crs-10,E_j1eFy0zp4,-0.034375,2015-09-16 15:35:53,False,True
+2015-09-17T06:09:57,i wonder at which point m.night will crowbar himself into this one as a cameo,0,0,tomwesfog,E_j1eFy0zp4,0.0,2015-09-17 06:09:57,False,True
+2015-09-17T12:29:17,At the 1:00 mark it starts sounding like Phendrana Drifts from Metroid Prime,0,0,Red Hot Kicks,E_j1eFy0zp4,0.0,2015-09-17 12:29:17,False,True
+2015-09-18T00:48:51,"if you guys thought it was  suppose to be a horror or thriller, you're wrong, it was suppose to be funny.",0,0,WildWolf Matt,E_j1eFy0zp4,-0.125,2015-09-18 00:48:51,False,True
+2015-09-18T05:26:00,this was a really good movie,0,0,Hello Good Day here!,E_j1eFy0zp4,0.7,2015-09-18 05:26:00,False,True
+2015-09-18T11:35:59,lol I seen this movie.A lot of surprises in this movie.,0,0,Prophet 018,E_j1eFy0zp4,0.8,2015-09-18 11:35:59,False,True
+2015-09-19T07:28:43,"Directed by M. Night Shyamalan , emmmm, shame on u Mr Shy. The movie look cheap.",0,0,Kim Kaai,E_j1eFy0zp4,-0.04999999999999999,2015-09-19 07:28:43,False,True
+2015-09-19T07:47:23,After watching this... I would describe it as a non horror triller comedy shit on yo face 11/10,0,0,AlfDaBritButler,E_j1eFy0zp4,-0.2,2015-09-19 07:47:23,False,True
+2015-09-19T09:24:38,"Typical M Night movie. Yes, this movie has a weak plot twist. Watch it at your own risk.",0,0,ultragarrison,E_j1eFy0zp4,0.019444444444444448,2015-09-19 09:24:38,False,True
+2015-09-19T10:46:36,So YOu go visit your Grandparents. And you find out they like to drop acid at night. nothing strange about this.,0,0,JRMCNEA,E_j1eFy0zp4,-0.05,2015-09-19 10:46:36,False,True
+2015-09-19T12:07:27,"Damn Shyamalan, this looks like a whoooooole lotta legitness!",0,0,Chris G,E_j1eFy0zp4,0.0,2015-09-19 12:07:27,False,True
+2015-09-19T18:37:42,When is. The movie comeing on,0,0,Melanny Garcia,E_j1eFy0zp4,0.0,2015-09-19 18:37:42,False,True
+2015-09-19T23:00:17,This movie sucked!! I figured out the ending in the first 5 minutes. M.knight is apparently jumping in the band wagon of FF films as well which actually gets annoying and ridiculous at times. I mean your getting attacked and your still holding the camera?? Its more funny than scary and the heart felt massage at the end seemed forced after the so called terror climax scene. Save your money and time. This director doesn't seem to make good movies anymore. Or maybe he never did and it was just the actors he used in the past is what made them great. IDK.,0,0,TheSeaShellBell,E_j1eFy0zp4,0.004166666666666669,2015-09-19 23:00:17,False,True
+2015-09-20T00:48:03,"Ok so I just got back from seeing this movie so here are my thoughts free of spoilers. At first I did not really like this film. I honestly thought it more of a comedy with a few predictable jump scares in between. Most of which made me laugh or just sit in my seat emotionless but I will admit, the humor is pretty good. As for horror, aside from the jump scares I mentioned before, there isn't that much to see. Although about an hour or so in, things start to get a little more freaky and actually got me a bit suspenseful and exited. I wanted to see what was going to happen next. As for the plot twist, (which I will not spoil here) it was actually really good. I did not see it coming at all (that's probably just me and my friends though). Overall I'd give this movie a watch but just don't go into it expecting anything big.",0,0,Lotte Yanson,E_j1eFy0zp4,0.21420454545454548,2015-09-20 00:48:03,False,True
+2015-09-20T01:22:32,honestly I think the ur bedtime is 9:30 u shouldn't come out of your room after that  really should've tipped them off,0,0,Breanna Pfeifer,E_j1eFy0zp4,0.4,2015-09-20 01:22:32,False,True
+2015-09-20T06:58:24,How old to watch it xx,0,0,Yvie Morris,E_j1eFy0zp4,0.1,2015-09-20 06:58:24,False,True
+2015-09-20T15:49:51,This movie wasn't even that scary. I just made funny comments the whole time I watched it,0,0,235 Giraffes,E_j1eFy0zp4,-0.016666666666666663,2015-09-20 15:49:51,False,True
+2015-09-20T15:56:19,"Spoiler & opinion: the movie is quite bad. at the end the kids found out that they are living with strangers that are not their real grandparents. Those 2 old ppl are psychiatric patient who killed their real grandparents. How come these kids do not know their real grandparents' faces. their mother would have shown them pics of their real grandparents. Besides, in the movie, their grandparents have an online counseling website that they help ppl in psy hospital. im sure those kids would have seen their grandparents look like. At the end, the director never mention or give any credit on who are those imposters who pretend to be the kids grandparents. We are left with ??? who are those imposter, how they plan to kill  the kids real grandparents, how the imposter psy get to know all about the kids family. How everything was plan out coz those 2 imposter old ppl are demented and no in sane mind to plot such murder. All hanging with no answer. My verdict: D.",7,4,Haylor Stevejuanes,E_j1eFy0zp4,0.06666666666666668,2015-09-20 15:56:19,False,True
+2015-09-20T18:15:02,kill that grandma XD,0,0,Soup,E_j1eFy0zp4,0.0,2015-09-20 18:15:02,False,True
+2015-09-20T18:41:19,"I went to see it yesterday, and its actually more funny than scary😂😂😂 I loved it...",4,0,Breanna Langford,E_j1eFy0zp4,0.48333333333333334,2015-09-20 18:41:19,False,True
+2015-09-20T22:28:07,"This is such a great movie! It's super scary, but at the same time really funny! It's definitely one of M. Nights best movies! And the twist is amazingly scary!",0,0,London CPH,E_j1eFy0zp4,0.16898148148148145,2015-09-20 22:28:07,False,True
+2015-09-21T23:44:10,"this movie is so good, the trailers really dont do it justice, it has a perfect balance of creepy and hilarity, the message this movie conveys really jabs the hearts of people who would even consider elopement as a thing to make parents understand the decisions they're making, and also it teaches us not to linger on past mistakes as well as no giving in to anger, the horror only plays a minor role here and plus there's a twist that no one ever expected, but tbh they really did give us hints throughout the movie about whats to come, all I' m saying is that this was a really decent movie, but pshhhh what do I know, I'm just stupid for liking one of Shymalan's movie -,-",0,0,Fitri Ainni,E_j1eFy0zp4,0.005128205128205127,2015-09-21 23:44:10,False,True
+2015-09-21T23:58:29,HIS TONGUE DID THEY PAID HIM TO DO THAT HE'S NOT MILEY CYRUS!!!!!!!!!!!!!!!! ,0,0,姫いちご,E_j1eFy0zp4,0.0,2015-09-21 23:58:29,False,True
+2015-09-22T00:00:58,HOW THE HECK HIS VOICE WAS A SOFTER CHILD VOICE IN THIS MOVIE!!!!!!!!! WHAT THE HE'LL!!!!!!!!!!!! ON INTERVIEWS HIS VOICE WAS DEEP AND BROKEN I WILL BASH YOU AND COMPLAIN ABOUT THE VISIT OF HIS VOICE WAS BROKEN YOU TOOK DRUGS YOU MADE HIM SCREAM VOICE HURT NOW YOU RUIN THE FACK OUT OF HIM,0,0,姫いちご,E_j1eFy0zp4,-0.26666666666666666,2015-09-22 00:00:58,False,True
+2015-09-22T18:38:24,"I went to see this last week and I just have to say that the girl in the leading role was very convincing, a really talented young actress",0,0,kisiam,E_j1eFy0zp4,0.36250000000000004,2015-09-22 18:38:24,False,True
+2015-09-23T08:29:48,Would you mind getting inside the oven to clean it😂😂😂,0,0,khalid almansoori,E_j1eFy0zp4,0.3666666666666667,2015-09-23 08:29:48,False,True
+2015-09-24T01:27:24,Great movie!,0,0,r mac,E_j1eFy0zp4,1.0,2015-09-24 01:27:24,False,True
+2015-09-25T07:00:14,Watched it today. Thoroughly enjoyed the film from beginning to end. Pretty original for a found footage genre. Twist was genuine. M Night's best movie in a good while.,0,0,bernyg79,E_j1eFy0zp4,0.5375,2015-09-25 07:00:14,False,True
+2015-09-25T11:38:18,The girl in this movie is played by my friend's sister :D,0,0,StainSeanos3,E_j1eFy0zp4,1.0,2015-09-25 11:38:18,False,True
+2015-09-25T18:08:39,This looks so terrible,0,0,Vari Munroe,E_j1eFy0zp4,-1.0,2015-09-25 18:08:39,False,True
+2015-09-25T21:09:06,This movie is funny. I just saw it,0,0,shampaingel,E_j1eFy0zp4,0.25,2015-09-25 21:09:06,False,True
+2015-09-25T22:02:54,what about the little boy? was he always blind or did the crazy grandpa made him go blind?? and why the boy was acting in the end all psycho/???? I watched the movie and I didnt understand the ending... please can anyone explain please,0,0,Beatričė Morkūnaitė,E_j1eFy0zp4,-0.35750000000000004,2015-09-25 22:02:54,False,True
+2015-09-25T22:51:09,scary😱,0,0,Chardonay Frazier,E_j1eFy0zp4,0.0,2015-09-25 22:51:09,False,True
+2015-09-26T04:57:54,worst movie!!!! it sucked terribly!,0,0,K Desh,E_j1eFy0zp4,-1.0,2015-09-26 04:57:54,False,True
+2015-09-26T07:32:00,I SEE OLD PEOPLE. WHO'S HIPS CAN'T BE BROKEN,0,0,Brian Maxwell,E_j1eFy0zp4,-0.15000000000000002,2015-09-26 07:32:00,False,True
+2015-09-26T09:07:08,movie sucked don't watch it,0,0,BloodyVirus,E_j1eFy0zp4,0.0,2015-09-26 09:07:08,False,True
+2015-09-26T10:53:02,"""BECKA BECKA...WHI AM I 😂😂😂"" OMG MUST SEE",1,0,Sam's Collection,E_j1eFy0zp4,0.0,2015-09-26 10:53:02,False,True
+2015-09-26T12:54:19,Looks good,0,0,Holly Norman,E_j1eFy0zp4,0.7,2015-09-26 12:54:19,False,True
+2015-09-26T13:02:01,THE ENDING WAS SO FUCKED UP AND SCARY BUT GOOD ASS MOVIE,0,0,Hi hey,E_j1eFy0zp4,-0.1333333333333334,2015-09-26 13:02:01,False,True
+2015-09-26T15:23:42,"*About to kill himself* *person walks in* ""I was just cleaning it!""",0,0,little italy,E_j1eFy0zp4,0.0,2015-09-26 15:23:42,False,True
+2015-09-26T15:57:46,"M. Night disappointed me with this one. Glad I saw it for free. I thought The Happening was bad, this was horrible. I still like him as a director but this could have been ALOT better. ✌🏾",0,0,Why You Trippin' Deebo,E_j1eFy0zp4,-0.17499999999999996,2015-09-26 15:57:46,False,True
+2015-09-26T20:50:38,i watched this yesterday c:,0,0,Bunni ʕ•ᴥ•ʔ,E_j1eFy0zp4,0.0,2015-09-26 20:50:38,False,True
+2015-09-27T00:57:15,M Knight!!!,0,0,Slimm Jimm,E_j1eFy0zp4,0.0,2015-09-27 00:57:15,False,True
+2015-09-27T07:20:35,This movie was fucked in the head  .... I loved it,0,0,Ella Mcauliffe,E_j1eFy0zp4,0.04999999999999999,2015-09-27 07:20:35,False,True
+2015-09-27T11:19:56,I love this movie💖 it's scary but weird at the same time👍🏻👌🏻👌🏻,0,0,Natasha Sienna,E_j1eFy0zp4,-0.125,2015-09-27 11:19:56,False,True
+2015-09-27T14:01:44,is this movie good? better than poltergeist?,0,2,Mohammada Aprilianto,E_j1eFy0zp4,0.6,2015-09-27 14:01:44,False,True
+2015-09-27T15:09:02,those arent your grand parents. wait what!!!!!!!!!!!!!!!,0,0,sleeping cat,E_j1eFy0zp4,1.0,2015-09-27 15:09:02,False,True
+2015-09-27T19:05:56,DO NOT WATCH....you are welcome,1,0,Colm Dalton,E_j1eFy0zp4,0.8,2015-09-27 19:05:56,False,True
+2015-09-28T06:51:18,I just finished watching this its creepy ,0,0,SlaveForJesus Christ,E_j1eFy0zp4,-0.5,2015-09-28 06:51:18,False,True
+2015-09-28T07:48:56,"This was really a great movie. I went into it knowing nothing about it except what's seen in the trailer and I think the experience was incredible that way. I felt a very wide range of emotions while watching this film, good to see M. Night Shyamalan has his groove back (although not to the level of ""Signs"" and ""The Sixth Sense"").",0,0,Red88Rex,E_j1eFy0zp4,0.45400000000000007,2015-09-28 07:48:56,False,True
+2015-09-28T10:24:47,Soon no one will ever spend the night at their grandparents anymore...,0,0,Gαιαχφ υηιcοrη,E_j1eFy0zp4,0.0,2015-09-28 10:24:47,False,True
+2015-09-28T15:37:00,OK so the plot twist is they are NOT their grandparents at all they are escape mental patients that killed the real grandparents and are now just posing as them towards the end of the movie the kids show their mom the grandparents on the Skype call and she's like.. Who are those people?? those aren't your grandparents and she starts freaking out,0,0,gnarly441,E_j1eFy0zp4,0.1,2015-09-28 15:37:00,False,True
+2015-09-28T21:33:27,YAHTZEEEEE,1,1,Slender Man,E_j1eFy0zp4,0.0,2015-09-28 21:33:27,False,True
+2015-09-28T23:46:16,M. Night Shyamalan is responsible for some awesome movie trailers!,1,0,FionnMarr,E_j1eFy0zp4,0.6,2015-09-28 23:46:16,False,True
+2015-09-29T02:05:42,"plot twist: real grandparents are dead, these two are imposters escaped from a mental prison",0,0,Sean Armstrong,E_j1eFy0zp4,-0.03333333333333333,2015-09-29 02:05:42,False,True
+2015-09-29T10:52:36,"man I know this trailer makes this film seem like a cliche horror. But it felt real genuine and original, and I pretty much don't like any horror film. I mean if you like signs, and the sixth sense I reckon you'll like this. Tell me if you like those films but thought otherwise for this. :)",0,0,Samuel Kreusler,E_j1eFy0zp4,0.26875,2015-09-29 10:52:36,False,True
+2015-09-30T05:20:10,Im seeing this on Friday. It seems so scary aha. Whats it like? What is the scariest scene?,0,0,gracemay,E_j1eFy0zp4,-0.5,2015-09-30 05:20:10,False,True
+2015-09-30T08:08:12,knowing that M.Night is probably the worst director of all time this movie is gonna suck ass just like the last air bender movie,1,0,gamerz4ever,E_j1eFy0zp4,-0.5,2015-09-30 08:08:12,False,True
+2015-09-30T14:14:09,"For me, this reminds me of Paranormal Activity. And i don't like Paranormal Activity. =(",0,0,TheDarkSeeds - SCM,E_j1eFy0zp4,-0.75,2015-09-30 14:14:09,False,True
+2015-10-02T12:12:41,Worst movie i seen in a while. On top of that its a cam movie. This is why i download movies off the internet for free.,0,0,David Urban,E_j1eFy0zp4,-0.033333333333333326,2015-10-02 12:12:41,False,True
+2015-10-02T15:21:17,Bruce Willis was dead the whole time.  9/11 was an inside job.,0,0,Joseph K,E_j1eFy0zp4,0.0,2015-10-02 15:21:17,False,True
+2015-10-03T13:27:30,"The movie wasn't that great.  The grandparents were fake, they were a couple of loonies for a mental asylum who murdered the children's real grandparents.",0,0,Machismo549,E_j1eFy0zp4,0.1,2015-10-03 13:27:30,False,True
+2015-10-04T12:52:51,I saa the movie at the movies and its boring its not even scary.,0,0,Gabriele De Rensis,E_j1eFy0zp4,-0.75,2015-10-04 12:52:51,False,True
+2015-10-06T20:13:24,How do people know that the grandma put her real grandchildren in a suitcase and dropped them down in the well,0,0,Angel On Chains,E_j1eFy0zp4,0.022222222222222213,2015-10-06 20:13:24,False,True
+2015-10-07T22:02:07,I don't think I'm going to be able to trust my grandparents after watching this,1,0,Lily M,E_j1eFy0zp4,0.5,2015-10-07 22:02:07,False,True
+2015-10-08T20:18:46,hahahahaha this shit looks creepy!,0,0,Brian Thongkham,E_j1eFy0zp4,-0.20833333333333334,2015-10-08 20:18:46,False,True
+2015-10-09T06:30:45,"This is honestly the funniest movie I have ever watched! And this is horror; me and horror movies don't mix very well! But if your thinking about watching this, you should because it's freaking hilarious!",0,0,Ola Chaarani,E_j1eFy0zp4,0.5416666666666666,2015-10-09 06:30:45,False,True
+2015-10-09T16:24:08,"This film is total and utter shit, just like all his other films. The grandparents are really two escaped mental patients that have killed the real grandparents",0,0,StabbyMcBlade,E_j1eFy0zp4,-0.028125000000000004,2015-10-09 16:24:08,False,True
+2015-10-10T03:12:24,Would you mind geting in the oven to clean it :O,0,0,Just a girl,E_j1eFy0zp4,0.20833333333333334,2015-10-10 03:12:24,False,True
+2015-10-10T09:03:24,worst thing is dat he put his used diapers in the shed xD eww omg ~_~,0,0,Siti Nurhanis,E_j1eFy0zp4,-1.0,2015-10-10 09:03:24,False,True
+2015-10-11T22:21:50,Crazy,0,0,tanner cunningham,E_j1eFy0zp4,-0.6,2015-10-11 22:21:50,False,True
+2015-10-12T04:02:20,This sucked tbh,0,0,Ryan Reynoso,E_j1eFy0zp4,0.0,2015-10-12 04:02:20,False,True
+2015-10-12T13:47:51,it was funnier than scarier,0,0,Headlxnes,E_j1eFy0zp4,0.0,2015-10-12 13:47:51,False,True
+2015-10-12T18:50:32,The worst movie i've ever seen,0,0,Luis Bogran,E_j1eFy0zp4,-1.0,2015-10-12 18:50:32,False,True
+2015-10-13T00:26:45,everyone was laughing in the theater lol its suspense but comedy it was pretty good though,0,0,adriana v,E_j1eFy0zp4,0.5833333333333334,2015-10-13 00:26:45,False,True
+2015-10-13T13:53:43,YAHTZEEEE!,0,0,Chloe Colors,E_j1eFy0zp4,0.0,2015-10-13 13:53:43,False,True
+2015-10-14T01:39:20,who now the 1 song in this trailer?,0,0,ostap miloshkin,E_j1eFy0zp4,0.0,2015-10-14 01:39:20,False,True
+2015-10-14T13:42:52,"After watching this movie, i must say...the little kid (tyler) is a gangsta throughout the movie hahaha! though him rapping is crappier than crap; However it has a very interesting twist at the end! (dw, wont spoil it for ya)",0,0,Zeeshan,E_j1eFy0zp4,0.01874999999999999,2015-10-14 13:42:52,False,True
+2015-10-16T02:08:16,great movie!!!!!! 👌👌👌,0,0,Shanice Tjokrokario,E_j1eFy0zp4,1.0,2015-10-16 02:08:16,False,True
+2015-10-16T19:43:11,The story is from The Goosebumps book series,0,0,Don Godrick,E_j1eFy0zp4,0.0,2015-10-16 19:43:11,False,True
+2015-10-20T13:24:48,What's wrong song,0,0,prompong Prompong,E_j1eFy0zp4,-0.5,2015-10-20 13:24:48,False,True
+2015-10-21T20:14:09,Good movie!!!,0,0,Wintech Andrew,E_j1eFy0zp4,1.0,2015-10-21 20:14:09,False,True
+2015-10-21T22:44:42,"Do we ever learn who, or what the grandparents really are? So tired of movies without a background story. ",0,0,Suzanne Kruger,E_j1eFy0zp4,-0.1,2015-10-21 22:44:42,False,True
+2015-10-23T03:27:41,"'""I heard you had a problem with germs""",1,0,Backyard Sequoia,E_j1eFy0zp4,0.0,2015-10-23 03:27:41,False,True
+2015-10-23T17:37:42,"This movie was fairly disturbing, i really enjoyed it. It was funny, scary, and sad. I have never been that scared of a horror movie sense The Grudge. I really liked it, but that twist ending was... Phew.",0,0,Munchies,E_j1eFy0zp4,-0.025000000000000005,2015-10-23 17:37:42,False,True
+2015-10-27T10:17:28,i love this film,0,0,Job Cruz,E_j1eFy0zp4,0.5,2015-10-27 10:17:28,False,True
+2015-10-28T15:46:24,"The last third of the movie, loses the direction.....and get´s so predicctable, with a cheese argument.........Of course, it´s an indian guy.",0,0,cuerpoeperra,E_j1eFy0zp4,-0.09999999999999999,2015-10-28 15:46:24,False,True
+2015-10-30T19:15:22,wheres superman when you need him?,0,0,Roy Payne,E_j1eFy0zp4,0.0,2015-10-30 19:15:22,False,True
+2015-11-06T05:14:46,Not going to see a PG-13. More like R or Unrated I will.,0,0,Awesome Bryner,E_j1eFy0zp4,0.5,2015-11-06 05:14:46,False,True
+2015-11-06T17:11:26,loved this movie,0,0,maria Cano,E_j1eFy0zp4,0.7,2015-11-06 17:11:26,False,True
+2015-11-08T00:01:00,Those kids are 10-20 years older than they look.,0,0,Raximus3000,E_j1eFy0zp4,0.16666666666666666,2015-11-08 00:01:00,False,True
+2015-11-17T21:36:57,they not there grandparents they killed the I watch rae whole movie,0,0,Brooklynn Mcinnis,E_j1eFy0zp4,0.0,2015-11-17 21:36:57,False,True
+2015-11-20T14:13:32,Please can someone tell me if this movie is worth buying? i'm in two minds about getting the visit,0,0,Siobhan Cosgrove,E_j1eFy0zp4,0.3,2015-11-20 14:13:32,False,True
+2015-11-22T03:38:31,remind me NYC subway spooky and old,0,0,B Tte,E_j1eFy0zp4,0.1,2015-11-22 03:38:31,False,True
+2015-11-23T21:41:28,On the end of the movie the kids kill there grandparents.because that is there not there grandparents.there fake grandparents killed there actuall real grandparents,0,0,Jay Horton,E_j1eFy0zp4,-0.16666666666666666,2015-11-23 21:41:28,False,True
+2015-11-26T17:32:54,Song nam,0,0,beatologies,E_j1eFy0zp4,0.0,2015-11-26 17:32:54,False,True
+2015-11-26T17:33:15,song name?,0,0,beatologies,E_j1eFy0zp4,0.0,2015-11-26 17:33:15,False,True
+2015-12-01T03:02:33,That laugh though at 0:28...,0,0,The Dreamer Kid,E_j1eFy0zp4,0.3,2015-12-01 03:02:33,False,True
+2015-12-01T14:24:29,Anybody knows the song at 0:10  ?  the doors maybe...,0,0,James Boring,E_j1eFy0zp4,0.0,2015-12-01 14:24:29,False,True
+2015-12-06T03:47:50,"Shakira, Mylie Cyrus,  Katie Pary",0,0,Abay Kozybayev,E_j1eFy0zp4,0.0,2015-12-06 03:47:50,False,True
+2015-12-06T21:09:29,"My favorite part is every time that damn bedroom door opens, I know I'm gonna see saw some nasty shit. And I wasn't able to prepare myself for it no matter how much I anticipate it. I mean, naked granny wtf.",0,0,F dL,E_j1eFy0zp4,-0.1015625,2015-12-06 21:09:29,False,True
+2015-12-09T03:17:32,Rly ? pov crap ?! screw this sh*t,0,0,Mike Van Der Vegt,E_j1eFy0zp4,-1.0,2015-12-09 03:17:32,False,True
+2015-12-12T22:08:17,what´s the name of the song playing at 0:10 secs,0,0,Thays Alves,E_j1eFy0zp4,0.0,2015-12-12 22:08:17,False,False
+2015-12-14T16:57:05,Shit doesn't taste like chicken!!!,4,0,Ad Smarte,E_j1eFy0zp4,-0.6,2015-12-14 16:57:05,False,False
+2015-12-19T02:59:15,"Who wrote this predicable piece of crap a 3rd grader? total waste of time, the only reason I finished it was because I went past the point of no return and could get my time back..",0,0,Jimmy Shaft,E_j1eFy0zp4,-0.17857142857142858,2015-12-19 02:59:15,False,False
+2015-12-21T18:38:44,"""would you mind getting inside the oven quickly to clean it dear?"" WHAT KIND OF QUESTION IS THAT WOMAN",0,0,Jojo Can,E_j1eFy0zp4,0.48333333333333334,2015-12-21 18:38:44,False,False
+2015-12-24T02:01:40,Stfu all and watch it. It's good movie. 7/10,0,0,Kirito Kun,E_j1eFy0zp4,0.7,2015-12-24 02:01:40,False,False
+2015-12-26T15:01:45,wouldnt you mind getting inside the oven to clean it,0,0,Jajan Lew,E_j1eFy0zp4,0.3666666666666667,2015-12-26 15:01:45,False,False
+2015-12-28T08:18:51,worst  crap have ever seen,0,0,Hector Peralta,E_j1eFy0zp4,-0.9,2015-12-28 08:18:51,False,False
+2015-12-30T01:35:34,Crazy right,0,0,Jonathan Betanco,E_j1eFy0zp4,-0.15714285714285714,2015-12-30 01:35:34,False,False
+2016-01-01T17:13:38,"Trailer sucks, but movie is scary af and you will shit your pants at plot twist😱 I watch a lot of horror movies,i'm big fan and this was one of the scariest i watched lately!!",1,0,Lara Flowies,E_j1eFy0zp4,-0.29375,2016-01-01 17:13:38,False,False
+2016-01-02T10:50:55,It a good one scary reminds me of my grandparents lol,1,0,Alecia A,E_j1eFy0zp4,0.3333333333333333,2016-01-02 10:50:55,False,False
+2016-01-11T18:39:04,i love this movie...great movie!,0,0,Aisha Thomas,E_j1eFy0zp4,0.625,2016-01-11 18:39:04,False,False
+2016-01-13T02:38:19,I laughed for 15 minutes at the naked gramma part,0,0,yasmine bear,E_j1eFy0zp4,0.35,2016-01-13 02:38:19,False,False
+2016-01-13T03:32:42,Throwback Thursday to when this was an ad on every video I watched.,0,0,Saeran,E_j1eFy0zp4,0.0,2016-01-13 03:32:42,False,False
+2016-01-13T09:45:17,บางทีก้เหมือนจะน่ากลัว,0,0,Sayonara Narak,E_j1eFy0zp4,0.0,2016-01-13 09:45:17,False,False
+2016-01-16T06:47:50,"okk , now where's the comedy ... ???",0,0,vishal Ghaytadak,E_j1eFy0zp4,0.0,2016-01-16 06:47:50,False,False
+2016-01-16T22:20:40,I am so scared do not recommend you watching this at night😨,0,3,Jazmin,E_j1eFy0zp4,0.0,2016-01-16 22:20:40,False,False
+2016-01-17T00:19:52,last bit scared me 2 death,0,0,sAy WaLLaHi,E_j1eFy0zp4,0.0,2016-01-17 00:19:52,False,False
+2016-01-19T05:44:10,Not a bad movie actually. But seriously...poop?,19,2,Jedaqia Angel,E_j1eFy0zp4,0.17499999999999996,2016-01-19 05:44:10,False,False
+2016-01-19T05:45:17,what the hell grandma told her granddaughter to get in the oven and she did it was sad,0,0,Jada Yarbrp,E_j1eFy0zp4,-0.5,2016-01-19 05:45:17,False,False
+2016-01-24T18:32:33,that was sooo scary!!,0,0,Isabella Amyzial,E_j1eFy0zp4,-0.78125,2016-01-24 18:32:33,False,False
+2016-01-24T19:00:02,this movie is really lame and stupid and cheesie,0,0,Elizabeth Cooper,E_j1eFy0zp4,-0.6499999999999999,2016-01-24 19:00:02,False,False
+2016-01-25T21:16:40,This film is like thriller but its really cool. Some parts comedy! Don't mistake it for a horror because its not !,1,0,hapihaze,E_j1eFy0zp4,0.546875,2016-01-25 21:16:40,False,False
+2016-01-30T20:59:11,Omg never want to see this,0,0,Eva Fast,E_j1eFy0zp4,0.0,2016-01-30 20:59:11,False,False
+2016-01-30T23:25:53,The scariest thing in this movie is the the girl's eyebrows😂😂😂😂😂,0,0,Riley Mac,E_j1eFy0zp4,0.0,2016-01-30 23:25:53,False,False
+2016-02-04T03:25:09,I liked it,0,0,Crystal leemae,E_j1eFy0zp4,0.6,2016-02-04 03:25:09,False,False
+2016-02-04T22:13:13,Scary,0,0,Cherry Pop,E_j1eFy0zp4,-0.5,2016-02-04 22:13:13,False,False
+2016-02-05T08:02:45,I loved it !! but I love all his movies !! I loved the twist,0,0,kitkatcoco67,E_j1eFy0zp4,0.8270833333333334,2016-02-05 08:02:45,False,False
+2016-02-06T04:34:51,nice I won't to see it is in redbox!!!!!!😋😋😋😋😋😋,0,0,Abby Wilds,E_j1eFy0zp4,0.6,2016-02-06 04:34:51,False,False
+2016-02-06T23:42:05,"Well,To whom who hasn't watch the movie,I wanna tell you something hella creepy. -In this movie there's an ending. -The nanny is a psycho  -The pop pop is a pedophile -The nanny and pop pop are not their grandparents -The pop pop poops in baby's diaper -And my reaction was like wat Dafuq",0,0,idunno whour,E_j1eFy0zp4,-0.5,2016-02-06 23:42:05,False,False
+2016-02-09T00:27:29,Love,0,0,Brandon Lucas,E_j1eFy0zp4,0.5,2016-02-09 00:27:29,False,False
+2016-02-11T22:15:01,I watched this movie and it was actually really good especially towards the end,20,1,Alana Campbell,E_j1eFy0zp4,0.35,2016-02-11 22:15:01,False,False
+2016-02-12T03:43:40,This was a waste of time...seriously one of the worst horror/thriller movies I've seen. ..,0,0,South Sea,E_j1eFy0zp4,-0.6,2016-02-12 03:43:40,False,False
+2016-02-12T13:39:35,loved this movie... one hell of a twist!,1,0,MikeCarterMarketing,E_j1eFy0zp4,0.875,2016-02-12 13:39:35,False,False
+2016-02-13T09:19:57,روعه,0,0,K h a l e d,E_j1eFy0zp4,0.0,2016-02-13 09:19:57,False,False
+2016-02-14T14:41:37,Spoiler: they're not their grandparents,0,0,Moonave,E_j1eFy0zp4,0.0,2016-02-14 14:41:37,False,False
+2016-02-15T19:18:56,t hh m,0,0,Carla Leos,E_j1eFy0zp4,0.0,2016-02-15 19:18:56,False,False
+2016-02-15T22:41:00,This was one of the dumbest horror movies I've ever watched it's not worth the dirt on your shoes,0,0,Chase,E_j1eFy0zp4,-0.15,2016-02-15 22:41:00,False,False
+2016-02-15T22:46:43,"They should make a ""The Visit Two"" and twice as scary!! Like if u agree",0,0,AshMC _,E_j1eFy0zp4,-0.78125,2016-02-15 22:46:43,False,False
+2016-02-16T02:45:17,this is honestly more like a comedy movie...these film directors have become corrupt enough to make old people abnormal..:P,0,0,Niama,E_j1eFy0zp4,0.025,2016-02-16 02:45:17,False,False
+2016-02-17T23:36:12,It's not scary it's just disturbing and creepy!,0,0,Alena Movchan,E_j1eFy0zp4,-0.2916666666666667,2016-02-17 23:36:12,False,False
+2016-02-17T23:37:06,I am the person who is so scared of horror movies thanks to the ring. But with this movie I was fine.,0,0,Alena Movchan,E_j1eFy0zp4,0.30833333333333335,2016-02-17 23:37:06,False,False
+2016-02-18T08:33:02,"can someone tell me, where is the real grandma n grandpa..i dont understand this movie..",0,2,Green Rose,E_j1eFy0zp4,0.2,2016-02-18 08:33:02,False,False
+2016-02-21T02:30:35,horrible movie wouldn't recommend this movie to my worst enemy. ..,0,0,Brandon Martinez,E_j1eFy0zp4,-1.0,2016-02-21 02:30:35,False,False
+2016-02-26T05:25:48,SUCKS!!!!,1,0,Tommy Sands,E_j1eFy0zp4,-0.732421875,2016-02-26 05:25:48,False,False
+2016-02-26T23:53:32,"M. Night Shamaylan finally made a good movie, it was scary and had a good twist",2,0,huzar237,E_j1eFy0zp4,0.22499999999999998,2016-02-26 23:53:32,False,False
+2016-02-27T04:55:47,"whud you git in the oven and clen it   ""bye grandma"" -_-",5,0,PlayDoeTV,E_j1eFy0zp4,0.0,2016-02-27 04:55:47,False,False
+2016-02-29T23:07:18,stupidest movie I've ever watched,0,0,Nikola Arsić,E_j1eFy0zp4,0.0,2016-02-29 23:07:18,False,False
+2016-03-01T03:40:33,Worse movie I have seen in years. I knew I should have chalked it up as the rest of M. Night Shenanigan's garbage and stayed away from it.,0,0,casey sattler,E_j1eFy0zp4,-0.4,2016-03-01 03:40:33,False,False
+2016-03-03T13:16:52,I can't wait to watch it man,0,0,Ariyanne Bellard,E_j1eFy0zp4,0.0,2016-03-03 13:16:52,False,False
+2016-03-05T01:57:07,Lol the boy rapping at the end had me in tears👍😆😆😆👍👍❤❤❤❤ Good movie!!,0,0,Chauntele Kali,E_j1eFy0zp4,0.9,2016-03-05 01:57:07,False,False
+2016-03-07T13:40:24,"I was surprised by it, thought it was actually pretty well done",0,0,highwaymaintainer,E_j1eFy0zp4,0.175,2016-03-07 13:40:24,False,False
+2016-03-16T04:46:25,"I just wish someone would give the opportunity to share my ideas for horror movies. I've revealed some to my friends and it scared the Jesus out of them. Unfortunately, I'm the regular mon-friday corporate employee with no other opportunities in life than take shit day in day out.",3,5,AJsVIEW,E_j1eFy0zp4,-0.1275,2016-03-16 04:46:25,False,False
+2016-03-19T04:35:53,stupid movie. a waste of time,0,0,HRDP Services,E_j1eFy0zp4,-0.5,2016-03-19 04:35:53,False,False
+2016-03-25T07:23:08,staying at grandma's for 15 days I'm stay up all night to see what happens?!!....lol,1,0,Just enjoying YouTube.,E_j1eFy0zp4,0.0,2016-03-25 07:23:08,False,False
+2016-03-26T23:28:59,why the hell they just don't leave the fukin house... i realy don't understand the horror movies logic.,2,0,Sekai Games,E_j1eFy0zp4,0.0,2016-03-26 23:28:59,False,False
+2016-03-30T16:28:16,When the girl got shoved in the oven why was the boy filming not helping,0,0,robloxislife69,E_j1eFy0zp4,0.0,2016-03-30 16:28:16,False,False
+2016-04-11T11:51:57,when i saw that old lady naked while scratching the walls . i seriously wanna threw up . Papa ( granpa ) is nasty . hes wearing adult diaper and shit in it but didnt throw it awat . he keep that diry diapers in uhmm . a hut ( idk what do we call it ) . herhh.,0,2,DEENA,E_j1eFy0zp4,-0.2222222222222222,2016-04-11 11:51:57,False,False
+2016-04-16T21:14:14,Finally someone thought of making a movie out of creepypastas.,25,3,Efe Aydal,E_j1eFy0zp4,0.0,2016-04-16 21:14:14,False,False
+2016-04-24T02:39:59,This is f****ed up,0,0,weenie_ dog,E_j1eFy0zp4,0.0,2016-04-24 02:39:59,False,False
+2016-04-24T02:45:29,This movie is f***ed up,0,0,weenie_ dog,E_j1eFy0zp4,0.0,2016-04-24 02:45:29,False,False
+2016-04-29T20:20:29,Is this movie any good?,0,0,Sophia LaPalme,E_j1eFy0zp4,0.7,2016-04-29 20:20:29,False,False
+2016-05-06T05:43:51,This movie sucks.,0,0,Nielz Borquez,E_j1eFy0zp4,-0.3,2016-05-06 05:43:51,False,False
+2016-05-07T18:50:11,I watched this movie this past fall and it was scary!!,0,0,DeadSkinFist,E_j1eFy0zp4,-0.515625,2016-05-07 18:50:11,False,False
+2016-05-13T07:57:17,Wow their mom could not even tell them what their grandparents look like before she sent them there?,1,0,Binuyaka Vanilla,E_j1eFy0zp4,0.1,2016-05-13 07:57:17,False,False
+2016-05-13T13:49:07,I love this movie it's so scary,0,0,lucymp,E_j1eFy0zp4,0.0,2016-05-13 13:49:07,False,False
+2016-05-23T14:25:45,Is it real,0,0,Idk,E_j1eFy0zp4,0.2,2016-05-23 14:25:45,False,False
+2016-05-26T11:14:10,The daughter is actually the smart one in the movie. She just doesn't make the wisest decisions lol.,0,1,Kareem Elwakil,E_j1eFy0zp4,0.33809523809523806,2016-05-26 11:14:10,False,False
+2016-05-29T14:51:19,"Idk why people say its bad, This was one of the few scary movies that got me chills and covering my eyes.",0,0,Bullens bullis,E_j1eFy0zp4,-0.4666666666666666,2016-05-29 14:51:19,False,False
+2016-06-02T18:38:29,I really want to see that movie so much,0,0,Mckenzie Mcqueer reyna,E_j1eFy0zp4,0.2,2016-06-02 18:38:29,False,False
+2016-06-04T15:57:27,what's the first song?,0,0,Universe Of Music,E_j1eFy0zp4,0.25,2016-06-04 15:57:27,False,False
+2016-06-05T05:06:53,SCRAP KILLA XIV BIG BAD NORTE GANG ,0,1,1xivnorthsidex4,E_j1eFy0zp4,-0.3499999999999999,2016-06-05 05:06:53,False,False
+2016-06-05T05:09:44,finally the herbs come around,1,0,squiggly ta ta,E_j1eFy0zp4,0.0,2016-06-05 05:09:44,False,False
+2016-06-06T00:06:43,can I sing like a scary movie and must be really scary you got to keep watching until she does cry hahaha I'm so funny or not I know,0,0,Manny Valenzuela,E_j1eFy0zp4,-0.1375,2016-06-06 00:06:43,False,False
+2016-06-13T18:03:36,this was the stupidest movie i've seen in my life so far. typical m. night...........,0,0,Dion G,E_j1eFy0zp4,-0.033333333333333326,2016-06-13 18:03:36,False,False
+2016-06-22T00:08:46,"After this I'm gonna ""Visit"" a therapist.........",0,0,Lord Pyro,E_j1eFy0zp4,0.0,2016-06-22 00:08:46,False,False
+2016-06-22T03:46:11,I'm still not gonna forgive M Night shamafuck for what he did to his previous 4 films you know lady in the water. the HAPPANING. THE LAST AIRBENDER. AFTER EARTH. those terrible films come on hate this director he was born in India get that 1 clue. he films and   filming locations are only in the state of !Pennsylvania! his home state  get that type of idea about this stupid director,0,0,Reid 1408,E_j1eFy0zp4,-0.4611111111111111,2016-06-22 03:46:11,False,False
+2016-06-22T15:20:03,the credit-scene was so epic and hilarious guys! swear to god!😂😂😂,0,0,Basic Craft,E_j1eFy0zp4,0.3625,2016-06-22 15:20:03,False,False
+2016-06-30T00:54:51,Why don't they just run? There old and slow and if I was one of the kids and I was at my grandparents house I never met and this shit went done I would just run fast and run far,6,1,McMilk,E_j1eFy0zp4,-0.02,2016-06-30 00:54:51,False,False
+2016-06-30T23:55:21,"they said ""what the hell"" when I said what the hell",2,0,Shadow God13,E_j1eFy0zp4,0.0,2016-06-30 23:55:21,False,False
+2016-07-03T00:39:32,no its not,0,0,Marquan Tucker,E_j1eFy0zp4,0.0,2016-07-03 00:39:32,False,False
+2016-07-03T07:08:35,I honestly think it was garbage.,1,1,Noel Tapia,E_j1eFy0zp4,0.6,2016-07-03 07:08:35,False,False
+2016-07-04T09:57:34,My friends told me this is the funny movie,1,1,Dayne Mitsuke,E_j1eFy0zp4,0.25,2016-07-04 09:57:34,False,False
+2016-07-05T14:45:35,I really like this.,0,0,Watch Mine,E_j1eFy0zp4,0.2,2016-07-05 14:45:35,False,False
+2016-07-08T16:22:05,"I watched it, rubbish.",0,0,David Kearney,E_j1eFy0zp4,0.0,2016-07-08 16:22:05,False,False
+2016-07-12T08:59:43,جميل جدا,0,0,هدوء البحر,E_j1eFy0zp4,0.0,2016-07-12 08:59:43,False,False
+2016-07-16T08:30:02,OMG FINALLY SAW THIS YESTERDAY ! it was ok only because there was some funny bits and a few jump scares . I found myself laughing more than screaming . I like the slight twist that they are not really the real grandparents I would rate the film 4.5/10 I wouldn't really watch it again though x,0,1,Malica Hamilton,E_j1eFy0zp4,0.11833333333333333,2016-07-16 08:30:02,False,False
+2016-07-20T16:01:41,This movie is funny,4,1,Swole Team,E_j1eFy0zp4,0.25,2016-07-20 16:01:41,False,False
+2016-07-30T15:44:28,I posted this comment 5 minutes after watching the movie.,0,0,jetphil0719,E_j1eFy0zp4,0.0,2016-07-30 15:44:28,False,False
+2016-08-02T04:42:13,"Jesus Bella, I'm blind",1,2,Tessar Kustoro,E_j1eFy0zp4,-0.5,2016-08-02 04:42:13,False,False
+2016-08-12T23:54:35,"I would love a horror movie where the people are actually intelligent enough to live. ( I haven't watched this yet so I don't know if they live, I just don't like seeing sad endings :( but I LOVE horror movies because they gives me chills).",0,0,Jacqueline Unciano,E_j1eFy0zp4,0.1028409090909091,2016-08-12 23:54:35,False,False
+2016-08-31T22:50:44,I want to watch this but are there any ghosts or demonic stuff in this movie? I'm a coward to watch stuff with those things in it alone.,3,1,Kari Anne,E_j1eFy0zp4,0.0,2016-08-31 22:50:44,False,False
+2016-09-01T08:55:42,I really liked this movie. And I don't understand why shyamalan's every movie gets so much hate.,16,1,The 90s Myth,E_j1eFy0zp4,-0.10000000000000003,2016-09-01 08:55:42,False,False
+2016-09-05T05:35:56,0:16 he's got Shits his pants,0,0,Diego Hausen,E_j1eFy0zp4,0.0,2016-09-05 05:35:56,False,False
+2016-09-19T09:02:23,"That movie is fucked up. I am not saying that its bad,I am not saying that its good. Its just fucked up",1,0,RafasEuo13,E_j1eFy0zp4,-0.16666666666666666,2016-09-19 09:02:23,False,False
+2016-09-19T10:01:53,"just watched this with my mom and we were both laughing the whole time and thought this was a joke :D:D:D wouldn't recommend, it's not scary at all",5,1,tarukristaemilia,E_j1eFy0zp4,0.225,2016-09-19 10:01:53,False,False
+2016-09-19T20:19:05,What does this movie is about,0,0,Beer reviews,E_j1eFy0zp4,0.0,2016-09-19 20:19:05,False,False
+2016-10-26T21:21:55,Is it scary,0,0,Caitlin Blair,E_j1eFy0zp4,-0.5,2016-10-26 21:21:55,False,False
+2016-10-26T21:22:21,I need a really scary movie with my friends but we're 12 and I can't watch R,0,1,Caitlin Blair,E_j1eFy0zp4,-0.5,2016-10-26 21:22:21,False,False
+2016-11-10T05:30:29,I rate this movie a 8 out of 10,0,0,Jamecia Chandler,E_j1eFy0zp4,0.0,2016-11-10 05:30:29,False,False
+2016-11-19T05:49:02,THAT GRANDMA SHOULD BE SENT TO HELL,0,0,Jhonny _,E_j1eFy0zp4,0.0,2016-11-19 05:49:02,False,False
+2016-11-27T16:37:53,this movie is boring asf,1,0,___ dee,E_j1eFy0zp4,-1.0,2016-11-27 16:37:53,False,False
+2016-12-04T12:11:35,"""Hey Becca, who am I?""",1,0,Shez,E_j1eFy0zp4,0.0,2016-12-04 12:11:35,False,False
+2017-01-16T15:52:17,I seen it it's amazing,0,0,Carleigh,E_j1eFy0zp4,0.6000000000000001,2017-01-16 15:52:17,False,False
+2017-01-21T14:02:34,That plottwist though,0,0,Anca,E_j1eFy0zp4,0.0,2017-01-21 14:02:34,False,False
+2017-01-29T14:35:11,but those aren't there grandparents they escaped from the asylum and killd the real grandparents an the oven she was cleaning it an the crazy fake Grama pretended to clean the top and let her back out anyways good movie.😇,0,1,Matilda Rice,E_j1eFy0zp4,0.09523809523809525,2017-01-29 14:35:11,False,False
+2017-01-29T14:38:04,you mean shoved into the oven not pulled no one was planning on pulling her,0,0,Matilda Rice,E_j1eFy0zp4,-0.3125,2017-01-29 14:38:04,False,False
+2017-02-02T16:11:40,seen this movie its very creepy.. scary.. spooky.,0,0,fetish 4whiteshirts,E_j1eFy0zp4,-0.575,2017-02-02 16:11:40,False,False
+2017-02-02T16:17:19,my score 6/10,0,0,K karthik,E_j1eFy0zp4,0.0,2017-02-02 16:17:19,False,False
+2017-03-11T15:30:24,Please name of song,0,0,Sujitrkul Phangphongsai,E_j1eFy0zp4,0.0,2017-03-11 15:30:24,False,False
+2017-03-25T07:27:37,I was shocked when she said they were not real grandparents HolyySHittt !!!,1,0,Almazrouei _ المزروعي,E_j1eFy0zp4,-0.44765625,2017-03-25 07:27:37,False,False
+2017-03-25T07:31:22,"all this F#@KING time and they not real grandparnts,I was going to have a heart attack IS NICEEE MOVIE EVER IN Horror",0,0,Almazrouei _ المزروعي,E_j1eFy0zp4,-0.1,2017-03-25 07:31:22,False,False
+2017-04-10T15:55:18,im watching the movid right now lol,0,0,TialleBalle,E_j1eFy0zp4,0.5428571428571429,2017-04-10 15:55:18,False,False
+2017-04-13T10:14:30,this trailer is way better. the original trailer shows way to much,0,0,Anika Tommerup,E_j1eFy0zp4,0.35833333333333334,2017-04-13 10:14:30,False,False
+2017-04-30T21:11:41,The Devil inside Grandparent Movie.,0,0,S.M Taha,E_j1eFy0zp4,0.0,2017-04-30 21:11:41,False,False
+2017-05-06T06:02:48,worst movie ever don't watch,0,0,Elena Hardin,E_j1eFy0zp4,-1.0,2017-05-06 06:02:48,False,False
+2017-05-06T16:18:18,I just watched this movie last night,0,0,Munchie muncher,E_j1eFy0zp4,0.0,2017-05-06 16:18:18,False,False
+2017-05-09T03:02:17,Why is the kid just watching her sister got put in the oven?😂,0,0,mr. Hazwan,E_j1eFy0zp4,0.0,2017-05-09 03:02:17,False,False
+2017-05-15T02:33:23,"""This looks boring..."" *From M. Night Shamalan* ""Well then.""",0,0,Lews Therin Talamon,E_j1eFy0zp4,-1.0,2017-05-15 02:33:23,False,False
+2017-05-16T02:56:45,John Twist: Tell you what. We got us a family plot. He's goin' in it.,0,0,Travis Rabble,E_j1eFy0zp4,0.0,2017-05-16 02:56:45,False,False
+2017-05-16T03:00:44,"Love how darkly she asks her to get inside the oven. Great film with a great plot twist i never saw coming. The old lady reminded me of Frankie from Grace and Frankie so i couldn't find her scary, i kept thinking of how hilarious Frankie is.",0,0,Travis Rabble,E_j1eFy0zp4,0.2928571428571428,2017-05-16 03:00:44,False,False
+2017-06-14T04:39:27,اللي جاي من خلف لايك يا كنق,1,0,Drcoc,E_j1eFy0zp4,0.0,2017-06-14 04:39:27,False,False
+2017-06-25T20:27:14,Da mom know dat her grandparets are demons or something else but she gave them ...   she is so stupid i watch da film itz interesting but its not dat scary for me.,0,0,a a,E_j1eFy0zp4,-0.26666666666666666,2017-06-25 20:27:14,False,False
+2017-07-05T20:11:11,very stupid movie ///  I can't believe ppl call it movie,0,0,Francisco Cristobal,E_j1eFy0zp4,-1.0,2017-07-05 20:11:11,False,False
+2017-07-21T16:16:49,this is one of the most twisted psycho movies I have ever seen,0,0,Mirte Willianne,E_j1eFy0zp4,0.0,2017-07-21 16:16:49,False,False
+2017-07-24T15:15:37,Don't watch before going to bed cause I just did,0,0,Daggerwin1,E_j1eFy0zp4,0.0,2017-07-24 15:15:37,False,False
+2017-08-16T05:24:20,Idk but this movie was actually fun to watch id recommend it!!,0,0,Marianne,E_j1eFy0zp4,0.46875,2017-08-16 05:24:20,False,False
+2017-08-18T02:16:41,I literally just had the temptation to watch a horror but I hate it,0,0,Maggie Mckinnon,E_j1eFy0zp4,-0.8,2017-08-18 02:16:41,False,False
+2017-08-28T23:59:38,I remamber watching this sence I was in 3 grade I think,0,0,I quitted ajpw sorry,E_j1eFy0zp4,0.0,2017-08-28 23:59:38,False,False
+2017-09-28T05:59:54,Good movie. Long beginning but worth the wait. Creeeeeeepy,0,0,Edgar Poe,E_j1eFy0zp4,0.31666666666666665,2017-09-28 05:59:54,False,False
+2017-10-03T01:22:31,Impostors,0,0,Silverbir,E_j1eFy0zp4,0.0,2017-10-03 01:22:31,False,False
+2017-10-21T22:36:48,"Plot twist,it was the wrong house the entire time. : p",0,0,Mr. Leon,E_j1eFy0zp4,0.08333333333333333,2017-10-21 22:36:48,False,False
+2017-11-27T23:12:44,T diamond stylus,0,0,Em 16,E_j1eFy0zp4,0.0,2017-11-27 23:12:44,False,False
+2017-11-30T13:20:07,"watch this! you will never regret... by far one of the movies ive seen. horror, suspense, comedy... all in one put together :)",0,0,•Levøn 쇼베•,E_j1eFy0zp4,0.3,2017-11-30 13:20:07,False,False
+2017-12-12T17:36:23,"Great  drama/suspense film. Cool twist, but more explain in places. Great  acting  from kids.",0,0,Patrick McHale,E_j1eFy0zp4,0.49000000000000005,2017-12-12 17:36:23,False,False
+2018-02-24T06:37:18,"This movie must have been a joke since it's under ""Comedy"" section in netflix lol",1,0,Absolute Senpai,E_j1eFy0zp4,0.8,2018-02-24 06:37:18,False,False
+2018-03-22T11:54:05,"que bueno que no la puedo ver,que sustooooo",0,0,慧芬蘇,E_j1eFy0zp4,0.0,2018-03-22 11:54:05,False,False
+2018-03-29T00:42:49,Is not horror is comedy movie,1,0,room ben ll,E_j1eFy0zp4,0.0,2018-03-29 00:42:49,False,False
+2018-04-07T17:07:59,Watch it before you judge watch it in netflix,1,0,adrianne viray,E_j1eFy0zp4,0.0,2018-04-07 17:07:59,False,False
+2018-12-20T14:29:24,"""Yahtzee!""",1,0,_m3lonm1lk _,E_j1eFy0zp4,0.0,2018-12-20 14:29:24,False,False
+2018-12-20T14:30:12,"""I'M just cleaning here, really.""",1,0,_m3lonm1lk _,E_j1eFy0zp4,0.2,2018-12-20 14:30:12,False,False
+2018-12-20T14:31:00,"""Would you mind getting in the oven to clean it?""",1,0,_m3lonm1lk _,E_j1eFy0zp4,0.3666666666666667,2018-12-20 14:31:00,False,False

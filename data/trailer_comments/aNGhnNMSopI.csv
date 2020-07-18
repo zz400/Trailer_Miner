@@ -1,0 +1,803 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2016-05-13T00:31:09,Early!,0,0,Eddie Cooper,aNGhnNMSopI,0.125,2016-05-13 00:31:09,True,True
+2016-05-13T00:31:48,👌🏻,1,0,Kendall Peña,aNGhnNMSopI,0.0,2016-05-13 00:31:48,True,True
+2016-05-13T00:31:48,2,0,0,kenneth magno,aNGhnNMSopI,0.0,2016-05-13 00:31:48,True,True
+2016-05-13T00:32:29,Is Batman an accountant now?,8,0,Rômulo Ferreira,aNGhnNMSopI,0.0,2016-05-13 00:32:29,True,True
+2016-05-13T00:32:32,Fuck yeah it's Bruce Wayne. From a another universe,19,0,HAPPY DREAMER,aNGhnNMSopI,-0.4,2016-05-13 00:32:32,True,True
+2016-05-13T00:32:53,doing math on a glass... what a cliche,2,1,Danni Barbosa,aNGhnNMSopI,0.0,2016-05-13 00:32:53,True,True
+2016-05-13T00:33:35,early!,0,0,Andrew Medina,aNGhnNMSopI,0.125,2016-05-13 00:33:35,True,True
+2016-05-13T00:33:44,that's some beautiful mind shit,1,0,Ngéntot McKontolssen,aNGhnNMSopI,0.32499999999999996,2016-05-13 00:33:44,True,True
+2016-05-13T00:33:50,Is the goddamn Batman.,2,0,FrancisNull,aNGhnNMSopI,0.0,2016-05-13 00:33:50,True,True
+2016-05-13T00:34:12,I love my Batman!!!!!!!!!,25,0,Carlos Chen,aNGhnNMSopI,1.0,2016-05-13 00:34:12,True,True
+2016-05-13T00:34:16,who are you？ Im bat man,0,0,bohao pan,aNGhnNMSopI,0.0,2016-05-13 00:34:16,True,True
+2016-05-13T00:34:21,Batman really has a thing for guns now,18,3,Yago Pacheco,aNGhnNMSopI,0.2,2016-05-13 00:34:21,True,True
+2016-05-13T00:34:31,k,0,0,Lisa,aNGhnNMSopI,0.0,2016-05-13 00:34:31,True,True
+2016-05-13T00:34:39,Primeiro br aqui u.y,0,1,Augusto Madeiro,aNGhnNMSopI,0.0,2016-05-13 00:34:39,True,True
+2016-05-13T00:35:13,This music is from Vanilla Sky.,2,0,FrancisNull,aNGhnNMSopI,0.0,2016-05-13 00:35:13,True,True
+2016-05-13T00:35:17,the comment section weights on the movie,0,0,The Movie Channel,aNGhnNMSopI,0.0,2016-05-13 00:35:17,True,True
+2016-05-13T00:35:36,Bruce Wayne and commissioner Gordon in the same movie? cant be a coincidence,7,2,BoringMan,aNGhnNMSopI,0.0,2016-05-13 00:35:36,True,True
+2016-05-13T00:36:13,ehhhh,0,0,ChasinDatPaperTV,aNGhnNMSopI,0.0,2016-05-13 00:36:13,True,True
+2016-05-13T00:36:36,Starring Batman and Jim Gordon LOL,2,0,FrancisNull,aNGhnNMSopI,0.8,2016-05-13 00:36:36,True,True
+2016-05-13T00:36:42,"early! do me a favour, and not subscribe to my utube channel.",0,2,The Khani Project,aNGhnNMSopI,0.125,2016-05-13 00:36:42,True,True
+2016-05-13T00:37:03,Ben Affleck looks in every movie these days so depressed & has Bruce Wayne thing going on which is awesome :D,5,0,Tony Kaikkonen,aNGhnNMSopI,1.0,2016-05-13 00:37:03,True,True
+2016-05-13T00:37:27,"Great, pretty! ',:)",0,0,Daniela Rakočević,aNGhnNMSopI,0.5375,2016-05-13 00:37:27,True,True
+2016-05-13T00:38:03,"Bruce Wayne, Jim Gordon and Frank Castle in the same film? Looks good.",2,1,patrick silva,aNGhnNMSopI,0.35,2016-05-13 00:38:03,True,True
+2016-05-13T00:38:16,Batman revenge,2,0,Jessey G,aNGhnNMSopI,0.0,2016-05-13 00:38:16,True,True
+2016-05-13T00:39:53,I'm looking forward to seeing Batman in a non Batman movie.,92,1,Concon,aNGhnNMSopI,0.0,2016-05-13 00:39:53,True,True
+2016-05-13T00:40:20,"hmmm.. was interested when it looked like it was about some kind of math genius trying to fit into the world.. but as soon as all the cartel stuff and junk starting turning up I got turned off. Was hoping for something like ""a beautiful mind"" or ""the man who saw infinity"" but instead it is just one in a long series of overly violent law films America is notorious for. .... pass.",1,3,DayInDaLife,aNGhnNMSopI,0.1785714285714286,2016-05-13 00:40:20,True,True
+2016-05-13T00:40:22,This looks so captivating,0,0,Kal-El fan 49,aNGhnNMSopI,0.5,2016-05-13 00:40:22,True,True
+2016-05-13T00:41:30,RACHEL,0,0,Ethan Que,aNGhnNMSopI,0.0,2016-05-13 00:41:30,True,True
+2016-05-13T00:42:03,"01:41 ""I'm Batman""",12,0,29 DY,aNGhnNMSopI,0.0,2016-05-13 00:42:03,True,True
+2016-05-13T00:42:55,"Batman, Jim Gordan and the Punisher all up in this bitch.Now with the jokes out the way, looks good, I'm intrigued",0,0,Solome,aNGhnNMSopI,0.7,2016-05-13 00:42:55,True,True
+2016-05-13T00:42:57,Of course he's not normal ... he's Batman !,0,0,So Watt,aNGhnNMSopI,-0.09375,2016-05-13 00:42:57,True,True
+2016-05-13T00:43:08,Now we know why sadfleck was so sad during that interview. He realized his next role was an accountant.,0,1,Maz,aNGhnNMSopI,-0.25,2016-05-13 00:43:08,True,True
+2016-05-13T00:43:11,Music I first heard in VANILLA SKY,0,0,VictoryNYC,aNGhnNMSopI,0.25,2016-05-13 00:43:11,True,True
+2016-05-13T00:44:08,"""Who are you?"" .......................................         I'm BATMAN bitch!!!!",15,0,The Knight,aNGhnNMSopI,0.0,2016-05-13 00:44:08,True,True
+2016-05-13T00:44:49,This looks great.,0,0,XEN,aNGhnNMSopI,0.8,2016-05-13 00:44:49,True,True
+2016-05-13T00:49:19,Damn this looks good,0,0,Keenan Hague,aNGhnNMSopI,0.7,2016-05-13 00:49:19,True,True
+2016-05-13T00:49:30,And now time for the solo Batman movie don't fuck it up batfleck I TRUST YOU!!!,22,0,Rickard T,aNGhnNMSopI,-0.78125,2016-05-13 00:49:30,True,True
+2016-05-13T00:51:10,As an accounting major this is amazing to see :D,0,0,†,aNGhnNMSopI,0.5541666666666667,2016-05-13 00:51:10,True,True
+2016-05-13T00:51:26,Bruce wayne and james gordon in one movie,43,2,The Batking,aNGhnNMSopI,0.0,2016-05-13 00:51:26,True,True
+2016-05-13T00:51:48,where's Alfred? lol,1,0,Paul Lee,aNGhnNMSopI,0.8,2016-05-13 00:51:48,True,True
+2016-05-13T00:54:38,The Accountant is evidently billionaire Bruce Wayne,0,0,JonathanCon,aNGhnNMSopI,0.25,2016-05-13 00:54:38,True,True
+2016-05-13T00:54:38,@1:42 I'M BATMAN,0,0,IronWolf122,aNGhnNMSopI,0.0,2016-05-13 00:54:38,True,True
+2016-05-13T00:56:12,Comissioner Gordon & Batfleck in the same film 👀,4,0,Marc Renaud,aNGhnNMSopI,0.0,2016-05-13 00:56:12,True,True
+2016-05-13T00:58:06,Very interesting!!!! But then again look who we're talking about here.... MR.AFFLECK himself!!!! Such a great actor! I can't get over how ripped his body was for Batman vs Superman!! And he looked so good in that suit😄😄😄,2,0,Georgia Peach,aNGhnNMSopI,0.675,2016-05-13 00:58:06,True,True
+2016-05-13T00:58:23,BRuce? Gordon? Becky from pitch perfect?,6,0,Marc Galvan,aNGhnNMSopI,1.0,2016-05-13 00:58:23,True,True
+2016-05-13T01:02:51,i wonder if there are really making a five nights at freddys movie,0,1,Chris Jones,aNGhnNMSopI,0.2,2016-05-13 01:02:51,True,True
+2016-05-13T01:02:52,Song?,0,3,Juan Hernandez,aNGhnNMSopI,0.0,2016-05-13 01:02:52,True,True
+2016-05-13T01:03:27,"Imagine Batman, Commissioner Gordon and the Punisher in one movie. That's The Accountant.",56,1,fero player,aNGhnNMSopI,0.0,2016-05-13 01:03:27,True,True
+2016-05-13T01:04:16,Its cool that we're getting an autistic action hero for a change. Good for you Ben,0,0,42Nightsyesterday,aNGhnNMSopI,0.2375,2016-05-13 01:04:16,True,True
+2016-05-13T01:06:17,looks really good,0,0,Sami Murad,aNGhnNMSopI,0.7,2016-05-13 01:06:17,True,True
+2016-05-13T01:07:15,My BATDADDY needs to manage my account,1,0,Michael Voorhees,aNGhnNMSopI,0.0,2016-05-13 01:07:15,True,True
+2016-05-13T01:08:07,looks good,0,0,𝗡𝗢𝗗_𝗥𝗘𝗖𝗟𝗔𝗜𝗠𝗘𝗥,aNGhnNMSopI,0.7,2016-05-13 01:08:07,True,True
+2016-05-13T01:08:42,looks interesting,0,0,Wantsumbread,aNGhnNMSopI,0.5,2016-05-13 01:08:42,True,True
+2016-05-13T01:08:56,so this is why batman kills in batman v superman,1,0,Miguel Provencio,aNGhnNMSopI,0.0,2016-05-13 01:08:56,True,True
+2016-05-13T01:08:56,this seems kinda cool but I didn't get the plot that clearly,0,1,Lala Lulu,aNGhnNMSopI,0.225,2016-05-13 01:08:56,True,True
+2016-05-13T01:10:27,I'm blowing the tips of my fingers in anticipation!,0,0,TheNewFormat,aNGhnNMSopI,0.0,2016-05-13 01:10:27,True,True
+2016-05-13T01:16:53,Yesterday i woke up sucking a lemon.,2,0,Carin Cartaphilus,aNGhnNMSopI,0.0,2016-05-13 01:16:53,True,True
+2016-05-13T01:19:30,Isn't a little early to drop the trailer for the Batman movie?,1,0,Vini Marcellino,aNGhnNMSopI,-0.04375,2016-05-13 01:19:30,True,True
+2016-05-13T01:22:21,I'm I able to play now ?,0,0,Tina Velarde,aNGhnNMSopI,0.5,2016-05-13 01:22:21,True,True
+2016-05-13T01:22:58,So I see this is Bruce's day job.,0,0,Red ・ Old,aNGhnNMSopI,0.0,2016-05-13 01:22:58,True,True
+2016-05-13T01:23:24,What's up with these five second teasers before the trailer?,0,0,Matthew,aNGhnNMSopI,0.0,2016-05-13 01:23:24,True,True
+2016-05-13T01:25:34,which one Tinavelarde1065@email. com could I play again/?,0,0,Tina Velarde,aNGhnNMSopI,0.0,2016-05-13 01:25:34,True,True
+2016-05-13T01:26:19,Oh who is he? Just the Batman,0,0,Goddaci,aNGhnNMSopI,0.0,2016-05-13 01:26:19,True,True
+2016-05-13T01:26:39,Bruce Wayne!!!!!,0,0,Leandro O Grande,aNGhnNMSopI,0.0,2016-05-13 01:26:39,True,True
+2016-05-13T01:26:49,"This is another earth, Bruce Wayne's parents were never killed, but he still had the skills of the Batman.",0,0,Internet Dinosaur,aNGhnNMSopI,0.1,2016-05-13 01:26:49,True,True
+2016-05-13T01:27:00,Batman love,0,0,ATLANT 3D,aNGhnNMSopI,0.5,2016-05-13 01:27:00,True,True
+2016-05-13T01:30:07,"-""Who are you?"" - ""I AM BATMAN!!""",15,0,Sohaib Farrukh,aNGhnNMSopI,0.0,2016-05-13 01:30:07,True,True
+2016-05-13T01:30:48,Fuckin Batman tho,0,0,Awonddy,aNGhnNMSopI,0.0,2016-05-13 01:30:48,True,True
+2016-05-13T01:32:58,Batman retires to become an accountant,0,0,Maximillian Sukiman,aNGhnNMSopI,0.0,2016-05-13 01:32:58,True,True
+2016-05-13T01:34:00,Batman and Punisher with J. Jonah Jameson in the same movie. Interesting...,152,8,Raul Torres,aNGhnNMSopI,0.25,2016-05-13 01:34:00,True,True
+2016-05-13T01:34:13,now this is how trailers are meant to be,0,0,Armando Andrés,aNGhnNMSopI,0.0,2016-05-13 01:34:13,True,True
+2016-05-13T01:36:55,Dam this looks intriguing,0,0,Adonis G,aNGhnNMSopI,0.30000000000000004,2016-05-13 01:36:55,True,True
+2016-05-13T01:37:03,This would be a perfect movie for The Riddler...,0,0,Mufasa the lion,aNGhnNMSopI,1.0,2016-05-13 01:37:03,True,True
+2016-05-13T01:37:04,The song choice 👌🏻 Great trailer excited to see the movie,16,2,Mupmup Isabroc,aNGhnNMSopI,0.5875,2016-05-13 01:37:04,True,True
+2016-05-13T01:37:53,"Song: ""Everything in its right place"" - Radiohead  (you're welcome)",5,0,LuciferMorningstar,aNGhnNMSopI,0.5428571428571429,2016-05-13 01:37:53,True,True
+2016-05-13T01:41:02,"This Batman prequel looks pretty cool, but is accountant Bruce Wayne canon?",1,0,THE TROOPER1223,aNGhnNMSopI,0.3,2016-05-13 01:41:02,True,True
+2016-05-13T01:41:29,Who are you?!  IM BATMAN!!!!!,34,0,Rednas,aNGhnNMSopI,0.0,2016-05-13 01:41:29,True,True
+2016-05-13T01:42:58,i am a God,0,0,Maximillian Sukiman,aNGhnNMSopI,0.0,2016-05-13 01:42:58,True,True
+2016-05-13T01:43:35,So these are the parents that adopted bruce wayne.,4,0,Bruce Wayne,aNGhnNMSopI,0.0,2016-05-13 01:43:35,True,True
+2016-05-13T01:44:33,xhana   chana  chanana  batman,0,0,matthew roijo,aNGhnNMSopI,0.0,2016-05-13 01:44:33,True,True
+2016-05-13T01:45:40,Excellent trailer and good choice of music used here unlike the Assasins Creed trailer where the music ruined it. Loved the build up towards the end. I'm looking forward to this.,0,1,Ash Menon,aNGhnNMSopI,0.7999999999999999,2016-05-13 01:45:40,True,True
+2016-05-13T01:47:32,is it based on true story?,0,0,Ziffer23 Film,aNGhnNMSopI,0.35,2016-05-13 01:47:32,True,True
+2016-05-13T01:53:04,the moment you realize there are more comments for batflek rather than the movie itself!!,0,0,siddhant raizada,aNGhnNMSopI,0.78125,2016-05-13 01:53:04,True,True
+2016-05-13T01:54:56,when you dont wanna wake up tomorrow and be fifty working construction,0,0,Kevin Lee,aNGhnNMSopI,0.0,2016-05-13 01:54:56,True,True
+2016-05-13T01:56:18,Sad affleck is now Depressed Affleck on drugs!,0,0,ArlusFinch,aNGhnNMSopI,-0.625,2016-05-13 01:56:18,True,True
+2016-05-13T01:59:02,Awesome trailer and the Radiohead song was perfect,1,0,HubbzZ,aNGhnNMSopI,1.0,2016-05-13 01:59:02,True,True
+2016-05-13T01:59:54,BEN FUCKING AFFLECK IS BACK!!!!,0,0,Nick Andreas,aNGhnNMSopI,-0.3,2016-05-13 01:59:54,True,True
+2016-05-13T02:00:34,댓글 뱃망진창ㅋㅋ,0,0,cina apple,aNGhnNMSopI,0.0,2016-05-13 02:00:34,True,True
+2016-05-13T02:00:48,I'm a simple man... I see J.K. Simmons I like.,9,0,William Donovan,aNGhnNMSopI,0.0,2016-05-13 02:00:48,True,True
+2016-05-13T02:04:03,"Dam Ben Affleck needs to take control of the DC Universe. This looks amazing, I'm sure his solo batman movie will be amazing. Ben Affleck is the man.",16,1,DashingLC,aNGhnNMSopI,0.5666666666666668,2016-05-13 02:04:03,True,True
+2016-05-13T02:04:37,"Heard the music and thought ""Vanilla Sky""",0,0,falcon157,aNGhnNMSopI,0.0,2016-05-13 02:04:37,True,True
+2016-05-13T02:09:47,He's an amazing actor,2,0,Vices & Madonna,aNGhnNMSopI,0.6000000000000001,2016-05-13 02:09:47,True,True
+2016-05-13T02:10:03,Cool,0,0,Ebenezer Danks,aNGhnNMSopI,0.35,2016-05-13 02:10:03,True,True
+2016-05-13T02:10:20,The dark night counts,0,0,Gerardo Aguilar,aNGhnNMSopI,-0.15,2016-05-13 02:10:20,True,True
+2016-05-13T02:15:23,Bruce Wayne???,1,0,Bolt,aNGhnNMSopI,0.0,2016-05-13 02:15:23,True,True
+2016-05-13T02:17:18,Batman and Jim !!!!,0,0,Comd. Shepard,aNGhnNMSopI,0.0,2016-05-13 02:17:18,True,True
+2016-05-13T02:23:44,"What's with this new trend to put 10 seconds of action in the beginning of the trailer with some text, and then stop to play the full trailer?",0,0,EmeraldEyeProductions,aNGhnNMSopI,0.19545454545454544,2016-05-13 02:23:44,True,True
+2016-05-13T02:24:05,I need to go home right now but I need to be able to know how to take off and put it on card my daughter needed money for hospital please   ithank you for for be a friend that care abo ut people Tinavelarde1065@email time7:32 date 6-12-16,0,0,Tina Velarde,aNGhnNMSopI,0.39285714285714285,2016-05-13 02:24:05,True,True
+2016-05-13T02:25:01,Batman and Punisher,0,0,Danny Rodriguez,aNGhnNMSopI,0.0,2016-05-13 02:25:01,True,True
+2016-05-13T02:33:42,"1:41 - ""Who are you?"" Um, he's Batman! Sorry, I had to.  I mean, this movie has Batman & Commissioner Gordon in it, so it's kinda hard not to say that when you give us a line like that in the 1st trailer for the 1st Ben Affleck movie after Batman v Superman.",2,0,Mugsy Catizone,aNGhnNMSopI,-0.3680555555555556,2016-05-13 02:33:42,True,True
+2016-05-13T02:40:12,Can't wait for this one. BATFLECK and GORDON gonna be kick ass,2,0,Gokul Hariprasad,aNGhnNMSopI,0.0,2016-05-13 02:40:12,True,True
+2016-05-13T02:41:16,Ben Affleck and J.K. Simmons are staring in a movie together before Justice League. Cool.,2,0,Ryan Sheridan,aNGhnNMSopI,0.35,2016-05-13 02:41:16,True,True
+2016-05-13T02:43:39,This actually looks good! Batman and Commissioner Gordon first look haha,0,0,Josue Hernandez,aNGhnNMSopI,0.33125,2016-05-13 02:43:39,True,True
+2016-05-13T02:46:59,BATMAN..!,0,0,Rodrigo Pantigoso Barreto,aNGhnNMSopI,0.0,2016-05-13 02:46:59,True,True
+2016-05-13T02:53:11,"Batman without the mask, plus Commissioner Gordon and The Punisher ... The accountant seems to add up!",17,0,thejmmx1,aNGhnNMSopI,0.0,2016-05-13 02:53:11,True,True
+2016-05-13T02:55:54,All you bat-flakes should stfu. Ben has written and acted in several great movies. AND he was the best Bruce/Bat so far. Get your undies out your ass. Only bitches see everything as shit.,1,0,CHRISTOPHER RIVERA,aNGhnNMSopI,0.2833333333333334,2016-05-13 02:55:54,True,True
+2016-05-13T03:03:01,Does the accountant have a... secret identity?,319,10,Leo’s An Alien,aNGhnNMSopI,-0.4,2016-05-13 03:03:01,True,True
+2016-05-13T03:03:09,Avgn on preview? Lol,0,0,Мастер Йода,aNGhnNMSopI,0.8,2016-05-13 03:03:09,True,True
+2016-05-13T03:11:59,Same batman face,0,0,Stillhold,aNGhnNMSopI,0.0,2016-05-13 03:11:59,True,True
+2016-05-13T03:13:48,This is amazing💕,0,0,Maru,aNGhnNMSopI,0.0,2016-05-13 03:13:48,True,True
+2016-05-13T03:14:48,you see what happens when people take vaccines?,1,0,James Anderson,aNGhnNMSopI,0.0,2016-05-13 03:14:48,True,True
+2016-05-13T03:15:17,I wish solo batman movie to be on killing joke,0,1,I'm Ashraf,aNGhnNMSopI,0.0,2016-05-13 03:15:17,True,True
+2016-05-13T03:25:01,"1:28 . Amanda Waller (Arrow)?  Oh yeah, DC Comics!",0,0,Priscila Diniz,aNGhnNMSopI,0.0,2016-05-13 03:25:01,True,True
+2016-05-13T03:25:28,apparently anna kendrick had time to be in ALL the movies this year,0,0,Jay Parikh,aNGhnNMSopI,0.05,2016-05-13 03:25:28,True,True
+2016-05-13T03:28:49,For a minute there i thought the little boy in the car was felicity smoak. My bad,0,0,Metal Scorpion,aNGhnNMSopI,-0.4437499999999999,2016-05-13 03:28:49,True,True
+2016-05-13T03:30:26,Everything in its right place - radio head. (if you were looking for the song playing in the background),1,0,Honoreallday,aNGhnNMSopI,0.2857142857142857,2016-05-13 03:30:26,True,True
+2016-05-13T03:40:25,"Finally, a low budget movie with an amazing trailer that does not reveal the whole plot.",648,41,RookieN08,aNGhnNMSopI,0.26666666666666666,2016-05-13 03:40:25,True,True
+2016-05-13T03:41:32,"""Bruce, why do we fall?"" ""It's damn slippery dad...""",0,0,Frank Cao,aNGhnNMSopI,0.0,2016-05-13 03:41:32,True,True
+2016-05-13T03:44:13,Is this just a screenplay or is this movie based from a book? Thanks!,0,0,Chris Hunter,aNGhnNMSopI,0.25,2016-05-13 03:44:13,True,True
+2016-05-13T03:44:38,Wait. Bruce Wayne is going under cover?,8,0,Srikanth Menon,aNGhnNMSopI,0.0,2016-05-13 03:44:38,True,True
+2016-05-13T03:49:49,Looks good!,0,0,ActiveGamerLife,aNGhnNMSopI,0.875,2016-05-13 03:49:49,True,True
+2016-05-13T03:50:42,"In the middle of the movie that girl introduces herself...  I work for the CIA, my name is Martha.  WHY DID YOU SAY THAT NAME???? HDBDNDBUJBEUSKSBDUDN",0,0,Arturo,aNGhnNMSopI,0.0,2016-05-13 03:50:42,True,True
+2016-05-13T03:59:14,I'm here for the Batman comments,0,0,David Cespedes,aNGhnNMSopI,0.0,2016-05-13 03:59:14,True,True
+2016-05-13T04:04:51,looks interesting,0,0,thething75191,aNGhnNMSopI,0.5,2016-05-13 04:04:51,True,True
+2016-05-13T04:08:50,my boner for this film is huge,12,0,Alfredo Ochoa,aNGhnNMSopI,0.4000000000000001,2016-05-13 04:08:50,True,True
+2016-05-13T04:10:07,Wow this looks awesome.,204,4,Omar Correa,aNGhnNMSopI,0.55,2016-05-13 04:10:07,True,True
+2016-05-13T04:10:19,"Сыграл блять Бен Аффлек кого-то другого, кроме Бэтмена. Вот что вышло.",0,0,Vladislav Smolyar,aNGhnNMSopI,0.0,2016-05-13 04:10:19,True,True
+2016-05-13T04:18:22,There has to be Martha in this film somewhere. MARTHA!!!,0,0,JSK90589,aNGhnNMSopI,0.0,2016-05-13 04:18:22,True,True
+2016-05-13T04:21:39,wow,0,0,Swapnil Dey,aNGhnNMSopI,0.1,2016-05-13 04:21:39,True,True
+2016-05-13T04:30:03,It looks pretty interesting,0,0,Sinuois,aNGhnNMSopI,0.375,2016-05-13 04:30:03,True,True
+2016-05-13T04:36:57,looks good,0,0,Darrien Kennedy,aNGhnNMSopI,0.7,2016-05-13 04:36:57,True,True
+2016-05-13T04:37:26,Batman and Commissioner Gordon...Ok I'm sold.,30,0,C H,aNGhnNMSopI,0.0,2016-05-13 04:37:26,True,True
+2016-05-13T04:47:05,looks damn good,2,0,iskndrzlkrnn,aNGhnNMSopI,0.7,2016-05-13 04:47:05,True,True
+2016-05-13T04:50:19,So looking forward to this film!,0,0,Jair Silvera,aNGhnNMSopI,0.0,2016-05-13 04:50:19,True,True
+2016-05-13T04:55:10,Batman feat. Gordon,0,0,gilang putra,aNGhnNMSopI,0.0,2016-05-13 04:55:10,True,True
+2016-05-13T04:58:24,Good Will Hunting meets The Professional? Looks like it could be really good. Great song choice for the trailer,0,0,Dan Waszay,aNGhnNMSopI,0.575,2016-05-13 04:58:24,True,True
+2016-05-13T04:59:05,He's batman,0,0,Clyth Rollins,aNGhnNMSopI,0.0,2016-05-13 04:59:05,True,True
+2016-05-13T05:09:34,"""Who is the Accountant?"" Who cares?",0,2,TrailerPoopers,aNGhnNMSopI,0.0,2016-05-13 05:09:34,True,True
+2016-05-13T05:10:55,Ben Affleck is batman thats all i see in him and will for the rest of my life lol,3,1,SleepinWolf,aNGhnNMSopI,0.8,2016-05-13 05:10:55,True,True
+2016-05-13T05:15:44,Looks like it could be more of an interesting tv series than a movie.,0,0,JFomo,aNGhnNMSopI,0.5,2016-05-13 05:15:44,True,True
+2016-05-13T05:19:50,"So people said he would ruin the Batman. Now they licking his ass, lol!",2,0,Mahesh Negi,aNGhnNMSopI,1.0,2016-05-13 05:19:50,True,True
+2016-05-13T05:22:36,Ben Affleck finally got to play good will hunting and jason bourne after his good friend matt daemon,44,1,JohnFisherChoir,aNGhnNMSopI,0.4666666666666666,2016-05-13 05:22:36,True,True
+2016-05-13T05:26:40,From the guy who directed Jane Got a Gun and Pride and Glory...ugh. This plays like a knockoff David Fincher film. Skeptical.,0,1,Twilight Imperial,aNGhnNMSopI,-0.5,2016-05-13 05:26:40,True,True
+2016-05-13T05:32:32,I am intrigued,0,0,Animesh Mishra,aNGhnNMSopI,0.0,2016-05-13 05:32:32,True,True
+2016-05-13T05:33:38,autism? XD,0,0,john pardon,aNGhnNMSopI,0.0,2016-05-13 05:33:38,True,True
+2016-05-13T05:41:50,Radiohead.  Enough said.,1,0,suburbannegro411,aNGhnNMSopI,0.0,2016-05-13 05:41:50,True,True
+2016-05-13T05:46:58,Dis looks good.,0,0,Anaru Carroll,aNGhnNMSopI,0.7,2016-05-13 05:46:58,True,True
+2016-05-13T05:48:30,"Please don't mess up the release Warner, i really want this movie to perform.",0,0,gowda venku,aNGhnNMSopI,0.012500000000000011,2016-05-13 05:48:30,True,True
+2016-05-13T05:50:21,"This looks great, awesome cast also",1,0,HeikkiP,aNGhnNMSopI,0.9,2016-05-13 05:50:21,True,True
+2016-05-13T05:58:38,yeah radiohead,0,0,Freza 36,aNGhnNMSopI,0.0,2016-05-13 05:58:38,True,True
+2016-05-13T06:09:22,Interesting,0,0,Sandesh Sadanand,aNGhnNMSopI,0.5,2016-05-13 06:09:22,True,True
+2016-05-13T06:16:50,"I'm an actual auditor/accountant, and I've only felt like a glorified calculator at my highest point. We all have our organizational rituals in this field, that is definitely true... No high caliber snipers though.",0,0,Galactic,aNGhnNMSopI,0.06749999999999999,2016-05-13 06:16:50,True,True
+2016-05-13T06:19:44,Please be like The Town & Gone Girl. Please.,4,0,AlexRE005,aNGhnNMSopI,0.0,2016-05-13 06:19:44,True,True
+2016-05-13T06:35:28,Holy shit this batman movie seems awesome,0,0,MeaninglessNickname,aNGhnNMSopI,0.4,2016-05-13 06:35:28,True,True
+2016-05-13T06:35:34,"""1:42 I am Batman"" :p pwahahahahaha",0,0,Aditya Billboard.,aNGhnNMSopI,0.75,2016-05-13 06:35:34,True,True
+2016-05-13T06:37:47,"anna shittrik is in every goddamn movie. let me guess, here she is playing a curious journalist that doesnt back off?! i wonder who`s dick she is sucking.",0,0,ozayevable,aNGhnNMSopI,-0.05,2016-05-13 06:37:47,True,True
+2016-05-13T06:42:10,when I heard Radiohead... *goose bumps*,2,0,Alexander Swed,aNGhnNMSopI,0.0,2016-05-13 06:42:10,True,True
+2016-05-13T06:48:06,"""who are you?""  I'm Batman",3,0,Jorge Valdez,aNGhnNMSopI,0.0,2016-05-13 06:48:06,True,True
+2016-05-13T07:08:46,"no wonder bruce wayne is smart,.",0,0,Chemical Chino,aNGhnNMSopI,0.21428571428571427,2016-05-13 07:08:46,True,True
+2016-05-13T07:16:50,thats bruce wayne,0,0,Rolling Stone,aNGhnNMSopI,0.0,2016-05-13 07:16:50,True,True
+2016-05-13T07:19:50,I'm sold at 0:38,0,0,tunetune12,aNGhnNMSopI,0.0,2016-05-13 07:19:50,True,True
+2016-05-13T07:24:41,Tell me! Do you bleeeeed??? You will...( Unfortunately Supe doesn't give a shit!),0,0,Nay Myo Paing,aNGhnNMSopI,-0.375,2016-05-13 07:24:41,True,True
+2016-05-13T07:31:34,This is Earth-2 where Bruce Wayne  became an Accountant at Wayne Enterprises instead of becoming Batman,353,17,ablurt_55,aNGhnNMSopI,0.45,2016-05-13 07:31:34,True,True
+2016-05-13T07:34:04,.,0,0,josh Stansenegg3r,aNGhnNMSopI,0.0,2016-05-13 07:34:04,True,True
+2016-05-13T07:35:57,CIA send their secret weapon to get Jason Bourne.,0,0,aznpanda510x,aNGhnNMSopI,-0.4,2016-05-13 07:35:57,True,True
+2016-05-13T07:39:10,Man because of BvS and the JL this movie was put on hold for so long. We could've been watching it by now.,0,0,aznpanda510x,aNGhnNMSopI,-0.05,2016-05-13 07:39:10,True,True
+2016-05-13T07:41:23,"He can be my accountant anyday, i can trust him with my 2.50$",0,0,aznpanda510x,aNGhnNMSopI,0.0,2016-05-13 07:41:23,True,True
+2016-05-13T07:46:43,"Ben says, no voice modulator no lines.",0,0,maajsz,aNGhnNMSopI,0.0,2016-05-13 07:46:43,True,True
+2016-05-13T07:52:35,"This should be interesting.! Einstein, Mozart, Picasso. POSIBILITIES R END LESS. ",0,0,Brigida Grana,aNGhnNMSopI,0.22916666666666669,2016-05-13 07:52:35,True,True
+2016-05-13T07:54:51,The Coldplay song makes the trailer even better,10,7,Autobahn Kenobi,aNGhnNMSopI,0.5,2016-05-13 07:54:51,True,True
+2016-05-13T08:00:41,Accountant were suppose to be boring but Ben Affleck made accountancy cool,1,1,Vitthal Sm,aNGhnNMSopI,-0.325,2016-05-13 08:00:41,True,True
+2016-05-13T08:04:41,"it is a simple accountant in the daylight, but at night he is B....",0,0,Fckng Mad,aNGhnNMSopI,0.0,2016-05-13 08:04:41,True,True
+2016-05-13T08:14:23,What's up with that jaws song on the intro?,0,0,Jboy YOUR BOI,aNGhnNMSopI,0.0,2016-05-13 08:14:23,True,True
+2016-05-13T08:14:35,"Everything in its right place - radiohead, just in case your wondering..",4,0,mhay bizkiter,aNGhnNMSopI,0.2857142857142857,2016-05-13 08:14:35,True,True
+2016-05-13T08:20:16,"So... Bruce Wayne is creeping out Cinderella and Commissioner Gordon is  trying to figure out what's going on, meanwhile Alfred and Thalia Al Ghul kidnapped Magneto so as to put him in the Animus..strange times indeed....",0,0,Ace The Skylord,aNGhnNMSopI,0.0,2016-05-13 08:20:16,True,True
+2016-05-13T08:37:20,One of Batmans many disguises...,0,0,leonthesleepy,aNGhnNMSopI,0.5,2016-05-13 08:37:20,True,True
+2016-05-13T08:39:04,What a tense trailer. I'm probably gonna head to the theater for this one.,10,0,David Gabel,aNGhnNMSopI,-0.3333333333333333,2016-05-13 08:39:04,True,True
+2016-05-13T08:42:11,Nothing is ever normal with you guys,0,0,DanielEndless,aNGhnNMSopI,0.15,2016-05-13 08:42:11,True,True
+2016-05-13T08:44:34,He should've said I'm Batman,1,0,DanielEndless,aNGhnNMSopI,0.0,2016-05-13 08:44:34,True,True
+2016-05-13T09:00:55,Can't wait! Jon Bernthal is in this too??? YES!,1,0,Skynet Dreams,aNGhnNMSopI,0.0,2016-05-13 09:00:55,True,True
+2016-05-13T09:04:44,Where is the Ben affleck haters. Those who said he can't act.,0,4,Ahmad AMA,aNGhnNMSopI,0.0,2016-05-13 09:04:44,True,True
+2016-05-13T09:07:29,This and the Bat-flick with the Court of Owls story. Take my money.,0,0,Dan Troy,aNGhnNMSopI,0.0,2016-05-13 09:07:29,True,True
+2016-05-13T09:11:24,Bruce Wayne the Accountant,0,0,Official Filmilen,aNGhnNMSopI,0.0,2016-05-13 09:11:24,True,True
+2016-05-13T09:15:14,It is a prequel to the Batman!,0,0,slipkinpark8,aNGhnNMSopI,0.0,2016-05-13 09:15:14,True,True
+2016-05-13T09:32:59,notice how his eyes doesn't blink when he shoots..damn I love the small details,0,0,fullr herr,aNGhnNMSopI,0.125,2016-05-13 09:32:59,True,True
+2016-05-13T09:36:03,0:38   Whispers : Marthaaa......,0,0,Simar Hunjan,aNGhnNMSopI,0.0,2016-05-13 09:36:03,True,True
+2016-05-13T09:44:37,where is bat costume ?,0,0,Mert Ç.,aNGhnNMSopI,0.0,2016-05-13 09:44:37,True,True
+2016-05-13T09:47:33,"Ben Affleck does maths, accounts, snipes, shoots, fucking fight bad guys and is aloof! Now that's a fucking cool accountant I wanna watch.",22,1,Kartikeya Dutta,aNGhnNMSopI,-0.37499999999999983,2016-05-13 09:47:33,True,True
+2016-05-13T09:55:15,When lucious fox is quit the job and bruce wayne need to handle the financial shit by himself,2,0,Reza Galih,aNGhnNMSopI,-0.1,2016-05-13 09:55:15,True,True
+2016-05-13T09:55:19,1:28 he just wants pictures of the Batman...,10,0,ClubSoda,aNGhnNMSopI,0.2,2016-05-13 09:55:19,True,True
+2016-05-13T09:56:15,the accountant is..... Baaaahtmann,23,0,Mr V,aNGhnNMSopI,0.0,2016-05-13 09:56:15,True,True
+2016-05-13T10:28:30,I want to taste Anna Kendrick,0,0,TheMICRKR,aNGhnNMSopI,0.0,2016-05-13 10:28:30,True,True
+2016-05-13T10:57:06,Affleck just doesnt look like he has autism. Hopefully he'll prove me wrong though,0,1,Alexey Trubetskoy,aNGhnNMSopI,-0.5,2016-05-13 10:57:06,True,True
+2016-05-13T11:11:19,SONG???????????????????????????????????????????????,0,0,ralph,aNGhnNMSopI,0.0,2016-05-13 11:11:19,True,True
+2016-05-13T11:36:24,This looks really good!,2,0,Scott Korin,aNGhnNMSopI,0.875,2016-05-13 11:36:24,True,True
+2016-05-13T11:40:55,"1:43 Who are you? Say I'm Batman , Say I'm Batman  ,Say I'm Batman !!!!!! He didn't say I'm Batman :(",0,0,Pumudu Perera,aNGhnNMSopI,-0.75,2016-05-13 11:40:55,True,True
+2016-05-13T11:44:56,"1:43 Am I the only one waiting for Ben Afleck to say "" I'm Batman""???",2,0,Pumudu Perera,aNGhnNMSopI,0.0,2016-05-13 11:44:56,True,True
+2016-05-13T12:05:36,"Oi, Ben is that you ?",0,0,Zups Shaw,aNGhnNMSopI,0.0,2016-05-13 12:05:36,True,True
+2016-05-13T12:12:20,Damn this looks really good!,0,0,thomas mbuya,aNGhnNMSopI,0.875,2016-05-13 12:12:20,True,True
+2016-05-13T12:26:45,"Bruce Wayne, Comissioner Gordon and Punisher? I'm sold!",6,0,Rusdy Razak,aNGhnNMSopI,0.0,2016-05-13 12:26:45,True,True
+2016-05-13T12:28:41,"Realy ?? Batman , Punisher , Amanda Waller ..... any one else ??",0,1,Sơn Đặng Ngọc,aNGhnNMSopI,0.0,2016-05-13 12:28:41,True,True
+2016-05-13T12:41:09,BATMAN AND COMMISSIONER GORDON!!,2,0,Glory Castillo,aNGhnNMSopI,0.0,2016-05-13 12:41:09,True,True
+2016-05-13T12:43:26,Awesome.,0,0,Peter Mosolov,aNGhnNMSopI,1.0,2016-05-13 12:43:26,True,True
+2016-05-13T12:45:52,Batman Origin Story ... Yeaaaaa!,0,0,YsoSerious,aNGhnNMSopI,0.0,2016-05-13 12:45:52,True,True
+2016-05-13T12:51:09,Batman + Punisher +Moon Knight + (Maybe Rain man) = The Accountant,0,0,Ollie Connors,aNGhnNMSopI,0.0,2016-05-13 12:51:09,True,True
+2016-05-13T13:03:37,that scene when he blows his hands could be a meme :),0,1,Maximillian Sukiman,aNGhnNMSopI,0.5,2016-05-13 13:03:37,True,True
+2016-05-13T13:08:32,waw verygood,0,0,Serdar Dağlı,aNGhnNMSopI,0.0,2016-05-13 13:08:32,True,True
+2016-05-13T13:16:14,Who are you? ....IM BATMANNN,0,0,Muhammad Alam,aNGhnNMSopI,0.0,2016-05-13 13:16:14,True,True
+2016-05-13T13:17:44,This looks dope af,47,0,AP Editing,aNGhnNMSopI,0.0,2016-05-13 13:17:44,True,True
+2016-05-13T13:30:05,this looks good,0,0,LordStickMax,aNGhnNMSopI,0.7,2016-05-13 13:30:05,True,True
+2016-05-13T13:34:47,0:43 - The kid on the couch looks like Bruce Wayne from the Gotham tv series.,3,0,chris banks,aNGhnNMSopI,0.0,2016-05-13 13:34:47,True,True
+2016-05-13T13:48:25,"It's movies like this that are truly amazing, this is going to be a hell of a movie.",13,0,iLolledGaming,aNGhnNMSopI,0.6000000000000001,2016-05-13 13:48:25,True,True
+2016-05-13T13:59:45,35 seconds into the trailer and I can feel that it's gonna be a good movie...,0,0,Arunneesh,aNGhnNMSopI,0.7,2016-05-13 13:59:45,True,True
+2016-05-13T14:39:44,01:41 Girl: Who are you? Affleck:I'm Batman!,5,1,Bijan Lamichhane,aNGhnNMSopI,0.0,2016-05-13 14:39:44,True,True
+2016-05-13T14:54:15,STOP WITH THE TRAILERS BEFORE THE TRAILER!!!,1,0,Michael Aronson,aNGhnNMSopI,0.0,2016-05-13 14:54:15,True,True
+2016-05-13T15:02:10,Jeffrey tampon takes me out of the movie,0,0,shadowwalker chellios,aNGhnNMSopI,0.0,2016-05-13 15:02:10,True,True
+2016-05-13T15:10:21,Music ?,0,0,Fa Al,aNGhnNMSopI,0.0,2016-05-13 15:10:21,True,True
+2016-05-13T15:10:50,Who are you?  I'am batman!!!!!,8,0,Max Ponsarun,aNGhnNMSopI,0.0,2016-05-13 15:10:50,True,True
+2016-05-13T15:14:13,hey look its Bruce Wayne....oh....I see literally every single other commenter has already made that joke. Also Anna Kendrick is so pertty...,1,0,ItzSilentStorm,aNGhnNMSopI,-0.09821428571428571,2016-05-13 15:14:13,True,True
+2016-05-13T15:23:45,Upvoting for radiohead,2,0,The Q,aNGhnNMSopI,0.0,2016-05-13 15:23:45,True,True
+2016-05-13T15:40:22,and Jon bernthal is in this!? YES!!!!,3,0,FinalFilmComment,aNGhnNMSopI,0.0,2016-05-13 15:40:22,True,True
+2016-05-13T15:40:47,I'm in.,2,0,Joe Giuffre,aNGhnNMSopI,0.0,2016-05-13 15:40:47,True,True
+2016-05-13T15:46:20,Name of the song?,0,2,Fil Movie,aNGhnNMSopI,0.0,2016-05-13 15:46:20,True,True
+2016-05-13T16:04:47,Can our son lead a normal life?,0,0,JustDontGetIt,aNGhnNMSopI,0.15,2016-05-13 16:04:47,True,True
+2016-05-13T16:09:45,Awesome trailer! Makes me 10x more excited to see this.,7,0,notaNightsky,aNGhnNMSopI,0.625,2016-05-13 16:09:45,True,True
+2016-05-13T16:11:49,Dexter + Bourne + Beautiful Mind = The Accountant,64,11,FU UTUBE,aNGhnNMSopI,0.85,2016-05-13 16:11:49,True,True
+2016-05-13T16:24:05,Jason Bourne VS The Accountant,0,0,whatthejohnnys,aNGhnNMSopI,0.0,2016-05-13 16:24:05,True,True
+2016-05-13T16:42:28,How Bruce Wayne became an ass,0,0,Kwena Moruk,aNGhnNMSopI,0.0,2016-05-13 16:42:28,True,True
+2016-05-13T16:45:54,this shit got me hype as fuck. Ben just the jackpot these last few years,1,0,Luther Walker,aNGhnNMSopI,-0.2,2016-05-13 16:45:54,True,True
+2016-05-13T17:12:01,Name of the song please.,0,4,Nielsen700,aNGhnNMSopI,0.0,2016-05-13 17:12:01,True,True
+2016-05-13T17:20:28,This looks really good!,0,0,enborn,aNGhnNMSopI,0.875,2016-05-13 17:20:28,True,True
+2016-05-13T17:31:57,:  Who are you ? :  I 'm batman,0,0,許賀鈞,aNGhnNMSopI,0.0,2016-05-13 17:31:57,True,True
+2016-05-13T17:32:50,oh finally a good accountant movie,6,0,Marc T,aNGhnNMSopI,0.7,2016-05-13 17:32:50,True,True
+2016-05-13T17:52:22,"""Who are you"" ""I'm Batman""",22,3,Hrittik Azad,aNGhnNMSopI,0.0,2016-05-13 17:52:22,True,True
+2016-05-13T17:58:21,Is The Accountant Marvel or DC ?,0,2,Luciano Jorge,aNGhnNMSopI,0.0,2016-05-13 17:58:21,True,True
+2016-05-13T18:16:04,"Wow, great editing for this trailer.",5,0,K.P.T,aNGhnNMSopI,0.45,2016-05-13 18:16:04,True,True
+2016-05-13T18:29:30,"Damn, whoever edited this, must have edited Suicide Squad trailers. I know it's the same person because it's WB.",0,1,Sahyl,aNGhnNMSopI,0.0,2016-05-13 18:29:30,True,True
+2016-05-13T18:31:26,JUSTICE LEAGUE?,0,0,Devon Thomas,aNGhnNMSopI,0.0,2016-05-13 18:31:26,True,True
+2016-05-13T18:38:33,Rainman vs. Rambo,0,0,kidfoxx,aNGhnNMSopI,0.0,2016-05-13 18:38:33,True,True
+2016-05-13T18:50:55,What is the music?,0,1,SnowSpider108,aNGhnNMSopI,0.0,2016-05-13 18:50:55,True,True
+2016-05-13T19:14:38,Ben Affleck is making a comeback and I'm all aboard! Movie looks great!,0,0,aHairyWhiteGuy,aNGhnNMSopI,1.0,2016-05-13 19:14:38,True,True
+2016-05-13T19:25:37,"Looks like A Beautiful Mind meets Bourne Identity. And wow, Anna Kendrick, she's in like EVERY movie this year.",0,0,Tim Aucoin Screenwriter,aNGhnNMSopI,0.475,2016-05-13 19:25:37,True,True
+2016-05-13T19:32:56,Already better than BvS,1,1,leounn,aNGhnNMSopI,0.5,2016-05-13 19:32:56,True,True
+2016-05-13T19:35:01,what song?,0,2,ディーマシン,aNGhnNMSopI,0.0,2016-05-13 19:35:01,True,True
+2016-05-13T20:08:38,OMG Radiohead in the soundtrack.The trailor is already a masterpiece.,8,0,Pratyush,aNGhnNMSopI,0.0,2016-05-13 20:08:38,True,True
+2016-05-13T20:16:22,me,0,0,Chris Jones,aNGhnNMSopI,0.0,2016-05-13 20:16:22,True,True
+2016-05-13T20:40:45,WOW. This looks spectacular!,5,0,Isidora Janković,aNGhnNMSopI,0.425,2016-05-13 20:40:45,True,True
+2016-05-13T20:47:18,"Ben Affleck said, ""What if Will decided to pursue math..."" upvote for Radiohead",0,0,Laxstrat,aNGhnNMSopI,0.0,2016-05-13 20:47:18,True,True
+2016-05-13T20:54:04,Ben will finally win an oscar with this movie,0,0,Greg Mcg,aNGhnNMSopI,0.8,2016-05-13 20:54:04,True,True
+2016-05-13T21:08:29,In all the way!,0,0,Husnan,aNGhnNMSopI,0.0,2016-05-13 21:08:29,True,True
+2016-05-13T21:34:49,"1:41 Who are you,,,,,,,,,,,,,,,,,,,,,,,,,,IM BATMAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",0,0,KUYA,aNGhnNMSopI,0.0,2016-05-13 21:34:49,True,True
+2016-05-13T21:59:53,Bruce....,0,0,Daniel Kingsley,aNGhnNMSopI,0.0,2016-05-13 21:59:53,True,True
+2016-05-13T22:09:34,Ben Affleck. Next question.,0,0,Michaela White,aNGhnNMSopI,0.0,2016-05-13 22:09:34,True,True
+2016-05-13T22:11:01,"''Your different Bruce, sooner or later difference scares people and you think if you don't fight back then maybe they like you and stop picking on you and calling you a freak...victim or not MAKE A DECISION''  This is clearly Batman's childhood ;D",0,0,Abz Zay,aNGhnNMSopI,0.07,2016-05-13 22:11:01,True,True
+2016-05-13T22:15:04,Love it.,0,0,Sonofabyss,aNGhnNMSopI,0.5,2016-05-13 22:15:04,True,True
+2016-05-13T22:24:14,A Trailer like this just bought my Movie ticket,7,0,P4UL TH0M4S,aNGhnNMSopI,0.0,2016-05-13 22:24:14,True,True
+2016-05-13T22:28:59,"""Can he live a normal life?""            ""YES""        ""Why?""            ""BECAUSE HE'S BATMAN!!!""",5,0,John Smith,aNGhnNMSopI,0.21466619318181818,2016-05-13 22:28:59,True,True
+2016-05-13T22:32:27,wonder is this is where his talent hid  during batman v superman,0,0,bobby lite,aNGhnNMSopI,0.0,2016-05-13 22:32:27,True,True
+2016-05-13T22:45:21,Radiohead= Everything in Its Right Place!,33,2,mike nillos,aNGhnNMSopI,0.3571428571428571,2016-05-13 22:45:21,True,True
+2016-05-13T23:00:36,"Daredevil, Batman,  and now The Punisher",2,0,Troy Parker,aNGhnNMSopI,0.0,2016-05-13 23:00:36,True,True
+2016-05-13T23:11:46,I've got a good feeling about this movie.,0,0,MrPukestick,aNGhnNMSopI,0.7,2016-05-13 23:11:46,True,True
+2016-05-13T23:30:47,Bruce Wayne's true colours,0,0,MirinPapi,aNGhnNMSopI,0.35,2016-05-13 23:30:47,True,True
+2016-05-13T23:32:51,Anyone have a link to the song used?,0,0,SomeoneWithFreeTime,aNGhnNMSopI,0.0,2016-05-13 23:32:51,True,True
+2016-05-13T23:36:53,"So this is basically _Rain Man_ meets _Hitman_, then?",1,2,JamesPolymer,aNGhnNMSopI,0.0,2016-05-13 23:36:53,True,True
+2016-05-13T23:45:14,I love how this trailer didn't reveal soo much.,7,0,Huda Abdi,aNGhnNMSopI,0.35,2016-05-13 23:45:14,True,True
+2016-05-13T23:45:48,"Ben Affleck, J.K. Simmons, and Jon Bernthal?  I think Batman, Commissioner Gordon, and The Punisher.",0,0,Christopher Cruz,aNGhnNMSopI,0.0,2016-05-13 23:45:48,True,True
+2016-05-13T23:49:28,Looks like my kind of movie .....,0,0,NexisFilms,aNGhnNMSopI,0.6,2016-05-13 23:49:28,True,True
+2016-05-14T00:30:50,Fuck me the amount of batman fanboys in the comment section is too much! Can't we appreciate Ben affleck for some of his other roles?,1,0,TomBarlows Cats,aNGhnNMSopI,-0.09166666666666667,2016-05-14 00:30:50,True,True
+2016-05-14T00:39:00,this actually looks pretty decent,0,0,Kelly and Lara,aNGhnNMSopI,0.13888888888888887,2016-05-14 00:39:00,True,True
+2016-05-14T01:00:27,Is this the grown version of that one white kid who shot up a school?,0,0,Moment,aNGhnNMSopI,0.0,2016-05-14 01:00:27,True,True
+2016-05-14T01:11:45,So Good Will Hunting with the good looking one rather than the short one,3,2,Samatar Ahmed,aNGhnNMSopI,0.4666666666666666,2016-05-14 01:11:45,True,True
+2016-05-14T01:15:08,now this is a trailer done well,8,0,Don ND,aNGhnNMSopI,0.0,2016-05-14 01:15:08,True,True
+2016-05-14T01:54:00,Is that a r26 at the begging?,0,0,Beastly R34,aNGhnNMSopI,0.0,2016-05-14 01:54:00,True,True
+2016-05-14T02:03:08,"With Batman, Commissioner Gordon, The Punisher and directed by Gavin O'Connor, who directed the amazing ""Warrior"" with Tom Hardy...I'm really excited to watch this.",0,0,Erluan Felix Batista,aNGhnNMSopI,0.48750000000000004,2016-05-14 02:03:08,True,True
+2016-05-14T02:19:42,This should be called Good Will Hunting 2: The Rise of Chuckie,0,0,Adam Groussin,aNGhnNMSopI,0.7,2016-05-14 02:19:42,True,True
+2016-05-14T02:24:00,✍️ The Accountant 👀          ✍️ October 14 📆  ok  Already on my calendar,6,0,リュウ,aNGhnNMSopI,0.5,2016-05-14 02:24:00,True,True
+2016-05-14T02:29:34,Amazing! !!,1,0,Marlon Novack,aNGhnNMSopI,1.0,2016-05-14 02:29:34,True,True
+2016-05-14T02:35:37,ben affleck is really stepping his game up and reinventing himself as an actor :),5,0,M.A.P Films,aNGhnNMSopI,0.09999999999999999,2016-05-14 02:35:37,True,True
+2016-05-14T03:41:35,"Holy shit this looks amazing, is this directed by batman because batman is a really good director and actor and this movie looks next level",2,2,Kman Rocks,aNGhnNMSopI,0.275,2016-05-14 03:41:35,True,True
+2016-05-14T03:47:37,woah Radiohead,0,0,Sourav Das,aNGhnNMSopI,0.0,2016-05-14 03:47:37,True,True
+2016-05-14T03:49:50,Radiohead rules! They picked such a perfect song for this trailer :),0,1,KrisJM1234,aNGhnNMSopI,0.5,2016-05-14 03:49:50,True,True
+2016-05-14T04:17:51,Dude the justice league trailer looks good af,0,0,Scoob_jaja,aNGhnNMSopI,0.7,2016-05-14 04:17:51,True,True
+2016-05-14T04:24:57,When i heard the word 'cartel' i started to think that Ben Affleck's character is a little bit Gustavo Fring-ish in this movie,0,0,Bobo Vieri,aNGhnNMSopI,-0.1875,2016-05-14 04:24:57,True,True
+2016-05-14T04:56:12,I think they forgot to include the action sequence of Ben Affleck knocking out a tax return while simultaneously punching bad guys,0,0,Ravi Singh,aNGhnNMSopI,-0.29999999999999993,2016-05-14 04:56:12,True,True
+2016-05-14T05:02:35,This looks good.,2,0,Jerel Damon,aNGhnNMSopI,0.7,2016-05-14 05:02:35,True,True
+2016-05-14T05:26:05,A trailer that's very well edited and doesn't spoil anything with great music and tone. I like,0,0,Nico Candela,aNGhnNMSopI,0.5,2016-05-14 05:26:05,True,True
+2016-05-14T05:50:31,Who is he? Batman of course!,0,0,AG64,aNGhnNMSopI,0.0,2016-05-14 05:50:31,True,True
+2016-05-14T06:12:23,Seems really messy. Like they injected some kind of odd assassin sub character development/plot or whatever into a mediocre crime drama. Why does he have to be special? Why is an accountant murdering people? Meh..,0,0,EndeAbgrunds,aNGhnNMSopI,0.018095238095238088,2016-05-14 06:12:23,True,True
+2016-05-14T07:50:00,Ben Affleck: one of 21st centuries surprising great actors.,64,22,Banana in Condom,aNGhnNMSopI,0.5,2016-05-14 07:50:00,True,True
+2016-05-14T08:34:07,Looks dope!,0,0,David's,aNGhnNMSopI,0.0,2016-05-14 08:34:07,True,True
+2016-05-14T08:40:56,Anna Kendrick: who are you?  Ben Affleck: I'm batman.,0,1,CookieComa,aNGhnNMSopI,0.0,2016-05-14 08:40:56,True,True
+2016-05-14T08:41:24,Radiohead. They're making accountants seem cool. We've officially run out of ideas,0,0,J,aNGhnNMSopI,0.35,2016-05-14 08:41:24,True,True
+2016-05-14T08:42:24,wow. Great use of Radiohead.,0,0,franzchick66,aNGhnNMSopI,0.45,2016-05-14 08:42:24,True,True
+2016-05-14T08:45:16,The Bourne Affleck,0,0,Seth Rollins,aNGhnNMSopI,0.0,2016-05-14 08:45:16,True,True
+2016-05-14T08:49:39,terrible name for a movie but the trailer actually looks pretty good,0,0,rakkazoid,aNGhnNMSopI,-0.012500000000000011,2016-05-14 08:49:39,True,True
+2016-05-14T09:27:14,the thumbnail looks like angry video game nerd.,0,0,varanandpoochie96,aNGhnNMSopI,-0.45,2016-05-14 09:27:14,True,True
+2016-05-14T09:37:37,Genius with a troubled childhood who shoots people? Bruce Wayne?,0,0,highlandcommando,aNGhnNMSopI,-0.5,2016-05-14 09:37:37,True,True
+2016-05-14T09:44:07,Because I'm a bias fuck I'm gonna rate this movie twenty out of ten just cuz everything in its right place. RADIOHEAD LOVE LIFE,0,0,Burn Splash Freeze,aNGhnNMSopI,0.09642857142857142,2016-05-14 09:44:07,True,True
+2016-05-14T09:56:54,"I literally have no idea what was going on, but I want to see it.",9,2,Theo Hamilton,aNGhnNMSopI,0.0,2016-05-14 09:56:54,True,True
+2016-05-14T10:19:48,Looks original and interesting. Count me in!,0,0,captaincomps,aNGhnNMSopI,0.5,2016-05-14 10:19:48,True,True
+2016-05-14T10:34:36,Why did they use the shot of her opening the garage twice?,1,2,Hayden Russell,aNGhnNMSopI,0.0,2016-05-14 10:34:36,True,True
+2016-05-14T10:44:35,"i hope this movie better than BVS, make him happu",0,0,Ali Syed,aNGhnNMSopI,0.5,2016-05-14 10:44:35,True,True
+2016-05-14T10:49:45,AVGN?,0,0,Johnny Gilling,aNGhnNMSopI,0.0,2016-05-14 10:49:45,True,True
+2016-05-14T10:49:45,is this a fucking joke movie?,0,0,eo,aNGhnNMSopI,-0.6,2016-05-14 10:49:45,True,True
+2016-05-14T11:08:03,Would be better as a TV show,0,0,Jack Simpson,aNGhnNMSopI,0.5,2016-05-14 11:08:03,True,True
+2016-05-14T11:16:41,I am a small youtuber trying to get recognition.Plz check my channel .My goal is 500 sub,0,0,N2BRO Studios,aNGhnNMSopI,-0.25,2016-05-14 11:16:41,True,True
+2016-05-14T11:24:59,Song name?,0,2,Arunneesh,aNGhnNMSopI,0.0,2016-05-14 11:24:59,True,True
+2016-05-14T11:28:43,This looks like the best thing Ben Affleck has done in years!,0,0,M K,aNGhnNMSopI,1.0,2016-05-14 11:28:43,True,True
+2016-05-14T11:34:04,tell me...do you accountant?,0,1,Handsomn14,aNGhnNMSopI,0.0,2016-05-14 11:34:04,True,True
+2016-05-14T11:43:32,Warner Bros really loves Ben Alflec,9,2,kapil busawah,aNGhnNMSopI,0.2,2016-05-14 11:43:32,True,True
+2016-05-14T11:50:16,"Who are you? I'""""""""Mmmmm Batman!",0,0,AutoRingMagazine,aNGhnNMSopI,0.0,2016-05-14 11:50:16,True,True
+2016-05-14T12:11:29,"Before the Batman, he was the Accountant.",0,0,Bacon,aNGhnNMSopI,0.0,2016-05-14 12:11:29,True,True
+2016-05-14T12:18:43,I'm batman!,0,0,dontchatthings,aNGhnNMSopI,0.0,2016-05-14 12:18:43,True,True
+2016-05-14T13:15:18,"Came here for Radiohead, stayed for the movie as well.",0,0,chapodepaille28,aNGhnNMSopI,0.0,2016-05-14 13:15:18,True,True
+2016-05-14T13:18:33,Radiohead!!,0,0,Claudia Limon,aNGhnNMSopI,0.0,2016-05-14 13:18:33,True,True
+2016-05-14T13:23:57,What car is that at the opening of the trailer? (0:13),0,0,Hari Paremal,aNGhnNMSopI,0.0,2016-05-14 13:23:57,True,True
+2016-05-14T13:29:47,"***Spoiler*** His parents first got suspicious when he was constipated, He just started working it out with a pencil at the age of 2.  It's an oldie but some say there the best......",1,0,Iain Mcminn,aNGhnNMSopI,0.625,2016-05-14 13:29:47,True,True
+2016-05-14T14:31:53,awesomeeeeeeeeeeeeeeee,0,0,J Adam,aNGhnNMSopI,0.0,2016-05-14 14:31:53,True,True
+2016-05-14T14:35:39,I like the music for this trailer.,0,0,deathsdoor07,aNGhnNMSopI,0.0,2016-05-14 14:35:39,True,True
+2016-05-14T14:50:46,"I just realised, the reason half of this is repeated is because he has OCD... that's clever...",9,0,AngusMitchell,aNGhnNMSopI,0.0,2016-05-14 14:50:46,True,True
+2016-05-14T14:53:37,so Bruce Wayne is accountant??,4,0,Raja Pamungkas,aNGhnNMSopI,0.0,2016-05-14 14:53:37,True,True
+2016-05-14T15:08:52,Seems interesting. :),0,0,Fabled Narrative,aNGhnNMSopI,0.5,2016-05-14 15:08:52,True,True
+2016-05-14T15:29:36,does ben affleck speak a single word in this movie at all,0,0,Ajuthan G,aNGhnNMSopI,-0.07142857142857142,2016-05-14 15:29:36,True,True
+2016-05-14T15:42:57,Looks great I'll check it out,3,0,Eli,aNGhnNMSopI,0.8,2016-05-14 15:42:57,True,True
+2016-05-14T15:57:59,Who's the accountant? He's Batman!,0,0,iPlay Mobile,aNGhnNMSopI,0.0,2016-05-14 15:57:59,True,True
+2016-05-14T16:05:53,This is how a trailer is meant to be. Making you ask questions and wanting more afterwards,0,0,Godfather08,aNGhnNMSopI,0.5,2016-05-14 16:05:53,True,True
+2016-05-14T16:14:47,he was born smart. thats in his genes. but with fighting skill and shooting stuff? he probably got that to his best bud in real life. Jason Bourne.,15,4,joven arevalo,aNGhnNMSopI,0.47142857142857136,2016-05-14 16:14:47,True,True
+2016-05-14T16:19:43,Now this is a trailer!,0,0,Anirudh Murali,aNGhnNMSopI,0.0,2016-05-14 16:19:43,True,True
+2016-05-14T16:23:02,Wat is the song in the backgrounding,0,0,YoSouZaBoy,aNGhnNMSopI,0.0,2016-05-14 16:23:02,True,True
+2016-05-14T16:23:28,why are people saying this is so good tho? it's generic trash. Ben was great as batman so don't call me a hater.,0,0,Sam,aNGhnNMSopI,0.5,2016-05-14 16:23:28,True,True
+2016-05-14T16:30:39,"A movie about an autistic accountant.  I mean, whats not to love?  The thrill of accounting and the danger of breakfast foods tocuhing.  I am on the edge of my seat.",4,0,Bill Marcy,aNGhnNMSopI,-0.004166666666666652,2016-05-14 16:30:39,True,True
+2016-05-14T16:35:35,Music?,0,0,Sean Mignon,aNGhnNMSopI,0.0,2016-05-14 16:35:35,True,True
+2016-05-14T16:53:27,coincidence that nobody has ever seen batman and the accountant in the same room at the same time ?!,0,1,elibralen,aNGhnNMSopI,0.0,2016-05-14 16:53:27,True,True
+2016-05-14T17:26:39,With his white shirt on and glasses he looks like Mr incredible in the office scene.,0,0,Joel Pickering,aNGhnNMSopI,0.45,2016-05-14 17:26:39,True,True
+2016-05-14T17:45:27,"I can't refute the facts they're saying, so I'm going to say it's gross and racist.",0,0,Jose Carranza,aNGhnNMSopI,0.0,2016-05-14 17:45:27,True,True
+2016-05-14T17:48:34,I'd watch it for this 1:21 scene alone,2,5,Zeron!,aNGhnNMSopI,0.0,2016-05-14 17:48:34,True,True
+2016-05-14T17:48:55,"Looks like a sick movie will defiantly watch this, Ben is an awesome actor.",2,0,redfirekla,aNGhnNMSopI,0.14285714285714285,2016-05-14 17:48:55,True,True
+2016-05-14T18:01:05,"""Who are You?"" . . . . ""I am Batman""",29,0,Pratham,aNGhnNMSopI,0.0,2016-05-14 18:01:05,True,True
+2016-05-14T18:03:23,This video Should be considered as fixed assets in non-current assets,0,0,Sherlock Holmes,aNGhnNMSopI,0.1,2016-05-14 18:03:23,True,True
+2016-05-14T18:09:27,not impressed...but i`ll download it its just another educational movie that has no reflection in reality,0,0,Rado Hank,aNGhnNMSopI,0.25,2016-05-14 18:09:27,True,True
+2016-05-14T18:18:21,What is normal?,0,0,dntwatchdatt,aNGhnNMSopI,0.15,2016-05-14 18:18:21,True,True
+2016-05-14T18:28:16,Anna: Who are you? Ben: I am Batman !    xD,0,0,Ossie.T,aNGhnNMSopI,0.0,2016-05-14 18:28:16,True,True
+2016-05-14T19:06:31,another movie ruined by batfleck,0,0,scannaunderscore1,aNGhnNMSopI,0.0,2016-05-14 19:06:31,True,True
+2016-05-14T19:25:55,Is that Radiohead?,0,0,ebutym11225,aNGhnNMSopI,0.0,2016-05-14 19:25:55,True,True
+2016-05-14T19:26:20,He's like Sylar from Heroes but without powers.,0,0,Kaito Dragon,aNGhnNMSopI,0.0,2016-05-14 19:26:20,True,True
+2016-05-14T19:38:05,"This kid is super, wonder how his dad feels about that...",0,1,Moinul,aNGhnNMSopI,0.3333333333333333,2016-05-14 19:38:05,True,True
+2016-05-14T20:23:14,This looks really good.,8,0,MrCopperwheels,aNGhnNMSopI,0.7,2016-05-14 20:23:14,True,True
+2016-05-14T20:46:35,The Accountant turned out to be Batman... mind blowing,9,0,Psychotic Ass,aNGhnNMSopI,0.0,2016-05-14 20:46:35,True,True
+2016-05-14T20:59:52,Thought this nigga was better call Saul,0,0,TheHajinator,aNGhnNMSopI,0.5,2016-05-14 20:59:52,True,True
+2016-05-14T21:07:45,the accountant: dawn of batman,0,0,Snapester1994,aNGhnNMSopI,0.0,2016-05-14 21:07:45,True,True
+2016-05-14T21:11:23,"""Who is the accountant?""  IM BAATTMMAAANNN!!!!!",8,0,Uzo,aNGhnNMSopI,0.0,2016-05-14 21:11:23,True,True
+2016-05-14T21:30:27,This will be Affleck's next Oscar.,6,0,AutomaticPixel,aNGhnNMSopI,0.0,2016-05-14 21:30:27,True,True
+2016-05-14T22:13:21,Looks like Matt Damon grew a foot taller.,7,0,DustingBread,aNGhnNMSopI,0.0,2016-05-14 22:13:21,True,True
+2016-05-14T22:24:20,Bruce Wayne...?,2,0,巭巭巭,aNGhnNMSopI,0.0,2016-05-14 22:24:20,True,True
+2016-05-14T22:30:44,Now that's how you make a trailer!,0,0,Alan Carter,aNGhnNMSopI,0.0,2016-05-14 22:30:44,True,True
+2016-05-14T22:32:12,"A trailer that doesn't give away the whole film and make you feel like you just watched it, what a time to be alive",0,0,harry glenn,aNGhnNMSopI,0.15000000000000002,2016-05-14 22:32:12,True,True
+2016-05-14T22:35:53,This actually looks good.,0,0,TheAutistWhisperer,aNGhnNMSopI,0.35,2016-05-14 22:35:53,True,True
+2016-05-14T22:47:54,They spelled wolf wrong!!!!,0,0,Callum Phillips,aNGhnNMSopI,-1.0,2016-05-14 22:47:54,True,True
+2016-05-14T22:51:37,Also featuring Tom Hardy as Bane-The Human Resources department Lady,3,1,Callum Phillips,aNGhnNMSopI,0.0,2016-05-14 22:51:37,True,True
+2016-05-14T22:56:59,interesting,0,0,GibsonGaming,aNGhnNMSopI,0.5,2016-05-14 22:56:59,True,True
+2016-05-14T22:57:09,name of the song,0,1,jamie welc,aNGhnNMSopI,0.0,2016-05-14 22:57:09,True,True
+2016-05-14T23:33:40,Looks Amazing *.*,4,0,Tanyaaa,aNGhnNMSopI,0.6000000000000001,2016-05-14 23:33:40,True,True
+2016-05-14T23:40:00,"Accounting is not mathematics, nor does accounting use any serious maths. Accountants are typically dumb dull boring fucks with little intelligence or creativity and I majored in Accounting. This fictional savant character would have been a mathematician in real life.",3,6,fahadkelantan,aNGhnNMSopI,-0.2839285714285714,2016-05-14 23:40:00,True,True
+2016-05-15T00:10:11,"A film about an accountant, starring Ben Affleck, that literally sounds like someone made a shit joke.. But it actually looks awesome!",15,0,Jack Thorpe,aNGhnNMSopI,0.26666666666666666,2016-05-15 00:10:11,True,True
+2016-05-15T00:19:34,"I may be quite drunk, but i didn't understand that at all. So I'm going to watch it. (That's how to do a trailer)",20,0,Smith,aNGhnNMSopI,-0.5,2016-05-15 00:19:34,True,True
+2016-05-15T00:20:10,"Ben Affleck saw The Revenant and was like ""If I don't say anything maybe I'll get an academy award too!""",0,0,Goat C.,aNGhnNMSopI,0.0,2016-05-15 00:20:10,True,True
+2016-05-15T00:45:36,I was getting asmr from that tapping,3,0,bumfree,aNGhnNMSopI,0.0,2016-05-15 00:45:36,True,True
+2016-05-15T00:52:41,The poorer version of Bruce Wayne (WITH KILLING MODE ON),2,0,David Jeff,aNGhnNMSopI,0.0,2016-05-15 00:52:41,True,True
+2016-05-15T01:46:45,probably going to watch this in 4 years on netflix,1,0,KetoKilvo,aNGhnNMSopI,0.0,2016-05-15 01:46:45,True,True
+2016-05-15T02:02:43,The amount of whoop ass I got from this trailer,0,0,Jaleea Smith,aNGhnNMSopI,0.0,2016-05-15 02:02:43,True,True
+2016-05-15T02:04:26,Gone Girl >Gone Boy,0,0,Jaleea Smith,aNGhnNMSopI,0.0,2016-05-15 02:04:26,True,True
+2016-05-15T02:06:20,Who... Is... Martha..?,0,0,Paul Knowles,aNGhnNMSopI,0.0,2016-05-15 02:06:20,True,True
+2016-05-15T02:10:36,Looks better than the shitty BVS movie.,1,0,anthony smith,aNGhnNMSopI,0.5,2016-05-15 02:10:36,True,True
+2016-05-15T02:36:22,hi um whats tge name of tge song in this trailer?,0,0,Josh Joissaint,aNGhnNMSopI,0.0,2016-05-15 02:36:22,True,True
+2016-05-15T03:48:02,just wish Anna Kendrick wasn't in it,10,0,Kshitij Patil,aNGhnNMSopI,0.0,2016-05-15 03:48:02,True,True
+2016-05-15T03:51:43,"and no Excel spreadsheet to be seen; yes this is ""real""",1,0,xDRAN0x,aNGhnNMSopI,0.2,2016-05-15 03:51:43,True,True
+2016-05-15T04:52:52,B f is a terrible actor,0,0,tk2 Ktt,aNGhnNMSopI,-1.0,2016-05-15 04:52:52,True,True
+2016-05-15T05:05:10,"This movie looks really good. Good supporting cast, and interesting story...if it weren't for the whole Ben Affleck starring role, I would have actually gone to see it.",0,0,Hank Larsen,aNGhnNMSopI,0.39166666666666666,2016-05-15 05:05:10,True,True
+2016-05-15T05:15:02,"Batman, Punisher, Jim Gordon seems like a great movie",0,0,Digvijay Mane,aNGhnNMSopI,0.8,2016-05-15 05:15:02,True,True
+2016-05-15T05:47:43,I kept watching this trailer because Radiohead.,82,2,Morjax Plays,aNGhnNMSopI,0.0,2016-05-15 05:47:43,True,True
+2016-05-15T06:20:32,Commissioner Gordon and Bruce Wayne at it again!,0,0,AleinDudeSpartan,aNGhnNMSopI,0.0,2016-05-15 06:20:32,True,True
+2016-05-15T06:21:02,Ben affleck is a beast,0,0,leepicciotto,aNGhnNMSopI,0.0,2016-05-15 06:21:02,True,True
+2016-05-15T06:23:38,this looks good,7,0,LoudAngryJerk,aNGhnNMSopI,0.7,2016-05-15 06:23:38,True,True
+2016-05-15T06:55:01,Can he still balance the balancesheet??😂😂,59,5,Kobayashi kiyoko,aNGhnNMSopI,0.0,2016-05-15 06:55:01,True,True
+2016-05-15T07:21:58,Guess the failure of batman vs superman really got to sadfleck,0,2,Belle374,aNGhnNMSopI,-0.05833333333333335,2016-05-15 07:21:58,True,True
+2016-05-15T07:53:51,Count me fucking IN!   #Whoistheaccountant,0,0,Myk McGrane,aNGhnNMSopI,-0.75,2016-05-15 07:53:51,True,True
+2016-05-15T07:54:00,"Трейлер крут, Бен Аффлек тащи!!!",0,0,Один говорит другой ему верит,aNGhnNMSopI,0.0,2016-05-15 07:54:00,True,True
+2016-05-15T07:54:58,Radiohead. RADIOHEAD <3 <3,1,0,Christopher Griffin,aNGhnNMSopI,1.0,2016-05-15 07:54:58,True,True
+2016-05-15T07:55:03,Radiohead. RADIOHEAD <3 <3,6,4,Christopher Griffin,aNGhnNMSopI,1.0,2016-05-15 07:55:03,True,True
+2016-05-15T08:10:29,Justice League! :D,4,0,RecigyHiGH,aNGhnNMSopI,1.0,2016-05-15 08:10:29,True,True
+2016-05-15T08:12:01,Jim Gordon ft Bruce Wayne,39,3,R3nn 56,aNGhnNMSopI,0.0,2016-05-15 08:12:01,True,True
+2016-05-15T08:54:35,"I have a connection to someone in the film biz who saw an advanced screening of this movie, he says that 80 percent of this movie contains Ben Affleck crunching numbers in Quickbooks. No Lie.",1,1,daweller,aNGhnNMSopI,0.4,2016-05-15 08:54:35,True,True
+2016-05-15T09:17:03,"Anna Kendrick: ""who are you?""    I'm batman",0,0,Suibs,aNGhnNMSopI,0.0,2016-05-15 09:17:03,True,True
+2016-05-15T09:31:17,My boy is wicked smaht,0,0,Chuck,aNGhnNMSopI,0.0,2016-05-15 09:31:17,True,True
+2016-05-15T09:37:09,"looks shit making him out to be some superhuman, hes fucking lame",0,5,ADVENTURE TALES,aNGhnNMSopI,-0.35,2016-05-15 09:37:09,True,True
+2016-05-15T09:59:32,"Damn, no John Lithgow in the trailer.",0,0,OhtheSuffering,aNGhnNMSopI,0.0,2016-05-15 09:59:32,True,True
+2016-05-15T10:12:52,finally a movie bean counters can point to.,0,0,CHICOSHAY,aNGhnNMSopI,0.0,2016-05-15 10:12:52,True,True
+2016-05-15T10:17:45,Batman and jim Gordon !!!!!,0,0,Arusha Singh,aNGhnNMSopI,0.0,2016-05-15 10:17:45,True,True
+2016-05-15T10:31:37,Suspension is climaxing - shows egg,9,0,CGK Ty,aNGhnNMSopI,0.0,2016-05-15 10:31:37,True,True
+2016-05-15T10:41:34,*Spoiler alert* He dies.,0,0,Monkey D Luffy,aNGhnNMSopI,0.0,2016-05-15 10:41:34,True,True
+2016-05-15T10:41:49,Damn good trailer,0,0,A M,aNGhnNMSopI,0.7,2016-05-15 10:41:49,True,True
+2016-05-15T11:02:28,This looks gooooood,0,0,Clashtastic,aNGhnNMSopI,0.0,2016-05-15 11:02:28,True,True
+2016-05-15T11:13:57,radiohead aaaaaaaaaaa,0,0,Lorna Bo,aNGhnNMSopI,0.0,2016-05-15 11:13:57,True,True
+2016-05-15T11:57:25,The accountant will make them bleed.,14,0,behnamasid2,aNGhnNMSopI,0.0,2016-05-15 11:57:25,True,True
+2016-05-15T12:54:30,"Damn it Bruce, I thought you stopped killing people.",7,0,kgv952510,aNGhnNMSopI,0.0,2016-05-15 12:54:30,True,True
+2016-05-15T13:30:43,This looks so good!!,0,0,Abdul Baazab,aNGhnNMSopI,1.0,2016-05-15 13:30:43,True,True
+2016-05-15T14:36:52,Rumour has it Ben Affleck has no lines in the entire movie except *blows on hands*.,14,0,Appellation Sobriquet,aNGhnNMSopI,0.0,2016-05-15 14:36:52,True,True
+2016-05-15T14:54:55,good will hunting 2,1,0,Weabe,aNGhnNMSopI,0.7,2016-05-15 14:54:55,True,True
+2016-05-15T16:00:40,cool ....batman doing his bat stuff ..........,3,0,MAD-RAI,aNGhnNMSopI,0.35,2016-05-15 16:00:40,True,True
+2016-05-15T16:36:21,Song?,0,0,emotionsaside,aNGhnNMSopI,0.0,2016-05-15 16:36:21,True,True
+2016-05-15T16:49:29,Bruce Wayne in an alternate Universe and he's still kicking ass,89,3,redrobot001,aNGhnNMSopI,0.0,2016-05-15 16:49:29,True,True
+2016-05-15T17:17:29,Batman can never lead a normal life,0,0,sreekar swarnapuri,aNGhnNMSopI,0.15,2016-05-15 17:17:29,True,True
+2016-05-15T18:13:27,BATMAN!  jajajajaja,0,0,Angelo Santos,aNGhnNMSopI,0.0,2016-05-15 18:13:27,True,True
+2016-05-15T18:20:13,If anyone is wondering.  The music in this trailer is Tengo - Everything is out of place,1,1,Kristian Tervakoski,aNGhnNMSopI,0.0,2016-05-15 18:20:13,True,True
+2016-05-15T19:01:26,"""Tell me.. Do u balance??... You Will""",1,0,kelvin perez,aNGhnNMSopI,0.0,2016-05-15 19:01:26,True,True
+2016-05-15T19:05:14,what's the song?,0,0,Ameer Akashe,aNGhnNMSopI,0.0,2016-05-15 19:05:14,True,True
+2016-05-15T20:26:11,Why not show the same shoots over and over again while we're at it.,0,0,Jonathan Holm,aNGhnNMSopI,0.0,2016-05-15 20:26:11,True,True
+2016-05-15T20:53:15,This seems like an unusual role for Ben Affleck to play. It should be interesting to see how this turns out.,2,0,Adam A.,aNGhnNMSopI,0.35,2016-05-15 20:53:15,True,True
+2016-05-15T21:20:27,"""Bruce Wayne: The Accountant""",0,0,Miqwelli,aNGhnNMSopI,0.0,2016-05-15 21:20:27,True,True
+2016-05-15T21:43:54,we all knew Bruce wasn't going to lead a Normal life,17,0,Son Goku,aNGhnNMSopI,0.15,2016-05-15 21:43:54,True,True
+2016-05-15T22:20:40,can't wait to see Ben Affleck  (batman) and jk Simmons  (commissioner gordon) chemistry,0,0,Jesse Torres,aNGhnNMSopI,0.0,2016-05-15 22:20:40,True,True
+2016-05-15T22:27:21,holy shit this looks awesome,0,0,Cameron Clark,aNGhnNMSopI,0.4,2016-05-15 22:27:21,True,True
+2016-05-15T23:08:31,This film is gross and racist.,0,5,Alexander de Montfort,aNGhnNMSopI,0.0,2016-05-15 23:08:31,True,True
+2016-05-15T23:50:04,RADIOHEAD FOR THE FUCKING WIN,0,0,TYLER K,aNGhnNMSopI,0.8,2016-05-15 23:50:04,True,True
+2016-05-15T23:50:53,This should be good !,0,0,Bryan Hopkins,aNGhnNMSopI,0.875,2016-05-15 23:50:53,True,True
+2016-05-16T00:13:10,that's how it starts...,0,1,Mario Habijanec,aNGhnNMSopI,0.0,2016-05-16 00:13:10,True,True
+2016-05-16T01:42:19,It's Accrual world,1,0,Areeb Ahmed,aNGhnNMSopI,0.0,2016-05-16 01:42:19,True,True
+2016-05-16T06:28:32,2015 & 2016 belongs to Anna Kendrick :D,0,0,Sunil Dutta,aNGhnNMSopI,1.0,2016-05-16 06:28:32,True,True
+2016-05-16T06:28:36,72 people think this is a BvS prequel,1,0,divante blanchard,aNGhnNMSopI,0.0,2016-05-16 06:28:36,True,True
+2016-05-16T07:17:50,this is the story of origin of batman,0,0,Vishwaj Gondane,aNGhnNMSopI,0.0,2016-05-16 07:17:50,True,True
+2016-05-16T07:49:03,1:42 Who are you??  Im batman!!!,11,0,Silent observer,aNGhnNMSopI,0.0,2016-05-16 07:49:03,True,True
+2016-05-16T08:18:04,The Accountant is unbeatable because...HE'S BATMAN!!!,6,0,Sy A,aNGhnNMSopI,0.0,2016-05-16 08:18:04,True,True
+2016-05-16T08:58:18,caus I AM BATMAN!,0,0,MisterMaker,aNGhnNMSopI,0.0,2016-05-16 08:58:18,True,True
+2016-05-16T11:14:05,How can he be normal.... He is Batman damnit,0,0,Ishwar Bulbule,aNGhnNMSopI,0.15,2016-05-16 11:14:05,True,True
+2016-05-16T11:50:26,looks like he was born to be Batman,0,0,Grant positive,aNGhnNMSopI,0.0,2016-05-16 11:50:26,True,True
+2016-05-16T12:24:34,Why error,0,0,Content One,aNGhnNMSopI,0.0,2016-05-16 12:24:34,True,True
+2016-05-16T12:30:25,Looks alright,0,0,Chris F 71,aNGhnNMSopI,0.0,2016-05-16 12:30:25,True,True
+2016-05-16T12:30:51,I work at an accountancy and they aren't this interesting,0,0,Chris F 71,aNGhnNMSopI,0.5,2016-05-16 12:30:51,True,True
+2016-05-16T12:38:01,Would like to check the film out.,0,0,Content One,aNGhnNMSopI,0.0,2016-05-16 12:38:01,True,True
+2016-05-16T12:56:24,"Well, we all love Ben Affleck pretty much now.",1,0,Joseph Stalin,aNGhnNMSopI,0.31666666666666665,2016-05-16 12:56:24,True,True
+2016-05-16T13:03:59,but does he know how to balance a balance sheet???,7,0,unstoppableguy1,aNGhnNMSopI,0.0,2016-05-16 13:03:59,True,True
+2016-05-16T13:16:01,His wife name is Martha,2,0,Shad Ray,aNGhnNMSopI,0.0,2016-05-16 13:16:01,True,True
+2016-05-16T15:02:37,plot twist: im batman  plot twist plot twist: ressurection of superman  plot twist X3: superman defeats batman  plot twist X4: batman is superman's father  superman realises this and commits suicide,0,0,simer 007,aNGhnNMSopI,0.0,2016-05-16 15:02:37,True,True
+2016-05-16T15:31:34,"He portrays a character who is too much into neatness, cleanliness, order or whatever you call it. Same as the one Fahadh Faasil portrayed in a Malayalam flick, 'North 24 kaatham'. :D",0,0,Sai Srinath Rajendran,aNGhnNMSopI,0.39999999999999997,2016-05-16 15:31:34,True,True
+2016-05-16T15:33:02,Wow. This actually looks pretty good.   Nice use of a Radiohead song too.,1,0,KQ,aNGhnNMSopI,0.32999999999999996,2016-05-16 15:33:02,True,True
+2016-05-16T16:13:24,accountant? is this a joke,2,0,devils1trusaxon,aNGhnNMSopI,0.0,2016-05-16 16:13:24,True,True
+2016-05-16T16:29:04,Why do they show trailers 5 months before release date?,0,2,Mr400Bhp,aNGhnNMSopI,0.0,2016-05-16 16:29:04,True,True
+2016-05-16T17:04:01,Bullshit! There's no such thing as an accountant this interesting.,2,0,Smudge,aNGhnNMSopI,0.25,2016-05-16 17:04:01,True,True
+2016-05-16T17:28:43,Batman tryna figure the sale figures of his latest movie...,0,0,FahimFz,aNGhnNMSopI,0.5,2016-05-16 17:28:43,True,True
+2016-05-16T18:23:32,Will be trash just like BvS lol,0,2,TomOfAllTrades91,aNGhnNMSopI,0.8,2016-05-16 18:23:32,True,True
+2016-05-16T21:07:28,this main character has aspergers syndrome,0,0,Oscar Smith-Jones,aNGhnNMSopI,0.16666666666666666,2016-05-16 21:07:28,True,True
+2016-05-16T21:35:01,*The Accountant is....BATMAN*,0,0,Suhail Tunkar,aNGhnNMSopI,0.0,2016-05-16 21:35:01,True,True
+2016-05-16T21:36:33,Bruce Wayne and Gordon in the same movie Lol.,5,0,Suhail Tunkar,aNGhnNMSopI,0.4,2016-05-16 21:36:33,True,True
+2016-05-16T21:48:10,Is this what batman is up to now?,0,0,dj Simon SHOW,aNGhnNMSopI,0.0,2016-05-16 21:48:10,True,True
+2016-05-16T23:21:21,"1:56  ""Can our son lead a normal life?"" - Tom hanks",0,0,Chase Austin,aNGhnNMSopI,0.15,2016-05-16 23:21:21,True,True
+2016-05-16T23:39:40,great song. great trailer.  everything in its right place.,0,0,Erick B,aNGhnNMSopI,0.6285714285714286,2016-05-16 23:39:40,True,True
+2016-05-17T00:38:12,*The Account: Where's Martha?*,0,2,TheAmazinTacoChannel,aNGhnNMSopI,0.0,2016-05-17 00:38:12,True,True
+2016-05-17T00:39:02,"As soon as I heard the Radiohead song, everything was in its right place.",2,0,TheAmazinTacoChannel,aNGhnNMSopI,0.2857142857142857,2016-05-17 00:39:02,True,True
+2016-05-17T02:27:31,Two words... Ben Dawg!,0,0,thepodbaydoorshal,aNGhnNMSopI,0.0,2016-05-17 02:27:31,True,True
+2016-05-17T05:25:44,I'M BATMAN!!!!!!!!,0,0,Mr. Bodymassagemachine,aNGhnNMSopI,0.0,2016-05-17 05:25:44,True,True
+2016-05-17T08:57:07,Killer or accountant ?😑😑😑,0,0,Alexander Lo,aNGhnNMSopI,0.0,2016-05-17 08:57:07,True,True
+2016-05-17T09:05:30,Jim Gordon and Bruce wayne,0,0,Rupa Thakur,aNGhnNMSopI,0.0,2016-05-17 09:05:30,True,True
+2016-05-17T16:00:10,What song is it?,0,0,Alex B,aNGhnNMSopI,0.0,2016-05-17 16:00:10,True,True
+2016-05-17T19:07:12,RADIOHEAD,15,0,Cj Desantis,aNGhnNMSopI,0.0,2016-05-17 19:07:12,True,True
+2016-05-17T22:34:33,Where all my accountants at???😂,0,0,Amber A,aNGhnNMSopI,0.0,2016-05-17 22:34:33,True,True
+2016-05-17T23:39:17,"Look it's Batman, l0l xD roflmao, batffleck before batman aimiright?? lmfao thumbs up if u agree.  BATMAN.  SHUT UP.",0,0,Nova Gypsy,aNGhnNMSopI,0.0,2016-05-17 23:39:17,True,True
+2016-05-18T01:31:51,LOL IDK how he did it but i went for hating to liking Ben Affleck.... Will watch this!,0,0,Mike Pekala,aNGhnNMSopI,1.0,2016-05-18 01:31:51,True,True
+2016-05-18T01:56:18,"""Who are you?"" I'm the guy who like to eat three yolks of eggs in a circular shape. Also I'm batman!",36,0,Roger Duran,aNGhnNMSopI,0.0,2016-05-18 01:56:18,True,True
+2016-05-18T05:47:03,"Don't forget, Ben Affleck used to be Daredevil before Batman.....so maybe, the Punisher showed up. =D",0,0,hello flo,aNGhnNMSopI,1.0,2016-05-18 05:47:03,True,True
+2016-05-18T09:49:49,":who are you?  -you know who.....  :hmm...?  -you gonna make me say it ,huh... :what are you talking abou... - I'm BATMAN!!!",1,2,rakib .h,aNGhnNMSopI,0.0,2016-05-18 09:49:49,True,True
+2016-05-18T11:59:08,When I first watched this trailer I thought it was the batman trailer :D,0,0,Lego Lasttwink,aNGhnNMSopI,0.625,2016-05-18 11:59:08,True,True
+2016-05-18T13:39:37,"""Who is the accountant?""  HE'S BATMAN!!",0,0,Nicholas Kosasih,aNGhnNMSopI,0.0,2016-05-18 13:39:37,True,True
+2016-05-18T15:50:44,Sounds a lot like Dexter to me.,0,0,Jade Nagaraja,aNGhnNMSopI,0.0,2016-05-18 15:50:44,True,True
+2016-05-18T15:54:58,"This looks like an interesting film, but damn, that music is making me neurotic! Please get rid of that horribly monotonous ear-poison!",0,0,PolyTicks Comics Official,aNGhnNMSopI,-0.1875,2016-05-18 15:54:58,True,True
+2016-05-18T16:01:57,Still none the wiser.,0,0,AlxFitz,aNGhnNMSopI,0.0,2016-05-18 16:01:57,True,True
+2016-05-18T16:59:36,show it now and i mean now for the summer!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! plssssssssssssssssssssssssssssssssssssssss........................... warner bros........,0,0,dale,aNGhnNMSopI,-1.0,2016-05-18 16:59:36,True,True
+2016-05-18T21:12:09,"Looks a lot better than Batman vs Superman, LOL",0,0,TheRussianLondoner,aNGhnNMSopI,0.65,2016-05-18 21:12:09,True,True
+2016-05-18T23:05:05,"Not gonna lie, this looks better than BvS",0,0,Archie Andrews,aNGhnNMSopI,0.5,2016-05-18 23:05:05,True,True
+2016-05-19T12:40:37,this solo batman movie looking good I'm excited...,123,0,Enes Berk Tuncel,aNGhnNMSopI,0.5375,2016-05-19 12:40:37,True,True
+2016-05-19T18:55:57,Yeah... I don't get the trailer one bit... Still no idea what this movie is actually about...,2,12,Idris Ahmed,aNGhnNMSopI,0.0,2016-05-19 18:55:57,True,True
+2016-05-19T19:15:54,looks good movie,0,0,Max Maximus,aNGhnNMSopI,0.7,2016-05-19 19:15:54,True,True
+2016-05-19T21:13:03,This City deserves a better class of accounting....and I'm gonna give it to them.,1,0,Anthony Brown,aNGhnNMSopI,0.5,2016-05-19 21:13:03,True,True
+2016-05-19T23:09:19,"Remember when everyone hated Ben Affleck instead of loving him? Yeah, me neither.",59,7,eightypuff01,aNGhnNMSopI,-0.15000000000000002,2016-05-19 23:09:19,True,True
+2016-05-20T07:40:37,why does Hollywood make movies like this? How do they break even?,0,0,U wot m8?,aNGhnNMSopI,0.0,2016-05-20 07:40:37,True,True
+2016-05-20T11:05:39,He seems more like Batman here than in BvS,0,0,Derrick Gaitho,aNGhnNMSopI,0.5,2016-05-20 11:05:39,True,True
+2016-05-20T14:55:41,I think this amazing Radiohead song was made so that Ben can one day use it in this trailer. So Perfect!,2,0,Incendie,aNGhnNMSopI,0.8,2016-05-20 14:55:41,True,True
+2016-05-20T14:56:10,I ADORE  Ben Affleck!!!,0,0,Gwana,aNGhnNMSopI,0.0,2016-05-20 14:56:10,True,True
+2016-05-20T16:18:11,Radiohead - Everything in Its Right Place .. trailer song.. I doubt who needs this info.,0,0,Eye Know,aNGhnNMSopI,0.2857142857142857,2016-05-20 16:18:11,True,True
+2016-05-20T16:51:47,fuck yeah radiohead! everything in its right place is a perfect song for this trailer,0,0,Drummer Luke,aNGhnNMSopI,0.2619047619047619,2016-05-20 16:51:47,True,True
+2016-05-20T17:16:37,"""Who are you?"" ""I'm Batma... Sorry, I mean I am the accountant.""",0,0,Uzair A.,aNGhnNMSopI,-0.40625,2016-05-20 17:16:37,True,True
+2016-05-20T18:49:50,"Hmm...Kinda interesting but I felt like ""OK.""",0,0,BlueSilence,aNGhnNMSopI,0.5,2016-05-20 18:49:50,True,True
+2016-05-20T21:17:29,0:15 if you have a good ear for these types of things you can actually hear the fresh oil in the motors of the windscreen wipers. and then you might think... why would an old windscreen wiper motor sound like that.,0,0,esspro,aNGhnNMSopI,0.3,2016-05-20 21:17:29,True,True
+2016-05-20T21:50:54,what the heck?,0,0,Monika Panjiyar,aNGhnNMSopI,0.0,2016-05-20 21:50:54,True,True
+2016-05-21T01:06:30,"Whoa, Ben Affleck has quickly became one of my favorite actors. I'm soo interested about this :DD",52,8,Angie Carrizo,aNGhnNMSopI,0.3611111111111111,2016-05-21 01:06:30,True,True
+2016-05-21T03:07:15,"Way to go Ben! Bounced back immediately after Batman V Superman! Ben was the most compelling thing in that movie and the best batman so far. Really waiting for The Accountant, Live By Night and the solo Batman movie!!",0,0,Aaryaman Nambiar,aNGhnNMSopI,0.33043831168831167,2016-05-21 03:07:15,True,True
+2016-05-21T04:29:21,Is that Bruce Wayne?,3,1,Anthony J. Pagan,aNGhnNMSopI,0.0,2016-05-21 04:29:21,True,True
+2016-05-21T05:11:40,Autistic super hero/villain? I'm so in.,0,0,Jason Hill,aNGhnNMSopI,0.06666666666666665,2016-05-21 05:11:40,True,True
+2016-05-21T05:23:04,Anyone know the name of the song in the trailer?,0,2,James Jackson,aNGhnNMSopI,0.0,2016-05-21 05:23:04,True,True
+2016-05-21T08:25:24,More curious to know whenever I watch the trailer.,0,0,joy5671,aNGhnNMSopI,0.2,2016-05-21 08:25:24,True,True
+2016-05-21T10:19:22,The only reason i like this video is because there is a gen 2 Skyline GTR in it.,0,0,Kanoni's Personal Shtuff,aNGhnNMSopI,0.0,2016-05-21 10:19:22,True,True
+2016-05-21T12:16:53,Imaculate,0,0,Zorqx,aNGhnNMSopI,0.0,2016-05-21 12:16:53,True,True
+2016-05-21T13:38:55,Me :    Who are you ?! The accountant :   I am Batman,3,0,Hisham Elqenawy,aNGhnNMSopI,0.0,2016-05-21 13:38:55,True,True
+2016-05-21T16:34:52,Who the fuck is the accountant???,0,0,coca cola,aNGhnNMSopI,-0.4,2016-05-21 16:34:52,True,True
+2016-05-21T16:36:34,Prequel to THE SOLICITOR???,0,0,coca cola,aNGhnNMSopI,0.0,2016-05-21 16:36:34,True,True
+2016-05-21T20:46:46,Ben Affleck is a pure narcissist...he has to make movies and pick roles where he is extraordinary superhuman but with problems so people can feel pity for him...thats why he's Batman not Superman.,0,3,Todd Boden,aNGhnNMSopI,0.1492063492063492,2016-05-21 20:46:46,True,True
+2016-05-22T01:04:49,Hi new channel!,0,0,Green Nexus,aNGhnNMSopI,0.17045454545454544,2016-05-22 01:04:49,True,True
+2016-05-22T07:37:21,your son has more in common with Einstein Shakespeare and a yeti then he has with us.,0,0,Hbar315 _,aNGhnNMSopI,0.1,2016-05-22 07:37:21,True,True
+2016-05-22T13:44:31,song is great,0,0,Adhi mass,aNGhnNMSopI,0.8,2016-05-22 13:44:31,True,True
+2016-05-22T18:32:48,Because I'm BATMAN,0,0,Mohammed Azeez,aNGhnNMSopI,0.0,2016-05-22 18:32:48,True,True
+2016-05-22T21:46:52,MARTHA!,0,0,Sufiyan Khalifa,aNGhnNMSopI,0.0,2016-05-22 21:46:52,True,True
+2016-05-23T00:43:45,Finally! A movie about accounting. Ive been waiting years for this! Who else seeing this opening night?,0,0,Shady Bizz,aNGhnNMSopI,0.0,2016-05-23 00:43:45,True,True
+2016-05-23T08:31:01,Deathstroke :DD,0,0,TheCrowChannel,aNGhnNMSopI,0.0,2016-05-23 08:31:01,True,True
+2016-05-23T09:37:01,Can't wait...looks awesome!,0,0,Albert Żółkiewski,aNGhnNMSopI,1.0,2016-05-23 09:37:01,True,True
+2016-05-23T11:14:55,I am batman!,0,0,slmnooo 123,aNGhnNMSopI,0.0,2016-05-23 11:14:55,True,True
+2016-05-23T11:45:37,The Accountant is the bad guy from Drive Angry ;),0,0,Teatimesan,aNGhnNMSopI,-0.3166666666666666,2016-05-23 11:45:37,True,True
+2016-05-23T18:53:14,Looks very good. Cannot wait. Ben Affleck is an amazing actor by the way.,0,0,Anmoldeep Chahal,aNGhnNMSopI,0.755,2016-05-23 18:53:14,True,True
+2016-05-24T01:16:21,THIS IS THE SOLO BATMAN MOVIE!,0,0,Kao Vang,aNGhnNMSopI,0.0,2016-05-24 01:16:21,True,True
+2016-05-24T16:39:43,For some reason I'm fucking pumped for this movie. This trailer is my favourite of all time I love how it all comes together as one and it reap eats itself and the tune,0,0,Matthew,aNGhnNMSopI,-0.04999999999999999,2016-05-24 16:39:43,True,True
+2016-05-24T19:50:15,"I like that thing he does with his fingers, is that a thing real people do? Because i'm gonna start doing that.",0,0,Anthony Bejarano,aNGhnNMSopI,0.2,2016-05-24 19:50:15,True,True
+2016-05-24T20:55:58,looks pretty cool.,0,0,not your damn business,aNGhnNMSopI,0.3,2016-05-24 20:55:58,True,True
+2016-05-25T00:51:52,TA BOMBANDO TV  SERIES INÉDITAS,0,0,Emissora TBtv Live Ao Vivo,aNGhnNMSopI,0.0,2016-05-25 00:51:52,True,True
+2016-05-25T04:02:13,"And now we're treating autism like it's a superpower.  Fuck my life, what even is this world anymore...",5,2,AkuTenshiiZero,aNGhnNMSopI,-0.4,2016-05-25 04:02:13,True,True
+2016-05-25T08:17:13,From brucewayne to an acounter ... I say chale :v,0,0,Fernando hernandez garcia,aNGhnNMSopI,0.0,2016-05-25 08:17:13,True,True
+2016-05-25T08:32:07,"The  Accountant is Jason Bourne version 2.0...... Damn!, that looks good!",1,0,conrad marshall,aNGhnNMSopI,0.875,2016-05-25 08:32:07,True,True
+2016-05-26T07:25:18,A role Affleck actually belongs in. Nice,0,0,Sky Wolf,aNGhnNMSopI,0.3,2016-05-26 07:25:18,True,True
+2016-05-26T14:52:12,... This looks absolutely phenomenal. Ben Affleck has been only been in outstanding movies in the past 6+ years. He is very meticulous with the roles he picks. This makes me trust seeing any film with his name on it. Can't wait!,0,0,Dial J for Josh,aNGhnNMSopI,0.2,2016-05-26 14:52:12,True,True
+2016-05-26T15:25:29,so this isnt about accountancy...hmmm,0,0,vutommy94,aNGhnNMSopI,0.0,2016-05-26 15:25:29,True,True
+2016-05-26T22:54:07,- Who are you?! - I'M BATMAN!!!,0,0,Ntinos,aNGhnNMSopI,0.0,2016-05-26 22:54:07,True,True
+2016-05-27T02:23:51,"Good morning through this writing, I want to tell a story that I want ise but parts of one of his series if they let me try ex plicarles that I can reply to the message thanks",0,0,Ake Roy Momasos,aNGhnNMSopI,0.44999999999999996,2016-05-27 02:23:51,True,True
+2016-05-27T05:11:37,that moment when Batman and the Punisher are gonna be in the same movie!!,0,0,Oh it's Pierce,aNGhnNMSopI,0.0,2016-05-27 05:11:37,True,True
+2016-05-27T13:17:41,Ht llkiup berr jegg h itydl mmm sipd b oo l,0,0,Nils Moberg,aNGhnNMSopI,0.0,2016-05-27 13:17:41,True,True
+2016-05-28T09:13:57,looks actually cool and contains some potential themes,0,0,Yahia Waleed,aNGhnNMSopI,0.175,2016-05-28 09:13:57,True,True
+2016-05-28T10:42:32,Anna Kendrick  : Who Are You !  Ben Affleck       : I Am BATMAN !! Hahaha,10,0,Sapto Hadi Akbara,aNGhnNMSopI,0.2,2016-05-28 10:42:32,True,True
+2016-05-28T17:16:27,wait.... this is just dexter if he had a different occupation :P,3,0,joka619,aNGhnNMSopI,0.375,2016-05-28 17:16:27,True,True
+2016-05-31T13:50:12,What´s the song in this trailer can anyone tell ? I got goosebumps,0,0,TheRaptor1500,aNGhnNMSopI,0.0,2016-05-31 13:50:12,True,True
+2016-06-01T02:23:58,Now I see what Matt Damon sees in him.,0,0,Kentaro,aNGhnNMSopI,0.0,2016-06-01 02:23:58,True,True
+2016-06-01T07:03:13,The accountant is Batman,0,0,GaggenTheUchiha,aNGhnNMSopI,0.0,2016-06-01 07:03:13,True,True
+2016-06-01T13:07:26,Bruce Wayne is the accountant,0,0,AHMED ALANSARI,aNGhnNMSopI,0.0,2016-06-01 13:07:26,True,True
+2016-06-02T03:36:21,Great Movie Idea - Wrong Actor,0,2,Hector Erazo,aNGhnNMSopI,0.15000000000000002,2016-06-02 03:36:21,True,True
+2016-06-02T11:09:33,What is the song playing in the background?,1,1,Narah Steele,aNGhnNMSopI,0.0,2016-06-02 11:09:33,True,True
+2016-06-02T11:39:44,not interesting. it's the good will hunting all over again.,0,0,Butterfly,aNGhnNMSopI,0.22499999999999998,2016-06-02 11:39:44,True,True
+2016-06-02T15:34:19,I'm really looking forward to this one.,0,0,Scott Paton Levin,aNGhnNMSopI,0.2,2016-06-02 15:34:19,True,True
+2016-06-02T18:02:51,he is Luca Pacioli ...haha,0,0,Sketch Master,aNGhnNMSopI,0.0,2016-06-02 18:02:51,True,True
+2016-06-03T01:52:08,"Who are you? Im BATMAN,BTICH!!!",0,0,Hoàng Tùng,aNGhnNMSopI,0.0,2016-06-03 01:52:08,True,True
+2016-06-03T14:48:22,vai ter os filmes   do desenho animado o pequeno scooby doo e vocês não atendem  tem audência      vocês acham não tem  audencia tão o público   vai ter desenho  animado do o pequeno scooby doo  de novo    eu gosto muito todos nós gostamos todos que são público do o pequeno scooby doo,0,0,Fabiano Pacheco Nunes,aNGhnNMSopI,0.0,2016-06-03 14:48:22,True,True
+2016-06-04T18:39:42,RIP muhammad ali,0,0,Harry Singh,aNGhnNMSopI,0.0,2016-06-04 18:39:42,True,True
+2016-06-04T20:54:02,"Wow! Got on YouTube because I needed to get away from the sadness of *Muhammad* *Ali's* passing and sure enough, right there at 1:15, is *The* *Greatest*. God bless you, Mr. Ali.",0,0,BrunerMJ,aNGhnNMSopI,0.3821428571428571,2016-06-04 20:54:02,True,True
+2016-06-05T00:58:11,"Fuck, had no idea about this and after this trailer it looks like one of my most anticipated films of year next to Suicide Squad. Affleck you are killing it at the moment.",1,1,Dillon Beach,aNGhnNMSopI,0.033333333333333326,2016-06-05 00:58:11,True,True
+2016-06-05T01:02:50,Last decade: The Transporter. This decade: The Accountant. Next decade: ???,0,0,opl500,aNGhnNMSopI,0.0,2016-06-05 01:02:50,True,True
+2016-06-05T01:37:15,Goosebumps at 1:15,1,0,Sniper Clown,aNGhnNMSopI,0.0,2016-06-05 01:37:15,True,True
+2016-06-06T02:02:11,looks worthwhile.,0,0,Kyle Clark,aNGhnNMSopI,0.5,2016-06-06 02:02:11,True,True
+2016-06-06T15:08:13,So tell me. do you count!!!,1,0,M. Z Helmi,aNGhnNMSopI,0.0,2016-06-06 15:08:13,True,True
+2016-06-08T06:37:15,RIP Ali,0,0,sammy4651,aNGhnNMSopI,0.0,2016-06-08 06:37:15,True,True
+2016-06-08T20:26:04,Prequel to Afflecks standalone Batman movie.,0,0,Steven Sanders,aNGhnNMSopI,0.0,2016-06-08 20:26:04,True,True
+2016-06-08T20:49:12,Gosh Finally someone who is actually good at excel.....,0,0,Tyler's Tech,aNGhnNMSopI,0.35,2016-06-08 20:49:12,True,True
+2016-06-09T06:43:12,"Radiohead ""Everything in its right place""",0,0,Keagan,aNGhnNMSopI,0.2857142857142857,2016-06-09 06:43:12,True,True
+2016-06-09T23:45:26,he's Batman! From another reality!,0,0,joe mammon,aNGhnNMSopI,0.0,2016-06-09 23:45:26,True,True
+2016-06-10T02:13:46,"If I were sent back in time to kill histories worst monster, of course I would do the right thing. But it would be a tough choice between Picasso and Hitler. Any production that tries to convince you that Picasso was a genius...well they just don't know what the fuck they are talking about. And so there story is porous at best from the start!",0,7,Tycondaroga100,aNGhnNMSopI,-0.08616780045351476,2016-06-10 02:13:46,True,True
+2016-06-10T12:57:50,"""'Imagine' the secrets this guy has.""",0,0,"Sharkey, Just Sharkey",aNGhnNMSopI,0.0,2016-06-10 12:57:50,True,True
+2016-06-10T15:47:36,1:15 is that Mohamed Ali?,0,0,nadeerag,aNGhnNMSopI,0.0,2016-06-10 15:47:36,True,True
+2016-06-11T09:37:42,du très très lourd,0,0,Lexav,aNGhnNMSopI,0.0,2016-06-11 09:37:42,True,True
+2016-06-11T11:55:55,Finally i got he point about what means of accountant,0,0,How To?,aNGhnNMSopI,0.0,2016-06-11 11:55:55,True,True
+2016-06-11T21:08:51,finally a movie where ben affleck will be able to show case the only facial expression he can seemingly pull off. I so much prefer him behind the camera...,0,0,clam85,aNGhnNMSopI,0.04999999999999999,2016-06-11 21:08:51,True,True
+2016-06-11T22:58:16,cool an alternative batman movie :),0,0,Rimky,aNGhnNMSopI,0.425,2016-06-11 22:58:16,True,True
+2016-06-12T02:56:20,Not my tempo.,1,0,Generation Media,aNGhnNMSopI,0.0,2016-06-12 02:56:20,True,True
+2016-06-12T06:36:06,I am the one who counts,98,3,Zeugl Cockatrice,aNGhnNMSopI,0.0,2016-06-12 06:36:06,True,True
+2016-06-12T14:32:09,RADIOHEAD...fuck yeah!!!,0,0,anuj bajracharya,aNGhnNMSopI,0.0,2016-06-12 14:32:09,True,True
+2016-06-13T01:47:33,Looks like shit,0,2,Clone Jock,aNGhnNMSopI,-0.2,2016-06-13 01:47:33,True,True
+2016-06-13T21:36:28,looks boring,0,0,C A,aNGhnNMSopI,-1.0,2016-06-13 21:36:28,True,True
+2016-06-14T16:34:36,balance  worksheet,0,0,Januar md,aNGhnNMSopI,0.0,2016-06-14 16:34:36,True,True
+2016-06-14T20:28:23,我是一个会计师，我要看这部电影,0,0,Dillon Tuan,aNGhnNMSopI,0.0,2016-06-14 20:28:23,True,True
+2016-06-15T00:55:20,who are you?................I'm Batman  lol,0,0,Sah L,aNGhnNMSopI,0.8,2016-06-15 00:55:20,True,True
+2016-06-16T02:31:42,Naianakajkjjjjj la,0,0,Royaler Gamer,aNGhnNMSopI,0.0,2016-06-16 02:31:42,True,True
+2016-06-16T17:01:59,The fact that radiohead agreed to give its music to this movie is quite impressive,0,0,jatin dhingra,aNGhnNMSopI,1.0,2016-06-16 17:01:59,True,True
+2016-06-16T18:36:54,I want to see this so bad,0,0,Em 7,aNGhnNMSopI,-0.6999999999999998,2016-06-16 18:36:54,True,True
+2016-06-17T00:33:48,I think this would be a great movie. Why? Is because he's Batman!,0,0,LingeringWill,aNGhnNMSopI,1.0,2016-06-17 00:33:48,True,True
+2016-06-17T09:42:12,"STOP THE FUCKING BATMAN COMMENTS!!! Seriously though, this looks very interesting and different. Hope the film is good",0,0,Imraan Adam,aNGhnNMSopI,0.0033333333333333435,2016-06-17 09:42:12,True,True
+2016-06-17T23:34:51,Is that Radiohead!?,0,0,hazzer905,aNGhnNMSopI,0.0,2016-06-17 23:34:51,True,True
+2016-06-18T01:02:59,"I'm looking forward to this movie, it is gonna be good",0,0,Beck W,aNGhnNMSopI,0.7,2016-06-18 01:02:59,True,True
+2016-06-18T06:29:21,I'll pass!,0,0,Waric Momo,aNGhnNMSopI,0.0,2016-06-18 06:29:21,True,True
+2016-06-18T13:46:23,"Damn this guy has a serious case of Autism, Asperger's and OCD...",0,0,Nicholas Vladd,aNGhnNMSopI,-0.3333333333333333,2016-06-18 13:46:23,True,True
+2016-06-18T19:34:56,Calzones anyone?,0,0,Connor Schulte,aNGhnNMSopI,0.0,2016-06-18 19:34:56,True,True
+2016-06-19T13:29:10,Tax is no longer boring. Don't mess with your Accountant!,0,0,Chris Richardson,aNGhnNMSopI,-0.609375,2016-06-19 13:29:10,True,True
+2016-06-19T19:44:41,The first part of the trailer was like looking into a mirror. If you take out the money laundering for the drug cartels and that's basically me.,0,0,theylied1776,aNGhnNMSopI,0.25,2016-06-19 19:44:41,True,True
+2016-06-20T12:10:22,"As someone who is studying for the CPA exam, I AM SO EXCITED!",0,3,David Li,aNGhnNMSopI,0.46875,2016-06-20 12:10:22,True,True
+2016-06-20T23:05:40,"I'm an accountant, and I just want to confirm that this is in fact exactly what our lives are like.",0,0,D C,aNGhnNMSopI,0.25,2016-06-20 23:05:40,True,True
+2016-06-21T05:19:46,The soundtrack... Radiohead!,0,0,Donny Kurniawan,aNGhnNMSopI,0.0,2016-06-21 05:19:46,True,True
+2016-06-21T12:12:29,"Anna Kendrick  : Who Are You !  Ben Affleck       : I am vengeance, I am the night, I AM BATMAN !!",21,1,kgv952510,aNGhnNMSopI,0.0,2016-06-21 12:12:29,True,True
+2016-06-21T20:21:18,for a second i thought it would star filthy frank...,0,0,Xovria,aNGhnNMSopI,-0.4,2016-06-21 20:21:18,True,True
+2016-06-21T22:39:53,Anyone knows what's the name and the singer of the song played?,0,4,Derp AlHerp,aNGhnNMSopI,0.0,2016-06-21 22:39:53,True,True
+2016-06-22T02:12:29,incase anybody wants to know the Trailer song is by radiohead- everything in its right place. you're welcome,0,0,Billy Darley,aNGhnNMSopI,0.4285714285714286,2016-06-22 02:12:29,True,True
+2016-06-22T07:28:59,░░░░░░░░░░░░░▄▄▄▄▄▄▄░░░░░░░░░ ░░░░░░░░░▄▀▀▀░░░░░░░▀▄░░░░░░░ ░░░░░░░▄▀░░░░░░░░░░░░▀▄░░░░░░ ░░░░░░▄▀░░░░░░░░░░▄▀▀▄▀▄░░░░░ ░░░░▄▀░░░░░░░░░░▄▀░░██▄▀▄░░░░ ░░░▄▀░░▄▀▀▀▄░░░░█░░░▀▀░█▀▄░░░ ░░░█░░█▄▄░░░█░░░▀▄░░░░░▐░█░░░ ░░▐▌░░█▀▀░░▄▀░░░░░▀▄▄▄▄▀░░█░░ ░░▐▌░░█░░░▄▀░░░░░░░░░░░░░░█░░ ░░▐▌░░░▀▀▀░░░░░░░░░░░░░░░░▐▌░ ░░▐▌░░░░░░░░░░░░░░░▄░░░░░░▐▌░ ░░▐▌░░░░░░░░░▄░░░░░█░░░░░░▐▌░ ░░░█░░░░░░░░░▀█▄░░▄█░░░░░░▐▌░ ░░░▐▌░░░░░░░░░░▀▀▀▀░░░░░░░▐▌░ ░░░░█░░░░░░░░░░░░░░░░░░░░░█░░ ░░░░▐▌▀▄░░░░░░░░░░░░░░░░░▐▌░░ ░░░░░█░░▀░░░░░░░░░░░░░░░░▀░░░ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░Can I get likes for no reason?,1,0,Sai Sanjay,aNGhnNMSopI,0.0,2016-06-22 07:28:59,True,True
+2016-06-22T17:50:30,Another autistic thriller... interesting,0,0,iContent,aNGhnNMSopI,0.15,2016-06-22 17:50:30,True,True
+2016-06-22T20:06:56,John wick,0,0,Mads Kristensen,aNGhnNMSopI,0.0,2016-06-22 20:06:56,True,True
+2016-06-23T23:28:16,"Who is the SON OF A BITCH, who dislikes this trailer? like fucking SERIOUSLY.",0,0,Francis M,aNGhnNMSopI,-0.3333333333333333,2016-06-23 23:28:16,True,True
+2016-06-24T12:30:41,"Theres a new kind of mean in him, he is angry and he's hunting.",0,0,Hego Damask II,aNGhnNMSopI,-0.019034090909090917,2016-06-24 12:30:41,True,True
+2016-06-24T20:19:57,This movie looks pretty damn good.,0,0,d2xp,aNGhnNMSopI,0.475,2016-06-24 20:19:57,True,True
+2016-06-25T14:45:05,"Holy shit, this looks pretty fucking good.",1,0,Bush did 9/11 jet fuel can't melt steel beams,aNGhnNMSopI,0.25,2016-06-25 14:45:05,True,True
+2016-06-25T15:59:05,nnhhhhhhuuui in.,0,0,Alyza Chavarria,aNGhnNMSopI,0.0,2016-06-25 15:59:05,True,True
+2016-06-25T16:55:14,a,0,0,Familia CRIPZ,aNGhnNMSopI,0.0,2016-06-25 16:55:14,True,True
+2016-06-26T05:24:08,We should call Martha now.,0,0,Hadi Ramli,aNGhnNMSopI,0.0,2016-06-26 05:24:08,True,True
+2016-06-26T06:46:42,01:41 AK: Who are you ? BA: I'm Batman,0,0,Reza Andika,aNGhnNMSopI,0.0,2016-06-26 06:46:42,True,True
+2016-06-26T07:19:47,Does Alfred know about this? 0_o,0,0,Ariff Qusyairi,aNGhnNMSopI,0.0,2016-06-26 07:19:47,True,True
+2016-06-26T10:57:23,epic trailer.,0,0,und3rgr0undfr34k,aNGhnNMSopI,0.1,2016-06-26 10:57:23,True,True
+2016-06-27T16:22:49,I Ned to  hahp,0,0,Erica Hicks,aNGhnNMSopI,0.0,2016-06-27 16:22:49,True,True
+2016-06-27T21:22:53,90% batman comments 4% movie comments 6% i like chicken,17,2,Webos de Cobre,aNGhnNMSopI,-0.6,2016-06-27 21:22:53,True,True
+2016-06-28T15:55:18,Hollywood take note... this is how you make trailers!,0,0,Minesh Ratnadurai,aNGhnNMSopI,0.0,2016-06-28 15:55:18,True,True
+2016-06-29T17:36:04,1:40 - Who are you? .....I'M BATMAN,0,0,Ryan C.,aNGhnNMSopI,0.0,2016-06-29 17:36:04,True,True
+2016-06-30T03:15:48,Am I the only one watching this and thinking this would be a fantastic setup for The Accountant vs Bourne?,0,0,Fact OverFiction,aNGhnNMSopI,0.2,2016-06-30 03:15:48,True,True
+2016-06-30T16:22:24,The Accountant is an eighteenth-century German philosopher and mathematician.  #coincidence? #IdontThinkSo,0,0,Alp Rodoplu,aNGhnNMSopI,0.0,2016-06-30 16:22:24,True,True
+2016-06-30T18:40:49,ANOTHER GONE GIRL YES,0,0,Dianna Matierrienne,aNGhnNMSopI,0.0,2016-06-30 18:40:49,True,True
+2016-06-30T18:42:56,As soon as you see him writing on the window you know what kind of movie this is.,2,1,StoryBrain,aNGhnNMSopI,0.6,2016-06-30 18:42:56,True,True
+2016-06-30T20:09:26,That gun safe turned me on holy shit give me it,0,0,JumpingJellyMan,aNGhnNMSopI,0.15,2016-06-30 20:09:26,True,True
+2016-06-30T22:07:22,Cool an Autistic person whose disability doesn't stop them from being a badass,1,0,Dance Soar Vim,aNGhnNMSopI,0.07499999999999998,2016-06-30 22:07:22,True,True
+2016-06-30T22:42:23,"""Cooked books are like weeds Alfred, take one out another grows in it's place.""",0,0,Captain Obvious,aNGhnNMSopI,0.0,2016-06-30 22:42:23,True,True
+2016-07-01T02:01:09,Ben Afflacks version of Good Will Hunting?,0,0,h8ncars,aNGhnNMSopI,0.7,2016-07-01 02:01:09,True,True
+2016-07-01T14:19:49,Autistic JB !,0,0,Malik Shahid,aNGhnNMSopI,-0.25,2016-07-01 14:19:49,True,True
+2016-07-01T17:01:53,a beautiful mind + jason bourne = the accountant,1,0,ken kho,aNGhnNMSopI,0.85,2016-07-01 17:01:53,True,True
+2016-07-01T18:57:02,Who are you?... I'm batman,0,0,Luke Hatten,aNGhnNMSopI,0.0,2016-07-01 18:57:02,True,True
+2016-07-01T20:19:38,Can you imagine working for this accountant? An obsessive-compulsive perfectionist hitman filled with anger at childhood bullies? Better check your work over and over before clocking in.,1,0,Cabhan Listis,aNGhnNMSopI,0.0666666666666667,2016-07-01 20:19:38,True,True
+2016-07-01T20:28:11,i feel like this trailer is really bad but its going to be a decent movie,1,0,Wayne,aNGhnNMSopI,-0.2666666666666666,2016-07-01 20:28:11,True,True
+2016-07-02T15:33:00,i like the trailer really fits with radiohead's everything in its right place,1,0,Haqiqi,aNGhnNMSopI,0.24285714285714285,2016-07-02 15:33:00,True,True
+2016-07-02T20:33:41,Aspergers I think.,0,0,Matthew Rocco,aNGhnNMSopI,0.0,2016-07-02 20:33:41,True,True
+2016-07-02T21:53:58,I'm liking the puzzle pieces transition for the WB sign. Like the maze transition for Nolan's Syncopy movies.,0,0,Chris Benson,aNGhnNMSopI,0.0,2016-07-02 21:53:58,True,True
+2016-07-03T07:26:22,Woo thanks for making this movie WB coz my dad is even an Accountant..,0,0,Axel Vale,aNGhnNMSopI,0.2,2016-07-03 07:26:22,True,True
+2016-07-03T21:40:38,I can assure you no accountant is this interesting lol,0,0,Revocate Animos,aNGhnNMSopI,0.65,2016-07-03 21:40:38,True,True
+2016-07-04T07:25:10,The name of the accountant should be ben wyatt and be played by adam scott.,0,0,Grog,aNGhnNMSopI,0.0,2016-07-04 07:25:10,True,True
+2016-07-04T07:47:21,(Insert comment about Martha),0,0,NovaShadowX,aNGhnNMSopI,0.0,2016-07-04 07:47:21,True,True
+2016-07-04T09:33:38,Why does the thumbnail of Affleck make him look like the Angry Video Game Nerd?,1,1,_,aNGhnNMSopI,-0.45,2016-07-04 09:33:38,True,True
+2016-07-04T17:57:10,track id plz!!??,0,0,Deepak K,aNGhnNMSopI,0.0,2016-07-04 17:57:10,True,True
+2016-07-05T12:57:53,"1:41 ""I'm Batman""",0,0,Luigi Ribaya,aNGhnNMSopI,0.0,2016-07-05 12:57:53,True,True
+2016-07-05T13:43:02,"Damn, a silent protagonist cool.",0,0,BoringRon,aNGhnNMSopI,0.175,2016-07-05 13:43:02,True,True
+2016-07-05T21:41:21,I think I'm going to enjoy this movie.,0,0,Xerdar36,aNGhnNMSopI,0.4,2016-07-05 21:41:21,True,True
+2016-07-06T00:36:53,Did anyone else think of Good Will Hunting when looking at the thumbnail..?  -  @acharich ,0,0,Acharich Speaks,aNGhnNMSopI,0.7,2016-07-06 00:36:53,True,True
+2016-07-06T12:23:53,Reminds of my kitchen.,0,0,SpriteWith Spirit,aNGhnNMSopI,0.0,2016-07-06 12:23:53,True,True
+2016-07-06T20:44:19,So who's here an Accountant???,4,6,Mia Eriksen,aNGhnNMSopI,0.0,2016-07-06 20:44:19,True,True
+2016-07-07T00:29:18,"Plot - They cooked his eggs with just two yolks. Now he is on the path of revenge, to get those who wronged him.",2,0,Dalton Leblanc,aNGhnNMSopI,0.0,2016-07-07 00:29:18,True,True
+2016-07-07T02:07:24,in an alternate earth...Bruce Wayne's parents survived and made him an accountant. And Jim Gordon isn't a police officer with punisher in the mix.,0,0,TheGuyWhoPlaysGames,aNGhnNMSopI,0.0,2016-07-07 02:07:24,True,True
+2016-07-07T03:54:00,Song title/performer?,0,0,FasterThanSoup,aNGhnNMSopI,0.0,2016-07-07 03:54:00,True,True
+2016-07-07T04:21:03,radiohead,0,0,Danny,aNGhnNMSopI,0.0,2016-07-07 04:21:03,True,True
+2016-07-07T07:15:05,looking forward,0,0,vickki 22,aNGhnNMSopI,0.0,2016-07-07 07:15:05,True,True
+2016-07-07T12:01:35,"I couldn't see the trailer I just heard it, is that the new Bourne movie?",0,0,ameanman,aNGhnNMSopI,0.13636363636363635,2016-07-07 12:01:35,True,True
+2016-07-07T16:58:24,The extreme OCD shown here is abnormal and a headache. Btw ben looks so amazing.,1,0,Bloodrayne,aNGhnNMSopI,0.23750000000000004,2016-07-07 16:58:24,True,True
+2016-07-07T23:31:59,'who are you?' Im batman,0,0,Nick Wilson,aNGhnNMSopI,0.0,2016-07-07 23:31:59,True,True
+2016-07-08T04:15:50,radiohead!,0,0,jaypicness,aNGhnNMSopI,0.0,2016-07-08 04:15:50,True,True
+2016-07-09T18:41:55,1:41  I'm Batman,0,0,allan gathecha,aNGhnNMSopI,0.0,2016-07-09 18:41:55,True,True
+2016-07-10T12:22:05,stop foolin us..  we know you are batman,0,0,Fluff Dude,aNGhnNMSopI,0.0,2016-07-10 12:22:05,True,True
+2016-07-10T13:43:28,Ben Affleck is taking over Warner Bros.,0,0,Deepak Khanwalkar,aNGhnNMSopI,0.0,2016-07-10 13:43:28,True,True
+2016-07-10T19:02:03,I guess you could say that he's a reasonable man and they should get off his case..,0,0,Zizheng Qu,aNGhnNMSopI,0.2,2016-07-10 19:02:03,True,True
+2016-07-12T10:47:03,*im just testing YouTube comments. Just ignore me*,0,0,Eullysis Rigno,aNGhnNMSopI,0.0,2016-07-12 10:47:03,True,True
+2016-07-13T15:51:30,That's the perfect egg :0 1:02,0,0,Pigston,aNGhnNMSopI,1.0,2016-07-13 15:51:30,True,True
+2016-07-14T00:53:53,The Equalizer + Dexter + Eggs,0,0,Erik Hernandez,aNGhnNMSopI,0.0,2016-07-14 00:53:53,True,True
+2016-07-14T07:06:35,looks interesting tbh i cant wait to watch it,0,0,Isaiah May,aNGhnNMSopI,0.5,2016-07-14 07:06:35,True,True
+2016-07-14T16:02:20,"THE SONG "" EVERYTHING IN ITS RIGHT PLACE"" PERFECTLY GOES WITH THE TRAILER",1,0,Aiman Arshad Hussain,aNGhnNMSopI,0.6428571428571428,2016-07-14 16:02:20,True,True
+2016-07-14T17:54:31,I'm hyped for this movie. It looks and feels like a crime thriller and is filled with amazing and talented actors. I'm really excited.,0,0,The Grand Master,aNGhnNMSopI,0.51875,2016-07-14 17:54:31,True,True
+2016-07-14T21:24:07,"to make something special, you just have to believe its special.",0,0,Jacob Cooley,aNGhnNMSopI,0.35714285714285715,2016-07-14 21:24:07,True,True
+2016-07-16T11:58:20,what is the point of five-second-trailers embedded in the actual trailer??,2,2,TheDragonSmasher,aNGhnNMSopI,0.0,2016-07-16 11:58:20,True,True
+2016-07-17T12:40:24,He looks like an angry Gamer still pissed about Mass Effect 3 ending.......we understand.  And a lot of comments (and the future ones) are on the line of Affleck's Batman character than the Accountant  :D,0,0,Zed Zamorin,aNGhnNMSopI,0.16666666666666666,2016-07-17 12:40:24,True,True
+2016-07-18T18:06:59,Whats that song??? :OOO,0,2,Niklas,aNGhnNMSopI,0.0,2016-07-18 18:06:59,True,True
+2016-07-19T22:40:57,i'm the accountant this city deserves not the one it needs.,0,0,Ermac Hotaru,aNGhnNMSopI,0.0,2016-07-19 22:40:57,True,True
+2016-07-20T17:56:39,and sam harris is the villain,0,0,anon random,aNGhnNMSopI,0.0,2016-07-20 17:56:39,True,True
+2016-07-22T16:04:43,I got to see this !,0,0,rafik koudri,aNGhnNMSopI,0.0,2016-07-22 16:04:43,True,True
+2016-07-24T04:46:22,Warner bros is going to be be ac-counting a lot of money with all these new movies.,8,1,nice meme,aNGhnNMSopI,0.13636363636363635,2016-07-24 04:46:22,True,True
+2016-07-24T16:20:31,Asperger Superhero?,0,0,Mario Burbank,aNGhnNMSopI,0.0,2016-07-24 16:20:31,True,True
+2016-07-24T20:31:37,Ben Affleck was Felicity when he was young,0,0,Shushant Verma,aNGhnNMSopI,0.1,2016-07-24 20:31:37,True,True
+2016-07-25T00:32:15,Anna Kendric is in so many movies this year.,0,0,Ilang Ilang,aNGhnNMSopI,0.5,2016-07-25 00:32:15,True,True
+2016-07-25T15:07:59,your son will be batman!!!,0,0,Hanushaa Sive Dhassen,aNGhnNMSopI,0.0,2016-07-25 15:07:59,True,True
+2016-07-25T16:24:34,That 3 egg omelette is the only thing weirder than Ben Affleck in this trailer.,0,0,Vinayak Vadlamani,aNGhnNMSopI,0.0,2016-07-25 16:24:34,True,True
+2016-07-25T21:16:37,"Batman, Commissioner Gordan, The Punisher and the trinity killer from dexter all in one film? hahaha, yes please  But seriously this film looks fucking amazing",1,0,Sam,aNGhnNMSopI,0.15555555555555559,2016-07-25 21:16:37,True,True
+2016-07-25T23:31:09,batman in his early days,0,0,Jhon Dumaop,aNGhnNMSopI,0.1,2016-07-25 23:31:09,True,True
+2016-07-26T03:11:04,a look into batman's psyche would do dc eu a lot of good,1,0,Gem Bocobo,aNGhnNMSopI,0.7,2016-07-26 03:11:04,True,True
+2016-07-26T23:02:49,"As a future accountant, I'm really interested to know how he uncooks years of books, but from the trailer it seems this will be more of an action movie. I'm not saying it's a bad thing, but I think it will be very interesting to see how he uncooks those books.",0,0,John L,aNGhnNMSopI,0.13333333333333336,2016-07-26 23:02:49,True,True
+2016-07-26T23:04:48,Another movie that probably won't be released in Malaysian theaters... :/,0,0,John L,aNGhnNMSopI,-0.25,2016-07-26 23:04:48,True,True
+2016-07-28T00:18:03,"So am I, as an accountant, going to be suddenly cool now? Maybe I just need to start blowing my fingers...",0,0,Yam Xela,aNGhnNMSopI,0.35,2016-07-28 00:18:03,True,True
+2016-07-28T00:28:41,this should become a series,0,0,Theirry Gittens,aNGhnNMSopI,0.0,2016-07-28 00:28:41,True,True
+2016-07-28T03:40:56,Song: Radio Head - Everything in its right place,0,0,Nick. T,aNGhnNMSopI,0.2857142857142857,2016-07-28 03:40:56,True,True
+2016-07-28T03:54:34,Commissioner Gordon is onto Bruce.,2,0,Møtíf,aNGhnNMSopI,0.0,2016-07-28 03:54:34,True,True
+2016-07-28T07:19:34,...,0,0,Nancy Barby,aNGhnNMSopI,0.0,2016-07-28 07:19:34,True,True
+2016-07-28T12:40:42,"Batman, punisher, Commissioner Gordon all in one movie",0,0,Don't Know,aNGhnNMSopI,0.0,2016-07-28 12:40:42,True,True
+2016-07-28T18:36:10,He has trouble socializing with other people not so uncommon when his Batman movie sucked balls... Rofl,0,0,ServantGrimm,aNGhnNMSopI,0.31875000000000003,2016-07-28 18:36:10,True,True
+2016-07-28T23:35:11,"you kinda got me thrilled for this with Radiohead.. good trailer, great trailer!",0,0,Ahmed Hammami,aNGhnNMSopI,0.7666666666666666,2016-07-28 23:35:11,True,True
+2016-07-29T13:11:04,Ultimate reason to love Ben Affleck: He directs his own awesome movies.,0,0,Lowkey Youtuber,aNGhnNMSopI,0.525,2016-07-29 13:11:04,True,True
+2016-07-29T22:10:36,Bruce f@cking wayne,0,0,MAS MELO,aNGhnNMSopI,0.0,2016-07-29 22:10:36,True,True
+2016-07-30T04:21:54,"1:56 Ben Affleck as ""The Angry Video Game Nerd""* Subscribe to my channel! *Yes, I know they made that movie a couple years ago, but hey, Hollywood loves remakes!",0,0,FilmJenkins,aNGhnNMSopI,-0.5625,2016-07-30 04:21:54,True,True
+2016-07-30T18:55:19,Looking  forward to seeing this movie.,0,0,bamboozledguy,aNGhnNMSopI,0.0,2016-07-30 18:55:19,True,True
+2016-07-31T00:06:44,"l think someone from one of the criminal organizations killed Christian's dad, or mom, or both parents and now he's going after all of them.",0,0,Caption Creator,aNGhnNMSopI,-0.20000000000000004,2016-07-31 00:06:44,True,True
+2016-07-31T05:14:46,A genius and a secret agent. It seems like a kind of Will Hunting mixed with a Jason Bourne. Obviously Ben Affleck is jealous of Matt Damon.,1,0,Diego Alberto García,aNGhnNMSopI,0.04999999999999999,2016-07-31 05:14:46,True,True
+2016-07-31T06:08:54,Best Movie Of All Time. Batman vs. Punisher,0,0,dvelgon,aNGhnNMSopI,1.0,2016-07-31 06:08:54,True,True
+2016-07-31T09:40:56,Anyone knows what is that song please?,0,0,Mahmoud Hisham,aNGhnNMSopI,0.0,2016-07-31 09:40:56,True,True
+2016-08-01T09:37:40,Retainerrrrrr,0,0,Trevor Kern,aNGhnNMSopI,0.0,2016-08-01 09:37:40,True,True
+2016-08-02T12:27:57,AVGN the movie?,0,0,StriderSeiryuu,aNGhnNMSopI,0.0,2016-08-02 12:27:57,True,True
+2016-08-02T21:35:42,looks like avgn,0,0,khj jhk,aNGhnNMSopI,0.0,2016-08-02 21:35:42,True,True
+2016-08-03T14:37:22,this is my husband.. aside from the killing and what not,0,0,Sandy Candy,aNGhnNMSopI,0.0,2016-08-03 14:37:22,True,True
+2016-08-04T20:45:53,"I saw it today in Suicide Squad, can you say please, what music is in the trailer!?",0,1,Стакан,aNGhnNMSopI,0.0,2016-08-04 20:45:53,True,True
+2016-08-07T00:59:31,are they using the original track or the gigamesh remix? there was no beat I think its the original...I meant the music,0,0,John Jordan Baleros,aNGhnNMSopI,0.375,2016-08-07 00:59:31,True,True
+2016-08-10T14:17:24,"starring Batman, Gym Gordon, a Singer (somehow), and The Punisher",0,0,John Jordan Baleros,aNGhnNMSopI,0.0,2016-08-10 14:17:24,True,True
+2016-08-10T22:47:58,vanilla sky,0,0,Robson Schlosser,aNGhnNMSopI,0.0,2016-08-10 22:47:58,True,True
+2016-08-21T19:06:59,"I was wondering what the name of the song is.. here it is ""Radiohead - Everything in Its Right Place""",0,0,Loay Alaa,aNGhnNMSopI,0.2857142857142857,2016-08-21 19:06:59,True,True
+2016-08-23T06:43:10,Radiohead!!!!!!,6,0,Fuzzix,aNGhnNMSopI,0.0,2016-08-23 06:43:10,True,True
+2016-08-24T07:09:07,"Accountantman? wow, I didn't know middle class can be cool.",0,0,Eli Olsen,aNGhnNMSopI,0.15,2016-08-24 07:09:07,True,True
+2016-08-24T16:57:07,Hey Batman!!!,0,0,Rural Week,aNGhnNMSopI,0.0,2016-08-24 16:57:07,True,True
+2016-08-26T14:26:30,"The trailer takes such a 180. I thought it started out simply about a man coming to terms with being different, but when I saw the guns and Congress, I was like ""wait what?"" Looks awesome.",0,0,TheAFGFilms,aNGhnNMSopI,0.25,2016-08-26 14:26:30,True,True
+2016-08-31T07:44:37,"Now thats what a trailer should look like.. doesnt give away the plot, Ive no idea what the movie is about, but it looks interesting and I love Ben Afleck, so yes, this one I will go and see ;-)",0,0,Lats Niebling,aNGhnNMSopI,0.4166666666666667,2016-08-31 07:44:37,True,True
+2016-09-01T02:21:17,i think what makes this film work is its serious rather than main-character-glorifying tone.,0,0,jthyn44,aNGhnNMSopI,-0.3333333333333333,2016-09-01 02:21:17,True,True
+2016-09-03T22:47:23,whats the name of the song playing,0,0,Benzo,aNGhnNMSopI,0.0,2016-09-03 22:47:23,True,True
+2016-09-09T03:05:01,just like (y),0,0,paiki saleh,aNGhnNMSopI,0.0,2016-09-09 03:05:01,True,True
+2016-09-10T18:05:05,Any Radiohead fans out there who were more excited by the background music than the trailer? :P,0,1,Ram kumar,aNGhnNMSopI,0.5416666666666666,2016-09-10 18:05:05,True,True
+2016-09-11T05:49:30,"I think the main character in this movie is autistic:bullied by a group kids, ""different"",  organized, perfectionist, obsessive personality .",0,0,Crying Liberals,aNGhnNMSopI,0.08333333333333333,2016-09-11 05:49:30,True,True
+2016-09-12T04:43:51,Everything in the right place,25,1,Legalize Ranch,aNGhnNMSopI,0.2857142857142857,2016-09-12 04:43:51,True,True
+2016-09-13T11:41:26,RADIOHEAD! XD,0,0,Vasco Venade,aNGhnNMSopI,0.0,2016-09-13 11:41:26,True,True
+2016-09-13T23:09:46,This one trailer feels more like Batman than anything in Batman v. Superman,0,0,Matt Schneider,aNGhnNMSopI,0.5,2016-09-13 23:09:46,True,True
+2016-09-16T13:04:38,Can anyone tell me about the background music? Thank you,0,1,liujerry1000,aNGhnNMSopI,0.0,2016-09-16 13:04:38,True,True
+2016-09-18T02:47:15,That song when the kid is making the puzzle is from vanilla sky,0,1,joey rydzewski,aNGhnNMSopI,0.0,2016-09-18 02:47:15,True,True
+2016-09-20T03:02:41,So does that middle aged man sleep with that young lady?,0,0,Happiness Bunny,aNGhnNMSopI,0.0,2016-09-20 03:02:41,True,True
+2016-09-24T17:32:32,whats the song,0,0,QueenShrek,aNGhnNMSopI,0.0,2016-09-24 17:32:32,True,True
+2016-09-25T01:06:28,Who is the accountant? It's Janice. She does not give a fuck.,0,0,MaeLSTRoM1997,aNGhnNMSopI,-0.4,2016-09-25 01:06:28,True,True
+2016-09-27T06:45:45,and HE'S BATMAN!,0,0,Khandar William,aNGhnNMSopI,0.0,2016-09-27 06:45:45,True,True
+2016-09-27T13:29:38,Calling it: He's gonna get killed cuz of the girl,1,0,Sleya Raze,aNGhnNMSopI,-0.2,2016-09-27 13:29:38,True,True
+2016-09-30T12:51:02,It's accrual world,0,0,Willy Toh,aNGhnNMSopI,0.0,2016-09-30 12:51:02,True,True
+2016-10-05T00:52:11,I recommend this movie. it's really good. I give it 5 stars.,0,0,Danilo Castellano,aNGhnNMSopI,0.7,2016-10-05 00:52:11,True,True
+2016-10-05T04:24:08,looks like everything is in this right place,0,0,Abel Castillo,aNGhnNMSopI,0.2857142857142857,2016-10-05 04:24:08,True,True
+2016-10-08T20:07:50,As an accounting major I encourage everyone to watch this film. I can't though because I'll be studying for the audit portion of CPA.,0,0,U_U SleepAllDey,aNGhnNMSopI,0.0625,2016-10-08 20:07:50,False,True
+2016-10-10T20:03:30,radiohesd,0,0,I Cook Ravioli and You Watch Me Cook Ravioli,aNGhnNMSopI,0.0,2016-10-10 20:03:30,False,True
+2016-10-11T04:38:50,Radiohead!,8,1,Max,aNGhnNMSopI,0.0,2016-10-11 04:38:50,False,True
+2016-10-11T07:44:52,batman!,0,0,Vicky Sieto,aNGhnNMSopI,0.0,2016-10-11 07:44:52,False,True
+2016-10-12T23:31:14,4:29 // The Accountant Movie Available in hd Quality Stream Now https://plus.google.com/+McQuinGanesStaringDika/posts/4sFS3qSG4kM,7,0,Nea Mikluho-Maklai,aNGhnNMSopI,0.4,2016-10-12 23:31:14,False,True
+2016-10-13T08:39:57,1:00 //// The Accountant 2016 Stream Now https://plus.google.com/+McQuinGanesStaringDika/posts/4sFS3qSG4kM,7,0,Tanah Moyangku,aNGhnNMSopI,0.0,2016-10-13 08:39:57,False,True
+2016-10-13T23:23:27,3:19 The Accountant Movie Available in hd Quality Stream Now https://plus.google.com/+McQuinGanesStaringDika/posts/4sFS3qSG4kM,3,0,Ashley McLellan,aNGhnNMSopI,0.4,2016-10-13 23:23:27,False,True
+2016-10-15T09:39:49,"Did you NEED to put the trailer for this at the beginning of EVERY SINGLE VIDEO I OPEN?  It's pissed me off so much that I'm not watching the movie. A few times, sure, but this is as bad as that stupid Ouija board movie trailer that kept coming up in EVERY.  SINGLE. VIDEO.",0,0,Rai,aNGhnNMSopI,-0.14285714285714282,2016-10-15 09:39:49,False,True
+2016-10-15T23:10:50,I've already seen it and must say it's pretty good,9,0,Apex Oni,aNGhnNMSopI,0.475,2016-10-15 23:10:50,False,True
+2016-10-16T03:33:09,I am an accountant and this movie makes me feel cool. :) an entire movie with Ben Affleck dedicated to the practice of accounting.,0,0,Alejandro Lara,aNGhnNMSopI,0.2833333333333333,2016-10-16 03:33:09,False,True
+2016-10-16T14:53:14,"Watched it, it's good...very good.",0,0,withnoname31,aNGhnNMSopI,0.7,2016-10-16 14:53:14,False,True
+2016-10-17T11:21:23,Amazing trailer,0,0,GenericCoyote,aNGhnNMSopI,0.6000000000000001,2016-10-17 11:21:23,False,True
+2016-10-17T16:23:00,"An obvious Bourne ripoff, but much better than I thought it would be.   Even all the cheesy crap they throw in and Affleck's acting couldn't ruin it.   He's good in comedies, but it's tough to take him serious cuz ""It's gross! It's racist!"", lol.   Also, I don't think he is smart enough to play an Autist, he is no Dustin Hoffman. The kids in the movie weren't bad, tho, except for some parts. Anyway, good movie, fun movie. Probably the most unrealistic part was when Affleck brings Kendrick to a fancy hotel and she says, ""I don't think I can afford this."" Said no female ever, rofl. O, and she was cute as a button in this movie.",0,0,l337pwnage,aNGhnNMSopI,0.0896031746031746,2016-10-17 16:23:00,False,True
+2016-10-18T01:15:34,The AААccountant full mоviee here => https://twitter.com/9854b40765edda393/status/787871595477938177                                                   Тhe Accooountaaaаnt    Whо Is Theeеe Accountant   Traileeeеr  HD,0,0,Diego Cristofoli,aNGhnNMSopI,0.35,2016-10-18 01:15:34,False,True
+2016-10-18T02:09:08,7:33 The Accountant Movie Available in hd Quality Stream Now https://plus.google.com/+LucindaEllistonStaring/posts/FWTQM61b9Go,2,0,Kuyung Garratt,aNGhnNMSopI,0.4,2016-10-18 02:09:08,False,True
+2016-10-18T05:56:58,"Yes Jon Bernthal was Ben's brother, Ann Kendrick was wasted as was JK Simmons who was taking orders from a retarded girl.  Oh and John Lithgows death was so lame, one pop in the head!",0,0,Machismo549,aNGhnNMSopI,-0.5416666666666666,2016-10-18 05:56:58,False,True
+2016-10-19T03:06:32,the car moment like the raid 2. emmmm,0,0,Devita 19,aNGhnNMSopI,0.0,2016-10-19 03:06:32,False,True
+2016-10-19T06:10:14,RADIOHEAD,1,0,paranoidandroid1997,aNGhnNMSopI,0.0,2016-10-19 06:10:14,False,True
+2016-10-20T09:05:23,Everything In Its Right Place <3,1,0,David James Brown,aNGhnNMSopI,0.6428571428571428,2016-10-20 09:05:23,False,True
+2016-10-20T09:59:09,pls!  someone can tell me these names of all picture he has in the movie plsss!,0,0,Cao Sơn Đoàn Phạm,aNGhnNMSopI,0.0,2016-10-20 09:59:09,False,True
+2016-10-21T04:23:03,graziеееe,0,0,Crack On Die,aNGhnNMSopI,0.0,2016-10-21 04:23:03,False,True
+2016-10-22T05:08:50,"""Can our son lead a normal life?""",0,1,Anastasia Winayanti,aNGhnNMSopI,0.15,2016-10-22 05:08:50,False,True
+2016-10-22T15:20:47,"Listened to ""Everything in its Right Place"" ... gotta watch this",0,0,jsdreamz,aNGhnNMSopI,0.2857142857142857,2016-10-22 15:20:47,False,True
+2016-10-23T19:31:52,Badass movie. Go Watch,1,0,Chuck Lee,aNGhnNMSopI,0.0,2016-10-23 19:31:52,False,True
+2016-10-25T11:08:48,What is the title of music trailer plz ?,1,3,HERO NO-42,aNGhnNMSopI,0.0,2016-10-25 11:08:48,False,True
+2016-10-26T20:56:45,7:45 The Accountant movie 2016 https://plus.google.com/+CustilaNamira/posts/736FJkEHcXA movie-available-now,2,0,PixelsClip,aNGhnNMSopI,0.0,2016-10-26 20:56:45,False,True
+2016-10-27T03:25:05,The Accountant 2016 available now in HD quality Stream Here: https://plus.google.com/+AngieKumala/posts/AqFWa6ouw5V,2,0,MovieHD,aNGhnNMSopI,0.4,2016-10-27 03:25:05,False,True
+2016-10-28T01:28:21,No,0,0,Ahmed Haboula,aNGhnNMSopI,0.0,2016-10-28 01:28:21,False,True
+2016-10-31T13:58:54,guys this movie was so fucking good,3,0,Joel Monge,aNGhnNMSopI,0.7,2016-10-31 13:58:54,False,True
+2016-11-07T07:20:06,penrhyn,0,0,Kaimeo Isaia,aNGhnNMSopI,0.0,2016-11-07 07:20:06,False,True
+2016-11-09T13:28:24,2:10 The Accountant 2016 Movie Available Full-watch NOW (( https://plus.google.com/+CustilaNamira/posts/736FJkEHcXA )) play-now-hd-quality,2,0,Asendra Boas,aNGhnNMSopI,0.4,2016-11-09 13:28:24,False,True
+2016-11-13T11:15:39,"This movie was so bad, just watch John Wick instead.",0,1,Ravindu Rajatheva,aNGhnNMSopI,-0.6999999999999998,2016-11-13 11:15:39,False,True
+2016-11-14T21:36:02,amanda waller going after Batman,0,0,alaoui tarik,aNGhnNMSopI,0.0,2016-11-14 21:36:02,False,True
+2016-11-20T11:34:07,what is the song,0,0,Audrey Amar,aNGhnNMSopI,0.0,2016-11-20 11:34:07,False,True
+2016-11-30T15:56:49,well this is like a hybrid of bourne and good will hunting,0,0,Nick Rogers,aNGhnNMSopI,0.7,2016-11-30 15:56:49,False,True
+2016-12-05T14:10:39,EXACTLY.,0,0,Monny Libut Dampog,aNGhnNMSopI,0.25,2016-12-05 14:10:39,False,True
+2016-12-10T09:43:22,what's the movie about?,0,0,Yubwan Punisher,aNGhnNMSopI,0.0,2016-12-10 09:43:22,False,True
+2016-12-25T03:12:03,Não esperava nada por este filme. Surpreendeu! Muito bom!,0,0,Ricardo Jr.,aNGhnNMSopI,0.0,2016-12-25 03:12:03,False,True
+2017-01-02T05:05:06,Anna Kendrickkkkkkkkkkkk,0,0,Tsukikage,aNGhnNMSopI,0.0,2017-01-02 05:05:06,False,True
+2017-01-08T21:38:53,Great Movie ... 9/10.,0,0,Daniel Simler,aNGhnNMSopI,0.8,2017-01-08 21:38:53,False,True
+2017-01-19T20:56:52,a very good movie,0,0,iulian manea,aNGhnNMSopI,0.9099999999999999,2017-01-19 20:56:52,False,False
+2017-01-20T08:16:27,"Tidak apa apa lanjutkan saja ,, woaaahh ,, ben you are soo bruce ,,",0,0,Ferry Sugianto,aNGhnNMSopI,0.0,2017-01-20 08:16:27,False,False
+2017-01-22T18:26:01,Yesterday i woke up sucking a lemon.,1,0,日本,aNGhnNMSopI,0.0,2017-01-22 18:26:01,False,False
+2017-02-01T14:49:28,mira el peugeot 504 papa!!,0,0,Pablo Garcia,aNGhnNMSopI,0.0,2017-02-01 14:49:28,False,False
+2017-02-14T03:05:48,There are two... Al Desi for FL Shutters and not sure about A Source 1....,0,0,angela123 altintas,aNGhnNMSopI,-0.25,2017-02-14 03:05:48,False,False
+2017-02-15T07:03:27,I'm Batman!,0,0,Norm DePlume,aNGhnNMSopI,0.0,2017-02-15 07:03:27,False,False
+2017-04-01T08:14:24,"Факт в том, что Бен Афлек актер класса А и считаю что все его заслуги должны поощряться (кратно), потому что он все таки показывает свои талантливые возможности на сцене, раскрывая себя как один их главных героев истории и великолепно показывает актерские данные на экранах  кинотеаторов  (складываются  хорошие впечатления и желание увидеть больше в дальнейшем). С каждым новым разом он обретает новый опыт, новые возможности и силу которую он черпает из земли ради приятного удовольствия раскрыть себя в необычной главе о похождении уникального героя на экране. -Мало хотеть надо иметь желание и силу воли, что бы ты Бэн всегда был оригинален, способен на новые эксперименты, удивлял новыми проектами.",0,0,Skill Money,aNGhnNMSopI,0.0,2017-04-01 08:14:24,False,False
+2017-04-09T19:03:14,I really loved this movie.,0,0,Kaipyro67ALT,aNGhnNMSopI,0.7,2017-04-09 19:03:14,False,False
+2017-04-09T22:51:46,WE NEED A SECOND MOVIE,0,0,Will Lilveto,aNGhnNMSopI,0.0,2017-04-09 22:51:46,False,False
+2017-06-06T07:38:14,You don't want to know.. Trust me ..,0,0,Eagle River,aNGhnNMSopI,0.0,2017-06-06 07:38:14,False,False
+2017-06-21T03:15:28,Тhis mоoooviеeee is now аvаailаble to watссch hеrе => https://twitter.com/2ad099b33e4ec291d/status/849441538530848768,0,0,Black Friday 365,aNGhnNMSopI,0.0,2017-06-21 03:15:28,False,False
+2017-06-24T03:11:25,Watch ТThe AAAAссountaaаnt onlinee in hd quаlityуy herе => https://twitter.com/2ad099b33e4ec291d/status/849441538530848768,0,0,김영현,aNGhnNMSopI,0.0,2017-06-24 03:11:25,False,False
+2017-06-26T04:04:02,Hееееllооо yуууоutubееееrs wаtсh Тhе Ассоuntаnt оооnlinе hеrе => https://twitter.com/2ad099b33e4ec291d/status/849441538530848768,0,0,KreZi,aNGhnNMSopI,0.0,2017-06-26 04:04:02,False,False
+2017-06-28T03:39:23,The АAААcсountаaant movieee herеe => https://twitter.com/db558331f26780acb/status/849441538530848768,0,0,Maverick Yadao,aNGhnNMSopI,0.0,2017-06-28 03:39:23,False,False
+2017-07-07T13:31:35,Yоoou cсаn't find this mооviееeе with better quaааalitу thааn hеre => https://twitter.com/db558331f26780acb/status/849441538530848768,0,0,Daniel Baroi,aNGhnNMSopI,0.5,2017-07-07 13:31:35,False,False
+2017-07-07T17:15:01,yesterday I woke up sucking a lemon,0,0,Ｍｉｔａｋｏ ぐヌ,aNGhnNMSopI,0.0,2017-07-07 17:15:01,False,False
+2017-07-09T06:02:08,TTТThis mоvie is now avаilаblе tо wаtсh here => https://twitter.com/db558331f26780acb/status/849441538530848768,0,0,RAVI,aNGhnNMSopI,0.0,2017-07-09 06:02:08,False,False
+2017-07-29T05:45:43,You сcan't find this mооvieее with bettеr quаalitу thаan hеre => https://twitter.com/db558331f26780acb/status/849441538530848768,0,0,Manuel Jose Enao Cabanillas,aNGhnNMSopI,0.0,2017-07-29 05:45:43,False,False
+2017-08-06T07:18:24,Don't bother. The only consistency in this waste of time is that it is lame lame lame. Lame acting. Affleck jumps in and out of character. Kendrick is completely unbelievable. Everyone is over the top. Lame plot holes like Swiss cheese. Lame soundtrack. Idiots who enjoy this will probably think everyone with ADD is actually a fine tuned superman.,0,0,O0Salmon0O,aNGhnNMSopI,-0.20952380952380953,2017-08-06 07:18:24,False,False
+2017-08-11T02:44:05,ТTТhis is thе niсеist moviе i eеver sееее!!! I aаааdvise eveеrybodу tо watссссh it :) https://twitter.com/db558331f26780acb/status/849441538530848768,0,0,Tolu Olaniyan,aNGhnNMSopI,0.5,2017-08-11 02:44:05,False,False
+2017-10-10T03:06:20,I want this to movie on dvd,0,0,Jeanieart1940 Kowatsch,aNGhnNMSopI,0.0,2017-10-10 03:06:20,False,False
+2017-12-09T11:09:40,Anyone can tell me what is the song after 0:59？please,0,0,Sam Lan,aNGhnNMSopI,0.0,2017-12-09 11:09:40,False,False
+2017-12-26T18:38:27,radioheadddd,1,0,WaveOnn,aNGhnNMSopI,0.0,2017-12-26 18:38:27,False,False
+2018-01-05T01:24:00,RADIOHEAD!!! FUCK YEAH!!!,0,0,Saber Is A Wulf,aNGhnNMSopI,-0.78125,2018-01-05 01:24:00,False,False
+2018-04-06T18:04:13,Everything’s in it’s right fucking place in this trailer.,0,0,Brandon Cluff,aNGhnNMSopI,-0.15714285714285714,2018-04-06 18:04:13,False,False
+2018-05-04T03:49:27,In It's Right Place...,0,0,Christian Pineda Zubieta,aNGhnNMSopI,0.2857142857142857,2018-05-04 03:49:27,False,False
+2018-06-06T13:46:41,"Goede trailer en goede cast. De accountant is een film die soms wat verwarrend is.  Was meer te halen uit de suffige boekhouder. Good cast, sometimes too complicated stories.",0,0,ZZP-boekhouder administratiekantoor,aNGhnNMSopI,0.09999999999999998,2018-06-06 13:46:41,False,False
+2018-12-14T00:55:56,"My mom said to major in accounting. I couldn't stand it. So my mom and dad kept nagging me about learning accounting, for the next 5 years of my life. Five years later I never earned any degree.",0,0,Kevin Ramsar,aNGhnNMSopI,0.020833333333333332,2018-12-14 00:55:56,False,False
+2019-02-01T21:49:50,"I just saw it! Very cool movie! Don't read anything about it, just watch it.",0,0,verfed,aNGhnNMSopI,0.56875,2019-02-01 21:49:50,False,False
+2019-02-02T00:47:29,Makes me want to an accountant.,0,0,Sebastian Flores,aNGhnNMSopI,0.0,2019-02-02 00:47:29,False,False
+2019-02-18T22:11:12,"When I first heard about this movie, I was thinking that ""The Accountant"" was like his cool gangster hitman code name or something... But nope... he's an actual autistic CPA who literally helps people with their taxes.  Nice",1,0,Y O J I M B O,aNGhnNMSopI,0.2,2019-02-18 22:11:12,False,False
+2019-05-01T14:08:34,Waiting for part 2.. please the Accountant 2,0,0,Didi Nurhayati,aNGhnNMSopI,0.0,2019-05-01 14:08:34,False,False
+2019-12-30T11:40:56,I like Ben Affleck more as the accountant than the Batman...his looks are softer and the vibes he gives off are more... fragrant. I would choose Christian wolf over batman anyday of the year!,0,0,Nidhi Chauhan,aNGhnNMSopI,0.3333333333333333,2019-12-30 11:40:56,False,False
+2020-01-02T21:18:37,I graduated as an accountant while working for the federal government. I was 50 plus.,0,0,Nancy Smith,aNGhnNMSopI,0.0,2020-01-02 21:18:37,False,False
+2020-01-15T12:51:37,Unforgettable...,0,0,M.Nurullah Ozcan,aNGhnNMSopI,0.8,2020-01-15 12:51:37,False,False
+2020-02-05T08:56:57,radiohead!,0,0,Jade Lescure,aNGhnNMSopI,0.0,2020-02-05 08:56:57,False,False
+2020-03-15T03:04:59,John Wicks Father,1,0,Black kai,aNGhnNMSopI,0.0,2020-03-15 03:04:59,False,False
+2020-04-08T03:43:20,"Great movie, characters and story lines.",0,0,Stephen McCollum,aNGhnNMSopI,0.8,2020-04-08 03:43:20,False,False
+2020-05-05T15:17:32,He is Batman,0,0,FISION,aNGhnNMSopI,0.0,2020-05-05 15:17:32,False,False
+2020-05-07T10:46:38,My kinda Dream movie 😳,0,0,Yogesh Miskin,aNGhnNMSopI,0.0,2020-05-07 10:46:38,False,False
+2020-05-18T07:41:03,Can't wait to watch this film with my wife.,0,0,Ben Wyatt,aNGhnNMSopI,0.0,2020-05-18 07:41:03,False,False

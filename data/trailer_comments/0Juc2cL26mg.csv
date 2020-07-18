@@ -1,0 +1,967 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2018-01-04T18:34:20,Looks like a job for those two Winchester boys.,1790,8,Elora Maxwell,0Juc2cL26mg,0.0,2018-01-04 18:34:20,True,True
+2018-01-04T21:07:18,"As someone who grew up in San Jose, I am hella stoked to see this!  I know it is very, very, distantly based on true events, but I'm looking forward to the cinematic exploration of Llanda Villa.",72,3,Chloe Kestermont,0Juc2cL26mg,0.07333333333333332,2018-01-04 21:07:18,True,True
+2018-01-04T23:43:10,1:46 he reminded me of Voldemort.,11,1,Jasmyne Ross,0Juc2cL26mg,0.0,2018-01-04 23:43:10,True,True
+2018-01-04T23:45:25,what he did ask 1:01???,52,9,Almanaque Do Medo,0Juc2cL26mg,0.0,2018-01-04 23:45:25,True,True
+2018-01-05T00:09:14,I been to the real Winchester house 3 times...this is so exciting! xo,22,8,Charlene Coran,0Juc2cL26mg,0.2875,2018-01-05 00:09:14,True,True
+2018-01-05T01:13:10,Snoke??,75,2,Elredram,0Juc2cL26mg,0.0,2018-01-05 01:13:10,True,True
+2018-01-05T01:36:34,Is this a documentary?,1,3,deerjerkydave,0Juc2cL26mg,0.0,2018-01-05 01:36:34,True,True
+2018-01-05T01:46:35,"Remember everyone, it's not a 'creepy' Hollywood horror movie trailer unless there's a little kid singing nursery rhymes",802,10,animalrock,0Juc2cL26mg,0.03125,2018-01-05 01:46:35,True,True
+2018-01-05T01:46:40,"This historical horror movie is based on a true story, the Winchester Mystery House. So excited to watch this on February 2018!",91,12,AVO Channel: Adrian Val Olonan,0Juc2cL26mg,0.27291666666666664,2018-01-05 01:46:40,True,True
+2018-01-05T04:51:09,"Is there any spooky event actually happened in the actual house? You know, something that people would say 'Oh, that house? You should know there's a headless widow walking around the hall during midnight', kind of thing.",9,5,Nekosama PJ,0Juc2cL26mg,0.19999999999999998,2018-01-05 04:51:09,True,True
+2018-01-05T08:05:54,Where is Sam and Dean?,57,2,Tran Tung,0Juc2cL26mg,0.0,2018-01-05 08:05:54,True,True
+2018-01-05T14:56:31,"I see... based on a ""true story"" like The Conjuring., right... ? XD And... my GOSH these new trailers with their own mini-trailers at the beginning... studios really think we're complete morons, and that makes me want to skip their movies. But I know, it's not the filmmakers' fault.",9,1,SCharlesDennicon,0Juc2cL26mg,0.124582560296846,2018-01-05 14:56:31,True,True
+2018-01-05T15:32:50,Call Ghostbusters!,11,4,Ant Eksiler,0Juc2cL26mg,0.0,2018-01-05 15:32:50,True,True
+2018-01-05T15:37:50,Aussie Aussie Aussie OY OY OY    Every time an Aussie says that I just wanna,1,0,Queen Elizabeth II,0Juc2cL26mg,0.0,2018-01-05 15:37:50,True,True
+2018-01-05T15:44:23,"Any cold spots, flickering lights, strange smells?",546,10,bean n cheese,0Juc2cL26mg,-0.325,2018-01-05 15:44:23,True,True
+2018-01-05T16:04:20,Lol the only reason ik about this story is bc of buzzfeed unsolved,93,5,Alessia,0Juc2cL26mg,0.4,2018-01-05 16:04:20,True,True
+2018-01-05T18:16:14,"SOMEONE DRAW A DEVILS TRAP, GRAB THE SALT, AND THE IRON WE MUST FIGHT BACK",521,6,Froot Flakes,0Juc2cL26mg,0.0,2018-01-05 18:16:14,True,True
+2018-01-05T18:23:04,Sam ?? Dean ?? Where y'all at,431,6,azraa,0Juc2cL26mg,0.0,2018-01-05 18:23:04,True,True
+2018-01-05T18:44:52,Rosered,4,0,Jynessa Swann,0Juc2cL26mg,0.0,2018-01-05 18:44:52,True,True
+2018-01-05T18:48:13,"In real life she would have been haunted by all the pissed off gun owners because of Winchester's dirty ammunition. This would be cool if it turned out the construction company was gas lighting her so she keeps up with the construction, but blaming the manufacturer for the misuse of their product would mean the owners of every lawn care, cookware, car, and alcohol company would have tons of people haunting them too.",6,0,Jacob Staten,0Juc2cL26mg,-0.090625,2018-01-05 18:48:13,True,True
+2018-01-05T18:53:12,Ban guns,6,2,HellbillyCuntryMusic,0Juc2cL26mg,0.0,2018-01-05 18:53:12,True,True
+2018-01-05T18:58:08,Remington,1,0,Korn Akopia,0Juc2cL26mg,0.0,2018-01-05 18:58:08,True,True
+2018-01-05T19:01:10,Sam and Dean?,152,2,K,0Juc2cL26mg,0.0,2018-01-05 19:01:10,True,True
+2018-01-05T19:19:02,hmm and browing was just fine,0,0,Kaber Esplin,0Juc2cL26mg,0.4166666666666667,2018-01-05 19:19:02,True,True
+2018-01-05T19:26:17,yes,1,0,Donya Nasser,0Juc2cL26mg,0.0,2018-01-05 19:26:17,True,True
+2018-01-05T19:34:25,"It has potential to be a good movie, but somebody really needs to call Sam and Dean in on this one. These people look like they got in way over their head",1833,27,Experimental Professor,0Juc2cL26mg,0.3,2018-01-05 19:34:25,True,True
+2018-01-05T19:38:59,Helen Mirren - still hot.,0,0,CamberwellCarrot,0Juc2cL26mg,0.25,2018-01-05 19:38:59,True,True
+2018-01-05T19:40:01,Easy. We salt the ghost.,245,2,氵每夕卜,0Juc2cL26mg,0.43333333333333335,2018-01-05 19:40:01,True,True
+2018-01-05T19:50:13,"chasing people, hunting things, family busines",874,6,Giorgos kapantais,0Juc2cL26mg,0.0,2018-01-05 19:50:13,True,True
+2018-01-05T20:23:15,Love the house!,2,0,Joseph Mora,0Juc2cL26mg,0.625,2018-01-05 20:23:15,True,True
+2018-01-05T21:25:12,This is based on true stories look up Winchester family and the Winchester story,63,4,Sharee Byers,0Juc2cL26mg,0.35,2018-01-05 21:25:12,True,True
+2018-01-05T21:41:21,I live around the corner from the winchester house and I can’t believe it’s this big of a deal to people.,8,1,A Fantasy Of Mine,0Juc2cL26mg,0.06818181818181818,2018-01-05 21:41:21,True,True
+2018-01-05T21:43:51,"Wait, Halloween isn't until another 9 months.",1,0,ugutierrez55,0Juc2cL26mg,0.0,2018-01-05 21:43:51,True,True
+2018-01-05T21:52:08,"""Smell anything weird like rotten eggs or sulfur?""",239,3,Arch Stanton,0Juc2cL26mg,-0.5,2018-01-05 21:52:08,True,True
+2018-01-05T21:52:46,Based on a true story from the Winchester Gospel,15,0,Arch Stanton,0Juc2cL26mg,0.35,2018-01-05 21:52:46,True,True
+2018-01-05T22:01:45,New women in black?,0,0,LIFE OF YIAM,0Juc2cL26mg,-0.015151515151515152,2018-01-05 22:01:45,True,True
+2018-01-05T22:07:23,"Yo, I remember the Ghost Adventures episode on this.",42,5,Billy Pittl III,0Juc2cL26mg,0.0,2018-01-05 22:07:23,True,True
+2018-01-05T22:22:45,Sam and dean got this 😎,6,0,rusty shackleford,0Juc2cL26mg,0.0,2018-01-05 22:22:45,True,True
+2018-01-05T22:26:13,I love how most of the comments are about Sam and Dean Winchester!,293,3,Kit Kat,0Juc2cL26mg,0.5625,2018-01-05 22:26:13,True,True
+2018-01-05T22:40:05,Im kinda exited.. i live right down the street from the winchester house...,1,0,AJ G,0Juc2cL26mg,0.08884078884078883,2018-01-05 22:40:05,True,True
+2018-01-05T22:41:44,1:55 The look on his face is hilarious to me.,0,0,Cheese,0Juc2cL26mg,0.5,2018-01-05 22:41:44,True,True
+2018-01-05T22:59:07,"“So get this.... you know the Winchester house in California?”  “What about it?”  “It seems that it’s been the center of some strange events...”  “What kind of strange?”  “Like, our kind of strange Dean”  “I’ll be ready in 10...”",898,12,Savannah Marshall,0Juc2cL26mg,0.16428571428571428,2018-01-05 22:59:07,True,True
+2018-01-05T23:00:15,Hahaha I clicked on the video expecting SPN comments. I was not disappointed 😂😂😂😂,238,2,Lizette Rose,0Juc2cL26mg,0.2875,2018-01-05 23:00:15,True,True
+2018-01-05T23:00:31,SUPERNATURAL ORIGINS!?,213,7,Diz Nutz,0Juc2cL26mg,0.20833333333333331,2018-01-05 23:00:31,True,True
+2018-01-05T23:03:57,SAN JOSE BOIIII,3,1,Sour Milk,0Juc2cL26mg,0.0,2018-01-05 23:03:57,True,True
+2018-01-05T23:13:18,"Looks like a predictable, dumb, and ultimately unsatisfying movie.",0,0,modularbadger,0Juc2cL26mg,-0.19166666666666665,2018-01-05 23:13:18,True,True
+2018-01-05T23:29:11,I heard about this on buzzfeed unsolved,0,0,JustCurious AboutEverythingEd,0Juc2cL26mg,0.0,2018-01-05 23:29:11,True,True
+2018-01-05T23:29:42,Anyone here live in winchester like me ?,1,1,YeBoi Noe,0Juc2cL26mg,0.13636363636363635,2018-01-05 23:29:42,True,True
+2018-01-05T23:42:19,"As someone who used to be a tour guide there I have to say the set and costumes look great. The story itself meh, same ol horror",1,0,TheBizarreBeauty,0Juc2cL26mg,0.4,2018-01-05 23:42:19,True,True
+2018-01-05T23:54:07,It will be a great movie and the scenarios are true story and that makes it very interesting. I am very interested in the story that Winchester Mansion has behind great trailer:),1,0,Diego Grigorescu,0Juc2cL26mg,0.4321428571428572,2018-01-05 23:54:07,True,True
+2018-01-05T23:59:16,"When I saw the title of this, I though it was the supernatural. I just had to watch it lol.",283,3,OZ - TheEliteLG,0Juc2cL26mg,0.48333333333333334,2018-01-05 23:59:16,True,True
+2018-01-06T00:01:46,hmm.. brilliant marketing ploy by the Winchester House Estate to drum up business.. the tourist revenue will triple there after this movie comes out 👏🏻,13,0,Black Calla Lily,0Juc2cL26mg,0.9,2018-01-06 00:01:46,True,True
+2018-01-06T00:12:52,"Plot twist, in the end they call Sam and Dean.",1242,11,Venus Redgrave,0Juc2cL26mg,0.0,2018-01-06 00:12:52,True,True
+2018-01-06T00:15:00,What I thought of right when I read the title. The Winchester brand and of course the Winchester BROTHEEEERRSS!!!,5,0,Stephanie chimchim,0Juc2cL26mg,0.5580357142857142,2018-01-06 00:15:00,True,True
+2018-01-06T00:48:58,So basically for everyone wondering why tf the house is so big its because a medium or witch not sure told Sarah that her family is cursed by all the souls taken by the winchester rifle and the only way to avoid the curse is to build a house and never stop building,14,2,mike vs,0Juc2cL26mg,-0.08333333333333333,2018-01-06 00:48:58,True,True
+2018-01-06T01:30:40,I saw this and I thought spn so I wanted to see if the Fandom was in the comments and we were so hi guys,49,1,Sketches by Squeakers,0Juc2cL26mg,0.0,2018-01-06 01:30:40,True,True
+2018-01-06T01:31:09,And the movie ends with someone on the ceiling in flames,188,4,Sketches by Squeakers,0Juc2cL26mg,0.0,2018-01-06 01:31:09,True,True
+2018-01-06T01:31:45,Making it into a horror movie is ridiculous. I cannot believe that Helen Mirren wasted her talent in this way... Thumbs down,0,0,Joan Marie,0Juc2cL26mg,-0.22962962962962963,2018-01-06 01:31:45,True,True
+2018-01-06T01:54:55,Gurrrrl,1,0,No,0Juc2cL26mg,0.0,2018-01-06 01:54:55,True,True
+2018-01-06T01:55:26,Play midnight man in this house. 👏👏👏 😛,2,0,NO BROS NO HORNS,0Juc2cL26mg,0.0,2018-01-06 01:55:26,True,True
+2018-01-06T02:06:21,Like why not just move out. You don't need to be there. Nobody needs to be there,1,1,Prince Blake,0Juc2cL26mg,0.0,2018-01-06 02:06:21,True,True
+2018-01-06T02:06:41,Been to the actual house... kinda boring😏,1,1,tinaloveseddie,0Juc2cL26mg,0.0,2018-01-06 02:06:41,True,True
+2018-01-06T02:32:04,"But the original story was way more tame than this, wasn't it? It was just a woman who went mad building a house to contain spirits. If you want to say they exist, that's cool, but all I can think is that this should be way less in-your-face about it and more subtle until it suddenly went nuts towards the end.",10,2,Derp Nottus,0Juc2cL26mg,0.0425925925925926,2018-01-06 02:32:04,True,True
+2018-01-06T02:33:20,SaAAaM aND dEaAnN!!1! *SOMEONE CALL TEHM* her der der,6,0,3928rjficnjw93jrndmd,0Juc2cL26mg,0.0,2018-01-06 02:33:20,True,True
+2018-01-06T02:35:01,"As a fantastic of horror movies, still waiting for something more original, all these story lines have been thought of. Still will watch it, but when it hits FiOS lol",0,0,Aquarian Beauty,0Juc2cL26mg,0.51875,2018-01-06 02:35:01,True,True
+2018-01-06T02:39:30,I honestly thought it was a movie about Sam and Dean Winchester,142,2,Alejandra,0Juc2cL26mg,0.6,2018-01-06 02:39:30,True,True
+2018-01-06T02:48:26,I saw the title and knew there would be Supernatural comments 😂😂,194,0,carterrico99,0Juc2cL26mg,0.16666666666666666,2018-01-06 02:48:26,True,True
+2018-01-06T02:57:56,How does this have over a million views but only 656 likes and 59 dislikes? Weird.,0,0,Whiskey Vargas,0Juc2cL26mg,-0.25,2018-01-06 02:57:56,True,True
+2018-01-06T03:00:24,Lol I knew there are going to be supernatural comments 😂😊,7,0,Wolfe 115,0Juc2cL26mg,0.48333333333333334,2018-01-06 03:00:24,True,True
+2018-01-06T03:06:11,"God is real and He did something using Earth and Google Software, I found it between 2006/07,that's why I created my YouTube Channel. I'd like to invite anyone reading this, to come see what I found on Google Earth. I can prove what I'm saying, please come see.             *There's HOPE!* https://www.youtube.com/watch?v=v67V3KtaSno",0,0,Hush Whisper,0Juc2cL26mg,0.25,2018-01-06 03:06:11,True,True
+2018-01-06T03:06:14,"I live about 20 minutes away from the Winchester Mystery House and I can attest, tis quite creepy. ;)",1,2,Eric Champlin,0Juc2cL26mg,-0.03787878787878788,2018-01-06 03:06:14,True,True
+2018-01-06T03:12:47,go away supernatural fans...😂,38,11,Maximus Garza,0Juc2cL26mg,0.16666666666666666,2018-01-06 03:12:47,True,True
+2018-01-06T03:14:25,"Let’s see... 126 comments, 668 likes, 67 dislikes and this ,some how, has 1.5 million views. Seems a bit odd to me.",0,0,Robert Lockhead,0Juc2cL26mg,-0.16666666666666666,2018-01-06 03:14:25,True,True
+2018-01-06T03:24:11,This pile of crap will make Amityville Horror look good... AND true.,5,0,Cre80s,0Juc2cL26mg,0.0833333333333333,2018-01-06 03:24:11,True,True
+2018-01-06T04:01:42,carry on my wayward sooooooooon,103,1,JudyTheAlien,0Juc2cL26mg,0.0,2018-01-06 04:01:42,True,True
+2018-01-06T04:10:01,Adopt counter detail fmvcum necessarily officer scared massive equity wise already concentration hostage.,0,0,Rory Stewart,0Juc2cL26mg,0.2333333333333333,2018-01-06 04:10:01,True,True
+2018-01-06T04:22:13,Jump scare-o-rama,1,0,Irish Chuck,0Juc2cL26mg,0.0,2018-01-06 04:22:13,True,True
+2018-01-06T04:45:04,Sam and Dean's grandma?!,243,8,Karan Chauhan,0Juc2cL26mg,0.0,2018-01-06 04:45:04,True,True
+2018-01-06T05:01:47,Well this looks scary,1,0,Brittney Chisolm,0Juc2cL26mg,-0.5,2018-01-06 05:01:47,True,True
+2018-01-06T05:19:58,So r the WINCHESTER BROTHERS coming or not?! I did'nt see them in the trailer😂,78,2,Abhi,0Juc2cL26mg,0.0,2018-01-06 05:19:58,True,True
+2018-01-06T05:38:21,"GAWD DAMN IT, TRAILER SPOILED THE MOVIE.., and i've been to the mansion, ain't no blood running down den pictures..",4,0,6menonaplane,0Juc2cL26mg,-0.15555555555555559,2018-01-06 05:38:21,True,True
+2018-01-06T05:40:46,I came for the comment and I'm happy to announce that I'm not disappointed!,657,14,Willow L.,0Juc2cL26mg,0.634375,2018-01-06 05:40:46,True,True
+2018-01-06T06:06:28,The trailer for the trailer spoiled the whole trailer.,0,0,Josh Russell,0Juc2cL26mg,0.2,2018-01-06 06:06:28,True,True
+2018-01-06T06:07:19,I thought I was going to be smart by putting a supernatural comment and then I saw the entire comment section was Supernatural fans. GG,79,1,Tristan Larrabee,0Juc2cL26mg,0.1369047619047619,2018-01-06 06:07:19,True,True
+2018-01-06T06:11:46,Came for the Supernatural references. Stayed for Supernatural references.,45,3,Raunak A,0Juc2cL26mg,0.16666666666666666,2018-01-06 06:11:46,True,True
+2018-01-06T06:20:45,Seems like a new case for sam and sean xD,20,5,Pomeranian Lover,0Juc2cL26mg,0.13636363636363635,2018-01-06 06:20:45,True,True
+2018-01-06T06:25:34,"Well this sounds like a job for,         The ghostfacers. Who tf else did you think?",371,11,Riley Bb,0Juc2cL26mg,0.0,2018-01-06 06:25:34,True,True
+2018-01-06T06:33:17,Came to make a comment about Sam and Dean...There's already a million of them.,296,3,Max Jr,0Juc2cL26mg,0.0,2018-01-06 06:33:17,True,True
+2018-01-06T06:35:13,I've noticed this in sam and dean unsolved case! Nice!,27,0,Carlo Fontejon,0Juc2cL26mg,0.75,2018-01-06 06:35:13,True,True
+2018-01-06T06:49:23,I feel like this could have been a great dark comedy.,0,0,thefantasticjames,0Juc2cL26mg,0.325,2018-01-06 06:49:23,True,True
+2018-01-06T07:13:54,Any #spn fans here?,13,0,- Helloitsmekamille -,0Juc2cL26mg,0.0,2018-01-06 07:13:54,True,True
+2018-01-06T07:15:31,The SPN family attack on the comment section is priceless,177,1,Saher Fatima,0Juc2cL26mg,1.0,2018-01-06 07:15:31,True,True
+2018-01-06T07:23:19,Omg supernatural fandom has gone MAD in the comment,3,0,ok then,0Juc2cL26mg,-0.22916666666666669,2018-01-06 07:23:19,True,True
+2018-01-06T07:41:49,Am I the only one hoped this would be a supernatural spinoff??  Lol,64,2,Tiki80,0Juc2cL26mg,0.32222222222222224,2018-01-06 07:41:49,True,True
+2018-01-06T07:47:08,Raise your hands if u thought this was going to be related to SUPERNATURAL! ✋✋✋,11,0,Eshaba Ferdoushi,0Juc2cL26mg,0.10416666666666666,2018-01-06 07:47:08,True,True
+2018-01-06T07:50:26,The Women in black?,4,0,Sameen,0Juc2cL26mg,-0.16666666666666666,2018-01-06 07:50:26,True,True
+2018-01-06T07:59:54,This is a horror film I might actually go see. I don't really go see horror films or like them but I might for this one.,0,0,1234567890q,0Juc2cL26mg,0.1,2018-01-06 07:59:54,True,True
+2018-01-06T08:08:23,"Make a movie about a legend involving a curse on the Winchester name where the lady keeps building her house to have multiple traps and lead to nowhere doors just to avoid potential angry spirits that were killed by the Gun that won the West, the Winchester Rifle... Sounds interesting.",1,0,Kaiju Conspiracy,0Juc2cL26mg,-0.039999999999999994,2018-01-06 08:08:23,True,True
+2018-01-06T08:14:03,Wish someone would do a horror movie about the Queen Mary.,1,1,Derek Bates,0Juc2cL26mg,0.0,2018-01-06 08:14:03,True,True
+2018-01-06T08:28:26,xddd Winchester!!1 get it?? Sam and Dean xdd,3,0,Platinum,0Juc2cL26mg,0.0,2018-01-06 08:28:26,True,True
+2018-01-06T08:28:41,Yawn,0,0,Anna Starr,0Juc2cL26mg,0.0,2018-01-06 08:28:41,True,True
+2018-01-06T08:35:29,"(FOR THOSE WHO DONT KNOW THIS LEGEND OR KEEP SAYING SAM&DEAN WINCHESTER JOKES) Sarah Winchester is part of the family that built and designed the Winchester rifle. This gun became a famous gun in the 1800s-1900s and took many lives with it. Those who have died from the Winchester rifle came to haunt Sarah for making the rifle that took their lives. In order to rid of the spirits, she ordered for the mansion to have infinite doorways and stairs leading to  nowhere, trapping the spirits in a maze like structure.",177,12,Ethan Sepulveda,0Juc2cL26mg,0.5,2018-01-06 08:35:29,True,True
+2018-01-06T08:39:08,"I came here for the Winchesters, THEY ARE IN WAY OVER THEIR HEADS. cas where is u",52,1,fathervi,0Juc2cL26mg,0.0,2018-01-06 08:39:08,True,True
+2018-01-06T09:06:51,"Sam and Dean ,where you at? I smell business .",3,0,jo tanner,0Juc2cL26mg,0.0,2018-01-06 09:06:51,True,True
+2018-01-06T09:07:05,"Ive been here in real life and it’s not scary at all, if anything just nicely designed by Sarah Winchester 😂",0,0,Julian Pulido,0Juc2cL26mg,0.35000000000000003,2018-01-06 09:07:05,True,True
+2018-01-06T09:49:53,I’ve always wanted to go to the real Winchester mansion ... yay,1,0,T L,0Juc2cL26mg,0.2,2018-01-06 09:49:53,True,True
+2018-01-06T10:00:19,NRA to the rescue🔫🇺🇸  I🖤 Helen!!,16,1,A.D. Hunt,0Juc2cL26mg,0.0,2018-01-06 10:00:19,True,True
+2018-01-06T10:20:57,"I’m so exited to watch this movie 😁 I remember when I was in 7th grade my language arts teacher assigned a project based off superstition or unfortunate events during history, and he showed us a project about the Winchester house. And I was so scared and got the chills. 😨",1,0,Alex Sandoval,0Juc2cL26mg,-0.5,2018-01-06 10:20:57,True,True
+2018-01-06T11:01:42,Carry on wayward comments.,725,10,Brenda Singer,0Juc2cL26mg,0.0,2018-01-06 11:01:42,True,True
+2018-01-06T13:01:11,"Unrelated to this movie, but if Sam and Dean don't finally visit this house in the last season, I'm gon be perturbed.",59,2,Abigail Stone,0Juc2cL26mg,0.0,2018-01-06 13:01:11,True,True
+2018-01-06T13:03:27,All the Supernatural comments are the best part of this.,400,2,Hannah West,0Juc2cL26mg,0.5833333333333334,2018-01-06 13:03:27,True,True
+2018-01-06T13:13:22,What's happening to San Jose is scarier than anything in this movie...,2,0,Mike Williams,0Juc2cL26mg,0.0,2018-01-06 13:13:22,True,True
+2018-01-06T13:28:47,OH MY GOD!! JUST THOUGHT!! ITS JOHN WINCHESTER'S MOM!! XD,1,0,Elizabeth Adams,0Juc2cL26mg,0.0,2018-01-06 13:28:47,True,True
+2018-01-06T14:21:56,Great another typical cliche horror movie. Get out is the best horror movie in 2010's.,0,0,Shaggy Rogers,0Juc2cL26mg,0.5444444444444444,2018-01-06 14:21:56,True,True
+2018-01-06T14:34:09,"Hey there demons it's me, ya boi",0,0,Alperen Uğur,0Juc2cL26mg,0.0,2018-01-06 14:34:09,True,True
+2018-01-06T15:44:05,Call Sam and Dean!,1,0,V Sen,0Juc2cL26mg,0.0,2018-01-06 15:44:05,True,True
+2018-01-06T15:49:33,Smh Sam and Dean's job,15,0,snake princess,0Juc2cL26mg,0.0,2018-01-06 15:49:33,True,True
+2018-01-06T16:15:10,So it's Volan de Mort vs Psychic Granny?,0,0,MrGear,0Juc2cL26mg,0.0,2018-01-06 16:15:10,True,True
+2018-01-06T16:25:42,Based of the true storied life of an American privileged widow. The film will barely break even but will do better on homeplay outlets like Netflix.,0,0,Markus Patients,0Juc2cL26mg,0.22499999999999998,2018-01-06 16:25:42,True,True
+2018-01-06T16:48:52,so so,0,0,Наташа Мілютіна,0Juc2cL26mg,0.0,2018-01-06 16:48:52,True,True
+2018-01-06T17:06:37,Listen...do you smell something?,8,1,Hannah Smith LaFrenz,0Juc2cL26mg,0.0,2018-01-06 17:06:37,True,True
+2018-01-06T17:09:18,I only clicked on here to start reading the Sam and Dean jokes,34,0,algophxbia,0Juc2cL26mg,0.0,2018-01-06 17:09:18,True,True
+2018-01-06T17:29:08,"I've been obsessed with this house since I was a kid. Definitely want to go there one day, would love to stay the night.",0,0,FLCL,0Juc2cL26mg,0.0,2018-01-06 17:29:08,True,True
+2018-01-06T17:46:24,I've been there. The seance room was the creepiest. I'd love to go back for their night tours😱,0,0,Cloudie 831,0Juc2cL26mg,0.25,2018-01-06 17:46:24,True,True
+2018-01-06T17:55:31,"OH MY FLIPPING IN A FREAKING GOD HOW EVER IS DOING THIS HAS THE RIGHT TO BE IN JAIL!!!, I’M NOT PLAYING ANY GAMES!!!!WHAT IN THE WORLD IS THIS YOUTUBE ADVERTISER THINKING?! GOD I REALLY DO THINK PEOPLES BRAINS SEIZES UP AND JUST CRACK! STOP USEING THE WORD TRAILER!!!!!! YOU STUPID BUTTS JUST DON’T KNOW HOW BAD MRS. RAMONA IS!!!!!! I WOULD GO WITH ANYTHING COMMERCIAL, PREVIW OR JUST ANY THANG BUT JUST NOT THE WORD TRAILER!!!!!!!!!",0,0,Skudmonkey 2.0!,0Juc2cL26mg,-0.13412533714657737,2018-01-06 17:55:31,True,True
+2018-01-06T18:02:10,need to check out the Winchester house in San Jose CA,0,0,BC VC,0Juc2cL26mg,0.0,2018-01-06 18:02:10,True,True
+2018-01-06T18:15:56,"""oh shoot your name is Winchester?  I was actually killed by a Smith & Wesson.  You wouldn't happen to know the address of one of their relatives would you?""",2,1,film79,0Juc2cL26mg,-0.2,2018-01-06 18:15:56,True,True
+2018-01-06T18:18:33,would be funny if jensen or Jared made a cameo appearance,5,0,Sam -Artist,0Juc2cL26mg,0.25,2018-01-06 18:18:33,True,True
+2018-01-06T18:49:42,Still haven't visited the Winchester house even though I live in San Jose like 20 mins from where it's located.......,0,0,natalia alianovna,0Juc2cL26mg,0.13636363636363635,2018-01-06 18:49:42,True,True
+2018-01-06T18:54:47,...Creepy...,0,0,Karina,0Juc2cL26mg,0.0,2018-01-06 18:54:47,True,True
+2018-01-06T19:22:04,Did you know that Winchester had a door upstairs that would lead to a certain death to lead the “monster” to it...,3,1,Angel Soto,0Juc2cL26mg,0.21428571428571427,2018-01-06 19:22:04,True,True
+2018-01-06T19:24:18,Look up buzzfeed unsolved and watch 3 horrifying cases. They have the Winchester case there!,0,0,Angel Soto,0Juc2cL26mg,-1.0,2018-01-06 19:24:18,True,True
+2018-01-06T19:54:22,Ha. Comes out on my birthday!,0,0,Luis Garcia,0Juc2cL26mg,0.0,2018-01-06 19:54:22,True,True
+2018-01-06T19:56:08,The supernatural comments aren't funny and made me cringe...👀. Really want to see this movie though.,0,0,Ronn Gibbs,0Juc2cL26mg,0.20555555555555557,2018-01-06 19:56:08,True,True
+2018-01-06T19:59:52,But where's the jerk and the bitch? ;),3,0,Sophia Li,0Juc2cL26mg,0.25,2018-01-06 19:59:52,True,True
+2018-01-06T20:45:13,Sam and Dean’s grandmother?????,2,0,Whateverxox,0Juc2cL26mg,0.0,2018-01-06 20:45:13,True,True
+2018-01-06T20:58:11,The whole comment section is just Supernatural fans lol,5,0,"Hot Take, Babe",0Juc2cL26mg,0.3888888888888889,2018-01-06 20:58:11,True,True
+2018-01-06T21:36:44,Must the name of Winchester always be associated with the supernatural?,12,7,Colton D,0Juc2cL26mg,0.16666666666666666,2018-01-06 21:36:44,True,True
+2018-01-06T22:03:58,better call shane and ryan,0,0,Sam-I-Am,0Juc2cL26mg,0.5,2018-01-06 22:03:58,True,True
+2018-01-06T22:21:47,looks like a Turd of a movie.,0,0,boombapboom,0Juc2cL26mg,0.0,2018-01-06 22:21:47,True,True
+2018-01-06T22:22:20,And I can’t even get a like https://youtu.be/uMx7CRAm210,0,0,Head for the Hills,0Juc2cL26mg,0.0,2018-01-06 22:22:20,True,True
+2018-01-06T22:28:42,"Awesome, I live 20 minutes away from the Winchester Mystery house, been there for a tour...very creepy",0,0,Brandon Bohn,0Juc2cL26mg,0.21212121212121207,2018-01-06 22:28:42,True,True
+2018-01-06T23:30:28,the minute I saw all the rooms and the name i was reminded of that one buzzfeed unsolved episode,0,0,jasmin ly,0Juc2cL26mg,0.0,2018-01-06 23:30:28,True,True
+2018-01-06T23:34:04,About damn time!,0,1,Fann Washington,0Juc2cL26mg,0.0,2018-01-06 23:34:04,True,True
+2018-01-06T23:34:10,This movie takes place in the Winchester Mansion... right? I've been to it. It's not that interesting. The most interesting part was the windows on the floor. Definitely not worth 250 dollars XD,0,0,Kamy,0Juc2cL26mg,0.3271428571428571,2018-01-06 23:34:10,True,True
+2018-01-07T00:15:58,ah the comment section has yet to disappoint :),8,0,MadRae,0Juc2cL26mg,0.5,2018-01-07 00:15:58,True,True
+2018-01-07T00:31:25,I’ve been to the Winchester Mystery House on school field trips......it’s not scary.,0,0,cjlatina,0Juc2cL26mg,0.25,2018-01-07 00:31:25,True,True
+2018-01-07T00:56:12,I found out not to long ago in related to the Winchester family still have yet to find out how,0,0,Freight Shakin' Schroeder,0Juc2cL26mg,-0.025,2018-01-07 00:56:12,True,True
+2018-01-07T01:03:24,"At first i thought it was""supernatural"" the movie..",3,0,Denis,0Juc2cL26mg,0.20833333333333331,2018-01-07 01:03:24,True,True
+2018-01-07T02:35:40,SAM AND DEAN WINCHESTER,1,0,Lyonnie Bohannon,0Juc2cL26mg,0.0,2018-01-07 02:35:40,True,True
+2018-01-07T03:06:46,this lady must contact her cousins .. I mean come on they are hunters u know !!,15,0,QUEEN :S,0Juc2cL26mg,-0.48828125,2018-01-07 03:06:46,True,True
+2018-01-07T03:06:56,Mary is that you?,75,1,Patricia Jackson,0Juc2cL26mg,0.0,2018-01-07 03:06:56,True,True
+2018-01-07T03:08:38,Came for the Supernatural comments. Was not disappointed.,51,0,Ragnarok Loki is Best Loki,0Juc2cL26mg,0.2708333333333333,2018-01-07 03:08:38,True,True
+2018-01-07T03:08:54,UMMM YEAH THIS IS NOT SAM OR DEAN SO 1. You’re a DirTy LiAr 2. This is clickbait,0,0,Andrea,0Juc2cL26mg,-0.6,2018-01-07 03:08:54,True,True
+2018-01-07T03:24:52,"I came because the Winchester house was the inspiration for Stephen Kings ""Rose Red"".   But I'm guessing by the comments and references in the comment section that most people here are fans of the show Supernatural.",0,0,Ayotunde,0Juc2cL26mg,0.3166666666666667,2018-01-07 03:24:52,True,True
+2018-01-07T03:31:43,"Nothing a little greasy spoon, beer & Asian porn can't fix...right, Sammy?",18,0,Jeff,0Juc2cL26mg,-0.09375,2018-01-07 03:31:43,True,True
+2018-01-07T03:41:29,They need to reunite the original surviving Ghostbusters for this!,0,0,MarbleWhornets,0Juc2cL26mg,0.46875,2018-01-07 03:41:29,True,True
+2018-01-07T03:57:13,I'm glad I'm not the only one who thought of Supernatural! 😂 didn't expect to see this many spn comments and I am not disappointed.,31,2,natalie hamilton,0Juc2cL26mg,0.31666666666666665,2018-01-07 03:57:13,True,True
+2018-01-07T03:58:37,*Spoooooooky*,0,0,Random frog,0Juc2cL26mg,0.0,2018-01-07 03:58:37,True,True
+2018-01-07T04:13:03,This is way before Dean and Sam were born. This is the Winchester Origin,4,0,Mofo Yaqoob,0Juc2cL26mg,0.0,2018-01-07 04:13:03,True,True
+2018-01-07T04:24:56,Who's sam and dean?,1,1,oh my its a loner,0Juc2cL26mg,0.0,2018-01-07 04:24:56,True,True
+2018-01-07T04:41:21,Only here for squirrel and moose,13,2,QueenHokage,0Juc2cL26mg,0.0,2018-01-07 04:41:21,True,True
+2018-01-07T05:27:52,You already know who to call,0,0,Ino Uchiha,0Juc2cL26mg,0.0,2018-01-07 05:27:52,True,True
+2018-01-07T05:34:17,Sound like a case for the Winchester boys.,1,0,lvl_100 furry hunter,0Juc2cL26mg,0.4,2018-01-07 05:34:17,True,True
+2018-01-07T05:37:56,Obligatory possession,0,0,unclearsix,0Juc2cL26mg,0.0,2018-01-07 05:37:56,True,True
+2018-01-07T07:17:41,I don’t understand why they couldn’t get an American actress to play this role....ijs,0,0,nubiansista4life,0Juc2cL26mg,0.0,2018-01-07 07:17:41,True,True
+2018-01-07T07:28:18,I grew up 15 minutes from the WMH.  Been there with my kids in 2005.  My brother is buried in a cemetery 5 minutes from the house.  How nice to see a movie about it....,0,0,James Har,0Juc2cL26mg,0.6,2018-01-07 07:28:18,True,True
+2018-01-07T07:34:47,Okay someone tell me who Sam and dean are,0,1,Makin' Money,0Juc2cL26mg,0.5,2018-01-07 07:34:47,True,True
+2018-01-07T08:08:04,I saw this trailer a looong time ago.,0,0,MilkCap,0Juc2cL26mg,0.0,2018-01-07 08:08:04,True,True
+2018-01-07T08:55:33,Reaper used his ult at the end,0,0,Wunderful,0Juc2cL26mg,0.0,2018-01-07 08:55:33,True,True
+2018-01-07T09:06:35,Really should have put Sam and dean in this movie,3,0,Me Muffin,0Juc2cL26mg,0.2,2018-01-07 09:06:35,True,True
+2018-01-07T09:13:32,Literally read a comic book about this story a few days ago.,0,0,Andz54332,0Juc2cL26mg,0.024999999999999994,2018-01-07 09:13:32,True,True
+2018-01-07T10:01:22,I bet the creators or members of the team for this production had loved to expect some sort of insightful or positive feedback in the YouTube comment section for their newly released trailer.....  ..... aaand all the comments are about Supernatural by mostly adolescent fan girls,0,0,0x13horizon,0Juc2cL26mg,0.34606060606060607,2018-01-07 10:01:22,True,True
+2018-01-07T10:37:48,I would love to visit the real house.,0,0,FlixCreEightR,0Juc2cL26mg,0.35,2018-01-07 10:37:48,True,True
+2018-01-07T10:47:36,"If this had been a movie about her and how she become insane, it'd be decent. But they added a lame jump scare ghost story to it. And now it's nothing that hasn't been done already.",0,1,saya dubre,0Juc2cL26mg,-0.4444444444444445,2018-01-07 10:47:36,True,True
+2018-01-07T11:36:02,When you see an actor with his temple exposed on the side of his head you know this is a serious movie,0,0,Vince V,0Juc2cL26mg,-0.3333333333333333,2018-01-07 11:36:02,True,True
+2018-01-07T12:02:33,i️ came knowing what the comments would be... not disappointed.,15,0,ana,0Juc2cL26mg,0.375,2018-01-07 12:02:33,True,True
+2018-01-07T13:56:55,**Reads Comments** I finally found you guys...,1,0,Grim_ Secret333,0Juc2cL26mg,0.0,2018-01-07 13:56:55,True,True
+2018-01-07T14:11:57,The name Winchester drew me in because of the name Sam and Dean Winchester off of Supernatural lol,9,0,Julieauna Limbeck,0Juc2cL26mg,0.48333333333333334,2018-01-07 14:11:57,True,True
+2018-01-07T14:27:01,Who else thought it said Witcher?,0,0,Kargath Bladefist (WoD),0Juc2cL26mg,0.0,2018-01-07 14:27:01,True,True
+2018-01-07T15:45:46,shane and ryan need to watch this. hA.,0,0,Gabriela zee,0Juc2cL26mg,0.0,2018-01-07 15:45:46,True,True
+2018-01-07T16:31:48,"If Ryan and Shane don’t make cameos in this, I’ll be pissed. They’re the only reason I know of the Winchester house.",0,0,Adur Pandya,0Juc2cL26mg,0.0,2018-01-07 16:31:48,True,True
+2018-01-07T16:54:47,Meh another demon possession hollywood exorcist evil rules crap..fail 10/10,0,0,puncher davis,0Juc2cL26mg,-1.0,2018-01-07 16:54:47,True,True
+2018-01-07T17:29:17,I love this ghost story so i love that there making a movie about it. Lol,0,0,Jessica jusino,0Juc2cL26mg,0.6,2018-01-07 17:29:17,True,True
+2018-01-07T17:41:17,Is this based on the real Winchester Mansion?,0,0,ItzMike_SS,0Juc2cL26mg,0.2,2018-01-07 17:41:17,True,True
+2018-01-07T17:49:40,Helen Mirren will do ANYTHING!,0,0,Postmodern Recycler,0Juc2cL26mg,0.0,2018-01-07 17:49:40,True,True
+2018-01-07T18:00:05,I guess she was the wrong Winchester to take on those ghost!    she should have called Sam &Dean! LOL😂,0,0,Michael Zartman,0Juc2cL26mg,-0.78125,2018-01-07 18:00:05,True,True
+2018-01-07T18:15:21,A winchester would never put up with that.,0,0,Aaron Michael,0Juc2cL26mg,0.0,2018-01-07 18:15:21,True,True
+2018-01-07T19:12:55,Imaging having to house sit this place high.,0,0,Shmacked Muffins,0Juc2cL26mg,0.16,2018-01-07 19:12:55,True,True
+2018-01-07T22:38:54,"I knew it! I knew that I found in comments some references to my beloved Supernatural! I just love you, guys! ❤ (supernatural everywhere) #spnfamily 😘❤❤❤",5,0,Weronika D.,0Juc2cL26mg,0.425,2018-01-07 22:38:54,True,True
+2018-01-08T00:48:24,"I really hope this movie has a scene where the characters actually use the Winchester rifles to fight off the materialized spirits. Obviously not related to the real story, but then again...this movie takes liberties anyway. It would be a horror movie for gun nerds haha!",1,0,Cj R,0Juc2cL26mg,0.13,2018-01-08 00:48:24,True,True
+2018-01-08T03:20:20,Looks OK but they should have brought in David Ogden Stiers to reprise the role instead of recasting.,0,0,jb888888888,0Juc2cL26mg,0.5,2018-01-08 03:20:20,True,True
+2018-01-08T03:53:10,I’m actually not disappointed by this movie,0,0,MightyMorphinMonty07,0Juc2cL26mg,0.375,2018-01-08 03:53:10,True,True
+2018-01-08T05:16:09,Does Jody foster approve?,0,0,Lou Dozer241,0Juc2cL26mg,0.0,2018-01-08 05:16:09,True,True
+2018-01-08T07:16:21,Helen Mirren is perfect for this role,0,0,Kristen Annear,0Juc2cL26mg,1.0,2018-01-08 07:16:21,True,True
+2018-01-08T07:17:39,Gotta see,0,0,Kristen Annear,0Juc2cL26mg,0.0,2018-01-08 07:17:39,True,True
+2018-01-08T10:02:01,I can't wait to see a movie about democrats being haunted by the 100 million ghosts of aborted babies.,0,0,Deedee Wong,0Juc2cL26mg,0.0,2018-01-08 10:02:01,True,True
+2018-01-08T18:29:27,I'm actually confused about the sanity of Sarah since by the late 1890's the majority of Winchester sales were from Browning designed weapons. So in the context of this movie why would the ghost's go after the builder and not the Designer?,0,0,seth Thomas,0Juc2cL26mg,-0.35,2018-01-08 18:29:27,True,True
+2018-01-09T14:30:34,Salt it and burn it,0,0,Alana S,0Juc2cL26mg,0.0,2018-01-09 14:30:34,True,True
+2018-01-09T18:26:05,Nicole Kidman has done it in a much better way before.,0,0,Nishant Gautam,0Juc2cL26mg,0.5,2018-01-09 18:26:05,True,True
+2018-01-10T08:49:44,"We need to call your cousins, the son of your loss brother John Winchester, and tell them bring the nephelin with them..",0,0,kristhoper luke mcfadden,0Juc2cL26mg,0.0,2018-01-10 08:49:44,True,True
+2018-01-10T21:25:35,Welp! Looks like Sam and Dean have another case. I guess this time it's personal lol 😂.,536,3,BlackQueen Sky,0Juc2cL26mg,0.4,2018-01-10 21:25:35,True,True
+2018-01-11T01:04:39,My son and I will definitely see this.,0,0,Michael A. Buccilli,0Juc2cL26mg,0.0,2018-01-11 01:04:39,True,True
+2018-01-11T04:05:31,All the way from SJ....!,2,0,Sj Rush,0Juc2cL26mg,0.0,2018-01-11 04:05:31,True,True
+2018-01-11T08:02:12,Sam and Dean's grand grand mother.,8,0,hikari 94,0Juc2cL26mg,0.5,2018-01-11 08:02:12,True,True
+2018-01-11T20:51:13,"Yeah i have alteady seen that movie, it's called Rose Red.",0,0,Chigona96,0Juc2cL26mg,0.3,2018-01-11 20:51:13,True,True
+2018-01-12T02:37:22,We had a subsitute tearcher named winchester,0,0,rebecca alonzo,0Juc2cL26mg,0.0,2018-01-12 02:37:22,True,True
+2018-01-12T09:01:10,Burn the damn house,0,0,just think,0Juc2cL26mg,0.0,2018-01-12 09:01:10,True,True
+2018-01-12T20:07:57,"Saving people, hunting things",0,0,im not trash u are.,0Juc2cL26mg,0.0,2018-01-12 20:07:57,True,True
+2018-01-12T20:17:25,Get me some pie!,0,0,im not trash u are.,0Juc2cL26mg,0.0,2018-01-12 20:17:25,True,True
+2018-01-13T06:05:50,"I actually live a few minutes away from that place, I never be in there.",0,0,TMcKeon408,0Juc2cL26mg,-0.03181818181818183,2018-01-13 06:05:50,True,True
+2018-01-14T07:37:09,I love how trailers put mini trailers at the start now. You know instantly to close the video and never watch the film. Saves time for sure.,0,0,sa_nick,0Juc2cL26mg,0.3333333333333333,2018-01-14 07:37:09,True,True
+2018-01-14T08:56:35,I can proudly say my dad worked in the movie crew for this,0,0,Dark soul,0Juc2cL26mg,0.8,2018-01-14 08:56:35,True,True
+2018-01-15T01:45:28,"I loved studying the story of the Winchester home, so its very exciting seeing a movie be made currently! It definitely has the opportunity to be something great but i'll try not to keep my hopes too high haha   Also if I see one more sam and dean joke I will scream",0,0,Bonnibel Everett,0Juc2cL26mg,0.39285714285714285,2018-01-15 01:45:28,True,True
+2018-01-15T11:41:57,You can call it.......Supernatural😂,0,0,Alison Argayosa,0Juc2cL26mg,0.0,2018-01-15 11:41:57,True,True
+2018-01-16T01:44:58,All I can think about it Sean Of The Dead in the UK.. /: I can’t unhear it now. The name really flopped.,0,0,Natalie D,0Juc2cL26mg,0.0,2018-01-16 01:44:58,True,True
+2018-01-16T21:32:10,I’m just here like Jensen Ackles and Jared Padaleki better be in this movie,0,0,ya girl val,0Juc2cL26mg,0.5,2018-01-16 21:32:10,True,True
+2018-01-17T08:24:45,You should of used dean and Sam from the TV show .,3,0,shady shady TV oopsy,0Juc2cL26mg,0.0,2018-01-17 08:24:45,True,True
+2018-01-17T13:42:24,"Y’all making jokes about Sam and Dean, but what do you think was the real life inspiration for their name?",0,0,Brett The Mistake,0Juc2cL26mg,0.2,2018-01-17 13:42:24,True,True
+2018-01-18T01:48:57,"If Mrs. Winchester could see the way her descendants have been living recently, she’d probably come back to haunt them.",0,0,RoboWatchgirl,0Juc2cL26mg,0.0,2018-01-18 01:48:57,True,True
+2018-01-18T03:45:30,Who is the boy and young woman at the table? I know she had a niece that she left the furniture to but the only child she had was a baby girl who died before her husband which kicked off her grief but from what I've read she lived alone (Well... I guess that depends how you look at it Lol.) and preferred she it that way.     I think the movie will be interesting but I think the real story was just as interesting on it's own.,0,0,Rae,0Juc2cL26mg,0.2111111111111111,2018-01-18 03:45:30,True,True
+2018-01-18T04:01:15,"I don't even know who Sam and Dean are. Never heard of them. This is based on an actual house in San Jose, CA I believe. The legend is that this woman, who became very wealthy as heir to the Winchester Rifle Company, went a little crazy when her husband died and began adding rooms to her house on the advice of her psychic. The psychic told her to keep building and not to stop because that's what her husband's ghost wanted her to do or something like that.  Looks like it could be an interesting film. We'll see.",0,0,J Bro,0Juc2cL26mg,0.07250000000000001,2018-01-18 04:01:15,True,True
+2018-01-18T14:27:58,I clicked on the trailer because it said WINCHESTER!  Sam and Dean need to do some research. This case literally has their name written all over it.,0,0,Jen Lee,0Juc2cL26mg,0.0,2018-01-18 14:27:58,True,True
+2018-01-18T15:22:04,Supernatural comes rushing in .,0,0,Cilent Treeco,0Juc2cL26mg,0.16666666666666666,2018-01-18 15:22:04,True,True
+2018-01-18T15:22:16,Can anyone call Sam and Dean ?,0,0,Cilent Treeco,0Juc2cL26mg,0.0,2018-01-18 15:22:16,True,True
+2018-01-19T00:48:45,“actual events” i don’t remember reading any of this happening in any of the winchester documentaries,0,0,bitchcraft,0Juc2cL26mg,0.0,2018-01-19 00:48:45,True,True
+2018-01-19T04:28:53,I actually visited the Winchester house. I’m a bit skeptical when it comes to these sort of things but I had a weird experience there. There is something weird going on there.,0,0,Christina Rooz,0Juc2cL26mg,-0.375,2018-01-19 04:28:53,True,True
+2018-01-19T10:45:00,This movie is scary but not as scary as other japanese horro,1,0,vulpix,0Juc2cL26mg,-0.28125,2018-01-19 10:45:00,True,True
+2018-01-19T15:06:04,"Looks like it*s going to be a great, jump out of your skin ,movie!  These are my favorite kinds.  No need for gore to make a good horror flick.  It*s what you can*t see sometimes that scares you the most.",0,0,wisdom seeker,0Juc2cL26mg,0.675,2018-01-19 15:06:04,True,True
+2018-01-19T22:23:54,"I’ve lived by the Winchester house almost my whole life and finally got to go on a tour to see the inside, it is absolutely insane",0,0,Tia Z,0Juc2cL26mg,-0.26666666666666666,2018-01-19 22:23:54,True,True
+2018-01-19T22:42:51,Ohh my god I remember this story from buzzfeed unsolved!! 😨,0,0,Lpstarlight22,0Juc2cL26mg,0.0,2018-01-19 22:42:51,True,True
+2018-01-20T03:36:30,"About time they made a movie based upon the legend of the Winchester Mystery House. Heck the legend itself is a horror story filled with loss, death, ghosts, curses, and fear.",0,0,Dreamer Dawn,0Juc2cL26mg,0.4,2018-01-20 03:36:30,True,True
+2018-01-21T02:46:46,"ok, why the hell do they tease the trailer...at the BEGINNING OF THE TRAILER? what, they want to hype you up for the thing you're about to see immediately? what the hell??",0,0,Bijinius Cross,0Juc2cL26mg,0.5,2018-01-21 02:46:46,True,True
+2018-01-21T03:29:27,Helen Mirren is a beautiful woman,0,0,Hector,0Juc2cL26mg,0.85,2018-01-21 03:29:27,True,True
+2018-01-21T03:48:42,this movie here [ bit.ly/2EZaQPK ],0,0,deri drajat,0Juc2cL26mg,0.0,2018-01-21 03:48:42,True,True
+2018-01-21T04:22:11,*Winchester Full Movie Streaming Online Watchnow* ☛ [ bit.ly/2DiSM6V ],0,1,Lisa Indriani,0Juc2cL26mg,0.35,2018-01-21 04:22:11,True,True
+2018-01-21T05:58:08,"Dialing the phone, “Sam and Dean, we need yall, NOW!”",17,1,Kookie Lil Bunny,0Juc2cL26mg,0.0,2018-01-21 05:58:08,True,True
+2018-01-21T16:55:48,whats the age rating ya bellybatton,0,0,Freya Nutter,0Juc2cL26mg,0.0,2018-01-21 16:55:48,True,True
+2018-01-21T20:29:42,Nuke the entire site from orbit... It's the only way to be sure,0,0,A Chris of all trades,0Juc2cL26mg,0.16666666666666666,2018-01-21 20:29:42,True,True
+2018-01-22T00:47:55,I Have to Ask is this more than a thinly veiled anti second amendment  Movie?,0,0,InsaneHippie hippieinsane,0Juc2cL26mg,0.033333333333333326,2018-01-22 00:47:55,True,True
+2018-01-22T02:04:28,I remember taking the tour at the winchester house and there was stairways that lead to a wall in the ceiling. Really freaky stuff like that. She was insane.,0,0,Kim D,0Juc2cL26mg,-0.4,2018-01-22 02:04:28,True,True
+2018-01-22T15:35:19,Here I was looking for Shaun of the Dead jokes in the comment section. Thoroughly dissapointed.,0,0,Gregor Simpson,0Juc2cL26mg,-0.2,2018-01-22 15:35:19,True,True
+2018-01-22T17:58:16,this house was on the show ghost brothers,0,0,Eleanor Hill,0Juc2cL26mg,0.0,2018-01-22 17:58:16,True,True
+2018-01-23T14:35:21,"I worked at the Winchester Mystery House as a tour-guide over 30 years ago.  The true story of the real Sarah Winchester's life is actually pretty interesting.  Whether this movie is any good or not, I don't know (from the trailer, it looks pretty hokey.)",0,0,Paul Cwick,0Juc2cL26mg,0.375,2018-01-23 14:35:21,True,True
+2018-01-23T17:56:30,*Medo...*,0,0,Ot Nerd,0Juc2cL26mg,0.0,2018-01-23 17:56:30,True,True
+2018-01-24T01:28:24,So is this what starts Shaun of the Dead?,0,0,Noek,0Juc2cL26mg,-0.2,2018-01-24 01:28:24,True,True
+2018-01-24T06:59:25,"It looks cool, but my only complaint is I thought it was gonna be the life story of Sara Winchester! Sara Winchester believed the ghost of the people killed by the gun her husband made would come and haunt her that's why she kept adding more rooms, but none off that was real it was all in her head. The Winchester mystery house is not haunted, my mom worked there and felt no presents of ghosts. Don't get me wrong, the movie looks cool.",0,0,Miguel Stanley,0Juc2cL26mg,0.040624999999999994,2018-01-24 06:59:25,True,True
+2018-01-24T12:09:21,"When i read the title, i thought its about Sam and Dean. HAHAHA but i must watch this movie. I love Supernatural! Kyaahh!! Sam and Dean must be in the movie hahaha",0,0,Rosette Casue,0Juc2cL26mg,0.3063802083333333,2018-01-24 12:09:21,True,True
+2018-01-24T13:54:21,Sam and deannnn where are youuu,0,0,Lisa Fruehling,0Juc2cL26mg,0.0,2018-01-24 13:54:21,True,True
+2018-01-24T18:16:07,Goodbye 🙄🙄🙄🙄🙄,0,0,MelaninGoddess Jewels,0Juc2cL26mg,0.0,2018-01-24 18:16:07,True,True
+2018-01-25T00:51:14,Can't believe I'd see the day where Helen Mirren slums it up in a crappy cliche haunted house flick.   The Woman In Black was a million times better than this.,0,0,Slasher Trash,0Juc2cL26mg,0.16666666666666669,2018-01-25 00:51:14,True,True
+2018-01-25T02:31:07,There is a city called Winchester in Canada close to Ottawa but I think it’s spelled differently,0,0,Wren Armstrong,0Juc2cL26mg,0.0,2018-01-25 02:31:07,True,True
+2018-01-25T16:04:00,So this is film is based on the true story of the Winchester house,0,0,elliott j-s-r,0Juc2cL26mg,0.35,2018-01-25 16:04:00,True,True
+2018-01-26T09:43:30,cool but waiting for mama 2 and it chapter 2,0,0,Vijay Raj Shukla,0Juc2cL26mg,0.35,2018-01-26 09:43:30,False,True
+2018-01-26T18:33:19,anyone know the age rating uk?,0,0,declann,0Juc2cL26mg,0.0,2018-01-26 18:33:19,False,True
+2018-01-26T18:43:39,Oh don't mind me. Just another Supernatural fan who came here from a google ad and I'm just laughing at all of these comments,0,0,Some Audio Trash,0Juc2cL26mg,0.16666666666666666,2018-01-26 18:43:39,False,True
+2018-01-26T23:13:07,Ok why does the winchester's always have bad sh*t luck?,0,0,Kaina Maurice,0Juc2cL26mg,-0.09999999999999992,2018-01-26 23:13:07,False,True
+2018-01-27T00:18:50,"the thing is that sarah winchester was 4’10 , she was short , i’m lowkey disappointed that they didn’t get a short  actress....",0,0,c:,0Juc2cL26mg,-0.25,2018-01-27 00:18:50,False,True
+2018-01-27T00:50:48,Is this the origins of Supernatural XD,0,0,Alex ASMR,0Juc2cL26mg,0.16666666666666666,2018-01-27 00:50:48,False,True
+2018-01-27T00:59:08,You guys forgot Kalashnikov's gun?,0,0,X lian de la Xiao,0Juc2cL26mg,0.0,2018-01-27 00:59:08,False,True
+2018-01-27T02:31:45,Ok.....so I guess if you never saw Supernatural....(like me) you're kind of out of the loop with these comments huh? 😂,0,0,ceceoo3,0Juc2cL26mg,0.6,2018-01-27 02:31:45,False,True
+2018-01-27T04:34:11,"Maybe not exactly ""true"" events. For one thing, Sarah Winchester always kept her face covered. For another, I don't believe she moved to California until after her husband was dead.",0,0,Holly Atherton,0Juc2cL26mg,-0.1875,2018-01-27 04:34:11,False,True
+2018-01-27T04:41:22,"My aunt actually took me to the Winchester house when I graduated high school. We didn't see any ghosts, but it was still very cool!",0,0,Holly Atherton,0Juc2cL26mg,0.24291666666666667,2018-01-27 04:41:22,False,True
+2018-01-27T09:07:21,Looks like another kind of Woman In Black...,0,0,KBDollar,0Juc2cL26mg,0.21666666666666667,2018-01-27 09:07:21,False,True
+2018-01-27T10:35:28,"This seems like it could either be really good, or really bad.",0,0,Jon Kelley,0Juc2cL26mg,5.551115123125783e-17,2018-01-27 10:35:28,False,True
+2018-01-27T19:36:42,Maybe it's johns sister #supernatural,0,0,Akira Johnson,0Juc2cL26mg,0.16666666666666666,2018-01-27 19:36:42,False,True
+2018-01-27T21:40:33,"Will be released Feb. 2, 2018.  I can't wait.  Would love to tour the house.",0,0,PATRICIA HAWKS,0Juc2cL26mg,0.5,2018-01-27 21:40:33,False,True
+2018-01-28T02:32:43,Ugh. Annoying Supernatural fangirl comments,0,0,TheMonsterGroovy,0Juc2cL26mg,-0.3166666666666667,2018-01-28 02:32:43,False,True
+2018-01-28T07:19:22,"January 28, 2018--- Based on True events....SCARRRRRRRRRRRRRRY!    UNLUCKY NUMBER 13....",0,0,Adam St.Martin,0Juc2cL26mg,0.4375,2018-01-28 07:19:22,False,True
+2018-01-28T12:23:22,Wow ghost adventures did a episode of the Winchester mystery house the other day then I see this WTF? 😂,1,0,Mystic Mango,0Juc2cL26mg,-0.17500000000000002,2018-01-28 12:23:22,False,True
+2018-01-28T12:30:02,IM SO EXITED!!!,1,0,Francina Dalisay,0Juc2cL26mg,0.0,2018-01-28 12:30:02,False,True
+2018-01-28T13:21:09,"*At the end of the film credits*  Castiel appears : Dean, I ---  *people look at him in horror*  Castiel: Oh, um, excuse me I was looking for your future grandchildren. Sorry to interrupt your convocation with my appearance.  *Disappears*  People: What the fu---",0,0,Brøbeck Crøw,0Juc2cL26mg,-0.18333333333333335,2018-01-28 13:21:09,False,True
+2018-01-28T17:59:02,There quote is the most haunted house in the world. Everyone knows the most haunted house in the world is the Vatican. :-) seek Jesus kids before you stand before him in judgement.,0,0,Tony Johnson,0Juc2cL26mg,0.5,2018-01-28 17:59:02,False,True
+2018-01-28T19:40:45,"I can't say that I genuinely expected this to be a Supernatural movie adaptation, but that doesn't mean I'm not still disappointed.",0,0,Henry M,0Juc2cL26mg,-0.24895833333333334,2018-01-28 19:40:45,False,True
+2018-01-28T21:10:43,My grandmother's ex husband (who passed away recently) was a Winchester. And related to Sarah Winchester. My Grandmother tells me this story all the time. Her ex husband would always tell her about it too. We plan on going to see this once it's released.,1,3,CheesyFries 2468,0Juc2cL26mg,0.0,2018-01-28 21:10:43,False,True
+2018-01-29T00:43:49,Gotta love that song,0,0,virginia rozza,0Juc2cL26mg,0.5,2018-01-29 00:43:49,False,True
+2018-01-29T03:12:24,All the people making cringey comments about an extremely overrated show obviously don’t live in the Bay Area. 🙄,0,0,I Reunited MCR,0Juc2cL26mg,0.0037878787878787845,2018-01-29 03:12:24,False,True
+2018-01-29T03:52:50,This is in my city. Lit,0,0,Mystix Phil,0Juc2cL26mg,0.0,2018-01-29 03:52:50,False,True
+2018-01-29T09:00:35,Did you smell sulphur?,0,0,gumelini1,0Juc2cL26mg,0.0,2018-01-29 09:00:35,False,True
+2018-01-29T09:17:10,Who do u call?😀         Ghost Busters!!!!💀,1,0,Crusty Static,0Juc2cL26mg,0.0,2018-01-29 09:17:10,False,True
+2018-01-29T18:46:28,I searched up this trailer just to see all the Supernatural comments and I wasn't disappointed 😆😄,0,0,Ama Cal,0Juc2cL26mg,-0.2916666666666667,2018-01-29 18:46:28,False,True
+2018-01-29T19:23:24,"They took one of the most legendary haunted house story and turned it into a cheap jump-scare adaptation, good job.",0,0,Ikmel A.A.A.,0Juc2cL26mg,0.6499999999999999,2018-01-29 19:23:24,False,True
+2018-01-29T21:51:47,Please call the Winchester brothers and Cass LOL!,0,0,Gene Llamido,0Juc2cL26mg,1.0,2018-01-29 21:51:47,False,True
+2018-01-29T22:33:16,gravity falls from disney: when dipper went to the mansion and the walls were bleeding😐😐😐,0,0,Denise Garcia,0Juc2cL26mg,0.0,2018-01-29 22:33:16,False,True
+2018-01-30T00:36:53,"Hey do you don,t gade my you tube",0,0,agung rahyudi,0Juc2cL26mg,0.0,2018-01-30 00:36:53,False,True
+2018-01-30T01:53:26,is this pg 13 or rated r?,0,0,Kaya Swan,0Juc2cL26mg,0.0,2018-01-30 01:53:26,False,True
+2018-01-30T03:50:24,"I just came here to see/read the comments, and I'm beyond happy. 🙌🏽",0,0,Maria Wilson,0Juc2cL26mg,0.8,2018-01-30 03:50:24,False,True
+2018-01-30T04:01:43,The 69 Chevy is ready for the next mission....maybe shes Great Grams Winchester! 😂 Sam & Dean...your history awaits 😎,0,0,zahra rizvi,0Juc2cL26mg,0.39999999999999997,2018-01-30 04:01:43,False,True
+2018-01-30T15:21:21,cant wait to see this movie ive always wanted to visit the winchester mansion even to stay a night in it or two if im not correct the winchester rifle was created by her husband but after her husband died she inherited her husbands belongings every one was buying winchester back then only problem the people that where killed by winchester rifles where sent to haunt her so she built a huge mansion with many rooms an many doors even doors leading to now where to appease the dead ghost that haunt her of the victims that where killed by winchester guns unfortunately she grew ill an died but the ghost still remain within the winchester mansion forever trapped in time.,0,0,George Rustic,0Juc2cL26mg,-0.03636363636363634,2018-01-30 15:21:21,False,True
+2018-01-30T16:08:34,Woah supernatural the movie!,1,0,WAMBOSHO maryan,0Juc2cL26mg,0.20833333333333331,2018-01-30 16:08:34,False,True
+2018-01-30T16:09:44,The Winchester's had a family home after all huh,0,0,WAMBOSHO maryan,0Juc2cL26mg,0.0,2018-01-30 16:09:44,False,True
+2018-01-30T16:18:46,Isolated stretch of land????? Are you kidding me? Sits in the middle of the city.,0,0,firemandave1821,0Juc2cL26mg,0.0,2018-01-30 16:18:46,False,True
+2018-01-30T17:01:53,Hmm another insidious exciting.genres getting bland.,0,0,axeman 36,0Juc2cL26mg,-0.16666666666666666,2018-01-30 17:01:53,False,True
+2018-01-30T17:07:14,Enter Winchester Movie Giveaway at http://www.MiamiGhostChronicles.com,0,0,Miami Ghost Chronicles,0Juc2cL26mg,0.0,2018-01-30 17:07:14,False,True
+2018-01-30T18:41:10,where are Sam and Dean?:)),0,0,SuperPolovic,0Juc2cL26mg,0.5,2018-01-30 18:41:10,False,True
+2018-01-30T19:31:26,Supernatural should make a movie. I'd watch it with Sam and Dean. This movie might be ok but with them it would be awesome!,0,0,SaltyLife,0Juc2cL26mg,0.5555555555555555,2018-01-30 19:31:26,False,True
+2018-01-30T23:08:41,Not scary at all,0,1,Naomi James,0Juc2cL26mg,0.25,2018-01-30 23:08:41,False,True
+2018-01-30T23:55:37,It is so unfair horror movies are often ridicularized by so called cinema critics. There is public for this kind of movies and they can be as good as any Meryl Streep movie. Respect horror moveis.,0,0,DD,0Juc2cL26mg,0.19999999999999998,2018-01-30 23:55:37,False,True
+2018-01-31T00:56:19,I need to watch this movie,0,0,TimingEgg 772,0Juc2cL26mg,0.0,2018-01-31 00:56:19,False,True
+2018-01-31T06:48:02,seems like a good movie to see,0,0,Jasper/Miles/Walter,0Juc2cL26mg,0.7,2018-01-31 06:48:02,False,True
+2018-01-31T11:24:37,Wow an oscar best actress winner and certified A-lister topbilling on a horror film! So exciting!,0,0,R2K,0Juc2cL26mg,0.4916666666666667,2018-01-31 11:24:37,False,True
+2018-01-31T12:48:23,Looks good,0,0,amy clarke,0Juc2cL26mg,0.7,2018-01-31 12:48:23,False,True
+2018-01-31T13:09:35,Is this a good movie?,0,0,shinyeon23,0Juc2cL26mg,0.7,2018-01-31 13:09:35,False,True
+2018-01-31T14:23:52,"Dean: ""SAAAAAAMMMMMM???!!!!!!!""",15,1,Greg Santana,0Juc2cL26mg,0.0,2018-01-31 14:23:52,False,True
+2018-01-31T18:33:44,"throwing on old wardrobes, opening doors.. I dont know.. a bit boring. Maybe horror movies have depleted themselves already?",0,0,Anna K,0Juc2cL26mg,-0.45,2018-01-31 18:33:44,False,True
+2018-01-31T19:00:52,Gonna see this tomorrow.. in the cinema,0,0,Lilja Rós Júlíusdóttir,0Juc2cL26mg,0.0,2018-01-31 19:00:52,False,True
+2018-01-31T19:47:55,Please stop making unskippable ads of this all over youtube there are some people who are easily scared and it's not nice for us,0,0,kiranDoobles,0Juc2cL26mg,0.06666666666666668,2018-01-31 19:47:55,False,True
+2018-01-31T23:01:55,"Based on a true story. And everyone just accepts that, with nothing else on offer. Supernatural horror theme must never claim truth in the title, as it instantly reduces it to cheap conjuring tricks on screen.  Leave it as fantasy, dont use the tired worn out cliche of True Story !!!!!!111 !! 11..... ill be giving this one a miss.",0,0,John Smith,0Juc2cL26mg,0.14523809523809522,2018-01-31 23:01:55,False,True
+2018-02-01T00:09:01,Looks shitty tbh,0,0,Nina DiMeglio,0Juc2cL26mg,0.0,2018-02-01 00:09:01,False,True
+2018-02-01T01:49:11,Can't believe people think this is  about Sam and dean lol.  The director got the idea of the show cause of the house and the gun company .,0,0,Alley COOPER,0Juc2cL26mg,0.8,2018-02-01 01:49:11,False,True
+2018-02-01T02:06:24,"Lol ""based on a true story"". The only thing that's true about this is the weird house built by her. No reports of ""hauntings"" or any of that nonsense. It's just a weirdly designed house.",0,0,Craig Perkey,0Juc2cL26mg,0.08333333333333333,2018-02-01 02:06:24,False,True
+2018-02-01T02:46:51,I live 15 minutes away from there😂,0,0,Ashley Ruiz,0Juc2cL26mg,0.13636363636363635,2018-02-01 02:46:51,False,True
+2018-02-01T03:09:14,Boner...,0,0,Jerry Maldonado,0Juc2cL26mg,0.0,2018-02-01 03:09:14,False,True
+2018-02-01T03:22:54,can somebody tell me if this movie has jump scares and is it scary overall?,0,0,Ilona Sit,0Juc2cL26mg,-0.25,2018-02-01 03:22:54,False,True
+2018-02-01T03:40:01,"That's the angry live spirit of Browning, since the Winchesters rip him off a big time. XDDD What that lousy medium didn't know is if the dead people want to curse they should be cursing John Browning, the designer of those guns.",0,0,RLDacia,0Juc2cL26mg,-0.21272727272727274,2018-02-01 03:40:01,False,True
+2018-02-01T04:08:55,i should watch the movie then go to the house 💀,0,0,marco v,0Juc2cL26mg,0.0,2018-02-01 04:08:55,False,True
+2018-02-01T04:13:00,as a kid that used to be fuckin obsessed with that haunted whatever show on the History Channel ...I'M SO READY FOR THIS,0,0,Xoco World,0Juc2cL26mg,-0.15,2018-02-01 04:13:00,False,True
+2018-02-01T04:59:32,"i've been in the actual house in san jose, CA",0,0,Aimee Morris,0Juc2cL26mg,0.0,2018-02-01 04:59:32,False,True
+2018-02-01T16:14:47,"looks like stuff we have seen many times before, the Others comes to mind, Hollywood is so lazy",1,0,perry mahaney,0Juc2cL26mg,0.125,2018-02-01 16:14:47,False,True
+2018-02-01T17:21:54,Who's from the bay area and has visited there?? 💁🏻,0,0,Dayna Davis,0Juc2cL26mg,0.0,2018-02-01 17:21:54,False,True
+2018-02-01T17:24:03,"The first time I saw this trailer I was actually watching Supernatural and it came on in the ad break😂 I love how none of the comments are actually about the movie, it's just the Supernatural fandom.",7,0,Linnea Moras,0Juc2cL26mg,0.18055555555555555,2018-02-01 17:24:03,False,True
+2018-02-01T18:07:00,Why was there a trailer for the trailer?,0,0,WhiteNun,0Juc2cL26mg,0.0,2018-02-01 18:07:00,False,True
+2018-02-01T18:18:20,omg I can waiting awesomeness,0,0,LUCIANA THOMAS,0Juc2cL26mg,0.0,2018-02-01 18:18:20,False,True
+2018-02-01T19:46:54,does anyone remember rose red?,4,1,Jacob Bonlender,0Juc2cL26mg,0.3,2018-02-01 19:46:54,False,True
+2018-02-01T20:29:17,Why do these ghost movies have to have so many special effects and sounds and jumpscares? just make a handheld movie like the Blair Witch those are scarier.,0,0,Trever M,0Juc2cL26mg,0.4285714285714286,2018-02-01 20:29:17,False,True
+2018-02-01T21:19:53,WHY? WHY DO KIDS HAVE TO START SINGING IN STRESSFUL SITUATIONS!,18,1,Shmoolix,0Juc2cL26mg,0.0,2018-02-01 21:19:53,False,True
+2018-02-01T21:22:42,"Now yes, I'm 11, but I'm watching this at Regal Cinemas tomorrow.",0,0,Sk8r Gamer,0Juc2cL26mg,0.0,2018-02-01 21:22:42,False,True
+2018-02-02T01:06:28,Truly in a reawakening of horror genre for film as all these Oscar actors are appearing in horror movies left and right.,0,0,Chris M,0Juc2cL26mg,0.14285714285714285,2018-02-02 01:06:28,False,True
+2018-02-02T01:23:03,Missing Winchester boys,0,0,Palani Kumar Raaj,0Juc2cL26mg,-0.2,2018-02-02 01:23:03,False,True
+2018-02-02T02:02:51,I live right by this house and ive never been inside 🙃 time to watch the movie ig 😂,0,0,mauro bucio,0Juc2cL26mg,0.21103896103896103,2018-02-02 02:02:51,False,True
+2018-02-02T05:09:39,"I just watched movie, it was scary & awesome 👏",0,0,Adithya Kanike,0Juc2cL26mg,0.25,2018-02-02 05:09:39,False,True
+2018-02-02T05:28:09,"Just seen the first midnight show. I'd give it 6/10. Horror is less, it's more story oriented which wasn't so appealing. I don't recommend this movie. I'd rather watch insidious",0,0,TheWarfare07,0Juc2cL26mg,0.27083333333333337,2018-02-02 05:28:09,False,True
+2018-02-02T05:41:42,I'm very satisfied alot of the comments here are about the comments lmao,0,0,LeoD,0Juc2cL26mg,0.625,2018-02-02 05:41:42,False,True
+2018-02-02T10:14:25,I thought for ages when this was advertised that it was about the UK town Winchester which is the most unthreatening place  I've ever been.,0,0,Isabelle Taylor,0Juc2cL26mg,0.5,2018-02-02 10:14:25,False,True
+2018-02-02T10:47:35,woah,0,0,Az Rael,0Juc2cL26mg,0.0,2018-02-02 10:47:35,False,True
+2018-02-02T14:04:33,"This movie is criminal. To take a fascinating person/true story and dumb it down into a bad, stereotypical horror movie is truly sad. Hopefully the director never gets work again! >:C",0,0,vvvVFANGSVvvv,0Juc2cL26mg,-0.2936507936507936,2018-02-02 14:04:33,False,True
+2018-02-02T14:19:42,Glad to see supreme leader Snoke found work after the last Jedi....,0,0,Kenneth Butler,0Juc2cL26mg,0.25,2018-02-02 14:19:42,False,True
+2018-02-02T15:00:44,Can u say Rose Red?,0,0,Autumn Bonner,0Juc2cL26mg,0.3,2018-02-02 15:00:44,False,True
+2018-02-02T17:42:06,Does anyone know what that song the boy sings is?,0,0,Angelica Graves,0Juc2cL26mg,0.0,2018-02-02 17:42:06,False,True
+2018-02-02T18:57:22,"head to the Winchester, have a cold pint and wait for the whole thing to blow over",5,1,oxyo,0Juc2cL26mg,-0.19999999999999998,2018-02-02 18:57:22,False,True
+2018-02-02T19:51:01,What was the poison???,0,0,Omnipresent One,0Juc2cL26mg,0.0,2018-02-02 19:51:01,False,True
+2018-02-02T21:11:36,God bless the MoviePass,0,0,and so,0Juc2cL26mg,0.0,2018-02-02 21:11:36,False,True
+2018-02-02T21:11:49,God bless the MoviePass,1,0,and so,0Juc2cL26mg,0.0,2018-02-02 21:11:49,False,True
+2018-02-02T22:41:14,dean winchester sam winchester,0,0,Solvi Thor,0Juc2cL26mg,0.0,2018-02-02 22:41:14,False,True
+2018-02-02T23:26:24,"If probably laugh whilst watching the entire thing, because of know that sam and dean (and cas if he was in the ""episode"") would totally finish that house like no big deal",0,0,Llama,0Juc2cL26mg,0.075,2018-02-02 23:26:24,False,True
+2018-02-02T23:52:19,"Amazing performances by the cast, it has its few scary well placed moments in between a psychological horror story. That kid, damn his possession was the scariest part of the story. Well done atmospheric setting for the story, it reminded me of the Lady In Black as well.",0,0,Wolfen443,0Juc2cL26mg,-0.04444444444444443,2018-02-02 23:52:19,False,True
+2018-02-02T23:53:12,Snook!!,0,0,sorel edwin suarez,0Juc2cL26mg,0.0,2018-02-02 23:53:12,False,True
+2018-02-03T00:35:18,"saving people, hunting things...",0,0,Roronoa Zoro,0Juc2cL26mg,0.0,2018-02-03 00:35:18,False,True
+2018-02-03T03:20:07,99.98% of Hollywood,0,0,Jayd Lor,0Juc2cL26mg,0.0,2018-02-03 03:20:07,False,True
+2018-02-03T03:46:28,"DO NOT SEE THIS MOVIE!! IT IS LITERALLY THE MOST SCATTERBRAINED, NON ATMOSPHERIC, JUMPSCARED FILLED PIECE OF TRASH I HAVE EVER SEEN. I HOPE YOU HEAD MY WARNING.  SINCERELY.",2,0,The Sadist Philosopher,0Juc2cL26mg,0.35,2018-02-03 03:46:28,False,True
+2018-02-03T03:50:39,Sure hope this movie isn't as straight forward as the trailer looks. Locked away spirits. Spirits get out and are mean. Give me something a little more than that,0,0,Jsh Shh,0Juc2cL26mg,0.13999999999999999,2018-02-03 03:50:39,False,True
+2018-02-03T04:42:00,Jerk,0,0,Goldenfreckle,0Juc2cL26mg,0.0,2018-02-03 04:42:00,False,True
+2018-02-03T05:31:44,I’m kinda excited to see this movie! I am related to Sarah Winchester by my great great grandma they were cousins. Unneeded info I know but just a neat fact.,0,0,arraya scarlett,0Juc2cL26mg,0.5171875,2018-02-03 05:31:44,False,True
+2018-02-03T05:42:16,Just saw it...decent film but i'd rather waited for Netflix.,0,0,skfj67,0Juc2cL26mg,0.0,2018-02-03 05:42:16,False,True
+2018-02-03T05:55:43,Salt n burn first blade or silver bullets,0,0,Markm658,0Juc2cL26mg,0.25,2018-02-03 05:55:43,False,True
+2018-02-03T06:29:35,If anyone has seen the movie. Is it good is it worth it?,0,1,Malicia Suarez,0Juc2cL26mg,0.5,2018-02-03 06:29:35,False,True
+2018-02-03T09:54:22,"Apparently, critics are calling this a film.",0,0,The Vicious Chicken of Bristol,0Juc2cL26mg,0.05,2018-02-03 09:54:22,False,True
+2018-02-03T11:20:56,It was a Good Movie👍  I've Finished watching it,0,0,Chamin M,0Juc2cL26mg,0.7,2018-02-03 11:20:56,False,True
+2018-02-03T11:23:29,"wait..i can't see Sam n Dean, where are they? -_-",0,0,Suzee03,0Juc2cL26mg,0.0,2018-02-03 11:23:29,False,True
+2018-02-03T11:26:35,this movie is awsome...........the most haunted Mansion in north AMERICA,0,0,malakas akosayo,0Juc2cL26mg,0.5,2018-02-03 11:26:35,False,True
+2018-02-03T18:07:37,WOAH I WANNA SEE THIS MOVIE,0,0,Hydrogen Perioxide,0Juc2cL26mg,0.0,2018-02-03 18:07:37,False,True
+2018-02-03T18:07:57,WTF HOW HAVE I NEVER HEARD ABOUT THIS,0,0,Hydrogen Perioxide,0Juc2cL26mg,-0.5,2018-02-03 18:07:57,False,True
+2018-02-03T18:18:39,is this a good movie,0,1,Esmeralda Reyes,0Juc2cL26mg,0.7,2018-02-03 18:18:39,False,True
+2018-02-03T18:19:22,anyone,0,0,Esmeralda Reyes,0Juc2cL26mg,0.0,2018-02-03 18:19:22,False,True
+2018-02-03T18:20:07,Only supernatural fans are on these comments lol,0,0,chicken nuggets lol,0Juc2cL26mg,0.32222222222222224,2018-02-03 18:20:07,False,True
+2018-02-03T18:26:42,it’s so cool that this is a movie because the actual winchester mystery house is only 15 minutes away from me! i kinda wish they told more of the real story instead of completely making it a horror film but i guess they did that to make it more entertaining haha,0,0,brittisnotokay,0Juc2cL26mg,0.2611111111111112,2018-02-03 18:26:42,False,True
+2018-02-03T20:40:20,Supernatural anyone?,1,0,Sam Edwards,0Juc2cL26mg,0.16666666666666666,2018-02-03 20:40:20,False,True
+2018-02-03T20:44:39,I’m out,1,0,Ben Quinney,0Juc2cL26mg,0.0,2018-02-03 20:44:39,False,True
+2018-02-03T23:07:49,this looks like a scarier version of twitches,0,0,Emily Arrington,0Juc2cL26mg,0.0,2018-02-03 23:07:49,False,True
+2018-02-04T00:55:01,Obligatory Supernatural comment about Sam and Dean,0,0,Durty Dan,0Juc2cL26mg,0.16666666666666666,2018-02-04 00:55:01,False,True
+2018-02-04T01:06:01,"Thought this would be a spn spinoff, watched the trailer with great sadness",0,0,Louise Kim,0Juc2cL26mg,0.8,2018-02-04 01:06:01,False,True
+2018-02-04T01:46:52,"Will Winchester be out in Australia same time? Read the book 37yrs ago,  Took long enough to make movie. Really look forward to seeing this movie and the cast seems superb.",0,0,Lorraine Dovey,0Juc2cL26mg,0.22999999999999998,2018-02-04 01:46:52,False,True
+2018-02-04T02:33:07,"AYYE I’m the 12,000,000th view",0,0,Chrith,0Juc2cL26mg,0.0,2018-02-04 02:33:07,False,True
+2018-02-04T02:47:23,This movie seems a lot like the movie 13 Ghost. Big house. 13 locked evil ghost. One by one unlocked. Hmm... 🤔,0,0,Jacqueline C,0Juc2cL26mg,-0.5,2018-02-04 02:47:23,False,True
+2018-02-04T05:43:57,They need to call Sam and Dean,0,0,tanjiro.mp4,0Juc2cL26mg,0.0,2018-02-04 05:43:57,False,True
+2018-02-04T10:26:53,I see the entire Supernatural fandom here but where is my BUZZFEED UNSOLVED fandom. Our boys rocked their visit there,0,0,Kerthana Devi,0Juc2cL26mg,0.08333333333333333,2018-02-04 10:26:53,False,True
+2018-02-04T14:42:18,Worth going to watch at the big screen?,0,0,Tony Hernandez,0Juc2cL26mg,0.15,2018-02-04 14:42:18,False,True
+2018-02-04T15:00:09,9% rotten tomatoes  LOL,0,0,thetrialshot,0Juc2cL26mg,0.8,2018-02-04 15:00:09,False,True
+2018-02-04T15:09:19,"When I saw the name, Supernatural was the immediate name that came to my mind. And as I am here, there are already loads of Sam and Dean comments.",0,0,Bluebell 30,0Juc2cL26mg,0.16666666666666666,2018-02-04 15:09:19,False,True
+2018-02-04T17:27:38,"I actually reviewed this film, and I would love to hear some feedback.  Please check out my video here: https://youtu.be/lIA8uNa0Pas",0,0,Pillot Productions,0Juc2cL26mg,0.25,2018-02-04 17:27:38,False,True
+2018-02-04T17:33:36,I watch that movie and it wasn’t scary,0,0,Yiosney Valdés Arango,0Juc2cL26mg,-0.5,2018-02-04 17:33:36,False,True
+2018-02-04T19:45:34,"I just saw this today, it starts slow and boring, very hard to believe any of it really happened. I've been there, it's  a neat and quirky house. Kept me entertained for 90 min at least",5,0,Nicole Macal,0Juc2cL26mg,-0.2965277777777778,2018-02-04 19:45:34,False,True
+2018-02-04T20:21:58,"I came for feedback from those who've actually seen the movie. Instead, I get a thousand people who say the exact same thing - a joke about a show I've never seen. I've never been more disappointed.",57,3,sedition_society,0Juc2cL26mg,0.0,2018-02-04 20:21:58,False,True
+2018-02-04T23:49:04,Came to see the proper trailer so YouTube will stop forcing me to watch it in the ads,0,0,Ella Seber-Rajan,0Juc2cL26mg,0.0,2018-02-04 23:49:04,False,True
+2018-02-04T23:57:25,😴,0,0,Toonces Here,0Juc2cL26mg,0.0,2018-02-04 23:57:25,False,True
+2018-02-05T00:59:18,The trailer gave me everything I needed for this movie.  Thanks!  No need to pay for the movie now,0,0,John Galt,0Juc2cL26mg,0.25,2018-02-05 00:59:18,False,True
+2018-02-05T01:35:30,"Just watched it, it’s a decent movie.",0,0,Cherry Blossom,0Juc2cL26mg,0.16666666666666666,2018-02-05 01:35:30,False,True
+2018-02-05T05:43:48,0:10---->Kodaline :v,0,0,Rio Kaloka,0Juc2cL26mg,0.0,2018-02-05 05:43:48,False,True
+2018-02-05T08:11:00,"I SAW THIS MOVIE,I WAS ON SEAT THREW OUT THE MOVIE, ALOT OF JUMP SCARES!!",0,0,bigga,0Juc2cL26mg,0.0,2018-02-05 08:11:00,False,True
+2018-02-05T13:03:32,Lock for oscar best picture,0,0,Walter White,0Juc2cL26mg,1.0,2018-02-05 13:03:32,False,True
+2018-02-05T18:13:28,plot twist castiel joins the hunt,0,0,zaandarbrow,0Juc2cL26mg,0.0,2018-02-05 18:13:28,False,True
+2018-02-05T19:08:27,who is sam and dean?,0,0,Kevs Stream,0Juc2cL26mg,0.0,2018-02-05 19:08:27,False,True
+2018-02-05T19:39:38,Im here for Sam and Dean 🖤,0,0,Shakreen Shameem,0Juc2cL26mg,0.0,2018-02-05 19:39:38,False,True
+2018-02-06T01:40:36,Thanks this is useful I'm about to go watch it,0,0,Hey It’s Ed,0Juc2cL26mg,0.25,2018-02-06 01:40:36,False,True
+2018-02-06T02:29:35,Not scary at all,0,0,SNIPERZ ZAPzteROiD,0Juc2cL26mg,0.25,2018-02-06 02:29:35,False,True
+2018-02-06T08:10:02,"You could make a genuinely creepy atmospheric character study from this story, but this looks like yet another dogshit Insidious rip-off with a jumpscare every 15 seconds to keep the audience from falling asleep. What's with the stupid sounds, are horror filmmakers really so desperate? It's not scary, just headache inducing.",0,0,Mattchester,0Juc2cL26mg,-0.3416666666666666,2018-02-06 08:10:02,False,True
+2018-02-06T12:35:09,Nice try Hollywood with your antigun bull crap.,0,0,J 96Rongway,0Juc2cL26mg,-0.10000000000000003,2018-02-06 12:35:09,False,True
+2018-02-06T16:06:32,Double toasted brought me here,0,0,Ziad Obaid,0Juc2cL26mg,0.0,2018-02-06 16:06:32,False,True
+2018-02-06T19:22:08,Can someone tell me who the motherfuck Sam and Dean are?,0,0,Luke Cague,0Juc2cL26mg,0.0,2018-02-06 19:22:08,False,True
+2018-02-06T22:34:19,"""Ghost Hunt"" anyone?",0,0,Elise Not Elsie,0Juc2cL26mg,0.0,2018-02-06 22:34:19,False,True
+2018-02-06T23:13:18,This is a true story right,0,0,Ruthless l3g3nd,0Juc2cL26mg,0.31785714285714284,2018-02-06 23:13:18,False,True
+2018-02-07T03:03:10,It's crazy to think I live just a few miles away from the real deal,0,0,Alejandro Mondragon,0Juc2cL26mg,-0.11590909090909089,2018-02-07 03:03:10,False,True
+2018-02-07T03:24:58,Dam i heard of this story in scary true paranormal stories in youtubers so i really wanna watch it,1,0,hcj 12345,0Juc2cL26mg,0.016666666666666663,2018-02-07 03:24:58,False,True
+2018-02-07T07:41:45,"Yikes. Really, turning a unique real-life story into another cheesy haunted-house flick? Sigh.",0,0,zeppy13131,0Juc2cL26mg,0.024999999999999984,2018-02-07 07:41:45,False,True
+2018-02-07T09:46:12,Yaas! Im goin to watch it.,0,0,itsjustsarah,0Juc2cL26mg,0.0,2018-02-07 09:46:12,False,True
+2018-02-07T11:46:28,Buzzfeed unsolved anyone??,0,0,potaessium,0Juc2cL26mg,0.0,2018-02-07 11:46:28,False,True
+2018-02-07T18:48:53,I thought Castiel gonna appears. I'm disappointed.,0,0,T Jimmy,0Juc2cL26mg,-0.75,2018-02-07 18:48:53,False,True
+2018-02-07T19:07:47,Over the top. David Fincher would make something dark!! And subtle. This looks like a haunted house ride in Universal studios.,0,0,dobly58,0Juc2cL26mg,-0.01692708333333333,2018-02-07 19:07:47,False,True
+2018-02-07T20:20:17,Is this a remake of rose red???,0,0,Jon,0Juc2cL26mg,0.3,2018-02-07 20:20:17,False,True
+2018-02-07T21:48:22,we lived real close yeah its scary house,0,0,tia panda,0Juc2cL26mg,-0.15,2018-02-07 21:48:22,False,True
+2018-02-07T23:13:35,To anyone who has watched this movie how good do you think it is /10?,0,1,Axel,0Juc2cL26mg,0.7,2018-02-07 23:13:35,False,True
+2018-02-08T12:54:15,Chills !! 👻💀,1,0,P.j. W,0Juc2cL26mg,0.0,2018-02-08 12:54:15,False,True
+2018-02-08T13:47:55,Fed up with the spirits and haunted houses movies! Enough already,0,1,salbeh99,0Juc2cL26mg,0.0,2018-02-08 13:47:55,False,True
+2018-02-09T00:23:32,There should be a movie about the infinitely larger number of people killed with knives and hammers.  It could take place in a haunted Sears.,0,0,Necessary Evil,0Juc2cL26mg,-0.1,2018-02-09 00:23:32,False,True
+2018-02-09T01:06:32,I enjoyed seeing this film!,0,0,Karan Bains,0Juc2cL26mg,0.625,2018-02-09 01:06:32,False,True
+2018-02-09T06:12:23,does the house in this movie remind anyone else of hello neighbour?,0,0,Adam,0Juc2cL26mg,0.0,2018-02-09 06:12:23,False,True
+2018-02-09T06:20:42,Sam and den should of been in here I would of ran to watch it. In fact they need to be in more horror movies sense I’m actually getting bored of horror movies. Lmao,0,0,Welcomedcompany 101,0Juc2cL26mg,0.15,2018-02-09 06:20:42,False,True
+2018-02-09T07:46:28,"Cant wait to tell the gf we are watching this tomorrow nd show her the trailer,  shes gonna be shitting herself",0,0,Nazza Khan,0Juc2cL26mg,0.0,2018-02-09 07:46:28,False,True
+2018-02-09T15:30:10,Just finished watching Stephen Kings Rose Red after seeing this  Rose Red deserves an award after this lol 😂,0,0,JUSTIN P COULTRUP,0Juc2cL26mg,0.4,2018-02-09 15:30:10,False,True
+2018-02-09T17:02:13,Every horror movie trailer is the same,0,0,Josh DeRoche,0Juc2cL26mg,0.0,2018-02-09 17:02:13,False,True
+2018-02-09T19:27:11,Helen Mirren had to depart from her usual roles since there aren’t many roles for women her age or any woman in Hollywood anyway.,0,0,altarush,0Juc2cL26mg,0.125,2018-02-09 19:27:11,False,True
+2018-02-10T09:03:26,Australia is stepping up it's game,0,0,Verona Gashi,0Juc2cL26mg,-0.4,2018-02-10 09:03:26,False,True
+2018-02-10T09:31:56,"Based on true event, Saw the ghost story behind around the puzzle house.",0,0,kw ngkdo,0Juc2cL26mg,-0.025000000000000022,2018-02-10 09:31:56,False,True
+2018-02-10T11:56:34,Would love to tour that place.!!,0,0,Melissa Johnson,0Juc2cL26mg,0.78125,2018-02-10 11:56:34,False,True
+2018-02-10T13:16:21,This movie is exactly like the movie called: the 13 ghosts,2,0,RoboTerminator,0Juc2cL26mg,0.25,2018-02-10 13:16:21,False,True
+2018-02-10T14:48:30,So......who's gonna call Sam and Dean?,0,0,Aria Ats,0Juc2cL26mg,0.0,2018-02-10 14:48:30,False,True
+2018-02-10T14:52:12,"I came here thinking it would be smart to write a comment about Supernatural, but there you all are before me!      Love you guys💙 #SPNfamily",0,0,Aria Ats,0Juc2cL26mg,0.3075396825396825,2018-02-10 14:52:12,False,True
+2018-02-10T16:10:38,I don’t know why this movie has low ratings. I watched it in the theaters last night and I absolutely loved it!,1,1,Skyler Kelley,0Juc2cL26mg,0.2916666666666667,2018-02-10 16:10:38,False,True
+2018-02-10T19:29:37,http://regarder-online.com/2018/02/10/winchester-2018/,0,0,Free Onions,0Juc2cL26mg,0.0,2018-02-10 19:29:37,False,True
+2018-02-10T21:29:09,This looks very interesting,0,0,Gaby Chuels,0Juc2cL26mg,0.65,2018-02-10 21:29:09,False,True
+2018-02-10T22:09:23,I’m seeing the movie in like 2 hours I’m terrified,0,0,taylor whited,0Juc2cL26mg,0.0,2018-02-10 22:09:23,False,True
+2018-02-10T22:30:01,this trailer makes me laugh,0,0,J. Hon,0Juc2cL26mg,0.3,2018-02-10 22:30:01,False,True
+2018-02-10T23:11:13,Who else is watching this while sitting on the toilet? Hmmmm?,0,0,Patrick Molina,0Juc2cL26mg,-0.03333333333333333,2018-02-10 23:11:13,False,True
+2018-02-10T23:30:12,The real Winchester houses in San Jose by the way,0,0,Isaiah Navarro,0Juc2cL26mg,0.2,2018-02-10 23:30:12,False,True
+2018-02-11T04:01:33,"oi rhis movie was to scary, i just came here to show my brothwr who didnt want to go, go watch it before it sells out rated. :D",0,0,LonelyStar,0Juc2cL26mg,0.25,2018-02-11 04:01:33,False,True
+2018-02-11T04:08:13,Damn good movie,1,0,killer clone,0Juc2cL26mg,0.7,2018-02-11 04:08:13,False,True
+2018-02-11T10:11:26,"I need five flannel shirts, seven pies and ten hamburgers. DO NOT ASK QUESTIONS, QUICKLY",0,0,Beata Gut,0Juc2cL26mg,0.16666666666666666,2018-02-11 10:11:26,False,True
+2018-02-11T11:36:28,"This is my great great great, etc grandmother",1,0,Drew Winchester,0Juc2cL26mg,0.8000000000000002,2018-02-11 11:36:28,False,True
+2018-02-11T14:53:41,Omg YES SUPERNATURAL FANDOM 😂😂👍🏻 we are taking over the comment section😂❤️,0,0,Alex Lynne,0Juc2cL26mg,0.16666666666666666,2018-02-11 14:53:41,False,True
+2018-02-11T15:16:40,Saw this at midnight at the movies and it was so good I screamed a lot tho but if u love scary movies you’ll love this‼️,0,0,susie aquino,0Juc2cL26mg,0.3,2018-02-11 15:16:40,False,True
+2018-02-11T16:30:23,The year’s best comedy so far!,0,0,poohandtigger videosinc,0Juc2cL26mg,0.5625,2018-02-11 16:30:23,False,True
+2018-02-11T18:52:50,It isn’t that scary,0,0,Yissel Gomez,0Juc2cL26mg,-0.5,2018-02-11 18:52:50,False,True
+2018-02-11T19:57:39,"I'm in the theater waiting to watch, ahhhh!",1,0,YEE HAWS,0Juc2cL26mg,0.0,2018-02-11 19:57:39,False,True
+2018-02-11T20:05:27,am i the only one who thought this was very boring,0,0,Dylo,0Juc2cL26mg,-0.5,2018-02-11 20:05:27,False,True
+2018-02-11T21:48:40,"10/10. SO DOPE. I've seen most of top horror films, only this one has left me without any septicism, plus it features the style of 1920s (like in Bioshock Infinite, which is uncommon). I, for sure, would watch it again",0,0,Adele D,0Juc2cL26mg,0.3833333333333333,2018-02-11 21:48:40,False,True
+2018-02-13T07:20:15,"Anyone know the name of the song the kid is singing?? Can't find it anywhere and like a pirates steering wheel belt buckle, it's driving me nuts...",0,0,Calibear76,0Juc2cL26mg,0.0,2018-02-13 07:20:15,False,True
+2018-02-13T12:05:51,"I walked out of this film. Predictable, not scary and boring... Wait until it's on Netflix or online. 2/10",0,0,Dante Burns,0Juc2cL26mg,-0.31666666666666665,2018-02-13 12:05:51,False,True
+2018-02-13T12:44:12,Can't wait to see it 😨,0,0,Anthony Mcdonagh,0Juc2cL26mg,0.0,2018-02-13 12:44:12,False,True
+2018-02-13T15:29:12,"had a movie like this ( I believe in the late 90's) named ROSE RED, this looks like a remake!",0,0,Christiaan Bobbink,0Juc2cL26mg,0.09999999999999999,2018-02-13 15:29:12,False,True
+2018-02-13T18:53:15,Lame at best,0,0,Kayla Ann Ocampo,0Juc2cL26mg,0.25,2018-02-13 18:53:15,False,True
+2018-02-14T04:40:04,If I'm not wrong the Winchester mansion is real and its like a huge maze its supposed to be the world most haunted house.,0,0,socialis_anxietatem,0Juc2cL26mg,0.3375,2018-02-14 04:40:04,False,True
+2018-02-14T08:48:21,Rose Red..... Stephen King.,0,0,Herman Bekkema,0Juc2cL26mg,0.3,2018-02-14 08:48:21,False,True
+2018-02-14T12:23:28,At least they don't burn women on the ceiling....,0,0,Elena Greenleaf,0Juc2cL26mg,-0.3,2018-02-14 12:23:28,False,True
+2018-02-14T12:31:48,Reminds me of Rose Red except Rose Red is an adaptation from this story however reminds me of Rose Red.,0,0,Metalsnake,0Juc2cL26mg,0.3,2018-02-14 12:31:48,False,True
+2018-02-14T15:46:46,Where is SAM and dean winchester when you need them?,0,0,Brian TheTroll,0Juc2cL26mg,0.0,2018-02-14 15:46:46,False,True
+2018-02-14T15:56:06,*when you watch the movie already and knows what happens but the trailer still scares you*,1,2,goose,0Juc2cL26mg,0.0,2018-02-14 15:56:06,False,True
+2018-02-14T20:05:52,"saving lives, hunting things...family business!!",0,0,Cheche C.,0Juc2cL26mg,0.0,2018-02-14 20:05:52,False,True
+2018-02-14T21:27:20,When the trailer shows you the entire movie...,0,0,VeganVendetta01,0Juc2cL26mg,0.0,2018-02-14 21:27:20,False,True
+2018-02-14T22:31:21,This film is a good drama murder mystery  film ghost story.,0,0,Patrick McHale,0Juc2cL26mg,0.7,2018-02-14 22:31:21,False,True
+2018-02-14T22:41:51,But where are Sam and Dean ???0,0,0,Dorythefish,0Juc2cL26mg,0.0,2018-02-14 22:41:51,False,True
+2018-02-14T23:14:32,I think I'll check this out,0,0,Jinx Palm,0Juc2cL26mg,0.0,2018-02-14 23:14:32,False,True
+2018-02-14T23:43:53,Winchester family origin story amirite?,0,0,TheWalkingDiaries,0Juc2cL26mg,0.0,2018-02-14 23:43:53,False,True
+2018-02-15T02:06:05,I live in San Jose where the house is,0,0,Jessica Larios,0Juc2cL26mg,0.13636363636363635,2018-02-15 02:06:05,False,True
+2018-02-15T03:13:37,Rotten Tomatoes gave it 10%. I took the wifey anyway.  We liked it. Just scary enough. Helen Mirren was lovely as always.,0,0,razumfrackle,0Juc2cL26mg,0.15,2018-02-15 03:13:37,False,True
+2018-02-15T04:05:10,Looks like how Sam and Dean's family was in the hunting business,0,0,Halfbreed Gaming,0Juc2cL26mg,0.0,2018-02-15 04:05:10,False,True
+2018-02-15T06:48:29,Sam and Dean's ancestor?  Lol,0,0,ninafrost,0Juc2cL26mg,0.8,2018-02-15 06:48:29,False,True
+2018-02-15T08:03:42,I went to see Winchester it was a pretty good movie from Gswift The Transformer,0,0,Charles Lewis,0Juc2cL26mg,0.475,2018-02-15 08:03:42,False,True
+2018-02-15T11:31:06,"Sam: Dean?  Dean: Sup? Sam: It’s looks like we have another ghost case. Dean: ........ Sam: But this time it’s based on our family. Dean: Crap, here we go..... again.",0,0,Esther - k,0Juc2cL26mg,-0.8,2018-02-15 11:31:06,False,True
+2018-02-15T11:31:20,"Sam: Dean?  Dean: Sup? Sam: It’s looks like we have another ghost case. Dean: ........ Sam: But this time it’s based on our family. Dean: Crap, here we go..... again.",0,0,Esther - k,0Juc2cL26mg,-0.8,2018-02-15 11:31:20,False,True
+2018-02-15T14:41:02,"So.....is this ""Mrs Winchester"" the grandma of Dean and Sam?",0,0,Lucius Bai,0Juc2cL26mg,0.0,2018-02-15 14:41:02,False,True
+2018-02-15T15:59:16,"Hurry, call Sam and Dean!",0,0,heyleahh_,0Juc2cL26mg,0.0,2018-02-15 15:59:16,False,True
+2018-02-15T16:26:02,"""We're going to the WINCESTHER,"" said Shaun to Liz.",0,0,ferdy felmaspora,0Juc2cL26mg,0.0,2018-02-15 16:26:02,False,True
+2018-02-15T17:37:46,"0:44 - ""Do you believe in ghosts?""            ""If there's a steady paycheck in it, I'll believe anything you say.""",0,0,Garrett Carter,0Juc2cL26mg,0.16666666666666666,2018-02-15 17:37:46,False,True
+2018-02-15T22:13:42,The movie was good just wish the theater put the speakers loud like they usually do. But also laugh when people thought it wasnt based on a true event until they saw the ending. Yeah it is only difference is hollywood also be dramatic with the stories,0,0,GoldenSkii Games,0Juc2cL26mg,0.10952380952380948,2018-02-15 22:13:42,False,True
+2018-02-15T23:49:30,The majority of the comments are about Sam and Dean! I love it!!!!  So this is the road so far?,0,0,モナリサ,0Juc2cL26mg,0.55,2018-02-15 23:49:30,False,True
+2018-02-16T00:38:35,This is house in hello neighbir,0,0,Lunatic Monday,0Juc2cL26mg,0.0,2018-02-16 00:38:35,False,True
+2018-02-16T09:01:26,Am I the only one thinking of Rose Red here?,0,0,Shaun Renfer,0Juc2cL26mg,0.19999999999999998,2018-02-16 09:01:26,False,True
+2018-02-16T21:52:33,I’m thinking of seeing this movie but has anyone seen it and can tell me if it’s good or not,0,0,Maddy,0Juc2cL26mg,0.7,2018-02-16 21:52:33,False,True
+2018-02-17T01:59:22,I'm so glad people love Supernatural. When it came out I thought it would be cancelled by midseason.  It's good to be so wrong.,0,0,Bosh B,0Juc2cL26mg,0.2733333333333333,2018-02-17 01:59:22,False,True
+2018-02-17T02:01:09,"I watched this movie a day or two after it came out and it was absolutely horrible. It’s called a horror movie but all it had was 5 or 6 cheap jump scares (only one or two of which actually made me jump). It took way too long to get to the actual meat and bones of the movie and the ending was a huge letdown, I just sat there thinking “that’s it?” I was already aware of the events that inspired this movie and I was so excited to go watch it. After leaving the theatre I’ve begun to think your average buzzfeed unsolved episode instils more fear into the viewer than this completely lacklustre “horror” movie.",0,0,No Way,0Juc2cL26mg,0.06875,2018-02-17 02:01:09,False,True
+2018-02-17T02:25:59,You know you're from San Jose if you've never been inside the Winchester Mystery House.,1,1,Gavin Broedner,0Juc2cL26mg,0.0,2018-02-17 02:25:59,False,True
+2018-02-17T03:09:47,This is a milk run for Sam and Dean.,0,0,Y Shekster,0Juc2cL26mg,0.0,2018-02-17 03:09:47,False,True
+2018-02-17T04:33:41,Terrific. Now I have to find out who Sam and Dean are.,0,0,Fritz Idler,0Juc2cL26mg,0.0,2018-02-17 04:33:41,False,True
+2018-02-17T18:17:13,Dean and Sam are on the way... just be inside the circle ok?,3,0,mathimatikos.,0Juc2cL26mg,0.5,2018-02-17 18:17:13,False,True
+2018-02-17T19:22:53,"Came here to watch a 2-minutes trailer, ended up spending 20 minutes reading Sam and Dean Winchester's comments <3",5,0,Salma Mo,0Juc2cL26mg,1.0,2018-02-17 19:22:53,False,True
+2018-02-17T20:05:11,*So get this...*,0,0,Jensen Collins,0Juc2cL26mg,0.0,2018-02-17 20:05:11,False,True
+2018-02-17T21:19:18,i came here to see if anyone was saying that they are from san jose (where the winchester house is) but i guess no one is from here besides me 💗,0,0,bayareaa. nellie,0Juc2cL26mg,0.0,2018-02-17 21:19:18,False,True
+2018-02-18T12:10:26,Lol like all of the comments are about supernatural. I love our fandom! But seriously they just need to call Sam and Dean and they will fix it in no time!,0,0,Kawaii Cosplay,0Juc2cL26mg,0.29375000000000007,2018-02-18 12:10:26,False,True
+2018-02-18T20:16:33,It was completely unacceptable...I wouldnt recommend it even at a ten year old. It made me laugh at times which is good for me. But didnt play with my brain even for a single moment. Bad script and direction. I almost felt embarrassed watching it,1,0,SuperGiannisg,0Juc2cL26mg,0.06122448979591839,2018-02-18 20:16:33,False,True
+2018-02-19T03:48:21,Cadê os BR que já ta cagando de medo,0,0,Warley Carvalho,0Juc2cL26mg,0.0,2018-02-19 03:48:21,False,True
+2018-02-19T14:26:16,"I wonder if Ryan and Shane from Buzzfeed Unsolved are gonna watch this movie... I mean, they've been inside that house",0,0,Pinetree :D,0Juc2cL26mg,-0.3125,2018-02-19 14:26:16,False,True
+2018-02-19T18:34:27,The movie is amazing,0,0,Mark Rids,0Juc2cL26mg,0.6000000000000001,2018-02-19 18:34:27,False,True
+2018-02-19T23:06:19,"When i went onto the real house, it was amazing, we were in there for about an hour and we only went through 2/3s of all of the rooms, it was a tour and the tour was amazing",0,0,Little Nerd,0Juc2cL26mg,0.35000000000000003,2018-02-19 23:06:19,False,True
+2018-02-20T00:39:36,GAY,0,0,BEAR with me,0Juc2cL26mg,0.4166666666666667,2018-02-20 00:39:36,False,True
+2018-02-20T07:26:16,Who saw this on a billboard?,0,0,螿蒙ᏌᎢᎪ蒙螿,0Juc2cL26mg,0.0,2018-02-20 07:26:16,False,True
+2018-02-20T20:26:28,Supernatural?,0,0,Beatriz Barbosa,0Juc2cL26mg,0.16666666666666666,2018-02-20 20:26:28,False,True
+2018-02-21T12:47:49,"*cough,cough* wack",0,0,Aleta B,0Juc2cL26mg,0.0,2018-02-21 12:47:49,False,True
+2018-02-21T17:26:50,I don't understand the 13 nails thing. Can someone help me,0,0,FTSS Jesse,0Juc2cL26mg,0.0,2018-02-21 17:26:50,False,True
+2018-02-22T05:53:31,Look up Rose Red by Stephen King,0,0,Janelle McQuillan,0Juc2cL26mg,0.3,2018-02-22 05:53:31,False,True
+2018-02-22T14:27:24,Watch first free online full mvie here : https://www.freecinemamovies.to/winchester-2018-watch-free-online-full-movie/,0,0,cristofer cristofer,0Juc2cL26mg,0.3333333333333333,2018-02-22 14:27:24,False,True
+2018-02-22T22:51:31,so many australian actors in this movie,0,0,KeylanBryer14,0Juc2cL26mg,0.25,2018-02-22 22:51:31,False,True
+2018-02-22T23:02:04,guess i will say what i almost always say about trailers:  i thought i might want to see this movie but i just did.,0,0,toadbile,0Juc2cL26mg,0.0,2018-02-22 23:02:04,False,True
+2018-02-23T00:02:29,"Accordion to scientific studies, 99% of the people do not realize I replaced the beginning  of the sentence with an instrument.",0,0,carlos,0Juc2cL26mg,0.0,2018-02-23 00:02:29,False,True
+2018-02-23T00:31:21,¿Cuando sale en México?,0,0,Cindy7u7 La Rikolina :v,0Juc2cL26mg,0.0,2018-02-23 00:31:21,False,True
+2018-02-23T02:30:20,Sam and Dean needs to travel back in time to save them!!! xD,0,0,cyrox,0Juc2cL26mg,0.0,2018-02-23 02:30:20,False,True
+2018-02-23T05:08:53,https://www.ivoox.com/en/se-film-winchester-house-of-ghosts-filmen-norsk-p-audios-mp3_rf_23985654_1.html,0,0,HUMOR INN,0Juc2cL26mg,0.0,2018-02-23 05:08:53,False,True
+2018-02-23T11:24:21,Oh my gosh! Sam and Dean!heheh😊,0,0,Angel Tatud,0Juc2cL26mg,0.0,2018-02-23 11:24:21,False,True
+2018-02-23T21:12:31,finally a winchester film.  wait no?  SAM DEAN NO?? 😕,0,0,Sumaya Alfaaz,0Juc2cL26mg,0.0,2018-02-23 21:12:31,False,True
+2018-02-23T23:43:16,ALL THE SUPERNATURAL COMMENTS ARE AMAZING,0,0,Brianna Long,0Juc2cL26mg,0.38333333333333336,2018-02-23 23:43:16,False,True
+2018-02-24T01:01:01,man sam and dean cant catch a break even their great grandmother is hunted🤧,0,0,Hind Ibrahim,0Juc2cL26mg,0.8,2018-02-24 01:01:01,False,True
+2018-02-24T02:54:58,จะไปดูวันนี้  น่ากลัวระดับไหนเนี่ย?,1,0,Poohlyhs Channel,0Juc2cL26mg,0.0,2018-02-24 02:54:58,False,True
+2018-02-24T05:11:06,Dean and Sam missed a family member?,0,0,y g,0Juc2cL26mg,0.0,2018-02-24 05:11:06,False,True
+2018-02-24T05:47:16,I felt a sleep the entire movie literally worse than fantastic 4.Probably the worst -most hyped movie in my entire life next to inhuman.,0,0,Michael Borrox,0Juc2cL26mg,-0.07142857142857142,2018-02-24 05:47:16,False,True
+2018-02-24T21:20:28,Lol i have to watch this for extra credit in History clasa,0,0,Intellectual,0Juc2cL26mg,0.4,2018-02-24 21:20:28,False,True
+2018-02-25T02:39:06,Amazing movie! I loved it!  Helen Mirren is one of my favorite actresses.,0,0,Dark Ranger,0Juc2cL26mg,0.7083333333333334,2018-02-25 02:39:06,False,True
+2018-02-25T03:13:14,One of the most over rate actors ever.,0,0,Mx Powers,0Juc2cL26mg,0.5,2018-02-25 03:13:14,False,True
+2018-02-25T08:51:00,I thought it was... meh! Okay I guess.,0,0,Tech10K,0Juc2cL26mg,0.5,2018-02-25 08:51:00,False,True
+2018-02-25T11:29:40,If the Winchester House is haunted by those killed by people using Winchester Rifles imaging how screwed the home of the owner of Hi-Point Firearms will be after all those gang murders?!,0,0,OfficialJoeKingOne,0Juc2cL26mg,-0.25,2018-02-25 11:29:40,False,True
+2018-02-25T14:34:19,is this based on supernatural?,0,0,More Baklava pls شكرا,0Juc2cL26mg,0.16666666666666666,2018-02-25 14:34:19,False,True
+2018-02-25T17:31:16,This looks good,0,0,Elvia Lopez,0Juc2cL26mg,0.7,2018-02-25 17:31:16,False,True
+2018-02-25T21:36:36,Was really disappointed when this wasn’t supernatural,0,0,Nikki,0Juc2cL26mg,-0.2916666666666667,2018-02-25 21:36:36,False,True
+2018-02-25T22:13:19,I recomend this movie to u ppl i watched it its good,0,0,evilstricker 619,0Juc2cL26mg,0.7,2018-02-25 22:13:19,False,True
+2018-02-26T08:20:46,I'm disappointed it's not about supernatural ,0,0,ricky sanowara,0Juc2cL26mg,-0.2916666666666667,2018-02-26 08:20:46,False,True
+2018-02-26T09:01:24,"Should’ve used 14 nails instead, and I don’t see Sam and Dean Winchester’s anywhere. Why?",0,0,Hawk,0Juc2cL26mg,0.0,2018-02-26 09:01:24,False,True
+2018-02-26T11:47:36,In your opinion.Is it worth watching the movie in the cinema?,0,0,Angela Pfc,0Juc2cL26mg,0.3,2018-02-26 11:47:36,False,True
+2018-02-26T13:31:06,"0:45 Do you believe in ghosts? No, I don't BELIEVE in ghosts. I believe in the EXISTENCE of ghosts even if we cant see them. And they're called jinns and shayateens actually. Not ghosts. Pffft.",1,0,this epistolary romance,0Juc2cL26mg,0.0,2018-02-26 13:31:06,False,True
+2018-02-26T15:52:22,What is this?,0,0,anaksapa46,0Juc2cL26mg,0.0,2018-02-26 15:52:22,False,True
+2018-02-27T02:06:30,Maryshaw,0,0,Human Being,0Juc2cL26mg,0.0,2018-02-27 02:06:30,False,True
+2018-02-27T03:07:22,next episode on supernatural... 😂,0,0,CHARLZ Vlogging,0Juc2cL26mg,0.08333333333333333,2018-02-27 03:07:22,False,True
+2018-02-27T21:03:44,Omg,1,0,Fatima Kassim,0Juc2cL26mg,0.0,2018-02-27 21:03:44,False,True
+2018-02-27T23:42:53,can you guys stfu about sam and Dean?,0,0,Bread Man,0Juc2cL26mg,0.0,2018-02-27 23:42:53,False,True
+2018-02-28T01:42:05,i knew that there's gonna be a supernatural comment 😂,0,0,Anis Anuar,0Juc2cL26mg,0.16666666666666666,2018-02-28 01:42:05,False,True
+2018-02-28T06:22:31,*Came to the comment section to see if anyone made Supernatural references.*  *Was not disappointed.*,0,0,Margo,0Juc2cL26mg,0.2708333333333333,2018-02-28 06:22:31,False,True
+2018-02-28T07:32:09,I already buy a ticket for tomorrow's movie and the reason why is because of the actress Helen Mirren. it is look like conjuring in British. i have really good expection for this .,0,0,Aquler Phoenix,0Juc2cL26mg,0.35,2018-02-28 07:32:09,False,True
+2018-02-28T13:08:42,...a silly noisy film.,0,0,conny lake,0Juc2cL26mg,-0.5,2018-02-28 13:08:42,False,True
+2018-02-28T18:11:24,Please tell me is not from the guys of the conjuring😒,0,0,FaceAche,0Juc2cL26mg,0.0,2018-02-28 18:11:24,False,True
+2018-03-01T00:35:57,Borring....,0,0,Shahran Andi Said,0Juc2cL26mg,0.0,2018-03-01 00:35:57,False,True
+2018-03-01T01:07:41,"can't stop scrolling, spn fandom is the best!",0,0,cooleustary,0Juc2cL26mg,1.0,2018-03-01 01:07:41,False,True
+2018-03-01T06:45:52,The ghost looks like an alien,1,0,hamster ultra,0Juc2cL26mg,-0.25,2018-03-01 06:45:52,False,True
+2018-03-01T11:57:08,It looks so basic it hurts,0,0,Zee Captain,0Juc2cL26mg,0.0,2018-03-01 11:57:08,False,True
+2018-03-01T12:42:21,Sam and dean gonna need Castiel for this case,0,0,MUHAMMAD SYAFIQ,0Juc2cL26mg,0.0,2018-03-01 12:42:21,False,True
+2018-03-02T16:57:25,Was the movie good?,0,0,blanketss bronsze,0Juc2cL26mg,0.7,2018-03-02 16:57:25,False,True
+2018-03-03T03:58:08,boring n slow.. only I watch this movie coz Meryl streep.. all about ghost ben.. need to lock door use 13 screwed lol... her mental state is good hmm,0,0,TheRadzman,0Juc2cL26mg,0.016666666666666663,2018-03-03 03:58:08,False,True
+2018-03-03T06:07:27,Great movie,0,0,Molly Alexander,0Juc2cL26mg,0.8,2018-03-03 06:07:27,False,True
+2018-03-03T07:04:13,hahaha I love yaal supernatural fans,0,0,whywaitwenucancreate,0Juc2cL26mg,0.28888888888888886,2018-03-03 07:04:13,False,True
+2018-03-03T07:55:36,If you watch Supernatural you are a fucktard - glad I was not disappointed to find out they are the same ones who click like on YouTube comments.,0,0,Peter McColm,0Juc2cL26mg,0.26041666666666663,2018-03-03 07:55:36,False,True
+2018-03-03T14:55:19,"ohh this is based a true story ,,iv seen the real house she built,is so strange",0,0,Kira Raki_master,0Juc2cL26mg,0.16666666666666666,2018-03-03 14:55:19,False,True
+2018-03-03T20:09:55,it'll be priceless if at the end they show the present day with sam and dean,0,0,nida sohail,0Juc2cL26mg,0.5,2018-03-03 20:09:55,False,True
+2018-03-03T20:18:03,Se eu fosse ela moraria numa casa menor!,1,0,Helena Lira,0Juc2cL26mg,0.0,2018-03-03 20:18:03,False,True
+2018-03-03T21:18:16,Like si vienes del video de alphasniper,0,0,Deivid Offi,0Juc2cL26mg,0.0,2018-03-03 21:18:16,False,True
+2018-03-03T21:39:36,Me suena que a martha le harán una broma con esta peli :v,1,0,Limon Agrio,0Juc2cL26mg,0.0,2018-03-03 21:39:36,False,True
+2018-03-03T23:13:04,winpollas xdxd,0,0,Luciano Roldán,0Juc2cL26mg,0.0,2018-03-03 23:13:04,False,True
+2018-03-04T01:30:24,hay una buena broma en tu anuncio,0,0,jesus zabala,0Juc2cL26mg,0.0,2018-03-04 01:30:24,False,True
+2018-03-04T04:45:19,AlphaSniper :V,1,0,Felipe Quilantán,0Juc2cL26mg,0.0,2018-03-04 04:45:19,False,True
+2018-03-04T06:26:57,Another case for sam and dean i will  call cass and crowely on our way there update them you boys go right on ahead,1,0,Michael Waites,0Juc2cL26mg,0.2857142857142857,2018-03-04 06:26:57,False,True
+2018-03-04T07:27:51,Soy el unico español vengo de parte de alpha,0,0,Mohamed Chiari,0Juc2cL26mg,0.0,2018-03-04 07:27:51,False,True
+2018-03-04T07:44:23,Saw this movie tonight and wasn't disappointed,0,0,Blake Otte,0Juc2cL26mg,-0.75,2018-03-04 07:44:23,False,True
+2018-03-04T10:13:46,SEEING ALL THESE SPN COMMENTS MAKE ME SO HAPPY,0,0,Maya,0Juc2cL26mg,0.8,2018-03-04 10:13:46,False,True
+2018-03-04T16:04:08,I wonder how many people knows it's based on a real story lol,1,0,iimxstic,0Juc2cL26mg,0.5,2018-03-04 16:04:08,False,True
+2018-03-05T02:02:37,"Can't wait for the sequel, when the Takata heiress builds a mansion for all the ghosts killed by the defective air bags...",0,0,l337pwnage,0Juc2cL26mg,-0.2,2018-03-05 02:02:37,False,True
+2018-03-05T14:39:14,im watching this tonight,0,0,Shanayah,0Juc2cL26mg,0.0,2018-03-05 14:39:14,False,True
+2018-03-06T03:32:08,I’m here for these Supernatural comments 😂!,0,0,Janelle Brown,0Juc2cL26mg,0.20833333333333331,2018-03-06 03:32:08,False,True
+2018-03-06T04:08:01,"Inspired by actual events, just like Exorcist, Annabel and let me guess, the Blair Witch Project? Please. Hollywood couldn't make an accurate telling of a supernatural story if it haunted them.",0,0,VoiceULove,0Juc2cL26mg,0.1888888888888889,2018-03-06 04:08:01,False,True
+2018-03-06T12:44:17,Looks crap to me.,0,0,Miss Ashie90,0Juc2cL26mg,-0.8,2018-03-06 12:44:17,False,True
+2018-03-07T03:24:25,Little boy singing Disney?,0,0,Epiphanny Taylor,0Juc2cL26mg,-0.1875,2018-03-07 03:24:25,False,True
+2018-03-07T07:53:28,Guns don't kill people people does and bullet's 😂,0,0,Captain Nemo,0Juc2cL26mg,0.0,2018-03-07 07:53:28,False,True
+2018-03-07T09:20:36,(music) CLICHÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉS (music),0,0,Crimzash,0Juc2cL26mg,0.0,2018-03-07 09:20:36,False,True
+2018-03-08T08:51:48,I seriously thought this movie is regarding Sam and Dean .....,0,0,Tiha Azmi,0Juc2cL26mg,-0.3333333333333333,2018-03-08 08:51:48,False,True
+2018-03-08T09:34:07,"People see these things and it scares the ###t out of them and then in the broad of daylight, they say that evil spirits don't exist and mock those who know they do. Can someone intelligent please explain that?  If you explain wrong, then you can have one of my guests visit you for one night.",0,0,Cheli A E,0Juc2cL26mg,-0.159375,2018-03-08 09:34:07,False,True
+2018-03-09T17:49:18,And the winchester legacy continues....😄😄😄,0,0,Vinita Kumari,0Juc2cL26mg,0.0,2018-03-09 17:49:18,False,True
+2018-03-10T01:30:41,Looks boring and unorginal,0,0,Mark,0Juc2cL26mg,-1.0,2018-03-10 01:30:41,False,True
+2018-03-10T08:30:07,Maybe sam and dean are the descendant?,0,0,dian stuty,0Juc2cL26mg,0.0,2018-03-10 08:30:07,False,True
+2018-03-10T14:13:41,could someone tell me if it is worth watching this movie?,0,0,desertrose88,0Juc2cL26mg,0.3,2018-03-10 14:13:41,False,True
+2018-03-10T16:20:24,Omg 😮 I have gone through the mansion but not all of it because it has over like 100 rooms and bathrooms also when the tour guide was guiding us we also felt some presence,0,0,Tiziana ScagliaDIY,0Juc2cL26mg,0.0,2018-03-10 16:20:24,False,True
+2018-03-10T18:42:14,can s.o tell me what is the song name at 1:22,0,0,Phan Jake,0Juc2cL26mg,0.0,2018-03-10 18:42:14,False,True
+2018-03-11T00:22:17,👍👍👍👍👍👍👍 as soon as this movie comes out on Blu-ray disc I am going to buy it. I thought this movie was totally awesomeness + the coolest. They did a fantastic job when they filmed this movie.,0,0,shawn eldridge,0Juc2cL26mg,0.2,2018-03-11 00:22:17,False,True
+2018-03-11T05:20:22,Went to go see this. Was kinda underwhelmed.,0,0,Mr. X,0Juc2cL26mg,0.0,2018-03-11 05:20:22,False,True
+2018-03-11T05:34:25,You guys had better go to cinema and enjoy this movie 👌🏼 This is terrifying and good at the same time 👌🏼 Had a wonderful plot 👌🏼 Meaningful 👍🏼 Must see 8/10 🤷🏻‍♀️👍🏼,0,0,Sally Tran,0Juc2cL26mg,0.3,2018-03-11 05:34:25,False,True
+2018-03-12T05:43:17,This sounds like a job for Sam and Dean and that's the hole comment section......thank me later.,0,0,Shadow Person,0Juc2cL26mg,0.0,2018-03-12 05:43:17,False,True
+2018-03-12T21:42:47,Anyone knows the song tha henry sings in the film?,0,0,Alex Coll,0Juc2cL26mg,0.0,2018-03-12 21:42:47,False,True
+2018-03-13T04:41:54,mukhang malupet ..pitmalo ..hahahahaha,0,0,Esoteric Introvert,0Juc2cL26mg,0.0,2018-03-13 04:41:54,False,True
+2018-03-13T17:13:49,the best horror movie i have ever seen,0,0,Asma Rashed,0Juc2cL26mg,1.0,2018-03-13 17:13:49,False,True
+2018-03-14T07:52:08,I saw this movie in the cinema yesterday and it was really good,0,0,Natalie G,0Juc2cL26mg,0.7,2018-03-14 07:52:08,False,True
+2018-03-14T14:22:26,Just use some salt and the ghost is gone. Supernatural fans know how to kill everything,1,0,The meow-sician,0Juc2cL26mg,0.16666666666666666,2018-03-14 14:22:26,False,True
+2018-03-14T15:11:12,The movie is GREAT!  I love the story!!!,0,0,Bj Clemente,0Juc2cL26mg,0.98828125,2018-03-14 15:11:12,False,True
+2018-03-14T15:13:38,At 1st i thought it was boring but when i saw the whole movie it was awesome!!!,0,0,Bj Clemente,0Juc2cL26mg,0.06666666666666665,2018-03-14 15:13:38,False,True
+2018-03-16T09:14:45,"-"" Hey Dean!"" -""mhm"" -""I think there might be a job for us in California some weird things have been happening in the winchester house"" -""What kind of weird?"" -""Our kind of weird"" -"" Ok we'll hit the road at 10""",3,0,Scarred Moon,0Juc2cL26mg,0.033333333333333326,2018-03-16 09:14:45,False,True
+2018-03-16T11:12:14,Pls rate this movie 1 untill 10,0,0,Dina Nurria Salsabilla,0Juc2cL26mg,0.0,2018-03-16 11:12:14,False,True
+2018-03-16T12:21:47,the nice movie!💖,0,0,Indes,0Juc2cL26mg,0.6,2018-03-16 12:21:47,False,True
+2018-03-18T00:09:14,Seen one ghost movie seen em all!,0,0,JC ISKING,0Juc2cL26mg,0.0,2018-03-18 00:09:14,False,True
+2018-03-18T03:19:34,crazy old gal ..gotta love her ...13 nails ......lol....,0,0,Albert Mag,0Juc2cL26mg,0.0,2018-03-18 03:19:34,False,True
+2018-03-18T03:23:24,"http://www.bitlordsearch.com/search?q=Winchester 2018 no sign up no virus no BS Here is a torrent of this movie its a decent cam can download or stream it , arrow down for downloading",0,0,Albert Mag,0Juc2cL26mg,0.005555555555555536,2018-03-18 03:23:24,False,True
+2018-03-18T05:31:34,Worst movie ever,0,0,van nguyen,0Juc2cL26mg,-1.0,2018-03-18 05:31:34,False,True
+2018-03-18T06:44:08,"http://www.bitlordsearch.com/search?q=Winchester%202018%20Movies%20Hdcam%20x264%20AAC%20with%20Sample%20%E2%98%BBrDX%E2%98%BB What an Awesome movie,,,, Heres a free torrent,,,Just downloaded here Quality  A/10 V/10 M/10 ...",0,0,Albert Mag,0Juc2cL26mg,0.7,2018-03-18 06:44:08,False,True
+2018-03-18T06:44:39,Dean Ambrose is here,0,0,British pop & rock playlist,0Juc2cL26mg,0.0,2018-03-18 06:44:39,False,True
+2018-03-18T09:08:02,Whats Snoke from starwars doing in this movie,0,0,Jacob bond,0Juc2cL26mg,0.0,2018-03-18 09:08:02,False,True
+2018-03-20T01:54:19,ahahahah I love all these Supernatural related comments,0,0,Junn__ette,0Juc2cL26mg,0.2222222222222222,2018-03-20 01:54:19,False,True
+2018-03-20T03:54:46,Ada orang indonesia kan 🇮🇩? Gimana menurut kalian? Trailernya menjanjikan kan filmnya bakal bagus juga gak yah?,0,0,Kanu Project,0Juc2cL26mg,0.0,2018-03-20 03:54:46,False,True
+2018-03-20T08:04:13,Semacam Lawang Sewu Indonesia versi Hollywood nih..,0,0,pujo setiawan,0Juc2cL26mg,0.0,2018-03-20 08:04:13,False,True
+2018-03-21T04:47:07,*90% of the comments are about Sam and Dean*,602,8,Amelie Mews,0Juc2cL26mg,0.0,2018-03-21 04:47:07,False,True
+2018-03-21T16:25:55,"So happy to finally see a trailer of this story, heard this from an anime called ghost hunt and was intrigued about the house that looks like a maze. Looks promising",0,0,Sheena,0Juc2cL26mg,0.3333333333333333,2018-03-21 16:25:55,False,True
+2018-03-22T20:42:24,Nota mental: No ver la pelicula si no quiero morir de un paro cardiaco.,0,0,Shotawa,0Juc2cL26mg,-0.1,2018-03-22 20:42:24,False,True
+2018-03-23T01:40:40,These supernatural comments are so annoying,1,0,Fernando Perez,0Juc2cL26mg,-0.3166666666666667,2018-03-23 01:40:40,False,True
+2018-03-24T15:25:09,👏💜,0,0,Tianox 18,0Juc2cL26mg,0.0,2018-03-24 15:25:09,False,True
+2018-03-24T15:48:24,Can anyone tell me the song Henry sings when he got possessed? Please.,0,0,Weina Agnestya,0Juc2cL26mg,0.0,2018-03-24 15:48:24,False,True
+2018-03-24T18:47:48,"But it isn't out yet it sad February....,????",0,0,Edelfart,0Juc2cL26mg,-0.5,2018-03-24 18:47:48,False,True
+2018-03-24T20:13:57,"gota say this movie easily gets thumbs up from me, dam good",0,0,Wayne Moan,0Juc2cL26mg,0.5666666666666667,2018-03-24 20:13:57,False,True
+2018-03-25T05:26:03,not bad movie,0,0,Thriller Movie Trailers,0Juc2cL26mg,0.3499999999999999,2018-03-25 05:26:03,False,True
+2018-03-26T03:07:53,Well the real story is more of a curse than a ghostbuster story,0,0,༺Valentiniy༻,0Juc2cL26mg,0.35,2018-03-26 03:07:53,False,True
+2018-03-26T14:25:38,Kto z polski łapa w górę,0,0,Game laura b,0Juc2cL26mg,0.0,2018-03-26 14:25:38,False,True
+2018-03-26T15:17:21,Just visited the actual house yesterday now time to see the film,0,0,Michael Alston,0Juc2cL26mg,0.0,2018-03-26 15:17:21,False,True
+2018-03-26T23:22:40,Not offered in theatres near me 👿👿👿👿👿,0,0,Esmé,0Juc2cL26mg,0.1,2018-03-26 23:22:40,False,True
+2018-03-26T23:23:01,SOO ANGRY I CANNOT WATCH THIS IN THEATERS,0,0,Esmé,0Juc2cL26mg,-0.5,2018-03-26 23:23:01,False,True
+2018-03-27T07:04:59,Film ter serem....,0,0,Dini Endar,0Juc2cL26mg,0.0,2018-03-27 07:04:59,False,True
+2018-03-27T14:59:18,BEST MOVIE!!!!,0,0,Tri Damy,0Juc2cL26mg,1.0,2018-03-27 14:59:18,False,True
+2018-03-27T21:27:04,Good movie,0,0,Jetfuel OG,0Juc2cL26mg,0.7,2018-03-27 21:27:04,False,True
+2018-03-28T17:36:48,has anyone seeing rose red? that is  a rose red rip off,0,0,Orlando Valadez,0Juc2cL26mg,0.3,2018-03-28 17:36:48,False,True
+2018-03-28T23:21:08,🙋 as soon as this movie is available to buy on Blu-ray disc I'm going to get it. It wasn't a bad movie.this was a pretty good I would say about maybe 97% fantastic. However if they have done the research more I think it could have been much better then it was. But still it was worth watching and it's going to be worth buying on Blu-ray disc when it's available. What the freak I loved it & I enjoyed watching it. Now just waiting for my other movie to come out & that is Star Wars Solo movie .,0,0,shawn eldridge,0Juc2cL26mg,0.3173076923076923,2018-03-28 23:21:08,False,True
+2018-03-29T11:12:59,what the name song when henry singing? someone please tell me,0,0,Tomi DF,0Juc2cL26mg,0.0,2018-03-29 11:12:59,False,True
+2018-03-30T19:39:48,500 rooms but no toilet to see.,0,0,Huey Freeman,0Juc2cL26mg,0.016666666666666666,2018-03-30 19:39:48,False,True
+2018-03-31T22:49:35,Yesterday I watched this movie in cinema the story is full Rubbish there is only 5 or 6 horror scenes don’t waste the money if somebody still have interest to watch the movie simply watch in google or in nett flex,0,0,Mustafa Sultani,0Juc2cL26mg,0.03749999999999999,2018-03-31 22:49:35,False,True
+2018-04-02T07:22:40,Good movie,0,0,The Kenmeister,0Juc2cL26mg,0.7,2018-04-02 07:22:40,False,True
+2018-04-05T22:23:39,Am i the only one who can see the resemblance of Insidious? Or just another ripoff lul,0,0,Михаило Јокић,0Juc2cL26mg,0.0,2018-04-05 22:23:39,False,True
+2018-04-06T01:30:49,I going to the winchester house tomarow....,0,0,2004knee,0Juc2cL26mg,0.0,2018-04-06 01:30:49,False,True
+2018-04-06T20:39:01,Everyone is all like SAM AND DEAN.! And im over here like who the hell are they.?! LETS CALL SHANE DAWSON AND HAVE HIM SLEEP IN THE WWINCHESTER HOUSE TO SEE IF THIS IS ALL TRUE.! I feel stupid,0,0,Alek Thammavongsa,0Juc2cL26mg,-0.18124999999999997,2018-04-06 20:39:01,False,True
+2018-04-07T02:24:33,the last movie that actually could be said to be a great haunting movie was the 1999 the haunting,0,0,Alan Austin,0Juc2cL26mg,0.26666666666666666,2018-04-07 02:24:33,False,True
+2018-04-07T22:13:03,"San Jose, CA Look it up",0,0,Luther afi,0Juc2cL26mg,0.0,2018-04-07 22:13:03,False,True
+2018-04-12T11:08:57,I came from Ghost Adventuresssss!!,1,0,Eleonora Zeli,0Juc2cL26mg,0.0,2018-04-12 11:08:57,False,True
+2018-04-13T02:57:59,"The first time I saw the woman pull that black veil back and realized it was Helen Mirren, I started screaming with glee.",1,0,The Notebook Lady,0Juc2cL26mg,0.02777777777777778,2018-04-13 02:57:59,False,True
+2018-04-13T11:30:04,"like Rose Red, a woman build, build and build",1,0,Identity V Paródias,0Juc2cL26mg,0.3,2018-04-13 11:30:04,False,True
+2018-04-13T13:54:28,669unlike are just afraid to watch😂,0,0,れむ,0Juc2cL26mg,-0.6,2018-04-13 13:54:28,False,True
+2018-04-14T09:52:09,This movie is good.....i saw in cinema,0,0,Ahsan Ali Khan,0Juc2cL26mg,0.0,2018-04-14 09:52:09,False,True
+2018-04-15T00:24:35,Anyone know where I can watch this movie,0,1,Tammy Neal,0Juc2cL26mg,0.0,2018-04-15 00:24:35,False,True
+2018-04-17T11:03:30,"Looks boring, this isn't the type of horror movies that I prefer",0,0,Karam D.,0Juc2cL26mg,-1.0,2018-04-17 11:03:30,False,True
+2018-04-17T14:48:47,a little historical background as the title says based on true events.  1 -the Winchesters based on the gun manufacturer not the TV series Supernatural.  2 - the lady in question was a very superstitious she was the wife of arms manufacturer William Wirt Winchester. 3 - she was told by a fortune teller or medium that all the deaths attributed that was manufactured by her husband that her entire family was cursed because of that in order to uplift the curse she would have to continue constructing a house that never end she did that until her death.  she never claimed to be haunted by monsters ghost or whatever Hollywood want to make up. so if you believe this is based on actual event. don't be naive.,0,0,SpeedWolf,0Juc2cL26mg,0.028645833333333322,2018-04-17 14:48:47,False,True
+2018-04-17T16:49:29,When is it going to release?or is it released?,0,0,Mohammed Riyan khan,0Juc2cL26mg,0.0,2018-04-17 16:49:29,False,True
+2018-04-17T19:02:12,"Dam 13 seasons and now a movie, those guys are gonna be doing this till their 90's",0,0,Dene Robbins,0Juc2cL26mg,0.0,2018-04-17 19:02:12,False,True
+2018-04-18T04:51:06,Oh okay so the kid was possessed?,0,0,Ben Domino,0Juc2cL26mg,0.5,2018-04-18 04:51:06,False,True
+2018-04-18T08:01:21,"The Ruger's, the Smith and Wesson's and the Glock families should all be scared. Not to mention the family that created the AR15 rifles they better build a fortress.😲😨😱",0,0,Movie Fanatic,0Juc2cL26mg,0.5,2018-04-18 08:01:21,False,True
+2018-04-18T11:37:02,I love Helen Mitten but the movie was disappointing.,0,0,Edgle Bennett,0Juc2cL26mg,-0.04999999999999999,2018-04-18 11:37:02,False,True
+2018-04-18T13:45:37,Is this movie worth to watch?,0,0,Rizky Stefandy,0Juc2cL26mg,0.3,2018-04-18 13:45:37,False,True
+2018-04-18T16:02:01,the road so far...,0,0,Roangel Lopez,0Juc2cL26mg,0.1,2018-04-18 16:02:01,False,True
+2018-04-18T20:24:44,Why are ghosts always angry? fk sake,0,0,Firat Senay,0Juc2cL26mg,-0.5,2018-04-18 20:24:44,False,True
+2018-04-18T20:43:48,just watched it today and I really recommend it to those who love horror movies. Really scary,66,8,alina petronela,0Juc2cL26mg,0.06666666666666665,2018-04-18 20:43:48,False,True
+2018-04-19T02:59:25,We also have windchester here.....but its a pub.....sadly there are a lot of ghost on 12pm.(dunkcards).,0,0,danielyn tripping,0Juc2cL26mg,0.0,2018-04-19 02:59:25,False,True
+2018-04-19T04:45:43,I absolutely loved this movie! Its now one of my favorites.,0,1,Shaletta Lindsey,0Juc2cL26mg,0.875,2018-04-19 04:45:43,False,True
+2018-04-19T04:54:20,Please someone  tell me when my country pakistan shall start making movies like hollywood. nice horror.,0,0,CYBER PUNK,0Juc2cL26mg,0.6,2018-04-19 04:54:20,False,True
+2018-04-19T07:29:08,It’s a good movie,0,0,Shazel,0Juc2cL26mg,0.7,2018-04-19 07:29:08,False,True
+2018-04-19T11:09:51,Ghostfacer got this,0,0,Running Circle,0Juc2cL26mg,0.0,2018-04-19 11:09:51,False,True
+2018-04-19T11:16:29,Kalasnikov's wife is building a sky scraper 😂😂😂,0,0,Yespeace 2015,0Juc2cL26mg,0.0,2018-04-19 11:16:29,False,True
+2018-04-19T13:00:07,I will watch it now,1,1,Ayan D A,0Juc2cL26mg,0.0,2018-04-19 13:00:07,False,True
+2018-04-19T13:25:59,WINCHESTER good movie,0,0,Elia Hardcord,0Juc2cL26mg,0.7,2018-04-19 13:25:59,False,True
+2018-04-19T18:23:09,Looks boring asf.,0,0,Arturenas,0Juc2cL26mg,-1.0,2018-04-19 18:23:09,False,True
+2018-04-20T08:46:24,"Just watched them last night, it was empty as a hole",0,0,edchan,0Juc2cL26mg,-0.05,2018-04-20 08:46:24,False,True
+2018-04-20T08:51:49,Where's my Supernatural Fam at though ?,0,0,Parth Behl,0Juc2cL26mg,0.16666666666666666,2018-04-20 08:51:49,False,True
+2018-04-20T14:11:07,I saw this trailer for a scary ghost. damn where is scary motherf*** ghost,0,0,Fun Chakkar,0Juc2cL26mg,-0.5,2018-04-20 14:11:07,False,True
+2018-04-20T19:07:26,the trailer has a trailer as an intro,0,0,noisywan,0Juc2cL26mg,0.0,2018-04-20 19:07:26,False,True
+2018-04-20T19:19:36,where is Dean WINCHESTER ? :),0,0,Ivan Nachev,0Juc2cL26mg,0.5,2018-04-20 19:19:36,False,True
+2018-04-20T19:22:23,"He brought a hammer to a ghost fight, he might as well came armed to a soup eating contest with chop sticks.",0,0,paul cooper,0Juc2cL26mg,0.0,2018-04-20 19:22:23,False,True
+2018-04-20T19:39:08,1:57  Die by my hand (die) I creep across the land (die) Killing first born man,0,0,ZAPHYROS,0Juc2cL26mg,0.25,2018-04-20 19:39:08,False,True
+2018-04-21T02:41:14,Who else has been to the Winchester Mystery House?,0,0,LifeAsDee,0Juc2cL26mg,0.0,2018-04-21 02:41:14,False,True
+2018-04-21T17:23:24,BORING,0,0,gonscla92,0Juc2cL26mg,-1.0,2018-04-21 17:23:24,False,True
+2018-04-21T18:27:31,It's vengefull spirit Sam and Dean you have a case,0,0,Aakash Mhamunkar,0Juc2cL26mg,0.0,2018-04-21 18:27:31,False,True
+2018-04-21T21:04:29,I didn't recognize Helen Mirren on the box cover image.,0,0,Martin,0Juc2cL26mg,0.0,2018-04-21 21:04:29,False,True
+2018-04-22T04:42:24,This was one of the shittiest movies I've ever seen in my life.,0,0,Imperial Watch,0Juc2cL26mg,0.0,2018-04-22 04:42:24,False,True
+2018-04-22T11:38:21,People don't kill people.... GHOSTS of actual people kill people.  Nice anti gun movie.,0,0,Rick Dangerous,0Juc2cL26mg,0.3,2018-04-22 11:38:21,False,True
+2018-04-22T14:38:21,"I heard this movie was bad, but I wanna see it anyway. It looks good to me because it’s my favorite genre of movies I like to watch.",0,0,Keyshyia159,0Juc2cL26mg,0.1666666666666667,2018-04-22 14:38:21,False,True
+2018-04-22T15:55:22,This looks like a job for the bullyhunters.,0,0,ein bisschen kiffen,0Juc2cL26mg,0.0,2018-04-22 15:55:22,False,True
+2018-04-22T17:30:23,Red rose??,0,0,christopher troy,0Juc2cL26mg,0.3,2018-04-22 17:30:23,False,True
+2018-04-23T10:44:36,watched it https://getalline.wordpress.com/2018/04/23/winchester-2018/,0,0,Matthew Olagoke,0Juc2cL26mg,0.0,2018-04-23 10:44:36,False,True
+2018-04-23T15:00:39,Anybody else from Buzzfeed Unsolved??,1,0,Blerp,0Juc2cL26mg,0.0,2018-04-23 15:00:39,False,True
+2018-04-24T08:59:22,"Winchester will run, do not to subscribe https://youtu.be/8E0ly19eqO8",0,0,NONTON SAJA,0Juc2cL26mg,0.0,2018-04-24 08:59:22,False,True
+2018-04-25T03:13:38,that music do,0,0,Rory O'Brien,0Juc2cL26mg,0.0,2018-04-25 03:13:38,False,True
+2018-04-26T17:55:21,"If there's something strange, In your neighborhood Who you gonna call? Ghostbusters! If there's something weird, And it don't look good Who you gonna call? Ghostbusters! xD GReetings from greece:D",0,0,-F4ith -,0Juc2cL26mg,0.10416666666666667,2018-04-26 17:55:21,False,True
+2018-04-27T19:35:55,So is this worth to watch?,0,0,Habibah Syahirah,0Juc2cL26mg,0.3,2018-04-27 19:35:55,False,True
+2018-04-27T20:29:42,"Other than the name making me think supernatural, story is similar to Stephen kings rose red",0,0,tshellz85,0Juc2cL26mg,0.12833333333333333,2018-04-27 20:29:42,False,True
+2018-04-28T08:56:20,Every time the screen goes black I take off my headphones expecting a jump scare. xD,0,0,lil soap,0Juc2cL26mg,-0.16666666666666666,2018-04-28 08:56:20,False,True
+2018-04-29T13:33:47,"SAM: piece a cake DEAN: we've faced lucifer, demons, angels, GOD, even darkness. Do you really think you can scare us? CAS: guys call me when ur done, I cant miss that series i'm watching.",0,0,John Rey Balili,0Juc2cL26mg,0.2,2018-04-29 13:33:47,False,True
+2018-04-29T22:05:49,I Saw it! It´s bad! :/,0,0,Paulinho Sousa,0Juc2cL26mg,-0.5624999999999999,2018-04-29 22:05:49,False,True
+2018-04-30T08:51:24,GET THE SALTTTTT,0,0,brent canlas,0Juc2cL26mg,0.0,2018-04-30 08:51:24,False,True
+2018-04-30T23:05:06,this  movie is not scary,0,0,OVERCOME,0Juc2cL26mg,0.25,2018-04-30 23:05:06,False,True
+2018-05-01T14:42:09,"Watching this tonight, can't wait! LOVE horror movies!",0,0,Megz Freelance Writing,0Juc2cL26mg,0.625,2018-05-01 14:42:09,False,True
+2018-05-03T06:55:42,Is this a story about Dean and Sammy’s grandma?? Mrs. Winchester ?? #spnfam,0,0,Natasha,0Juc2cL26mg,0.0,2018-05-03 06:55:42,False,False
+2018-05-03T15:09:16,é o mesmo universo q supernatural?,0,0,Carlos eu,0Juc2cL26mg,0.16666666666666666,2018-05-03 15:09:16,False,False
+2018-05-04T02:58:06,All these supernatural fans piss me off. Like this has nothing to do with that overrated show... It actually has some sort of truth to it,0,0,Sanity,0Juc2cL26mg,0.08333333333333333,2018-05-04 02:58:06,False,False
+2018-05-04T10:32:47,This movie was such a huge let down and had this overly leftist anti-gun message that started to get so patronizing towards the end that I didn't care what happened anymore. Really pathetic movie that's not even remotely scary.,0,0,77Avadon77,0Juc2cL26mg,-0.2175925925925926,2018-05-04 10:32:47,False,False
+2018-05-04T10:46:42,Oui ben mes couilles.,0,0,KINGTÄZ NC,0Juc2cL26mg,0.0,2018-05-04 10:46:42,False,False
+2018-05-04T14:46:33,I bet she is Mary's grandma.,1,0,Shabeen Ahmed,0Juc2cL26mg,0.0,2018-05-04 14:46:33,False,False
+2018-05-04T14:48:57,"Okay, please leave the series alone, we got a movie here about their great grandmother!",2,0,Shabeen Ahmed,0Juc2cL26mg,0.75,2018-05-04 14:48:57,False,False
+2018-05-05T09:45:34,This is just lovely,0,0,Jamie Curran,0Juc2cL26mg,0.5,2018-05-05 09:45:34,False,False
+2018-05-06T03:02:52,"I ligit thought this movie had something to do with supernatural..... just salt and burn it, ya know?",0,0,Gin Imaginary,0Juc2cL26mg,0.16666666666666666,2018-05-06 03:02:52,False,False
+2018-05-06T03:49:21,Omfg this movie was amazing!,0,0,karla l,0Juc2cL26mg,0.7500000000000001,2018-05-06 03:49:21,False,False
+2018-05-06T18:11:21,This didnt scare me at all because its 2018.... we could just call someone.... you know if there were something strange in the neighborhood.... oh right sam and dean.,0,0,johnnymcblaze,0Juc2cL26mg,0.11785714285714285,2018-05-06 18:11:21,False,False
+2018-05-07T22:54:17,Love Jason Clarke!!!!,0,0,C Ho,0Juc2cL26mg,1.0,2018-05-07 22:54:17,False,False
+2018-05-08T03:40:29,Where is Dean and Sam?,0,0,Bridget Styles360,0Juc2cL26mg,0.0,2018-05-08 03:40:29,False,False
+2018-05-08T14:16:36,This is actually really cool it wasnt as accurate to the real story but i really liked the concept and idea they put into this,0,0,0w0 Girl,0Juc2cL26mg,0.38749999999999996,2018-05-08 14:16:36,False,False
+2018-05-09T01:26:50,Lmao y'all don't even know what this movies about watch the film rose red or read the book either way u can't go wrong,0,0,deadravex,0Juc2cL26mg,0.175,2018-05-09 01:26:50,False,False
+2018-05-09T06:31:04,"Are you troubled by strange noises in the middle of the night? Have you, or anyone in your family ever seen a spook, specter or a ghost? Do you experience feelings of dread in your attic or basement? If you've answered yes to any of those questions, call the professionals: Sam and Dean Winchester. Theyir cleansing salt is on call 24 hours a day to serve all your supernatural needs. They're ready to believe you.",0,0,Rui Alexandre,0Juc2cL26mg,-0.03666666666666668,2018-05-09 06:31:04,False,False
+2018-05-09T12:30:06,"Alright, I'll come to save you.  Sam's with me.  Don't worry.",0,0,Dean Winchester,0Juc2cL26mg,0.0,2018-05-09 12:30:06,False,False
+2018-05-10T16:20:24,Maybe they should have just moved,0,0,209brandon B,0Juc2cL26mg,0.0,2018-05-10 16:20:24,False,False
+2018-05-11T10:32:40,yo dog,0,0,Joseph Manse,0Juc2cL26mg,0.0,2018-05-11 10:32:40,False,False
+2018-05-12T04:18:06,"Just watched this movie. Man, it is really bad. I know it's based on a real place, but it seems like it was written by a rambling 12 year-old in about 30 minutes. I am still wondering why Helen Mirren would ever agree to doing this. You've been warned ......wwwooooooooo....... Choose a different movie....... Woooooo",0,0,David Edward,0Juc2cL26mg,-0.1666666666666666,2018-05-12 04:18:06,False,False
+2018-05-12T17:39:42,Sam? Dean?,0,0,colchicum autumnale,0Juc2cL26mg,0.0,2018-05-12 17:39:42,False,False
+2018-05-13T18:34:23,bollocks,0,0,redrumax,0Juc2cL26mg,0.0,2018-05-13 18:34:23,False,False
+2018-05-14T18:27:11,Much better then insidious.,0,0,CYBER PUNK,0Juc2cL26mg,0.5,2018-05-14 18:27:11,False,False
+2018-05-15T02:10:21,This is why supernatural fan boys annoy the hell out of people...,0,0,Aaron Duran,0Juc2cL26mg,0.16666666666666666,2018-05-15 02:10:21,False,False
+2018-05-15T16:59:11,"I want to see this, hopefully my library will have it so I can borrow it, I don't think I want to buy it.",0,0,Maia Jones,0Juc2cL26mg,0.0,2018-05-15 16:59:11,False,False
+2018-05-15T23:45:54,Super Film,0,0,Kuzey Tekinoğlu,0Juc2cL26mg,0.3333333333333333,2018-05-15 23:45:54,False,False
+2018-05-16T18:33:22,Not bad,0,0,Matt Nobrega,0Juc2cL26mg,0.3499999999999999,2018-05-16 18:33:22,False,False
+2018-05-16T22:37:03,I smell rotten eggs,1,0,Abdul Khan,0Juc2cL26mg,0.0,2018-05-16 22:37:03,False,False
+2018-05-23T09:34:02,She was just a rich crazy cat lady irl,1,0,RW3ints,0Juc2cL26mg,-0.11249999999999999,2018-05-23 09:34:02,False,False
+2018-05-24T02:06:05,Who's seen this? Was it good?,0,0,Queen Bitch,0Juc2cL26mg,0.7,2018-05-24 02:06:05,False,False
+2018-05-26T16:07:54,Im from another country and i dunno who are sam and dean........ Can anybody tell me who are they?,0,1,Sitti Mawaddah,0Juc2cL26mg,0.0,2018-05-26 16:07:54,False,False
+2018-05-26T17:59:34,"they did an amazing job @ telling this story & sharing it on screen.  I know to many times a true story such as this one, is cheezy & almost silly.  I thought this one was believable & I DO believe in this.  So I was happy to watch it & share my thoughts.  2 thumbs UP !!",0,0,Janice Butler,0Juc2cL26mg,0.35000000000000003,2018-05-26 17:59:34,False,False
+2018-05-27T18:20:25,"Not a bad movie. Wish it was a little scarier, but the story was worth watching.",0,0,angelx 1992,0Juc2cL26mg,0.15416666666666665,2018-05-27 18:20:25,False,False
+2018-05-28T06:50:37,I must buy 13 nails..,0,0,Sheehan Riv,0Juc2cL26mg,0.0,2018-05-28 06:50:37,False,False
+2018-05-29T00:11:51,Hey Sam and Dean here’s a case for y’all.,0,0,Snoopy,0Juc2cL26mg,0.0,2018-05-29 00:11:51,False,False
+2018-05-29T05:06:32,I love this movie.check out my yt for spoilers!!!! Jk i wont,0,0,Mythīçø gāçhå,0Juc2cL26mg,1.0,2018-05-29 05:06:32,False,False
+2018-06-01T04:53:13,Based on a true story the doors on the house goes nowhere it leads to your death and soul and to posseness the body and kills it inside it,0,0,Oscar Becerra,0Juc2cL26mg,0.35,2018-06-01 04:53:13,False,False
+2018-06-01T22:19:39,Who u gonna call ....... Ghost busters,0,0,Cindy Rosales,0Juc2cL26mg,0.0,2018-06-01 22:19:39,False,False
+2018-06-02T02:43:03,Is Sarah Winchester related to Sam and Dean Winchester?,0,0,Akash Sharma,0Juc2cL26mg,0.0,2018-06-02 02:43:03,False,False
+2018-06-02T10:56:01,Reach 10K likes!,0,0,WesleyTRV // Wesley Vianen,0Juc2cL26mg,0.0,2018-06-02 10:56:01,False,False
+2018-06-03T16:56:30,My kind of movie.,0,0,Chauntele Kali,0Juc2cL26mg,0.6,2018-06-03 16:56:30,False,False
+2018-06-05T11:30:39,👀,0,0,Vuk.,0Juc2cL26mg,0.0,2018-06-05 11:30:39,False,False
+2018-06-05T18:06:56,what is the song the boy sings ???,0,0,Leonidas Zairis,0Juc2cL26mg,0.0,2018-06-05 18:06:56,False,False
+2018-06-05T21:02:26,"I guess those 13 nails wasn't strong enough.  If it was me, I would of used 8 inch nails and used 14 nails.",1,0,Voltz,0Juc2cL26mg,0.21666666666666665,2018-06-05 21:02:26,False,False
+2018-06-07T19:33:08,Buy it here https://www.cduniverse.com/productinfo.asp?pid=10894191&style=movie&frm=lk_KishoreMehta1,0,0,solitarymaninblack,0Juc2cL26mg,0.0,2018-06-07 19:33:08,False,False
+2018-06-08T09:35:37,Ha. My sister and I fell asleep in this film. It is a snorefest,2,0,-Brooke-,0Juc2cL26mg,0.0,2018-06-08 09:35:37,False,False
+2018-06-09T20:41:01,I’m ready now,0,0,Random Person On the Internet,0Juc2cL26mg,0.2,2018-06-09 20:41:01,False,False
+2018-06-10T01:20:40,Βρισκομαι Αμερικη και τις επομενες μερες θα παω για tour στο συγκεκριμενο σπιτι,0,0,Ace Freeze,0Juc2cL26mg,0.0,2018-06-10 01:20:40,False,False
+2018-06-10T06:34:52,"*1:46** **_[to the demon]_** ""All your base are belong to us""*",0,0,Telios Abraxas,0Juc2cL26mg,-0.8,2018-06-10 06:34:52,False,False
+2018-06-10T08:01:22,it looks great!!,1,0,roz akrida,0Juc2cL26mg,1.0,2018-06-10 08:01:22,False,False
+2018-06-11T19:09:32,Who the hell is sam and Dean?,4,0,Brit & Patrick & Son Haven & Mullen & Mullen,0Juc2cL26mg,0.0,2018-06-11 19:09:32,False,False
+2018-06-12T01:03:57,me and my parents saw this and its very good movie,0,0,Anna Moore,0Juc2cL26mg,0.9099999999999999,2018-06-12 01:03:57,False,False
+2018-06-12T12:40:23,I recommend it for those who love horror movies. You can watch in a good quality using boxxy software. Very scary!,0,0,Francesco Ramicani,0Juc2cL26mg,0.12916666666666665,2018-06-12 12:40:23,False,False
+2018-06-13T11:10:37,"I find it ironic that this movie was made in Melbourne Australia, one of the most anti gun establishments in the western world!",0,0,Anthony Franken,0Juc2cL26mg,0.2333333333333333,2018-06-13 11:10:37,False,False
+2018-06-13T13:32:05,....it's like nothing you've ever seen... I'll wait for this movie for watch it using boxxy software,0,0,chan zhao,0Juc2cL26mg,0.0,2018-06-13 13:32:05,False,False
+2018-06-16T12:33:11,"According to Wikipedia:  Since it's construction in 1884, the property and mansion were claimed by many to be haunted by the ghosts of those who killed with Winchester rifles. Under Winchester's day-to-day guidance it's ""from-the-ground-up"" construction proceeded around the clock, by some accounts, with interruption , until her death on September 5, 1922, at which time work immediately ceased. Sarah Winchester's biographer, however, says that Winchester ""routinely dismissed workers from months at a time to take such rest as I might"" and notes that ""this rifles in the face of claims by today's Mystery House proprietors that work at ranch was ceaseless for 38 years.",0,0,Symbiote Venom,0Juc2cL26mg,0.049999999999999996,2018-06-16 12:33:11,False,False
+2018-06-21T02:37:51,"I let the comments on all the trailers for this movie prevent me from seeing it for a long time and I'm honestly mad at myself for not watching it sooner. Regardless of how accurate this movie is, I enjoyed it.",0,0,Ambrali Drew,0Juc2cL26mg,0.05625000000000001,2018-06-21 02:37:51,False,False
+2018-06-22T17:20:44,I wanna watch this but when my mom and dad did I could hear her telling and omg and getting scared and I'm a scary cat so.....,0,0,Abigail Servantez,0Juc2cL26mg,-0.5,2018-06-22 17:20:44,False,False
+2018-06-24T05:44:45,https://youtu.be/UXr6AVhmaFk  Winchester Full movie,0,0,Creative Ideas,0Juc2cL26mg,0.35,2018-06-24 05:44:45,False,False
+2018-06-24T23:43:08,Puta filme ruim,0,0,Lucas Campos,0Juc2cL26mg,0.0,2018-06-24 23:43:08,False,False
+2018-06-25T00:35:12,Came here looking for good or bad ratings don’t waste your time the comments are filled with supernatural nonsense.,4,1,Amy Zamarripa,0Juc2cL26mg,0.07333333333333336,2018-06-25 00:35:12,False,False
+2018-06-26T23:36:19,Nothing special...,0,0,Gejza Vontszemu,0Juc2cL26mg,0.35714285714285715,2018-06-26 23:36:19,False,False
+2018-06-27T06:58:26,"This was before the Winchesters learned about salt, iron, and silver :(",0,0,Na Na,0Juc2cL26mg,-0.75,2018-06-27 06:58:26,False,False
+2018-06-27T10:17:55,"I recommend you to have visit on my channel,There I have updated few movies...and if u want any movies that shall be uploaded as per the viewers request.  Please note that copyright content cannot be posted as that leads to violation of community guidelines:)",0,0,Creative Ideas,0Juc2cL26mg,0.15,2018-06-27 10:17:55,False,False
+2018-06-28T11:02:09,Madame  Mallory are u gonna open the restaurant again?,0,0,Disco Tech,0Juc2cL26mg,0.0,2018-06-28 11:02:09,False,False
+2018-06-28T21:15:04,I love that the majority of these comments are Supernatural related XD Go get um' Sam and Dean!,0,0,Earthentine,0Juc2cL26mg,0.2222222222222222,2018-06-28 21:15:04,False,False
+2018-07-01T03:27:41,"at the end, an impala pulls up in the driveway",0,0,luce -,0Juc2cL26mg,0.0,2018-07-01 03:27:41,False,False
+2018-07-01T17:29:33,Supernatural Family Hurrah!,0,0,ariel gerale,0Juc2cL26mg,0.20833333333333331,2018-07-01 17:29:33,False,False
+2018-07-02T14:41:24,catch me if you can Winchester brothers 😈,0,0,Jetha Lal Gada,0Juc2cL26mg,0.0,2018-07-02 14:41:24,False,False
+2018-07-03T03:55:23,Obviously just burn their skeletons as we all learned in season 1,0,0,KLNDK,0Juc2cL26mg,0.0,2018-07-03 03:55:23,False,False
+2018-07-05T16:34:20,Do you think Dad sent us this for a reason,0,0,Docteur Docteur,0Juc2cL26mg,0.0,2018-07-05 16:34:20,False,False
+2018-07-05T21:40:46,Shane and Ryan??,0,0,Mina Luv,0Juc2cL26mg,0.0,2018-07-05 21:40:46,False,False
+2018-07-06T20:29:46,Agent Beyonce and Agent Jaynce on he rescue,0,0,Alice Cheese,0Juc2cL26mg,0.0,2018-07-06 20:29:46,False,False
+2018-07-08T15:46:24,"I will be watching this movie, stay tuned to know if it's going to be good or no",0,0,Ginone,0Juc2cL26mg,0.7,2018-07-08 15:46:24,False,False
+2018-07-08T21:02:57,"1:55 Ups,too late buddy :D.RuN!!!!",0,0,TheSRBgamer63,0Juc2cL26mg,-0.732421875,2018-07-08 21:02:57,False,False
+2018-07-09T06:50:02,Any Shaniacs here?,0,0,Zella Martinez,0Juc2cL26mg,0.0,2018-07-09 06:50:02,False,False
+2018-07-12T13:44:35,lol,0,0,Kaz Seeker,0Juc2cL26mg,0.8,2018-07-12 13:44:35,False,False
+2018-07-13T01:35:31,I hate having the last name Winchester now-.-,0,0,RachelRantsTooMuch,0Juc2cL26mg,-0.4,2018-07-13 01:35:31,False,False
+2018-07-16T03:19:51,Nah. They need Sam & Dean with the power of baby Jesus! 😒,0,0,tha.artist Kali,0Juc2cL26mg,0.0,2018-07-16 03:19:51,False,False
+2018-07-16T08:51:10,I live like an hour from the Winchester mystery house. Never been there but I hope to go lol,0,0,Angie Castaneda,0Juc2cL26mg,0.4681818181818182,2018-07-16 08:51:10,False,False
+2018-07-16T21:55:54,I just found out about this movie... how did I not know about it?!! Omg watching it as soon as my exams are over !!!!🤗🤗🤗🤗🤗,0,0,Mich Z,0Juc2cL26mg,0.0,2018-07-16 21:55:54,False,False
+2018-07-21T10:58:58,feels like a Stephen King rose red knock off,0,0,Rebecca Jones,0Juc2cL26mg,0.3,2018-07-21 10:58:58,False,False
+2018-07-22T02:56:27,Reminds me of rose red lol,0,0,SDAWG,0Juc2cL26mg,0.4666666666666666,2018-07-22 02:56:27,False,False
+2018-07-24T17:21:02,"""So get this...there is a Movie out called Winchester.""  ""Dude, what the Hell? Is it good?""   ""It is not about us.""   ""So...Thats a nope then.""",0,0,Glitchy Ceasar,0Juc2cL26mg,0.7,2018-07-24 17:21:02,False,False
+2018-07-28T14:02:08,Ed and Loraine. Dont tell Sam and Dean!,0,0,Silly Rukus,0Juc2cL26mg,0.0,2018-07-28 14:02:08,False,False
+2018-07-29T01:45:26,Is this based of if skeleton creek?,0,0,alice haidous,0Juc2cL26mg,0.0,2018-07-29 01:45:26,False,False
+2018-07-29T13:32:32,"Pleasantly surprised, really enjoyed this horror movie, any horror fan shouldnt miss🌟🌟🌟🌟",0,0,KANGABOY For The Animals!,0Juc2cL26mg,0.3,2018-07-29 13:32:32,False,False
+2018-07-30T13:02:49,Gonna have to call Sam and Dean on this one,0,0,lilyy xox,0Juc2cL26mg,0.0,2018-07-30 13:02:49,False,False
+2018-07-31T02:33:35,Does anyone else live near there?,0,0,dnavp,0Juc2cL26mg,0.11818181818181818,2018-07-31 02:33:35,False,False
+2018-08-01T06:26:25,Old lady : This spirit has the power we have never seen before   Me : 😂😂😂 lolzzz this is every horror movie dialogue,0,0,Nimrah Shaukat,0Juc2cL26mg,0.1,2018-08-01 06:26:25,False,False
+2018-08-02T03:35:24,"Im going to the Winchester house for my birthday       Yeah, you can already tell im a messed up kid",0,0,nostalgia.account,0Juc2cL26mg,0.0,2018-08-02 03:35:24,False,False
+2018-08-02T23:24:15,No this is a job for Ryan and Shane,0,0,Vivian 06,0Juc2cL26mg,0.0,2018-08-02 23:24:15,False,False
+2018-08-03T21:42:09,"I've been in the real Winchester house, and told those stories. I won't bother watching the film, but in this day of NRA, I think it would be really fitting if the spirits win.",0,0,Vic J,0Juc2cL26mg,0.5,2018-08-03 21:42:09,False,False
+2018-08-05T23:38:02,"I went there when I was 16 it was awesome, the Maze till this day is the scariest I have ever been too. The tour was fun the tour guide was funny and we became friends.",0,1,Elena Way,0Juc2cL26mg,0.5166666666666667,2018-08-05 23:38:02,False,False
+2018-08-08T12:21:00,F**k that jumpscare with the chair and mirror!,0,0,F dL,0Juc2cL26mg,0.0,2018-08-08 12:21:00,False,False
+2018-08-08T19:34:34,This movie not scare me,1,0,fullfilm,0Juc2cL26mg,0.0,2018-08-08 19:34:34,False,False
+2018-08-10T19:26:48,I was here to see Laura Brent,0,0,Seema Gupta,0Juc2cL26mg,0.0,2018-08-10 19:26:48,False,False
+2018-08-12T16:03:12,Came to see the comments on the 'family business'. So happy right now!,0,0,Vidya Kurup,0Juc2cL26mg,0.5785714285714285,2018-08-12 16:03:12,False,False
+2018-08-12T16:27:50,Is this movie good cause the trailor looks mad boring,0,0,Laleishka Milay Agosto Acevedo,0Juc2cL26mg,-0.30833333333333335,2018-08-12 16:27:50,False,False
+2018-08-12T16:53:08,Why would she get the house extended if there are supernatural things going on around it? Loving the amount of SP fans though XD,0,0,Muneebah Yunus,0Juc2cL26mg,0.3833333333333333,2018-08-12 16:53:08,False,False
+2018-08-14T05:43:33,"I just finished watching this movie all alone in my room with lights off and I liked it. I wasn't scared to go to the toilet after the movie, that proves it's not that scary but there's some jumpscares although I didn't jump cause I was laying on the bed. Jk It's a nice movie do watch it.",0,0,Nautybilal,0Juc2cL26mg,0.19333333333333333,2018-08-14 05:43:33,False,False
+2018-08-14T12:36:46,Is boxxy software a legitimate safe program to see this movie?,0,1,Roni _82,0Juc2cL26mg,0.5,2018-08-14 12:36:46,False,False
+2018-08-16T18:50:39,John Winchester is about to make a comeback,0,0,Vegan Reality T.V,0Juc2cL26mg,0.0,2018-08-16 18:50:39,False,False
+2018-08-19T23:06:18,"Omg yes the Unsolved video on the Winchester house is super cool,  but of course the movie exaggerated the actual story",0,0,GorillazNoodle123 May,0Juc2cL26mg,0.04583333333333334,2018-08-19 23:06:18,False,False
+2018-08-26T01:50:02,อยากดู,0,0,ฝัน แต่จะคิด,0Juc2cL26mg,0.0,2018-08-26 01:50:02,False,False
+2018-08-26T21:43:12,The film sucks,0,0,Jerk of Hearts,0Juc2cL26mg,-0.3,2018-08-26 21:43:12,False,False
+2018-08-27T03:21:11,10/10 movie sucks arse,0,0,faceless zombie,0Juc2cL26mg,-0.3,2018-08-27 03:21:11,False,False
+2018-08-30T15:35:48,These damn comments. This is exactly why I don't like Supernatural. 😂 Obsessed people with no other interests or hobbies everywhere! Lmao.,1,0,Andy,0Juc2cL26mg,0.11895833333333332,2018-08-30 15:35:48,False,False
+2018-09-01T10:43:06,My older brother who passed a year ago told me years ago he met a builder in the south of england who worked on fixing up a large house to have many extra doors because the woman to confuse and restrict the ghosts. This was all in England though.,0,0,Ricky Spanish,0Juc2cL26mg,0.22023809523809523,2018-09-01 10:43:06,False,False
+2018-09-03T15:10:09,I’m going there to see the house today,0,0,:Gacha Cherry:,0Juc2cL26mg,0.0,2018-09-03 15:10:09,False,False
+2018-09-03T18:59:28,...and lightly disguised anti-gun movie....,0,0,Jjj Ww,0Juc2cL26mg,0.4,2018-09-03 18:59:28,False,False
+2018-09-05T01:15:20,This movie is on netflix in Canada right now,0,0,Awesome Possum R/C,0Juc2cL26mg,0.2857142857142857,2018-09-05 01:15:20,False,False
+2018-09-05T02:56:38,this looks like knock off trash smh,0,0,JustAGryphon,0Juc2cL26mg,0.0,2018-09-05 02:56:38,False,False
+2018-09-08T17:50:05,"I have been to this house and it is terrifying. When me and my brother stepped into the séance room my brother almost passed out a Adams with the ballroom, and I swear to you something followed us home that night",0,0,Kelly Milichichi,0Juc2cL26mg,-1.0,2018-09-08 17:50:05,False,False
+2018-09-12T02:22:33,Calling Sam and Dean.,0,0,JasonTv,0Juc2cL26mg,0.0,2018-09-12 02:22:33,False,False
+2018-09-13T14:57:46,"Disappointed by how this was handled, had potential to be amazing, sadly wasn’t.",0,0,Sasquatch Sasquatch,0Juc2cL26mg,-0.16249999999999998,2018-09-13 14:57:46,False,False
+2018-09-17T05:31:07,"i've always wanted to go and see the Winchester movie,just because it takes place at the actual house and it looks really cool.",0,0,David Daub,0Juc2cL26mg,0.175,2018-09-17 05:31:07,False,False
+2018-09-17T18:03:11,Wasn't bad.,0,0,TajemnaTemnota,0Juc2cL26mg,-0.6999999999999998,2018-09-17 18:03:11,False,False
+2018-09-17T20:08:23,rose red,0,0,Victor Frankenstein,0Juc2cL26mg,0.3,2018-09-17 20:08:23,False,False
+2018-09-21T02:54:07,"It’s so strange that I’m here to see the trailer, and a trailer for the trailer plays before the trailer",4,0,KoopaPlays,0Juc2cL26mg,-0.05,2018-09-21 02:54:07,False,False
+2018-09-26T07:56:26,I live right beside this house lol,0,0,Ethan O'Brien,0Juc2cL26mg,0.40735930735930737,2018-09-26 07:56:26,False,False
+2018-09-28T03:03:57,Looking through the comments to see if it’s worth watching and all I see are fuckin Sam &  Dean comments and the rest are people happy to see Sam and Dean comments.  How about how was the damn movie?!,2,0,Alyss Kennedy,0Juc2cL26mg,0.65,2018-09-28 03:03:57,False,False
+2018-10-05T08:32:48,does someone know this song the Little Boy is singing or is it made by the Producers? thx,0,0,xX_YoloSwgr3000_Xx,0Juc2cL26mg,-0.1875,2018-10-05 08:32:48,False,False
+2018-10-05T23:51:09,February 2 is my bday lol,0,0,PRINCESS YT,0Juc2cL26mg,0.8,2018-10-05 23:51:09,False,False
+2018-10-06T20:37:23,Why in these movies there is always someone singing some creepy songs ?,0,0,user sam,0Juc2cL26mg,-0.5,2018-10-06 20:37:23,False,False
+2018-10-08T14:36:30,"I think, nice movie",0,0,Angga Massage,0Juc2cL26mg,0.6,2018-10-08 14:36:30,False,False
+2018-10-08T16:54:57,When you don't watch supernatural and all the comments are about it -_- guess I'll go to Google to get real reviews.,0,0,Shana Nicole,0Juc2cL26mg,0.18333333333333335,2018-10-08 16:54:57,False,False
+2018-10-08T22:55:16,where are sam and dean winchester,0,0,Meriton R.,0Juc2cL26mg,0.0,2018-10-08 22:55:16,False,False
+2018-10-13T09:49:35,Wow! Mary aged pretty badly 😂,1,0,Huda Abdul Hussain,0Juc2cL26mg,-0.10624999999999996,2018-10-13 09:49:35,False,False
+2018-10-20T21:58:39,Wasn't the Winchester in shaun of the dead lol.,0,0,John,0Juc2cL26mg,0.30000000000000004,2018-10-20 21:58:39,False,False
+2018-10-27T00:21:40,"Am i the only gun guy here who came here just because of ""Winchester""?",0,0,Darren Atm,0Juc2cL26mg,0.0,2018-10-27 00:21:40,False,False
+2018-10-28T00:27:04,"Y’all know that this Winchester house exist, it in San Jose California",0,0,Teau Faletau,0Juc2cL26mg,0.0,2018-10-28 00:27:04,False,False
+2018-10-29T00:24:50,I think i have a crus h on ben block the actor ok the actor,0,0,ML game plays YT,0Juc2cL26mg,0.5,2018-10-29 00:24:50,False,False
+2018-11-04T15:45:03,Dad is on a hunting trip and he hasn't home for few days....,0,0,welmar amado,0Juc2cL26mg,-0.2,2018-11-04 15:45:03,False,False
+2018-11-04T21:55:10,Man I didn't know they were making a movie about her. I saw the investigation Ryan and Shane did only a few months ago.,0,0,Jhuma Khan,0Juc2cL26mg,-0.1,2018-11-04 21:55:10,False,False
+2018-11-07T17:17:13,0.28min,0,0,Renato Filipe,0Juc2cL26mg,0.0,2018-11-07 17:17:13,False,False
+2018-11-09T19:16:26,Insidious 2,0,0,Nicole Uh,0Juc2cL26mg,0.0,2018-11-09 19:16:26,False,False
+2018-11-12T14:49:33,Screw sam and dean. Call the ghostbusters,0,0,joshua francis,0Juc2cL26mg,0.0,2018-11-12 14:49:33,False,False
+2018-11-19T07:15:35,"Lol, that was funny how I had to scroll 5min to find any opinions about the movie... None:D",0,0,Around The Verse,0Juc2cL26mg,0.525,2018-11-19 07:15:35,False,False
+2018-11-19T21:11:12,Is there any news about Winchester part 2,0,0,Miro,0Juc2cL26mg,0.0,2018-11-19 21:11:12,False,False
+2018-11-22T15:33:13,Did they shoot in the actual Winchester manor? I kinda knew about the Winchester from Buzzfeed unsolved.,0,0,Nam Jiminie,0Juc2cL26mg,0.0,2018-11-22 15:33:13,False,False
+2018-12-03T20:25:47,My favorite horror movie,0,0,andres milovic zander,0Juc2cL26mg,0.5,2018-12-03 20:25:47,False,False
+2018-12-06T22:44:46,Anti-gun propaganda disguised as a ghost story. That's why Trump won. People are tired of liberal officials and their hollywood lackeys slipping mickeys in our cocktails. I'm no gun lover but I like subliminal indoctrination even less... I'm just glad I didn't fund their cause by buying the ticket. I was an usher so I saw it free. :D,0,0,Tuffy Badass,0Juc2cL26mg,0.1619047619047619,2018-12-06 22:44:46,False,False
+2018-12-07T06:31:52,"well no idea who / why all the sam n dean comments but it's completely put me off and i won't watch it now ,,, NEXT !",0,0,robert bertie,0Juc2cL26mg,0.05,2018-12-07 06:31:52,False,False
+2018-12-08T21:59:13,احمد ياصلءح متياسش تمام بس انت مش هتعرف تستفزني تمام حبيبي ياقصمك حبيبي,0,0,Ahamed Youssry,0Juc2cL26mg,0.0,2018-12-08 21:59:13,False,False
+2018-12-08T21:59:43,اوعي تياس ها حبيبي ياسطا بحبك قصمك,0,0,Ahamed Youssry,0Juc2cL26mg,0.0,2018-12-08 21:59:43,False,False
+2018-12-09T18:10:15,Dam and sean ?,0,0,MEPN XEHN,0Juc2cL26mg,0.0,2018-12-09 18:10:15,False,False
+2018-12-09T21:29:06,وقصها بيوجعها ايوه يبنت المتناكه ايوه ياقصمك,0,0,Ahamed Youssry,0Juc2cL26mg,0.0,2018-12-09 21:29:06,False,False
+2018-12-09T21:30:13,ابوي لما يكلم بتعرف تجيبهم ياض زي احمد ها ها ها,0,0,Ahamed Youssry,0Juc2cL26mg,0.0,2018-12-09 21:30:13,False,False
+2018-12-09T21:30:51,كرم,0,0,Ahamed Youssry,0Juc2cL26mg,0.0,2018-12-09 21:30:51,False,False
+2018-12-09T21:32:32,كرم غير مفهوم الزبر بعد ماكان بيتقاس بالسم بقي يتقاس عند كرم بالي مليمتر,0,0,Ahamed Youssry,0Juc2cL26mg,0.0,2018-12-09 21:32:32,False,False
+2018-12-09T21:32:45,بنت خلف بنيكها,0,0,Ahamed Youssry,0Juc2cL26mg,0.0,2018-12-09 21:32:45,False,False
+2018-12-09T21:33:01,وقالتلي عايز انام معاك,0,0,Ahamed Youssry,0Juc2cL26mg,0.0,2018-12-09 21:33:01,False,False
+2018-12-12T06:03:02,I meant Winchester as in Dean and Sam but ok …,0,0,Zachariah Persol,0Juc2cL26mg,0.5,2018-12-12 06:03:02,False,False
+2018-12-12T22:39:47,I watched this awhile ago when it was in theaters... it wasn’t scary,0,0,Jenna Fleming,0Juc2cL26mg,-0.5,2018-12-12 22:39:47,False,False
+2018-12-13T14:07:38,Shaun of dead,0,0,chendrakanth palamakula,0Juc2cL26mg,-0.2,2018-12-13 14:07:38,False,False
+2018-12-22T07:58:15,Supernatural season 100 episode 100  More vengeful spirits !,0,0,Magic Mank,0Juc2cL26mg,0.3958333333333333,2018-12-22 07:58:15,False,False
+2018-12-22T14:51:36,Who wants fried eggs and jelly beans? (C'mon I had to comment on something different),0,0,SUN WARRIOR,0Juc2cL26mg,0.1,2018-12-22 14:51:36,False,False
+2018-12-27T10:21:07,They should have Sam and Dean in the movie.,0,0,Patton Rommel,0Juc2cL26mg,0.0,2018-12-27 10:21:07,False,False
+2018-12-27T14:47:15,We want it 4564p!,0,0,Johnny Hansen,0Juc2cL26mg,0.0,2018-12-27 14:47:15,False,False
+2018-12-28T11:28:33,Sarah snook is an absolute honey !!!,0,0,fjbutch,0Juc2cL26mg,0.390625,2018-12-28 11:28:33,False,False
+2018-12-28T16:59:29,This scares are CGI they take practical effects and mystery and just doing some crazy Digital ghost And  ridiculous 3-D FX screw 3-D thankfully I did not see this movie in 3-D because that would been even worst it just seems like whoever came up with this idea just said hold my beer,0,0,Chad Special productions,0Juc2cL26mg,-0.48333333333333334,2018-12-28 16:59:29,False,False
+2018-12-29T05:23:42,I wonder if Shane and Ryan are in this movie,0,0,Jacob Hernandez,0Juc2cL26mg,0.0,2018-12-29 05:23:42,False,False
+2018-12-29T07:44:53,So basically 13 ghosts,0,0,Omega Effect,0Juc2cL26mg,0.0,2018-12-29 07:44:53,False,False
+2019-01-02T22:29:44,fortnite is dying,0,0,marchofdime1,0Juc2cL26mg,0.0,2019-01-02 22:29:44,False,False
+2019-01-05T00:15:38,"Went to see this .... Was the only one, in the Theatre !! (Or, was I ??) BOO.",1,0,Gemma Selby,0Juc2cL26mg,0.0,2019-01-05 00:15:38,False,False
+2019-01-08T20:13:55,The scariest part about this movie was the singing ginger kid. Creeped the hell out of me.,0,0,Germanic Arian,0Juc2cL26mg,0.0,2019-01-08 20:13:55,False,False
+2019-01-09T03:59:39,I hope the cast are real witches. Otherwise there will be SJW outrage.,0,0,Kungini,0Juc2cL26mg,0.2,2019-01-09 03:59:39,False,False
+2019-01-18T05:12:37,https://youtu.be/_SZjrcX02Lc Click here to see full movie 🍿,0,0,Hoshi EntertainmentPH,0Juc2cL26mg,0.35,2019-01-18 05:12:37,False,False
+2019-01-18T20:00:16,"This trailer is very reminiscent of the Insidious franchise, good on them for including those notorious violins, eerie nursery rhymes, old widow etc.",0,0,Freeyful,0Juc2cL26mg,0.07499999999999998,2019-01-18 20:00:16,False,False
+2019-01-20T14:06:43,1:20 new gen spirit (turn on english caption),0,0,boris brian,0Juc2cL26mg,0.06818181818181818,2019-01-20 14:06:43,False,False
+2019-01-22T00:57:02,Nice please let me see it.,0,0,TheHotcakes02,0Juc2cL26mg,0.6,2019-01-22 00:57:02,False,False
+2019-01-23T12:19:04,I only came here after Razzie Awards nomination!,0,0,Chris Sivaprakash Kumanan,0Juc2cL26mg,0.0,2019-01-23 12:19:04,False,False
+2019-01-28T06:01:07,"DO U BELIEVE IN GHOST?? U SHOULD, THEY'RE REAL!!",0,0,bigga,0Juc2cL26mg,0.3125,2019-01-28 06:01:07,False,False
+2019-01-29T16:46:02,Didng she live by herself,0,0,Karynna Moua,0Juc2cL26mg,0.13636363636363635,2019-01-29 16:46:02,False,False
+2019-01-31T17:49:54,Carry on my wayward son !!!! Sam and dean is back Ghost/demon/witch/angel even lucifer slayers,2,0,Cipondoh Tv,0Juc2cL26mg,0.0,2019-01-31 17:49:54,False,False
+2019-02-06T01:37:07,Too bad this movie won't be playing at the Winchester Cinemas THAT WERE ACROSS THE STREET FROM THE WINCHESTER HOUSE!!!  That's because they tore down all the movie theaters for other development?!,0,0,baumcollc same,0Juc2cL26mg,-0.43726851851851856,2019-02-06 01:37:07,False,False
+2019-02-06T01:41:28,so is supernatural loosely based from this?,0,0,Fayery,0Juc2cL26mg,0.044871794871794865,2019-02-06 01:41:28,False,False
+2019-02-10T05:36:06,Where can you see full movie ok,0,0,Julia Dawnyel,0Juc2cL26mg,0.425,2019-02-10 05:36:06,False,False
+2019-02-12T12:09:35,Of course I will admit this movie needs Dean and Sam Winchester,0,0,clarendan ADIWAR,0Juc2cL26mg,0.0,2019-02-12 12:09:35,False,False
+2019-02-17T01:41:22,Call Sam and Dean,1,0,Nate FTR,0Juc2cL26mg,0.0,2019-02-17 01:41:22,False,False
+2019-02-22T00:00:44,someone's getting ganked,0,0,Brent Garner,0Juc2cL26mg,0.0,2019-02-22 00:00:44,False,False
+2019-02-24T15:50:28,OH HOW I LOVE MY SPN FAM. WE'RE EVERYWHERE Also...GET THE SALT!,0,0,Mona J,0Juc2cL26mg,0.625,2019-02-24 15:50:28,False,False
+2019-02-25T09:24:06,WE WANT SAM AND DEAN!!!,1,0,Ryto X,0Juc2cL26mg,0.0,2019-02-25 09:24:06,False,False
+2019-02-26T11:38:32,"Jeez, all these supernatural related comments had me smiling like a dummy.... Good stuff 😊",1,0,Daisuke Hoshimi,0Juc2cL26mg,0.28888888888888886,2019-02-26 11:38:32,False,False
+2019-03-03T16:51:51,"Personally I believe that the supernatural may indeed be present at the Winchester House, however I also believe it's nowhere near as bad as the movie portrays.  You can never trust most movie makers with the facts. They will always obscure the true story behind  exaggeration and sensationalism.   At the same time I understand 2 lines from the movie. Helen Mirren saying 'You leave my family alone.' and 'Your anger will never defeat us.' My own family dealt with the supernatural for almost 20 years where I spent my early childhood. A number of these encounters involved physical violence.  In the end, the supernatural is a touchy subject when it comes to film portrayals. And many times the facts end up distorted or completely fabricated for the sake of 'thrills'.",0,0,Riley Williams,0Juc2cL26mg,0.03070175438596492,2019-03-03 16:51:51,False,False
+2019-03-16T21:17:54,Worst movie,0,0,Reaber Saadi,0Juc2cL26mg,-1.0,2019-03-16 21:17:54,False,False
+2019-03-22T04:17:01,Lmao just watched it today the dude got more jump scared by the servants than the ghost 😂,1,0,Makaveli,0Juc2cL26mg,0.55,2019-03-22 04:17:01,False,False
+2019-03-25T03:58:20,"Honestly I hated the political agenda of this movie that even infected the representation of Sarah Winchester. If you read this:  https://www.prairieghosts.com/winchester.html you'll see a section that mentions that she specifically built it as a maze out of her chaotic improvisational planning methods and to keep the spirits of evil murders and law breakers who had been killed by a Winchester rifle confused.  She was stupid rich and had been lead into some evil occult using hysteria by the reliance on a medium.  I'm not saying that it's not possible or even likely that she invited one or two things into that house or that she could possibly be one haunting it, but she also blamed the great earthquake on the spirits, and I've never in my life even heard a rumor that suggest ethereal beings and lost souls could perform such a feat. I had to go out of my way to find somewhere to complain about this, simply because I hate historical revisionism and bss aackwords political agendas shoved down my throat in what otherwise was a decent movie.  Just drop that nonsense of how boom sticks are bad, rather than the broken world we inhabit with other broken people who are all capable of great and/or terrible things Winchester Lever Action rifles saw use in the Civil War on the Union Side, and primarily as a hunting rifle people needed in order to be able to eat. Factory farms weren't exactly a thing until the mid 20th century. Farms existed, but if you wanted a steady supply of protein for large populations someone was going to have to hunt. Lorenzoni repeaters had been a thing since around 1660, Revolvers since at least 1597, and bows/arrows, spears, clubs, and knives have been used far earlier than that.  I only have myself to blame for getting peeved off by that ""inspired by a true story"" sticker getting slapped on there. When I was a kid I was too apathetic and lazy to actually dive into the history books and learn about the real events that inspire such films, and rather than realize that inspired usually has an invisible ""loosely"" following it, I actually accepted it as fact and let it change my perception of world when they really shouldn't.  I feel like more than ever the majority of people aren't growing out of that same state my mind inhabited as a child, and I have this overwhelming desire to call out such things when I see them because I've know too many naive people.  Wooh! This was cathartic.",0,0,Catholic Defender,0Juc2cL26mg,-0.05156483977238693,2019-03-25 03:58:20,False,False
+2019-03-30T21:37:34,i’m in the winchester house watching this,0,0,destiny rocha,0Juc2cL26mg,0.0,2019-03-30 21:37:34,False,False
+2019-04-14T06:32:48,Hssn,0,0,Abm Jamil,0Juc2cL26mg,0.0,2019-04-14 06:32:48,False,False
+2019-04-24T11:03:25,Balls,1,0,PatrikkPlayz 123,0Juc2cL26mg,0.0,2019-04-24 11:03:25,False,False
+2019-04-24T11:04:14,Balls #2,0,0,Alex Playz,0Juc2cL26mg,0.0,2019-04-24 11:04:14,False,False
+2019-04-29T02:59:04,WHOA ....goosebumps,0,0,Palmina D'Alessandro,0Juc2cL26mg,0.0,2019-04-29 02:59:04,False,False
+2019-05-02T12:54:59,Where‘s my SPN Fam? 🙋🏽‍♀️,0,0,BLVCKBANGTAN,0Juc2cL26mg,0.0,2019-05-02 12:54:59,False,False
+2019-05-02T21:47:59,Sarah Winchester was actually 4 foot 10 inches tall. Her portrayer looks 6 foot. 🤷‍♂️,0,0,Chris Clark,0Juc2cL26mg,0.0,2019-05-02 21:47:59,False,False
+2019-05-13T22:22:55,I went to the Winchester house!,0,1,BagelsArtAddiction -w-,0Juc2cL26mg,0.0,2019-05-13 22:22:55,False,False
+2019-05-14T06:07:47,Meh.. 4 out of 10. A mediocre movie.,0,0,SWeMX,0Juc2cL26mg,-0.5,2019-05-14 06:07:47,False,False
+2019-05-25T02:13:36,not good,0,0,İsmail Yılmaz,0Juc2cL26mg,-0.35,2019-05-25 02:13:36,False,False
+2019-05-27T19:01:48,I have seen this movie,0,0,Maria Ökner,0Juc2cL26mg,0.0,2019-05-27 19:01:48,False,False
+2019-05-31T12:53:15,So not 1 person can say if this movie is Good or bad??,2,0,WICTOR cv,0Juc2cL26mg,5.551115123125783e-17,2019-05-31 12:53:15,False,False
+2019-06-02T21:56:42,Been to the real house a  long time ago and  for $30 I expected more than opening a door to a brick wall and staircases that lead to  nowhere. Just seems like a Hollywood set .,0,0,Jennifer Mendes,0Juc2cL26mg,0.1375,2019-06-02 21:56:42,False,False
+2019-06-03T14:20:20,*video starts* Subtitles: I fEeL cOmPrEsSeS,0,0,Xanaha :3,0Juc2cL26mg,0.0,2019-06-03 14:20:20,False,False
+2019-06-06T07:13:57,So many possible stories and cool history...for another horror movie?,0,0,Justin Pieratt,0Juc2cL26mg,0.2833333333333333,2019-06-06 07:13:57,False,False
+2019-06-06T21:26:51,Doubt this'll live up to the actual house,1,0,Yuzuru Otonashi,0Juc2cL26mg,0.06818181818181818,2019-06-06 21:26:51,False,False
+2019-06-10T05:01:23,I live by the Winchester house and actually been inside and seen the costumes that were used in the film !,0,0,Nycole Colvin,0Juc2cL26mg,0.06818181818181818,2019-06-10 05:01:23,False,False
+2019-06-10T17:50:33,SPN fam never disappoints me,0,0,Galaxy Moon,0Juc2cL26mg,0.0,2019-06-10 17:50:33,False,False
+2019-06-16T11:18:52,"So basically they make guns and the guns that they made kills people and the peoples spirit who got killed started haunting the maker of the gun,  well wtf I guess",0,0,Marky Darky,0Juc2cL26mg,-0.35,2019-06-16 11:18:52,False,False
+2019-06-19T02:58:44,Am I the only one brought here by the LORE podcast?      yes? Ok don't mind me....,0,0,Keziah Simms,0Juc2cL26mg,0.25,2019-06-19 02:58:44,False,False
+2019-06-20T18:55:03,I don't know who Sam and Dean is I am here for Ryan and Shane #heydevilitsme #ghouligans,0,0,Sanjali Das,0Juc2cL26mg,0.0,2019-06-20 18:55:03,False,False
+2019-06-26T03:16:33,If there are really ghosts they would be haunting the people whom killed them not the maker of the rifles that was used.,0,0,Jarod 1999,0Juc2cL26mg,0.0,2019-06-26 03:16:33,False,False
+2019-06-28T04:22:23,"dean: look wat I found in the fridge double cheesy toast burger 2days old Sam: eeeh,, dean we got work to do dean: but I just found my burger,,ugh no one touches my burger until I get back, come on Cass let's hit the road.",0,0,Liu Kang,0Juc2cL26mg,-0.1,2019-06-28 04:22:23,False,False
+2019-06-29T02:57:39,Dean is gonna be killed by the son of Sam's friend Amy. That's gonna be the series finale.,0,0,OneTime Gregory,0Juc2cL26mg,-0.2,2019-06-29 02:57:39,False,False
+2019-07-02T05:24:43,sucks all the comments are about supernatural. the movie was pretty good. with a few great scares. for someone who studied the Winchester family (my family owns a gun business) it was historically executed with a well moral to the story.,0,0,Colt,0Juc2cL26mg,0.17708333333333334,2019-07-02 05:24:43,False,False
+2019-07-12T00:52:28,Saw the movie 10/10,0,0,Matthew 123,0Juc2cL26mg,0.0,2019-07-12 00:52:28,False,False
+2019-07-13T11:16:03,I was searching for a review about this movie but most comments were about Sam and Dean. Who are Sam and Dean?,0,0,Ankit Sharma,0Juc2cL26mg,0.5,2019-07-13 11:16:03,False,False
+2019-07-14T02:27:10,Btw shane and ryan went to this place,1,0,Joshua Vidal,0Juc2cL26mg,0.0,2019-07-14 02:27:10,False,False
+2019-07-17T07:33:28,"Beautiful dreamer wake up to thee, starlight and dewdrops are waiting for thee....🎶🎶🎻🎻🎻",0,0,80s/ Horror fan,0Juc2cL26mg,0.85,2019-07-17 07:33:28,False,False
+2019-07-27T13:40:34,they forgot salt and silver,0,0,strups,0Juc2cL26mg,0.0,2019-07-27 13:40:34,False,False
+2019-08-02T23:07:23,It was the butler,0,0,ALEXIA ARCHER,0Juc2cL26mg,0.0,2019-08-02 23:07:23,False,False
+2019-08-03T19:37:16,Hermm the guy has seen ghosts saw people die seen house trumble on its own gets pulled back by a ghost becomes one and still doesnt believe in ghosts how ironic,0,0,Ortepia,0Juc2cL26mg,0.26666666666666666,2019-08-03 19:37:16,False,False
+2019-08-13T12:56:07,Am I the only one who thinks this film is strikingly similar to Stephen King's novel and 2002 mini-series Rose Red?,0,0,Dmitri Ruwan,0Juc2cL26mg,0.15,2019-08-13 12:56:07,False,False
+2019-08-16T14:21:34,I'm not into Ghost movies,0,0,Jamie Liss,0Juc2cL26mg,0.0,2019-08-16 14:21:34,False,False
+2019-08-18T21:36:07,Where is Zak Bagins when you need him!,0,0,A Bishop,0Juc2cL26mg,0.0,2019-08-18 21:36:07,False,False
+2019-08-19T13:25:42,okay somebody help me hear who the hell is sam and dean,1,0,Kimberly Simpson,0Juc2cL26mg,0.5,2019-08-19 13:25:42,False,False
+2019-08-28T14:36:40,😎,0,0,Barry Nugent,0Juc2cL26mg,0.0,2019-08-28 14:36:40,False,False
+2019-08-29T20:19:17,They took a story and completely jacked it up. She didnt hate the spirits and they were not mean to her. Just insanity but still looks like a decently filmed movie.,0,0,Chris O.,0Juc2cL26mg,-0.09427083333333336,2019-08-29 20:19:17,False,False
+2019-09-02T06:37:53,So today I found out my 4 year old daughter saw this with her Aunty at her place....now my poor kid won't sleep alone 🥺😟 ....what's wrong with Coco or Malificent?,0,0,Mary Konopasek,0Juc2cL26mg,-0.26666666666666666,2019-09-02 06:37:53,False,False
+2019-09-14T18:53:30,EMF's going nuts,0,0,Mustafa Feroz,0Juc2cL26mg,0.0,2019-09-14 18:53:30,False,False
+2019-09-15T16:48:35,YALL WHO IS SAM AND DEAN PLS EXPLAIN,0,0,full_ memes,0Juc2cL26mg,0.0,2019-09-15 16:48:35,False,False
+2019-09-16T01:06:28,Me too. You can use my old house by the water,0,0,Joshua Nolan,0Juc2cL26mg,0.1,2019-09-16 01:06:28,False,False
+2019-09-17T22:45:08,"Why all the ""Sam and Dean"" comments? Just because of the title Winchester? Hmmmm",0,0,Lady-in-Red -,0Juc2cL26mg,0.0,2019-09-17 22:45:08,False,False
+2019-09-25T10:51:22,terrible movie,0,0,Josh Fowler,0Juc2cL26mg,-1.0,2019-09-25 10:51:22,False,False
+2019-09-27T05:56:41,"I saw the movie yesterday , it is really a nice movie , I was intentiend all the time , the actors .. the story of the movie all are awsome .. I recommended",0,0,Duaa khan,0Juc2cL26mg,0.6,2019-09-27 05:56:41,False,False
+2019-09-30T13:57:20,And Finally -- What happens when u put salt on a birds tail ?,0,0,Amran Ackerman,0Juc2cL26mg,0.0,2019-09-30 13:57:20,False,False
+2019-10-05T20:47:56,STOP DOING A TRAILER BEFORE A TRAILER,0,0,Dan Askew,0Juc2cL26mg,0.0,2019-10-05 20:47:56,False,False
+2019-10-08T12:38:35,I am watching this today,0,0,russiancase,0Juc2cL26mg,0.0,2019-10-08 12:38:35,False,False
+2019-10-11T07:45:12,Who the hell is sam and dean?,0,0,Maharani Anindya,0Juc2cL26mg,0.0,2019-10-11 07:45:12,False,False
+2019-10-12T17:40:02,"Ugh! I hate how they've undone all the intellectual side of the Winchester home, the architecture and cyphering. I'm disappointed this is the story everyone will know about her and her home now.",0,0,Amanda Heinen,0Juc2cL26mg,-0.4166666666666667,2019-10-12 17:40:02,False,False
+2019-10-18T11:19:29,"I saw the title of this, I thought it was the supernatural. I just had to watch it lol....",0,0,Jerry Berry,0Juc2cL26mg,0.48333333333333334,2019-10-18 11:19:29,False,False
+2019-10-20T00:55:46,1:51 them spirits big mad,0,0,vchwita,0Juc2cL26mg,-0.3125,2019-10-20 00:55:46,False,False
+2019-10-29T06:39:58,Does anyone know the download link please help,0,0,James Francessco Roy,0Juc2cL26mg,0.0,2019-10-29 06:39:58,False,False
+2019-11-07T19:24:56,After the war john price became a doctor,0,0,deondra dailey,0Juc2cL26mg,0.0,2019-11-07 19:24:56,False,False
+2019-11-09T04:40:35,Guess the idea of giving up 95% of your fortune to help widows and orphans is much less appealing than living eccentrically and having tons of servants.... 🙄,0,0,Necessary Evil,0Juc2cL26mg,0.16666666666666669,2019-11-09 04:40:35,False,False
+2019-11-12T22:58:52,Where is sam and dean when you need them.,0,0,John Rambo,0Juc2cL26mg,0.0,2019-11-12 22:58:52,False,False
+2019-11-30T23:25:25,Love being raised in the same city,0,0,Eli Montalvo,0Juc2cL26mg,0.25,2019-11-30 23:25:25,False,False
+2019-12-12T09:27:53,Plot Twist: this movie was great,0,0,Lean 2200,0Juc2cL26mg,0.8,2019-12-12 09:27:53,False,False
+2019-12-12T13:29:32,*ghostbusters theme song plays at the end*,0,0,Jesse Rodriguez,0Juc2cL26mg,0.0,2019-12-12 13:29:32,False,False
+2019-12-16T01:08:41,98% of comments: *Sam and Dean* 2%: these types,2,0,star,0Juc2cL26mg,0.0,2019-12-16 01:08:41,False,False
+2019-12-17T03:10:25,"Outstanding film , bravo ☺",0,0,"Sophie 3,000",0Juc2cL26mg,0.5,2019-12-17 03:10:25,False,False
+2020-02-01T17:38:05,https://www.youtube.com/watch?v=Rncy3AYByTY,1,0,ZACHOS PAPAZACHARIAS SOUNDTRACKS - CINEMATIC MUSIC,0Juc2cL26mg,0.0,2020-02-01 17:38:05,False,False
+2020-02-27T12:39:59,Serem,1,0,Jay rhochid,0Juc2cL26mg,0.0,2020-02-27 12:39:59,False,False
+2020-03-03T13:24:44,"that moment when the film ends with a ""based in true facts"":",1,1,1 Million Subs With 1 video challenge,0Juc2cL26mg,0.35,2020-03-03 13:24:44,False,False
+2020-03-22T05:06:52,why cant they just move out from that haunting house?,0,0,Pak Samnang,0Juc2cL26mg,0.0,2020-03-22 05:06:52,False,False
+2020-03-29T02:12:03,The real story of Sarah Winchester isn’t as horrific. It was about a woman who lost everything and was sad.,0,0,Little Jedi,0Juc2cL26mg,-0.43333333333333335,2020-03-29 02:12:03,False,False
+2020-04-03T13:05:44,One of the worst horror movies ever with Slenderman and bye bye man,0,0,daniel mateos gómez,0Juc2cL26mg,-1.0,2020-04-03 13:05:44,False,False
+2020-04-05T08:48:00,Isso deve ser coisa da minha cabeça,1,0,Zedy,0Juc2cL26mg,0.0,2020-04-05 08:48:00,False,False
+2020-04-10T05:59:33,That's Dean singing. 😂😂😂,0,0,Lali Malik,0Juc2cL26mg,0.0,2020-04-10 05:59:33,False,False
+2020-04-12T14:36:31,is good luck the movie,0,0,khania official,0Juc2cL26mg,0.7,2020-04-12 14:36:31,False,False
+2020-04-15T00:30:58,winchester is a gun,0,0,HenzoKarl Animations,0Juc2cL26mg,0.0,2020-04-15 00:30:58,False,False
+2020-04-18T17:34:48,Is this about Sarah Winchester and her house????,1,0,Isobel Macdonald,0Juc2cL26mg,0.0,2020-04-18 17:34:48,False,False
+2020-04-18T17:35:17,Have you seen Shane and Ryan's video????,0,0,Isobel Macdonald,0Juc2cL26mg,0.0,2020-04-18 17:35:17,False,False
+2020-04-18T21:24:21,so just a rehash of 13 Ghosts?,0,0,AhLottaAntwan,0Juc2cL26mg,-0.05,2020-04-18 21:24:21,False,False
+2020-04-28T14:45:55,That’s what blood money will do to you.,0,0,Olivia Azmi,0Juc2cL26mg,0.0,2020-04-28 14:45:55,False,False
+2020-04-30T19:51:00,The rise of the supernatural fandom!!!!!!!!,0,0,damn Airen,0Juc2cL26mg,0.9934107462565102,2020-04-30 19:51:00,False,False
+2020-05-07T02:21:25,"Here I was, came here on the way to researching the Winchester model 12 shotgun, during the great virus panic. I got a bunch of stimulus money and thought maybe I would buy a takedown shotgun",0,0,mowgli2071,0Juc2cL26mg,0.8,2020-05-07 02:21:25,False,False
+2020-05-07T07:32:43,I wanna look at the homes of people who design textbooks,0,0,convenience store sushi,0Juc2cL26mg,0.0,2020-05-07 07:32:43,False,False
+2020-05-12T11:54:42,I was searching where harry styles talking and then said something about a place wenchester i guess. Amd i searched it with wrong spelling ofcourse so i came up to this,0,0,natsu_ pro,0Juc2cL26mg,-0.5,2020-05-12 11:54:42,False,False
+2020-05-16T23:38:51,Horror movie 101 basics: NEVER SHOW THE VILLAIN/EVIL ENTITY FULLY!! keep it as a suspense..,0,0,Nidulamak Nidulamak,0Juc2cL26mg,0.0,2020-05-16 23:38:51,False,False
+2020-05-18T08:28:03,Simon Pegg and Nick Frost are on their way for pints,0,0,Ciaran McConville,0Juc2cL26mg,0.0,2020-05-18 08:28:03,False,False
+2020-05-25T12:12:17,Didn't knew that granny Winchester was still alive! Goddamn it John! Why didn't you introduce her to Sam and Dean,0,0,Venkat Sai,0Juc2cL26mg,0.15625,2020-05-25 12:12:17,False,False
+2020-05-27T05:07:47,These Sam and Dean comments are annoying asf!,0,0,Monz Miller,0Juc2cL26mg,-1.0,2020-05-27 05:07:47,False,False
+2020-06-04T17:42:42,jufgjy jytj ty d,0,0,Leonardo Campos Ferreira,0Juc2cL26mg,0.0,2020-06-04 17:42:42,False,False
+2020-06-05T11:52:38,egte4st g5rest4ete4r,0,0,emagrecer rapido,0Juc2cL26mg,0.0,2020-06-05 11:52:38,False,False
+2020-06-05T15:45:42,e4t4et eget4t4ete4,0,0,Thiago eduardo Morais,0Juc2cL26mg,0.0,2020-06-05 15:45:42,False,False
+2020-06-05T18:13:49,rtge5rs gse5tg se,0,0,Helton Gabriel Ferreira,0Juc2cL26mg,0.0,2020-06-05 18:13:49,False,False
+2020-06-05T18:13:52,e5t ert5rest e5t,0,0,Helton Gabriel Ferreira,0Juc2cL26mg,0.0,2020-06-05 18:13:52,False,False
+2020-06-05T18:13:55,et e45te4t et ete,0,0,Helton Gabriel Ferreira,0Juc2cL26mg,0.0,2020-06-05 18:13:55,False,False
+2020-06-06T15:31:07,aewfa3r fewfra3r3wr aw,0,0,João Pablo Menezes Bezerra,0Juc2cL26mg,0.0,2020-06-06 15:31:07,False,False
+2020-06-06T15:31:10,w3r fwerw3r w3ra,0,0,João Pablo Menezes Bezerra,0Juc2cL26mg,0.0,2020-06-06 15:31:10,False,False
+2020-06-09T03:05:43,I you banned you crazy,1,0,Alfi febrian,0Juc2cL26mg,-0.6,2020-06-09 03:05:43,False,False
+2020-06-11T10:38:29,ersaerwf 4tr45tges te4,0,0,Reviews e Depoimentos,0Juc2cL26mg,0.0,2020-06-11 10:38:29,False,False
+2020-06-11T10:38:35,e4t 5gyse4tet 4e,0,0,Reviews e Depoimentos,0Juc2cL26mg,0.0,2020-06-11 10:38:35,False,False
+2020-06-13T12:41:19,It's nice to see Chandler from Friends in this movie.,0,0,Ryaca 2,0Juc2cL26mg,0.6,2020-06-13 12:41:19,False,False

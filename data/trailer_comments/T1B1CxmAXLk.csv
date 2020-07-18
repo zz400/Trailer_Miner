@@ -1,0 +1,861 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2018-02-05T23:31:11,FIRST XD,1,0,Shit,T1B1CxmAXLk,0.25,2018-02-05 23:31:11,True,True
+2018-02-05T23:31:27,K,1,0,Mr. Ima Garcia,T1B1CxmAXLk,0.0,2018-02-05 23:31:27,True,True
+2018-02-05T23:31:39,Second,0,0,#kam Kamsquad,T1B1CxmAXLk,0.0,2018-02-05 23:31:39,True,True
+2018-02-05T23:31:47,Interesting,2,1,Ahmed Ahmed,T1B1CxmAXLk,0.5,2018-02-05 23:31:47,True,True
+2018-02-05T23:32:41,1er comentario xd,1,0,Drosherik,T1B1CxmAXLk,0.0,2018-02-05 23:32:41,True,True
+2018-02-05T23:33:21,Notice me everyone,252,8,The Media Table,T1B1CxmAXLk,0.0,2018-02-05 23:33:21,True,True
+2018-02-05T23:33:35,This looks like some real garbage.,18,1,Slugthing,T1B1CxmAXLk,0.2,2018-02-05 23:33:35,True,True
+2018-02-05T23:33:51,Y Shannon Purser?,0,0,Sebastian Jarama de Quesada,T1B1CxmAXLk,0.0,2018-02-05 23:33:51,True,True
+2018-02-05T23:35:08,How old is Melissa?,1,5,Daniel Penayo Bazzano,T1B1CxmAXLk,0.1,2018-02-05 23:35:08,True,True
+2018-02-05T23:35:24,Yassssss!!!,4,0,Chrisswith2ss,T1B1CxmAXLk,0.0,2018-02-05 23:35:24,True,True
+2018-02-05T23:37:41,Looks funny!! I love Melissa! She looks like she's lost some weight!!,5,0,Donna Crandall,T1B1CxmAXLk,0.68359375,2018-02-05 23:37:41,True,True
+2018-02-05T23:38:25,Filme sessão da tarde,0,0,Kevin Rick,T1B1CxmAXLk,0.0,2018-02-05 23:38:25,True,True
+2018-02-05T23:38:51,I just watched it on Ellen 😂 LOVED IT,39,2,Lules W,T1B1CxmAXLk,0.7,2018-02-05 23:38:51,True,True
+2018-02-05T23:41:45,This May Google is upgradetable,1,1,Koko Pageralam,T1B1CxmAXLk,0.0,2018-02-05 23:41:45,True,True
+2018-02-05T23:42:42,Mother's day special....,1,1,Old iz Gold,T1B1CxmAXLk,0.35714285714285715,2018-02-05 23:42:42,True,True
+2018-02-05T23:44:03,Definitely gonna go see it,205,7,C.O d,T1B1CxmAXLk,0.0,2018-02-05 23:44:03,True,True
+2018-02-05T23:44:11,Okay then.,61,1,HomiJuanObi,T1B1CxmAXLk,0.5,2018-02-05 23:44:11,True,True
+2018-02-05T23:48:47,😍,1,0,Erlan Feitosa,T1B1CxmAXLk,0.0,2018-02-05 23:48:47,True,True
+2018-02-05T23:50:31,I so want this to be really funny.,65,3,PlantBased Bill,T1B1CxmAXLk,0.25,2018-02-05 23:50:31,True,True
+2018-02-05T23:51:09,Oh wow this actually looks as awful as i thought it would be,149,9,Cyberdemon,T1B1CxmAXLk,-0.3,2018-02-05 23:51:09,True,True
+2018-02-05T23:51:40,"Honestly, I need to see this.",8,0,Joe Snaffer,T1B1CxmAXLk,0.6,2018-02-05 23:51:40,True,True
+2018-02-05T23:55:28,The bitch from That garbage GhostBusters reboot? Hmm nope,0,0,Dark Tales Production,T1B1CxmAXLk,0.0,2018-02-05 23:55:28,True,True
+2018-02-05T23:58:27,Vagoogle 😂😂😂,72,3,Michelle,T1B1CxmAXLk,0.0,2018-02-05 23:58:27,True,True
+2018-02-06T00:02:08,"Gender bender Ghostbusters, overboard, oceans8, and now this remake of Back to School but it’s called life of the party. According to Hollywood women are only allowed to do bad remakes of movies that starred men. Why can’t we give women original content to work with?",17,1,Kevin Lyons,T1B1CxmAXLk,-0.11499999999999996,2018-02-06 00:02:08,True,True
+2018-02-06T00:04:06,This is literally a rated R version of An extremely goofy movie,967,24,Adam Chipps,T1B1CxmAXLk,0.5,2018-02-06 00:04:06,True,True
+2018-02-06T00:06:46,SHAWN MENDES!,2,1,Canal Crazy,T1B1CxmAXLk,0.0,2018-02-06 00:06:46,True,True
+2018-02-06T00:08:18,Wow vagoogle.,2,0,Tomas,T1B1CxmAXLk,0.1,2018-02-06 00:08:18,True,True
+2018-02-06T00:09:57,I feel like this movie has been made before.,581,36,Gamer Fan,T1B1CxmAXLk,0.0,2018-02-06 00:09:57,True,True
+2018-02-06T00:11:17,❤,8,1,Ahad,T1B1CxmAXLk,0.0,2018-02-06 00:11:17,True,True
+2018-02-06T00:12:32,"only female comedian i find funny, hope its good",33,7,Ambassador,T1B1CxmAXLk,0.2375,2018-02-06 00:12:32,True,True
+2018-02-06T00:13:42,wow,1,0,Sweetie Cartoons,T1B1CxmAXLk,0.1,2018-02-06 00:13:42,True,True
+2018-02-06T00:16:40,Melissa McCarthy looks so good since she lost all that weight,150,31,NDSD 1,T1B1CxmAXLk,0.7,2018-02-06 00:16:40,True,True
+2018-02-06T00:21:03,"I hope they use Shawn mendes ""Life Of the party"" Song in this movie",16,4,The Winter Horizon,T1B1CxmAXLk,0.0,2018-02-06 00:21:03,True,True
+2018-02-06T00:32:47,"FINALLY Melissa McCarthy is in another movie! Why the fuck isn't she in more movies? I wish she would do more movies that aren't made with her husband. The mom/daughter dynamic in this doesn't look very funny. I want to see over the top, off the wall and ridiculous, not serious or sentimental.",12,4,N Corp,T1B1CxmAXLk,0.10083333333333336,2018-02-06 00:32:47,True,True
+2018-02-06T00:36:02,This movie looks so bad I respect Melissa McCarthy as an actress but looks like she's playing the same role where she's the fat girl who gets hit with stuff,7,1,Darius St Paul,T1B1CxmAXLk,-0.3499999999999999,2018-02-06 00:36:02,True,True
+2018-02-06T00:37:32,"Melissa McCarthy doing what she does best. I mean I love her but it’s kinda same old same old at this point. I’ll still see it, I love her",88,5,ZeroFox75,T1B1CxmAXLk,0.23593750000000002,2018-02-06 00:37:32,True,True
+2018-02-06T00:41:09,https://youtu.be/pNoTdxuTXAY Plz watch this video,0,0,kundan Kartik,T1B1CxmAXLk,0.0,2018-02-06 00:41:09,True,True
+2018-02-06T00:41:21,I miss that 105 seconds of my life spending to watch this garbage...,0,0,Andris,T1B1CxmAXLk,0.0,2018-02-06 00:41:21,True,True
+2018-02-06T00:53:33,Love it.  Good job,10,1,Will R,T1B1CxmAXLk,0.6,2018-02-06 00:53:33,True,True
+2018-02-06T00:53:35,boring,4,0,Armando Andrés,T1B1CxmAXLk,-1.0,2018-02-06 00:53:35,True,True
+2018-02-06T01:04:31,Nope,15,2,Brutal o4,T1B1CxmAXLk,0.0,2018-02-06 01:04:31,True,True
+2018-02-06T01:06:43,Sounds Interesting,0,0,Neoner Films,T1B1CxmAXLk,0.5,2018-02-06 01:06:43,True,True
+2018-02-06T01:06:53,"Yeah, no thanks. I like Melissa, but I will be passing this movie.",101,7,Edgar Zamora,T1B1CxmAXLk,-0.1,2018-02-06 01:06:53,True,True
+2018-02-06T01:13:11,One of my favourite series,1,0,vinod ben,T1B1CxmAXLk,0.0,2018-02-06 01:13:11,True,True
+2018-02-06T01:20:27,Oh God.No.Just no.,156,4,LQ,T1B1CxmAXLk,0.0,2018-02-06 01:20:27,True,True
+2018-02-06T01:27:03,Oh gawd the cringe is at 110%,89,2,Wistful HERBz,T1B1CxmAXLk,0.0,2018-02-06 01:27:03,True,True
+2018-02-06T01:27:59,love her movies,0,0,Libra ad,T1B1CxmAXLk,0.5,2018-02-06 01:27:59,True,True
+2018-02-06T01:47:15,Poor Melissa McCarthy... She deserves to play in better movies...,0,0,Julien Valiquette,T1B1CxmAXLk,0.04999999999999999,2018-02-06 01:47:15,True,True
+2018-02-06T02:14:17,Love Melissa look forward to seeing this.,0,0,SteLenaFoster,T1B1CxmAXLk,0.5,2018-02-06 02:14:17,True,True
+2018-02-06T02:16:21,Luke Benward I see you,0,0,Samantha S,T1B1CxmAXLk,0.0,2018-02-06 02:16:21,True,True
+2018-02-06T02:20:40,Does anyone know what's the song at the beginning?,0,0,Alejandro Villalobos,T1B1CxmAXLk,0.0,2018-02-06 02:20:40,True,True
+2018-02-06T02:28:15,If this was a 45 year old man going to college and drinking/having sex with coeds and then bragging about it I'm sure the movie would be boycotted to hell.,21,2,Ty James,T1B1CxmAXLk,0.3,2018-02-06 02:28:15,True,True
+2018-02-06T02:32:12,Me sorprende lo que ha adelgazado Melissa o_o,0,0,ucalanche,T1B1CxmAXLk,0.05,2018-02-06 02:32:12,True,True
+2018-02-06T02:39:38,When I close my eyes I cant see,1,0,gustinex,T1B1CxmAXLk,0.0,2018-02-06 02:39:38,True,True
+2018-02-06T03:14:54,She's looking good!,0,0,rowelle,T1B1CxmAXLk,0.875,2018-02-06 03:14:54,True,True
+2018-02-06T03:15:56,Sounds and looks good.,0,0,Kris Kennedy,T1B1CxmAXLk,0.7,2018-02-06 03:15:56,True,True
+2018-02-06T03:18:28,Celebrate your divorce on Mothers Day ladies!,58,3,Brion,T1B1CxmAXLk,0.0,2018-02-06 03:18:28,True,True
+2018-02-06T03:28:20,why would anyone want to see this...  it looks like a female adam sandler movie.,75,5,Holyflygon,T1B1CxmAXLk,0.0,2018-02-06 03:28:20,True,True
+2018-02-06T03:52:11,0:22 any tennis players notice the Blade 😂,0,0,Jeffrey Huether,T1B1CxmAXLk,0.0,2018-02-06 03:52:11,True,True
+2018-02-06T04:17:52,Nice movie,0,0,I Love INDIA,T1B1CxmAXLk,0.6,2018-02-06 04:17:52,True,True
+2018-02-06T04:42:59,It's a Chris Farley movie.,4,0,SilentHamish,T1B1CxmAXLk,0.0,2018-02-06 04:42:59,True,True
+2018-02-06T04:47:16,This movie seems fun....,4,0,Hament Pandit,T1B1CxmAXLk,0.3,2018-02-06 04:47:16,True,True
+2018-02-06T05:21:28,Looks like she put back on a crap load of weight,2,0,FLOODOFSINS,T1B1CxmAXLk,-0.4,2018-02-06 05:21:28,True,True
+2018-02-06T05:26:56,Anything with Melissa McCarthy in it I'll watch.,0,0,David Salinas,T1B1CxmAXLk,0.0,2018-02-06 05:26:56,True,True
+2018-02-06T05:34:22,could be fun but what hot guy with a beautiful smile that is that much younger than her would actually sleep with her? i mean i understand one in real life because of her money but in a fictional world where she isn't loaded? nah fam,0,0,tim,T1B1CxmAXLk,0.17638888888888887,2018-02-06 05:34:22,True,True
+2018-02-06T05:52:04,dumb movie for dumb people,4,1,gkkelemen,T1B1CxmAXLk,-0.375,2018-02-06 05:52:04,True,True
+2018-02-06T06:08:06,"looks ok for a laugh, but i feel like it's been done before",0,0,AquaDragonDavanin,T1B1CxmAXLk,0.4,2018-02-06 06:08:06,True,True
+2018-02-06T06:46:00,I hope its as good as Spy,907,18,Lana Del Taco,T1B1CxmAXLk,0.7,2018-02-06 06:46:00,True,True
+2018-02-06T06:50:40,Not ready for a wild life,0,0,shank,T1B1CxmAXLk,0.0,2018-02-06 06:50:40,True,True
+2018-02-06T07:07:19,Hey guysss! We just started our youtube channel and it would really mean a lot if you guys check it out and subscribe ✨ Thank You :),0,0,Jose & Katie,T1B1CxmAXLk,0.09375,2018-02-06 07:07:19,True,True
+2018-02-06T07:34:17,"""V Google"" I'M FUCKING DEAD",0,0,Reeham,T1B1CxmAXLk,-0.2,2018-02-06 07:34:17,True,True
+2018-02-06T07:41:03,More like a story of a really cool and loving daughter if you ask me,0,0,Fadhil Ramadhani,T1B1CxmAXLk,0.48333333333333334,2018-02-06 07:41:03,True,True
+2018-02-06T08:28:58,FAT SHAMING THIS FAT BITCH,1,0,don Juan,T1B1CxmAXLk,0.0,2018-02-06 08:28:58,True,True
+2018-02-06T08:32:58,shiiiiiiiiiiiiiiiiiiiiiiit.,0,0,Little Big Men Productions,T1B1CxmAXLk,0.0,2018-02-06 08:32:58,True,True
+2018-02-06T08:45:10,Love her!! Melissa is the best!,0,0,Shabnam Saidzada,T1B1CxmAXLk,0.890625,2018-02-06 08:45:10,True,True
+2018-02-06T09:28:30,Does anyone know the song starting from 00:09?,0,0,Eric Lenser,T1B1CxmAXLk,0.0,2018-02-06 09:28:30,True,True
+2018-02-06T10:21:08,"Basically, it's a Rodney Dangerfield -""Back To School"" remake isn't it?",0,0,Murphy Wixx,T1B1CxmAXLk,0.0,2018-02-06 10:21:08,True,True
+2018-02-06T11:08:09,aaaah! Can't wait!  😍,0,0,Silvia Jabr,T1B1CxmAXLk,0.0,2018-02-06 11:08:09,True,True
+2018-02-06T11:52:29,"Naaaahh. Rodney Dangerfield did it with ""Back To School""  more than 30 years ago and he nailed it! Easy pass!",0,0,acegrafik,T1B1CxmAXLk,0.3888888888888889,2018-02-06 11:52:29,True,True
+2018-02-06T12:04:39,Tired of this kinde of shitty movies...,0,0,B,T1B1CxmAXLk,-0.4,2018-02-06 12:04:39,True,True
+2018-02-06T13:06:35,Yay!!! So glad she's coming out with a new movie!!,0,0,jemohseni,T1B1CxmAXLk,0.3565340909090909,2018-02-06 13:06:35,True,True
+2018-02-06T14:21:22,anD We Don'T hAVE To bE ORDInARy,0,0,Jehanvi Arya,T1B1CxmAXLk,-0.25,2018-02-06 14:21:22,True,True
+2018-02-06T14:34:14,"MELISSA MCCARTHY! IS GOING TO COLLEGE!  IN!  DERPA DERP, DE DERPY DERP DERP.",0,0,BaileysMariner,T1B1CxmAXLk,0.0,2018-02-06 14:34:14,True,True
+2018-02-06T14:48:39,Tammy goes to college to become a Spy to do an Identity Theft to become The Boss... movie,0,0,Dre5ds,T1B1CxmAXLk,0.0,2018-02-06 14:48:39,True,True
+2018-02-06T15:19:11,"Since no one knows how to use Google: ""Melissa McCarthy debuted the trailer from her new comedy movie, Life of the Party, today on The Ellen DeGeneres Show. The movie was inspired by Rodney Dangerfield’s classic comedy, Back to School.""",0,0,Dilara Daria,T1B1CxmAXLk,0.101010101010101,2018-02-06 15:19:11,True,True
+2018-02-06T15:36:29,vaGOOGLE 😂😂😂,0,0,MrPhenom444,T1B1CxmAXLk,0.0,2018-02-06 15:36:29,True,True
+2018-02-06T15:37:26,Female knockoff of back to school,11,0,Roman Ayala,T1B1CxmAXLk,0.0,2018-02-06 15:37:26,True,True
+2018-02-06T15:37:33,https://youtu.be/ZK5Ul6mMKxQ,1,0,Ashpak killmonger,T1B1CxmAXLk,0.0,2018-02-06 15:37:33,True,True
+2018-02-06T15:51:36,Make the animated kid Icarus movie with ratpac and Nintendo  and Warner animation group,0,0,Alexander McClelland,T1B1CxmAXLk,0.0,2018-02-06 15:51:36,True,True
+2018-02-06T16:08:32,"Obviously the thing that makes me kind of interested in this movie, is the fact that it seems that it's not doing the dragged-out Trope of having the kid be embarrassed and not wanting their parent to be there the doctor actually seems very understanding and actually really wants to help out her mom",0,0,boop AGM,T1B1CxmAXLk,0.20833333333333334,2018-02-06 16:08:32,True,True
+2018-02-06T16:19:51,The thumbnail instantly told me if this was going to be a good movie or not,1,0,Randon,T1B1CxmAXLk,0.35,2018-02-06 16:19:51,True,True
+2018-02-06T16:24:23,Omggggg She is AMAZINGGGG!,3,0,FairyNatasa,T1B1CxmAXLk,0.0,2018-02-06 16:24:23,True,True
+2018-02-06T16:48:59,It that Debby Ryan,0,0,Anthony Chobot,T1B1CxmAXLk,0.0,2018-02-06 16:48:59,True,True
+2018-02-06T17:18:05,https://youtu.be/da5r7SacdeQ,0,0,1M views,T1B1CxmAXLk,0.0,2018-02-06 17:18:05,True,True
+2018-02-06T17:20:03,looks good,1,0,Active Bryant Fitness Systems,T1B1CxmAXLk,0.7,2018-02-06 17:20:03,True,True
+2018-02-06T17:21:08,it looks crap,1,0,Active Bryant Fitness Systems,T1B1CxmAXLk,-0.8,2018-02-06 17:21:08,True,True
+2018-02-06T17:41:37,"This is what we need, another awful chick flick with Mellissa McCarthy, well fucking done warner bros, you're buying into the sjw millennial bullshit",0,0,Keenan _ Kemp,T1B1CxmAXLk,-0.8,2018-02-06 17:41:37,True,True
+2018-02-06T18:09:26,I love Melissa McCarthy she's the best actress ever and she is so funny,1,0,Sherry Negley,T1B1CxmAXLk,0.5833333333333334,2018-02-06 18:09:26,True,True
+2018-02-06T18:10:30,Please be a 12. Please be a 12 . Please be a 12,1,0,Elle Jones,T1B1CxmAXLk,0.0,2018-02-06 18:10:30,True,True
+2018-02-06T18:30:42,This is gonna be shit,0,0,Dynamic Bedhead,T1B1CxmAXLk,-0.2,2018-02-06 18:30:42,True,True
+2018-02-06T18:45:09,Who likes Melissa McCharthy like this. She is a wonderfull woman.,2,0,Simon Land,T1B1CxmAXLk,0.0,2018-02-06 18:45:09,True,True
+2018-02-06T18:56:52,Omg yassss,0,0,Tyler Neave,T1B1CxmAXLk,0.0,2018-02-06 18:56:52,True,True
+2018-02-06T19:18:35,watch my remedy for hair loss :) https://www.youtube.com/watch?v=8iw1ZqeIP5U&t=47s,0,0,KellHas,T1B1CxmAXLk,0.5,2018-02-06 19:18:35,True,True
+2018-02-06T19:37:03,"LMAO ""In her slacks?""...damn it, Frank, get hip!",7,0,D. Foxx,T1B1CxmAXLk,0.75,2018-02-06 19:37:03,True,True
+2018-02-06T19:59:52,Extremely goofie movie rip off???,1,0,Catastraseed,T1B1CxmAXLk,-0.125,2018-02-06 19:59:52,True,True
+2018-02-06T20:00:59,"Who wants to know how to earn free stuff just for playing game on phone? They dont charge you for anything, no shipping, no membership fee, nothing. You never put any card info. The only info you ever put in is shipping info once you redeem prize. Anything you can get off Amazon you can get on this app just for playing. The app is called verydice my referral code is 462569. (App changed where you type in code is under the tab that says new and it will say enter friends code)",0,0,Jessica Lee,T1B1CxmAXLk,0.06727272727272729,2018-02-06 20:00:59,True,True
+2018-02-06T20:02:34,https://youtu.be/EgOHsnoI49s,0,0,AHINDRA D,T1B1CxmAXLk,0.0,2018-02-06 20:02:34,True,True
+2018-02-06T20:16:06,Was better when Rodney Dangerfield was in it.,0,0,latoya Q,T1B1CxmAXLk,0.5,2018-02-06 20:16:06,True,True
+2018-02-06T20:20:06,Doesn't matter how much you hate her.... She still gets payed more than everyone in this coment section (8,1,0,andres martinez,T1B1CxmAXLk,-0.03333333333333336,2018-02-06 20:20:06,True,True
+2018-02-06T20:20:25,"Why the Eff would a guy like that, go for a woman like her?? Are you kidding me? Fat, old, ugly. Need I say more?",0,0,Raul Luna,T1B1CxmAXLk,-0.033333333333333326,2018-02-06 20:20:25,True,True
+2018-02-06T20:25:56,"#Shabang lives @1732 Whitley Ave, Los Angeles, CA 90028 ⤴📼 Check Out The New Music Video  ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇ https://youtu.be/OiaoUTNnGDI",0,0,Shabang,T1B1CxmAXLk,0.13636363636363635,2018-02-06 20:25:56,True,True
+2018-02-06T20:31:47,https://youtu.be/rXpnbsarxJg 😩😍,0,0,فواز الحربي,T1B1CxmAXLk,0.0,2018-02-06 20:31:47,True,True
+2018-02-06T20:38:33,ANIMAL KINGDOM,0,0,Kherby Jean,T1B1CxmAXLk,0.0,2018-02-06 20:38:33,True,True
+2018-02-06T20:38:42,the fat bitch is not funny,0,0,Cole Wolfsson,T1B1CxmAXLk,-0.125,2018-02-06 20:38:42,True,True
+2018-02-06T20:39:22,http://fixwork.online/?id=25716,0,0,Shelton Pittman,T1B1CxmAXLk,0.0,2018-02-06 20:39:22,True,True
+2018-02-06T20:39:31,Melissa McCarthy is a fuckin queen,0,0,Lucas Esposti,T1B1CxmAXLk,0.0,2018-02-06 20:39:31,True,True
+2018-02-06T20:40:37,"This is the type of Melisa McCarthy flick I'm done for, not a fanboy friendly movie.",0,0,shadowwalker chellios,T1B1CxmAXLk,0.375,2018-02-06 20:40:37,True,True
+2018-02-06T20:50:04,Almost made it through without a vagina joke... se close,0,0,jeamaf,T1B1CxmAXLk,0.0,2018-02-06 20:50:04,True,True
+2018-02-06T21:00:13,Donald Trump just stop! Melissa McCarthy has just Made America Great Again by being in another movie somehow.. What the fxxk is wrong with our society?,0,0,Lord Rothschild,T1B1CxmAXLk,0.15000000000000002,2018-02-06 21:00:13,True,True
+2018-02-06T21:04:13,"very excited , Melissa and Amy Schumer are my fav girl comedians",0,0,Dania Mihaiu,T1B1CxmAXLk,0.48750000000000004,2018-02-06 21:04:13,True,True
+2018-02-06T21:06:03,I felt like I seen this type of movie a 100 times...I'll pass,0,0,Anne HBurn,T1B1CxmAXLk,0.0,2018-02-06 21:06:03,True,True
+2018-02-06T21:08:14,Melissa McCarthy your talent is to good sweetie especially not for Warner Bros after they took a dump on Justice League...I wish she did other movies besides these types that's just awful and not funny,0,0,Anne HBurn,T1B1CxmAXLk,-0.11000000000000001,2018-02-06 21:08:14,True,True
+2018-02-06T21:09:51,why this bitch keep making movies,0,0,NappaZama,T1B1CxmAXLk,0.0,2018-02-06 21:09:51,True,True
+2018-02-06T21:13:52,I'll just watch an extremely goofy movie again.,0,0,Andrew Blaze,T1B1CxmAXLk,0.5,2018-02-06 21:13:52,True,True
+2018-02-06T21:13:53,"""Token fat person falling over scene"" - check",0,0,coneheadification,T1B1CxmAXLk,0.0,2018-02-06 21:13:53,True,True
+2018-02-06T21:15:13,Of course.....,1,0,Why Is My Face So Ashy,T1B1CxmAXLk,0.0,2018-02-06 21:15:13,True,True
+2018-02-06T21:16:02,"Hi there, I just finished writing a script...the movie is my idea as well as the story line, it's an amazing action movie, it literally has everything you want to see in the big screen. Right now I'm looking for an opportunity to sell my script and I believe you are the right company to produce it.",5,9,Aurelio Medina,T1B1CxmAXLk,0.2542857142857143,2018-02-06 21:16:02,True,True
+2018-02-06T21:21:19,"Dear friends ask Jesus Christ, the one and only Son of God our Creator, to be your personal Savior and make Him Lord of your life. It will be the greatest decision you will ever make. Jesus loves you so much and is waiting for you to have a close personal relationship with Him. Give your life to Him today.  John 3:16 ❤️❤️❤️",5,1,msdogooder,T1B1CxmAXLk,0.24,2018-02-06 21:21:19,True,True
+2018-02-06T21:33:22,this shouden't exist.,0,0,Yeet on My deet,T1B1CxmAXLk,0.0,2018-02-06 21:33:22,True,True
+2018-02-06T21:34:43,Melissa McCarthy is just too cute. And amazing and hilarious and well...  She's just a gem,1,0,JesusPulledMeThrough,T1B1CxmAXLk,0.5333333333333333,2018-02-06 21:34:43,True,True
+2018-02-06T21:37:08,Mellisa is my favorite actress AWESOME TRAILER,0,0,Riolu PlaysGames,T1B1CxmAXLk,0.75,2018-02-06 21:37:08,True,True
+2018-02-06T21:38:56,#Notmymom,0,0,RidnTheShrtBus,T1B1CxmAXLk,0.0,2018-02-06 21:38:56,True,True
+2018-02-06T21:40:07,Same character every time,1,0,Jonathan Moran,T1B1CxmAXLk,0.0,2018-02-06 21:40:07,True,True
+2018-02-06T21:43:56,"Rodney Dangerfield's ""Back to School"" and ""Old School"" are two that came to mind what this one is ripping off.",0,0,Tristan Simondsen,T1B1CxmAXLk,0.05,2018-02-06 21:43:56,True,True
+2018-02-06T21:44:46,"One thing that I really like is that her daughter isn’t pitted against her in the typical „mooomm ur so embarassing and an old eewww” Hollywood way, and actually seems pretty cool about having her on campus with her. I think that type of dynamic is much more fun and interesting.",120,1,segamai,T1B1CxmAXLk,0.2033333333333333,2018-02-06 21:44:46,True,True
+2018-02-06T21:46:07,Sucks,0,0,Eric Clapton Slowhand,T1B1CxmAXLk,-0.3,2018-02-06 21:46:07,True,True
+2018-02-06T21:52:08,I just can't wait for her to be in the happytime murders. Look it up. IT IS CRAZY.,0,0,Memo Grajedas Amazing Channel,T1B1CxmAXLk,-0.6,2018-02-06 21:52:08,True,True
+2018-02-06T21:53:10,I've had enough of Melissa McCarthy,0,0,dontbeshady411,T1B1CxmAXLk,0.0,2018-02-06 21:53:10,True,True
+2018-02-06T21:56:36,She looks like my mom,0,0,2020 sucks,T1B1CxmAXLk,0.0,2018-02-06 21:56:36,True,True
+2018-02-06T21:56:45,I love anything that Melissa McCarthy is in so I'm 10000.00% sure I'm going to like this,0,0,The Oubre Life Chronicles,T1B1CxmAXLk,0.5,2018-02-06 21:56:45,True,True
+2018-02-06T21:57:11,😂😂😂😂😂😂,0,0,HAPPY Edge,T1B1CxmAXLk,0.0,2018-02-06 21:57:11,True,True
+2018-02-06T22:07:18,the female version of back to school,0,0,Slakr Slakr,T1B1CxmAXLk,0.0,2018-02-06 22:07:18,True,True
+2018-02-06T22:07:25,This Back to School sequel looks real good,0,0,Lare Alexander Short,T1B1CxmAXLk,0.5,2018-02-06 22:07:25,True,True
+2018-02-06T22:08:39,How does she keep getting roles in hollywood?,0,1,Daniel,T1B1CxmAXLk,0.0,2018-02-06 22:08:39,True,True
+2018-02-06T22:13:52,Fuckin Frank smh,0,0,lakeitron,T1B1CxmAXLk,0.0,2018-02-06 22:13:52,True,True
+2018-02-06T22:15:44,"OH MY GOD IM SOOO EXCITED, SHES PLAYING THE SAME CHARACTERS SHE PLAYS IN EVERY MOVIE SHES EVER BEEN IN   OMG SOOOO FUNNY SHE HURT HERSELF HAHAHAHAHHAHAHA OMG 🔥🔥🔥🔥🔥",0,0,SupremeTimeLord JeffGoldblum,T1B1CxmAXLk,0.20833333333333334,2018-02-06 22:15:44,True,True
+2018-02-06T22:19:30,like = good luck for a week 🍀 Comment = good luck for a month 👍 Subscribe = accomplish all your goals in life 💸💎💫,1,0,M.C,T1B1CxmAXLk,0.7,2018-02-06 22:19:30,True,True
+2018-02-06T22:21:28,"Hello my friends : Help Me +1000 Subscribers I have videos to learn drawing,Craft,origami and homemade welcome to my channel thank you",0,0,MDIY,T1B1CxmAXLk,0.8,2018-02-06 22:21:28,True,True
+2018-02-06T22:21:54,I AM READY,0,0,Breathless Aroha,T1B1CxmAXLk,0.2,2018-02-06 22:21:54,True,True
+2018-02-06T22:23:07,Melissa McCarthy seems like a great actress. I hope she gets better quality movies!,0,0,loved012one,T1B1CxmAXLk,0.7125,2018-02-06 22:23:07,True,True
+2018-02-06T22:23:21,I cannot wait!,0,0,Skoobz420,T1B1CxmAXLk,0.0,2018-02-06 22:23:21,True,True
+2018-02-06T22:23:35,Love her,1,0,Amaury Plasencia,T1B1CxmAXLk,0.5,2018-02-06 22:23:35,True,True
+2018-02-06T22:24:57,"I cannot fathom just how stupid you have to be to find this funny or enjoyable. I’m a god damn moron, but holy shit this is awful",0,0,Benjamin Haines,T1B1CxmAXLk,-0.3416666666666666,2018-02-06 22:24:57,True,True
+2018-02-06T22:27:34,So is this like a women version of back to school,0,0,Imac M,T1B1CxmAXLk,0.0,2018-02-06 22:27:34,True,True
+2018-02-06T22:35:12,Straight to file 13,1,0,Breanne McDowell,T1B1CxmAXLk,0.2,2018-02-06 22:35:12,True,True
+2018-02-06T22:37:02,Vagoogle! 😂😂,9,0,Woobi Weeds,T1B1CxmAXLk,0.0,2018-02-06 22:37:02,True,True
+2018-02-06T22:40:22,She is the comedian of the decade love her,0,0,Y W,T1B1CxmAXLk,0.5,2018-02-06 22:40:22,True,True
+2018-02-06T22:41:21,"I liked this when I saw it 32 years ago, it was called ""Back to School.""",45,2,Dibrini,T1B1CxmAXLk,0.3,2018-02-06 22:41:21,True,True
+2018-02-06T22:42:42,*AWESOME VIDEO* 😂😂,48,4,EK SORED,T1B1CxmAXLk,1.0,2018-02-06 22:42:42,True,True
+2018-02-06T22:43:57,https://youtu.be/OrjbTX3LG-A,0,0,Nino Baby,T1B1CxmAXLk,0.0,2018-02-06 22:43:57,True,True
+2018-02-06T22:45:02,I'm here because she's in the thumbnail lmao,0,0,Javier,T1B1CxmAXLk,0.6,2018-02-06 22:45:02,True,True
+2018-02-06T22:45:15,I want her so bad  Me and every other black guy,0,0,terry brad,T1B1CxmAXLk,-0.3305555555555555,2018-02-06 22:45:15,True,True
+2018-02-06T22:45:18,"You get it? It’s funny because she’s old, yet she’s in college. Hilarious.",320,14,Joshua Singh,T1B1CxmAXLk,0.2833333333333333,2018-02-06 22:45:18,True,True
+2018-02-06T22:51:58,She should be emberassed of this movie and of her show mike and molly,0,0,CEO of YouTube,T1B1CxmAXLk,0.0,2018-02-06 22:51:58,True,True
+2018-02-06T22:59:12,I can't wait!! Love her movies,0,0,Harrison Crawley,T1B1CxmAXLk,0.5,2018-02-06 22:59:12,True,True
+2018-02-06T23:03:47,Morbid Obesity ... Rated PiG-13,2,0,Hellzyead,T1B1CxmAXLk,0.0,2018-02-06 23:03:47,True,True
+2018-02-06T23:05:31,Melissa McCarthy in an extremely goofy movie.😁😆,0,0,Andy M.,T1B1CxmAXLk,0.5,2018-02-06 23:05:31,True,True
+2018-02-06T23:07:58,"Wanna see this,lol",0,0,Chrisseee Oh_haaay,T1B1CxmAXLk,0.0,2018-02-06 23:07:58,True,True
+2018-02-06T23:10:51,OMG yes😂 Love Melissa McCarthy,0,0,Alexis Rios,T1B1CxmAXLk,0.5,2018-02-06 23:10:51,True,True
+2018-02-06T23:17:20,Britta finally went to real college.,0,0,Will M.,T1B1CxmAXLk,0.1,2018-02-06 23:17:20,True,True
+2018-02-06T23:19:40,pls watch my recent vid thanks,0,0,jjhassy,T1B1CxmAXLk,0.1,2018-02-06 23:19:40,True,True
+2018-02-06T23:24:42,An Extremely Goofy Movie: Mom Edition,0,0,Krishna Daniels,T1B1CxmAXLk,0.5,2018-02-06 23:24:42,True,True
+2018-02-06T23:25:28,Sooo A Goofy Movie 2?....,0,0,First Name Here,T1B1CxmAXLk,0.5,2018-02-06 23:25:28,True,True
+2018-02-06T23:26:25,Fucking shit,0,0,JackChapelle,T1B1CxmAXLk,-0.2,2018-02-06 23:26:25,True,True
+2018-02-06T23:27:49,vagoogle.  haaaa,0,0,Amanda Opdyke,T1B1CxmAXLk,0.0,2018-02-06 23:27:49,True,True
+2018-02-06T23:28:10,Is it me or is Maya Rudolph usually the funniest parts of any movie? Why doesn't she get to be a lead?!,0,0,kbg12ila,T1B1CxmAXLk,-0.3125,2018-02-06 23:28:10,True,True
+2018-02-06T23:28:56,Anything with melisa I'm in,0,0,G Nurse,T1B1CxmAXLk,0.0,2018-02-06 23:28:56,True,True
+2018-02-06T23:31:55,"let me guess written by her and her husband, Ben Falcone and directed by him like the million other repetitive movies they churn out. I like Melissa but they found their cash cow and they are beating it to death!",29,1,A14M04I19A95,T1B1CxmAXLk,-0.18055555555555555,2018-02-06 23:31:55,True,True
+2018-02-06T23:38:35,I feel sorry for those uncultured low lives who find this humorous in any way,0,0,Mark Mercado,T1B1CxmAXLk,0.0,2018-02-06 23:38:35,True,True
+2018-02-06T23:40:44,OMG when it blew up I busted out laughing!,0,0,Priscilla Aguilar,T1B1CxmAXLk,0.0,2018-02-06 23:40:44,True,True
+2018-02-06T23:41:38,Yes Melissa and Maya!!!,0,0,Gregory Harvard,T1B1CxmAXLk,0.0,2018-02-06 23:41:38,True,True
+2018-02-06T23:44:14,The Weeknd - Life of the Party,3,0,R3JWAN,T1B1CxmAXLk,0.0,2018-02-06 23:44:14,True,True
+2018-02-06T23:49:58,"Kept an open mind as I watched the trailer. Now that I've seen it, I regret being born.",0,0,ajinator4,T1B1CxmAXLk,0.0,2018-02-06 23:49:58,True,True
+2018-02-06T23:50:18,Melissa McCarthy isn’t funny,0,0,Justin Rydberg,T1B1CxmAXLk,0.25,2018-02-06 23:50:18,True,True
+2018-02-06T23:52:05,lmfaooooo that last line though 😂😂😂😭😭😭,0,0,Luna Freeman,T1B1CxmAXLk,0.0,2018-02-06 23:52:05,True,True
+2018-02-06T23:58:31,Finally McCarthy is back in movies I'm fuckin hype,2,0,Jacob Richardson,T1B1CxmAXLk,0.0,2018-02-06 23:58:31,True,True
+2018-02-07T00:01:07,This is just like Brian’s tv show in family guy.,0,0,Xavier r,T1B1CxmAXLk,0.0,2018-02-07 00:01:07,True,True
+2018-02-07T00:05:57,everything she's been in has never failed to make me laugh so i'm so excited for this!!!,3,0,EMALZE,T1B1CxmAXLk,0.42747395833333335,2018-02-07 00:05:57,True,True
+2018-02-07T00:06:36,Anther movie with Melissa McCarthy acting obnoxious and retarded. What a big surprise,0,0,plz stop no plz plz stop,T1B1CxmAXLk,-0.26666666666666666,2018-02-07 00:06:36,True,True
+2018-02-07T00:06:56,Wow another Recycled frat college pile of shit called a Hollywood movie,0,0,tyler mcguyrt,T1B1CxmAXLk,-0.05,2018-02-07 00:06:56,True,True
+2018-02-07T00:09:14,Women are incapable of being funny.,0,0,guitardaddy6,T1B1CxmAXLk,0.25,2018-02-07 00:09:14,True,True
+2018-02-07T00:10:18,Omg I actually love this !!!,3,0,Andrea Ac,T1B1CxmAXLk,0.9765625,2018-02-07 00:10:18,True,True
+2018-02-07T00:13:44,Melissa McCarthy does no wrong lol ! Can't wait to watch!,4,1,Darlene Sterling,T1B1CxmAXLk,0.625,2018-02-07 00:13:44,True,True
+2018-02-07T00:17:28,Minute men!!!!!,0,0,Mystic Smoothie,T1B1CxmAXLk,0.0,2018-02-07 00:17:28,True,True
+2018-02-07T00:20:13,"Literally the Goofy Movie...  Seriously ""writers"" these days are a fucking joke.",0,1,M P,T1B1CxmAXLk,-0.14444444444444443,2018-02-07 00:20:13,True,True
+2018-02-07T00:23:02,Melissa McCarthy is about as funny as those beheading videos,0,0,G Money,T1B1CxmAXLk,0.25,2018-02-07 00:23:02,True,True
+2018-02-07T00:25:10,Shawn?,1,0,NewPhone WhoDis,T1B1CxmAXLk,0.0,2018-02-07 00:25:10,True,True
+2018-02-07T00:26:35,It really is as bad as we feared at Warner bros allowing this piece of shit out in public 🤐,5,0,Jordy Lyons,T1B1CxmAXLk,-0.3,2018-02-07 00:26:35,True,True
+2018-02-07T00:27:42,Does anyone know what campus that is?,0,0,Daniel,T1B1CxmAXLk,0.0,2018-02-07 00:27:42,True,True
+2018-02-07T00:29:50,I can’t live without her,0,0,Samurai Gaming,T1B1CxmAXLk,0.13636363636363635,2018-02-07 00:29:50,True,True
+2018-02-07T00:31:17,Back to school 80s movie,0,0,Samurai Gaming,T1B1CxmAXLk,0.0,2018-02-07 00:31:17,True,True
+2018-02-07T00:35:11,That looks like an expensive college to just spend all your time partying...,0,0,Cristian Roma,T1B1CxmAXLk,-0.5,2018-02-07 00:35:11,True,True
+2018-02-07T00:38:07,I’ve been waiting so long for another Melissa McCarthy comedy!,2,0,Wei,T1B1CxmAXLk,-0.0625,2018-02-07 00:38:07,True,True
+2018-02-07T00:41:59,Shit looks stupid! Why do people keep hiring Melissa? She isn't funny!,0,0,DjJokerr,T1B1CxmAXLk,-0.29583333333333334,2018-02-07 00:41:59,True,True
+2018-02-07T00:42:54,“Like when intentionally go into a haunted house” 😂😂,0,0,ToastyCarp,T1B1CxmAXLk,0.0,2018-02-07 00:42:54,True,True
+2018-02-07T00:51:16,"""Madea Goes to College"" Would've been a better title",0,0,devilpupbear09,T1B1CxmAXLk,0.5,2018-02-07 00:51:16,True,True
+2018-02-07T00:52:12,All these people talking shit about Melissa’s movies. I love them all. I don’t think they can ever get old for me.,0,0,George Clotte,T1B1CxmAXLk,0.13333333333333333,2018-02-07 00:52:12,True,True
+2018-02-07T01:17:31,Extremely goofy movie 2 electric booagloo,0,0,Saturday Night Productions,T1B1CxmAXLk,0.5,2018-02-07 01:17:31,True,True
+2018-02-07T01:19:17,"Fuck Yeahh.... Another Melissa McCarthy movie can't wait, she is funny as fuck...💯☇",0,0,Kerri Capija,T1B1CxmAXLk,-0.07500000000000001,2018-02-07 01:19:17,True,True
+2018-02-07T01:21:15,"How many ""drab to fab"" character roles is she going to take on? Enough already",23,0,lehnxx,T1B1CxmAXLk,0.25,2018-02-07 01:21:15,True,True
+2018-02-07T01:21:57,2017: Emoji Movie 2018: TTG To The Movies 2019: ???,0,1,itsJoshPlayz,T1B1CxmAXLk,0.0,2018-02-07 01:21:57,True,True
+2018-02-07T01:22:08,Vagoogle😂,0,0,Rune Scape,T1B1CxmAXLk,0.0,2018-02-07 01:22:08,True,True
+2018-02-07T01:23:15,MELISSA I LOVE YOU!,6,0,Zion's World!,T1B1CxmAXLk,0.625,2018-02-07 01:23:15,True,True
+2018-02-07T01:24:00,Yes I needed a film with Melissa she’s the best😂😂,212,8,Dorian Zagorski,T1B1CxmAXLk,0.0,2018-02-07 01:24:00,True,True
+2018-02-07T01:24:01,This is shit,0,0,come poop at my house,T1B1CxmAXLk,-0.2,2018-02-07 01:24:01,True,True
+2018-02-07T01:24:49,I'll fight through it and watch it because its melissa mccarthy,0,0,DXSTER,T1B1CxmAXLk,0.0,2018-02-07 01:24:49,True,True
+2018-02-07T01:25:18,Oh Britta's in this?  JK I love Britta. Jeff and Troy both idiots for dumping her.,0,0,ziljin,T1B1CxmAXLk,-0.15000000000000002,2018-02-07 01:25:18,True,True
+2018-02-07T01:36:04,Ghostbusters 2016 2?,0,0,Bearcat Ben,T1B1CxmAXLk,0.0,2018-02-07 01:36:04,True,True
+2018-02-07T01:37:09,https://youtu.be/wh405BbxPiQ watch pls and sub need 1k subs and 4000 hours of watch time,0,0,Cyn &Alex,T1B1CxmAXLk,0.0,2018-02-07 01:37:09,True,True
+2018-02-07T01:37:44,"I would have called this ""One Trick Pony""",0,0,Campbell Malcolm,T1B1CxmAXLk,0.0,2018-02-07 01:37:44,True,True
+2018-02-07T01:42:22,comment hi please,0,0,Mya J,T1B1CxmAXLk,0.0,2018-02-07 01:42:22,True,True
+2018-02-07T01:48:34,"Considering all the vagina and sex jokes, I thought this was an Amy Schumer film.",0,0,Mr. Roboto,T1B1CxmAXLk,0.0,2018-02-07 01:48:34,True,True
+2018-02-07T01:51:24,Waiting for the Blu-ray release,0,0,ELEXCEER,T1B1CxmAXLk,0.0,2018-02-07 01:51:24,True,True
+2018-02-07T01:55:54,So it's the Goofy Movie 2?,0,0,Gina Boccuzzi,T1B1CxmAXLk,0.5,2018-02-07 01:55:54,True,True
+2018-02-07T02:03:10,The Adam Sandler of women...,0,0,Jordan Thompson,T1B1CxmAXLk,0.0,2018-02-07 02:03:10,True,True
+2018-02-07T02:04:38,https://youtu.be/G927Kvgufuk,0,0,Aaron Chen,T1B1CxmAXLk,0.0,2018-02-07 02:04:38,True,True
+2018-02-07T02:05:20,Ghostbusters 2? YES!,0,0,s h a d ø w b a n n e d,T1B1CxmAXLk,0.0,2018-02-07 02:05:20,True,True
+2018-02-07T02:06:41,idk about this movie as a whole but that last joke made me laugh out loud,0,0,Andor,T1B1CxmAXLk,0.15,2018-02-07 02:06:41,True,True
+2018-02-07T02:08:25,i swear if they made a goldbergs movie Mellissa Mccarthy would make a hilarious Beverly Goldberg,0,0,Matthew Coker,T1B1CxmAXLk,0.5,2018-02-07 02:08:25,True,True
+2018-02-07T02:08:59,Can't wait to see this movie,0,0,Breonna Nichole,T1B1CxmAXLk,0.0,2018-02-07 02:08:59,True,True
+2018-02-07T02:16:46,This comes out on my birthday,0,0,The Squirrel,T1B1CxmAXLk,0.0,2018-02-07 02:16:46,True,True
+2018-02-07T02:19:50,"a bunch of homely fat asses shootin there mouths off,  wish someone would stick a dick in there mouth and shut em up",0,0,josef mengele,T1B1CxmAXLk,0.0,2018-02-07 02:19:50,True,True
+2018-02-07T02:28:40,This isnt even funny,0,0,Ben Nelson,T1B1CxmAXLk,0.25,2018-02-07 02:28:40,True,True
+2018-02-07T02:30:57,This movie seems like it'd be awesome when you're wasted and awful when you're not.,0,0,Cynth Middlehorn,T1B1CxmAXLk,-0.06666666666666665,2018-02-07 02:30:57,True,True
+2018-02-07T02:35:34,Melissa McCarthy has become the fat female Rob Reiner of comedies,0,0,Maxitz,T1B1CxmAXLk,0.0,2018-02-07 02:35:34,True,True
+2018-02-07T02:36:33,My god stfu jack,0,0,Cameron Noel,T1B1CxmAXLk,0.0,2018-02-07 02:36:33,True,True
+2018-02-07T02:42:20,Subscribe if you play Fornite,1,0,HOOPERS backup,T1B1CxmAXLk,0.0,2018-02-07 02:42:20,True,True
+2018-02-07T02:44:24,The movies she’s in certainly aren’t Oscar worthy but she’s funny and entertaining.,0,0,S _,T1B1CxmAXLk,0.32440476190476186,2018-02-07 02:44:24,True,True
+2018-02-07T02:44:42,Ooh wow another mediocre comedy starring Melissa McCarthy,0,0,phantommanass,T1B1CxmAXLk,-0.2,2018-02-07 02:44:42,True,True
+2018-02-07T02:47:31,Wow Melissa looks fantastic,0,0,2016imhere,T1B1CxmAXLk,0.25,2018-02-07 02:47:31,True,True
+2018-02-07T02:52:04,It may not be the most original plot but I'll watch anything with Melissa McCarthy.,2,0,Rejinald Palmer,T1B1CxmAXLk,0.4375,2018-02-07 02:52:04,True,True
+2018-02-07T02:52:33,This looks like horse shit.,0,0,Blue Shirt Guy,T1B1CxmAXLk,-0.2,2018-02-07 02:52:33,True,True
+2018-02-07T02:53:01,Mel is looking so good. looks like she's losing weight. big or small shes fantastic!,0,0,Sevanni Black,T1B1CxmAXLk,0.2375,2018-02-07 02:53:01,True,True
+2018-02-07T02:54:51,"I liked this better when it was called BACK TO SCHOOL, and starred Rodney Dangerfield.",0,0,DevilMaskMedia,T1B1CxmAXLk,0.3666666666666667,2018-02-07 02:54:51,True,True
+2018-02-07T02:59:02,Gillian Jacobs!! I hope this film gets the classic CBB bump ;D,0,0,Phoenix Phalanges,T1B1CxmAXLk,0.20833333333333331,2018-02-07 02:59:02,True,True
+2018-02-07T03:00:18,An Extremely Goofy movie??,0,0,Turd Furgesin,T1B1CxmAXLk,0.5,2018-02-07 03:00:18,True,True
+2018-02-07T03:02:28,How does she keep getting work? God damn she's so annoying.,0,0,ICExz13,T1B1CxmAXLk,-0.8,2018-02-07 03:02:28,True,True
+2018-02-07T03:02:48,Monsters are real. Ghosts are real too. They live inside us and sometimes they win. Well made trailer:  https://www.youtube.com/watch?v=7uMr7HUqMeQ,0,0,AJ aY,T1B1CxmAXLk,0.3340909090909091,2018-02-07 03:02:48,True,True
+2018-02-07T03:04:02,So this is a remake of “back 2 school” without Rodney Dangerfield,0,0,Flawless Victory,T1B1CxmAXLk,0.0,2018-02-07 03:04:02,True,True
+2018-02-07T03:10:28,What... The... Fuck....,0,0,Hate Monger,T1B1CxmAXLk,-0.4,2018-02-07 03:10:28,True,True
+2018-02-07T03:14:11,This looks very original and funny,0,0,Atlas,T1B1CxmAXLk,0.36875,2018-02-07 03:14:11,True,True
+2018-02-07T03:18:29,vagoogle😂😂😂,0,0,Stanlee Max,T1B1CxmAXLk,0.0,2018-02-07 03:18:29,True,True
+2018-02-07T03:21:58,https://youtu.be/aKH011D9TgE dude perfect,0,0,El Barto,T1B1CxmAXLk,1.0,2018-02-07 03:21:58,True,True
+2018-02-07T03:24:23,Melissa McCarthy is fucking trash.,0,0,Stannis Baratheon,T1B1CxmAXLk,-0.6,2018-02-07 03:24:23,True,True
+2018-02-07T03:25:27,This is just the female adult version of An Extremely Goofy movie,0,0,RJ,T1B1CxmAXLk,0.19999999999999998,2018-02-07 03:25:27,True,True
+2018-02-07T03:27:37,"“No, shut up Frank” 😆",0,0,Jake Greg,T1B1CxmAXLk,0.0,2018-02-07 03:27:37,True,True
+2018-02-07T03:28:54,Shut up frank,0,0,Diabetes,T1B1CxmAXLk,0.0,2018-02-07 03:28:54,True,True
+2018-02-07T03:30:32,Bad trailer.... But I bet the movie is funny as FUCK,0,0,Brandon Christopher,T1B1CxmAXLk,-0.28333333333333327,2018-02-07 03:30:32,True,True
+2018-02-07T03:34:03,Back to school with women,0,0,jackson Rog,T1B1CxmAXLk,0.0,2018-02-07 03:34:03,True,True
+2018-02-07T03:39:37,Wow she’s lost weight! Good on her 👏🏻,0,0,Jake Rumble,T1B1CxmAXLk,0.4125,2018-02-07 03:39:37,True,True
+2018-02-07T03:39:43,So much hate... Let me introduce a new fact for you: you don't have to watch it. Just leave it.,172,11,schuuichiminamino,T1B1CxmAXLk,-0.33181818181818185,2018-02-07 03:39:43,True,True
+2018-02-07T03:42:15,OK I NEED THIS NOW,0,0,Akio Aslan,T1B1CxmAXLk,0.5,2018-02-07 03:42:15,True,True
+2018-02-07T03:51:05,no,0,0,Cheapskate,T1B1CxmAXLk,0.0,2018-02-07 03:51:05,True,True
+2018-02-07T03:51:47,Really doesn't look good. So many better comedies for someone like Melissa,0,0,knickandchester,T1B1CxmAXLk,0.475,2018-02-07 03:51:47,True,True
+2018-02-07T04:00:47,"This summer, derp de derp de deedly derp in ""mom goes to college and her kids there too"". Rated ""argh"" for pirates. Fuck you.",1,0,Tommy M,T1B1CxmAXLk,-0.4,2018-02-07 04:00:47,True,True
+2018-02-07T04:01:04,Dog shit,0,0,J Low,T1B1CxmAXLk,-0.2,2018-02-07 04:01:04,True,True
+2018-02-07T04:03:24,IM SO EXCITED FOR THIS,0,0,sodacorn92,T1B1CxmAXLk,0.375,2018-02-07 04:03:24,True,True
+2018-02-07T04:07:47,garbage,0,0,assbitchfucky,T1B1CxmAXLk,0.0,2018-02-07 04:07:47,True,True
+2018-02-07T04:08:32,reverse the genders in this and tell me if its still funny cunts,0,0,assbitchfucky,T1B1CxmAXLk,0.25,2018-02-07 04:08:32,True,True
+2018-02-07T04:10:21,SHUT UP FRANK!!!,6,0,Crispis Gamer,T1B1CxmAXLk,0.0,2018-02-07 04:10:21,True,True
+2018-02-07T04:14:37,"Brita still hanging around colleges. Get a job, ya hippie.",0,0,Some Guy Online,T1B1CxmAXLk,0.0,2018-02-07 04:14:37,True,True
+2018-02-07T04:18:57,Melissa McCarthy sucks.,16,3,Digetter,T1B1CxmAXLk,-0.3,2018-02-07 04:18:57,True,True
+2018-02-07T04:19:58,HA she's a little too old too be going to college!,0,0,xLead Gamez,T1B1CxmAXLk,-0.03125,2018-02-07 04:19:58,True,True
+2018-02-07T04:21:13,I love her so much !!!!!!!,1,0,Junior Migwi,T1B1CxmAXLk,0.726837158203125,2018-02-07 04:21:13,True,True
+2018-02-07T04:26:12,"I mean, I'll give it a look. I love Melissa.",0,0,Saint Goon,T1B1CxmAXLk,0.09375,2018-02-07 04:26:12,True,True
+2018-02-07T04:26:41,That chair was at least $500.,0,0,HeWhoChooses,T1B1CxmAXLk,-0.3,2018-02-07 04:26:41,True,True
+2018-02-07T04:31:01,NOT FUNNY!,0,0,The Champ Is here,T1B1CxmAXLk,-0.15625,2018-02-07 04:31:01,True,True
+2018-02-07T04:31:16,Another female comedy.,0,0,Cristykal Hits,T1B1CxmAXLk,0.0,2018-02-07 04:31:16,True,True
+2018-02-07T04:35:09,Mya,1,0,GTR Wendy,T1B1CxmAXLk,0.0,2018-02-07 04:35:09,True,True
+2018-02-07T04:38:52,Trash actor. Trash movie. The Madea for white people.,0,0,gonzalez family,T1B1CxmAXLk,0.0,2018-02-07 04:38:52,True,True
+2018-02-07T04:42:35,Another cancerously bad movie,0,0,The Power lifting investor,T1B1CxmAXLk,-0.6999999999999998,2018-02-07 04:42:35,True,True
+2018-02-07T04:45:02,Melissa McCarthy isn’t funny,0,0,WatchBozo TV,T1B1CxmAXLk,0.25,2018-02-07 04:45:02,True,True
+2018-02-07T04:52:37,This is the most cookie cutter piece of trash movie I’ve ever seen. Look familiar? It should. You’ve seen this done hundreds of times.,0,0,Coinborg,T1B1CxmAXLk,0.4375,2018-02-07 04:52:37,True,True
+2018-02-07T04:53:42,Wow another horrible and unfunny movie that hates men for...existing?,0,0,W M,T1B1CxmAXLk,-0.45,2018-02-07 04:53:42,True,True
+2018-02-07T05:03:56,I love her,3,0,Park soyoung,T1B1CxmAXLk,0.5,2018-02-07 05:03:56,True,True
+2018-02-07T05:06:18,Oh my gosh Melissa and maya in the same movie         LIFE IN ONE HOUR,0,0,Maddy DZ,T1B1CxmAXLk,0.0,2018-02-07 05:06:18,True,True
+2018-02-07T05:12:53,this movie is gonna be so good when im high as shit,0,0,ky,T1B1CxmAXLk,0.21999999999999997,2018-02-07 05:12:53,True,True
+2018-02-07T05:14:24,Anything with Melissa Mccarthy will be a GREAT movie,6,0,Shelbz C.,T1B1CxmAXLk,0.8,2018-02-07 05:14:24,True,True
+2018-02-07T05:16:16,She needs to stop acting now,1,0,Harshil P,T1B1CxmAXLk,0.0,2018-02-07 05:16:16,True,True
+2018-02-07T05:18:03,"Wow, I never laughed once. Not even a smile. Nothing. Although the best gags are in trailers these days.",148,12,"BinauralMindMusic - Relaxing, Soothing, Strange",T1B1CxmAXLk,0.2625,2018-02-07 05:18:03,True,True
+2018-02-07T05:20:10,how much longer do we have to deal with her shitty movies?,0,0,Samuel Corso,T1B1CxmAXLk,0.2,2018-02-07 05:20:10,True,True
+2018-02-07T05:21:37,Is there a part in this movie where Rosie commits a federal crime and offers to bribe members of Congress? That would be pretty cool to see on the big screen,0,0,Joey N,T1B1CxmAXLk,0.175,2018-02-07 05:21:37,True,True
+2018-02-07T05:24:32,"Oh Jesus Christ!!! Shut up, you little pathetic hipster bitches. ""Oh, I'm so desensitized and unimpressed with literally everything."" Come on, kids. It's time to end the ""Everything is awful, and makes me cringe"" fad. I'm unimpressed with how unimpressed you are. Over it. Nobody gives a shit about how critical you are of EVERYTHING. The world used to be able to recognize entertainment for what it is...ENTERFUCKINGTAINMENT!!! It may have been cool and mysterious to all the prepubescent girls back in school, just how ""deep"", ""numb"", and ""dead inside"" you are...but, no one in the real world (or in the comments section on YouTube) gives a single precious fuck about your meaningless opinion. ""Let me scowl the web, and find as many things as I can to put down and criticize to seem cool and get a reaction."" Congratulations! While you were busy making every non hipster roll their eyes, many of us were actually enjoying life, getting laid, spending time with our families, making good money, laughing at this entertaining trailer...and still giving a fat 0 fucks about your lack of enthusiasm for anything. It's a bullshit act anyway. Seriously can we put an end to this lame ass negativity littering every damn comment section on the internet? This was a waste of my time... you'll just be unimpressed with everything I just said 😉",0,0,Beast,T1B1CxmAXLk,-0.0029912485827664503,2018-02-07 05:24:32,True,True
+2018-02-07T05:26:57,Wow !!!!!!!!!! I totally want to see this movie.... I love Melissa..... who cares about all those Oscar movies.... sometimes you just need something a bit silly to make you laugh till you pee your pants ... specially in today's world!!!,0,0,jennifer rosier,T1B1CxmAXLk,0.3214778695787703,2018-02-07 05:26:57,True,True
+2018-02-07T05:27:42,"I love Melissa McCarthy, she's adorable.",8,0,Mrl,T1B1CxmAXLk,0.5,2018-02-07 05:27:42,True,True
+2018-02-07T05:28:54,daughter need so much therapy after,0,0,Slow-wipe,T1B1CxmAXLk,0.2,2018-02-07 05:28:54,True,True
+2018-02-07T05:29:06,I hope it’s not trash,0,0,That One Guy,T1B1CxmAXLk,0.0,2018-02-07 05:29:06,True,True
+2018-02-07T05:29:55,"So mom regrets the sacrifice of mother hood, then becomes the campus milf whore. Fuck this bullshit. This ad trailer played before an educational video I was was showing someone, and it total garbage. Of coarse mom's not satisfied after raising an amazing daughter, so she needs to go for a higher learning ie become a collage whore who would probably scream rape the morning after regreti g the casual sex she just had. Get the fuck out of here with this Hollywood force fed garbage.",0,0,K.J.,T1B1CxmAXLk,-0.05500000000000001,2018-02-07 05:29:55,True,True
+2018-02-07T05:31:21,http://bestcashjob.com/?refer=100749,0,0,30ESTRADA,T1B1CxmAXLk,0.0,2018-02-07 05:31:21,True,True
+2018-02-07T05:33:07,How many movies til Melissa McCarthy realizes nobody cares about her?,0,0,ReservoirFrogs,T1B1CxmAXLk,0.5,2018-02-07 05:33:07,True,True
+2018-02-07T05:39:05,"I love Melissa but she always plays a mess who needs to change her life, etc. She’s so talented. I’d love to see her in more.",392,7,luckyDancer100,T1B1CxmAXLk,0.40499999999999997,2018-02-07 05:39:05,True,True
+2018-02-07T05:44:21,Remember Rodney Dangerfield in Back To School?  That movie was good. Stay home and rent that.,0,0,C0sm0sTheM0use,T1B1CxmAXLk,0.35,2018-02-07 05:44:21,True,True
+2018-02-07T05:45:46,good,0,0,العربيه,T1B1CxmAXLk,0.7,2018-02-07 05:45:46,True,True
+2018-02-07T05:51:00,Melissa Dangerfield in Back to School,0,0,Cody Taylor,T1B1CxmAXLk,0.0,2018-02-07 05:51:00,True,True
+2018-02-07T05:57:30,hello Luke benward yes,0,0,Ariana Rosado,T1B1CxmAXLk,0.0,2018-02-07 05:57:30,True,True
+2018-02-07T06:00:19,The World Needs to Repent!  The World Needs to Come Back To Jesus!!!  Judgement is Coming!!!  I had a dream I saw the return of Jesus Christ!!  Get ready Visit My Channel God Bless!!  😇🙏,0,0,Waiting4 Jesus Christ,T1B1CxmAXLk,0.15625,2018-02-07 06:00:19,True,True
+2018-02-07T06:00:49,Wonder if she does a Triple Lindy?,0,0,thejoeyfiesta,T1B1CxmAXLk,0.0,2018-02-07 06:00:49,True,True
+2018-02-07T06:04:52,Back to School II,0,0,Jonas Polsky,T1B1CxmAXLk,0.0,2018-02-07 06:04:52,True,True
+2018-02-07T06:05:13,"It's like EVERY Melissa McCarthy movie is exactly the same her playing the goofy fat chick with bad style, bad hair, taking shots and getting knocked down, next!",7,0,Nick Ryan,T1B1CxmAXLk,-0.11507936507936503,2018-02-07 06:05:13,True,True
+2018-02-07T06:09:23,I hope i die,0,0,Gabriel Romero,T1B1CxmAXLk,0.0,2018-02-07 06:09:23,True,True
+2018-02-07T06:10:15,"America has become a society of mindless sheep. Instead of paying attention to the things that matter, like the fact that millions of our people are in prison for non-violent drug offenses and the IRS stealing our money every year and calling it ""taxes,"" people focus on the hottest new rap songs, Kylie Jenner having a baby, and the Eagles winning the Super Bowl. Society needs to wake up and smell the roses. We can distract ourselves with social media and mindless entertainment, but it doesn't change the fact that we're all getting fucked over by the corrupt people we put in office. It's time for a revolution. The Founding Fathers told us that if the US government ever became to us what Great Britain was to them, the American people had a right and duty to overthrow and replace their government with something new. We're long over due for that change. It's time for a revolution. If all of the 800K people who viewed this video marched on Washington and demanded change, we'd get it. Stop sleeping and wake up.",0,0,Mrs. Puff,T1B1CxmAXLk,0.039293444650587504,2018-02-07 06:10:15,True,True
+2018-02-07T06:18:33,Her movies isn't funny,0,0,Vanda Dy,T1B1CxmAXLk,0.25,2018-02-07 06:18:33,True,True
+2018-02-07T06:23:23,"i swear... this movie comes out 3 times a year, every year.",146,1,YaBoiCosmo,T1B1CxmAXLk,0.0,2018-02-07 06:23:23,True,True
+2018-02-07T06:24:19,Hilarious,0,0,Daily Foodie,T1B1CxmAXLk,0.5,2018-02-07 06:24:19,True,True
+2018-02-07T06:27:26,lets make pretend ghostbusters didnt happen!,0,0,Ross,T1B1CxmAXLk,0.0,2018-02-07 06:27:26,True,True
+2018-02-07T06:27:52,http://clkti.com/6gwt,0,0,kamal nath,T1B1CxmAXLk,0.0,2018-02-07 06:27:52,True,True
+2018-02-07T06:27:58,http://clkti.com/6gwt,0,0,kamal nath,T1B1CxmAXLk,0.0,2018-02-07 06:27:58,True,True
+2018-02-07T06:28:40,http://clkti.com/6gwt,0,0,kamal nath,T1B1CxmAXLk,0.0,2018-02-07 06:28:40,True,True
+2018-02-07T06:30:40,http://clkti.com/6gwx,0,0,kamal nath,T1B1CxmAXLk,0.0,2018-02-07 06:30:40,True,True
+2018-02-07T06:37:28,Oh this is gonna be fuuuuun!,1,0,Tsetsi,T1B1CxmAXLk,0.0,2018-02-07 06:37:28,True,True
+2018-02-07T06:37:41,What a funny woman. Hahahaha!,3,0,Saddam Hussein,T1B1CxmAXLk,0.25,2018-02-07 06:37:41,True,True
+2018-02-07T06:38:33,...no,0,0,Kyle Mylo,T1B1CxmAXLk,0.0,2018-02-07 06:38:33,True,True
+2018-02-07T06:44:18,so excitedddd,0,0,osito19911,T1B1CxmAXLk,0.0,2018-02-07 06:44:18,True,True
+2018-02-07T06:49:00,I think Warner Bros is actively trying to be shit now.,0,0,Mrblend27,T1B1CxmAXLk,-0.16666666666666669,2018-02-07 06:49:00,True,True
+2018-02-07T06:50:08,esta gorda fea no es graciosa,1,0,2jeans,T1B1CxmAXLk,0.0,2018-02-07 06:50:08,True,True
+2018-02-07T06:50:17,My gosh Melissa looks great 👍🏼 also I’m a huge fan not sure if I really want to go see this movie doesn’t really catch my attention 🤔,0,0,Tip Sii,T1B1CxmAXLk,0.27,2018-02-07 06:50:17,True,True
+2018-02-07T06:54:18,*Insert DCEU Related Insult*,0,0,Ben Luu,T1B1CxmAXLk,0.0,2018-02-07 06:54:18,True,True
+2018-02-07T06:54:20,She doesn't look as far as she did,0,0,Hanz Azazel,T1B1CxmAXLk,0.1,2018-02-07 06:54:20,True,True
+2018-02-07T06:59:53,I've lost faith in hummanity,0,0,NPC,T1B1CxmAXLk,0.0,2018-02-07 06:59:53,True,True
+2018-02-07T07:12:06,Not funny. Literally she plays the same character in every movie.,2,0,nordartonline,T1B1CxmAXLk,-0.0625,2018-02-07 07:12:06,True,True
+2018-02-07T07:18:03,please be good please be good,0,0,Katka Tran,T1B1CxmAXLk,0.7,2018-02-07 07:18:03,True,True
+2018-02-07T07:31:51,Melissa Mc Carthy is soo good!!,4,0,May the hat lady,T1B1CxmAXLk,1.0,2018-02-07 07:31:51,True,True
+2018-02-07T07:33:28,"Oh! They’re rereleasing Old School! You had to know that since men made it funny and good, that women would cry foul and demand to remake and ruin it...ugh",0,1,Fraggle Rock Moonwalk,T1B1CxmAXLk,0.35833333333333334,2018-02-07 07:33:28,True,True
+2018-02-07T07:36:29,Another shit movie no one asked for,0,0,TheCynicMillenial Show,T1B1CxmAXLk,-0.2,2018-02-07 07:36:29,True,True
+2018-02-07T07:42:18,"WOW!!! Xtina is Back, bitches!!! Love that song.",0,0,Ricardo Gonzalez,T1B1CxmAXLk,0.23177083333333334,2018-02-07 07:42:18,True,True
+2018-02-07T07:43:57,This is going to be hilarious!! Vagoogle! OMG hahahahaha,0,0,J G,T1B1CxmAXLk,0.58828125,2018-02-07 07:43:57,True,True
+2018-02-07T07:45:37,I always see tabloid articles about her losing Soo much weight. I don't think I'm going to trust tabloid articles anymore.,0,0,C Anderson,T1B1CxmAXLk,0.2,2018-02-07 07:45:37,True,True
+2018-02-07T07:54:00,Shut it Frank! 😅,0,0,Princ3s51,T1B1CxmAXLk,0.0,2018-02-07 07:54:00,True,True
+2018-02-07T07:56:10,Melissa looking like a MILF!. I mean it as a compliment. ;),0,0,Voidwonder,T1B1CxmAXLk,-0.03125,2018-02-07 07:56:10,True,True
+2018-02-07T08:00:31,Cant wait till she is as skinny as her personality is large,0,0,Island_Kermode,T1B1CxmAXLk,0.21428571428571427,2018-02-07 08:00:31,True,True
+2018-02-07T08:00:47,cool a mid life crisis movie...... put that in the of course we are making another one pile.,0,0,Dutch Plays Games,T1B1CxmAXLk,0.175,2018-02-07 08:00:47,True,True
+2018-02-07T08:02:57,Y,0,0,Chen Shirley,T1B1CxmAXLk,0.0,2018-02-07 08:02:57,True,True
+2018-02-07T08:07:07,yeah i have now found what i was looking for,0,0,Ace 1o7,T1B1CxmAXLk,0.0,2018-02-07 08:07:07,True,True
+2018-02-07T08:08:11,this looks like shit,0,0,RockRoll,T1B1CxmAXLk,-0.2,2018-02-07 08:08:11,True,True
+2018-02-07T08:10:54,"Yo, OLD FAT WOMAN, take your ASS, BACK TO THE KITCHEN AND FIX ME A DAMN SANDWICH!",0,0,Batman3217,T1B1CxmAXLk,0.05,2018-02-07 08:10:54,True,True
+2018-02-07T08:11:40,Can you please stop casting this talentless hack? She literally plays the same character in every fucking movie she's ever been in.,0,2,Michael Thomas Ireland,T1B1CxmAXLk,-0.3,2018-02-07 08:11:40,True,True
+2018-02-07T08:16:07,Oh wow. She falls down in another movie. Called it,0,0,Sardine,T1B1CxmAXLk,-0.02777777777777779,2018-02-07 08:16:07,True,True
+2018-02-07T08:16:17,https://www.youtube.com/channel/UCxrij2Pae19HPDxoQFO2_0g,0,0,Banko Maçlar hergün,T1B1CxmAXLk,0.0,2018-02-07 08:16:17,True,True
+2018-02-07T08:18:41,I love Melissa McCarthy,5,0,DizzyStosh,T1B1CxmAXLk,0.5,2018-02-07 08:18:41,True,True
+2018-02-07T08:35:10,oh hey maya rudolf yup I gotta go see this movie now,0,0,JazzyJayTheDJ,T1B1CxmAXLk,0.0,2018-02-07 08:35:10,True,True
+2018-02-07T08:54:04,"SYNOPSIS: continiung the new age pagan theme, the American family continues its descent into divorces, feminism and imbecilic defilement. As the mother and symbol of love, strength and virtue regresses into a child-like bleach blonde and shows her daughters how to fornicate publicly with frat boys amidst juvenile humor and laughter.",0,0,New World Grover,T1B1CxmAXLk,0.06439393939393939,2018-02-07 08:54:04,True,True
+2018-02-07T09:17:20,Melissa McCarthy is so funny I seeing this.,3,0,Mother Suspiriorum,T1B1CxmAXLk,0.25,2018-02-07 09:17:20,True,True
+2018-02-07T09:21:36,"Lol should've made Kris Jenner the leading role, for obvious reasons",0,0,I am The one and only,T1B1CxmAXLk,0.4,2018-02-07 09:21:36,True,True
+2018-02-07T09:24:52,I wish she had other movie rolls besides being the butt of a joke for being a “nerd”,0,1,chooseaname000,T1B1CxmAXLk,-0.125,2018-02-07 09:24:52,True,True
+2018-02-07T09:30:36,Rodney dangerfield done that years ago.same movie different people.,0,0,Jimmy Key,T1B1CxmAXLk,0.0,2018-02-07 09:30:36,True,True
+2018-02-07T09:35:58,Why is this Trending ?,1,0,Snake Plisskin,T1B1CxmAXLk,0.0,2018-02-07 09:35:58,True,True
+2018-02-07T09:50:36,I want to see her in an action movie where she plays a borderline almost evil character. Or in a comedy movie with her being a poker player in vegas who cheats the system alongside with Jackie Chan.,0,0,MovingForward,T1B1CxmAXLk,-0.45,2018-02-07 09:50:36,True,True
+2018-02-07T10:07:56,First guy to reply is goa,0,2,Michelle Nguyen,T1B1CxmAXLk,0.25,2018-02-07 10:07:56,True,True
+2018-02-07T10:24:48,Fap,0,0,Jesse Huguez,T1B1CxmAXLk,0.0,2018-02-07 10:24:48,True,True
+2018-02-07T10:35:42,Any movie with Maya Rudolph and you know it’s a bad movie...,7,2,MrSpeedyAce,T1B1CxmAXLk,-0.6999999999999998,2018-02-07 10:35:42,True,True
+2018-02-07T10:56:00,cringe,0,0,Bedroom Beats,T1B1CxmAXLk,0.0,2018-02-07 10:56:00,True,True
+2018-02-07T10:58:32,This looks surprisingly good.,4,1,TheLetterU,T1B1CxmAXLk,0.7,2018-02-07 10:58:32,True,True
+2018-02-07T11:01:52,Stop making movies like this.,17,0,LaLiLuLeLoLol,T1B1CxmAXLk,0.0,2018-02-07 11:01:52,True,True
+2018-02-07T11:42:11,oh god this is so cringy,0,0,Tiny Rick,T1B1CxmAXLk,0.0,2018-02-07 11:42:11,True,True
+2018-02-07T11:44:50,So it's Melissa McCarthy playing Melissa McCarthy... again.... she's basically the female Adam Sandler. I'll pass,37,5,Vk Deen,T1B1CxmAXLk,0.0,2018-02-07 11:44:50,True,True
+2018-02-07T11:48:24,This looks funny,4,1,sunita thind,T1B1CxmAXLk,0.25,2018-02-07 11:48:24,True,True
+2018-02-07T11:56:01,"Okay, that last line sold me",0,0,DanielEndless,T1B1CxmAXLk,0.25,2018-02-07 11:56:01,True,True
+2018-02-07T11:56:02,Should have sold the ring,0,0,DrumStick,T1B1CxmAXLk,0.0,2018-02-07 11:56:02,True,True
+2018-02-07T12:25:24,Zase dobrej film s Melissou Mccarthy uz se tesim,0,0,Kristýna Kalicova,T1B1CxmAXLk,0.0,2018-02-07 12:25:24,True,True
+2018-02-07T12:30:24,this trailer gave me cancer,0,0,Patrick M,T1B1CxmAXLk,0.0,2018-02-07 12:30:24,True,True
+2018-02-07T12:30:45,This is so bland.,0,0,Daniel Flores,T1B1CxmAXLk,-0.16666666666666666,2018-02-07 12:30:45,True,True
+2018-02-07T12:34:27,"First we got the Ghostbusters remake nobody wanted, now we get the Back to School remake nobody wanted. Man, I miss Rodney. That was some REAL comedy. Not like ol' pratfall McCarthy here. SMH.",4,1,foolkiller21,T1B1CxmAXLk,0.15,2018-02-07 12:34:27,True,True
+2018-02-07T12:48:52,"I hope this is better than The Boss... Obviously it won't beat Spy.. That's still one of her best movies, but let's keep our hopes up.",0,0,Unan1mouz,T1B1CxmAXLk,0.5,2018-02-07 12:48:52,True,True
+2018-02-07T12:50:08,"Melissa McCarthy is marmite, but in Spy she stole she show 😍 Crazy how many movie she’s doing now!",0,0,Wilderness Junkie,T1B1CxmAXLk,0.012500000000000011,2018-02-07 12:50:08,True,True
+2018-02-07T12:51:53,😂😂😂,0,0,Mike Was Here,T1B1CxmAXLk,0.0,2018-02-07 12:51:53,True,True
+2018-02-07T13:01:04,What a heap of fucking shite.,1,0,Indigo Child,T1B1CxmAXLk,-0.6,2018-02-07 13:01:04,True,True
+2018-02-07T13:09:51,0:34 the rightful Mom of Jake Paul,0,0,Miguel Susanibar,T1B1CxmAXLk,0.0,2018-02-07 13:09:51,True,True
+2018-02-07T13:18:28,So much america. Bad kind of america.,0,0,mat,T1B1CxmAXLk,0.03333333333333338,2018-02-07 13:18:28,True,True
+2018-02-07T13:25:46,So basically a white version of The Parkers....,0,0,J Universe,T1B1CxmAXLk,0.0,2018-02-07 13:25:46,True,True
+2018-02-07T13:42:14,I was really hoping for them to put the song of shawn mendes life of the party,0,0,Camila Cabello,T1B1CxmAXLk,0.2,2018-02-07 13:42:14,True,True
+2018-02-07T14:05:46,Free filtres for selfie https://goo.gl/dTX31a,0,0,Play Pro,T1B1CxmAXLk,0.4,2018-02-07 14:05:46,True,True
+2018-02-07T14:12:38,"Please stop that woman, melissa mcshit or something",0,0,Fernando Dember Laguna,T1B1CxmAXLk,0.0,2018-02-07 14:12:38,True,True
+2018-02-07T14:16:38,This just looks forgettable and all Melissa McCarthy does is just forgettable comedy roles.,0,0,Melon Gamer,T1B1CxmAXLk,-0.5,2018-02-07 14:16:38,True,True
+2018-02-07T14:19:09,Happy mother's day to me!,0,0,Amber Mercado,T1B1CxmAXLk,1.0,2018-02-07 14:19:09,True,True
+2018-02-07T14:32:29,"Could've played ""Life of the party"" by the Weeknd for this movie",0,0,Daisy Batista,T1B1CxmAXLk,0.0,2018-02-07 14:32:29,True,True
+2018-02-07T14:40:51,"Shit movie, but I respect McCarthy and her work. I get the message: divorced mom stops ""waiting to exhale"". McCarthy has done better.",0,0,Inebriatd,T1B1CxmAXLk,0.15,2018-02-07 14:40:51,True,True
+2018-02-07T15:04:48,This is a contender for worst movie of the year.  It looks unbearably terrible.  Just when I think Melissa McCarthy movies have hit rock bottom.  They start digging even deeper.,0,0,Barrettfloyd82,T1B1CxmAXLk,-1.0,2018-02-07 15:04:48,True,True
+2018-02-07T15:09:36,You can TOTALLY tell this will definitely be a box office hit and no one is going to get fired!!!,28,3,Michelle Foucault,T1B1CxmAXLk,0.0,2018-02-07 15:09:36,True,True
+2018-02-07T15:12:53,"A live action, female ""An Extremely Goofy Movie"". Good to see original content is still being produced in Hollywood!",3,0,Michelle Foucault,T1B1CxmAXLk,0.3175189393939394,2018-02-07 15:12:53,True,True
+2018-02-07T15:19:49,If they set out with the express intent of not being funny they couldn't have made a less funny movie. Melissa McCartney or whatever her name is isn't funny at all ever. Her shtick is sad played out and unoriginal just like the plot of this movie.,0,0,PresidentDwayneElizondo MountainDewHerbertCamacho,T1B1CxmAXLk,-0.01944444444444444,2018-02-07 15:19:49,True,True
+2018-02-07T15:20:11,HAHAHA It’s funny when the mom talks to her daughter about her fishy vagina. I can’t wait to see this movie! Melissa McCarthy’s shtick that she does in ever single movie she is in never gets old! I’m so glad she is making a comeback! I also love Amy Schumer and her shtick where all here jokes are about sex and her body! These two women should win awards with how original and hilarious there jokes and quips are. They are both so forward thinkers.,0,0,SPIRIT,T1B1CxmAXLk,0.3878968253968254,2018-02-07 15:20:11,True,True
+2018-02-07T15:21:25,Well it’s Melissa McCarthy so it’ll be shit,0,0,Lord V1LE,T1B1CxmAXLk,-0.2,2018-02-07 15:21:25,True,True
+2018-02-07T15:25:28,Fucking love this trailer i jist love corny ass movies,0,0,Xiumin,T1B1CxmAXLk,0.5,2018-02-07 15:25:28,True,True
+2018-02-07T15:27:13,I barely recognize her.... from the front anymore. :P,0,0,aleon1018,T1B1CxmAXLk,0.4,2018-02-07 15:27:13,True,True
+2018-02-07T15:38:16,VaGoogle is that like Bing?,0,0,Squilliam Fancyson,T1B1CxmAXLk,0.0,2018-02-07 15:38:16,True,True
+2018-02-07T15:42:09,Can’t wait 😂😂,0,0,dthipster,T1B1CxmAXLk,0.0,2018-02-07 15:42:09,True,True
+2018-02-07T15:51:55,T H I C C,0,0,bargh70,T1B1CxmAXLk,0.0,2018-02-07 15:51:55,True,True
+2018-02-07T15:54:17,Oh shiiit Luke Benward is grown lol,0,0,LoveLulu17,T1B1CxmAXLk,0.8,2018-02-07 15:54:17,True,True
+2018-02-07T15:56:18,Cringe: The Movie,0,0,omgitswolf23,T1B1CxmAXLk,0.0,2018-02-07 15:56:18,True,True
+2018-02-07T16:03:24,Oh look its funny cus it's Melissa Mccarthy and she fall over and she fat. Ha ha. Trash.,0,0,FishFingerConnoisseur,T1B1CxmAXLk,0.25,2018-02-07 16:03:24,True,True
+2018-02-07T16:05:09,the blew up part was funny,0,0,gabe_liu,T1B1CxmAXLk,0.25,2018-02-07 16:05:09,True,True
+2018-02-07T16:07:07,This looks like ass......,0,0,Ruden,T1B1CxmAXLk,0.0,2018-02-07 16:07:07,True,True
+2018-02-07T16:11:10,I am definitely watching this!  😂😁,0,0,Jenelle Lutchman,T1B1CxmAXLk,0.0,2018-02-07 16:11:10,True,True
+2018-02-07T16:14:37,Rosie O’Donnell?,1,0,Imrân Shadowfax,T1B1CxmAXLk,0.0,2018-02-07 16:14:37,True,True
+2018-02-07T16:29:00,This movie is the same idea from Family Guy with James Woods,0,0,Zoology with Vic,T1B1CxmAXLk,0.0,2018-02-07 16:29:00,True,True
+2018-02-07T16:50:33,l love you Melissa Mccarthy,2,0,emanuel moran,T1B1CxmAXLk,0.5,2018-02-07 16:50:33,True,True
+2018-02-07T16:53:20,Like you intentionally go through a haunted house lol,0,0,Kyïv stuff,T1B1CxmAXLk,0.8,2018-02-07 16:53:20,True,True
+2018-02-07T16:53:57,I still see her as Sooki St. James from Gilmore Girls😩,0,0,Maggie K,T1B1CxmAXLk,0.0,2018-02-07 16:53:57,True,True
+2018-02-07T16:55:59,"I wish Melissa McCarthy could adopt me, she's just such a funny and inspiring woman.",0,0,Shizuka,T1B1CxmAXLk,0.25,2018-02-07 16:55:59,True,True
+2018-02-07T17:00:20,Melissa is one of the most overused and unfunny actresses out there right up with Amy Schumer. *PASS*,0,0,Overlord Pepe,T1B1CxmAXLk,0.39285714285714285,2018-02-07 17:00:20,True,True
+2018-02-07T17:05:06,"""OMG! This looks so good. Can't wait for it!"" - dumpster",0,0,Wise King,T1B1CxmAXLk,0.875,2018-02-07 17:05:06,True,True
+2018-02-07T17:20:34,Cancer.,0,0,ZERO,T1B1CxmAXLk,0.0,2018-02-07 17:20:34,True,True
+2018-02-07T17:28:41,They should make a spy 2,1,0,LEYENDA FLACA,T1B1CxmAXLk,0.0,2018-02-07 17:28:41,True,True
+2018-02-07T17:42:49,She always plays the same role over and over again  Big 'pass' for me,1,0,Dr. Hambone,T1B1CxmAXLk,0.0,2018-02-07 17:42:49,True,True
+2018-02-07T17:49:54,“So baby be the life of the party”,0,0,Alicia Dolan,T1B1CxmAXLk,0.0,2018-02-07 17:49:54,True,True
+2018-02-07T17:50:48,I see somebody watched Back to School when they needed to pitch an Idea to WB.,0,0,Shannon Lopez,T1B1CxmAXLk,0.0,2018-02-07 17:50:48,True,True
+2018-02-07T17:53:17,"For some reason I died laughing at 'Shut up Frank', but absolutely nothing else. This film will be terrible.",0,0,Dr King Schultz,T1B1CxmAXLk,-0.4,2018-02-07 17:53:17,True,True
+2018-02-07T17:55:01,"What is this, the goofy movie",0,0,Nowuh,T1B1CxmAXLk,0.5,2018-02-07 17:55:01,True,True
+2018-02-07T17:56:15,Isn't this a song?  Mendez army!!! ❤✌,0,0,Fangirl 101,T1B1CxmAXLk,0.0,2018-02-07 17:56:15,True,True
+2018-02-07T17:59:27,"I don’t blame Melissa, I blame the writers",4,0,Jorge Medrano,T1B1CxmAXLk,0.0,2018-02-07 17:59:27,True,True
+2018-02-07T18:09:41,Haven't we suffered enough,0,0,A.J Sanchez,T1B1CxmAXLk,0.0,2018-02-07 18:09:41,True,True
+2018-02-07T18:14:53,More unfunny bullshit,0,0,scannaunderscore1,T1B1CxmAXLk,0.5,2018-02-07 18:14:53,True,True
+2018-02-07T18:17:26,Looks shite tbh,0,0,Darren D,T1B1CxmAXLk,0.0,2018-02-07 18:17:26,True,True
+2018-02-07T18:21:23,reversed revamped man hating Back to School movie,0,0,Jayzen,T1B1CxmAXLk,0.0,2018-02-07 18:21:23,True,True
+2018-02-07T18:29:04,What kind of Extremely Goofy Movie is this?,4,0,Andy Aleman,T1B1CxmAXLk,0.55,2018-02-07 18:29:04,True,True
+2018-02-07T18:29:23,Bomb,0,0,Bryen Veliz,T1B1CxmAXLk,0.0,2018-02-07 18:29:23,True,True
+2018-02-07T18:42:55,This fat bitch still makes films???,0,0,Sekiro,T1B1CxmAXLk,0.0,2018-02-07 18:42:55,True,True
+2018-02-07T18:45:55,NOICE.............,0,0,mr notaro11,T1B1CxmAXLk,0.0,2018-02-07 18:45:55,True,True
+2018-02-07T18:48:55,This movie has been made several times before😴🙄definitely not paying to see it..,0,0,Irreplacable,T1B1CxmAXLk,0.0,2018-02-07 18:48:55,True,True
+2018-02-07T18:51:55,I have got to see this 😂😂,0,0,sheddinglove s,T1B1CxmAXLk,0.0,2018-02-07 18:51:55,True,True
+2018-02-07T18:52:09,Sooooo....it's the movie Old School but with Melissa McCarthy instead of Will Ferrell. Okay.,0,0,burnforce,T1B1CxmAXLk,0.3,2018-02-07 18:52:09,True,True
+2018-02-07T18:54:26,Really? We're doing this? Okay I'm game. But Melissa you know you can do better.,2,0,Cordell Shackelford,T1B1CxmAXLk,0.19999999999999998,2018-02-07 18:54:26,True,True
+2018-02-07T19:02:33,"""Turn off your Va-Google.""",0,0,brigmund freud,T1B1CxmAXLk,0.0,2018-02-07 19:02:33,True,True
+2018-02-07T19:07:29,I'm not gonna watch a fat cunt with a midlife crisis do slapstic and libtard pandering for two hours fuck that shit,0,0,Sergio,T1B1CxmAXLk,-0.30000000000000004,2018-02-07 19:07:29,True,True
+2018-02-07T19:11:35,"i hope it's a good Melissa McCarthy movie, i love her! it looks quite.. weird...",0,0,crunch evo,T1B1CxmAXLk,0.27499999999999997,2018-02-07 19:11:35,True,True
+2018-02-07T19:23:01,Hey can you guys check us if you get a chance :)  !!!,0,0,Imperfectly Us,T1B1CxmAXLk,0.9765625,2018-02-07 19:23:01,True,True
+2018-02-07T19:36:59,All her movie are the same characters this looks lame,0,0,Hugginsince79,T1B1CxmAXLk,-0.25,2018-02-07 19:36:59,True,True
+2018-02-07T19:37:10,I wonder why theatre attendance is so shity. Let's keep giving Kevin James with a vagina work and see why.,0,0,john hoskins,T1B1CxmAXLk,0.0,2018-02-07 19:37:10,True,True
+2018-02-07T19:44:04,How do you have sex in a library?,0,0,Random Stuff,T1B1CxmAXLk,0.0,2018-02-07 19:44:04,True,True
+2018-02-07T19:44:43,Never pay for walmart products again. Have them delivered free to your door. Just sign up under my code and recieve your first $10 promo code. https://express.google.com/invite/LWNAXX3QQAbsolutely free to join!!!,0,0,Ashley Lisenbee,T1B1CxmAXLk,0.4770833333333333,2018-02-07 19:44:43,True,True
+2018-02-07T19:50:33,Very unfunny,0,0,afroinness,T1B1CxmAXLk,0.2,2018-02-07 19:50:33,True,True
+2018-02-07T19:53:39,I love Melissa and I'm sure this is going to be hilarious!,1,1,Alexandria Virginia,T1B1CxmAXLk,0.5416666666666666,2018-02-07 19:53:39,True,True
+2018-02-07T19:57:20,Nice to see she's showing her range.,0,0,Joe T,T1B1CxmAXLk,0.6,2018-02-07 19:57:20,True,True
+2018-02-07T20:01:01,Back to school with Rodney dangerfield girl version,0,0,Bamfx,T1B1CxmAXLk,0.0,2018-02-07 20:01:01,True,True
+2018-02-07T20:33:04,"This looks awesome!  And Melissa is looking GREAT, in  excellent shape right now! Way to go, Melissa! :)",0,0,John Manning,T1B1CxmAXLk,0.7492857142857142,2018-02-07 20:33:04,True,True
+2018-02-07T20:48:01,so glad she lost weight. she was pretty before but now she looks great.,87,4,_ Aliens _,T1B1CxmAXLk,0.5166666666666667,2018-02-07 20:48:01,True,True
+2018-02-07T20:55:55,RIP Rodney Dangerfield,0,0,AD Seagle,T1B1CxmAXLk,0.0,2018-02-07 20:55:55,True,True
+2018-02-07T21:00:32,"Wasn’t this released....        Hippydy hippodmma,",0,0,Hawk,T1B1CxmAXLk,0.0,2018-02-07 21:00:32,True,True
+2018-02-07T21:12:50,*LUKE BENWARD IS SO HOT AND HE IS LITERALLY THE TOP REASON IMMA SEE THIS MOVIE*,139,6,sparklyclarke,T1B1CxmAXLk,0.375,2018-02-07 21:12:50,True,True
+2018-02-07T21:24:24,Hey Warner Bros can you make in the Future Chuck Season 6 please. Chuck is the best Serie in the World,0,0,vTAkeS,T1B1CxmAXLk,0.5,2018-02-07 21:24:24,True,True
+2018-02-07T21:27:01,Goofy did it first,0,0,Pablizarro,T1B1CxmAXLk,0.375,2018-02-07 21:27:01,True,True
+2018-02-07T21:34:06,I'm going into this movie fully expecting an epic masterpiece comparable to War & Peace.,0,0,Car Los,T1B1CxmAXLk,0.1,2018-02-07 21:34:06,True,True
+2018-02-07T21:42:50,This looks like a joke. Not on purpose... like a sad joke... these people are so unaware...,0,0,What's Good Hollywood,T1B1CxmAXLk,-0.25,2018-02-07 21:42:50,True,True
+2018-02-07T21:53:55,We have stagnated as a species.,0,0,Derray Productions,T1B1CxmAXLk,0.0,2018-02-07 21:53:55,True,True
+2018-02-07T22:00:53,Doesnt look like the next spy tbh,0,0,Maceo Gray,T1B1CxmAXLk,0.0,2018-02-07 22:00:53,True,True
+2018-02-07T22:07:15,Ahahah this is so funny she’s old and in college ahahahahahah. Also she’s overweight and she gets in a lot of trouble and funny falls because of that ahahah hilarious. My god don’t you love that women are finally getting lead roles in movies that really make their image more positive and totally not stereotypical?!?!? 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂,0,0,M. P.,T1B1CxmAXLk,0.24708161157024788,2018-02-07 22:07:15,True,True
+2018-02-07T22:10:41,"A live action, gender bent version of An Extremely Goofy Movie?",0,0,H. Rush,T1B1CxmAXLk,0.24545454545454545,2018-02-07 22:10:41,True,True
+2018-02-07T22:40:17,Defo gonna watch it while painting some new paintings :-) https://www.facebook.com/chromapaintings/,0,0,CHROMA PAINTINGS,T1B1CxmAXLk,0.3181818181818182,2018-02-07 22:40:17,True,True
+2018-02-07T22:46:39,https://youtu.be/4P04BTEGnXc,0,0,The Real Mysterious,T1B1CxmAXLk,0.0,2018-02-07 22:46:39,True,True
+2018-02-07T22:48:53,This is An Extremely Goofy Movie.,0,0,TheStewieOne,T1B1CxmAXLk,0.5,2018-02-07 22:48:53,True,True
+2018-02-07T23:05:04,How is this chick still getting movie deals,0,0,Zach,T1B1CxmAXLk,0.0,2018-02-07 23:05:04,True,True
+2018-02-07T23:05:27,This looks terrible.,0,0,J H,T1B1CxmAXLk,-1.0,2018-02-07 23:05:27,True,True
+2018-02-07T23:07:25,(Vagina jokes),0,0,Coryindahouse81,T1B1CxmAXLk,0.0,2018-02-07 23:07:25,True,True
+2018-02-07T23:10:49,So it's a basic rip off of Rodney Dangerfield Back to School. Very unoriginal,0,0,Scott Lafleur,T1B1CxmAXLk,-0.08666666666666667,2018-02-07 23:10:49,True,True
+2018-02-07T23:15:49,It didn't take long to see her fall over. Hilarious.  Kill me.,0,0,Personal Biscuit,T1B1CxmAXLk,0.225,2018-02-07 23:15:49,True,True
+2018-02-07T23:28:15,Melissa McCarthy is the female Adam Sandler.,0,0,Jason Ortiz,T1B1CxmAXLk,0.0,2018-02-07 23:28:15,True,True
+2018-02-07T23:34:27,Agnes Scott campus repsresent!!!,0,0,Aqua Life,T1B1CxmAXLk,0.0,2018-02-07 23:34:27,True,True
+2018-02-07T23:36:50,For the love of god stop making her play the same roll,0,0,Eugene Bridge,T1B1CxmAXLk,0.25,2018-02-07 23:36:50,True,True
+2018-02-07T23:48:56,"Wow another movie of Melissa McCarthy being yourself again, cool",0,0,Chuy,T1B1CxmAXLk,0.22499999999999998,2018-02-07 23:48:56,True,True
+2018-02-07T23:50:00,One actress that will never acuse anyone of sexual harassment. .......ever.,0,0,Steve Desrochers,T1B1CxmAXLk,0.5,2018-02-07 23:50:00,True,True
+2018-02-08T00:22:24,I cannot unsee,0,0,JonnyInfinite,T1B1CxmAXLk,0.0,2018-02-08 00:22:24,True,True
+2018-02-08T00:41:14,Poor typecast bastard.,0,0,bittysnack,T1B1CxmAXLk,-0.4,2018-02-08 00:41:14,True,True
+2018-02-08T00:41:51,Fat lady the movie. Hyuck hyuck hyuck!,0,0,VicRules666,T1B1CxmAXLk,0.0,2018-02-08 00:41:51,True,True
+2018-02-08T00:49:32,Check this trailer out. Worthy of super bowl? https://youtu.be/uCoGb9So6Jc,0,0,Tito Fernandes,T1B1CxmAXLk,0.3333333333333333,2018-02-08 00:49:32,True,True
+2018-02-08T01:44:01,"I'm only here because listening Christina Aguilera new Song, start at 0:09",4,1,Dio Delano,T1B1CxmAXLk,0.06818181818181818,2018-02-08 01:44:01,True,True
+2018-02-08T01:48:43,totally going to see this!,0,0,Jayde,T1B1CxmAXLk,0.0,2018-02-08 01:48:43,True,True
+2018-02-08T02:18:43,I love her every movies. Here some comedy scene compilation of her all movies!  https://youtu.be/HgEJK95hGs8,1,0,Abi Johny,T1B1CxmAXLk,0.625,2018-02-08 02:18:43,True,True
+2018-02-08T02:30:13,"So basically, it's the plot of extremely goofy movie....",0,0,Angelica Smith,T1B1CxmAXLk,0.5,2018-02-08 02:30:13,True,True
+2018-02-08T02:40:12,This is just Back To School without Dangerfield,0,0,itstrbo,T1B1CxmAXLk,0.0,2018-02-08 02:40:12,True,True
+2018-02-08T02:53:56,Camt wait to.see this,0,0,music lover,T1B1CxmAXLk,0.0,2018-02-08 02:53:56,True,True
+2018-02-08T03:22:36,😂😂😂😂,0,0,LifesGood,T1B1CxmAXLk,0.0,2018-02-08 03:22:36,True,True
+2018-02-08T03:40:28,Dude she literally plays the same person in every movie.,120,3,ZEUS CASTILLO,T1B1CxmAXLk,0.0,2018-02-08 03:40:28,True,True
+2018-02-08T03:58:02,And debby rayan?,0,0,uziel Murillo,T1B1CxmAXLk,0.0,2018-02-08 03:58:02,True,True
+2018-02-08T04:11:13,Looks better than that Solo bullshit coming out...,0,0,Taylor Craig Newbold,T1B1CxmAXLk,0.5,2018-02-08 04:11:13,True,True
+2018-02-08T04:11:58,La que canta al principio es Christina Aguilera?,0,1,Victor Lopez,T1B1CxmAXLk,0.0,2018-02-08 04:11:58,True,True
+2018-02-08T04:13:38,Definitely watching this!! Huge fan of Melissa's movies,0,0,Its_MxM,T1B1CxmAXLk,0.20000000000000004,2018-02-08 04:13:38,True,True
+2018-02-08T04:33:10,"Just another classless, graceless, crude movie about idiots.",0,0,Right to Record,T1B1CxmAXLk,-0.75,2018-02-08 04:33:10,True,True
+2018-02-08T04:39:06,The weakening of a nation,0,0,Steve Brule,T1B1CxmAXLk,0.0,2018-02-08 04:39:06,True,True
+2018-02-08T05:06:37,I freaking love Melissa McCarthy!!,2,0,Olivia Pope Vibess,T1B1CxmAXLk,0.78125,2018-02-08 05:06:37,True,True
+2018-02-08T05:16:57,This is basically an extremely goofy movie but not nearly as heartfelt.,0,0,Jon Rey,T1B1CxmAXLk,0.25,2018-02-08 05:16:57,True,True
+2018-02-08T05:28:54,Lmfao Jenny McCarthy is hilarious!,1,0,Candiana,T1B1CxmAXLk,0.625,2018-02-08 05:28:54,True,True
+2018-02-08T05:40:05,Wait is she gay?,3,0,Papa John,T1B1CxmAXLk,0.4166666666666667,2018-02-08 05:40:05,True,True
+2018-02-08T05:49:15,"I’m a simple man, I see Melissa McCarthy, I dislike 👎🏼",0,0,narmaK,T1B1CxmAXLk,0.0,2018-02-08 05:49:15,True,True
+2018-02-08T06:08:13,"""when you intentually go through a haunted house"" 😂😂😂😂😂",6,0,"Films,Quirks & BTS",T1B1CxmAXLk,0.0,2018-02-08 06:08:13,True,True
+2018-02-08T06:29:23,"What a surprise, the men are borderline retarded, didn't think this demo would need to be catered to.",0,0,dmrc43,T1B1CxmAXLk,-0.8,2018-02-08 06:29:23,True,True
+2018-02-08T07:59:50,"IVE BEEN DYING FOR A NEW MELISSA MOVIE AAAAAAAAHHHHHHH CANT WAIT, its too long ;(((((",0,0,Miggs Rosales,T1B1CxmAXLk,0.043181818181818175,2018-02-08 07:59:50,True,True
+2018-02-08T08:13:38,"LOL, being frightened of a comb because it has hair in it. It's good to let your hair down!😀",0,0,Sameer Mustafah Raza,T1B1CxmAXLk,0.75,2018-02-08 08:13:38,True,True
+2018-02-08T08:36:31,ANOTHER MELISSA MACARTHY MOVIE IM SO HYPED,0,0,Aman Grewal,T1B1CxmAXLk,0.0,2018-02-08 08:36:31,True,True
+2018-02-08T09:19:10,She is fantastic!,0,0,VegasNative63,T1B1CxmAXLk,0.5,2018-02-08 09:19:10,True,True
+2018-02-08T11:06:54,Is this fat Melissa or thin Melissa it's hard to tell,0,0,MrShowbizguy,T1B1CxmAXLk,-0.3458333333333333,2018-02-08 11:06:54,True,True
+2018-02-08T11:22:19,Oh god another film with the overrated Melissa. She just plays the same characters over and over again!! I'm surprised they didn't throw in that even more useless kristen wigg in their as well. Maya Rudolph as well?!?! Ffs,0,1,Ben Ward,T1B1CxmAXLk,-0.045312500000000006,2018-02-08 11:22:19,True,True
+2018-02-08T11:44:20,"Any film with Melissa McCarthy in it, is worth giving it a look. She goes all in, and is funny as hell. 😆😂😌",0,0,Barbara,T1B1CxmAXLk,0.275,2018-02-08 11:44:20,True,True
+2018-02-08T12:34:15,honestly Melissa McCarthy is scum she showed her true colors with ghostbusters 2016 (she said if it failed it'll put women back post suffragette) and because of that i will never see her movies again  same with Jennifer Lawrence she is the worst kind of scum because she treats her fans (the people who made  her famous and rich) like shit,0,0,Uncle Crispy,T1B1CxmAXLk,0.010416666666666663,2018-02-08 12:34:15,True,True
+2018-02-08T13:11:29,"looks great, will go see this 😂😁",0,0,Rachel Brudenell,T1B1CxmAXLk,0.8,2018-02-08 13:11:29,True,True
+2018-02-08T14:10:19,Yea...I'll pass on this. She's a great actress and is very funny but I hate the plot.,0,0,Ratrix,T1B1CxmAXLk,0.10833333333333332,2018-02-08 14:10:19,True,True
+2018-02-08T14:37:19,Nope...,0,0,Skarekrow1592,T1B1CxmAXLk,0.0,2018-02-08 14:37:19,True,True
+2018-02-08T14:44:22,Shit Movie for Sure,0,0,Warworm1234,T1B1CxmAXLk,0.15,2018-02-08 14:44:22,True,True
+2018-02-08T15:30:13,"I keep seeing comments saying that this is a rip off of A  Goofy Movie. Wasn’t that cartoon about a dad tagging along with this son on a road trip to see a concert? ..... yea, this looks nothing like that.  It is funny how the script made the daughter character have to say “ Ewwww... wa” 🤣🤣  So glad I trained my wife not to add extra sounds to words",1,0,Ian,T1B1CxmAXLk,0.3125,2018-02-08 15:30:13,True,True
+2018-02-08T15:34:04,"Is her comedy just being blown up, hit by things, and yelling? Cause that's basically all she does",1,1,YahCockSwallowinGrama,T1B1CxmAXLk,0.0,2018-02-08 15:34:04,True,True
+2018-02-08T15:59:41,"Back to School with Rodney Dangerfield rolling over in his grave, God rest his soul.",3,0,Matt Hamann,T1B1CxmAXLk,0.0,2018-02-08 15:59:41,True,True
+2018-02-08T16:04:53,Rodney Dangerfield,0,0,pollenontheshoot,T1B1CxmAXLk,0.0,2018-02-08 16:04:53,True,True
+2018-02-08T16:41:17,Good to see warner brothers making original content.. not.,1,0,Tom Cash,T1B1CxmAXLk,0.5375,2018-02-08 16:41:17,True,True
+2018-02-08T17:00:16,Somebody roll that fat bitch down a hill so we don't have to see anymore of her shit movies.,0,0,Matt Culler,T1B1CxmAXLk,-0.1777777777777778,2018-02-08 17:00:16,True,True
+2018-02-08T17:18:40,:(,0,0,darktennisball,T1B1CxmAXLk,-0.75,2018-02-08 17:18:40,True,True
+2018-02-08T17:23:10,This is hilarious,0,0,Weekly List,T1B1CxmAXLk,0.5,2018-02-08 17:23:10,True,True
+2018-02-08T17:39:58,awesom-o still giving hollywood movie ideas,0,0,Officer Dibbles,T1B1CxmAXLk,0.0,2018-02-08 17:39:58,True,True
+2018-02-08T17:42:44,I liked this the first time I saw it when it was called 'Back to School',0,0,kharmapolice7,T1B1CxmAXLk,0.2833333333333333,2018-02-08 17:42:44,True,True
+2018-02-08T17:50:43,"Here we go again, same old shi..",0,0,Luke McCann,T1B1CxmAXLk,0.05,2018-02-08 17:50:43,True,True
+2018-02-08T18:11:48,No. Just no.,0,0,Naina N,T1B1CxmAXLk,0.0,2018-02-08 18:11:48,True,True
+2018-02-08T18:14:38,Omg christina aguilera??? 🤗,0,1,edgar dzul barbosa,T1B1CxmAXLk,0.0,2018-02-08 18:14:38,True,True
+2018-02-08T20:16:04,She lost so much weight,2,0,Hey Hey,T1B1CxmAXLk,0.2,2018-02-08 20:16:04,True,True
+2018-02-08T21:02:22,the first song used that's christina aguilera's voice right but it sounds so different !!!,0,1,Zak S AMGHAR,T1B1CxmAXLk,0.17857142857142858,2018-02-08 21:02:22,True,True
+2018-02-08T21:03:38,Oh this is so New and Fresh! Like no other movie I've seen before....I can't wait. 😴,0,0,The Curious Sapien,T1B1CxmAXLk,0.19128787878787878,2018-02-08 21:03:38,True,True
+2018-02-08T21:06:36,Hmm...it's not very funny!,0,0,Ramneek Hora,T1B1CxmAXLk,-0.12019230769230768,2018-02-08 21:06:36,True,True
+2018-02-08T21:31:43,"I don't know if the movie is funny, but whoever edited this trailer is not.",0,0,underweightHater,T1B1CxmAXLk,0.25,2018-02-08 21:31:43,True,True
+2018-02-08T21:47:41,They should have used the song I get it in by 50 cent,0,0,Robert Reyes,T1B1CxmAXLk,0.0,2018-02-08 21:47:41,True,True
+2018-02-08T22:24:57,Yet another Hollyhood man bashing movie. No thanks Melissa fat ass.,1,0,Chris Daniels,T1B1CxmAXLk,-0.1,2018-02-08 22:24:57,True,True
+2018-02-08T23:09:15,Hasn't this movie been made before with Rodney Dangerfield?,0,0,Barbara Elle,T1B1CxmAXLk,0.0,2018-02-08 23:09:15,True,True
+2018-02-09T00:47:34,I have already seen this movie as it is the same as every other 'female midlife crisis' film released every year. TRASH,0,0,jacal,T1B1CxmAXLk,-0.041666666666666664,2018-02-09 00:47:34,True,True
+2018-02-09T00:58:55,"Yesss, she’s back. I love Melissa!",1,0,Jason O'Connell,T1B1CxmAXLk,0.3125,2018-02-09 00:58:55,True,True
+2018-02-09T01:01:37,Don't get what's up with the hate. This actually looks kind of funny,0,0,Alex Cruz,T1B1CxmAXLk,0.012499999999999983,2018-02-09 01:01:37,True,True
+2018-02-09T01:15:45,"Ladies and Gentlemen, the female Adam Sandler. And not the funny version.",0,0,Socaliente,T1B1CxmAXLk,0.125,2018-02-09 01:15:45,True,True
+2018-02-09T02:07:47,"i love Melissa and want to see the movie.  In comment section, ONLY men are complaining about women are this and that. For men, they think they can cheat, sleep with many women, having fun/ flirting is acceptable and OK. They are so proud that they need to brag about it to their male friends. If women do the same, they are so jealous and critize and controlling.",0,0,Saungkyelphyu,T1B1CxmAXLk,0.32857142857142857,2018-02-09 02:07:47,True,True
+2018-02-09T06:25:58,Stupid fucking Yanks.,0,0,Zafferung,T1B1CxmAXLk,-0.7,2018-02-09 06:25:58,True,True
+2018-02-09T09:08:50,"I'm gonna watch it because it looks alright, but mostly for Debby Ryan.",0,0,Jeremy Walker,T1B1CxmAXLk,0.5,2018-02-09 09:08:50,True,True
+2018-02-09T14:50:55,She's a really funny actress/comedian...she also does really well with physical comedy...,1,0,Chris Mass,T1B1CxmAXLk,0.15,2018-02-09 14:50:55,True,True
+2018-02-09T19:20:59,"love it already, SHUT UP FRANk",0,0,Far- Fetched,T1B1CxmAXLk,0.5,2018-02-09 19:20:59,True,True
+2018-02-09T21:43:40,Saw this already.  Rodney Dangerfield was awesome.,0,0,Murlynd 73,T1B1CxmAXLk,1.0,2018-02-09 21:43:40,True,True
+2018-02-09T23:03:45,MELISSA L LOST HELL OF A LOT OF WEIGHT,1,0,Amb,T1B1CxmAXLk,0.0,2018-02-09 23:03:45,True,True
+2018-02-10T00:16:15,Melissa McArthy > Amy Schumer,0,0,The Ghost,T1B1CxmAXLk,0.0,2018-02-10 00:16:15,True,True
+2018-02-10T01:23:38,Christina Aguilera's song at the begginig?,0,1,José Carlos Chávez Navarro,T1B1CxmAXLk,0.0,2018-02-10 01:23:38,True,True
+2018-02-10T03:39:45,i did not believe i could make this much cash within this short time . Western union cash flip has really turned my life around . Me getting my cash flipped actually gave my finical status a huge lift . Guys do not let ignorance skip you from gaining from  this while it lasts. Western union cash flip will not last forever so lets make as much cash as we can now .You can contact them via e-mail:(thomasfederick80@gmail.com),0,0,Murat Acar Renberg,T1B1CxmAXLk,0.1111111111111111,2018-02-10 03:39:45,True,True
+2018-02-10T06:29:29,"So fucking terrible, there is no god",0,0,JT Sleazeball,T1B1CxmAXLk,-1.0,2018-02-10 06:29:29,True,True
+2018-02-10T10:56:58,Seemed funnier with Rodney Dangerfield,0,0,culann ceallaigh,T1B1CxmAXLk,0.0,2018-02-10 10:56:58,True,True
+2018-02-10T14:41:44,Awesome can't wait not to see this.,0,0,phoenix ashes,T1B1CxmAXLk,1.0,2018-02-10 14:41:44,True,True
+2018-02-10T17:47:08,"Doesn’t seem funny, she isn’t all that funny here. Not wasting my money on this one",0,0,The Charliverse Channel,T1B1CxmAXLk,0.25,2018-02-10 17:47:08,True,True
+2018-02-10T20:28:26,Yoooo i have a big black hairy huge titanic dick,0,0,• 69 years ago,T1B1CxmAXLk,0.0777777777777778,2018-02-10 20:28:26,True,True
+2018-02-10T23:18:58,yeeyyyy Melissa McCarthy,0,0,CinemaLike,T1B1CxmAXLk,0.0,2018-02-10 23:18:58,True,True
+2018-02-11T05:17:52,Hmmm is this just the white version of The Parker’s?,0,0,CUZN,T1B1CxmAXLk,0.0,2018-02-11 05:17:52,True,True
+2018-02-11T06:12:31,"I wanna see this, but... This is the 2018 version of the Goofy Movie",0,0,Witch Hazel,T1B1CxmAXLk,0.5,2018-02-11 06:12:31,True,True
+2018-02-11T06:34:41,"I watched the trailer and left, had to come back and read the comments lol",0,0,MontrelleTv,T1B1CxmAXLk,0.26666666666666666,2018-02-11 06:34:41,True,True
+2018-02-11T08:40:00,boring old story,0,0,DAVID L SZEDMER,T1B1CxmAXLk,-0.45,2018-02-11 08:40:00,True,True
+2018-02-11T15:40:45,Ima gona watcha dat,0,0,not-a-furry o.O,T1B1CxmAXLk,0.0,2018-02-11 15:40:45,True,True
+2018-02-11T17:46:44,You never will be funny melissa,0,0,Slacks,T1B1CxmAXLk,0.25,2018-02-11 17:46:44,True,True
+2018-02-11T20:06:04,Typical Warner Bros shit.....#justice4snyder,0,0,INGSOC,T1B1CxmAXLk,-0.16666666666666666,2018-02-11 20:06:04,True,True
+2018-02-11T23:38:50,Nope,0,0,Atomicchuck,T1B1CxmAXLk,0.0,2018-02-11 23:38:50,True,True
+2018-02-12T07:44:29,she plays the same fucking character in all her movies is just sad,0,0,Tino Ms,T1B1CxmAXLk,-0.3666666666666667,2018-02-12 07:44:29,True,True
+2018-02-12T19:01:26,Love Melissa McCarthy,0,0,Teresa Cole,T1B1CxmAXLk,0.5,2018-02-12 19:01:26,True,True
+2018-02-12T19:14:23,I am subbing to anyone who sub to me,0,0,ramdom dark Knight,T1B1CxmAXLk,0.0,2018-02-12 19:14:23,True,True
+2018-02-12T19:39:49,Melissa McCarthy is hilarious 👏👏,6,2,Alain Bruno,T1B1CxmAXLk,0.5,2018-02-12 19:39:49,True,True
+2018-02-12T22:23:52,Didn’t laugh once. Looks terrible,0,0,Red R0ver,T1B1CxmAXLk,-0.35,2018-02-12 22:23:52,True,True
+2018-02-12T23:10:32,"After watching Feminist Ghostbusters, I would NOT pay to see this chick in ANYTHING. She'll never get another dime out of me.",0,0,Link Hylian,T1B1CxmAXLk,0.0,2018-02-12 23:10:32,True,True
+2018-02-13T00:48:21,Vagoogle? really?,0,0,Inside My Mind,T1B1CxmAXLk,0.2,2018-02-13 00:48:21,True,True
+2018-02-13T01:07:40,"Wow Melissa McCarthy has lost so much weight! Good for her, way to go Melissa :)",0,0,Stormy Blüpaw,T1B1CxmAXLk,0.38749999999999996,2018-02-13 01:07:40,True,True
+2018-02-13T09:10:37,Wow! It’s ‘Back to School’.,0,0,Maxim 2016,T1B1CxmAXLk,0.0625,2018-02-13 09:10:37,True,True
+2018-02-13T09:16:56,So much male fragility in here lol,0,0,Em Love,T1B1CxmAXLk,0.4,2018-02-13 09:16:56,True,True
+2018-02-13T12:19:14,Can someone stop this White Madea!,0,0,Yuvraj Zala,T1B1CxmAXLk,0.0,2018-02-13 12:19:14,True,True
+2018-02-13T14:55:34,It looks like trash lol,0,0,D Mann,T1B1CxmAXLk,0.8,2018-02-13 14:55:34,True,True
+2018-02-13T15:23:44,Goddammit frank,0,0,Jonathan McGillivray,T1B1CxmAXLk,0.0,2018-02-13 15:23:44,True,True
+2018-02-13T23:29:18,“Like when you intentionally go through a haunted house” hahaha,1,0,Annaliese Cancilla,T1B1CxmAXLk,0.2,2018-02-13 23:29:18,True,True
+2018-02-14T02:45:26,https://youtu.be/UDyl6Ndsog8,0,0,Skye & Iman,T1B1CxmAXLk,0.0,2018-02-14 02:45:26,True,True
+2018-02-14T04:01:52,https://youtu.be/pCWH5OW9lDo?t=51,0,0,mike abrams,T1B1CxmAXLk,0.0,2018-02-14 04:01:52,True,True
+2018-02-14T08:18:38,Can't wait to see this!! 😂,0,0,Queen Mummy Fairytale,T1B1CxmAXLk,0.0,2018-02-14 08:18:38,True,True
+2018-02-14T16:52:19,"guys, please subcribe my channel, i'm vlogger from indonesian ❤️❤️, thank you guys 🙏",1,0,SURYA INFINITY,T1B1CxmAXLk,0.0,2018-02-14 16:52:19,True,True
+2018-02-14T19:27:16,I can't wait to not see this!,0,1,J-Man The Great,T1B1CxmAXLk,0.0,2018-02-14 19:27:16,True,True
+2018-02-15T01:23:17,Would not be funny if you were not overweight.. Sad.,0,0,ro jn,T1B1CxmAXLk,-0.125,2018-02-15 01:23:17,True,True
+2018-02-15T04:13:05,Bert Kreischer?,0,0,Erick A,T1B1CxmAXLk,0.0,2018-02-15 04:13:05,True,True
+2018-02-15T10:07:11,LOVE YOU QUEEN MELISSA MCCARTHY ❤️❤️❤️,0,0,Josephine Mendoza,T1B1CxmAXLk,0.5,2018-02-15 10:07:11,True,True
+2018-02-15T18:06:39,Ok. So another coming of age movies for women over forty! I'd like to see a movie where she actually doesn't play someone who wins over the crowd by being a closet nympho breaking out! Great mom role to play when young women need their moms the most. Life lesson compete with your daughters for men when you get older. This is so wrong in many ways. It's true I used to laugh at movies like this but recently I'm wondering who the hell feelings it's more compelling to write over done garbage like this. Really Hollywood proves again they have no idea what the rest of country thinks anymore. Melissa needs to break free of roles like this because she is a talented woman with more in her than this garbage.,0,0,eva magnusson,T1B1CxmAXLk,0.30509259259259264,2018-02-15 18:06:39,True,True
+2018-02-15T18:24:12,She's only funny when she's falling through tables and getting hit in the face with shit.,0,0,Matt Neumeyer,T1B1CxmAXLk,0.016666666666666663,2018-02-15 18:24:12,True,True
+2018-02-15T21:51:15,A PG-13 movie of Melissa McCarthy!,0,0,Saad Nabil,T1B1CxmAXLk,0.0,2018-02-15 21:51:15,True,True
+2018-02-15T23:57:40,'Member when New Line used to make awesome movies?,0,0,bluto1992,T1B1CxmAXLk,0.5681818181818181,2018-02-15 23:57:40,True,True
+2018-02-16T03:40:21,Arrival elite alone avoid car clear annually.,0,0,Amy Wright,T1B1CxmAXLk,0.10000000000000002,2018-02-16 03:40:21,True,True
+2018-02-16T18:01:39,"""Coincidence the Matrix (movie) grew people as a crop, used for energy, and controlled their mind? Sound familiar? Wonder where they derived that idea from. Now comes the 'conspiracy' label. Deeper we go, the more unrealistic it all becomes. The end won't be for everyone. That choice, to know, will be yours."" Q",0,0,General Chaos,T1B1CxmAXLk,0.19374999999999998,2018-02-16 18:01:39,True,True
+2018-02-17T01:29:18,Oh Yeah....We have all been there - done that - know all about it.  When we were  so mid-life stupid.....Never again.   This could be a fun movie to see and reminisce....AH those days.......????,0,0,pat ichinoe,T1B1CxmAXLk,0.3,2018-02-17 01:29:18,True,True
+2018-02-17T07:51:34,Xtina sing???,0,0,xtxxx xtinaisback,T1B1CxmAXLk,0.0,2018-02-17 07:51:34,True,True
+2018-02-17T21:10:32,"Oh hai, I saw this in 1986 with Rodney Dangerfield...called BACK TO SCHOOL.",0,0,Daria Wells,T1B1CxmAXLk,0.0,2018-02-17 21:10:32,True,True
+2018-02-18T01:12:57,Can anyone tell me what the second song played is??,0,0,Jenna Schlosser,T1B1CxmAXLk,0.0,2018-02-18 01:12:57,True,True
+2018-02-19T16:31:44,My cousin is in this movie he is a extra person,0,0,Bella Aguirre,T1B1CxmAXLk,0.0,2018-02-19 16:31:44,True,True
+2018-02-20T05:05:56,I want Spy 2.,0,0,MntlWard,T1B1CxmAXLk,0.0,2018-02-20 05:05:56,True,True
+2018-02-21T00:39:47,sick,0,0,Kwarteng Sarfo,T1B1CxmAXLk,-0.7142857142857143,2018-02-21 00:39:47,True,True
+2018-02-21T21:12:57,"shouldnt a trailer get me excited to see a movie? i dont think i smiled once during this...i usually find her at least somewhat funny but this seems like a really lazy attempt at a cash grab. wouldnt be surprised to find out her and her husband wrote the script just like the last 10 movies shes ""starred"" in, it has that ""we barely tried, we threw in some slapstick to offset the constant inane dialogue, maybe youll laugh, maybe not, either way you paid to see this so whatever, thanks for your money"" vibe. brides maids was the only movie she was hilarious in (and after a few rewatches with the mrs, the novelty starts to wear thin there too), after that it was cookie cutter BS to insert butts into theater seats",0,0,Bosco26726,T1B1CxmAXLk,0.0609375,2018-02-21 21:12:57,True,True
+2018-02-22T10:26:49,Water water canvas intend ground agency pole present emergency working.,0,0,Harley Johnson,T1B1CxmAXLk,0.0,2018-02-22 10:26:49,True,True
+2018-02-22T23:12:48,Is she just the same person in every movie? Can she not play a retarded loser in at least one movie? Like she’s hilarious and such a great comedic actress... I was she didn’t feel compelled to be so one note,0,1,Cameron Cooke,T1B1CxmAXLk,0.033333333333333326,2018-02-22 23:12:48,True,True
+2018-02-28T05:48:30,Can we stop pretending she is funny now?,0,0,freakjob0,T1B1CxmAXLk,0.25,2018-02-28 05:48:30,True,True
+2018-03-03T04:55:57,i came for luke benward,0,0,Chloe Diamond,T1B1CxmAXLk,0.0,2018-03-03 04:55:57,True,True
+2018-03-03T12:40:45,Remeber the heat or st. vincent i thought those were really good,0,0,horseradish,T1B1CxmAXLk,0.7,2018-03-03 12:40:45,True,True
+2018-03-11T12:51:33,Can’t wait to see this 🤣🤣🤣,0,0,NYCGAL328,T1B1CxmAXLk,0.0,2018-03-11 12:51:33,True,True
+2018-03-15T14:54:17,"Im in because ., its Melissa McCatthy it IS giong to be hilarious",0,1,Lisa Dees,T1B1CxmAXLk,0.5,2018-03-15 14:54:17,True,True
+2018-03-22T20:26:38,0:33 The exact moment I realized this was directed by her husband.,0,0,moviemaster8510,T1B1CxmAXLk,0.25,2018-03-22 20:26:38,True,True
+2018-03-25T17:37:26,"0:09 Song. FEELS SO GOOD, by Christina Aguilera. Releases sometime this summer.",0,0,Sam Banfield,T1B1CxmAXLk,0.7,2018-03-25 17:37:26,True,True
+2018-03-28T03:02:36,Pigs...,0,0,Lt.Kernal Pattons,T1B1CxmAXLk,0.0,2018-03-28 03:02:36,True,True
+2018-03-28T12:02:24,"Look.... It's an unfunny version of ""Back To School""",0,0,CGH,T1B1CxmAXLk,0.0,2018-03-28 12:02:24,True,True
+2018-03-28T18:36:35,i can't wait for christina aguilera feel so good to come out as a single this spring i  hope she makes a music video for the song,0,0,Brandon Lingstuyl,T1B1CxmAXLk,0.3142857142857143,2018-03-28 18:36:35,True,True
+2018-04-02T08:03:47,This is going to be bomb,0,1,Sara Vinci,T1B1CxmAXLk,0.0,2018-04-02 08:03:47,True,True
+2018-04-05T22:43:55,okay 1. this looks amazing lol and 2. AM I THE ONLY ONE WHO THOUGHT OF SHAWN MENDES WHEN I HEARD THE NAME ????????????????????????????,2,0,Laci Pink Mancha,T1B1CxmAXLk,0.47500000000000003,2018-04-05 22:43:55,True,True
+2018-04-07T15:34:11,"Oh, Britta's in this?",0,0,Greg Schultz,T1B1CxmAXLk,0.0,2018-04-07 15:34:11,True,True
+2018-04-09T00:00:50,"Is this like the rated R version of ""An Extremely Goofy Movie""?",0,0,Hayden,T1B1CxmAXLk,0.5,2018-04-09 00:00:50,True,True
+2018-04-10T00:53:37,lmfaooooo i can't wait for this,0,0,ryan lopez,T1B1CxmAXLk,0.0,2018-04-10 00:53:37,True,True
+2018-04-10T11:10:54,No offense but she should really stop letting her husband direct her movies. They ALL turn out trash.,0,1,Ahmed Hathout,T1B1CxmAXLk,0.15000000000000002,2018-04-10 11:10:54,True,True
+2018-04-10T18:56:47,V google 😄😄😄😄😃😃😃😂😂😂😂she kill me every time she says that.,0,0,Dot Pr,T1B1CxmAXLk,0.0,2018-04-10 18:56:47,True,True
+2018-04-11T01:45:35,"I just came here to say that because of that minute and a half unskippable ad I am never going to watch this. Seriously, Warner Bros, go fuck yourself.",0,1,Ethan Gray,T1B1CxmAXLk,-0.3,2018-04-11 01:45:35,True,True
+2018-04-11T07:33:42,I can't wait this movie,0,0,Egle Davidsoniene,T1B1CxmAXLk,0.0,2018-04-11 07:33:42,True,True
+2018-04-11T17:05:58,Can't wait!!!,0,0,Dencel Blue,T1B1CxmAXLk,0.0,2018-04-11 17:05:58,True,True
+2018-04-11T21:04:07,I'm in this movie,0,3,Randy West,T1B1CxmAXLk,0.0,2018-04-11 21:04:07,True,True
+2018-04-12T11:57:28,"She plays the same character in every film and overacts.  She is such a try hard but makes sure she gets an unnecessary or unusually long monologue where she can show that she is a master at crying.  Thats not acting; sociopathic behaviour.  She was entertaining for 15 mins.  Can we get the studio to force her to star in the all female version of Paul Blart?  Pauline Blart will star with an ensemble cast of all the ‘modern’ SNL fakes. ***If her handlers see this, message me.  I can write a script for ya overnight.",0,0,Vee Cee,T1B1CxmAXLk,0.023484848484848483,2018-04-12 11:57:28,True,True
+2018-04-12T19:50:52,My step daughter and I go to the same university and I feel like I need to do this to her.,0,1,Diana Huntress,T1B1CxmAXLk,0.0,2018-04-12 19:50:52,True,True
+2018-04-12T21:47:11,"To everyone saying “Melissa does the same thing over and over again” LITERALLY NO ONE COMPLAINS when tom cruise is the SAME fucking action guy(we get it, you do your own stunts) Brad Pitt is the classic good-looking charmer, and I swear to god all of Ryan Gosling’s -god bless him- movies are the fucking same.  Let Melissa live",0,0,Kat Bagger,T1B1CxmAXLk,0.14329004329004327,2018-04-12 21:47:11,True,True
+2018-04-13T00:37:16,"This seems like a mom version of Back To School with Rodney Dangerfield. How many of these ""it's like _____ but with women"" movies will they make?",0,1,K Muck,T1B1CxmAXLk,0.25,2018-04-13 00:37:16,True,True
+2018-04-13T03:29:52,Wow Goofy is looking great in An Extremely Goofy Movie 2,2,0,Sitra-San,T1B1CxmAXLk,0.475,2018-04-13 03:29:52,True,True
+2018-04-14T03:30:18,Wow! It looks exactly like everything else!,0,0,Blaine Peltier,T1B1CxmAXLk,0.21875,2018-04-14 03:30:18,True,True
+2018-04-14T18:02:12,"This seems like a female version of ""Back to School"", with Rodney Dangerfield.",0,0,Dem H78,T1B1CxmAXLk,0.0,2018-04-14 18:02:12,True,True
+2018-04-15T21:10:27,"More films pushing the agenda of destroying the traditional family unit, TYPICAL LEFTIST BS",0,0,iphone 14,T1B1CxmAXLk,0.016666666666666666,2018-04-15 21:10:27,True,True
+2018-04-17T00:24:13,Some movies are made for no reason ...,0,0,The Conductor Esplin,T1B1CxmAXLk,0.0,2018-04-17 00:24:13,True,True
+2018-04-17T22:55:56,I love her movies ..The spy girl...she lost soo much weight,0,0,Salzai S,T1B1CxmAXLk,0.35,2018-04-17 22:55:56,True,True
+2018-04-18T02:30:50,I already saw this movie...when it was called Back to School.,0,0,Martha Varela,T1B1CxmAXLk,0.0,2018-04-18 02:30:50,True,True
+2018-04-18T11:34:03,Garbage.,0,0,GetBackIn TheKitchen,T1B1CxmAXLk,0.0,2018-04-18 11:34:03,True,True
+2018-04-18T21:47:32,"Hollywood has got a lot to answer for, tbh. And I'm not just talking about the Harvey Weinstein debacle.",0,0,Copious Doinks LLC.,T1B1CxmAXLk,0.0,2018-04-18 21:47:32,True,True
+2018-04-18T23:00:48,Stop making these ridiculous scenario movies,0,0,Ruby V,T1B1CxmAXLk,-0.3333333333333333,2018-04-18 23:00:48,True,True
+2018-04-19T00:33:51,"Women are not funny.  ""See, she can be gross just like the guys.""  No, if a guy in a movie said that he was really experienced and some lady saw his wrinkly dick it would be odd, not funny.   They think they can just have a woman spout gross lines and she's funny like a gross out guy movie.  Nope.  Women don't have to be funny, and aren't.",0,0,Rachel Sanders,T1B1CxmAXLk,0.09814814814814815,2018-04-19 00:33:51,True,True
+2018-04-19T04:44:44,Rodney dangerfield already made this in 1986- BACK TO SCHOOL.... :(,0,0,SAL Paradise,T1B1CxmAXLk,-0.375,2018-04-19 04:44:44,True,True
+2018-04-20T12:36:28,*DAT CHRISTINA SNIPPET THO. I'M EXCITED.*,0,0,khangminh.,T1B1CxmAXLk,0.375,2018-04-20 12:36:28,True,True
+2018-04-20T12:52:48,"I liked this the first time it came out with Rodney Dangerfield  and it was called ""Back to School""",0,0,chris soderlund,T1B1CxmAXLk,0.2833333333333333,2018-04-20 12:52:48,True,True
+2018-04-21T02:32:56,Unnecessary. So very unnecessary. Just... Why?,0,0,dbsean,T1B1CxmAXLk,-0.46,2018-04-21 02:32:56,True,True
+2018-04-21T03:46:40,I think Rodney Dangerfield did it better.,2,0,cinnamonseahorse,T1B1CxmAXLk,0.5,2018-04-21 03:46:40,True,True
+2018-04-21T03:48:24,"Uhh, women!",1,0,cinnamonseahorse,T1B1CxmAXLk,0.0,2018-04-21 03:48:24,True,True
+2018-04-21T14:52:43,This movie is soo wrong in soo many ways,0,0,Thariq Norman,T1B1CxmAXLk,0.0,2018-04-21 14:52:43,True,True
+2018-04-22T17:52:15,Man they really Britta’d this movie,0,0,James DiSandro,T1B1CxmAXLk,0.2,2018-04-22 17:52:15,True,True
+2018-04-24T08:30:00,cool parents scaring their kids never gets old,0,0,ngiw,T1B1CxmAXLk,0.22499999999999998,2018-04-24 08:30:00,True,True
+2018-04-24T12:52:43,This movie looks so funny..... I am so gonna see it,0,0,Em R.,T1B1CxmAXLk,0.25,2018-04-24 12:52:43,True,True
+2018-04-24T21:52:08,Shut up Frank!,0,0,Slitz Seven,T1B1CxmAXLk,0.0,2018-04-24 21:52:08,True,True
+2018-04-24T22:10:48,"This is hilarious,can’t wait to watch it🤣🤣🤣🤣👌🏻",0,0,Katya_Velour,T1B1CxmAXLk,0.0,2018-04-24 22:10:48,True,True
+2018-04-25T03:34:07,So this is the human version of A Goofy Movie?Lol,0,0,red Chief,T1B1CxmAXLk,0.25,2018-04-25 03:34:07,True,True
+2018-04-25T04:29:54,It looks like its gonna be a remake of Back to School,0,0,Joseph Hernandez,T1B1CxmAXLk,0.0,2018-04-25 04:29:54,True,True
+2018-04-25T10:36:56,"Real fucking original. A Remake of Rodney Dangerfield's "" Back to School""  How fucking original another copycat hack of a actor trying to be funny using another Quality Comedians Original Movie.",0,0,Mick Berry,T1B1CxmAXLk,0.275,2018-04-25 10:36:56,True,True
+2018-04-25T13:17:48,Terrible,0,0,MrJakeJimmy,T1B1CxmAXLk,-1.0,2018-04-25 13:17:48,True,True
+2018-04-25T18:07:08,Vagoogle 😂👌👏,0,0,Emma and Rory's Kitten Adventures,T1B1CxmAXLk,0.0,2018-04-25 18:07:08,True,True
+2018-04-25T20:35:26,This looks good I can't wait,0,0,Kayleigh Lee,T1B1CxmAXLk,0.7,2018-04-25 20:35:26,True,True
+2018-04-25T23:47:17,I hope this movie makes 8 dollars,0,0,Dustin Hotz,T1B1CxmAXLk,0.0,2018-04-25 23:47:17,True,True
+2018-04-26T09:48:38,in this the plot of the Goofie Movie I swear this is exactly what Goofie does to his son Max,0,0,darknamgi,T1B1CxmAXLk,0.25,2018-04-26 09:48:38,True,True
+2018-04-26T22:12:53,for how many years were she and her husband married???,0,0,shaquille kroes,T1B1CxmAXLk,0.375,2018-04-26 22:12:53,True,True
+2018-04-27T10:29:31,Ughhhh Debby Ryan damn imma be watch that for sure,0,0,Alivia Martinez,T1B1CxmAXLk,0.5,2018-04-27 10:29:31,True,True
+2018-04-28T15:34:20,I feel like I'm going to love this movie because Debby Ryan is in it. I love Debby almost as much as Josh Dun does.,1,0,emo trash,T1B1CxmAXLk,0.39999999999999997,2018-04-28 15:34:20,True,True
+2018-04-28T22:10:07,Rodney did it first and he did it better.,0,0,KT,T1B1CxmAXLk,0.375,2018-04-28 22:10:07,True,True
+2018-04-28T22:13:11,Did Melissa's husband finally lose the beer goggles? Or did he run into Tony Robbins who broke the spell?,0,0,KT,T1B1CxmAXLk,0.0,2018-04-28 22:13:11,True,True
+2018-04-28T23:02:56,fuck off,0,0,owen,T1B1CxmAXLk,-0.4,2018-04-28 23:02:56,True,True
+2018-04-29T04:39:39,does this give anyone an extremely goofy movie vibes,0,0,marinara,T1B1CxmAXLk,0.5,2018-04-29 04:39:39,True,True
+2018-04-29T13:53:09,"I thought American colleges were full of dumb, easily triggered, know nothing angry millennial sjw snowflakes? Or am I wrong?",1,1,drumdust,T1B1CxmAXLk,-0.09861111111111111,2018-04-29 13:53:09,True,True
+2018-04-30T20:44:43,My cousin met Debby Ryan I was so mad 😂😭😫,1,0,Allison Jean,T1B1CxmAXLk,-0.625,2018-04-30 20:44:43,True,True
+2018-04-30T22:43:36,This movie looks so stupid,1,0,jack arnold,T1B1CxmAXLk,-0.7999999999999999,2018-04-30 22:43:36,True,True
+2018-05-01T02:30:44,When is Hollywood going to get an imagination and stop copying the 80 and 90’s. You can’t rewrite history. So boring.,0,0,Justin,T1B1CxmAXLk,-1.0,2018-05-01 02:30:44,True,True
+2018-05-01T22:39:25,Why,1,0,Andrew M,T1B1CxmAXLk,0.0,2018-05-01 22:39:25,True,True
+2018-05-02T00:48:27,oh look......coming from the most unfunny person in the world......ABSOLUTELY NOTHING FUNNY.,1,0,andy lai,T1B1CxmAXLk,0.375,2018-05-02 00:48:27,True,True
+2018-05-02T00:55:39,steaming pile of horse shit.,1,0,andy lai,T1B1CxmAXLk,-0.2,2018-05-02 00:55:39,True,True
+2018-05-02T08:22:21,No one asked for this  Who thought this would be a good idea               You should be ashamed,0,0,The Conductor Esplin,T1B1CxmAXLk,0.7,2018-05-02 08:22:21,True,True
+2018-05-02T15:32:31,"Isn't this the T.v. show The Parkers!       Monique and Contess? Been done before! I say this because some of the jokes and scenes are Literally the same. But Monique did it maybe 10 years ago.Excuse me, more than 10 years The Parkers were on during the 90's. Now-,I truly see where Monique is coming from. She's been there and done that with movies and shows. Years ahead of Everybody else but now they're Literally following in her "" Footsteps"" and ""Mouth"". Word for Word! I thought she had lost her mind but apparently - She Hasn't!",1,0,Annette Jenkins,T1B1CxmAXLk,0.140625,2018-05-02 15:32:31,True,True
+2018-05-02T23:02:00,I can't wait for this movie to come out...      So I can stop getting these goddamn ads on YouTube,0,0,Jake,T1B1CxmAXLk,0.0,2018-05-02 23:02:00,True,True
+2018-05-03T17:50:30,"Hahahahha so funnnee, so much lulz, I’m not saying that totally against my will for fear that I will seem as though I am sexist if I say this seems drier than the Sahara Desert and that Melissa McCarthy hasn’t been funny ever. I also want more movies of Amy Schumer where she makes a joke about her vagina and more movies of hilarious Sarah Silvermen where she talks about being Jewish and a woman just like in A Million Ways to Die in the West",0,0,Twon Baran,T1B1CxmAXLk,0.2785714285714286,2018-05-03 17:50:30,True,True
+2018-05-03T18:04:39,This was such a good movie!!! Love Melissa!,0,0,Caroline Hall,T1B1CxmAXLk,0.5416666666666666,2018-05-03 18:04:39,True,True
+2018-05-04T15:07:00,She use to be funny but shes just like the rock to many movies witht he same persona and no depth.,0,0,jeremy smith,T1B1CxmAXLk,0.25,2018-05-04 15:07:00,False,True
+2018-05-04T17:32:46,I love maya rudolph to much,0,0,Violeta,T1B1CxmAXLk,0.35,2018-05-04 17:32:46,False,True
+2018-05-04T23:01:21,"‘In a good way. Like, when you intentionally go into a haunted house.’",0,0,Wandering Days,T1B1CxmAXLk,0.7,2018-05-04 23:01:21,False,True
+2018-05-05T14:29:26,No shut up frank lmao,0,0,Hana M,T1B1CxmAXLk,0.6,2018-05-05 14:29:26,False,True
+2018-05-05T15:53:13,THEY ALREADY HAD ME AND THEN THEY ADDED MAYA RUDOLPH AND NOW I'M DEFINITELY SOLD,0,0,Vuyolwethu Mtyapa,T1B1CxmAXLk,0.0,2018-05-05 15:53:13,False,True
+2018-05-05T17:00:36,"Welcome back, Melissa...missed you!!!",0,0,Oana,T1B1CxmAXLk,0.4,2018-05-05 17:00:36,False,True
+2018-05-05T19:04:47,I'm watching Breaking in,0,0,Movies Now,T1B1CxmAXLk,0.0,2018-05-05 19:04:47,False,True
+2018-05-06T12:36:03,Vgoggle,0,0,Franca Perotti,T1B1CxmAXLk,0.0,2018-05-06 12:36:03,False,True
+2018-05-06T14:26:13,Music????,0,0,Bim Fan,T1B1CxmAXLk,0.0,2018-05-06 14:26:13,False,True
+2018-05-06T17:08:34,Should I go see it with my girlfriend,0,0,DECAY GROUNDS,T1B1CxmAXLk,0.0,2018-05-06 17:08:34,False,True
+2018-05-07T00:26:55,Hell no,0,0,Hello,T1B1CxmAXLk,0.0,2018-05-07 00:26:55,False,True
+2018-05-07T02:19:07,Another pathetic attempt to con middle aged women that their lives are not their fault. Then push the idea that they can still be sexy and have college guys want them while acting like old drunk sluts. Sad.,1,0,Bob Wangor,T1B1CxmAXLk,-0.1875,2018-05-07 02:19:07,False,True
+2018-05-07T12:47:52,Claire dunphy is cheating on Phil with someone else's husband sis😪,0,0,BLESSING DHLIWAYO,T1B1CxmAXLk,0.0,2018-05-07 12:47:52,False,True
+2018-05-07T17:17:10,Adults acting like infantile 14 year olds.. so embarrassing to watch. Couldn't even finish watching this trailer.,0,0,kyjo72682,T1B1CxmAXLk,-0.2,2018-05-07 17:17:10,False,True
+2018-05-07T17:48:27,so basically it's just the female version of back to school?,0,0,joshfactor1,T1B1CxmAXLk,0.0,2018-05-07 17:48:27,False,True
+2018-05-07T20:45:40,"McCarthy and her husband need to stop making movies together, they don’t know how to write a funny script with compelling characters. I do hope this will be a vast improvement over Tammy & The Boss but I don’t have high hopes.",0,0,Dougal Mackenzie Smith,T1B1CxmAXLk,0.17750000000000002,2018-05-07 20:45:40,False,True
+2018-05-08T03:37:02,She must be the new Rodney Dangerfield. And the quad joke...a little old school...the movie.,0,0,Tim Calaway,T1B1CxmAXLk,0.016287878787878785,2018-05-08 03:37:02,False,True
+2018-05-08T04:05:21,Just ..... no,0,0,J Gerardi,T1B1CxmAXLk,0.0,2018-05-08 04:05:21,False,True
+2018-05-08T05:44:08,This movie was soooo hilarious!!! Everyone should watch it lol the whole theatre was dying of laughter! Big thanks to PATRICK STARRR and Warner Bros for the movie screening!!!,1,0,xomdr,T1B1CxmAXLk,0.48343749999999996,2018-05-08 05:44:08,False,True
+2018-05-08T13:38:03,Forza Horizon 3,0,0,Marvin Rodriguez,T1B1CxmAXLk,0.0,2018-05-08 13:38:03,False,True
+2018-05-08T13:42:22,"I wonder if she'll do a Triple Lindy at the end. Oh geez, I just gave away the ending.",0,0,Carl Stawicki,T1B1CxmAXLk,0.0,2018-05-08 13:42:22,False,True
+2018-05-08T13:51:01,No shut up frank lol,0,0,Ceikaiyia Cheeks The Director,T1B1CxmAXLk,0.8,2018-05-08 13:51:01,False,True
+2018-05-08T17:12:18,...so it’s like Back To School?,0,0,Michelle,T1B1CxmAXLk,0.0,2018-05-08 17:12:18,False,True
+2018-05-10T01:52:29,"Oh, joy ... this hideous, talentless hog _again,_ and now with high-yellow hag Maya Rudolph. Lovely. Oh wait -- it's the _exact opposite_ of ""lovely.""",0,0,WOKEN'T,T1B1CxmAXLk,0.41,2018-05-10 01:52:29,False,True
+2018-05-10T05:23:51,fat,0,0,Ocelot04,T1B1CxmAXLk,0.0,2018-05-10 05:23:51,False,True
+2018-05-10T08:08:23,"This movie looks so dumb,will be a flop",0,0,Mike Ruiz,T1B1CxmAXLk,0.0,2018-05-10 08:08:23,False,True
+2018-05-10T10:34:54,"Yay, another film where a white women who “differs from the norm” has an existential life crisis where they’re forced to change up and gain more perspective on their first world problems. Just what the market needs to keep everyone on their toes. “She’s so relatable cause she’s larger!!” Let’s perpetuate the same stereotypes we’re trying to differ from. It be nice to see melissa do a role that she isn’t type casted in. I know that’s her thing cause she’s the female Kevin James or the older Amy Schumer but unlike them she has actual acting ability.",1,0,TheDMLO,T1B1CxmAXLk,0.1106060606060606,2018-05-10 10:34:54,False,True
+2018-05-10T15:13:41,"People really watch these movies? I'm sorry, but even looking at Melissa makes gag.",0,0,Marty McFly -,T1B1CxmAXLk,-0.15,2018-05-10 15:13:41,False,True
+2018-05-10T15:13:53,You'd think Melissa McCarthy would be gun shy of remakes.  First Ghostbusters flopped.  Now she's remaking Rodney Dangerfield's Back to School.,0,0,pjamese3,T1B1CxmAXLk,-0.08333333333333333,2018-05-10 15:13:53,False,True
+2018-05-11T01:32:49,is this a comedy? 🤔,0,0,Shelby,T1B1CxmAXLk,0.0,2018-05-11 01:32:49,False,True
+2018-05-11T02:42:39,Typical movie... boring.....,0,0,wabag dambulla,T1B1CxmAXLk,-0.5833333333333334,2018-05-11 02:42:39,False,True
+2018-05-11T09:54:54,Yasssssss!,0,0,Lady penny tache,T1B1CxmAXLk,0.0,2018-05-11 09:54:54,False,True
+2018-05-11T10:54:37,"She is definitely passed her sell by date and milking the cash cow. As for Beni Falcone, once was enought!",0,0,Nadeem Khan,T1B1CxmAXLk,-0.08333333333333333,2018-05-11 10:54:37,False,True
+2018-05-11T11:15:29,immorality has grown so much in our society that we think it s normal,0,0,1997giannis,T1B1CxmAXLk,0.175,2018-05-11 11:15:29,False,True
+2018-05-11T13:05:02,movie made for facebook users,0,0,Rover Waters,T1B1CxmAXLk,0.0,2018-05-11 13:05:02,False,True
+2018-05-11T14:49:05,More unrealistic garbage from the garbage people of Hollywood.   Give it five years and all the girls in this sex romp will be saying that the director raped them.,0,0,Harry Carrey,T1B1CxmAXLk,0.0,2018-05-11 14:49:05,False,True
+2018-05-11T19:36:43,"Looks like a pretty dumb movies that might get a few minor chuckles. And, from what I can tell, it has a horrible message of going from a life of responsibilities to total capriciousness (though I expect it will end with a lesson learned along the lines of finding balance between the two extremes).  See, if the sexes were reversed and at was a man who was recently divorced and returning to a life of partying, the character would be portrayed as being an oaf and a pig. But the same thing is probably supposed to be ""empowering"" or something because... woman.  I really hope that it ends in a way that shows that living a life defined by roles is unsatisfying, hedonism is ultimately destructive, but the good life is somewhere between.",0,0,Chris Zuber,T1B1CxmAXLk,-0.09772727272727272,2018-05-11 19:36:43,False,True
+2018-05-11T21:26:21,Every video that pops up has this crap trailer WOW ! How did they get people to watch this Mike and Molly  like shit 🎓💩💦🚽,0,0,NickJohnson videoss,T1B1CxmAXLk,-0.2916666666666667,2018-05-11 21:26:21,False,True
+2018-05-11T23:31:41,Save yourself the 10 bucks and rent Back to School with Rodney Dangerfield.  You will also have a better time.,0,0,Robert Z,T1B1CxmAXLk,0.25,2018-05-11 23:31:41,False,True
+2018-05-12T04:01:10,The best movie ever!! I love it!,0,0,Alexis Torres,T1B1CxmAXLk,0.8125,2018-05-12 04:01:10,False,True
+2018-05-12T18:14:23,I'll watch ANYTHING with melissa mccarthy,0,0,mcm Odk,T1B1CxmAXLk,0.0,2018-05-12 18:14:23,False,True
+2018-05-12T23:28:00,Offensive movie deserves more thumbs down. In what planet is it acceptable to speak to men like that? Everse roles and you might make the connection.,0,0,Cameron Owen,T1B1CxmAXLk,0.17222222222222222,2018-05-12 23:28:00,False,True
+2018-05-13T00:45:23,The mom has a baby at the end,0,0,Normal Enderman,T1B1CxmAXLk,0.0,2018-05-13 00:45:23,False,True
+2018-05-13T01:03:11,A perfect movie for Single Moms on Mother's day..  #VaGoogle,0,0,Jam Vince Concepcion,T1B1CxmAXLk,0.4642857142857143,2018-05-13 01:03:11,False,True
+2018-05-13T08:47:33,Looking so funny,0,0,Stuart Macrow,T1B1CxmAXLk,0.25,2018-05-13 08:47:33,False,True
+2018-05-13T14:08:10,every time i see this i think of all time low,0,0,ky,T1B1CxmAXLk,0.0,2018-05-13 14:08:10,False,True
+2018-05-13T18:12:10,"These ""millenial type movies"" are so watered down they aint even funny anymore..All movies before the year 2000 were the best and had more originality to them. Fuck this movie",0,0,Jun Jun Gatbos,T1B1CxmAXLk,0.23888888888888885,2018-05-13 18:12:10,False,True
+2018-05-13T22:14:53,Headed to see it NOW! with a smile on my face.,0,0,Steven SteveO,T1B1CxmAXLk,0.3,2018-05-13 22:14:53,False,True
+2018-05-13T23:14:53,"Of course, another movie involving   sex, the party life, college, and used up humor. Great job hollywood, real original.",0,0,M T,T1B1CxmAXLk,0.68125,2018-05-13 23:14:53,False,True
+2018-05-13T23:23:51,I just watched it,0,0,Aren Barthel,T1B1CxmAXLk,0.0,2018-05-13 23:23:51,False,True
+2018-05-14T01:48:20,0:32 is that supposed to be funny? such a bad movie,0,1,Game Star GS,T1B1CxmAXLk,-0.14999999999999994,2018-05-14 01:48:20,False,True
+2018-05-14T12:29:33,"I saw this last night, it was really funny!",0,0,Alana P 420,T1B1CxmAXLk,0.15625,2018-05-14 12:29:33,False,True
+2018-05-16T02:25:14,"LOVE MELISSA! However, movie was NOT funny at all!  The dance scene was the BEST! And Maya Rudolph and her husband enlightened at the end.  Save your bucks and wait until on DVD or go to RedBox.",0,0,Leatrice,T1B1CxmAXLk,0.4895833333333333,2018-05-16 02:25:14,False,True
+2018-05-16T15:03:56,I love Melissa McCarthy!,0,0,Annemarie Staudenmann,T1B1CxmAXLk,0.625,2018-05-16 15:03:56,False,True
+2018-05-17T17:14:48,"I had high expectations from this movie. I love Melissa. However it did not reach 5 out of 5 for me. I will give this movie stretched 3. Was it funny? Hmm probably funniest part was ""VAGOOGLE"" but thats it!  They could have done better.. The Heat for instance made me laugh through the whole movie.",0,0,Umid Mamirov,T1B1CxmAXLk,0.27464285714285713,2018-05-17 17:14:48,False,True
+2018-05-18T02:36:59,Just saw it and totally loved it!,0,0,L. George Jr.,T1B1CxmAXLk,0.875,2018-05-18 02:36:59,False,True
+2018-05-18T04:12:28,i seen her in the Spy movie and she was good hop shes good in this movie,0,0,ScottGamingandVlogs,T1B1CxmAXLk,0.7,2018-05-18 04:12:28,False,True
+2018-05-18T10:37:12,not missing out that movie for sure. im booking my ticket now..,0,0,shami lollman,T1B1CxmAXLk,0.3,2018-05-18 10:37:12,False,True
+2018-05-18T21:08:51,Melissa Macarthy is a troll,0,0,Mariana Style,T1B1CxmAXLk,0.0,2018-05-18 21:08:51,False,True
+2018-05-20T03:21:37,this was a funny movie idk why everyone is hating,0,0,life life,T1B1CxmAXLk,0.25,2018-05-20 03:21:37,False,True
+2018-05-20T09:02:05,"This was awesome! I loved it non stop laughs! The only thing that made no sense was the last scene in the movie., The mother played by Melissa McCarthy goes to back to schoool to finish the last year she never finished 23 years prior. The daughter is just starting college. So at the end they both graduate. The daughter should be a sofmore not a senior and the mother should be graduating but not in 2018, more like summer 2019.  So the math doesn't add up. It was still a really great movie though. The only explaonation is that they both did 4 years and graduated together. So yeah have no idea but it was a really cute movie.",0,0,HotGuys WorldWide,T1B1CxmAXLk,0.30624999999999997,2018-05-20 09:02:05,False,True
+2018-05-20T14:16:52,"Melissa, is an awesome actor.... all roles she’s played are 🙌🏻!   Have a woman like this in your group, everyone’s bound to near piss themselves at one point from laughter.  Her awkwardness +10, vulgarity +10, and confidence +10.... the formula to one funny hell of a woman!!",0,0,vxCOCOxv,T1B1CxmAXLk,0.496875,2018-05-20 14:16:52,False,True
+2018-05-21T06:56:58,Hilarious movie. Must see!!,0,0,Summer Frost,T1B1CxmAXLk,0.78125,2018-05-21 06:56:58,False,True
+2018-05-21T12:51:19,"Movie was awful, not funny at all and very corny jokes. Typical trailer that shows you all the funny scenes in the movie and then leaves you with no substance.  If you still find Adam Sandler funny then this movie is for you.  IF it wasn't for movie pass I would be more upset.  First time in awhile I've seen people walk out during a movie.  It's 2018 and movies aren't cheap either.  Do you know how bad a movie is when you're walking out of it in 2018!?  Think about it!",0,0,Blackmagic1o0,T1B1CxmAXLk,-0.044166666666666674,2018-05-21 12:51:19,False,True
+2018-05-22T02:26:56,Isn't she like 40 and they guy like 20 wth???,0,0,gustavo18,T1B1CxmAXLk,0.0,2018-05-22 02:26:56,False,True
+2018-05-23T00:01:46,"This was an awesome movie 🎥 🍿 It was light, fun, witty, clever and the awesome cast just owned it. Melissa Mccarthy reigns. I loved her!!",4,0,Leia,T1B1CxmAXLk,0.6238095238095239,2018-05-23 00:01:46,False,True
+2018-05-23T09:09:06,Nice video,0,0,Wonder,T1B1CxmAXLk,0.6,2018-05-23 09:09:06,False,True
+2018-05-23T16:36:35,Looks like the shittiest movie ever,0,0,Human who chose the path of the Warrior Monk,T1B1CxmAXLk,0.0,2018-05-23 16:36:35,False,True
+2018-05-23T21:27:37,This movie was so funny! Everyone needs to see it,0,0,Mady Lol,T1B1CxmAXLk,0.3125,2018-05-23 21:27:37,False,True
+2018-05-23T22:33:27,"Honestly just got back from the cinema and this film is class, if you are hungover it's a great feel good laugh film",0,0,kay bricknell,T1B1CxmAXLk,0.47999999999999987,2018-05-23 22:33:27,False,True
+2018-05-26T22:08:02,Does anyone know what the songs are that played during the end credits? I’m freaking out trying to find it,0,0,Riley Rose,T1B1CxmAXLk,0.0,2018-05-26 22:08:02,False,True
+2018-05-27T02:51:30,"spy and bridesmaids are treasures, this is trash,sorry",0,0,Julio Hernandez,T1B1CxmAXLk,0.0,2018-05-27 02:51:30,False,True
+2018-05-27T03:17:35,Just watched this today it was great 🤣💖😌,0,0,Lijana Martinez,T1B1CxmAXLk,0.8,2018-05-27 03:17:35,False,True
+2018-05-27T05:50:59,"This is one of the worst movies I've ever seen 🚨DO NOT WATCH IT, trust me📢",0,0,O5129O,T1B1CxmAXLk,-1.0,2018-05-27 05:50:59,False,True
+2018-05-28T00:42:12,RIP off of the parkers,0,0,Kolde Thompson,T1B1CxmAXLk,0.0,2018-05-28 00:42:12,False,True
+2018-05-28T23:18:57,"OMG, I saw this movie and I wanted to throw up through the entire time.",0,0,Count Nomis,T1B1CxmAXLk,0.0,2018-05-28 23:18:57,False,True
+2018-05-30T03:28:45,i love this movie so much drama  to,0,0,ryan burke,T1B1CxmAXLk,0.35,2018-05-30 03:28:45,False,True
+2018-06-01T22:22:39,This movie was garbage,0,0,abmnq,T1B1CxmAXLk,0.0,2018-06-01 22:22:39,False,True
+2018-06-01T23:11:56,Oh my god I can’t wait to see this,0,0,Ila Stoner,T1B1CxmAXLk,0.0,2018-06-01 23:11:56,False,True
+2018-06-03T01:00:24,What’s this movie rated,0,0,Ellie Rose,T1B1CxmAXLk,0.0,2018-06-03 01:00:24,False,True
+2018-06-04T18:48:50,Worst movie I’ve ever watched seriously thumbs down! Movie is like watching cancer and aids destroy the human body. I don’t even want to be alive any more after watching this dumpster fire,0,0,grinhousekiller,T1B1CxmAXLk,-0.16111111111111107,2018-06-04 18:48:50,False,True
+2018-06-08T17:45:12,I nee d my own personal Melissa,0,0,Wigg Snatched,T1B1CxmAXLk,0.3,2018-06-08 17:45:12,False,True
+2018-06-08T19:17:42,Ask me anything,0,0,Megan Katie,T1B1CxmAXLk,0.0,2018-06-08 19:17:42,False,True
+2018-06-10T09:46:11,seen the move 10\10,0,0,why hellooo,T1B1CxmAXLk,0.0,2018-06-10 09:46:11,False,True
+2018-06-13T16:33:06,"Annoying people, awkward dialogue, and unfunny comedy, looks shit but I'm 100 percent going to see it",0,0,Gerry Adams,T1B1CxmAXLk,-0.5333333333333333,2018-06-13 16:33:06,False,True
+2018-06-16T19:27:10,It's so fucking bad 😂,0,0,Connor McGregor,T1B1CxmAXLk,-0.6999999999999998,2018-06-16 19:27:10,False,True
+2018-06-17T06:25:25,This movie is fire 🔥,0,0,Typical_ tea,T1B1CxmAXLk,0.0,2018-06-17 06:25:25,False,True
+2018-06-18T18:29:13,Came here for Melissa,0,0,Sap Sap,T1B1CxmAXLk,0.0,2018-06-18 18:29:13,False,True
+2018-06-18T20:26:42,"This reminds me of ""Back to School"" with Rodney Dangerfield. Melissa McCarthy is a great comedic actor.",0,0,Golden Era 78',T1B1CxmAXLk,0.4,2018-06-18 20:26:42,False,True
+2018-06-18T21:10:19,"The same shit that goes all over again and again, nothing new, women in general are not fucking funny, Harveywood fucking sucks these days.",0,0,Karam D.,T1B1CxmAXLk,-0.0731060606060606,2018-06-18 21:10:19,False,True
+2018-06-18T21:58:08,"I feel like this is the plot that is in movies where they have sarcastic trailers for fake movies, in the real movie :S",0,0,CliffJumpingProd,T1B1CxmAXLk,-0.1125,2018-06-18 21:58:08,False,True
+2018-06-18T22:12:29,"A vagina joke..   Didn't see that coming  Oh wait, happens in every female comedy movie lol",0,0,Candi Soda,T1B1CxmAXLk,0.4,2018-06-18 22:12:29,False,True
+2018-06-19T00:29:24,Google 🤣,1,0,Sam Alharbi,T1B1CxmAXLk,0.0,2018-06-19 00:29:24,False,True
+2018-06-19T01:13:18,"what a lovely show , a great movie , cant waite to see it  .oh boy , sweet finely a movie i can relate too . thie show just makes my day , impressive piece of work , ill buy it as soon as its released me and the gurls will watch it endlessly , how do they do it .     KMN",0,0,hook blieght,T1B1CxmAXLk,0.3488095238095238,2018-06-19 01:13:18,False,True
+2018-06-19T02:12:21,Melissa was missing for three days in February.  Now I know where she was.  Writing and filming this movie.,0,0,Kube Dog,T1B1CxmAXLk,-0.2,2018-06-19 02:12:21,False,True
+2018-06-19T20:24:46,"I just took a shit in the toilet, i thought it was looked pretty big until i watched this trailer.",0,0,Timmo,T1B1CxmAXLk,0.004166666666666666,2018-06-19 20:24:46,False,True
+2018-06-20T02:26:47,"I went to see the movie yesterday, cause i went back to the university after dropping out of it for 2 years, and i thought the movie would be funny, but related to that topic that i really relate to and identify with, but it was actually pretty bad; it had a terrible, simple, and crazy script, very far away from reality, was not even funny, i regreted the money and time I spent on watching it, the only good thing about the movie was Xtina, Melissa Mccartney is not a good writer, she is a good comedic actor, but a limited writer, sorry but i have to say the truth, Kristen Wiig is a very good writer, she wrote Braidsmaids, but Melissa...a good comedic actor",0,0,julio chino,T1B1CxmAXLk,0.03842857142857143,2018-06-20 02:26:47,False,True
+2018-06-20T03:18:07,"Ugh, Britta is in this?",0,0,AcornOnCrack,T1B1CxmAXLk,0.0,2018-06-20 03:18:07,False,True
+2018-06-20T19:23:11,i guarantee u i would hang myself with a tissue before letting my parent go with me to the same school.,0,0,i am lyric,T1B1CxmAXLk,0.0,2018-06-20 19:23:11,False,True
+2018-06-22T03:39:20,TRASH 👎,0,0,Carmen CaBoom,T1B1CxmAXLk,0.0,2018-06-22 03:39:20,False,True
+2018-06-23T05:57:39,"Wow! what a story line! dad obviously left his fat has been wife for a younger slimmer woman, now she's well off enough to not work and go to college to get a degree and embarrass her hot daughter who happens to look nothing like her mother. I mean this movie should get awards thrown at it! if it doesn't then what has the world come to! (pure sarcasm)",0,0,Toms onfire,T1B1CxmAXLk,0.018893494897959183,2018-06-23 05:57:39,False,True
+2018-06-23T14:18:47,In the theatre everyone was laughing while watching this movie.,0,0,Dark Dan,T1B1CxmAXLk,0.0,2018-06-23 14:18:47,False,True
+2018-06-23T18:56:53,been crushing on her since identity theft,0,0,travbh,T1B1CxmAXLk,0.4,2018-06-23 18:56:53,False,True
+2018-06-23T20:21:30,i just finished watching this movie AND I LOVE IT BY FAR 1 OF MY FAVORITES go watch it super funny,1,0,akeino xiong,T1B1CxmAXLk,0.29583333333333334,2018-06-23 20:21:30,False,True
+2018-06-24T00:24:52,if Melissa had 1 more year til graduation how come the daughter ALSO graduated ?  i mean idk scrach about colege and stuf but all done in 1 year ? sign me UP !!!,0,0,Stefan Smilkovski,T1B1CxmAXLk,-0.05517578125,2018-06-24 00:24:52,False,True
+2018-06-24T15:42:46,Seriously? Life of the party?,0,0,Hazwani Hasan,T1B1CxmAXLk,-0.3333333333333333,2018-06-24 15:42:46,False,True
+2018-06-25T01:01:18,This move was soooooooo bad. Dont waste your money. Watch it free or not at all. Soooo bad,0,0,Polish Hammer,T1B1CxmAXLk,-0.29999999999999993,2018-06-25 01:01:18,False,True
+2018-06-25T19:36:22,"She's the best,no offence... Inspired!",0,0,Esther L Chawngthu,T1B1CxmAXLk,0.0,2018-06-25 19:36:22,False,True
+2018-06-26T22:00:53,Hahahahaha,0,0,euclid tan,T1B1CxmAXLk,0.2,2018-06-26 22:00:53,False,True
+2018-06-26T23:34:25,THIS IS D LIFE OF D PARTYYYYYYY YEA D LIFE OF D PARTY OH YEAH.,0,0,Rich Boss,T1B1CxmAXLk,0.0,2018-06-26 23:34:25,False,True
+2018-06-27T09:05:15,😂😂😂😂😂😂😂😂😂😂😂😂,0,0,Mounia Moujahid,T1B1CxmAXLk,0.0,2018-06-27 09:05:15,False,True
+2018-06-27T12:24:06,Bu Film ve daha fazlasını full hd kalitesi ile www.bitiklaizle.com izleyebilirsiniz,0,0,Alican Arığ,T1B1CxmAXLk,0.35,2018-06-27 12:24:06,False,True
+2018-06-29T15:32:40,Is the Xtina Aguilera shown in the movie is really her?,0,0,Bryce Jeniel Allera,T1B1CxmAXLk,0.2,2018-06-29 15:32:40,False,True
+2018-07-02T04:12:50,About to watch this now :),0,0,Amer Sultan,T1B1CxmAXLk,0.5,2018-07-02 04:12:50,False,True
+2018-07-05T02:37:09,She looks great!!! She has to have lost about 100 lbs!!,0,0,Ima Go Apesht,T1B1CxmAXLk,1.0,2018-07-05 02:37:09,False,True
+2018-07-05T11:04:10,The frat boy Deanna banged is hot.,0,0,F dL,T1B1CxmAXLk,0.25,2018-07-05 11:04:10,False,True
+2018-07-06T11:33:01,"this movie is so FUCKING IDIOTIC , everything is so stupid, pore acting from all of them, unrealstic and so ugly actors",0,1,1cafedon1,T1B1CxmAXLk,-0.5416666666666666,2018-07-06 11:33:01,False,True
+2018-07-06T18:18:23,Hurray. Another Hollyweird movie promoting behaving like a child when your a middle aged woman.  That'll show the patriarchy.....................................,0,0,mephistopheles,T1B1CxmAXLk,-0.05,2018-07-06 18:18:23,False,True
+2018-07-08T11:03:17,You don't get it even though you are being so mean Melissa will get paid millions and you will continue living your miserable lives 👌👌,0,1,ANTIOPE KOUKOULIS,T1B1CxmAXLk,-0.65625,2018-07-08 11:03:17,False,True
+2018-07-09T21:38:02,Normally I love Melissa’s movies but this one isn’t good as expected ! Unfortunately.,0,0,Ghada Azim,T1B1CxmAXLk,0.14375,2018-07-09 21:38:02,False,True
+2018-07-10T02:22:48,It was a great movie,0,0,anawonka,T1B1CxmAXLk,0.8,2018-07-10 02:22:48,False,True
+2018-07-11T01:24:18,وين الاقي ويقول كوميدي واذا في فيلم زي كذا اعطوني اسمه,0,0,Rawan 123,T1B1CxmAXLk,0.0,2018-07-11 01:24:18,False,True
+2018-07-11T15:51:55,i love Meliisaa she's adorable and funny.,0,0,Maryam Zahra Arts,T1B1CxmAXLk,0.4166666666666667,2018-07-11 15:51:55,False,True
+2018-07-19T22:40:38,i love this movie so much drama  yes,0,0,Kevin Burke,T1B1CxmAXLk,0.35,2018-07-19 22:40:38,False,True
+2018-07-21T07:57:52,"Free Download ""Life of the Party"" (2018) BluRay 1080p English - https://plus.google.com/u/0/communities/118144300548481431123?pageId=none",1,0,Vyacheslav Bulatkin,T1B1CxmAXLk,0.2,2018-07-21 07:57:52,False,True
+2018-07-21T22:05:18,Why this not on Netflix ?,0,0,gillian owens,T1B1CxmAXLk,0.0,2018-07-21 22:05:18,False,True
+2018-07-22T08:03:45,Note to women: taking about your vagina is the most disgusting & off-putting thing you can pretty much do.,0,2,Dan Man,T1B1CxmAXLk,-0.012499999999999997,2018-07-22 08:03:45,False,True
+2018-07-26T05:54:35,What does vagoogle mean ??  English isn't my first language ...,0,1,ALI,T1B1CxmAXLk,-0.020833333333333332,2018-07-26 05:54:35,False,True
+2018-07-27T23:57:08,"Straight to the torrents for this one, I fear.",0,0,Arthur Watts,T1B1CxmAXLk,0.2,2018-07-27 23:57:08,False,True
+2018-08-03T04:37:11,This movie was great. A movie to really uplift women. Great movie,1,0,Mari Sahall,T1B1CxmAXLk,0.6,2018-08-03 04:37:11,False,True
+2018-08-04T00:18:52,I love this and I want to watch this.,0,0,Emily Dube,T1B1CxmAXLk,0.5,2018-08-04 00:18:52,False,True
+2018-08-04T20:23:57,"Not sure why lots of people hate her. I know she plays the same character over and over, but that character is fun and I like it.",1,0,Afterlife is The Future,T1B1CxmAXLk,-0.1875,2018-08-04 20:23:57,False,True
+2018-08-06T15:45:35,Who comes here after helicopter hela trailer,2,0,Sharath R,T1B1CxmAXLk,0.0,2018-08-06 15:45:35,False,True
+2018-08-09T18:14:19,I'm definitely renting this today. I really like her. Melissa McCarthy is really funny and I need to laugh.,0,0,Shivangi Patel,T1B1CxmAXLk,0.1875,2018-08-09 18:14:19,False,False
+2018-08-09T19:40:54,How was the movie,0,0,Kyle Dabney,T1B1CxmAXLk,0.0,2018-08-09 19:40:54,False,False
+2018-08-13T00:41:18,Was hoping to see more of her and her husband on screen together,0,0,Mike B,T1B1CxmAXLk,0.5,2018-08-13 00:41:18,False,False
+2018-08-14T01:46:45,*Vagoogle* (͡° ͜ʖ ͡°),0,0,B J,T1B1CxmAXLk,0.0,2018-08-14 01:46:45,False,False
+2018-08-14T19:55:43,"An Examination and Critical Analysis of Melissa McCarthy using Qualitative Number. Document also for any interested, but mostly just for my Soul of Love. Only one specific Number comment included.  Melissa Ann McCarthy  696 112 191 819 Melissa McCarthy  696 191 797 August 26, 1970  888=6                 7                5        7             7 8            8            8            6  9  9   9   9  Conclusion: Melissa McCarthy is an immoral influence, particularly on children and teenagers. Genius brings serious flaws. Jim Carrey's new philosopher-fraud phase demonstrates this.  Prepared by Daorley Downy, August 15, 2018 dob May 1, 1951 . Philippines 2008- : 3rd wife, Cuti . daughter Lauryne (Canada, 2nd wife) . former porn freak 1967-2017 . office worker 1970-2005 . blues singer/guitarist 1968-2009 . security guard 1978-81 . vegetarian, no substances . bodybuilder 2009- . Qualitative Number philosopher 1970- (source Kabalarians) . authority on angels, morality, Spiritual Law and Justice (Law of Karma) . ""wise"" fool . recluse 2017- .  Intro and Summary: Melissa, your comic talent is unquestionable, but I'm here to criticize you as you are an immoral influence, especially on kids. I am only recently qualified to tell you this, having quit my porn habit of 50 years in 2017 (I saw a black abyss waiting for me and I just could not go there. You just may face a similar abyss one day.)  I am not a hypocrite; I'm your most qualified critic. You have inner beauty, but you have a sex problem, which means basic mental illness when it becomes an obsession. Despite all the beauty of sex and sexuality, there are just ""places in Life"" that are not worth going to, and habits that will only harm us in the long term, tho they might seem OK up to a certain point in time. I'm not just talking to you here, Melissa, but to others as well coz you are probably ""too far gone"", as most of us tend to get unless we are ""awakened"" by a crisis. If you were my little sister, I would have nothing to do with you. You would be dismissed as worthless and hopeless, and I wouldn't speak a single word to you, ever. It wouldn't matter now ""nice"" you were.  This is a study of a woman of immoral influence who includes ""bad"" and tasteless sexual examples in her movies. The problem in this goes beyond Melissa, and in some way affects the lives of all us angels. Very few understand how dangerous our sexuality and its power is. Giving the greatest physical pleasure, sex is also a dangerous trap for the mind in that the mind often too easily ""gives in to sex's power"", and when this happens, the mind, that should be ""the boss"" of us, becomes a slave of sex, and so do we. It's like now our boss is cleaning the washroom instead of helping us to do our jobs. In this metaphor that might be OK, but when symbolic Love is missing from the picture (such as when nobody cares the boss is doing that), it's a weird, nasty situation. Sex is natural, but it becomes the horrific MAJOR SIN OF LUST if there is no REAL LOVE along with it (i.e. Spiritual Love -- if for a spouse, for example, being COMMITTED FOR LIFE to loving and caring for just that one special partner (at least both believing it's real love and committing, even tho we may eventually realize it wasn't real Love); and NEVER possessing them or just basically using them like a piece of meat for our own selfish pleasure. (The cleric at the best wedding for such would say ""I now pronounce you man and plastic vagina."") A true lover doesn't care if sex and orgasm even happen within a long period; with real lovers things like just horsing around, giggling about anything, and being just as innocent as children are ESSENTIAL AND FAR MORE IMPORTANT than endless hours of moaning, sighing and grunting. When we focus on sex, and foolishly think we cannot survive without ""getting laid"", there's little hope for us. If we really love our partner, sex will just happen when it happens; there's no point in thinking much about it at all, for that is where the danger of sex lies -- in thinking about it at all, really. Our problem is we're not animals who do everything naturally, and we don't know to live as human beings should yet. We've been ignorant of what we are from the start, and the evil price for our ignorance is getting steeper all the time.  We are spiritual and sexual beings, but the spiritual must always predominate or there is trouble. ""Passions make good servants but bad masters"". Thus Christ said, ""Get thee behind me, Satan"". ""Satan"" here is just our natural desires for sex, food, etc. If we indulge in those too much, they are ""in front of us"" and effectively in control of us, leading us around. Listen to a tape of death angel Harvey Weinstein ""desperately"" pleading and pressuring for a show of tit like he was certain he'd die without it. This was a monster completely enslaved, out of control, and dangerous. The power of sex is such similarly destructive obsessions can control almost anyone in time. And teenagers just at and after puberty are the angels most vulnerable to sex's power, and the most ignorant beings, not realizing that sex should ALWAYS be accompanied by Love, and that if it isn't, they might as well dig a hole and jump in, coz they are playing a VERY DANGEROUS GAME. For a teenager to be eternally self-damned (meaning no hope of Love or real happiness for life), BELIEVE IT OR NOT, all that is needed is about three sex sessions with someone they just want but do not really love, the latter usually verified by hardly knowing the sex partner.   So dear Melissa, the above paragraph clarifies (to me at least) why it is my duty to be a defender of morality and warn the perceptive about your immoral influence through just short scenes in your movies. I'll only mention one scene, the worst of all so far: your ""sex in the library"" scene with a blowjob (of course not explicit) of a college boy in ""Life of The Party"". Your nice eyes pathetically looking up afterwards? DISGUSTING, Melissa! Not your eyes, but the sin of sex without love. Lots of viewers thinking, like your character, ""Aw, that's sweet"" and perhaps feeling that that kind of loveless, soulless thing is actually OK in real Life. What a horrific CROCK opening the doorway to hell! I recommend that parents of children or teenagers BAN that movie from their homes. To the warning I might add: ""This movie may make even grandmothers throw up"". (I'm a comedian too). One doesn't have to have explicit sex for an immoral influence to exist; all that is required is the idea of what's going on. There are some other questionable scenes in your other movies; it's a shame that those are effectively ruined. We can't help what we are too quickly, but if we have a problem with perversity and tastelessness, we have no right to expose viewers of ANY age to it.   Melissa, this is about your Numbers: Briefly, what I see in their imbalance is mental problems and lovelessness. The four ""9"" qualities at the bottom of your chart are a ""bad sign"". They show that your love and compassion are severely challenged. If I see even two ""9"" qualities at the bottom I feel like an old gypsy turning up a death card....Sorry.... It's not easy being me, but I can't hold Truth back too much. There is no happiness without Number.... Love and Truth, Daorley Downy.",0,0,Cuti Downy,T1B1CxmAXLk,0.03910706555349412,2018-08-14 19:55:43,False,False
+2018-08-15T08:53:35,"Ok, I know I’m the only one here who’s gonna say this but I searched up ‘life of the party’ (the Shawn Mendes song) and FREAKOUT OUT when I saw the title of this movie. I was like ‘OMG DID THEY MAKE SHAWN’S FIRST SONG A MOVIE, YAY!’ I know, stupid right XD 😂",1,0,Syysha S,T1B1CxmAXLk,0.05964285714285715,2018-08-15 08:53:35,False,False
+2018-08-16T12:51:10,Damn. Luke Benward everyone! <3,3,0,Tihana Belčić,T1B1CxmAXLk,1.0,2018-08-16 12:51:10,False,False
+2018-08-16T23:51:48,Bridesmaids 2 please,1,0,D F.,T1B1CxmAXLk,0.0,2018-08-16 23:51:48,False,False
+2018-08-17T17:01:47,cant wait for the release,1,0,Ammara jamal vlogs,T1B1CxmAXLk,0.0,2018-08-17 17:01:47,False,False
+2018-08-18T01:37:01,HEY JESSIE!!!,0,0,Homeslice Brice,T1B1CxmAXLk,0.0,2018-08-18 01:37:01,False,False
+2018-08-18T12:57:34,Ya lots of young men are just jumping at the idea of fucking an old ugly fat hog with bad taste in a college full of young hot pussy....,0,0,Hyperslow,T1B1CxmAXLk,-0.0714285714285714,2018-08-18 12:57:34,False,False
+2018-08-18T14:00:42,This is one of the worst movies I have ever seen.  Its was so fucking cringy that I think that I can never see Jian-Yang the same way.  Terrible acting.... Terrible lines.... Every bit of the 45 minutes I forced myself to watch was pure agony.  Who ever came up with the idea for this movie should fall on a fucking knife for the good of humanity.  I would rather have my dick hit with a ball-peen hammer that watch the rest of this shit show.  Oh god... I tried to watch more... it got even worse.  She is so fucking fat and nasty.....,0,0,Hyperslow,T1B1CxmAXLk,-0.35238095238095235,2018-08-18 14:00:42,False,False
+2018-08-19T11:37:22,"DREADFUL, EXHAUSTING, TIRESOME, BLAND AND LIFELESS.",0,0,M Family,T1B1CxmAXLk,-0.5166666666666666,2018-08-19 11:37:22,False,False
+2018-08-20T10:50:33,"Hollywood is so useless these days, they have no ideas and are only able to *remake* movies with women and blacks in the main rolls. News flash, I've already seen *""Back To School""* with Rodney Dangerfield, so why would I *pay* to watch this?",0,0,ȘȚɄƑƑɎǾɄ1oo,T1B1CxmAXLk,0.03333333333333333,2018-08-20 10:50:33,False,False
+2018-08-28T19:50:08,"Oh, Britta's on this?",0,0,Edu Melero Verdú,T1B1CxmAXLk,0.0,2018-08-28 19:50:08,False,False
+2018-08-30T15:16:17,"Watching this now and it is stright trash. Not one funny part yet I have seen, stright garage.",1,0,therockstar barber,T1B1CxmAXLk,0.25,2018-08-30 15:16:17,False,False
+2018-09-08T12:03:57,"I loved this movie. Just because she’s a mom that goes back to school doesn’t mean it’s like the goofy movie. Goofy’s wife is dead and his son is going to college and he doesn’t want to be alone so he goes to college to be with his son. Her husband literally left her for another woman,  she had dropped out of school because she got pregnant and the dude thought it was more important for him to finish college than her. She had the courage to go back to college at her age and especially the same college her daughter is going to, she didn’t sit around to cry over the husband that left her she picked her ass up and went to finish her education. I’d love to have a personality like that when I’m older. Y’all comparing it to the goofy movie are dumb",0,0,Desvelada,T1B1CxmAXLk,0.1784722222222222,2018-09-08 12:03:57,False,False
+2018-09-08T17:30:10,"The fem Ghostbusters failed, now the Fem ""Back to School"" failed. Maybe WB we start to see a pattern. Give women they own comedy's instead of lame rehashes.",0,0,DesertFernweh,T1B1CxmAXLk,-0.18,2018-09-08 17:30:10,False,False
+2018-09-10T00:24:13,"This is a rip off of Ronnie Dangerfield movie ""Back to school""",0,0,Al Pa,T1B1CxmAXLk,0.0,2018-09-10 00:24:13,False,False
+2018-09-23T04:02:41,I wish she would try a different genre.,0,0,Sah. B.,T1B1CxmAXLk,0.0,2018-09-23 04:02:41,False,False
+2018-10-06T05:05:15,Oh My God. I'M SURE THIS IS GONNA BE ANOTHER BOMB EXPLOSION! GOD. I'M ALREADY SMILING THE MOMENT I SAW THIS.,0,0,KENSTASHI,T1B1CxmAXLk,0.625,2018-10-06 05:05:15,False,False
+2018-10-07T05:02:29,You know the movie is awesome when Melissa McCarthy is in it,5,0,Oprah Winfrey123,T1B1CxmAXLk,1.0,2018-10-07 05:02:29,False,False
+2018-10-11T03:38:27,"gorda pelotuda de mierda, no puede hacer reir a nadie, bolsa de grasa.",1,0,centauro mustang,T1B1CxmAXLk,0.0,2018-10-11 03:38:27,False,False
+2018-10-22T21:59:11,"Only saw this movie now, must be one of her worst movies, very disappointing",0,0,gerhard Van Straten,T1B1CxmAXLk,-0.5933333333333334,2018-10-22 21:59:11,False,False
+2018-10-24T15:59:09,It so good film and funny,0,0,Novak cro gamer,T1B1CxmAXLk,0.475,2018-10-24 15:59:09,False,False
+2018-11-02T14:51:23,I watched this movie and it’s amazing,0,0,Gacha - Memes 가차 - 밈,T1B1CxmAXLk,0.6000000000000001,2018-11-02 14:51:23,False,False
+2018-11-16T19:34:16,Vgoogle that’s funny shut,1,0,liana 20,T1B1CxmAXLk,0.25,2018-11-16 19:34:16,False,False
+2018-12-31T03:13:32,It was terrible!!,0,0,MrRedskins0021,T1B1CxmAXLk,-1.0,2018-12-31 03:13:32,False,False
+2019-01-04T12:52:58,"Between Ghostbusters and Life of the Party, I read a fake news story in the Star Tabloid that Melissa McCarthy had purposely gained back all the weight she had lost during the run of Mike & Molly and was ""happy to be fat"". In reality, she lost an additional 20 pounds after Mike & Molly ended and kept all the weight off since.",0,0,AnimationDiana,T1B1CxmAXLk,0.10000000000000002,2019-01-04 12:52:58,False,False
+2019-01-12T15:26:10,Garbage,0,0,LOIZOS V,T1B1CxmAXLk,0.0,2019-01-12 15:26:10,False,False
+2019-01-27T03:48:11,The music they put in the part where they broke in and destroyed the wedding cake room was perfect for a bunch of wilding retards,0,0,Tim Soucie,T1B1CxmAXLk,0.04999999999999999,2019-01-27 03:48:11,False,False
+2019-01-27T19:30:22,"With every movie made these days, it’s a total hit or miss. Actually, it’s usually just a miss. They really need to stop making these college comedies. They were funny in the 90’s and early 2000’s but, now they’re just boring.",0,0,holace benton,T1B1CxmAXLk,-0.11666666666666665,2019-01-27 19:30:22,False,False
+2019-02-08T20:26:03,Wow I never smiled once this looks lame,0,0,Akame the NInja Princess,T1B1CxmAXLk,-0.2333333333333333,2019-02-08 20:26:03,False,False
+2019-02-09T05:44:16,"I saw this movie, It was very interesting. Please tell us the songs used for this video. Somebody please...!",1,0,闇夜,T1B1CxmAXLk,0.8125,2019-02-09 05:44:16,False,False
+2019-02-16T05:25:57,Hollywood...please for the love of god give up on this female version of Adam Sandler. As funny as a brick hitting you at 100mph. At least with a brick if you live you have a good story.,0,0,Mark Quinn,T1B1CxmAXLk,0.2143939393939394,2019-02-16 05:25:57,False,False
+2019-03-09T20:03:27,"a horrible version of back to school, not even   funny",0,0,ceczis,T1B1CxmAXLk,-0.25,2019-03-09 20:03:27,False,False
+2019-03-14T15:50:32,Por favor alguien sabe el titulo d ela cancion con la que empieza la pelicula por fa,0,0,Mariana Quispe,T1B1CxmAXLk,0.0,2019-03-14 15:50:32,False,False
+2019-05-14T13:39:14,It feels so dated. Like it's something from 2011.,0,0,The Protagonist,T1B1CxmAXLk,0.0,2019-05-14 13:39:14,False,False
+2019-05-22T07:35:15,rip off of BACK TO SCHOOL    this is yet another unfunny flop from fatso McCarthy,1,0,Tommy Sands,T1B1CxmAXLk,0.0,2019-05-22 07:35:15,False,False
+2019-06-03T15:14:35,Maya Rudolph makes everything better she is hilarious,0,0,ANDJELINA,T1B1CxmAXLk,0.5,2019-06-03 15:14:35,False,False
+2019-06-22T07:12:17,"The only part I could relate to was the presentation scene.  I was expecting more from Melissa. :C I love her movies but I didn't laugh that much, love the puns, by the way.",0,0,Victor José Luis Valencia Ambriz,T1B1CxmAXLk,0.36,2019-06-22 07:12:17,False,False
+2019-07-23T14:08:15,Extremly cringe.,0,0,_unknown _,T1B1CxmAXLk,0.0,2019-07-23 14:08:15,False,False
+2019-09-10T17:54:28,This movie is EPICCCCCCC!!!!!!!!!!!!!!!!!!!!!!!,0,0,Shenella Marks,T1B1CxmAXLk,0.0,2019-09-10 17:54:28,False,False
+2019-10-31T16:05:09,Sooo funny😂😂😂👌🏽👌🏽👌🏽👌🏽,0,0,Dessiney Scott,T1B1CxmAXLk,0.0,2019-10-31 16:05:09,False,False
+2019-12-03T23:13:20,I have the movie,0,0,strange person,T1B1CxmAXLk,0.0,2019-12-03 23:13:20,False,False
+2019-12-03T23:14:06,I will upload it on my channel Subscribe me please  I,0,0,strange person,T1B1CxmAXLk,0.0,2019-12-03 23:14:06,False,False
+2019-12-26T21:25:28,"this movie is no thriller like Attila.... (if you watched you'll know what I mean). No real hurdle for her to overcome, no real reflection or anything....just her goofing off and talking talking talking... oh God stop her talking please...",0,0,Björn Wegener,T1B1CxmAXLk,-0.1708333333333333,2019-12-26 21:25:28,False,False
+2020-01-20T02:38:32,Would you say this for kids,0,0,natalie banuelos,T1B1CxmAXLk,0.0,2020-01-20 02:38:32,False,False
+2020-03-15T15:09:52,I LOVE THIS MOVIE,0,0,Aya Bennamari,T1B1CxmAXLk,0.5,2020-03-15 15:09:52,False,False
+2020-03-23T13:39:57,Stupid movie,0,0,Frank Larce,T1B1CxmAXLk,-0.7999999999999999,2020-03-23 13:39:57,False,False
+2020-03-23T23:38:41,Unfortunately a waste of time.. :(,0,0,Kristina F.,T1B1CxmAXLk,-0.475,2020-03-23 23:38:41,False,False
+2020-03-27T01:31:47,""" In her slacks?"" 🤣🤣🤣",0,0,Joey Richard,T1B1CxmAXLk,0.0,2020-03-27 01:31:47,False,False
+2020-03-28T06:52:48,I'm watching this right now on Netflix. Melissa looks *amazing!!* 😍,3,0,Joey _,T1B1CxmAXLk,0.6116071428571429,2020-03-28 06:52:48,False,False
+2020-05-14T13:58:59,Melissa McCarthy stars in these bad movies because her husband Ben Falcone is the director...,0,0,Stella Lynn Serne,T1B1CxmAXLk,-0.6999999999999998,2020-05-14 13:58:59,False,False
+2020-06-03T11:39:12,I’m in this for britta,0,0,ROS YANTI RUSLAN,T1B1CxmAXLk,0.0,2020-06-03 11:39:12,False,False
+2020-06-12T19:05:53,"Not the most original movie, but one of the funniest I’ve ever seen",1,0,KB Media,T1B1CxmAXLk,0.4375,2020-06-12 19:05:53,False,False
+2020-06-13T00:45:29,lmao,0,0,Anaya Chisholm,T1B1CxmAXLk,0.6,2020-06-13 00:45:29,False,False
+2020-06-13T23:34:35,I wish I can do what she did with her life in my real life 😁,0,0,Mhaw Reginio,T1B1CxmAXLk,0.2,2020-06-13 23:34:35,False,False

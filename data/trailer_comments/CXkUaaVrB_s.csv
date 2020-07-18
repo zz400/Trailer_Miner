@@ -1,0 +1,964 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2018-05-10T18:54:41,I love Mila Kunis!!! 😗,11,0,Brow Ming,CXkUaaVrB_s,0.9765625,2018-05-10 18:54:41,True,True
+2018-05-10T18:54:51,I need to see this i so hype,744,10,roth 7000,CXkUaaVrB_s,0.0,2018-05-10 18:54:51,True,True
+2018-05-10T18:55:58,I love Mila Kunis,6,0,123k views,CXkUaaVrB_s,0.5,2018-05-10 18:55:58,True,True
+2018-05-10T18:56:41,"Please, Movie, be rated PG-13!",0,3,Kevin Richards,CXkUaaVrB_s,0.0,2018-05-10 18:56:41,True,True
+2018-05-10T19:12:56,Kate did a scene with Gillian thank you lord thank you!,724,9,Sesili Jesi Li,CXkUaaVrB_s,0.0,2018-05-10 19:12:56,True,True
+2018-05-10T19:13:15,Yessssss Kate McKinnon And Mila Kunis in one movie 😍😍🙌🙌🙌,92,0,Cool Clips HD,CXkUaaVrB_s,0.0,2018-05-10 19:13:15,True,True
+2018-05-10T19:14:02,this movie looks great! will be seeing in the theater #intent,0,0,David Edwards,CXkUaaVrB_s,1.0,2018-05-10 19:14:02,True,True
+2018-05-10T19:21:22,Not bad and Not GOOD also,8,0,Deepak Raja,CXkUaaVrB_s,-2.7755575615628914e-17,2018-05-10 19:21:22,True,True
+2018-05-10T19:23:10,This looks like an awesome movie,24,0,Fionelfia,CXkUaaVrB_s,1.0,2018-05-10 19:23:10,True,True
+2018-05-10T19:23:44,I LOVE KATE! Follow my KATE ACCOUNT on Instagram: @ love.katemckinnon,0,0,K S,CXkUaaVrB_s,0.625,2018-05-10 19:23:44,True,True
+2018-05-10T19:30:24,Honestly I was pretty sold on this because I have a crush on Kate but then GILLIAN ANDERSON!!!!! I’m so in love  with her,648,10,Cori A,CXkUaaVrB_s,0.6209798177083333,2018-05-10 19:30:24,True,True
+2018-05-10T19:30:37,Ivanna Sakhno is a breath of fresh air I want more,3,1,Mary Kurtz,CXkUaaVrB_s,0.4,2018-05-10 19:30:37,True,True
+2018-05-10T19:32:51,Love SAM HEUGHAN (looking very James BONDish ;-),158,4,Susie Mook,CXkUaaVrB_s,0.31666666666666665,2018-05-10 19:32:51,True,True
+2018-05-10T19:34:03,I love Kev Adams 2018,0,1,Mary Kurtz,CXkUaaVrB_s,0.5,2018-05-10 19:34:03,True,True
+2018-05-10T19:41:44,"Oh my god, this movie can't get here soon enough!",9,0,Erica Gamet,CXkUaaVrB_s,0.0,2018-05-10 19:41:44,True,True
+2018-05-10T20:11:42,"This looks like there will some funny moments, but really won't add up to a great film. Reason? Give McKinnon her OWN MOVIE!",0,1,Tristan Simondsen,CXkUaaVrB_s,0.5,2018-05-10 20:11:42,True,True
+2018-05-10T20:38:17,IS IT ME OR GILLIAN ANDERSON'S LOOK IS SIMILAR TO KATE WINSLET'S LOOK IN DIVERGENT IM SCREAMIGNG GTHIS MEANDS SO MUCH TO ME IT S TWO OF MY FAVORITE ACTORS,362,11,W. Floresta,CXkUaaVrB_s,0.2333333333333333,2018-05-10 20:38:17,True,True
+2018-05-10T20:42:40,gillian anderson is a beyonce: confirmed  we love facts being stated in films,523,2,W. Floresta,CXkUaaVrB_s,0.45,2018-05-10 20:42:40,True,True
+2018-05-10T21:09:18,This looks like Hype.,0,0,Devin Henderson,CXkUaaVrB_s,0.0,2018-05-10 21:09:18,True,True
+2018-05-10T21:18:11,Gillian Anderson and Sam Heughan in the same fucking movie bitch I'm dead,0,0,Fernanda,CXkUaaVrB_s,-0.26666666666666666,2018-05-10 21:18:11,True,True
+2018-05-10T21:56:06,This looks stupid...still want to see it.,0,0,Mat Calgaro,CXkUaaVrB_s,0.0,2018-05-10 21:56:06,True,True
+2018-05-10T22:27:11,Looks funny.  Too bad I can't see it because the politics of these two ruined it for me; and possibly the writer.,0,6,chzzyg269,CXkUaaVrB_s,-0.14999999999999994,2018-05-10 22:27:11,True,True
+2018-05-10T22:29:22,"I don't know why I want to see this, but I really want to see this.",1,0,Dominic Campbell,CXkUaaVrB_s,0.2,2018-05-10 22:29:22,True,True
+2018-05-10T22:35:05,Shut up Meg.,0,0,Tyler Fantom,CXkUaaVrB_s,0.0,2018-05-10 22:35:05,True,True
+2018-05-10T22:46:04,"omg, this is so cool.",5,0,Pag-ibig Dalisay,CXkUaaVrB_s,0.35,2018-05-10 22:46:04,True,True
+2018-05-10T22:49:04,Work Bitch!!! Yas Britney 💗,0,0,Ben Howard,CXkUaaVrB_s,0.0,2018-05-10 22:49:04,True,True
+2018-05-10T23:11:33,I love how everyone crushes hard for Kate McKinnon here but we all collectively died for Gillian Anderson,125,3,Caerulea Luna,CXkUaaVrB_s,0.10416666666666666,2018-05-10 23:11:33,True,True
+2018-05-10T23:14:43,Gillian!!! ❤ Can't wait to see this!!!,17,0,Wendy Rabideaux,CXkUaaVrB_s,0.0,2018-05-10 23:14:43,True,True
+2018-05-11T00:15:33,"""What?! You're the boss?! And yet you have not sacrificed one OUNCE of femininity. That is Beyoncé of the government."" Great writing.",2811,19,Ben Mamicha,CXkUaaVrB_s,0.8,2018-05-11 00:15:33,True,True
+2018-05-11T00:17:31,Work Bitch hah,0,0,Sarah Jéssica,CXkUaaVrB_s,0.0,2018-05-11 00:17:31,True,True
+2018-05-11T00:19:31,Outlander fans only watching this for Sam Heughan where you at?,587,21,Ash Hiz,CXkUaaVrB_s,0.0,2018-05-11 00:19:31,True,True
+2018-05-11T01:22:05,Kate McKinnon is a comedic treasure.,106,3,Joseph Ocasio,CXkUaaVrB_s,0.0,2018-05-11 01:22:05,True,True
+2018-05-11T02:37:37,Kick ass action thriller,0,0,Bhanu Singh,CXkUaaVrB_s,0.1,2018-05-11 02:37:37,True,True
+2018-05-11T03:50:07,Only here for Godney and Work Bitch!,0,0,Kris johns,CXkUaaVrB_s,0.0,2018-05-11 03:50:07,True,True
+2018-05-11T03:53:15,yessss! so here for Kate living her dream and not only meeting but working with Gillian! You go girl!,133,1,Esmee,CXkUaaVrB_s,0.0,2018-05-11 03:53:15,True,True
+2018-05-11T05:55:07,"""THAT'S THE BEYONCE OF THE GOVERNMENT""",157,1,crazy cooper,CXkUaaVrB_s,0.0,2018-05-11 05:55:07,True,True
+2018-05-11T07:21:18,"I'm a simple man: I see Kate McKinnon, I click.",2,0,Seetiyan,CXkUaaVrB_s,0.0,2018-05-11 07:21:18,True,True
+2018-05-11T07:36:53,megggggg haha,0,0,Shrey Pokhrel,CXkUaaVrB_s,0.2,2018-05-11 07:36:53,True,True
+2018-05-11T07:46:26,It looks awesome and the song is perfect!,6,3,huhu300,CXkUaaVrB_s,1.0,2018-05-11 07:46:26,True,True
+2018-05-11T08:34:29,Here for Kate McKinnon 😍,32,0,deeksha dhabai,CXkUaaVrB_s,0.0,2018-05-11 08:34:29,True,True
+2018-05-11T11:26:38,It will be interesting to see what this Sam Heughan guy can do outside of Outlander.,2,0,Lori Steranko,CXkUaaVrB_s,0.25,2018-05-11 11:26:38,True,True
+2018-05-11T11:42:27,What a name of song?,8,5,Марфа Заяц,CXkUaaVrB_s,0.0,2018-05-11 11:42:27,True,True
+2018-05-11T12:48:31,"Inner voice keeps saying 'SHUT UP, MEG.'",0,0,ismail biçer,CXkUaaVrB_s,0.0,2018-05-11 12:48:31,True,True
+2018-05-11T13:17:38,I came here for Britney Spears.. You betta work bitch,1,0,Manu Kosmos,CXkUaaVrB_s,0.0,2018-05-11 13:17:38,True,True
+2018-05-11T13:19:33,"Like if you`re here because of Britney`s ""Work Bitch""",1,0,Arkadi Grigoryan,CXkUaaVrB_s,0.0,2018-05-11 13:19:33,True,True
+2018-05-11T13:26:06,I'll only watch this because of Justin Theroux,0,0,Ignacio Borges,CXkUaaVrB_s,0.0,2018-05-11 13:26:06,True,True
+2018-05-11T13:58:28,omg work bitch by britney spears is such a bop,0,0,juliana brel,CXkUaaVrB_s,0.0,2018-05-11 13:58:28,True,True
+2018-05-11T14:00:48,im going to watch this movie only because of work bitch by britney spears lol,0,0,juliana brel,CXkUaaVrB_s,0.4,2018-05-11 14:00:48,True,True
+2018-05-11T14:13:24,work bitch!,0,0,Leo Capita,CXkUaaVrB_s,0.0,2018-05-11 14:13:24,True,True
+2018-05-11T14:45:44,Ivanna sakhno is so hot,3,0,Prathap Kutty,CXkUaaVrB_s,0.25,2018-05-11 14:45:44,True,True
+2018-05-11T14:47:45,Oh Sam Heughan - why are you so beautiful??? This man...,38,0,caleast,CXkUaaVrB_s,0.85,2018-05-11 14:47:45,True,True
+2018-05-11T16:45:57,I love mila kunis but why is she doing all these dumb movies ughh,0,0,Kulfi,CXkUaaVrB_s,0.0625,2018-05-11 16:45:57,True,True
+2018-05-11T17:32:17,female version of central intelligence 2016 and mission impossible: rogue nation.,6,0,Taajwar Pope,CXkUaaVrB_s,-0.2222222222222222,2018-05-11 17:32:17,True,True
+2018-05-11T17:55:52,0:40 Hasan Minhaj😎😄,201,1,Virality Factor,CXkUaaVrB_s,0.0,2018-05-11 17:55:52,True,True
+2018-05-11T18:04:14,Gilly ❤❤❤,0,0,Frantastic Ruga,CXkUaaVrB_s,0.0,2018-05-11 18:04:14,True,True
+2018-05-11T18:12:51,looks like burnt turds covered in rat hair.,1,0,Project -iFi-,CXkUaaVrB_s,0.0,2018-05-11 18:12:51,True,True
+2018-05-11T18:17:03,YOU BETTA WORK BITCH #classic,0,0,BoardMusic,CXkUaaVrB_s,0.16666666666666666,2018-05-11 18:17:03,True,True
+2018-05-11T18:32:22,i need this work bitch remix,0,0,Jamie Preston,CXkUaaVrB_s,0.0,2018-05-11 18:32:22,True,True
+2018-05-11T19:09:27,WORK BITCH,0,0,Mike Preston Lebron,CXkUaaVrB_s,0.0,2018-05-11 19:09:27,True,True
+2018-05-11T19:13:38,am i the only one who is excited that Britney Spears’s song is in the movie?,345,19,Mike Preston Lebron,CXkUaaVrB_s,0.1875,2018-05-11 19:13:38,True,True
+2018-05-11T19:26:43,From an F.B.I. agent to The Beyoncé Of The Goverment❤,46,3,Natálie Tománková,CXkUaaVrB_s,0.0,2018-05-11 19:26:43,True,True
+2018-05-11T19:46:06,IM WATCHING THIS JUST BECAUSE OF GILLIAN,5,1,Isabella Tza,CXkUaaVrB_s,0.0,2018-05-11 19:46:06,True,True
+2018-05-11T21:04:59,Shut up meg,0,0,Shane,CXkUaaVrB_s,0.0,2018-05-11 21:04:59,True,True
+2018-05-11T21:05:49,YOU BETTER WORK BITCH !! #BRITNEY,0,0,David Lopez,CXkUaaVrB_s,0.78125,2018-05-11 21:05:49,True,True
+2018-05-11T21:13:17,This looks  delightful !,2,0,G Stone,CXkUaaVrB_s,1.0,2018-05-11 21:13:17,True,True
+2018-05-11T22:06:26,Here for Work Bitch by Britney,0,0,SajkoRomantyk,CXkUaaVrB_s,0.0,2018-05-11 22:06:26,True,True
+2018-05-11T22:21:09,Britney ❤️,71,1,Bart Sala,CXkUaaVrB_s,0.0,2018-05-11 22:21:09,True,True
+2018-05-11T22:25:48,I’m here for Kate and Gillian,16,1,siredtodamon,CXkUaaVrB_s,0.0,2018-05-11 22:25:48,True,True
+2018-05-11T22:45:47,Work bitch!!,0,0,Janis70,CXkUaaVrB_s,0.0,2018-05-11 22:45:47,True,True
+2018-05-11T22:51:56,"""You betta work bitch!"" - Britney Spears",0,0,YouYoYouYoYou,CXkUaaVrB_s,0.0,2018-05-11 22:51:56,True,True
+2018-05-11T23:50:46,Here for Britney's song,82,3,Jbc 14,CXkUaaVrB_s,0.0,2018-05-11 23:50:46,True,True
+2018-05-12T00:20:23,I'm incredibly disappointed this isn't an Austin Powers reboot,4,1,pounchoutz,CXkUaaVrB_s,-0.75,2018-05-12 00:20:23,True,True
+2018-05-12T00:34:05,I'm definitely seeing this!!,0,0,Alexander Forsythe,CXkUaaVrB_s,0.0,2018-05-12 00:34:05,True,True
+2018-05-12T00:55:56,Work Bitch goes perfectly with the trailer 👌🏻,49,2,Santiago Castañeda,CXkUaaVrB_s,1.0,2018-05-12 00:55:56,True,True
+2018-05-12T01:42:35,Comes out a day after my birthday? SO SEEING THIS!,0,0,Ceikaiyia Cheeks The Director,CXkUaaVrB_s,0.0,2018-05-12 01:42:35,True,True
+2018-05-12T02:10:55,"I don't get it. McKinnon is innately hilarious. Ghostbusters reboot kinda sucked, but McKinnon was kinda quirky funny. Anyhoo, I know this movie, as a whole, won't be funny. The trailer isn't even funny. Why can't Hollywood get this chick in a hilariously entertaining movie???",5,1,Ulle Bishope,CXkUaaVrB_s,0.2785714285714286,2018-05-12 02:10:55,True,True
+2018-05-12T03:14:15,"This look fun..😀 Gonna give it a shot, would make great for a fun night..",0,0,KevinShultz,CXkUaaVrB_s,0.55,2018-05-12 03:14:15,True,True
+2018-05-12T03:15:36,Iconic soundtrack already!,158,2,Samuel Ochoa,CXkUaaVrB_s,0.625,2018-05-12 03:15:36,True,True
+2018-05-12T04:31:54,"here because of britney, anyone?",42,4,stripgear stripgear,CXkUaaVrB_s,0.0,2018-05-12 04:31:54,True,True
+2018-05-12T06:18:55,#7 on my feminist flop predictions of 2018.  1) Proud Mary (flopped) 2) Annihilation (flopped) 3) Red Sparrow (flopped) 4) A Wrinkle in Time (flopped) 5) I Feel Pretty (flopped) 6) Deadpool 2 (highly unlikely) 7) The Spy Who Dumped Me (???) 8) Darkest Minds (???) 9) Ocean's 8 (???) 10) Breaking in (???)  Let's wait and see!!!,2,5,Maximum Volume,CXkUaaVrB_s,0.3053125,2018-05-12 06:18:55,True,True
+2018-05-12T06:20:57,AVENGERS INFINITY WAR All Hot Kissing Scenes https://youtu.be/DZtbAvOvymE,0,0,Global Updates,CXkUaaVrB_s,0.25,2018-05-12 06:20:57,True,True
+2018-05-12T06:24:30,"Britney's ""Work Bitch"" sounds fucking AMAZING on this trailer! Queen of Pop.",0,0,Avishek Saini,CXkUaaVrB_s,0.7500000000000001,2018-05-12 06:24:30,True,True
+2018-05-12T06:27:37,Here cuz of Britney,43,0,Klevis Haxhiaj,CXkUaaVrB_s,0.0,2018-05-12 06:27:37,True,True
+2018-05-12T07:53:49,Straight to dvd or stream,1,0,I ThumbzDown EveryChanal,CXkUaaVrB_s,0.2,2018-05-12 07:53:49,True,True
+2018-05-12T08:16:26,Cool,0,0,Эля Сафиханова,CXkUaaVrB_s,0.35,2018-05-12 08:16:26,True,True
+2018-05-12T08:29:13,*OH GOD JESUS WHAT HAPPENED?!*,67,0,Arctic Falcon,CXkUaaVrB_s,0.0,2018-05-12 08:29:13,True,True
+2018-05-12T10:00:24,Hassan Minhaj and Kate McKinnon in an action movie? Sweet!,2,0,Junjun Agbayani,CXkUaaVrB_s,0.26875,2018-05-12 10:00:24,True,True
+2018-05-12T11:43:47,Only here for Sam Heughan,0,0,barnes 77,CXkUaaVrB_s,0.0,2018-05-12 11:43:47,True,True
+2018-05-12T12:04:39,Here because of Britney bitch 😍💪,0,0,ScarletTurboMachine 10,CXkUaaVrB_s,0.0,2018-05-12 12:04:39,True,True
+2018-05-12T13:11:13,this looks cringe and shitty ngl,0,0,Ed Owen,CXkUaaVrB_s,0.0,2018-05-12 13:11:13,True,True
+2018-05-12T13:33:06,"“Oh, God! Jesus! What happened?” Lol",570,4,Imshortitsok06,CXkUaaVrB_s,0.8,2018-05-12 13:33:06,True,True
+2018-05-12T14:32:06,Recently trailers are showing too much scenes from the movies,2,0,Emma M,CXkUaaVrB_s,0.1,2018-05-12 14:32:06,True,True
+2018-05-12T14:52:26,I’m watching this only because of Kate McKinnon,1,0,Ramy,CXkUaaVrB_s,0.0,2018-05-12 14:52:26,True,True
+2018-05-12T15:05:15,Shut up Meg!,0,0,Aldin Stupar,CXkUaaVrB_s,0.0,2018-05-12 15:05:15,True,True
+2018-05-12T15:14:01,this looks amazing!!,1,0,ThisIsRusko,CXkUaaVrB_s,0.9375000000000001,2018-05-12 15:14:01,True,True
+2018-05-12T15:26:21,I'll be watching this because Kate McKinnon  is awesome,0,0,120starter,CXkUaaVrB_s,1.0,2018-05-12 15:26:21,True,True
+2018-05-12T15:58:38,Britney!!!,5,0,MySkylar,CXkUaaVrB_s,0.0,2018-05-12 15:58:38,True,True
+2018-05-12T17:27:09,"Fan of Kate McKinnon but the trailer lacks any really funny moments, which is a shame since most trailers for movies like these use the funniest parts. Looks like this might not be very funny. I'll still watch it when it hits streaming sites.",0,0,Malvok,CXkUaaVrB_s,0.35833333333333334,2018-05-12 17:27:09,True,True
+2018-05-12T17:49:08,Is WORK BITCH the main OST of the song?! OMG! Britney must have a surprise cameo!,4,0,britrey,CXkUaaVrB_s,0.32552083333333326,2018-05-12 17:49:08,True,True
+2018-05-12T17:56:35,<3,0,0,Erin Okay,CXkUaaVrB_s,1.0,2018-05-12 17:56:35,True,True
+2018-05-12T18:05:01,This looks good 👍,1,0,LaLa Laura,CXkUaaVrB_s,0.7,2018-05-12 18:05:01,True,True
+2018-05-12T18:27:21,I kinda wish Kate McKinnon was the spy who dumped Mila but sure I'll still watch it,165,7,Seraphin David,CXkUaaVrB_s,0.5,2018-05-12 18:27:21,True,True
+2018-05-12T19:25:47,Sam Heughan!!!!  Mila and Kate....August 3rd I'm there!,1,0,GHJasamfan,CXkUaaVrB_s,0.0,2018-05-12 19:25:47,True,True
+2018-05-12T19:26:43,"The music in the first trailer was better, work bitch don’t fit with the trailer",0,0,patricia Bermudez,CXkUaaVrB_s,0.3833333333333333,2018-05-12 19:26:43,True,True
+2018-05-12T19:40:13,"Anyone else notice that any movie, skit or form of media entertainment that Kate McKinnon is in has to have SJW references in it? I'm not against what she's trying to prove, but holy crap is it so awkwardly corny to hear these stupid phrases, lol. Why not just make a good movie and leave your political agenda at home.",0,0,VoiceULove,CXkUaaVrB_s,-0.11666666666666663,2018-05-12 19:40:13,True,True
+2018-05-12T19:56:39,Here for Britney,0,0,Marlon Xinico,CXkUaaVrB_s,0.0,2018-05-12 19:56:39,True,True
+2018-05-12T20:10:30,Yassss Bitchesss,0,0,Cipilatoz Official,CXkUaaVrB_s,0.0,2018-05-12 20:10:30,True,True
+2018-05-12T23:17:57,Wait! Gillian Anderson?! Go Kate! Go Kate!,22,0,tennyak,CXkUaaVrB_s,0.0,2018-05-12 23:17:57,True,True
+2018-05-13T00:11:56,"If Kate Sucks my DI*K, I'll will pirate this movie. If I get a autograph from Mila, I'll go to the theatre to see this movie.",0,0,Batman3217,CXkUaaVrB_s,-0.3,2018-05-13 00:11:56,True,True
+2018-05-13T04:38:11,"You’re 30 Mika?  Ha, try almost 35.",0,0,apiece ofdirt,CXkUaaVrB_s,0.0,2018-05-13 04:38:11,True,True
+2018-05-13T05:02:34,Pass. Hard pass.,2,0,Stephenie Antoine,CXkUaaVrB_s,-0.2916666666666667,2018-05-13 05:02:34,True,True
+2018-05-13T05:24:34,Should stick to Family Guy Meg and why don't SNL alum realize that they do not translate to the big screen well at all. Both of you made me vomit in my kitty litter because you both are nauseating outside of your typecast roles. Action heroes my left bunion cunts!,0,0,Wutzmyname Mike,CXkUaaVrB_s,0.025,2018-05-13 05:24:34,True,True
+2018-05-13T05:26:07,Kate probably freaked being able to film with Gillian,5,0,Bristi Chakrabarti,CXkUaaVrB_s,0.5,2018-05-13 05:26:07,True,True
+2018-05-13T05:44:29,Glad glad kate got to work with sully from x files her dream came true :),3,0,bluraysnob1990,CXkUaaVrB_s,0.4625,2018-05-13 05:44:29,True,True
+2018-05-13T05:56:38,That's the beyonce of the government 😂😂,13,0,Ami K Kalsi,CXkUaaVrB_s,0.0,2018-05-13 05:56:38,True,True
+2018-05-13T05:59:26,A lot of screaming in this one,0,0,Anmol Singh,CXkUaaVrB_s,0.0,2018-05-13 05:59:26,True,True
+2018-05-13T06:00:59,I see Kate Mckinnon I click,0,0,Saraya N.,CXkUaaVrB_s,0.0,2018-05-13 06:00:59,True,True
+2018-05-13T06:20:44,"Another uninteresting film with all-time screaming girls, who thought that they're incredibly brainy.",0,0,M I R O N,CXkUaaVrB_s,0.9,2018-05-13 06:20:44,True,True
+2018-05-13T07:43:41,this looks hilarious,1,0,Ashanti Maluleke,CXkUaaVrB_s,0.5,2018-05-13 07:43:41,True,True
+2018-05-13T07:49:26,That is the beyonce of government XD,3,0,XDARUSHIXD,CXkUaaVrB_s,0.0,2018-05-13 07:49:26,True,True
+2018-05-13T07:50:52,Will it have a Madonna song named Ugly Duckling :)?,0,0,danwat1234,CXkUaaVrB_s,-0.09999999999999998,2018-05-13 07:50:52,True,True
+2018-05-13T08:54:07,I came here only for Gillian Anderson,0,0,Tone Hernandez,CXkUaaVrB_s,0.0,2018-05-13 08:54:07,True,True
+2018-05-13T10:03:46,yaaaawn😔,0,0,B. Sampson,CXkUaaVrB_s,0.0,2018-05-13 10:03:46,True,True
+2018-05-13T10:51:50,"_""That is the Beyonce of Government""_ 😂😂😂😂😂",8,0,Ashesh Dubey,CXkUaaVrB_s,0.0,2018-05-13 10:51:50,True,True
+2018-05-13T12:01:22,Action comedy. These better not be the only  Punch lines .,3,0,k m archery,CXkUaaVrB_s,0.19999999999999998,2018-05-13 12:01:22,True,True
+2018-05-13T12:44:04,She's not 30.,0,0,Taylor Humes,CXkUaaVrB_s,0.0,2018-05-13 12:44:04,True,True
+2018-05-13T12:44:22,😂😂😂😂,0,0,Claudia Garcia Ponce,CXkUaaVrB_s,0.0,2018-05-13 12:44:22,True,True
+2018-05-13T12:46:59,Why i felt this more hype than AIW..?!?!?!.sorry all fans juat be honest,0,0,deny_boyoh@yahoo.com Deny,CXkUaaVrB_s,0.55,2018-05-13 12:46:59,True,True
+2018-05-13T14:30:44,That Sam Heughan aka Jamie is sexxxxxyyyyyy...  ❤😘😍😃😋☺,9,0,MsNotzi,CXkUaaVrB_s,0.0,2018-05-13 14:30:44,True,True
+2018-05-13T14:44:31,Sam 😍,2,0,Emily B,CXkUaaVrB_s,0.0,2018-05-13 14:44:31,True,True
+2018-05-13T15:02:04,This is too good to be real,0,0,On the road we go,CXkUaaVrB_s,0.44999999999999996,2018-05-13 15:02:04,True,True
+2018-05-13T15:14:45,I see Sam Heughan's name I click,4,0,Steffie Wong,CXkUaaVrB_s,0.0,2018-05-13 15:14:45,True,True
+2018-05-13T16:27:37,"this movie IS the greatest thing to ever happen to me. gillian, kate, and mila i think i’m going to die",2,0,mia l,CXkUaaVrB_s,1.0,2018-05-13 16:27:37,True,True
+2018-05-13T17:04:35,Damn..is this for real?,0,0,Tony Catalano,CXkUaaVrB_s,0.2,2018-05-13 17:04:35,True,True
+2018-05-13T17:06:01,everyone in the comments freaking out about gillian is a real ass mood o m g,2,0,noa franssen,CXkUaaVrB_s,0.2,2018-05-13 17:06:01,True,True
+2018-05-13T17:53:29,Britney spears❤,0,0,Carlos Villalobos,CXkUaaVrB_s,0.0,2018-05-13 17:53:29,True,True
+2018-05-13T18:28:42,Britney Fucking Spears!!!,0,0,John Justin Lim,CXkUaaVrB_s,-1.0,2018-05-13 18:28:42,True,True
+2018-05-13T20:22:57,amazing trailor🤩🤩,0,0,Ahmed 565494,CXkUaaVrB_s,0.6000000000000001,2018-05-13 20:22:57,True,True
+2018-05-13T21:04:59,Kate looks so hot!! I wish to see her in a lead role 😍😍😍,6,0,BeeBee,CXkUaaVrB_s,0.390625,2018-05-13 21:04:59,True,True
+2018-05-13T22:18:47,OMG I won’t miss this movie!,0,0,Dhani Agustia,CXkUaaVrB_s,0.0,2018-05-13 22:18:47,True,True
+2018-05-13T22:30:33,This looks fun,0,0,Niki91-HR,CXkUaaVrB_s,0.3,2018-05-13 22:30:33,True,True
+2018-05-13T22:46:47,Mika Kunis looks like 43. ew,0,0,A H.,CXkUaaVrB_s,0.0,2018-05-13 22:46:47,True,True
+2018-05-13T22:47:57,OMG SAM,4,0,Giu eoeoe,CXkUaaVrB_s,0.0,2018-05-13 22:47:57,True,True
+2018-05-13T23:45:32,"I LOVE IT!!! Yes! And let there be gueers!!!!""!""!""!""!!!!""",0,0,Caroline L.,CXkUaaVrB_s,1.0,2018-05-13 23:45:32,True,True
+2018-05-14T00:08:24,Not.one.laugh. 😕,0,0,Robert Silverman,CXkUaaVrB_s,0.0,2018-05-14 00:08:24,True,True
+2018-05-14T00:24:00,Whoa! I need to catch my breath!,0,0,kwasi sarpong,CXkUaaVrB_s,0.0,2018-05-14 00:24:00,True,True
+2018-05-14T02:13:10,Hey! A movie written by a computer algorithm. Bet it'll be a rollercoaster of fun.,0,0,Spunky Brewster,CXkUaaVrB_s,0.3,2018-05-14 02:13:10,True,True
+2018-05-14T02:51:16,This looks like a great buddy movie.,1,0,Delilah Hart,CXkUaaVrB_s,0.8,2018-05-14 02:51:16,True,True
+2018-05-14T04:31:49,I want to see this and Work Bitch is my fav song,2,0,Mileena Kahnum,CXkUaaVrB_s,0.0,2018-05-14 04:31:49,True,True
+2018-05-14T04:54:27,It had me at: ' Beyonce of the government',10,0,Brie C,CXkUaaVrB_s,0.0,2018-05-14 04:54:27,True,True
+2018-05-14T05:55:17,Here for “Work Bitch” 👑,0,0,Ivan Santiago,CXkUaaVrB_s,0.0,2018-05-14 05:55:17,True,True
+2018-05-14T07:00:37,Kate is badass,355,8,Nicky B,CXkUaaVrB_s,0.0,2018-05-14 07:00:37,True,True
+2018-05-14T07:43:27,"Oh god , what happened",34,0,Crazy Couple,CXkUaaVrB_s,0.0,2018-05-14 07:43:27,True,True
+2018-05-14T09:33:47,Thts the Beyonce of govt..😂😂😊😂,1574,7,Mayukh Mitra,CXkUaaVrB_s,0.0,2018-05-14 09:33:47,True,True
+2018-05-14T11:48:59,Will SOMEONE NOW just make Sam Heughan James Bond already?,4,0,ns2110theonly,CXkUaaVrB_s,0.0,2018-05-14 11:48:59,True,True
+2018-05-14T12:18:49,Gillian anderson !!,0,0,lone wonderer,CXkUaaVrB_s,0.0,2018-05-14 12:18:49,True,True
+2018-05-14T14:55:47,What's the song in 00:39? Does anyone know?,0,0,Ashma Sapkota,CXkUaaVrB_s,0.0,2018-05-14 14:55:47,True,True
+2018-05-14T15:40:49,Yes!!! Anything with Kate and Mila will surely be comedy gold. “That is the Beyoncé of the government.” 😂,1,0,Gail Remudaro,CXkUaaVrB_s,0.5,2018-05-14 15:40:49,True,True
+2018-05-15T01:51:37,Yaaas go britney you better work bitch,0,0,Souad Ejeniya,CXkUaaVrB_s,0.5,2018-05-15 01:51:37,True,True
+2018-05-15T01:56:29,Wait for it...annnd 2:08!,0,0,Wylie Coyote,CXkUaaVrB_s,0.0,2018-05-15 01:56:29,True,True
+2018-05-15T02:30:38,so excited.,0,0,siang rebe,CXkUaaVrB_s,0.375,2018-05-15 02:30:38,True,True
+2018-05-15T03:43:53,Love milakunis,1,0,Ashar Fariz,CXkUaaVrB_s,0.5,2018-05-15 03:43:53,True,True
+2018-05-15T05:02:44,When I first heard of this I thought it was an Austin Powers movie,0,0,aidan elder,CXkUaaVrB_s,0.25,2018-05-15 05:02:44,True,True
+2018-05-15T06:15:13,I saw the title and immediately thought of the spy who shagged me. Ya know? Austin Powers??,0,0,JGaming56,CXkUaaVrB_s,0.0,2018-05-15 06:15:13,True,True
+2018-05-15T08:48:44,SAM ❤️,3,0,Ryanne Monique,CXkUaaVrB_s,0.0,2018-05-15 08:48:44,True,True
+2018-05-15T11:30:23,"I'm really excited about this movie, it has suspense, action and comedy whhhhaaattt!!!! I have to watch this movie!!!",1,0,Estefani Ribeiro,CXkUaaVrB_s,0.4259185791015625,2018-05-15 11:30:23,True,True
+2018-05-15T15:18:44,Cool hi I dewei  here,0,0,Randy Dewei,CXkUaaVrB_s,0.35,2018-05-15 15:18:44,True,True
+2018-05-15T15:46:09,shut up meg 😂 !!,0,0,Raj sabbir,CXkUaaVrB_s,0.0,2018-05-15 15:46:09,True,True
+2018-05-15T17:14:22,There is a lot of the word die in this movie! At least in the trailer. ..,0,0,Buffy Cleaveland,CXkUaaVrB_s,-0.3,2018-05-15 17:14:22,True,True
+2018-05-15T18:18:16,It's Britney Bitch,1,0,Sean,CXkUaaVrB_s,0.0,2018-05-15 18:18:16,True,True
+2018-05-15T21:10:34,"Great actors = a must see film! I love Mila , she looks more and more gorgeous every year",0,0,Ekaterina Kuznetsova,CXkUaaVrB_s,0.64,2018-05-15 21:10:34,True,True
+2018-05-15T22:10:01,I would watch this,0,0,ripmyfictionalfriends,CXkUaaVrB_s,0.0,2018-05-15 22:10:01,True,True
+2018-05-15T23:05:11,NOW GET TO WORK BITCH!,0,0,brainey001,CXkUaaVrB_s,0.0,2018-05-15 23:05:11,True,True
+2018-05-15T23:23:53,Love it!!,0,0,Rebecca Elliott,CXkUaaVrB_s,0.78125,2018-05-15 23:23:53,True,True
+2018-05-16T00:03:12,"Before I read the title of the video I thought ""you go Inanna you got Kate McKinnon in your video!!!""",0,0,Manal Bouslihim,CXkUaaVrB_s,0.0,2018-05-16 00:03:12,True,True
+2018-05-16T10:19:37,I HAVE TO WATCH IT OMG,0,0,Satyani Cendikia,CXkUaaVrB_s,0.0,2018-05-16 10:19:37,True,True
+2018-05-16T16:14:56,"Yep, I can wait until it’s on TV. MAYBE!",0,0,orabella planos,CXkUaaVrB_s,0.0,2018-05-16 16:14:56,True,True
+2018-05-16T18:36:27,LOVE THE MUSIC! WORK IT!,0,0,RandomlyRJ,CXkUaaVrB_s,0.78125,2018-05-16 18:36:27,True,True
+2018-05-16T20:37:53,1:42 Once again videogame knowledge comes in handy in a movie,9,0,Jareth The Goblin King,CXkUaaVrB_s,0.6,2018-05-16 20:37:53,True,True
+2018-05-16T22:29:15,I’m here because of Sam Heughan but I think I’m staying for the laughs 😂😂😂😂,649,12,Jeanine Heurtematte,CXkUaaVrB_s,0.0,2018-05-16 22:29:15,True,True
+2018-05-17T06:20:30,Shut up Meg,0,0,Praveen Kumar,CXkUaaVrB_s,0.0,2018-05-17 06:20:30,True,True
+2018-05-17T07:41:57,"WELL DAAMN JACKIE! Kelso would be so disappointed that he,a police that he is would have to track u down but Hyde would be so proud of you,cause youre are being chased by cops and using guns, youre coming along nicely,badass.",0,1,lalala girl,CXkUaaVrB_s,-0.035185185185185174,2018-05-17 07:41:57,True,True
+2018-05-17T18:40:36,"KATE AND (HER LESBIAN FIYAH AWAKENING ROLE MODEL) JILLIAN, MY HEART!!!  20GAYTEEN KEEPS ON BLESSING US!!!!!",2,0,unpochoclodemas,CXkUaaVrB_s,0.0,2018-05-17 18:40:36,True,True
+2018-05-17T20:54:44,Saw Kate and honestly thought it was a SNL sketch,0,0,Yes I do,CXkUaaVrB_s,0.6,2018-05-17 20:54:44,True,True
+2018-05-18T02:41:23,"""WHY are those MY ONLY TWO OPTIONS!?""",0,0,Bendijester,CXkUaaVrB_s,0.0,2018-05-18 02:41:23,True,True
+2018-05-18T05:58:58,Sam heughan? HELL YEAH,7,0,pamela ortega,CXkUaaVrB_s,0.0,2018-05-18 05:58:58,True,True
+2018-05-18T15:20:53,Yes. Yes please,0,0,Tori A,CXkUaaVrB_s,0.0,2018-05-18 15:20:53,True,True
+2018-05-19T00:57:39,How is no one here for Mila Kunis? <3,0,0,Ayveh,CXkUaaVrB_s,1.0,2018-05-19 00:57:39,True,True
+2018-05-19T03:38:20,SCULLY!!!,0,0,BigMacBraaap,CXkUaaVrB_s,0.0,2018-05-19 03:38:20,True,True
+2018-05-19T10:31:38,Gillian Anderson😭💞,1,0,AhnperorHwasa,CXkUaaVrB_s,0.0,2018-05-19 10:31:38,True,True
+2018-05-19T13:14:01,Sam Heughan for James Bond. He would be great in my opinion.,37,0,brunoman17,CXkUaaVrB_s,0.8,2018-05-19 13:14:01,True,True
+2018-05-19T16:00:57,"Gillian, Sam and Kate? I want it NOW!!!",13,0,Viviana V,CXkUaaVrB_s,0.0,2018-05-19 16:00:57,True,True
+2018-05-20T17:45:28,HOLY FUCKKK GILLIAN ANDERSON IS HERE *cries in gay*,1,0,M3M3,CXkUaaVrB_s,0.4166666666666667,2018-05-20 17:45:28,True,True
+2018-05-21T07:27:47,Gillian Anderson still looks gorgeous,1,0,Chetan Khot,CXkUaaVrB_s,0.7,2018-05-21 07:27:47,True,True
+2018-05-21T15:21:24,Thanks for showing the entire plot in 2&1/2 minutes. I just saved some money to go see this movie.,0,0,RipleyE2092,CXkUaaVrB_s,0.1,2018-05-21 15:21:24,True,True
+2018-05-21T16:48:07,It hits theaters on my birthday 😫😫😫 yeeesss,0,0,N3TT3INC,CXkUaaVrB_s,0.0,2018-05-21 16:48:07,True,True
+2018-05-21T17:20:00,I'm sold all I needed to here Britney work bitch lol. Lovin it!!!,0,0,Psycho S.O.B.,CXkUaaVrB_s,1.0,2018-05-21 17:20:00,True,True
+2018-05-22T06:36:10,already fucking loving it,0,0,Alina Kolousowa,CXkUaaVrB_s,0.6,2018-05-22 06:36:10,True,True
+2018-05-22T06:36:22,already fucking loving it,0,0,Alina Kolousowa,CXkUaaVrB_s,0.6,2018-05-22 06:36:22,True,True
+2018-05-22T06:36:28,already fucking loving it,0,0,Alina Kolousowa,CXkUaaVrB_s,0.6,2018-05-22 06:36:28,True,True
+2018-05-22T06:36:48,already fucking loving it,0,0,Alina Kolousowa,CXkUaaVrB_s,0.6,2018-05-22 06:36:48,True,True
+2018-05-22T07:26:07,I love Mila Kunis 😍😍😍,0,0,Alvin DiPi,CXkUaaVrB_s,0.5,2018-05-22 07:26:07,True,True
+2018-05-22T10:46:24,"My, i can't wait to watch this movie!",0,0,FireLeaf,CXkUaaVrB_s,0.0,2018-05-22 10:46:24,True,True
+2018-05-22T11:30:54,I'm beyond excited for this,0,0,Sophie Magerl,CXkUaaVrB_s,0.375,2018-05-22 11:30:54,True,True
+2018-05-22T11:37:07,Need to see this cos of Kate McKinnon,2,0,Euricho Tamayo,CXkUaaVrB_s,0.0,2018-05-22 11:37:07,True,True
+2018-05-22T11:54:55,I love that her best friend isnt just there to deliver snarky remarks but actually helping her. Good for Kate McKinnon get that second top billing.,642,5,Elsjepelsje,CXkUaaVrB_s,0.45,2018-05-22 11:54:55,True,True
+2018-05-22T12:21:22,Sam Heughan 😏,10,0,K W,CXkUaaVrB_s,0.0,2018-05-22 12:21:22,True,True
+2018-05-22T12:33:10,Did I see Hasan Minhaj????,0,0,nadhila putri,CXkUaaVrB_s,0.0,2018-05-22 12:33:10,True,True
+2018-05-22T23:25:47,GILLIAN ANDERSON GILLIAN ANDERSON GILLIAN ANDERSON,2,0,Eleanor IsNotGivingYouHerLastName,CXkUaaVrB_s,0.0,2018-05-22 23:25:47,True,True
+2018-05-23T07:15:38,Omg love Kate. And I know she loves Gillian Anderson and that was probably epic for her,3,0,Skye Gibbens,CXkUaaVrB_s,0.3,2018-05-23 07:15:38,True,True
+2018-05-23T07:45:05,Damnit.. I was hoping Mila and Kate were gonna be the couple. Like Mila was the spy. You disappoint my lil gay heart :(,6,0,Sini Blues,CXkUaaVrB_s,-0.16666666666666666,2018-05-23 07:45:05,True,True
+2018-05-23T08:06:11,Spy who shagged me 😂😂😂,0,0,nanrob,CXkUaaVrB_s,0.0,2018-05-23 08:06:11,True,True
+2018-05-23T08:09:09,Mila kunis is back with a bang 😘😘😘😘,0,0,nanrob,CXkUaaVrB_s,0.0,2018-05-23 08:09:09,True,True
+2018-05-23T08:12:41,"https://youtu.be/pt8VYOfr8To work bitch ,,, britney 😘😘😘😘",0,0,nanrob,CXkUaaVrB_s,0.0,2018-05-23 08:12:41,True,True
+2018-05-23T11:50:44,Oh my god Kate got to work with Gillian Anderson that is so great!!!,2,0,Gillian Feeney,CXkUaaVrB_s,1.0,2018-05-23 11:50:44,True,True
+2018-05-23T14:15:06,세상에 개 씽난가 오션스 8이랑 달리면 그 날은 그냥 기분 붕붕붕,0,0,girl unfettered,CXkUaaVrB_s,0.0,2018-05-23 14:15:06,True,True
+2018-05-23T14:49:28,"Love the song! ""Work Bitch"" by the legendary Britney Spears",0,0,HA R,CXkUaaVrB_s,0.8125,2018-05-23 14:49:28,True,True
+2018-05-23T19:42:55,Lmaoooo I can’t Wait,0,0,Amal Russell,CXkUaaVrB_s,0.0,2018-05-23 19:42:55,True,True
+2018-05-23T20:32:23,I'm pretty sure this is the only way I am going to make it through the summer.,0,0,Maynard Hearns,CXkUaaVrB_s,0.25,2018-05-23 20:32:23,True,True
+2018-05-23T22:28:56,This looks great!,0,0,Donna SewDonna,CXkUaaVrB_s,1.0,2018-05-23 22:28:56,True,True
+2018-05-24T06:44:26,Eh.,0,0,AlexReynard,CXkUaaVrB_s,0.0,2018-05-24 06:44:26,True,True
+2018-05-24T07:00:22,"Well im so excited for the movie and so proud of this song is on the trailer, go britney! ❤️❤️❤️🔥🔥🔥🔥",2,0,Noval Yudha,CXkUaaVrB_s,0.6875,2018-05-24 07:00:22,True,True
+2018-05-24T07:17:55,"""That is the Beyoncé of the government"" 😂😂😂 Can't wait",8,0,Muhaidar Haidar,CXkUaaVrB_s,0.0,2018-05-24 07:17:55,True,True
+2018-05-24T12:42:34,I thought this is SNL when I saw Kate. And then I realized that it's real.,0,0,You Don't Need To Know,CXkUaaVrB_s,0.2,2018-05-24 12:42:34,True,True
+2018-05-24T12:59:19,WOW.,0,0,Esha Nag,CXkUaaVrB_s,0.1,2018-05-24 12:59:19,True,True
+2018-05-24T13:52:45,Aww! These chicks is so hot! I am waiting for weekend for watching this movie using boxxy software on my big plasma!!!,0,0,chan zhao,CXkUaaVrB_s,0.22916666666666666,2018-05-24 13:52:45,True,True
+2018-05-24T15:20:44,SNL인줄 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ,0,0,Sara Q,CXkUaaVrB_s,0.0,2018-05-24 15:20:44,True,True
+2018-05-24T20:51:00,Do movie writers still think assassins use glaringly obvious red dots on their rifle sights?,0,0,mattbellamymate,CXkUaaVrB_s,0.0,2018-05-24 20:51:00,True,True
+2018-05-24T23:53:42,Cannot wait! Love them girls! Nice to Mina working so much. Kate! Rocks too!,0,0,Brandon Eier,CXkUaaVrB_s,0.5125000000000001,2018-05-24 23:53:42,True,True
+2018-05-25T04:19:03,"This screams Melissa McCartney but she isn't there! Love Mila and Kate, cannot wait for it!",17,0,N. BR,CXkUaaVrB_s,0.625,2018-05-25 04:19:03,True,True
+2018-05-25T10:13:11,Plot twist Justin's character is tje bad guy hahaha,0,0,Tess cg And Movies,CXkUaaVrB_s,-0.24999999999999992,2018-05-25 10:13:11,True,True
+2018-05-25T18:53:43,Guess Hollywood finally just gave up,0,0,Robert Montoya,CXkUaaVrB_s,0.0,2018-05-25 18:53:43,True,True
+2018-05-26T14:09:24,I'm just here for Kate 😀,1,0,Ran Kitahara,CXkUaaVrB_s,0.0,2018-05-26 14:09:24,True,True
+2018-05-26T15:16:57,"If this movie holds true to form, the friend is a dobblecrossing spy, herself 🙈 let's hope this shows genuine female friendship throughout the movie - that would be a novelty",0,0,Karen Marie Etzerodt,CXkUaaVrB_s,0.25,2018-05-26 15:16:57,True,True
+2018-05-26T18:16:31,the part of the music - where is it originally from?,0,0,smt rm,CXkUaaVrB_s,0.375,2018-05-26 18:16:31,True,True
+2018-05-26T18:59:07,“Oh God!.. Jesus! What happened?!” Oh Kate! 😂,8,0,Juli Rio,CXkUaaVrB_s,0.0,2018-05-26 18:59:07,True,True
+2018-05-26T19:28:13,Every woman needs that one friend...,0,0,Henrietta Koffi,CXkUaaVrB_s,0.0,2018-05-26 19:28:13,True,True
+2018-05-26T20:05:08,Awesome that Gillian Anderson is in it because I’m pretty sure Kate has said she always had a crush on her.,18,1,Nick Lemen,CXkUaaVrB_s,0.5833333333333334,2018-05-26 20:05:08,True,True
+2018-05-27T08:43:36,Gillian Anderson!!!!,2,0,EVee,CXkUaaVrB_s,0.0,2018-05-27 08:43:36,True,True
+2018-05-27T14:30:28,"""That is the Beyoncé of the government."" Kate McKinnon actually, get this, saying that to Gillian Anderson. Can't wait!!!❤️",7,0,Patricia de Pastors,CXkUaaVrB_s,0.0,2018-05-27 14:30:28,True,True
+2018-05-27T17:19:04,I can’t believe this isn’t an Austin powers parody,0,0,Radio cure,CXkUaaVrB_s,0.0,2018-05-27 17:19:04,True,True
+2018-05-27T20:39:15,OH MY GOD IT’S GILLIAN ANDERSON,3,0,mia l,CXkUaaVrB_s,0.0,2018-05-27 20:39:15,True,True
+2018-05-28T05:42:20,"This is a real movie? Wow, they let white women do anything 🤷🏾‍♀️",0,0,Israël Âme,CXkUaaVrB_s,0.10000000000000002,2018-05-28 05:42:20,True,True
+2018-05-28T08:42:30,Mila kunis you funny and hot lady. Love ya,0,0,Mitashi Sharma,CXkUaaVrB_s,0.3333333333333333,2018-05-28 08:42:30,True,True
+2018-05-28T09:52:14,Love Kate McKinnon,2,0,RUPPAL JOSHI,CXkUaaVrB_s,0.5,2018-05-28 09:52:14,True,True
+2018-05-28T20:52:32,Oh my days?! Hasan Minaj AND Sam Heughan?? Count me in.,0,0,Rula Irshad,CXkUaaVrB_s,0.0,2018-05-28 20:52:32,True,True
+2018-05-29T01:29:49,That blonde dude reminds me a bit of Anton Yelchin.,0,0,Kubera,CXkUaaVrB_s,0.0,2018-05-29 01:29:49,True,True
+2018-05-29T09:00:26,Is that Hasan Minhaj? YEEESSSSS,0,0,S W H P,CXkUaaVrB_s,0.0,2018-05-29 09:00:26,True,True
+2018-05-29T15:28:23,"Mila's jowls, girl looking old",0,0,frankiewilson123,CXkUaaVrB_s,0.1,2018-05-29 15:28:23,True,True
+2018-05-30T09:52:59,kate in suspenders. thank you,2,1,shari jay,CXkUaaVrB_s,0.0,2018-05-30 09:52:59,True,True
+2018-05-30T22:00:52,I can’t wait - this looks awesome!,1,0,Joshua Bird,CXkUaaVrB_s,1.0,2018-05-30 22:00:52,True,True
+2018-05-31T11:41:10,Shut up Meg!,0,0,Ishi Gandalf,CXkUaaVrB_s,0.0,2018-05-31 11:41:10,True,True
+2018-06-01T14:12:27,I thought this was a joke!! It’s a real movie?,0,0,Jamie Eagle,CXkUaaVrB_s,0.2,2018-06-01 14:12:27,True,True
+2018-06-02T08:35:39,Shut up meg,0,0,bourgeois2002,CXkUaaVrB_s,0.0,2018-06-02 08:35:39,True,True
+2018-06-02T15:28:16,Title reminds me of the spy who shagged me which is still a better movie than this,0,0,BEVDOG,CXkUaaVrB_s,0.5,2018-06-02 15:28:16,True,True
+2018-06-02T23:51:55,Parece que vai ser bom,0,0,spn winchester,CXkUaaVrB_s,0.0,2018-06-02 23:51:55,True,True
+2018-06-03T14:06:21,Kate McKinnon and Mila Kunis? Take my money 💰,4,0,Destined FG,CXkUaaVrB_s,0.0,2018-06-03 14:06:21,True,True
+2018-06-05T09:13:15,Funny,0,0,J. Oduegwu,CXkUaaVrB_s,0.25,2018-06-05 09:13:15,True,True
+2018-06-06T23:52:53,"Now get you work, bitch!",0,0,Victor Cavero,CXkUaaVrB_s,0.0,2018-06-06 23:52:53,True,True
+2018-06-07T16:28:11,i can already tell this feminist hit job is going to blow!!,0,0,Phil McCracken,CXkUaaVrB_s,0.0,2018-06-07 16:28:11,True,True
+2018-06-08T22:51:02,"You are the boss, yet you didn't sacrifice one ounce of femininity. She is the Beyonce of the Govt. I giggled at this.",0,0,Min,CXkUaaVrB_s,0.0,2018-06-08 22:51:02,True,True
+2018-06-08T23:10:21,Looks so bad :),0,0,Jerry Watches Movies,CXkUaaVrB_s,-0.09999999999999992,2018-06-08 23:10:21,True,True
+2018-06-09T17:16:31,"I'm not sure why I lost it on, ""burn, burn, burn in a fire!""",5,0,Cheyenne Arredondo,CXkUaaVrB_s,-0.3125,2018-06-09 17:16:31,True,True
+2018-06-10T08:08:24,Lmao I’m watching for Sam,0,0,Char A,CXkUaaVrB_s,0.6,2018-06-10 08:08:24,True,True
+2018-06-11T13:39:37,"1:14 lol, czech police!",0,0,Leema The Joke Ruiner,CXkUaaVrB_s,1.0,2018-06-11 13:39:37,True,True
+2018-06-14T00:46:22,"0:22 Mila: ""Oh god I killed some one! I killed some one!!!"" Kate: ""SHUT UP MEG!!!""",5,0,CDHfilms,CXkUaaVrB_s,-0.5064697265625,2018-06-14 00:46:22,True,True
+2018-06-14T20:53:33,Mila Kunis actress?  Funny,0,0,shadowpawn,CXkUaaVrB_s,0.25,2018-06-14 20:53:33,True,True
+2018-06-15T22:49:50,"Sam, Kunis, McKinnon and...HASAN??? Fuck yes 😂😂😂😂",0,0,Rin Y,CXkUaaVrB_s,-0.4,2018-06-15 22:49:50,True,True
+2018-06-15T22:57:13,"OK, all the ladies will be seeing this just for Sam.",0,1,PromiseRW,CXkUaaVrB_s,0.5,2018-06-15 22:57:13,True,True
+2018-06-16T03:04:37,I came here for Sam. #NOTASHAME,4,0,Amélie Marquis,CXkUaaVrB_s,0.0,2018-06-16 03:04:37,True,True
+2018-06-16T12:29:54,people are actual noticing meg-atron,0,0,SWAG,CXkUaaVrB_s,0.0,2018-06-16 12:29:54,True,True
+2018-06-18T02:25:39,Two words...….Sam Heughan.,22,0,flourchylde49,CXkUaaVrB_s,0.0,2018-06-18 02:25:39,True,True
+2018-06-20T22:07:53,"i can not wait to see it , looks awesome!!",0,0,Wendy Taylor,CXkUaaVrB_s,1.0,2018-06-20 22:07:53,True,True
+2018-06-21T20:49:33,You had me at Kate McKinnon.,2,0,Rosie,CXkUaaVrB_s,0.0,2018-06-21 20:49:33,True,True
+2018-06-21T22:39:21,Ahhh this movie is the shit I'm so hype for this,0,0,Madi Devericks,CXkUaaVrB_s,-0.2,2018-06-21 22:39:21,True,True
+2018-06-22T03:29:16,And here I thought it would be a Austin Powers sequel.. A man can dream damn it! A man can dream..,1,0,Lance Parrish,CXkUaaVrB_s,0.0,2018-06-22 03:29:16,True,True
+2018-06-22T06:15:22,Oh I'm so looking forward to seeing this movie!!!,0,0,Adria Rose,CXkUaaVrB_s,0.0,2018-06-22 06:15:22,True,True
+2018-06-24T19:15:37,YASSS I can’t wait for this,0,0,mightwenotbehappy,CXkUaaVrB_s,0.0,2018-06-24 19:15:37,True,True
+2018-06-27T20:32:26,1:46 - 1:12 - 1:37 - 1:44 - 0:45 - 2:07,0,0,Manic More Est. 2003,CXkUaaVrB_s,0.0,2018-06-27 20:32:26,True,True
+2018-06-28T05:43:19,feels like remix of Tom Cruise and  Cameron Diaz movie,0,0,Dave K,CXkUaaVrB_s,0.0,2018-06-28 05:43:19,True,True
+2018-06-29T02:31:22,What is the song used in this trailer?,0,0,Olaya Mihalik,CXkUaaVrB_s,0.0,2018-06-29 02:31:22,True,True
+2018-07-01T14:04:27,"Nice work, Lionsgate Movies! You really expect that we didn't see you guys delete all negative comments about this? Did you really try to convince us that nothing strange to have only 390 comments in 6m.views trailer?",0,0,Bernard Black,CXkUaaVrB_s,0.1333333333333333,2018-07-01 14:04:27,True,True
+2018-07-02T22:30:21,Wow..original,0,0,Monk Abrahms,CXkUaaVrB_s,0.0,2018-07-02 22:30:21,True,True
+2018-07-03T21:12:58,HOLY SHIT YES!!!,0,0,Julie Gilleland,CXkUaaVrB_s,-0.390625,2018-07-03 21:12:58,True,True
+2018-07-03T22:05:45,"""Oh God! Jesus! What happened?!?!""",0,0,Marcus Thorne,CXkUaaVrB_s,0.0,2018-07-03 22:05:45,True,True
+2018-07-04T02:25:15,Nope!,0,0,JohnEnigma,CXkUaaVrB_s,0.0,2018-07-04 02:25:15,True,True
+2018-07-04T09:02:07,"hasn't it already been done with Melissa McCarthy or Sandra Bullock, or both?",0,0,Louis Nio,CXkUaaVrB_s,0.0,2018-07-04 09:02:07,True,True
+2018-07-04T22:29:35,Oh shit Meg is in here,0,0,Ex2944 ____,CXkUaaVrB_s,-0.2,2018-07-04 22:29:35,True,True
+2018-07-04T23:04:46,THE SPY WHO DUMPED ME (2018) SCREENWRITERS INTERVIEW FULL INTERVIEW watch here: https://www.youtube.com/watch?v=u-QEFyp_Cnk&list=UUEUAFdx08b7f6Nh0S66dxrA&index=1,0,0,North & Touth,CXkUaaVrB_s,0.35,2018-07-04 23:04:46,True,True
+2018-07-05T17:33:04,This looks amazing,2,0,noel smith,CXkUaaVrB_s,0.6000000000000001,2018-07-05 17:33:04,True,True
+2018-07-05T21:07:59,"Shut up, Meg! Prague looks awesome",0,0,Misha Dobiasova,CXkUaaVrB_s,1.0,2018-07-05 21:07:59,True,True
+2018-07-06T06:44:11,SAMMMMMMMMMMMMMMMMMMMMMMMMMMMMM,7,0,Amélie Marquis,CXkUaaVrB_s,0.0,2018-07-06 06:44:11,True,True
+2018-07-07T16:37:41,sarah hyland is that you ?,0,0,yoidk,CXkUaaVrB_s,0.0,2018-07-07 16:37:41,True,True
+2018-07-07T16:55:03,mila underrated comedy legend  she had some of the funniest lines in the trailer and I LOVE HER,29,0,Elliot Devereaux,CXkUaaVrB_s,0.5,2018-07-07 16:55:03,True,True
+2018-07-10T04:29:24,LOL kate is funny af!,1,0,Daniel Stephen,CXkUaaVrB_s,0.55625,2018-07-10 04:29:24,True,True
+2018-07-10T17:44:54,Shut up Meg,0,0,Abhijeet Wankhade,CXkUaaVrB_s,0.0,2018-07-10 17:44:54,True,True
+2018-07-10T19:59:46,Would only have seen this film if it was called The Spy Who Dumped On Me.,0,0,P Ferreira,CXkUaaVrB_s,0.0,2018-07-10 19:59:46,True,True
+2018-07-10T20:00:52,"Shut up, Meg.",0,0,Victor Diaz,CXkUaaVrB_s,0.0,2018-07-10 20:00:52,True,True
+2018-07-10T21:51:28,1:03 showcases just how AWFUL both of these actresses are. Mila Kunis' response is literally painful to listen to. Even worse than her entire run on That 70s Show. Nails on a chalkboard.,0,0,GoodRiddanceGooglePlus,CXkUaaVrB_s,-0.525,2018-07-10 21:51:28,True,True
+2018-07-11T02:47:01,I’m here cause of work bitch,0,0,ok,CXkUaaVrB_s,0.0,2018-07-11 02:47:01,True,True
+2018-07-11T03:20:47,that is the beyonce of the government,0,0,desyana rachma,CXkUaaVrB_s,0.0,2018-07-11 03:20:47,True,True
+2018-07-11T14:42:36,"I'd go see this, but only in a movie theater that also serves drinks. I feel like this will get funnier and funnier as I get drunker.",2,0,Ashley James,CXkUaaVrB_s,0.0,2018-07-11 14:42:36,True,True
+2018-07-11T20:16:51,😉,0,0,Zuleika Coffie,CXkUaaVrB_s,0.0,2018-07-11 20:16:51,True,True
+2018-07-12T00:40:37,I love Mila Kunis and will watch literally anything with her in it. 😍,3,1,Lisa Dixon,CXkUaaVrB_s,0.5,2018-07-12 00:40:37,True,True
+2018-07-12T01:50:47,"“Do you wanna die having never been to Europe, or do you wanna go to Europe and die having been to Europe?” 😂😂😂",852,10,Isabella Russo,CXkUaaVrB_s,0.0,2018-07-12 01:50:47,True,True
+2018-07-12T07:30:47,MY BODY IS READY,0,0,OrangeF1zz,CXkUaaVrB_s,0.2,2018-07-12 07:30:47,True,True
+2018-07-14T06:33:27,I didn't see the title and I was really upset when I found out they weren't a  couple.. that would have sold the movie for me I still love them though,0,0,Whatever Goes,CXkUaaVrB_s,0.35,2018-07-14 06:33:27,True,True
+2018-07-14T07:34:19,"😁😁😁😁😆😆😆😆 I can’t wait until this movie comes out it comes out on my birthday August 3,2018 I am definitely gonna watch this cause I love Mila Kunis and Kate McKinnon 😘😘😘",1,0,Nessa DeVera,CXkUaaVrB_s,0.25,2018-07-14 07:34:19,True,True
+2018-07-15T09:07:23,Thee movie seems really bad,0,0,Melicia,CXkUaaVrB_s,-0.6999999999999998,2018-07-15 09:07:23,True,True
+2018-07-15T13:08:34,Shut up Meg!,0,0,Rudster14,CXkUaaVrB_s,0.0,2018-07-15 13:08:34,True,True
+2018-07-16T08:54:50,Shut Up Meg,0,0,SJI,CXkUaaVrB_s,0.0,2018-07-16 08:54:50,True,True
+2018-07-16T16:45:44,I’ve probably scene this trailer about 300x.  I really want to see it when it comes out.  Can’t wait!,2,0,Supergirl87,CXkUaaVrB_s,0.25,2018-07-16 16:45:44,True,True
+2018-07-16T19:27:09,Can't wait for that movie,1,0,Rufaro Asuquo,CXkUaaVrB_s,0.0,2018-07-16 19:27:09,True,True
+2018-07-16T21:26:48,This looks lame,0,0,Hugginsince79,CXkUaaVrB_s,-0.5,2018-07-16 21:26:48,True,True
+2018-07-17T11:33:13,0:24 Production Girl in the background :D,0,0,goert616,CXkUaaVrB_s,1.0,2018-07-17 11:33:13,True,True
+2018-07-17T12:16:43,"00:37 what is this fantastic song ? I searched everywhere the lyrics without any luck (""good girl in a bad situation"", ""looks like have a bad reputation"")",0,0,Mike Dudley,CXkUaaVrB_s,-0.0749999999999999,2018-07-17 12:16:43,True,True
+2018-07-18T00:45:46,"Shut up, Meg.",0,0,Kerry M,CXkUaaVrB_s,0.0,2018-07-18 00:45:46,True,True
+2018-07-18T00:48:37,Mila...baby girl please give up acting...its either you choose bad roles or you are a bad actress...maybe both....open a makeup or fashion line as a side hobby😚,0,0,Daily Random Videos,CXkUaaVrB_s,-0.6999999999999998,2018-07-18 00:48:37,True,True
+2018-07-18T01:22:29,I share a birthday with Mila Kunis and this movie looks awesome,0,0,Bennett Riecken,CXkUaaVrB_s,1.0,2018-07-18 01:22:29,True,True
+2018-07-18T02:06:17,Oh meg what have you gotten yourself into this time?,0,0,Sug Dolomar,CXkUaaVrB_s,0.0,2018-07-18 02:06:17,True,True
+2018-07-18T04:59:37,This.. looks.. dreadful,0,0,Catty 1,CXkUaaVrB_s,-1.0,2018-07-18 04:59:37,True,True
+2018-07-18T07:30:23,She sounds like meg,0,0,Sergeant RhymeSpitter,CXkUaaVrB_s,0.0,2018-07-18 07:30:23,True,True
+2018-07-18T19:14:40,Look amazing,0,0,Fire Goddess,CXkUaaVrB_s,0.6000000000000001,2018-07-18 19:14:40,True,True
+2018-07-18T23:48:28,this is a comedy?  I looks like  just another cookie cutter non  stop action movie with a few laughs thrown in.,0,0,Barb5001,CXkUaaVrB_s,-0.05,2018-07-18 23:48:28,True,True
+2018-07-19T08:06:14,Shut up Meg.,0,0,Meraida Cruz,CXkUaaVrB_s,0.0,2018-07-19 08:06:14,True,True
+2018-07-19T10:42:37,Song..,0,0,NonRazer Channel,CXkUaaVrB_s,0.0,2018-07-19 10:42:37,True,True
+2018-07-19T15:47:55,“Shut up Meg” 🤣,3,0,rileypart1,CXkUaaVrB_s,0.0,2018-07-19 15:47:55,True,True
+2018-07-20T07:40:51,"Editing glitch at: 0:47 DREW stops walking BEFORE the word ""spy"" comes out of Mila's mouth.  Whoops!",0,0,Adrian Collins,CXkUaaVrB_s,0.0,2018-07-20 07:40:51,True,True
+2018-07-21T17:44:31,Here for Sam bae ♡,0,0,IN Ö,CXkUaaVrB_s,0.0,2018-07-21 17:44:31,True,True
+2018-07-22T01:11:55,IS THAT HASAN MINHAJ??? AHHH,1,0,hey it's vani,CXkUaaVrB_s,0.0,2018-07-22 01:11:55,True,True
+2018-07-22T17:30:45,Gonna watch this movie all cause of Britney,0,0,mohsen bugemskii,CXkUaaVrB_s,0.0,2018-07-22 17:30:45,True,True
+2018-07-22T17:31:31,Shut up meg,0,0,mohsen bugemskii,CXkUaaVrB_s,0.0,2018-07-22 17:31:31,True,True
+2018-07-22T21:25:48,o look another Hollywood femanazi movie,0,0,William Worth,CXkUaaVrB_s,0.0,2018-07-22 21:25:48,True,True
+2018-07-22T21:32:35,This is dumb,0,0,King,CXkUaaVrB_s,-0.375,2018-07-22 21:32:35,True,True
+2018-07-22T23:26:23,Anybody else notice the first view of the female with the rifle is shooting right handed but the next time left handed?,0,0,numnutz50,CXkUaaVrB_s,0.10714285714285714,2018-07-22 23:26:23,True,True
+2018-07-23T08:10:28,Mila Kunis 👎 Kate McKinnon 👍  So... Maybe I'll watch it?,0,0,mmko,CXkUaaVrB_s,0.0,2018-07-23 08:10:28,True,True
+2018-07-23T20:13:55,I'm so excited for this movie Oml,0,0,Arawen Yup,CXkUaaVrB_s,0.375,2018-07-23 20:13:55,True,True
+2018-07-23T20:41:35,Am I the only my that wants to know whats the song at the end?,0,0,Cecilia Lara,CXkUaaVrB_s,0.1,2018-07-23 20:41:35,True,True
+2018-07-23T21:00:12,Why are those my only two options?!?!,1,0,Summer Lynn,CXkUaaVrB_s,0.0,2018-07-23 21:00:12,True,True
+2018-07-24T02:48:15,"I hope Mila Kunis gets stripped while she's on bondage aoh, ultra sexy! 1:51",0,0,JP Carnotaurus Dude,CXkUaaVrB_s,0.625,2018-07-24 02:48:15,True,True
+2018-07-24T04:54:37,Shut up Meg!,0,0,Dennis Billington,CXkUaaVrB_s,0.0,2018-07-24 04:54:37,True,True
+2018-07-24T21:57:29,"Mila amd Kate are gorgeous and Kate is a great actress, looking forward to this one!",0,0,Patricia Staub,CXkUaaVrB_s,0.85,2018-07-24 21:57:29,True,True
+2018-07-24T22:31:08,"Trump: God I love Kellyanne, everyday it looks like she does the ice bucket challenge with her make-up.",2,0,Kevin DurSNAKE,CXkUaaVrB_s,0.15,2018-07-24 22:31:08,True,True
+2018-07-25T20:54:56,I need to using movie pass,0,0,Mahendra Patel,CXkUaaVrB_s,0.0,2018-07-25 20:54:56,True,True
+2018-07-25T21:22:09,Ugh I prayed that this would be a gay film,0,0,Meg Fall,CXkUaaVrB_s,0.4166666666666667,2018-07-25 21:22:09,True,True
+2018-07-26T02:08:07,Was this ghost-directed by Paul Feig?,0,0,McSuperfly,CXkUaaVrB_s,0.0,2018-07-26 02:08:07,True,True
+2018-07-26T03:11:41,"Of course, they show the entire movie in a trailer....",0,0,tamika Robinson,CXkUaaVrB_s,0.0,2018-07-26 03:11:41,True,True
+2018-07-26T11:26:04,'That is the Beyonce of the government!',0,0,Pierce Parker,CXkUaaVrB_s,0.0,2018-07-26 11:26:04,True,True
+2018-07-26T13:15:46,It's no surprise to me of why they'll never ever be any Meg Griffin Merchandises at all.,0,0,Josh Berman,CXkUaaVrB_s,0.0,2018-07-26 13:15:46,True,True
+2018-07-26T14:15:23,"Kate mckinnon is box office poison,  this movie is going to flop hard",0,0,PhillipB,CXkUaaVrB_s,-0.2916666666666667,2018-07-26 14:15:23,True,True
+2018-07-26T14:17:04,God I hate Mila Kunis's voice.,1,1,A Guy Called Pi,CXkUaaVrB_s,-0.8,2018-07-26 14:17:04,True,True
+2018-07-26T16:20:53,":))))) shut up, Meg!",0,0,Mihai Pielaru,CXkUaaVrB_s,0.625,2018-07-26 16:20:53,True,True
+2018-07-26T19:17:09,I SEE SILKS ❤️,0,0,Abby Wieberg,CXkUaaVrB_s,0.0,2018-07-26 19:17:09,True,True
+2018-07-26T22:23:20,hi i love Kate McKinnon with all my gay heart,0,0,lewispeppers,CXkUaaVrB_s,0.45833333333333337,2018-07-26 22:23:20,True,True
+2018-07-27T02:09:26,Basically me and my best friend if we were in a movie,0,0,TheDarkSideTV,CXkUaaVrB_s,1.0,2018-07-27 02:09:26,False,True
+2018-07-27T04:06:15,Shut up meg.. Lol,2,0,Beryl,CXkUaaVrB_s,0.8,2018-07-27 04:06:15,False,True
+2018-07-27T04:57:59,👎👎👎👎👎,0,0,Nrreekay,CXkUaaVrB_s,0.0,2018-07-27 04:57:59,False,True
+2018-07-27T06:59:56,This got me so hype,0,0,gabby draghi,CXkUaaVrB_s,0.0,2018-07-27 06:59:56,False,True
+2018-07-27T09:50:22,Sam 😍😍😍 I'm so in,0,0,Mel Campbell,CXkUaaVrB_s,0.0,2018-07-27 09:50:22,False,True
+2018-07-27T16:17:52,"if the flick is even 1/2 as good as the trailer, I gotta go. plus, you know.... Mila.",0,0,joe bob 47,CXkUaaVrB_s,0.7,2018-07-27 16:17:52,False,True
+2018-07-27T18:48:57,Meg?,0,0,Julie Johnson,CXkUaaVrB_s,0.0,2018-07-27 18:48:57,False,True
+2018-07-27T21:53:20,This comes out on my birthday 😆,0,0,Hannah Gray,CXkUaaVrB_s,0.0,2018-07-27 21:53:20,False,True
+2018-07-28T00:15:19,"Okay, so it seems like I'm the only one here who thinks this movie looks terrible",0,0,De'Andre Williams,CXkUaaVrB_s,-0.16666666666666666,2018-07-28 00:15:19,False,True
+2018-07-28T02:34:53,Sex dreams of the Minions,0,0,itsJoshPlayz,CXkUaaVrB_s,0.0,2018-07-28 02:34:53,False,True
+2018-07-28T03:03:10,Mila is a babe.,0,0,Craytos McFarfegnewton,CXkUaaVrB_s,0.0,2018-07-28 03:03:10,False,True
+2018-07-28T05:19:47,This movie comes out the same day as Christopher Robin so decide which movie you want to see more.,0,0,phoenixfinn 755,CXkUaaVrB_s,0.25,2018-07-28 05:19:47,False,True
+2018-07-28T05:31:01,This shit looks hella stupid,0,0,I'm a Bird,CXkUaaVrB_s,-0.5,2018-07-28 05:31:01,False,True
+2018-07-28T05:58:15,Here are my Most Recent Movie Reviews. Enjoy! The Spy Who Dumped Me- https://www.youtube.com/watch?v=RCdy_XFM-1c  Blindspotting- https://www.youtube.com/watch?v=HIfUTV784go  Mission: Impossible-Fallout- https://www.youtube.com/watch?v=rmoDmyO7LIg  The Equalizer 2- https://www.youtube.com/watch?v=1BYxEWNnozk,0,0,Chad Sabourin,CXkUaaVrB_s,0.3333333333333333,2018-07-28 05:58:15,False,True
+2018-07-28T07:24:37,Cast scores a 59 on the Millermeter.,0,0,bronco devil,CXkUaaVrB_s,0.0,2018-07-28 07:24:37,False,True
+2018-07-28T15:49:55,i dont know i my mom will let me see this im 11 and this is r rated so please tell me how it is,1,0,help I can't chose a bias maybe Rapmonster,CXkUaaVrB_s,0.0,2018-07-28 15:49:55,False,True
+2018-07-28T16:35:22,i don't watch girls movies but i do like comedy and spy movies...gonna watch it definitely,0,0,Hokage Minato,CXkUaaVrB_s,0.0,2018-07-28 16:35:22,False,True
+2018-07-28T20:15:26,Anyone pressed on this praying for something Austin Powers related?,0,0,John,CXkUaaVrB_s,0.0,2018-07-28 20:15:26,False,True
+2018-07-29T00:30:24,premise is so bad but actors are ok,0,0,Al Pa,CXkUaaVrB_s,-0.09999999999999992,2018-07-29 00:30:24,False,True
+2018-07-29T06:22:57,"Spies Like Us, 1985",0,0,D. DeLeo,CXkUaaVrB_s,0.0,2018-07-29 06:22:57,False,True
+2018-07-29T13:36:45,"Hollywood is really stepping their game up. Yes, yet another unoriginal, unwarranted female reboot. But hey. Now we get TWO Mary Sue's for the price of ONE!",0,0,Ben Dover,CXkUaaVrB_s,-0.1,2018-07-29 13:36:45,False,True
+2018-07-29T22:54:24,Guys why the girl with black hair look like Ianna Sarkis??,0,0,gabrielle rothrock,CXkUaaVrB_s,-0.16666666666666666,2018-07-29 22:54:24,False,True
+2018-07-29T23:35:42,i need to see this,0,0,victoria zamudio,CXkUaaVrB_s,0.0,2018-07-29 23:35:42,False,True
+2018-07-30T14:26:45,"All I wanna say is Shut up, Meg",0,0,lostone13,CXkUaaVrB_s,0.0,2018-07-30 14:26:45,False,True
+2018-07-30T14:40:58,Omg anybody notice the actor also plays Jackie in that 70's show,1,0,Maya Jabak,CXkUaaVrB_s,0.0,2018-07-30 14:40:58,False,True
+2018-07-30T23:06:51,I am here because of Superwoman :D,1,0,Andrea Bedford,CXkUaaVrB_s,1.0,2018-07-30 23:06:51,False,True
+2018-07-30T23:07:28,Like it ur from superwoman’s video 😂,2,0,Gia Mand,CXkUaaVrB_s,0.0,2018-07-30 23:07:28,False,True
+2018-07-30T23:16:59,OH MY GOD I KILLED SOMEONE I KILLED SOMEONE,1,0,DanielBoss,CXkUaaVrB_s,-0.2,2018-07-30 23:16:59,False,True
+2018-07-30T23:21:15,Cant wait.,0,0,Jalleel Bansie,CXkUaaVrB_s,0.0,2018-07-30 23:21:15,False,True
+2018-07-31T00:22:18,If it wasn't for idiotic brainwashed Millennials nobody would want to see a stupid movie about a lesbian in her straight friend going around trying to be bad asses. This is more liberal brainwashing with useless trash.,0,0,S Griffin,CXkUaaVrB_s,-0.3277777777777777,2018-07-31 00:22:18,False,True
+2018-07-31T00:27:30,Is this pg13 or rated r some one please answer me,1,1,Glamour6622,CXkUaaVrB_s,0.0,2018-07-31 00:27:30,False,True
+2018-07-31T00:37:10,Anyone else come here from Lilly Singh's video?  #TeamSuper  #SpyWhoDumpedMe,127,6,Kyle MacDonald,CXkUaaVrB_s,0.0,2018-07-31 00:37:10,False,True
+2018-07-31T00:57:53,Who else from iisuperwomanii’s ‘struggles of traveling abroad’ video?,2,1,annoni anonymous,CXkUaaVrB_s,0.0,2018-07-31 00:57:53,False,True
+2018-07-31T00:59:08,This movie looks so funny 😂,0,0,Isaiah Jay,CXkUaaVrB_s,0.25,2018-07-31 00:59:08,False,True
+2018-07-31T00:59:52,Who came here after seeing Lily's video ?,3,0,Sister Squad,CXkUaaVrB_s,0.0,2018-07-31 00:59:52,False,True
+2018-07-31T01:12:44,I'm here because superwoman lol,2,0,BJ,CXkUaaVrB_s,0.8,2018-07-31 01:12:44,False,True
+2018-07-31T01:47:31,Whos here after superwoman video,1,0,Keenashae Pennicooke,CXkUaaVrB_s,0.0,2018-07-31 01:47:31,False,True
+2018-07-31T01:55:13,i need to see this movie badass show,0,0,Brianna Ganesh,CXkUaaVrB_s,0.0,2018-07-31 01:55:13,False,True
+2018-07-31T02:17:45,I cant wait. Hopefully it plays here in fiji,1,0,Alec Antonio,CXkUaaVrB_s,0.0,2018-07-31 02:17:45,False,True
+2018-07-31T02:40:42,I'll watch this because the sound track is from my queen!,0,0,Rogel Joseph Gagarin,CXkUaaVrB_s,0.5,2018-07-31 02:40:42,False,True
+2018-07-31T02:53:09,Beyonce of the govt😂😂 I want august today,0,0,sumit,CXkUaaVrB_s,0.0,2018-07-31 02:53:09,False,True
+2018-07-31T03:17:07,Anyone here from Lilly’s branded video?,1,0,THEBIZZARECHANNEL,CXkUaaVrB_s,0.0,2018-07-31 03:17:07,False,True
+2018-07-31T04:11:01,When I saw the poster for this in the movies I thought it was about a Lesbian couple one being the spy and the other one the ex-girlfriend. Definitely not the same (would love to see a film like that honestly) but this still looks good.,0,0,C. Skeleton,CXkUaaVrB_s,0.2791666666666666,2018-07-31 04:11:01,False,True
+2018-07-31T05:40:35,Is anyone else here cuz of lily?,0,0,Joonsjoo M,CXkUaaVrB_s,0.0,2018-07-31 05:40:35,False,True
+2018-07-31T05:47:32,And who's here because of Superwoman?😁❤🙌,0,0,Marta 24,CXkUaaVrB_s,0.0,2018-07-31 05:47:32,False,True
+2018-07-31T06:33:35,Who’s here from iisuperwomanii,0,0,Chicken Nugget,CXkUaaVrB_s,0.0,2018-07-31 06:33:35,False,True
+2018-07-31T07:00:00,Who else came because of lilly Singh??🙋,1,0,Anushree Ghosh,CXkUaaVrB_s,0.0,2018-07-31 07:00:00,False,True
+2018-07-31T08:42:41,it's gonna be in theaters on my BIRTHDAY!!!,0,0,Leen Basha,CXkUaaVrB_s,0.0,2018-07-31 08:42:41,False,True
+2018-07-31T09:49:04,WHERE #TEAMSUPER AT?? WE OUT HERE SUPPORTING OUR QUEENS INITIATIVE #GIRLLOVE...P.S. I'M A MALE! ALL HERE FOR #LILLYSINGH #SUPERWOMAN !!! LOVE THE TRAILER!!!!!!,0,0,smh smh,CXkUaaVrB_s,0.4166666666666667,2018-07-31 09:49:04,False,True
+2018-07-31T10:27:23,I am so gonna watch this!,0,0,Sam v,CXkUaaVrB_s,0.0,2018-07-31 10:27:23,False,True
+2018-07-31T10:59:04,here from lilly's video!!,0,0,Hashini Gurusinghe,CXkUaaVrB_s,0.0,2018-07-31 10:59:04,False,True
+2018-07-31T11:11:37,Shut up meg,0,0,James Canlas,CXkUaaVrB_s,0.0,2018-07-31 11:11:37,False,True
+2018-07-31T11:15:00,Who came from superwoman,0,0,KawaiiAngel AJ,CXkUaaVrB_s,0.0,2018-07-31 11:15:00,False,True
+2018-07-31T11:19:53,Who else here from Superwoman's video?,1,0,Kanishma Ray,CXkUaaVrB_s,0.0,2018-07-31 11:19:53,False,True
+2018-07-31T14:54:47,This looks awesome!,0,0,Olivia Wenya,CXkUaaVrB_s,1.0,2018-07-31 14:54:47,False,True
+2018-07-31T15:03:08,"here from Lilly singh , team super forever. anyone else?",0,0,Iz Desie,CXkUaaVrB_s,0.3333333333333333,2018-07-31 15:03:08,False,True
+2018-07-31T15:15:45,"""Welcome to work b*tch!""",0,0,Mark Pepito,CXkUaaVrB_s,1.0,2018-07-31 15:15:45,False,True
+2018-07-31T15:37:36,Sounds like a austin power movie but it's not,0,0,Conner Bell,CXkUaaVrB_s,0.0,2018-07-31 15:37:36,False,True
+2018-07-31T16:11:46,OMG KATE AND GILLIAN😍😍😍,0,0,katie f,CXkUaaVrB_s,0.0,2018-07-31 16:11:46,False,True
+2018-07-31T16:12:53,*That is the Beyoncé of the government*,1,0,katie f,CXkUaaVrB_s,0.0,2018-07-31 16:12:53,False,True
+2018-07-31T16:13:04,Okay but Gillian is so hot.,0,0,katie f,CXkUaaVrB_s,0.375,2018-07-31 16:13:04,False,True
+2018-07-31T17:05:10,"Yeah, Shut Up Meg!",0,0,Uno Depp,CXkUaaVrB_s,0.0,2018-07-31 17:05:10,False,True
+2018-07-31T18:48:35,Came from Lilly Singh's video,0,0,Div S,CXkUaaVrB_s,0.0,2018-07-31 18:48:35,False,True
+2018-07-31T19:00:07,Hasan minhaaaaj! Represent!,0,0,Shrunoti,CXkUaaVrB_s,0.0,2018-07-31 19:00:07,False,True
+2018-07-31T19:15:34,I thought the girl was the ex,0,0,Nogah Bannett,CXkUaaVrB_s,0.0,2018-07-31 19:15:34,False,True
+2018-07-31T19:18:14,Where is Lilly Singh,0,0,AGENTKD,CXkUaaVrB_s,0.0,2018-07-31 19:18:14,False,True
+2018-07-31T22:00:50,"mila kunis haven´t aged since that 70´s show ! still looks hot , i´m mos def gonna watch this !",0,0,Fresh,CXkUaaVrB_s,0.09375,2018-07-31 22:00:50,False,True
+2018-07-31T22:47:43,Shut up Meg,0,0,Trey Yula,CXkUaaVrB_s,0.0,2018-07-31 22:47:43,False,True
+2018-07-31T23:32:59,Came here fuse of superwoman,1,0,Lana Ali,CXkUaaVrB_s,0.0,2018-07-31 23:32:59,False,True
+2018-08-01T00:51:50,Gillian Anderson is the only good thing on this...,0,0,Dirty Harry,CXkUaaVrB_s,0.35,2018-08-01 00:51:50,False,True
+2018-08-01T01:23:21,who else is here from lilly?,0,0,Satakshi Singh,CXkUaaVrB_s,0.0,2018-08-01 01:23:21,False,True
+2018-08-01T01:58:25,Who else here a unicorn?,0,0,Nigar Zafar,CXkUaaVrB_s,0.0,2018-08-01 01:58:25,False,True
+2018-08-01T02:03:25,Anyone else here fr Hassan minaj?,0,0,weird தமிழன்,CXkUaaVrB_s,0.0,2018-08-01 02:03:25,False,True
+2018-08-01T05:41:16,"Patrick Star: ""I hate this channel"".",0,0,Ron C,CXkUaaVrB_s,-0.8,2018-08-01 05:41:16,False,True
+2018-08-01T05:55:44,👍🏾,0,0,Louretha Savage,CXkUaaVrB_s,0.0,2018-08-01 05:55:44,False,True
+2018-08-01T06:24:57,I'm usually a serious movie goer (who doesn't like action comedies) but this looks hilarious!,0,0,Dustin Dixon,CXkUaaVrB_s,0.13055555555555556,2018-08-01 06:24:57,False,True
+2018-08-01T10:24:42,Lily for u...,0,0,Anosha Hadar,CXkUaaVrB_s,0.0,2018-08-01 10:24:42,False,True
+2018-08-01T10:42:55,I just watched the trailer last night. I saw that it's showing here in the ph today. Watched it today. The movie is so funny!!! 😂 I was laughing the whole movie. And btw Mila is still damn gorg right there. 🔪❤️,0,0,Joy Lopez,CXkUaaVrB_s,0.2434988839285714,2018-08-01 10:42:55,False,True
+2018-08-01T11:08:39,OK BYE MONEY HELLO CINEMA,0,0,Valentina Del Rio,CXkUaaVrB_s,0.5,2018-08-01 11:08:39,False,True
+2018-08-01T11:47:54,"This trailer is so hyped, I hope the movie is even better.",0,0,Bella Cruz,CXkUaaVrB_s,0.5,2018-08-01 11:47:54,False,True
+2018-08-01T13:46:19,I'm going to laugh when this flops and they cry sexism.,0,1,Holden McGroin,CXkUaaVrB_s,0.3,2018-08-01 13:46:19,False,True
+2018-08-01T16:38:24,"Do you wanna die having never been to Europe, or do wanna go to Europe and die having been to Europe? WHY ARE THOSE MY ONLY TWO OPTIONS!?  I hope they didn't show the funniest part of the movie in the trailer",2,1,Crisantechell Muse,CXkUaaVrB_s,0.0,2018-08-01 16:38:24,False,True
+2018-08-01T16:53:56,I want to watch this,0,0,lillian strife,CXkUaaVrB_s,0.0,2018-08-01 16:53:56,False,True
+2018-08-01T19:39:22,whats the song at the ending????,0,0,Michelle,CXkUaaVrB_s,0.0,2018-08-01 19:39:22,False,True
+2018-08-01T20:44:31,The girl who played meg in family guy!?,0,0,Kylee McDaniel,CXkUaaVrB_s,0.0,2018-08-01 20:44:31,False,True
+2018-08-01T23:14:47,Who is going to see this movie?,2,0,Thr 33,CXkUaaVrB_s,0.0,2018-08-01 23:14:47,False,True
+2018-08-02T02:05:04,This is better than mission impossible.,0,0,Eko Laksono,CXkUaaVrB_s,-0.08333333333333331,2018-08-02 02:05:04,False,True
+2018-08-02T02:17:13,Why do I wanna see this lol,0,0,Zip Jones,CXkUaaVrB_s,0.8,2018-08-02 02:17:13,False,True
+2018-08-02T06:16:10,Shut up meg,2,0,Goldendud3,CXkUaaVrB_s,0.0,2018-08-02 06:16:10,False,True
+2018-08-02T06:41:41,Its jackie!,0,0,B. Nathan Spencer,CXkUaaVrB_s,0.0,2018-08-02 06:41:41,False,True
+2018-08-02T06:51:50,You tubers in films are never good but Mila Kunis seems really good in this film,0,0,Pat M,CXkUaaVrB_s,0.175,2018-08-02 06:51:50,False,True
+2018-08-02T07:22:38,"I see Kate McKinnon, i bought ticket(s).",0,0,hoang nam le,CXkUaaVrB_s,0.0,2018-08-02 07:22:38,False,True
+2018-08-02T08:34:31,*The Chad Who Pumped and Dumped Me* :(,1,0,Jumpy Cat,CXkUaaVrB_s,-0.75,2018-08-02 08:34:31,False,True
+2018-08-02T08:36:28,Movies starring Kate McKinnon has always bomb. Don't bother.,0,0,Nazariah Gatal,CXkUaaVrB_s,0.0,2018-08-02 08:36:28,False,True
+2018-08-02T09:24:59,Wow .. Im so excited .. Kate and Mila..  Big fan 😍,0,0,finn dahooman,CXkUaaVrB_s,0.15833333333333333,2018-08-02 09:24:59,False,True
+2018-08-02T10:07:36,"Can they stop giving these rolls to mila kunis and give them to actresses who can actually handle a roll like this? She just isn't any good. I'm sorry but she has zero range and zero talent. She sounds like a shrill banshee and I can't take her seriously when she says ""a lot of ppl are gonna die""  really mila? That's the best you can do? Ugh. Stick to sucky rom coms and Christmas movies girl.",0,0,Bailey Ray,CXkUaaVrB_s,0.09523809523809522,2018-08-02 10:07:36,False,True
+2018-08-02T11:17:30,Is it just me or did that last bit sounded like nina simone's feeling good?,0,0,Atal Raj,CXkUaaVrB_s,0.35,2018-08-02 11:17:30,False,True
+2018-08-02T11:54:56,Im so glad she isn’t overly sexual like all other movies she’s in,0,0,Mystic 301,CXkUaaVrB_s,0.2916666666666667,2018-08-02 11:54:56,False,True
+2018-08-02T12:30:59,Budapest! 😍❤,0,0,Benjamin Istvan Cseko,CXkUaaVrB_s,0.0,2018-08-02 12:30:59,False,True
+2018-08-02T12:48:51,Seems cool nd funny i'd watch this movie,0,0,Wiwi Wiwi,CXkUaaVrB_s,0.3,2018-08-02 12:48:51,False,True
+2018-08-02T15:03:47,HASAN MINAAJJJ,0,0,Sanchi Madan,CXkUaaVrB_s,0.0,2018-08-02 15:03:47,False,True
+2018-08-02T19:26:42,"I predict that this movie will go down in flames and will be a big flop.  I like Mila Kunis but Kate McKinnon is really terrible in large doses, she is good in small short skits like on SNL but she is really annoying in anything longer than 10 minutes.",0,0,Maximus Jackassicus,CXkUaaVrB_s,-0.1614087301587302,2018-08-02 19:26:42,False,True
+2018-08-02T19:32:25,Is it true they cut the sandwich making scene?,0,0,Holden McGroin,CXkUaaVrB_s,0.35,2018-08-02 19:32:25,False,True
+2018-08-02T20:45:06,"that was best part , when the bus hit the guy. i got see this movie.lmao",0,0,Ne1 2bot,CXkUaaVrB_s,1.0,2018-08-02 20:45:06,False,True
+2018-08-02T20:54:56,i can't believe they were filming in vienna and i completely missed it :O,0,0,harlequin,CXkUaaVrB_s,0.07500000000000001,2018-08-02 20:54:56,False,True
+2018-08-02T21:32:41,I just wanted to see Scully🙁,0,0,adrianfytr35,CXkUaaVrB_s,0.0,2018-08-02 21:32:41,False,True
+2018-08-02T21:36:33,mila has lost her mojo,0,0,Jennifer Webb,CXkUaaVrB_s,0.0,2018-08-02 21:36:33,False,True
+2018-08-03T03:15:17,I’m here for Britney 😘,0,0,Christopher Duitsman,CXkUaaVrB_s,0.0,2018-08-03 03:15:17,False,True
+2018-08-03T03:35:43,I didn't know I needed to see a Kate McKinnon and Mila Kunis colab....but I totally do.,0,0,Garret Harris,CXkUaaVrB_s,0.0,2018-08-03 03:35:43,False,True
+2018-08-03T04:55:37,"Aw, lol",0,0,Kanwel Hussain,CXkUaaVrB_s,0.8,2018-08-03 04:55:37,False,True
+2018-08-03T05:00:03,So she ends up with Jamie Fraser then.,0,0,Jes,CXkUaaVrB_s,0.0,2018-08-03 05:00:03,False,True
+2018-08-03T05:18:14,Can't stand Mila Kunis,1,0,UK MedicFRCS,CXkUaaVrB_s,0.0,2018-08-03 05:18:14,False,True
+2018-08-03T06:38:47,What's the t-shirt McKinnon is wearing at  0:38 ? It looks so cool.,0,0,T.C. Masterson,CXkUaaVrB_s,0.35,2018-08-03 06:38:47,False,True
+2018-08-03T08:00:19,The Spy or Spies. I see plural.,1,0,Largest Classifieds,CXkUaaVrB_s,0.0,2018-08-03 08:00:19,False,True
+2018-08-03T11:25:46,Just stop Lionsgate. Youre grounded for a year,0,0,ed Tee,CXkUaaVrB_s,0.0,2018-08-03 11:25:46,False,True
+2018-08-03T14:16:12,Some one is trying to hard to be funny. #NotFunny,0,0,SAINT 65,CXkUaaVrB_s,-0.020833333333333343,2018-08-03 14:16:12,False,True
+2018-08-03T15:18:10,Holly Flax!!!!,0,0,Sam Mento,CXkUaaVrB_s,0.0,2018-08-03 15:18:10,False,True
+2018-08-03T16:38:15,SOMEONE PLEASE IF ANYBODY KNOWS A WEBSITE THAT STREAMS THIS MOVIE FOR FREE AND NO SIGN UP PLEASE COMMENT IT PLEASE HELP,0,0,Billie is my life,CXkUaaVrB_s,0.4,2018-08-03 16:38:15,False,True
+2018-08-03T17:02:57,Looks good,0,0,Hector Mora,CXkUaaVrB_s,0.7,2018-08-03 17:02:57,False,True
+2018-08-03T18:39:59,They made another Knight and Day?? 😂😂 They really running out of ideas,0,0,Dhruv Bhatt,CXkUaaVrB_s,0.2,2018-08-03 18:39:59,False,True
+2018-08-03T19:36:27,So justin doesnt have to act?! Hmmm,0,0,jane Miller,CXkUaaVrB_s,0.0,2018-08-03 19:36:27,False,True
+2018-08-03T23:51:29,QUIT with the screaming in your ads for the sake of those who have earphones and sleeping children.  Looks like a dumb movie too.,0,0,TreyNitrotoluene,CXkUaaVrB_s,-0.375,2018-08-03 23:51:29,False,True
+2018-08-04T00:22:27,looks great!,0,0,lyndon eaton,CXkUaaVrB_s,1.0,2018-08-04 00:22:27,False,True
+2018-08-04T02:00:29,I LOVED this movie! Too funny,0,0,Katy Brown,CXkUaaVrB_s,0.5625,2018-08-04 02:00:29,False,True
+2018-08-04T02:00:39,Looks horrible,0,0,APEX,CXkUaaVrB_s,-1.0,2018-08-04 02:00:39,False,True
+2018-08-04T05:47:07,2:02 WTF😂😂😂😝,0,0,rafi khattak,CXkUaaVrB_s,0.0,2018-08-04 05:47:07,False,True
+2018-08-04T06:01:36,my boy hasan,0,0,RetroMamba,CXkUaaVrB_s,0.0,2018-08-04 06:01:36,False,True
+2018-08-04T06:29:43,*American Bull Shit PP Product Placement Production says Bangkok-Johnny CarSanook Media THAIMAA*,1,0,John K Lindgren,CXkUaaVrB_s,-0.1,2018-08-04 06:29:43,False,True
+2018-08-04T07:29:10,1:00 Katy perry is that you?,0,0,Liad Gurman,CXkUaaVrB_s,0.0,2018-08-04 07:29:10,False,True
+2018-08-04T08:12:15,love Mila.,0,0,kesang choedon,CXkUaaVrB_s,0.5,2018-08-04 08:12:15,False,True
+2018-08-04T08:23:23,I watched the trailer and I was like eh. I might still have been half asleep. I went to watch the movie anyway and I had so much fun. Thumbs up to this movie!,0,0,Vanessa Bayardo,CXkUaaVrB_s,0.10416666666666667,2018-08-04 08:23:23,False,True
+2018-08-04T11:32:23,"Inanna Sarkis damn ,I swear it wz her.",1,0,Londeka Zuma,CXkUaaVrB_s,0.0,2018-08-04 11:32:23,False,True
+2018-08-04T11:44:09,Double toasted brought me here,0,0,Ziad Obaid,CXkUaaVrB_s,0.0,2018-08-04 11:44:09,False,True
+2018-08-04T12:22:58,SAM HEUGHAN!!!!! I am outlander obsessed so I can’t wait to see it😍😍😍😍😍😍😍😍,0,0,Anya Marais,CXkUaaVrB_s,-0.5,2018-08-04 12:22:58,False,True
+2018-08-04T14:01:01,Yo yo Yozsefváros!,1,0,Csabi Kieran Kurunczi,CXkUaaVrB_s,0.0,2018-08-04 14:01:01,False,True
+2018-08-04T14:35:25,Shut up meg,0,0,Chen benka,CXkUaaVrB_s,0.0,2018-08-04 14:35:25,False,True
+2018-08-04T15:06:01,Meg Griffin teaming up with her Aunt Karen(Kate McKinnon actually voiced Karen),0,0,Ahannamus Prime,CXkUaaVrB_s,0.0,2018-08-04 15:06:01,False,True
+2018-08-04T15:12:01,"I saw this film last night. Mila Kunis' comedy films surprise me every time. I saw the trailer and thought oh no, another girls can do it too film, (cough...implying as if they couldn't before. cough,cough) Which it kind of was but it paid off. I had fun watching this film. It was pretty lit.",0,0,androssteague,CXkUaaVrB_s,0.2875,2018-08-04 15:12:01,False,True
+2018-08-04T15:43:08,I understand this movie is supposed to be goofy but it’s hard to overlook a huge flaw in it. One of the spies injuries his arm and shoulder yet later in the movie his arm is fine. If they had not had a conversation about how long it would take for his arm and shoulder to be healed this would be easy to overlook. This flaw definitely lowers the rating of this movie because it insults the intelligence of anyone who watches it so blatantly.,0,0,Andy Tihonow,CXkUaaVrB_s,0.10092592592592593,2018-08-04 15:43:08,False,True
+2018-08-04T17:21:19,My GF pick last night and I laughed my ass off. Kate was funny as hell I was surprised good pic babe😉,0,0,isaiah broome,CXkUaaVrB_s,0.35,2018-08-04 17:21:19,False,True
+2018-08-04T17:36:18,Shut up meg !!,0,0,Calvin Ginya,CXkUaaVrB_s,0.0,2018-08-04 17:36:18,False,True
+2018-08-04T18:33:53,"So love Sam Heughan in this film, fantastic job!   So pleasantly surprised that I thoroughly enjoyed the movie.  Will see again",0,0,Judy Rasey,CXkUaaVrB_s,0.4,2018-08-04 18:33:53,False,True
+2018-08-04T18:46:59,Kate is hot...,0,0,Jeff Montville,CXkUaaVrB_s,0.25,2018-08-04 18:46:59,False,True
+2018-08-04T19:15:58,Kate just has it.,0,0,lexas,CXkUaaVrB_s,0.0,2018-08-04 19:15:58,False,True
+2018-08-04T20:45:08,Beyonce of the government😂😂👌👌👌,0,0,Jikar Najm Al-Din,CXkUaaVrB_s,0.0,2018-08-04 20:45:08,False,True
+2018-08-04T21:30:27,Oh shit...mila still sounds like jackie😍,0,0,Uex Gamer,CXkUaaVrB_s,0.0,2018-08-04 21:30:27,False,True
+2018-08-05T04:27:45,I will watch this...,0,0,Parulian Phea,CXkUaaVrB_s,0.0,2018-08-05 04:27:45,False,True
+2018-08-05T04:53:18,"Was really disappointed in this movie, all of the funny parts are basically in this preview. It was very random and I felt like the humor was really forced. Kate McKinnon is the only one who made this movie funny but I would wait for this movie to come out on Redbox if you’re interested in watching.",0,0,‘Silla,CXkUaaVrB_s,-0.1357142857142857,2018-08-05 04:53:18,False,True
+2018-08-05T05:59:16,1:00 with special participation of Katy Perry.,0,0,Arlene Rey,CXkUaaVrB_s,0.35714285714285715,2018-08-05 05:59:16,False,True
+2018-08-05T06:42:27,ah shoot now im gay,1,0,sam byergo,CXkUaaVrB_s,0.4166666666666667,2018-08-05 06:42:27,False,True
+2018-08-05T09:07:08,SHUT UP MEGG,0,0,Ferdynand L,CXkUaaVrB_s,0.0,2018-08-05 09:07:08,False,True
+2018-08-05T09:07:36,Shut up meg,0,0,Save the Rhino,CXkUaaVrB_s,0.0,2018-08-05 09:07:36,False,True
+2018-08-05T13:00:34,High expectations. Love these 2. Perfect match. Great comedy movie when you don't realize something is funny until you laugh. And I laughed several times for just this trailer. Wanna watch in theaters,0,0,C S,CXkUaaVrB_s,0.46375,2018-08-05 13:00:34,False,True
+2018-08-05T13:29:25,I watch this movie.  Wait for it till it hit Red Box.,0,0,Tero B gay,CXkUaaVrB_s,0.0,2018-08-05 13:29:25,False,True
+2018-08-05T15:44:45,Looks contrived but I would watch it. LOL,0,0,isidahmed74,CXkUaaVrB_s,0.15000000000000002,2018-08-05 15:44:45,False,True
+2018-08-05T17:00:54,It is revealed that Beyonce is the boss but hasn’t made any blood sacrifice yet.. I think the illuminated are reminding her that she has to pay her dues!! 😱😱,0,0,Male Isac,CXkUaaVrB_s,0.0,2018-08-05 17:00:54,False,True
+2018-08-05T17:07:47,Anyone say anorexia?,0,0,Annette Jac,CXkUaaVrB_s,0.0,2018-08-05 17:07:47,False,True
+2018-08-05T18:21:06,I love this movie so much lmao,0,0,Kaitlyn Murray,CXkUaaVrB_s,0.55,2018-08-05 18:21:06,False,True
+2018-08-05T22:32:00,"Kate McKinnon, the queen of overacting.",0,0,Highglow66,CXkUaaVrB_s,0.0,2018-08-05 22:32:00,False,True
+2018-08-05T22:36:11,Is it pg-13 ?,0,1,Alondra Bello,CXkUaaVrB_s,0.0,2018-08-05 22:36:11,False,True
+2018-08-06T03:10:16,This movie is trash,0,0,GodTier,CXkUaaVrB_s,0.0,2018-08-06 03:10:16,False,True
+2018-08-06T06:16:03,No scene of Mila with her tits out. I'm gonna give this movie a 4.20/6.9,0,0,Diamond HD,CXkUaaVrB_s,0.0,2018-08-06 06:16:03,False,True
+2018-08-06T11:03:59,This movie was actually HILARIOUS. The trailer doesn’t do it justice. Please check it out.,0,0,Ahmed Hathout,CXkUaaVrB_s,0.5,2018-08-06 11:03:59,False,True
+2018-08-06T15:18:37,I saw this with friends and was expecting it to be dumb but it was actually one of the best movies I've seen in a long time. Funny and lots of plot twists - not predictable at all!,0,0,April Will,CXkUaaVrB_s,0.15833333333333333,2018-08-06 15:18:37,False,True
+2018-08-06T23:35:21,Just saw it 5/5,0,0,Saeed Ali,CXkUaaVrB_s,0.0,2018-08-06 23:35:21,False,True
+2018-08-07T01:33:49,Work Bit** by the legendary Miss Britney Spears!,3,0,Féx GQ,CXkUaaVrB_s,1.0,2018-08-07 01:33:49,False,True
+2018-08-07T02:48:03,Skank movie,0,0,Devin Peirce,CXkUaaVrB_s,0.0,2018-08-07 02:48:03,False,True
+2018-08-07T02:53:35,This movie was so bad,0,0,Darren W. Earhart,CXkUaaVrB_s,-0.6999999999999998,2018-08-07 02:53:35,False,True
+2018-08-07T03:36:09,Why did they put all the funny scenes in the traileeeeeeeeeeer!!!!!!!!!!!!!!,0,0,NJay Maldito,CXkUaaVrB_s,1.0,2018-08-07 03:36:09,False,True
+2018-08-07T06:13:38,Who's here for IISuperwomanI? 😂,0,0,MM CELLULAR,CXkUaaVrB_s,0.0,2018-08-07 06:13:38,False,True
+2018-08-07T07:40:26,my fav line that the Beyonce of the Gov,0,0,basil booysen,CXkUaaVrB_s,0.0,2018-08-07 07:40:26,False,True
+2018-08-07T11:06:40,"See, Hollywood is pro-gun!",0,0,ltcajh,CXkUaaVrB_s,0.0,2018-08-07 11:06:40,False,True
+2018-08-07T11:38:39,The scene where the villian girl has to snipe the two is the most hillarious scene in the movie for me xD,0,0,Bap Pin,CXkUaaVrB_s,0.5,2018-08-07 11:38:39,False,True
+2018-08-07T12:51:53,I'm gonna watch this. Seeing the gorgeous face of Mila for more than an hour is already enough!,0,0,Audrey Lisbon,CXkUaaVrB_s,0.39999999999999997,2018-08-07 12:51:53,False,True
+2018-08-07T14:07:42,very funny..trailer is only small part & some of it are not even included in the movie 😅 #recommended,1,0,Nathalie Catalogo,CXkUaaVrB_s,-0.016666666666666663,2018-08-07 14:07:42,False,True
+2018-08-07T15:36:13,1:00 Is that you kara(from detroit become human) ??,0,0,Kenn Giovanni,CXkUaaVrB_s,0.0,2018-08-07 15:36:13,False,True
+2018-08-07T18:16:14,I am here because I saw Kate McKinnon rap in Hungarian and it was epic!,1,0,royJohannes1,CXkUaaVrB_s,0.125,2018-08-07 18:16:14,False,True
+2018-08-07T18:29:19,i feel like i just watched all the good parts of this movie.,0,1,PlayerMick -,CXkUaaVrB_s,0.7,2018-08-07 18:29:19,False,True
+2018-08-08T01:25:55,"Looks like a funny, awesome movie. I can’t wait to see it!",0,0,Sharon Smith,CXkUaaVrB_s,0.625,2018-08-08 01:25:55,False,True
+2018-08-08T03:12:03,It's like Rough Night meet Bad Moms with all the guns and actions.,0,0,Franz Bartolome,CXkUaaVrB_s,-0.3999999999999999,2018-08-08 03:12:03,False,True
+2018-08-08T04:43:02,"Adorei o roteiro, eu gostei muito do filme, mas achei desnecessário duas atrizes para fazer o papel cômico, (a namorada desastrada), ou no mínimo tirar atriz Mila Kunis, que não fica nada bem fazendo papéis cômicos, particularmente não acha ela uma boa atriz agora a Kate McKinnon foi uma escolha incrível.",0,0,Jéssica Cezar,CXkUaaVrB_s,0.0,2018-08-08 04:43:02,False,True
+2018-08-08T07:29:42,Watched this yesterday. Worth it!!,0,0,Antisocial Pessimist,CXkUaaVrB_s,0.46875,2018-08-08 07:29:42,False,True
+2018-08-08T12:50:45,"Sam ..hooo my good loveee,amoo demais meu Jamies Bond.kkkkkkk",0,0,Simone Reis,CXkUaaVrB_s,0.7,2018-08-08 12:50:45,False,True
+2018-08-08T14:40:45,I stan Meg Griffin,0,0,Dreamer 002,CXkUaaVrB_s,0.0,2018-08-08 14:40:45,False,True
+2018-08-08T19:09:36,Morgan is funny as fxck hahahaha,0,0,hafeez alfians,CXkUaaVrB_s,0.225,2018-08-08 19:09:36,False,True
+2018-08-08T20:03:05,Comedy is truly dead. Not at all funny.,0,0,Lauro Andrea,CXkUaaVrB_s,0.024999999999999994,2018-08-08 20:03:05,False,True
+2018-08-08T22:14:32,I'm not gonna lie my sister picked the movie but I actually was laughing the whole way,0,0,WaterBenBury Channel,CXkUaaVrB_s,0.1,2018-08-08 22:14:32,False,True
+2018-08-08T22:29:36,Wish I could find a clip of Ivanna Sakhno's gymnastics torture scene to show friends. Totally psycho!   Loved her sniper scene - a commentary on how many American tourists are perceived. Saw the same behaviour at the 1976 Montreal Olympics.,0,0,Lt P,CXkUaaVrB_s,0.24,2018-08-08 22:29:36,False,True
+2018-08-09T02:30:19,Kunis is such a bad actress..yakkkkk,0,0,Teo Teo,CXkUaaVrB_s,-0.3499999999999999,2018-08-09 02:30:19,False,True
+2018-08-09T08:59:28,I just hope they didn't put all the good moments into trailer.,1,0,TheMara246,CXkUaaVrB_s,0.7,2018-08-09 08:59:28,False,True
+2018-08-09T15:59:45,Wtf they released now adays. :(,0,0,Waleed Vcboy,CXkUaaVrB_s,-0.625,2018-08-09 15:59:45,False,True
+2018-08-09T18:00:16,Meg from family guy is in this movie.,0,0,隆さぞれ,CXkUaaVrB_s,0.0,2018-08-09 18:00:16,False,True
+2018-08-10T04:57:17,"I just didn't like it. It all feels like the same unoriginal trash, pretty sure I saw this move already twice, once with jackie chan and chris rock and another time with eddie murpey and owen wilson. This is getting to be pathetic, you people are paid to sit and think up movie scripts and ideas and you keep recycling the same bullshit over and over and over. For shits sake the force awakens was almost a shot for shot remake of the original, that's not clever or good film making, it's lazy bullshit and so is this movie.",0,0,kbforme,CXkUaaVrB_s,0.029166666666666674,2018-08-10 04:57:17,False,True
+2018-08-10T04:58:30,awesome,1,0,Lisa Raina,CXkUaaVrB_s,1.0,2018-08-10 04:58:30,False,True
+2018-08-10T05:42:18,Here because of the song 😍 work bitch by Britney Spears,0,0,L Hb,CXkUaaVrB_s,0.0,2018-08-10 05:42:18,False,True
+2018-08-10T07:34:09,I am SOOO disappointed. by the pictures I thought they were lesbians. nope hets,2,0,sourasoura ',CXkUaaVrB_s,-0.75,2018-08-10 07:34:09,False,True
+2018-08-10T09:25:32,funny to see the streets of Budapest (Hungary) with foreign number plated cars to give the feeling for the viewer it is a different European country :)))))),1,0,Sandor Haranghy,CXkUaaVrB_s,0.125,2018-08-10 09:25:32,False,True
+2018-08-10T15:00:07,They literally showed like 15 spoilers in 30 seconds. I’m gonna stop watching this trailer now…,1,0,galetaf,CXkUaaVrB_s,0.0,2018-08-10 15:00:07,False,True
+2018-08-10T19:20:45,this movie looks funny and i adore mila kunia and kate but ima be honest....im mainly watching just to see a clip of my girl gillian anderson (aka special agent scully!),0,0,ً madison,CXkUaaVrB_s,0.28769841269841273,2018-08-10 19:20:45,False,True
+2018-08-10T22:09:56,Cringe,0,0,600firefly1,CXkUaaVrB_s,0.0,2018-08-10 22:09:56,False,True
+2018-08-10T23:04:55,0:36😂😂,0,0,Esther A,CXkUaaVrB_s,0.0,2018-08-10 23:04:55,False,True
+2018-08-11T00:22:43,Another dumbed down rubbish 4 the mind movie.,0,0,Why Bolo,CXkUaaVrB_s,-0.15555555555555559,2018-08-11 00:22:43,False,True
+2018-08-11T01:20:27,''why are those my only options''--MEG GRIFFIN  ...lol,0,0,David ben,CXkUaaVrB_s,0.0,2018-08-11 01:20:27,False,True
+2018-08-11T02:33:42,Oh my god I killed someone I killed someone! me: shut up meg.,1,0,iguana 91,CXkUaaVrB_s,-0.225,2018-08-11 02:33:42,False,True
+2018-08-11T03:35:25,I'm only here because Tmobile gave me a free ticket thru their Tmobile Tuesdays app,0,0,javier salazar,CXkUaaVrB_s,0.2,2018-08-11 03:35:25,False,True
+2018-08-11T05:45:53,Soccer-mom getting street credit. This might be a decent movie. I'll watch it,0,0,Randy NoLastName,CXkUaaVrB_s,0.16666666666666666,2018-08-11 05:45:53,False,True
+2018-08-11T07:00:45,I have got a free ticket should I go and watch this tomorrow?,0,0,Eli Sst,CXkUaaVrB_s,0.4,2018-08-11 07:00:45,False,True
+2018-08-11T09:25:12,This was an awesome movie. It’s fantastic.,0,0,Charlo,CXkUaaVrB_s,0.7,2018-08-11 09:25:12,False,True
+2018-08-11T12:24:59,Jamie from the Outlander❤️,0,0,Alima G,CXkUaaVrB_s,0.0,2018-08-11 12:24:59,False,True
+2018-08-11T16:35:15,OMG it's so good! I think it's the best movie of the year.,0,2,Elaine Morrison,CXkUaaVrB_s,0.9375,2018-08-11 16:35:15,False,True
+2018-08-11T23:00:04,"""Oh GoD jEsUs WhAt HaPpEnEd""",0,0,Blue Xx,CXkUaaVrB_s,0.0,2018-08-11 23:00:04,False,True
+2018-08-12T10:36:16,Holy crap was this movie terrible.,0,0,tdolz,CXkUaaVrB_s,-0.9,2018-08-12 10:36:16,False,True
+2018-08-12T15:52:50,"I saw The Spy Who Dumped Me this weekend. I also saw The Meg and saw this one as my second choice. I wasn’t too thrilled to see it but I only go if there’s at least 2 new movies I want to see a lot or appear like I can tolerate seeing. Anyways, I didn’t have high expectations going in because I thought the previews were just ok and the name of the movie didn’t catch my eye at first. I get like that with movie previews sometimes where I’m like I don’t know about this one even if the movie has some of my favorite actors. I was pleasantly surprised!!! I LOVED this movie. It was very funny, action packed, and the actors had great chemistry. There were some twists I didn’t expect which was nice that it wasn’t too predictable. I see the movie had made about 13 million before some of this weekends earnings came in and now its gone up to almost 25 million of a 40 million budget. I hope it makes all of its money back and then some. People should give it a chance! I thought it was going to be cringe bad based on the previews but was surprised like I was with Ocean’s 8. I thought that one was going to be silly but enjoyed it. The Spy Who Dumped Me is one of my favorite comedies and female led action movies of the year. I would actually watch it again multiple times. Definitely has originality in the plot and dialogue. Yay for Mila and Kate!!! 😘🎉",0,0,ResilientRose,CXkUaaVrB_s,0.16172874579124577,2018-08-12 15:52:50,False,True
+2018-08-12T18:57:35,Such a funny movie,0,0,ss93_,CXkUaaVrB_s,0.125,2018-08-12 18:57:35,False,True
+2018-08-12T20:13:21,I will watch it only for Kate The other jew bitch jupiter slut i hate her,0,0,TheRaziel07,CXkUaaVrB_s,-0.30833333333333335,2018-08-12 20:13:21,False,True
+2018-08-12T21:52:47,"This film looks kinda shite, style over substance - i've got tickets to the advanced screening and think i'm gonna give it a miss",0,0,Chanoey333,CXkUaaVrB_s,0.4,2018-08-12 21:52:47,False,True
+2018-08-13T00:39:39,Love Mila Kunis! Bad Mom's was funny!,0,0,LiveLaughandLove06,CXkUaaVrB_s,0.07916666666666672,2018-08-13 00:39:39,False,True
+2018-08-13T03:03:38,"Just saw it in theaters, if you’re looking for a funny af film then go see it yourself!",0,0,Gabby,CXkUaaVrB_s,0.3125,2018-08-13 03:03:38,False,True
+2018-08-13T03:35:39,"This looks great, but did I just see the whole movie in fast-forward?  I will see because Kate + Purple Glittery Pantsuit.",1,1,Hanon Ondricek,CXkUaaVrB_s,0.5,2018-08-13 03:35:39,False,True
+2018-08-13T05:30:08,Shut up Meg.,0,0,Justin and Vimala Joseph,CXkUaaVrB_s,0.0,2018-08-13 05:30:08,False,True
+2018-08-13T09:25:14,"... Well Kunis is pretty, but she is not funny. McKinnon is not pretty but she is also not funny. So.. yea... kthnxbye",0,0,Aspros Tragos,CXkUaaVrB_s,-0.03125,2018-08-13 09:25:14,False,True
+2018-08-13T13:46:08,Yes 👍 o GOD WHAT HAPPENED 💖SPARKLE TWINKLE TWINKLE B#TCHs FUN,0,0,Rachel Valker,CXkUaaVrB_s,0.3,2018-08-13 13:46:08,False,True
+2018-08-14T06:21:02,"the difference between kate mckinnon and kristen wiig is that kristen is an actor also a sketch artist, kate is just a comic. Her acting in this movie is so discrete that i started to dislike her.",0,0,ABHAYJEET ABHAYJEET,CXkUaaVrB_s,0.125,2018-08-14 06:21:02,False,True
+2018-08-14T12:48:42,Mila Kunis must be struggling for work even Scully went in for a quick money grab,0,0,Realtalk Z,CXkUaaVrB_s,0.3333333333333333,2018-08-14 12:48:42,False,True
+2018-08-14T13:04:08,Jamie Alexander Frazier??,0,0,Favio,CXkUaaVrB_s,0.0,2018-08-14 13:04:08,False,True
+2018-08-14T17:45:01,It's online now,0,0,Scott Kuhn,CXkUaaVrB_s,0.0,2018-08-14 17:45:01,False,True
+2018-08-14T18:42:08,❤️😍😂,0,0,θξSAΩ ROδφ,CXkUaaVrB_s,0.0,2018-08-14 18:42:08,False,True
+2018-08-14T20:19:39,Just saw it.  I laughed out loud several times.  Kate McKinnon is a genuine TALENT.,1,0,Louis Anthes,CXkUaaVrB_s,0.3,2018-08-14 20:19:39,False,True
+2018-08-14T22:40:22,You don’t understand how excited I am for this holy shit,0,0,Angie Diana,CXkUaaVrB_s,0.0875,2018-08-14 22:40:22,False,True
+2018-08-15T04:09:40,keren is cool cool is keren,0,0,Bayu KemarenSore,CXkUaaVrB_s,0.35,2018-08-15 04:09:40,False,True
+2018-08-15T08:50:22,Another predictable piece of garbage from hollywood. Keep up the good work!,5,0,aidan mcnally,CXkUaaVrB_s,0.3375,2018-08-15 08:50:22,False,True
+2018-08-15T10:14:05,1:06 Meg Griffin,0,0,hamamedo,CXkUaaVrB_s,0.0,2018-08-15 10:14:05,False,True
+2018-08-15T14:06:23,That was the best movie I so recommend,0,0,Shannon G,CXkUaaVrB_s,1.0,2018-08-15 14:06:23,False,True
+2018-08-15T14:39:44,So happy hasans made it,0,0,Anto Joseph,CXkUaaVrB_s,0.8,2018-08-15 14:39:44,False,True
+2018-08-15T22:33:04,"I wached this movie and its so funny and good, sorry for my bad english",0,0,svastapo netu,CXkUaaVrB_s,-0.049999999999999975,2018-08-15 22:33:04,False,True
+2018-08-16T14:13:30,I was laughing so hard throughout all of this because the friendship between the two main characters reminds me so much of my friend and I,1,1,Starr Blue,CXkUaaVrB_s,0.024999999999999994,2018-08-16 14:13:30,False,True
+2018-08-17T01:16:51,Hasan brought me here,1,0,Rabia -,CXkUaaVrB_s,0.0,2018-08-17 01:16:51,False,True
+2018-08-17T01:32:04,HASAN MINHAJ  anyone?,2,0,Algerian Talk,CXkUaaVrB_s,0.0,2018-08-17 01:32:04,False,True
+2018-08-17T09:26:27,"Shut up, Meg. Oh, sorry.",0,0,Prince Righty I,CXkUaaVrB_s,-0.5,2018-08-17 09:26:27,False,True
+2018-08-17T11:48:50,cliche galore!,0,0,dejo095,CXkUaaVrB_s,0.0,2018-08-17 11:48:50,False,True
+2018-08-17T16:08:47,meg,0,0,allan shiflle,CXkUaaVrB_s,0.0,2018-08-17 16:08:47,False,True
+2018-08-17T17:43:41,This Bullsh!t movie won't even be close to getting a Golden Globe,0,0,Bryan Munoz,CXkUaaVrB_s,0.3,2018-08-17 17:43:41,False,True
+2018-08-18T09:36:39,I am so tired of seeing ads for this movie,0,0,Lee,CXkUaaVrB_s,-0.4,2018-08-18 09:36:39,False,True
+2018-08-18T15:42:41,Saw it yesterday. Was pleasantly surprised,0,0,Coline Bonnard,CXkUaaVrB_s,0.1,2018-08-18 15:42:41,False,True
+2018-08-18T15:56:37,Work bitch goes perfectly with this,0,0,Zachery Combs,CXkUaaVrB_s,1.0,2018-08-18 15:56:37,False,True
+2018-08-18T19:48:14,This movie sucked so much it made my balls hurt.👎,0,0,Roger Rodrz.,CXkUaaVrB_s,0.2,2018-08-18 19:48:14,False,True
+2018-08-18T21:15:15,I’m watching movie today 😂😂,0,0,Yes,CXkUaaVrB_s,0.0,2018-08-18 21:15:15,False,True
+2018-08-18T21:47:09,"Ugh yet another cringy, unfunny feminazi film.... ¬_¬",0,0,TJ,CXkUaaVrB_s,0.0,2018-08-18 21:47:09,False,True
+2018-08-19T01:18:47,Shut up Meg,0,0,nunchuck Chuck,CXkUaaVrB_s,0.0,2018-08-19 01:18:47,False,True
+2018-08-19T02:24:21,The best scene was when McKinnon got kicked in the mouth.,0,0,Ted Cantu,CXkUaaVrB_s,1.0,2018-08-19 02:24:21,False,True
+2018-08-19T03:28:48,I’m here for Sam Heughan,0,0,lada dracula,CXkUaaVrB_s,0.0,2018-08-19 03:28:48,False,True
+2018-08-19T05:38:39,Awesome movie just finished watching it,1,0,Ronni _,CXkUaaVrB_s,1.0,2018-08-19 05:38:39,False,True
+2018-08-19T07:25:47,Love this movie !!👍🏻👍🏻😉,0,0,Elsa Blair-Salerno,CXkUaaVrB_s,0.78125,2018-08-19 07:25:47,False,True
+2018-08-19T16:54:54,Might head to see it after work in alittle while. Is it funny and worth it?,0,0,Jeffrey Meeks,CXkUaaVrB_s,0.275,2018-08-19 16:54:54,False,True
+2018-08-19T16:58:14,atleast they got the woman driving part right,0,0,stephababe2007 2007,CXkUaaVrB_s,0.2857142857142857,2018-08-19 16:58:14,False,True
+2018-08-19T17:11:20,"i saw the movie with my mother and let me tell you, my mom and i could not stop laughing throughout the entire movie. Fun fact: She got popcorn stuck in her throat because of the evil guy's cock. (fun scene - Only people who have seen the movie would understand)",2,0,JuiceDancing!,CXkUaaVrB_s,-0.07999999999999999,2018-08-19 17:11:20,False,True
+2018-08-19T20:20:38,I really enjoyed the movie 😅 so funny,0,0,amona talaat,CXkUaaVrB_s,0.375,2018-08-19 20:20:38,False,True
+2018-08-19T23:31:02,I cannot believe you guys took it from the cinemas in India too soon! Now I have to wait long to watch it,0,0,Naomi Paul,CXkUaaVrB_s,-0.05,2018-08-19 23:31:02,False,True
+2018-08-20T06:24:56,Shut up meg.,0,0,Jeungri Oppa,CXkUaaVrB_s,0.0,2018-08-20 06:24:56,False,True
+2018-08-21T12:48:30,"""that is Beyonce of government"" was just..... Hshdjdksl.... 😂😂",0,0,nijah,CXkUaaVrB_s,0.0,2018-08-21 12:48:30,False,True
+2018-08-22T05:36:16,this was good 10/10,0,0,qrosieq,CXkUaaVrB_s,0.7,2018-08-22 05:36:16,False,True
+2018-08-22T09:44:47,OMG Kate got to work with SCULLYYYY her idol!!!,1,1,Lunako 1111,CXkUaaVrB_s,0.0,2018-08-22 09:44:47,False,True
+2018-08-23T01:48:59,IS THAT AVICII?????,0,0,Ki Parvizi,CXkUaaVrB_s,0.0,2018-08-23 01:48:59,False,True
+2018-08-23T04:38:14,"Does anyone know, what specific model is this silver/chromium painted car? Watched the movie 2 days ago, it was fun :)",0,0,Siwy65915,CXkUaaVrB_s,0.26666666666666666,2018-08-23 04:38:14,False,True
+2018-08-23T07:06:28,I want to see this,0,0,Winnie Zaloumis,CXkUaaVrB_s,0.0,2018-08-23 07:06:28,False,True
+2018-08-23T12:16:18,was that actually a trailer for a trailer?,0,0,Zac L.,CXkUaaVrB_s,0.0,2018-08-23 12:16:18,False,True
+2018-08-23T14:25:59,More feminist bullshit. Its like Hollywood likes losing money. This shit will flop like Ghostbusters reboot.,0,0,carlo gambino,CXkUaaVrB_s,0.15,2018-08-23 14:25:59,False,True
+2018-08-23T19:31:31,"Just a small warning: this is NOT a chick flick, but an R rated film. With reason. Also a lot of humor, but still a good deal of gory violence.",0,1,Anneke Kramer,CXkUaaVrB_s,-0.01666666666666668,2018-08-23 19:31:31,False,True
+2018-08-23T20:07:55,I just watched this movie in......Józsefváros! :D,2,1,almaecet,CXkUaaVrB_s,1.0,2018-08-23 20:07:55,False,True
+2018-08-23T20:59:47,why didn't I notice they were filming in my hometown when its so small,0,0,Sophie Windisch,CXkUaaVrB_s,-0.25,2018-08-23 20:59:47,False,True
+2018-08-24T06:47:58,Watched it yesterday at the cinema n came here to remember What a great movie 😍❤️ The beyoncé of the gov is something 😂,0,0,Razan Kattoa,CXkUaaVrB_s,0.8,2018-08-24 06:47:58,False,True
+2018-08-24T14:47:58,The movie was great... Sam is hot AF and he looks like Alex Skarsgards twin brother... Even they have the same kind of voices...,0,0,vladulienka tridsattri,CXkUaaVrB_s,0.4125,2018-08-24 14:47:58,False,True
+2018-08-24T15:50:00,Just watched this movie on theatre !,0,0,little cat,CXkUaaVrB_s,0.0,2018-08-24 15:50:00,False,True
+2018-08-24T20:27:30,Haha don't care if its crap I need  to see this for Sam 😂,0,0,Eilidh MacGregor,CXkUaaVrB_s,-0.30000000000000004,2018-08-24 20:27:30,False,True
+2018-08-24T20:58:32,This looks awesome,0,0,Emily Sikora,CXkUaaVrB_s,1.0,2018-08-24 20:58:32,False,True
+2018-08-25T06:31:21,shut up meg,0,0,Siddharth Patidar,CXkUaaVrB_s,0.0,2018-08-25 06:31:21,False,True
+2018-08-25T07:15:30,Great movie.. No blackish even greater.. Come on black,0,0,ShiningOldTalent InTheHouse,CXkUaaVrB_s,0.37777777777777777,2018-08-25 07:15:30,False,True
+2018-08-25T09:57:51,You better work bitch... I love that song 💕 😁,0,0,Daniela K,CXkUaaVrB_s,0.5,2018-08-25 09:57:51,False,True
+2018-08-25T18:01:47,I wonder if anyone's going to think this is a sequel to Spy...,0,0,tygersflowerz,CXkUaaVrB_s,0.0,2018-08-25 18:01:47,False,True
+2018-08-25T22:25:22,"just watched the movie accidently (was going to watch incredibles 2, but there werent any tickets left). its so funny!! i was literally dying throughout the whole movie, would recommend that everyone should watch it",0,0,bonaffletit,CXkUaaVrB_s,0.196875,2018-08-25 22:25:22,False,True
+2018-08-26T03:45:21,Go to see it. It’s good,0,0,Yaell Urrunaga,CXkUaaVrB_s,0.7,2018-08-26 03:45:21,False,True
+2018-08-26T12:24:40,"I saw this movie yesterday and oddly liked it. It was hilarious which I wasn’t expecting, and anything with Kate McKinnon in it will always be average at worst. And I also thought Mila Kunis did a good job as the lead role, one couldn’t have done it without the other. They each had their moments, although Kate is the queen. Would recommend",1,0,Pump Up The Jam,CXkUaaVrB_s,0.08750000000000001,2018-08-26 12:24:40,False,True
+2018-08-26T15:10:53,Hahahah loved the movie!!😂😂😂,0,0,Male Isac,CXkUaaVrB_s,0.7,2018-08-26 15:10:53,False,True
+2018-08-26T18:04:02,Nice movie. I liked it ! Had a good laugh,0,0,Lukimw Hollow,CXkUaaVrB_s,0.5874999999999999,2018-08-26 18:04:02,False,True
+2018-08-27T01:37:22,Family guy meg Griffin,0,0,Ben Lynch,CXkUaaVrB_s,0.0,2018-08-27 01:37:22,False,True
+2018-08-27T09:44:47,Love the humour 😂,0,0,Bryan Corpuz,CXkUaaVrB_s,0.5,2018-08-27 09:44:47,False,True
+2018-08-27T15:15:59,Try watching a Mila Kunis movie without just hearing Meg from Family guy.,0,0,Tafara Maziriri,CXkUaaVrB_s,0.0,2018-08-27 15:15:59,False,True
+2018-08-27T16:40:15,"I was so looking forward to this being a lesbian James Bond parody rom com, but life is unfair",0,0,KonnichiBeaucoup,CXkUaaVrB_s,-0.5,2018-08-27 16:40:15,False,True
+2018-08-28T11:56:15,Shut up meg,0,0,Jimbo,CXkUaaVrB_s,0.0,2018-08-28 11:56:15,False,True
+2018-08-28T14:56:57,cringe,0,0,Abbass Nasserdin,CXkUaaVrB_s,0.0,2018-08-28 14:56:57,False,True
+2018-08-28T15:11:15,when i first saw the trailer on tv i thought maybe it was about two women who were in a previous relationship with each other and have to now try and work together and it got me interested then i learned it was about two friends and one of them was dumped by some dude .....then i was less interested.,0,0,Millie Ellen,CXkUaaVrB_s,0.04861111111111111,2018-08-28 15:11:15,False,True
+2018-08-28T16:48:22,Love the movie 😋,0,0,Renu Grg,CXkUaaVrB_s,0.5,2018-08-28 16:48:22,False,True
+2018-08-29T15:21:53,Age rating?,0,0,Posh Corpuz,CXkUaaVrB_s,0.0,2018-08-29 15:21:53,False,True
+2018-08-30T08:18:26,I saw the movie it was incredible,0,0,Ali Ghassan,CXkUaaVrB_s,0.9,2018-08-30 08:18:26,False,True
+2018-08-30T12:07:39,Movie would be generic crap without Kate.,0,0,Myth Detector,CXkUaaVrB_s,-0.4,2018-08-30 12:07:39,False,True
+2018-08-30T23:21:02,There was nothing funny in this trailer....,0,0,NKLA2222,CXkUaaVrB_s,0.25,2018-08-30 23:21:02,False,True
+2018-08-31T04:41:27,"Well, it's not too bad of being a spy if you get to dump them.",0,0,Business Purchase,CXkUaaVrB_s,-0.6999999999999998,2018-08-31 04:41:27,False,True
+2018-08-31T13:28:01,"oh, didin't expect sam heugan (outlander) to be here! :) came here for the laughs.",0,0,Kristin Yeorim,CXkUaaVrB_s,0.5,2018-08-31 13:28:01,False,True
+2018-08-31T20:22:19,I feel like Mila Kunis' latest movies just keep getting worse and worse until she's staring in the latest straight to netflix hallmark movie,0,0,Raven Stormcrowe,CXkUaaVrB_s,0.07999999999999999,2018-08-31 20:22:19,False,True
+2018-08-31T21:28:05,I just saw this today it is the best movies ever 10/10,0,0,Callum O'Leary,CXkUaaVrB_s,1.0,2018-08-31 21:28:05,False,True
+2018-08-31T22:46:56,Kev adams il et ou mdrrr ils ont respecté  le pauvre,0,0,rubii laxx,CXkUaaVrB_s,0.0,2018-08-31 22:46:56,False,True
+2018-09-01T13:15:31,Megg is that you ?😏,0,0,Hassan Niaz,CXkUaaVrB_s,0.0,2018-09-01 13:15:31,False,True
+2018-09-01T15:50:55,Sranje,1,1,Ajdinov Najveći Fan,CXkUaaVrB_s,0.0,2018-09-01 15:50:55,False,True
+2018-09-01T17:03:15,BRITNEY SPEARS-WORK BITCH,1,0,Perviz Hesenli,CXkUaaVrB_s,0.0,2018-09-01 17:03:15,False,True
+2018-09-01T17:05:05,WHO IS IT?,1,0,Perviz Hesenli,CXkUaaVrB_s,0.0,2018-09-01 17:05:05,False,True
+2018-09-01T17:13:38,Hasan minhaj 😍😍💖💖 yesssss,0,0,namra khan,CXkUaaVrB_s,0.0,2018-09-01 17:13:38,False,True
+2018-09-02T08:38:49,"I just saw this movie and it is really worth watching, it's so funny! Kate and Mila are the best",1,0,t Berge,CXkUaaVrB_s,0.5375,2018-09-02 08:38:49,False,True
+2018-09-02T12:42:41,This is in viennaa my homecountry,0,0,zoe alarcon,CXkUaaVrB_s,0.0,2018-09-02 12:42:41,False,True
+2018-09-03T01:16:57,Hannibal fans. I know you're there.,0,0,fizzy pop,CXkUaaVrB_s,0.0,2018-09-03 01:16:57,False,True
+2018-09-03T01:53:28,"Really? ""The Spy Who Dumped Me"".. How original. Haven't studios learned anything from the recent flops that were ""Ghostbusters"" and ""Ocean's 8"".",0,0,Spehmaster G.,CXkUaaVrB_s,0.19166666666666665,2018-09-03 01:53:28,False,True
+2018-09-03T20:15:13,I WATCHED THIS YESTERDAY AND IT WAS AMAZIIIING! I RECOMMEND YOU ALL WATCHING IT ASYDJXFC SO FUNNY,0,0,Miss Tuan,CXkUaaVrB_s,0.25,2018-09-03 20:15:13,False,True
+2018-09-04T08:00:03,I'm so not watching this,0,0,B Cute,CXkUaaVrB_s,0.0,2018-09-04 08:00:03,False,True
+2018-09-04T18:28:20,"Omg, Mila Kunis 💖",0,0,Domča Jelenčíková,CXkUaaVrB_s,0.0,2018-09-04 18:28:20,False,True
+2018-09-07T08:09:40,Is this better than Mission: Impossible – Fallout ?? :),0,0,Aquel Aquel,CXkUaaVrB_s,0.11111111111111112,2018-09-07 08:09:40,False,True
+2018-09-07T13:12:48,Yawn,0,0,Crispy K,CXkUaaVrB_s,0.0,2018-09-07 13:12:48,False,True
+2018-09-07T22:44:51,WORK WORK YOU BETTER WORK BITCH,1,0,Brandon Gamer,CXkUaaVrB_s,0.5,2018-09-07 22:44:51,False,True
+2018-09-07T23:00:37,i dont know looks like a movie for my asshole,0,0,ԋαɳʂ ωolʇ,CXkUaaVrB_s,0.0,2018-09-07 23:00:37,False,True
+2018-09-08T07:27:38,😌❤,0,0,Vanou,CXkUaaVrB_s,0.0,2018-09-08 07:27:38,False,True
+2018-09-08T17:51:19,Mila Kunis has been 30 years old for 15 years,0,0,david stanley,CXkUaaVrB_s,0.1,2018-09-08 17:51:19,False,True
+2018-09-11T10:15:03,Wtf is wrong with u people?!?!... This trailer is boring and not funny at all maybe the movie is better but still the trailer doesn’t make me wanna go & see it!,0,0,Israel Oved,CXkUaaVrB_s,-0.35625,2018-09-11 10:15:03,False,True
+2018-09-11T20:13:54,This needs another sequel,1,0,EllaJaneSite,CXkUaaVrB_s,0.0,2018-09-11 20:13:54,False,True
+2018-09-17T21:55:08,2018 Best movie of the year for me to cheer & that's just what I love to hear. Could never stop laughing my ass off during this at the Theater. This is a Map of The Zoo,1,0,John Garabedian,CXkUaaVrB_s,0.75,2018-09-17 21:55:08,False,True
+2018-09-19T08:47:01,"while has it's moments it's still one of the worse movies i've ever seen and most definitely Mila Kunis' worse movie, also morgan was supposed to come off as this nice friend who has no filter and talks a lot, i'm guessing she was supposed to be likable but just came off as really fucking annoying, i'd watch it if you're really bored and it comes out on netflix or hulu or something but don't spend any money on it, like i enjoyed Melissa McCarthy's spy wayyy more then this and i like these two a lot and don't like Melissa that much, that's saying something lol.  but credit is given when credit is due is pretty funny at times, just not enough to save it.",1,0,taifhamid1,CXkUaaVrB_s,0.1171875,2018-09-19 08:47:01,False,True
+2018-09-21T06:51:39,"0:52, he would not have been able to see that laser.",0,0,Henning Blaauw,CXkUaaVrB_s,0.5,2018-09-21 06:51:39,False,True
+2018-09-26T14:24:23,"Predictable, but I laughed so hard that I loved it",1,0,Suzana Kokavski,CXkUaaVrB_s,0.2270833333333333,2018-09-26 14:24:23,False,True
+2018-09-27T22:59:42,I would have never guessed that was Gillian A. until I read comments. She looks so different. And old,0,0,Sana Khan,CXkUaaVrB_s,0.05,2018-09-27 22:59:42,False,True
+2018-09-28T20:11:01,Here for Hasan minhaj,0,0,Nihal Habeeb,CXkUaaVrB_s,0.0,2018-09-28 20:11:01,False,True
+2018-09-29T05:09:25,Anyone else here because of Hasan Minhaj?,0,0,alys sa,CXkUaaVrB_s,0.0,2018-09-29 05:09:25,False,True
+2018-10-08T19:52:48,I am LIVING for Kate McKinnon's crush on Gillian Anderson,0,0,Maggie,CXkUaaVrB_s,0.0,2018-10-08 19:52:48,False,True
+2018-10-09T11:56:09,Shut up meg!,0,0,Elias Roxsed,CXkUaaVrB_s,0.0,2018-10-09 11:56:09,False,True
+2018-10-10T18:29:57,Who else here for Hasan Minhaj 😍♥️😎,0,0,Evelia,CXkUaaVrB_s,0.0,2018-10-10 18:29:57,False,True
+2018-10-11T12:45:41,I thought this was a Austin powers sequal when i looked at the title,0,0,Logixel Shift,CXkUaaVrB_s,0.0,2018-10-11 12:45:41,False,True
+2018-10-13T08:27:08,he's cute. I'd be up in that too.,0,0,Christian Galesias,CXkUaaVrB_s,0.5,2018-10-13 08:27:08,False,True
+2018-10-13T14:04:02,Getting good and stoned before watching this.,0,0,Cobra Kai,CXkUaaVrB_s,0.7,2018-10-13 14:04:02,False,True
+2018-10-13T15:04:57,Everyone knows why this movie will do great... Its not another SJW propaganda film that tells us Female is the future or Women are stronger. Its simply 2 mediocre women running around just trying to survive. Perfection,0,0,Jhn,CXkUaaVrB_s,0.040000000000000015,2018-10-13 15:04:57,False,True
+2018-10-13T17:54:49,Jessie J,0,0,Chris Tyno Amaba,CXkUaaVrB_s,0.0,2018-10-13 17:54:49,False,True
+2018-10-13T18:30:47,The spy who dumped IN me,1,0,prateik negi,CXkUaaVrB_s,0.0,2018-10-13 18:30:47,False,True
+2018-10-13T19:40:53,Cringy Af,0,0,2amFilms,CXkUaaVrB_s,0.0,2018-10-13 19:40:53,False,True
+2018-10-13T22:03:01,This is a good ass movie,0,0,DEAN,CXkUaaVrB_s,0.7,2018-10-13 22:03:01,False,True
+2018-10-14T00:10:40,A bit too feminist tbh l just watched it,0,0,Renald Music,CXkUaaVrB_s,0.0,2018-10-14 00:10:40,False,True
+2018-10-14T00:55:58,Straight to video.,0,0,shadowpawn,CXkUaaVrB_s,0.2,2018-10-14 00:55:58,False,True
+2018-10-14T04:20:22,this movie sucks real bad...dont wast your money,1,0,jeff pain,CXkUaaVrB_s,-0.04999999999999999,2018-10-14 04:20:22,False,True
+2018-10-15T00:05:35,Why are they so gorgeous men n women? I suddenly confuse my sexuality.,0,0,Reymos,CXkUaaVrB_s,0.35,2018-10-15 00:05:35,False,True
+2018-10-15T12:59:28,MILA KUNIS IS SO HOT🔥🔥 GIRL ON FIREEEEE,2,0,Tanya Shukla,CXkUaaVrB_s,0.0,2018-10-15 12:59:28,False,True
+2018-10-15T23:16:31,I just watched this on the firestick great movie,0,0,Charles DaGod,CXkUaaVrB_s,0.8,2018-10-15 23:16:31,False,True
+2018-10-15T23:23:37,Does anyone else notice how many times they say omg!? Over 7 times.,0,0,John Gannon,CXkUaaVrB_s,0.625,2018-10-15 23:23:37,False,True
+2018-10-15T23:53:47,Who else  watched the whole trailer  without  lathing once?,0,0,The Makeup Daddy,CXkUaaVrB_s,0.2,2018-10-15 23:53:47,False,True
+2018-10-16T03:55:07,I will watch this movie only for Mila,0,0,Parag Mahawar,CXkUaaVrB_s,0.0,2018-10-16 03:55:07,False,True
+2018-10-16T14:02:32,SHUT UP MEG !,0,0,xW1CK,CXkUaaVrB_s,0.0,2018-10-16 14:02:32,False,True
+2018-10-16T14:54:28,"Who is this Kate McKinnon? You are like the female version of Kevin Hart, tho white but awesome. I Like you.",0,0,Praise Isaac,CXkUaaVrB_s,0.3333333333333333,2018-10-16 14:54:28,False,True
+2018-10-17T04:54:59,"Mila & Kate.. Deliver, in this spy action comedy.👍",0,0,john sticks,CXkUaaVrB_s,0.1,2018-10-17 04:54:59,False,True
+2018-10-17T09:31:45,This was a teriyaki movie! I should have known from the title.,0,0,Sharon Quntai,CXkUaaVrB_s,0.0,2018-10-17 09:31:45,False,True
+2018-10-17T10:24:01,who the fuck dump mila kunis,1,0,Urang Tuai,CXkUaaVrB_s,-0.4,2018-10-17 10:24:01,False,True
+2018-10-17T10:42:49,"just watched the movie, sadly there's a lot of scene in this trailer that didnt make it to the movie",0,0,pranaja alterio,CXkUaaVrB_s,-0.5,2018-10-17 10:42:49,False,True
+2018-10-17T10:47:20,1:24. hope she's in good condition,0,0,Carlos Villarta,CXkUaaVrB_s,0.7,2018-10-17 10:47:20,False,True
+2018-10-17T11:24:50,"It should be called, an adventure with bff....",0,0,Ali Hoffman,CXkUaaVrB_s,0.0,2018-10-17 11:24:50,False,True
+2018-10-17T11:38:45,There's literally zero reason to Kate's role besides the few lines written for her. She's just the typical meh friend who gets dragged into it. There was nothing special about her. Could've been played by anyone else.,0,0,Stuff Of Horror,CXkUaaVrB_s,-0.003174603174603182,2018-10-17 11:38:45,False,True
+2018-10-17T23:08:27,Another stupid movie.,0,0,Smartthinker g,CXkUaaVrB_s,-0.7999999999999999,2018-10-17 23:08:27,False,True
+2018-10-18T00:04:43,I'm here for the part about where the drive is . Did she say the drive is in my butthole? Cause YouTube got the big gays and censored it.,0,0,CPJ 42,CXkUaaVrB_s,0.0,2018-10-18 00:04:43,False,True
+2018-10-18T01:12:05,Sam and his accent is everything,0,0,Alex Travel,CXkUaaVrB_s,0.0,2018-10-18 01:12:05,False,True
+2018-10-18T02:35:51,unfortunately this film wasn't good or funny & I really wanted it to be.,0,0,hm14,CXkUaaVrB_s,0.16249999999999998,2018-10-18 02:35:51,False,True
+2018-10-18T06:57:21,only mila makes this worth a worth for the guys at least,0,0,Salem Saberhagen,CXkUaaVrB_s,0.075,2018-10-18 06:57:21,False,True
+2018-10-18T07:21:30,"cheesy.. so obvious that they're trying so hard to be funny, when they're not.",0,0,Hankaa Ineffvble,CXkUaaVrB_s,-0.13541666666666669,2018-10-18 07:21:30,False,True
+2018-10-18T10:50:51,"I tough this is action-comedy but it is just another piece of shit, all female cast, feminist garbage.",0,0,Samuli Latvala,CXkUaaVrB_s,-0.1962962962962963,2018-10-18 10:50:51,False,True
+2018-10-18T12:44:34,yeah JACKIE BURKHART,0,0,Ditas Moon,CXkUaaVrB_s,0.0,2018-10-18 12:44:34,False,True
+2018-10-18T13:49:09,Hmm one of those C rate movies,0,0,Asahel,CXkUaaVrB_s,0.0,2018-10-18 13:49:09,False,True
+2018-10-18T13:51:32,Gillian couldve been outstanding as Cersei Lannister.,0,0,Asahel,CXkUaaVrB_s,0.5,2018-10-18 13:51:32,False,True
+2018-10-18T15:42:11,I liked it when they dumped that indian in the water. So annoying guy,0,0,Jorge pagan,CXkUaaVrB_s,-0.10000000000000003,2018-10-18 15:42:11,False,True
+2018-10-18T18:23:53,The Spy Who Dumped Me (2018) - Free Download BluRay Movie 1080p English - https://newmovies-hd.info/the-spy-who-dumped-me/,1,0,Vyacheslav Bulatkin,CXkUaaVrB_s,0.2,2018-10-18 18:23:53,False,True
+2018-10-18T19:22:45,Sorry but MIlla is ugly in this movie...,0,0,Miro jka,CXkUaaVrB_s,-0.6,2018-10-18 19:22:45,False,True
+2018-10-18T21:46:17,👑👑,0,0,Jo Jo,CXkUaaVrB_s,0.0,2018-10-18 21:46:17,False,True
+2018-10-19T01:50:44,This movie is SO UNFUNNY.!,0,0,Vulcaneer900,CXkUaaVrB_s,0.0,2018-10-19 01:50:44,False,True
+2018-10-19T02:27:47,"But really, who's the fool going to dump Mila Kunis?",0,0,Cak Redi,CXkUaaVrB_s,0.2,2018-10-19 02:27:47,False,True
+2018-10-19T10:25:53,SHUTUP MEG!,0,0,Morgan Blood,CXkUaaVrB_s,0.0,2018-10-19 10:25:53,False,True
+2018-10-19T12:18:02,"Who lied to her, She look more like 40 then 30....",0,0,Oscar Calixto,CXkUaaVrB_s,0.5,2018-10-19 12:18:02,False,True
+2018-10-19T13:45:16,I'm here because of Sammmmm,0,0,Yael Bonfis,CXkUaaVrB_s,0.0,2018-10-19 13:45:16,False,True
+2018-10-19T14:03:42,"""im 30 years old ""  LOL best joke........",0,0,john vera,CXkUaaVrB_s,0.6333333333333333,2018-10-19 14:03:42,False,True
+2018-10-19T15:55:41,"great Star with bad movie.... whats happening  here....  motorcycle chase and gets hit by a moving truck and off screen and car, then, it suddenly re appear on front of the car??? ...",0,0,n0ypi1,CXkUaaVrB_s,0.0333333333333334,2018-10-19 15:55:41,False,True
+2018-10-19T17:14:56,Literally the worst movie I've ever seen,0,0,Ara Ara,CXkUaaVrB_s,-1.0,2018-10-19 17:14:56,False,True
+2018-10-19T18:05:37,IT IS FOR REAL AN AMAZING MOVIE,0,0,Mary Mukamb,CXkUaaVrB_s,0.9000000000000001,2018-10-19 18:05:37,False,True
+2018-10-19T18:51:19,I saw my country name and I was so happy. Just couple seconds of fame😂LITHUANIA,0,0,Nora ph0t0graphy_zero,CXkUaaVrB_s,0.8,2018-10-19 18:51:19,False,True
+2018-10-19T21:39:02,This is one of the funniest films I've seen in a long time. Just watched it with my sister and we laughed so much. Kate is hilarious and Sam is such a BABE!!! (Didn't know who he was before seeing him in this.) WATCH IT!!! :D,0,0,CocoPops,CXkUaaVrB_s,0.3916666666666666,2018-10-19 21:39:02,False,True
+2018-10-19T23:51:25,Great movie 👌🏽👌🏽👌🏽,0,0,מאיה ליגלם,CXkUaaVrB_s,0.8,2018-10-19 23:51:25,False,True
+2018-10-20T02:08:30,looks stupid id much rather watch the spy who shagged me for the 50th time,1,0,RedX,CXkUaaVrB_s,-0.29999999999999993,2018-10-20 02:08:30,False,True
+2018-10-20T02:39:35,It dint make me laugh. I think I'm dead on the  inside.,0,1,punky,CXkUaaVrB_s,0.04999999999999999,2018-10-20 02:39:35,False,True
+2018-10-20T03:17:37,"this movie was hands down the worst movie I've seen in 2018 and after oceans 8 I didn't think this was even possible. it was straight up the most generic and predictable story line, I mean I NEVER would have guessed that shitty McFlashback could possibly be the bad guy, what an incredible plot twist, pure GENIOUS who wrote this. And the COMEDY? THE COMEDY? WOW! Between the vagina jokes, the screaming in every other scene and the drawn out parts with absolutely no weight or value to the plot or character just to put in the flattest lines they could find (such as ""I smoked so much meth before"", absolutely the most Austrian and funny thing they could have said there), I'm flabbergasted how this got anything above a 5 on IMDB, but maybe that's the joke? Shame Lionsgate, you used to publish better written movies than this half-assed script. If I had watched this movie in theaters, I would have left half-way through and demanded my money back, too bad I didn't because all I have now is a wasted 2hrs that I can't get back at all. if a combination of all spy movies with absolutely no originality added to it is a good movie, then this is a masterpiece.  unoriginal, predictable, lazy. 2/8 would not recommend to watch.",0,0,Speedow,CXkUaaVrB_s,0.0014446924603174621,2018-10-20 03:17:37,False,True
+2018-10-20T05:06:02,Stupid movie good for guilty pleasure only,1,0,Paprika Namjin,CXkUaaVrB_s,-0.15,2018-10-20 05:06:02,False,True
+2018-10-20T09:23:46,I Fucking died when I watched this😂,0,0,cat,CXkUaaVrB_s,-0.6,2018-10-20 09:23:46,False,True
+2018-10-20T12:00:18,Shut up Meg!,0,0,Prince Shaks,CXkUaaVrB_s,0.0,2018-10-20 12:00:18,False,True
+2018-10-20T12:24:00,They look like aliens in the thumbnail...... too much botox or somethin?,0,0,Rambo 919,CXkUaaVrB_s,0.2,2018-10-20 12:24:00,False,True
+2018-10-20T17:36:02,I know you are spy ...  you just broke the spy code that's what bring you here for this video,1,0,Naulo Sanchar,CXkUaaVrB_s,0.0,2018-10-20 17:36:02,False,True
+2018-10-20T17:42:02,Annoying load of rubbish.  Not convinced!  I will pass,0,0,welshdragon2008,CXkUaaVrB_s,-1.0,2018-10-20 17:42:02,False,True
+2018-10-20T19:31:54,this what i need action and C.I.I,0,0,TNT MEKKI,CXkUaaVrB_s,0.1,2018-10-20 19:31:54,False,True
+2018-10-20T20:16:26,Kate mckinnon ❤️is lub,0,0,Sriraj Silla,CXkUaaVrB_s,0.0,2018-10-20 20:16:26,False,True
+2018-10-20T22:00:28,Wow what a movie. Totally recommend IT ⭐⭐⭐⭐,0,0,Claudia Citera,CXkUaaVrB_s,0.05,2018-10-20 22:00:28,False,True
+2018-10-21T00:57:03,Mila kunis looks really old in this one,0,0,_____,CXkUaaVrB_s,0.1,2018-10-21 00:57:03,False,True
+2018-10-21T12:01:23,Shut up Meg,0,0,Why have you subscribed?,CXkUaaVrB_s,0.0,2018-10-21 12:01:23,False,True
+2018-10-21T13:53:30,"i love mila kunis,,,,,,,fire",0,0,SALMAN AHMAD,CXkUaaVrB_s,0.5,2018-10-21 13:53:30,False,True
+2018-10-21T14:51:47,O,0,0,Christer Cumpio,CXkUaaVrB_s,0.0,2018-10-21 14:51:47,False,True
+2018-10-21T17:52:37,Fcking assholes depicted lithuania as a poor 3rd world country wich is disgracefull...,0,0,wajietaus,CXkUaaVrB_s,-0.2,2018-10-21 17:52:37,False,True
+2018-10-22T10:07:54,I just watched this movie n i have never laughed so hard b4,0,0,Nicole Kok,CXkUaaVrB_s,-0.3208333333333333,2018-10-22 10:07:54,False,True
+2018-10-22T10:27:50,"Another 'so unfunny you'll cringe' performance from McKinnon,  yet again she is about as comical as a burning orphanage. I don't know who she blows daily to get these parts,  she devoid of Talent,  she trys soo hard to be something she is not, that she actually drains the amusement from any lines/scenes she is given.",0,0,Boony,CXkUaaVrB_s,0.021666666666666667,2018-10-22 10:27:50,False,True
+2018-10-22T14:58:02,It’s funny how America puts a blond in every movie LIKE IF THEY WERE FILLING S RACIAL GAP by DOING SO....🤦🏿‍♂️,0,0,Conquerir Le Monde,CXkUaaVrB_s,0.25,2018-10-22 14:58:02,False,True
+2018-10-22T15:45:22,"This movie was amazing, hilarious and perfect. Literally the only movie that has made me laugh so much in the longest while!",1,0,blehblehbleh,CXkUaaVrB_s,0.44166666666666665,2018-10-22 15:45:22,False,True
+2018-10-22T18:44:08,"Ivanna Sakhno rocked it, you can see her best scene here: https://www.youtube.com/watch?v=ShQsvQQiOhA&t=1s",0,0,Serena Joy,CXkUaaVrB_s,1.0,2018-10-22 18:44:08,False,True
+2018-10-22T19:20:30,The action in this movie is craaaaazy,0,0,Albert Eshun,CXkUaaVrB_s,0.1,2018-10-22 19:20:30,False,True
+2018-10-22T20:15:50,Hey meg you're movie sucked.   Sincerely not your dad. Peter Griffin,0,0,Ghost Protocol,CXkUaaVrB_s,-0.25,2018-10-22 20:15:50,False,True
+2018-10-22T20:45:13,if this isnt another movie pushing sjw views like male bashing then i wiil actually enjoy this,0,0,Dave Charette,CXkUaaVrB_s,0.2,2018-10-22 20:45:13,False,True
+2018-10-23T07:41:18,Does not really matter but in movie Lithuania is depicted like some first world war era Russian refuge camp...  I am Lithuanian and... you guys fucked up with your stereotypes!  No girl would be selling stuff at the market or lowering prices.... It would be a huge fat lady driving up prices in hilarious broken accent also none of the things in the scenes would be up for sale... I wanted a food fight! #getYourSteriotypesRight ! just lazy work very lazy,0,0,Povilas Sidaravičius,CXkUaaVrB_s,-0.09999999999999999,2018-10-23 07:41:18,False,True
+2018-10-23T10:02:16,*Mila Kunis is the reason I give excessive milk from my dick*,1,0,Vitalstatistix Stats,CXkUaaVrB_s,-0.25,2018-10-23 10:02:16,False,True
+2018-10-23T12:37:03,"Well, just watched the movie....hilarious to watch both Mila Kunis and Kate Mckinnon and their chemistry is awesome.",0,0,Vengatesh vegetio,CXkUaaVrB_s,1.0,2018-10-23 12:37:03,False,True
+2018-10-23T16:53:06,idk why she had to cut the finger? cant you just go into the setting and delete finger print?,0,0,shivam trivedi,CXkUaaVrB_s,0.0,2018-10-23 16:53:06,False,True
+2018-10-24T01:46:07,🔥🔥🔥🔥🔥,0,0,noppe nah,CXkUaaVrB_s,0.0,2018-10-24 01:46:07,False,True
+2018-10-24T09:14:22,she is getting old now -__-,0,0,Awan Putranto,CXkUaaVrB_s,0.1,2018-10-24 09:14:22,False,True
+2018-10-24T19:26:06,one of the worst movie i have ever seen :/,0,0,Atanu Sarkar,CXkUaaVrB_s,-0.625,2018-10-24 19:26:06,False,True
+2018-10-25T06:10:37,feminism at its best. Shit of a movie..,0,0,david de costa,CXkUaaVrB_s,0.4,2018-10-25 06:10:37,False,True
+2018-10-25T09:15:19,I'm here because of Szabadszallas! :D It's a silly little movie for one afternoon when you feel bored.,0,0,dONALD42,CXkUaaVrB_s,-0.046875,2018-10-25 09:15:19,False,True
+2018-10-25T13:29:48,so meg griffin is a spy now !,1,0,reko sama,CXkUaaVrB_s,0.0,2018-10-25 13:29:48,False,True
+2018-10-25T16:26:38,1:06 Shut Up Meg!,0,0,Blue_HD,CXkUaaVrB_s,0.0,2018-10-25 16:26:38,False,True
+2018-10-25T17:50:04,What the song?  (Opening movie),0,1,GREAT BUILD MOBILE LEGEND,CXkUaaVrB_s,0.0,2018-10-25 17:50:04,False,True
+2018-10-25T19:54:44,He saw the red light in his forehead,0,0,Dan Max,CXkUaaVrB_s,0.2,2018-10-25 19:54:44,False,True
+2018-10-25T22:21:40,"i watched the movie just now, it was great!",0,0,Dionysia L.,CXkUaaVrB_s,1.0,2018-10-25 22:21:40,False,True
+2018-10-26T16:03:22,im gay,1,0,Zayed Islam,CXkUaaVrB_s,0.4166666666666667,2018-10-26 16:03:22,False,True
+2018-10-27T15:35:02,its a trash.,0,0,Don Sarceno,CXkUaaVrB_s,0.0,2018-10-27 15:35:02,False,True
+2018-10-27T18:55:54,refuse to watch any movie with kate mckinnon.,0,0,Robert Johansson,CXkUaaVrB_s,0.0,2018-10-27 18:55:54,False,True
+2018-10-29T21:50:42,I LOVED THIS MOVIE,0,0,Alien from area 51,CXkUaaVrB_s,0.7,2018-10-29 21:50:42,False,True
+2018-10-30T14:38:51,a estados unidos ya se les seco el cerebro. no saben que hacer de peliculas.,0,0,Eric Torres,CXkUaaVrB_s,0.0,2018-10-30 14:38:51,False,True
+2018-10-31T22:47:13,Most dialogues are corny and jokes are dumb. Really bad.  Action scenes are OK,0,0,Low Land,CXkUaaVrB_s,0.005000000000000027,2018-10-31 22:47:13,False,True
+2018-11-01T01:32:34,Fucl this movie,0,0,Boxing4Life,CXkUaaVrB_s,0.0,2018-11-01 01:32:34,False,False
+2018-11-02T02:43:39,Meg griffin from family guy lol,1,0,Kwae Say,CXkUaaVrB_s,0.8,2018-11-02 02:43:39,False,False
+2018-11-02T12:53:21,I find it hard to take Kate seriously after watching her snl skits,0,0,Riko Mizoguchi,CXkUaaVrB_s,-0.3125,2018-11-02 12:53:21,False,False
+2018-11-02T22:40:35,I'm in love with Mila Kunis but I don't think my wife knows about it.,0,0,Logan Gomez,CXkUaaVrB_s,0.5,2018-11-02 22:40:35,False,False
+2018-11-03T03:56:13,they don't even kiss.,0,0,epek proportions,CXkUaaVrB_s,0.0,2018-11-03 03:56:13,False,False
+2018-11-03T18:07:58,English spy movie latest,0,0,Violet Kenny,CXkUaaVrB_s,0.25,2018-11-03 18:07:58,False,False
+2018-11-04T05:57:06,"The SLY who pumped me...an adult film with Kunis.  And she's going to end the film saying: ""it's allkweel ...ick* no its alchoooooooool that is all cool, don't get me wrong!!!!!""...rofl",0,0,Ramses Vasquez,CXkUaaVrB_s,-0.18333333333333335,2018-11-04 05:57:06,False,False
+2018-11-04T14:27:21,Nice 👍 movie 🍿 I so much lol 😂😂😂😂 til the end,0,0,TK Savage,CXkUaaVrB_s,0.7,2018-11-04 14:27:21,False,False
+2018-11-07T19:40:55,loved this movie. great chemistry between mila and kate. hope there is a sequel.,6,0,challenger william,CXkUaaVrB_s,0.75,2018-11-07 19:40:55,False,False
+2018-11-08T07:35:26,This was literally one of the funniest and most entertaining movies i ever watched!😂😂😂,0,0,Maame Efia,CXkUaaVrB_s,0.5,2018-11-08 07:35:26,False,False
+2018-11-09T13:11:51,Why the fuck Lithuania is represented as they still would live in soviet union...,0,0,Rūta P,CXkUaaVrB_s,-0.13181818181818183,2018-11-09 13:11:51,False,False
+2018-11-10T00:51:04,YOU HAVE TO ȘEE THIS MOVIE! I laughed so many times :)),1,0,mary 21o,CXkUaaVrB_s,0.5666666666666667,2018-11-10 00:51:04,False,False
+2018-11-10T16:58:34,"Oh yes they were great in that movie, both of them were amazing actors 👍",0,0,Sandra Larsson,CXkUaaVrB_s,0.7000000000000001,2018-11-10 16:58:34,False,False
+2018-11-11T07:51:40,i so love the movie hahaha,1,0,Jairee Lauganas,CXkUaaVrB_s,0.35,2018-11-11 07:51:40,False,False
+2018-11-12T11:40:20,"I faithfully declare that scenario of this movie is full of modern(2018)-cold-war stinky shit. I can prove my words. There is one beautiful moment in the movie, approx. between 19:00 and 21:00, when Audrey and Morgan drive in a car and talk about any safe place for hiding from the persuit. After Sebastian's call Morgan asks Audrey:""You trust me there, alright?"" Audrey:""Yes, of course, I trust you. You don't count."" Morgan:""Ok, good, because this is not some fake spy friendship that the russians put together"". This phrase was about killing Drew by another agent (or some kind of bandit, who has awful acsent in russian language ""Do svidania, Drew"", like he has a hot potato in his mouth), who introdused himself in bar earlier as a guy from Ukraine. So, my question is: why did Morgan mentioned ""fake spy friendship between russian spies"" instead of ""fake spy friendship between ukrainian spies""? I will suppose the second reason for this: Mila Kunis was born in Ukraine and the scenario was also adopted for her participation. And the first reason is, for sure, the influence of emotional trace of the Modern Cold War. Greetings from Russia.",0,0,PuckoBblu,CXkUaaVrB_s,0.06666666666666668,2018-11-12 11:40:20,False,False
+2018-11-13T04:55:50,Sam Heughan 💋,0,0,Ms. Army,CXkUaaVrB_s,0.0,2018-11-13 04:55:50,False,False
+2018-11-14T03:37:29,This movie is actually funny. 👍,0,0,Franklin,CXkUaaVrB_s,0.25,2018-11-14 03:37:29,False,False
+2018-11-17T21:23:22,I'm sure that scene when they hug while police go by is deleted cause I've seen it second to second,1,0,aya آية,CXkUaaVrB_s,0.16666666666666666,2018-11-17 21:23:22,False,False
+2018-11-17T23:25:51,Broo the movie is so good well I don't like the thumb stuff but im begging for the spy who dumbed me 2,0,0,lovely _looo,CXkUaaVrB_s,0.7,2018-11-17 23:25:51,False,False
+2018-11-21T10:16:44,Shut up Meg!,0,0,Frangulea Robert,CXkUaaVrB_s,0.0,2018-11-21 10:16:44,False,False
+2018-11-21T18:35:25,Is it just me is Kate McKinnon the most stupid person in the planet,0,0,Luis Vargas,CXkUaaVrB_s,-0.14999999999999997,2018-11-21 18:35:25,False,False
+2018-11-23T10:50:40,Which song is this?  In entire trailer,0,0,Subhan Tariq,CXkUaaVrB_s,0.0,2018-11-23 10:50:40,False,False
+2018-11-23T11:31:41,Loved this movie. 😂😃,0,0,Michael Kutu,CXkUaaVrB_s,0.7,2018-11-23 11:31:41,False,False
+2018-11-23T11:33:24,Can't wait for the sequel!!!!,0,0,Michael Kutu,CXkUaaVrB_s,0.0,2018-11-23 11:33:24,False,False
+2018-11-23T22:43:55,"This is the Best Film to showcase real Feminism. Everything that requires skill is done by the men, while the women just fumble or dumb luck through the situation. From the Cafe where the agent does all the fighting, uber driver because the girls can't drive a stick shift, etc etc etc.....Then at some point the women try to take credit/self affirmation for surviving. Best part it's right in front of their faces and don't/can't even see it. truly funny film.....although attempting to do both front and rear male nudity was diffidently pushing it.",0,0,Russell McCord,CXkUaaVrB_s,0.2700892857142857,2018-11-23 22:43:55,False,False
+2018-11-25T10:12:11,"This is one of those movies when the trailer is better than an actual movie. It's not funny at all, I was just waiting for it to end... the story isn't really interesting and that girl Morgan is so annoying.. this was a huge dissapointment",0,0,kryptonitegirl8,CXkUaaVrB_s,0.07916666666666668,2018-11-25 10:12:11,False,False
+2018-11-26T19:18:02,Mila Kunis aging fast.,0,0,Hermit620,CXkUaaVrB_s,0.2,2018-11-26 19:18:02,False,False
+2018-11-27T11:58:45,The action scenes are pretty good and made it watchable but everything else was crap including Kate McKinnon's pedantic drivel. I did watch to the end so I would give it 3 stars.,1,0,Alan,CXkUaaVrB_s,0.062499999999999944,2018-11-27 11:58:45,False,False
+2018-11-27T19:07:43,Intro Song?,0,0,Adriana Sima,CXkUaaVrB_s,0.0,2018-11-27 19:07:43,False,False
+2018-11-29T20:39:30,WE HAVE IN THIS CHANNEL  1 MOVIES  2 SERIES  3 DRAMA  4 ANIME  5 CARTOON  6 COMICS  and a lot of ENTERTAINMENT  Subscribe wi still in the beginning but with your support we will continue,0,0,ENTERTAINMENT الترفيه المتنوع,CXkUaaVrB_s,0.0,2018-11-29 20:39:30,False,False
+2018-11-29T21:07:23,Shut up meg,0,0,Craig Cameron,CXkUaaVrB_s,0.0,2018-11-29 21:07:23,False,False
+2018-12-02T05:20:25,"This is going down on my list of top five worst movies I've ever seen. The script is unbelievably bad, all of the ""jokes"" fall flat, Kate McKinnon tries to make up for the bad dialogue by being overdramatic and she fails, and Mila Kunis once again proves that she can only play one character. It felt like it would never end. In closing, my wife and I were surprised when we arrived and we were the only ones in the theater. On the way out, we understood.",0,0,MIKE VON BACH,CXkUaaVrB_s,-0.1900462962962963,2018-12-02 05:20:25,False,False
+2018-12-02T14:38:39,Watch full movie in my youtube,0,0,Sandra Citera,CXkUaaVrB_s,0.35,2018-12-02 14:38:39,False,False
+2018-12-04T11:39:48,I got to see this one! 😂,1,0,ArnoldVeeman,CXkUaaVrB_s,0.0,2018-12-04 11:39:48,False,False
+2018-12-05T23:19:11,Mila Kunis should have put on a Meg outfit.,0,0,sai76,CXkUaaVrB_s,0.0,2018-12-05 23:19:11,False,False
+2018-12-07T21:23:38,Any good?,0,2,Ican FeeLIt,CXkUaaVrB_s,0.7,2018-12-07 21:23:38,False,False
+2018-12-08T21:15:49,That movie was so cool! Loved it! Great job Mila and Kate,0,0,Shelia Nkuranga,CXkUaaVrB_s,0.7041666666666666,2018-12-08 21:15:49,False,False
+2018-12-10T03:19:36,"Mila Kunis...yes! But this movie is dumb, too dumb",0,0,10 ka,CXkUaaVrB_s,-0.375,2018-12-10 03:19:36,False,False
+2018-12-14T22:44:16,"0:07 i just realized that this scene is so familiar from friends. Monica, Phoebe, and Rachel burn it like that way.",0,0,T. Lau,CXkUaaVrB_s,0.375,2018-12-14 22:44:16,False,False
+2018-12-19T00:13:00,Shut up Meg!!!,0,0,Kicknowledge Smith,CXkUaaVrB_s,0.0,2018-12-19 00:13:00,False,False
+2018-12-24T22:11:02,Dumb hoes,0,0,name unknown,CXkUaaVrB_s,-0.375,2018-12-24 22:11:02,False,False
+2018-12-25T11:06:49,Can't see James Bond??,0,0,satwik k,CXkUaaVrB_s,0.0,2018-12-25 11:06:49,False,False
+2018-12-26T06:09:51,one of the shittiest movies ever imo,0,0,becca martin,CXkUaaVrB_s,0.0,2018-12-26 06:09:51,False,False
+2018-12-28T01:23:36,This movie is legend i swear,0,0,Aileen Nguyen,CXkUaaVrB_s,0.0,2018-12-28 01:23:36,False,False
+2018-12-28T09:56:01,"I want to unrated, xxx, porn type movie... If anyone have link plz give me...",0,0,Anonymous,CXkUaaVrB_s,0.0,2018-12-28 09:56:01,False,False
+2018-12-28T12:05:50,"Kate McKinnon is just not good enough. She needed to be much stronger in that role to make it work. Not bad movie, but not until the end. Saw with german subtitles on boxxy software. Nice scenes.",1,0,Steve Wertz,CXkUaaVrB_s,0.13333333333333333,2018-12-28 12:05:50,False,False
+2018-12-30T01:01:47,"I watched this movie on a plane and the whole time it felt like I was getting ""feminism"" pushed down my throat.. I just don't like movies with such a clear agenda behind it, I feel as though it kinda takes away the genuine feeling of actual comedy.",3,0,Uncle Sam,CXkUaaVrB_s,0.020634920634920634,2018-12-30 01:01:47,False,False
+2018-12-31T18:10:56,8/10,0,0,S O A D,CXkUaaVrB_s,0.0,2018-12-31 18:10:56,False,False
+2019-01-02T23:19:47,Was that Beyonce line supposed to be funny,0,0,TheYoungGun,CXkUaaVrB_s,0.25,2019-01-02 23:19:47,False,False
+2019-01-04T17:32:47,I see Sam’s name- i click,0,0,Pilar Acosta,CXkUaaVrB_s,0.0,2019-01-04 17:32:47,False,False
+2019-01-05T06:50:15,I thought it was fucking awesome!,0,0,spiritnphysical,CXkUaaVrB_s,1.0,2019-01-05 06:50:15,False,False
+2019-01-05T19:16:10,C R I N G E,1,0,Jenxao,CXkUaaVrB_s,0.0,2019-01-05 19:16:10,False,False
+2019-01-07T15:24:48,This movie is definitely a chick flick..feminist writers said fuck it were going to turn ex bf the spy into a fucking terrorist for this movie but hey we still need her to be a powerful and strong willed women..oh I got it let’s make her the spy and have her fucking a Chris Pratt wannabe..,2,1,GetPaidWithKyle,CXkUaaVrB_s,-0.14444444444444446,2019-01-07 15:24:48,False,False
+2019-01-07T21:18:55,Shut Up Meg!!,0,0,Sworup Poudel,CXkUaaVrB_s,0.0,2019-01-07 21:18:55,False,False
+2019-01-08T08:49:50,The movie is just like Mr and Mrs Smith 😁,0,0,Friddie Salvador,CXkUaaVrB_s,0.0,2019-01-08 08:49:50,False,False
+2019-01-08T18:12:37,shut up meg,0,0,Hakar Mahmoud,CXkUaaVrB_s,0.0,2019-01-08 18:12:37,False,False
+2019-01-11T20:35:43,Can i watch this with my mum idk if its apropriate,0,2,Jamescharlesdaddy Yey,CXkUaaVrB_s,0.0,2019-01-11 20:35:43,False,False
+2019-01-16T11:03:31,You won't regret watching this guys!,1,0,Sj Sendo,CXkUaaVrB_s,0.0,2019-01-16 11:03:31,False,False
+2019-01-21T15:11:53,Sam Heughan and Justin Theroux are both so hot I can't decide who to bang first if given the choice. Lol.,0,0,F dL,CXkUaaVrB_s,0.43333333333333335,2019-01-21 15:11:53,False,False
+2019-01-23T00:38:57,They removed quite alot of the clips in the trailer from the movie I don't know if that's the case for some people but that was for me. But it's still brilliant,0,0,MegKBaker,CXkUaaVrB_s,0.9,2019-01-23 00:38:57,False,False
+2019-01-26T23:11:54,Britney spears work btich,1,0,Axel Rodriguez Armas,CXkUaaVrB_s,0.0,2019-01-26 23:11:54,False,False
+2019-01-26T23:13:15,Work ashole deadpool,1,0,Axel Rodriguez Armas,CXkUaaVrB_s,0.0,2019-01-26 23:13:15,False,False
+2019-01-28T03:13:44,"""oh god! Jesus! What happened?"" 😂😂😂",0,0,dee-jay libnao,CXkUaaVrB_s,0.0,2019-01-28 03:13:44,False,False
+2019-01-30T15:27:05,"I saw the first 50 minutes, but  Kate McKinnon has sense of humour like faint fart in the warm wind...",0,0,Paul Miller,CXkUaaVrB_s,0.11666666666666665,2019-01-30 15:27:05,False,False
+2019-01-31T22:13:54,haha. Looks funny. Great cast!,0,0,Dorri Olds,CXkUaaVrB_s,0.48333333333333334,2019-01-31 22:13:54,False,False
+2019-02-02T11:45:30,This movie is freaking amazing,1,0,Noor Krayem,CXkUaaVrB_s,0.6000000000000001,2019-02-02 11:45:30,False,False
+2019-02-02T11:46:46,Help does anyone have suggestions for  action comedy movies?????🤗,1,0,Noor Krayem,CXkUaaVrB_s,0.1,2019-02-02 11:46:46,False,False
+2019-02-02T12:35:45,"I am only interested in Sam Heughan, I think he should be the next James Bond. What do you think peeps.",0,0,Karen Quick,CXkUaaVrB_s,0.08333333333333333,2019-02-02 12:35:45,False,False
+2019-02-02T19:48:41,Drew = Poor man Ryan Reynolds,0,0,Julian Ruvalcaba,CXkUaaVrB_s,-0.4,2019-02-02 19:48:41,False,False
+2019-02-02T22:42:18,"Gillian Anderson, the Beyonce of Gov't.  I agree with this.",0,0,olimakiella,CXkUaaVrB_s,0.0,2019-02-02 22:42:18,False,False
+2019-02-03T04:31:01,1:15 they didnt air this part.,0,0,BiteToChew,CXkUaaVrB_s,0.0,2019-02-03 04:31:01,False,False
+2019-02-07T10:42:50,looks terrible,0,0,Jack McCauley,CXkUaaVrB_s,-1.0,2019-02-07 10:42:50,False,False
+2019-02-07T13:21:33,*WHY ARE THOSE MY ONLY TWO OPTIONS?!*,0,0,Xxx Emerald xxX,CXkUaaVrB_s,0.0,2019-02-07 13:21:33,False,False
+2019-02-10T22:54:13,Really funny movies the girls were great. And Sam Heughan is just so dreamy.,0,0,luna borges,CXkUaaVrB_s,0.525,2019-02-10 22:54:13,False,False
+2019-02-16T07:54:46,Wow I just realized there's a bunch of unused scenes in this trailer.,1,0,shaolinwisdom,CXkUaaVrB_s,0.1,2019-02-16 07:54:46,False,False
+2019-02-22T09:07:58,Would recommend everyone watches,0,0,Emily Nheu,CXkUaaVrB_s,0.0,2019-02-22 09:07:58,False,False
+2019-02-25T08:44:50,Kate McKinnon redeemed herself after the whole Ghost-buster thing. She was fucking hilarious. Mila Kunis was awesome too.,0,0,Eric Krauter,CXkUaaVrB_s,0.5666666666666667,2019-02-25 08:44:50,False,False
+2019-02-27T01:14:01,Waste off time.,0,0,Himandi Sam,CXkUaaVrB_s,-0.2,2019-02-27 01:14:01,False,False
+2019-03-04T07:50:16,"I always hate stupid, cheesy and wannebe-funmy movies, I guess this one is my guilty pleasure lol",0,0,Steven Yeung,CXkUaaVrB_s,-0.36,2019-03-04 07:50:16,False,False
+2019-03-04T19:35:38,crap movie. dont waste ur time on it,2,0,Fortnite DefaultSkin,CXkUaaVrB_s,-0.5,2019-03-04 19:35:38,False,False
+2019-03-11T02:46:07,"SHUT UP ""MEG""",0,0,thatdude,CXkUaaVrB_s,0.0,2019-03-11 02:46:07,False,False
+2019-03-11T22:20:38,"WHAT THE FUCK, MEG?!",0,0,loreneil carpio,CXkUaaVrB_s,-0.5,2019-03-11 22:20:38,False,False
+2019-03-14T14:05:47,"If you know how Kate felt about Gillian Anderson growing up, it makes that scene with them 100 times better! lol",0,0,patrick hobbs,CXkUaaVrB_s,0.7125,2019-03-14 14:05:47,False,False
+2019-03-21T14:03:17,It looks cool. Like a Jackie Chan movie.,0,0,LeonidasSthlm,CXkUaaVrB_s,0.35,2019-03-21 14:03:17,False,False
+2019-03-23T02:34:55,i am here because of Hassan Minhaj TBH.. take my money right. now.,0,0,Hadiel Walaa,CXkUaaVrB_s,0.2857142857142857,2019-03-23 02:34:55,False,False
+2019-03-31T13:26:21,Gonna watch this tonight it looks really good + I fell in love with Kate McKinnon in Ghostbusters shes hot & funny 😘😘😘🤩,0,0,DOOKEY B,CXkUaaVrB_s,0.425,2019-03-31 13:26:21,False,False
+2019-04-02T15:58:03,1:17 I never saw that part in the movie and I actually wanted to see that part. Was it only for me?,0,1,queenzz,CXkUaaVrB_s,0.0,2019-04-02 15:58:03,False,False
+2019-04-02T23:53:25,enjoyed the movie. couldn't stop laughing...,1,0,Iram Khan,CXkUaaVrB_s,0.5,2019-04-02 23:53:25,False,False
+2019-04-04T07:20:41,"If he is from the CIA, it's probably GOOD people that are after him.",0,0,Aurinkohirvi,CXkUaaVrB_s,0.7,2019-04-04 07:20:41,False,False
+2019-04-05T06:45:46,Shut up meg.,0,0,luther Nelson,CXkUaaVrB_s,0.0,2019-04-05 06:45:46,False,False
+2019-04-06T05:05:08,everybody talking about how hard they crush on kate kckinnon and gillian anderson bUT who else is obsessed with mila kunis,0,0,Chantel,CXkUaaVrB_s,-0.39583333333333337,2019-04-06 05:05:08,False,False
+2019-04-09T03:52:58,DAAMMMMNNN MILA KUNIS HIT THE WALLLLLL,0,0,Drunken_Monkey360,CXkUaaVrB_s,0.0,2019-04-09 03:52:58,False,False
+2019-04-27T02:52:13,Shut up meg😂😂😂,0,0,shevon smith,CXkUaaVrB_s,0.0,2019-04-27 02:52:13,False,False
+2019-05-04T16:03:53,"I just want to warn everybody concerning this video!!! It really is a scam and you should not pay attention to anything in it... But, if you wish to hack a whatsapp account, then you must certainly use ""Whazzak"". You can find it on google if you would like to try it out !",0,0,Rahul K,CXkUaaVrB_s,0.23392857142857143,2019-05-04 16:03:53,False,False
+2019-05-08T20:08:41,1:26 next Bond anyone?,0,0,Shuaib Chaudry,CXkUaaVrB_s,0.0,2019-05-08 20:08:41,False,False
+2019-05-13T13:43:57,SHUT UP MEG!,0,0,SM H,CXkUaaVrB_s,0.0,2019-05-13 13:43:57,False,False
+2019-05-23T22:04:47,I'll buy it !,0,0,MarcusTV Channel,CXkUaaVrB_s,0.0,2019-05-23 22:04:47,False,False
+2019-05-31T04:21:07,Who knew Jamie Fraser would be a spy in the modern century 😂,0,0,TN,CXkUaaVrB_s,0.2,2019-05-31 04:21:07,False,False
+2019-06-06T21:09:16,Good movie,0,0,Jew Shirls,CXkUaaVrB_s,0.7,2019-06-06 21:09:16,False,False
+2019-06-08T06:19:30,Here only for the two seconds of Hasan Minhaj,0,0,Fiqie Firdausya,CXkUaaVrB_s,0.0,2019-06-08 06:19:30,False,False
+2019-06-14T09:01:36,This is the most beautiful and interesting movie I have ever seen and the cast are the coolest cast ever. I wish they do another movie the spy who dumped me 2 aaaa that would be amazing 😍😍😍❤❤,0,0,Emy Lerent,CXkUaaVrB_s,0.6125,2019-06-14 09:01:36,False,False
+2019-06-23T09:25:46,"Want a part 2. Luckily I watched the trailer so long ago that I didn't remember what the movie is about when I watched it yesterday. Just great. Mila Kunis, the Guy who also played James Fraser...I am absolutely happy with this.",0,0,Erza Sakurashi,CXkUaaVrB_s,0.4708333333333334,2019-06-23 09:25:46,False,False
+2019-06-24T01:16:55,Thelma and Louise 2.0,0,0,master10ize,CXkUaaVrB_s,0.0,2019-06-24 01:16:55,False,False
+2019-06-29T23:43:48,Just watched this movie n it was great.  It was so funny,0,0,Alisa Johns,CXkUaaVrB_s,0.525,2019-06-29 23:43:48,False,False
+2019-06-30T14:59:20,did they have to use the most annoying song by the worst old ass wannabe hasbeen washed up nobody as their soundtrack? -_-,0,0,kevin11kaycee,CXkUaaVrB_s,-0.3,2019-06-30 14:59:20,False,False
+2019-07-07T20:24:21,FUCKING.BEST.MOVIE.EVURRR,0,0,Rosemarie Grobler,CXkUaaVrB_s,0.0,2019-07-07 20:24:21,False,False
+2019-07-08T19:34:04,Why on Earth would the ex-Agent want to wipe off the Flash after Mila Kunis had it in her Pu***? She's Divine. 30 and Young. ANY male or FEMALE would love to touch it without Wiping HER Essence... From the Drive.,1,0,Grim Reaper,CXkUaaVrB_s,0.15,2019-07-08 19:34:04,False,False
+2019-07-09T13:24:15,I looove this movie 🤣🤣🤣🤣,0,0,Naigh-naigh Why,CXkUaaVrB_s,0.0,2019-07-09 13:24:15,False,False
+2019-07-09T22:20:13,This looks really good! Why have I not heard anything else since this trailer came out?,0,0,Toasty,CXkUaaVrB_s,0.875,2019-07-09 22:20:13,False,False
+2019-07-13T22:13:42,James Alexander Malcolm Mackenzie Fraser 😍😍😍,0,0,Amanda Bynes,CXkUaaVrB_s,0.0,2019-07-13 22:13:42,False,False
+2019-07-14T04:05:14,Thank you for being on Amazon prime. No ads is great 🤙🤙👍👍👍👍,0,0,ForestofTooMuchFood,CXkUaaVrB_s,0.8,2019-07-14 04:05:14,False,False
+2019-07-19T02:17:10,"God this movie is fucking awful. I wrote this as I currently watched it on Hulu. Ugh! Trust me, don’t waste your time on this steaming turd.",1,0,Lurchipoo,CXkUaaVrB_s,-0.39999999999999997,2019-07-19 02:17:10,False,False
+2019-07-20T09:45:06,i need a 2nd partt,0,0,Y Yatzari,CXkUaaVrB_s,0.0,2019-07-20 09:45:06,False,False
+2019-07-23T16:42:03,who have watched the movie can relate that somehow this movie is connected with the movie snowden,0,0,rainbowcantik,CXkUaaVrB_s,0.0,2019-07-23 16:42:03,False,False
+2019-07-29T00:10:38,Mila Kunis la mejor de todas. Bella y tremenda actriz. Espero que hagan segundo parte pq esta película lo merece.,0,0,Jayson Ortiz,CXkUaaVrB_s,0.0,2019-07-29 00:10:38,False,False
+2019-07-29T01:34:18,Oh Sam Heughan ♥️,0,0,Parul Lance,CXkUaaVrB_s,0.0,2019-07-29 01:34:18,False,False
+2019-07-29T01:45:00,Somebody needs to fire Mila Kunis's agent.,0,0,Tommy Berger,CXkUaaVrB_s,0.0,2019-07-29 01:45:00,False,False
+2019-07-30T17:15:08,I like kate more than mila seriously,0,0,Ruhul Quddus,CXkUaaVrB_s,0.08333333333333334,2019-07-30 17:15:08,False,False
+2019-08-04T00:37:01,I laughed mucno,0,0,Chase Nomor,CXkUaaVrB_s,0.7,2019-08-04 00:37:01,False,False
+2019-08-10T14:15:34,dang drew DIED,1,0,ahh ok,CXkUaaVrB_s,0.0,2019-08-10 14:15:34,False,False
+2019-08-10T22:58:48,The Spy Who Shagged Me,1,0,w23857980,CXkUaaVrB_s,0.0,2019-08-10 22:58:48,False,False
+2019-08-12T08:21:29,"Some funny moments, but god they just cannot resist these feminist inserts..and really cringy, in your face at that😒",0,0,Ana Jakoš,CXkUaaVrB_s,0.225,2019-08-12 08:21:29,False,False
+2019-08-20T17:53:50,Every movie Mila is in is ruined by her lack of talent.,0,0,Ipso Facto,CXkUaaVrB_s,0.0,2019-08-20 17:53:50,False,False
+2019-08-21T15:32:38,This movie sucked hard,1,0,JonInfect,CXkUaaVrB_s,-0.2916666666666667,2019-08-21 15:32:38,False,False
+2019-08-22T21:28:19,Thank u masters ✍🙏🙏🧜‍♀️🎵🎶🎶💃💃👻✡✡🧞‍♀️🧞‍♀️💜💜💜👁🤳,0,0,bineozy,CXkUaaVrB_s,0.0,2019-08-22 21:28:19,False,False
+2019-08-24T11:13:39,10/10 movie,0,0,MonkStin Y.,CXkUaaVrB_s,0.0,2019-08-24 11:13:39,False,False
+2019-08-27T05:23:45,i just watched this  and OMG  i want to punch Kate McKinnon so bad   she is NOT funny,0,0,motorhome mike,CXkUaaVrB_s,-0.4124999999999999,2019-08-27 05:23:45,False,False
+2019-08-27T12:35:35,I'm here for Milia Kunis!,0,0,Fiona Do,CXkUaaVrB_s,0.0,2019-08-27 12:35:35,False,False
+2019-09-08T00:27:04,Jackie what are you doing,0,0,Just a Survivor,CXkUaaVrB_s,0.0,2019-09-08 00:27:04,False,False
+2019-09-15T03:49:29,Watched this the other night I was laughing about 80% of the movie 😂😂,0,0,Mason Kolmetz,CXkUaaVrB_s,-0.125,2019-09-15 03:49:29,False,False
+2019-09-21T03:06:51,Is 1:46 a deleted scene?,0,0,Andrew Garcia,CXkUaaVrB_s,0.0,2019-09-21 03:06:51,False,False
+2019-09-25T19:21:53,Got here because of Hasan Minhaj,0,0,Js,CXkUaaVrB_s,0.0,2019-09-25 19:21:53,False,False
+2019-09-28T16:53:11,Kate McKinnon was the highlight of this movie for me,0,0,Hp48,CXkUaaVrB_s,0.0,2019-09-28 16:53:11,False,False
+2019-10-05T18:24:25,Just watched this on Amazon and I laughed my fucking ass off. Sorry I missed it in theater.,0,0,OcihEvE,CXkUaaVrB_s,-0.13333333333333333,2019-10-05 18:24:25,False,False
+2019-10-11T18:01:13,It is worth the time. I love the movie.,0,0,Roex PMagtajas,CXkUaaVrB_s,0.4,2019-10-11 18:01:13,False,False
+2019-10-19T21:33:11,You need to make a 2 but don't fuck it up if you do.....this is a great movie,0,0,Charlotte A326,CXkUaaVrB_s,0.2,2019-10-19 21:33:11,False,False
+2019-10-21T19:22:05,Kunis needs a penis.,0,0,Robert Nelson,CXkUaaVrB_s,0.0,2019-10-21 19:22:05,False,False
+2019-10-26T08:11:49,Such a lucky to be females thesedays..if they have a great bodies..they can be stay clothed..but males..if they have a great bodies..they have to be naked if they want to live..,0,0,Clothedmale Normal,CXkUaaVrB_s,0.34494949494949495,2019-10-26 08:11:49,False,False
+2019-10-26T14:37:21,I literally cannot find this movie ANYWHERE can someone help,0,0,A. Ray,CXkUaaVrB_s,0.0,2019-10-26 14:37:21,False,False
+2019-10-29T19:08:41,"""Oh God...Jesus...What happened?!"" 😂😂 best moment",1,0,Gyöngyvér Radó,CXkUaaVrB_s,1.0,2019-10-29 19:08:41,False,False
+2019-11-07T18:25:56,just watched this movie yesterday and i will say this: i would take a bullet for kate mckinnon,1,0,Pradnja Pradipta,CXkUaaVrB_s,0.0,2019-11-07 18:25:56,False,False
+2019-11-13T01:23:13,"Kate McKinnon keeps getting herself into these unsatisfying, big-tent comedies.",0,0,thelessimportantAJ michel,CXkUaaVrB_s,0.0,2019-11-13 01:23:13,False,False
+2019-11-18T06:46:22,That is the Beyoncé of the government,1,0,jeandiai tonyyeyo,CXkUaaVrB_s,0.0,2019-11-18 06:46:22,False,False
+2019-11-19T06:12:57,I don't know why 1:02-1:09 cracks my silly ass up everytime😂😂😂,0,0,Bonus Baby,CXkUaaVrB_s,-0.5,2019-11-19 06:12:57,False,False
+2019-11-19T15:10:27,Revealed too much...,2,0,Yaseen Qadir,CXkUaaVrB_s,0.2,2019-11-19 15:10:27,False,False
+2019-11-30T00:57:37,I just LOVE how there are no captions. Please get with the times so everyone can enjoy your movie trailers,1,0,Corsiva Purpleus,CXkUaaVrB_s,0.45,2019-11-30 00:57:37,False,False
+2019-12-02T06:27:48,"THE WORST MOVIE SINCE AFTER DARK MY SWEET...THE 2 LEADING ACTRESSES ARE EXCELLENT...THE SCRIPT IS TRASH...THE 2 GUYS PLAYING THE CIA AGENTS ARE THE WORST ACTORS IN THE SCREEN ACTORS GUILD, IN THE LAST 100 YEARS. OTHER THAN THAT THE MOVIE WAS FABULOUS. OHHH THE CAR CHASE WAS KINDA COOL. I LOVE LOVE LOVE LOVE KATE McKINNON...AND I'LL BE COMMIN ROUND THE MOUNTAIN WHEN SHE COME. SHE IS 4 THOUSAND LIGHT YEARS OF PURE MENTAL",0,0,Alawishes,CXkUaaVrB_s,0.05261904761904763,2019-12-02 06:27:48,False,False
+2019-12-04T00:21:27,❤️❤️ Fit as,0,0,adam garrett,CXkUaaVrB_s,0.4,2019-12-04 00:21:27,False,False
+2019-12-05T11:05:41,she looks like *Abigail Mac*,0,0,A.J.I.T SHUKLA,CXkUaaVrB_s,0.0,2019-12-05 11:05:41,False,False
+2019-12-09T01:37:05,2019,0,0,gabby Bowman-cyr,CXkUaaVrB_s,0.0,2019-12-09 01:37:05,False,False
+2019-12-14T04:34:16,Lesso movie,0,0,Michael Standing,CXkUaaVrB_s,0.0,2019-12-14 04:34:16,False,False
+2019-12-14T16:03:45,"At 1:37, did she just electrocute that guy while holding him from another hand!",0,0,Akshi,CXkUaaVrB_s,0.0,2019-12-14 16:03:45,False,False
+2019-12-18T16:50:56,Super movie,0,0,Dharmi patel,CXkUaaVrB_s,0.3333333333333333,2019-12-18 16:50:56,False,False
+2020-01-06T10:11:19,Emma stone???,0,0,gokunaro uzumaki,CXkUaaVrB_s,0.0,2020-01-06 10:11:19,False,False
+2020-01-09T03:06:55,We need a sequel!!!!,0,0,Unicorn Attack,CXkUaaVrB_s,0.0,2020-01-09 03:06:55,False,False
+2020-01-10T12:34:07,hasannnnnn minhajjj❤❤❤,0,0,ayma haha,CXkUaaVrB_s,0.0,2020-01-10 12:34:07,False,False
+2020-01-17T15:21:10,"i love this movie, funny and funtastic",1,0,Saldi Lukman21,CXkUaaVrB_s,0.375,2020-01-17 15:21:10,False,False
+2020-01-17T20:57:11,Here for Hasan Minhaj.,0,0,Rin Rin,CXkUaaVrB_s,0.0,2020-01-17 20:57:11,False,False
+2020-02-07T16:00:19,"take Kate to the nest Charlie's Angels,  take Sam as the next Bond, Mila's play in this movie is just bad..",0,0,Пончикот,CXkUaaVrB_s,-0.3499999999999999,2020-02-07 16:00:19,False,False
+2020-02-19T08:23:59,JAMIE YOUR LOCKS ARE GONE,0,0,Autumn Munden,CXkUaaVrB_s,0.0,2020-02-19 08:23:59,False,False
+2020-02-25T17:48:29,this just looks.......................average.........  at best,0,0,musicsuxnowadays,CXkUaaVrB_s,1.0,2020-02-25 17:48:29,False,False
+2020-02-27T16:33:15,🔥🔥🔥🔥   Yes. Love the movies.   1:24 💚💝🎬    👇💯,0,0,Jordan Jenkins,CXkUaaVrB_s,0.5,2020-02-27 16:33:15,False,False
+2020-03-03T00:06:10,Sam makes me wanna meet a scottish man damn why am i in France?!!,0,0,Min Lilia,CXkUaaVrB_s,0.0,2020-03-03 00:06:10,False,False
+2020-03-03T06:31:14,saw this vid and searched if kate mckinnon gay?turns out she is,0,0,George Banin,CXkUaaVrB_s,0.0,2020-03-03 06:31:14,False,False
+2020-03-07T02:51:32,"I personally wasn't intrigued by this trailer, but decided to give the movie a go and it was actually entertaining. This trailer really chopped up the timeline of the movie. Cute movie with some laugh out loud moments.",0,1,SASSY20,CXkUaaVrB_s,0.26666666666666666,2020-03-07 02:51:32,False,False
+2020-03-16T04:34:27,"I watched this lying in bed depressed about not getting any dates and I kept having to pause so I could shriek with laughter and gleefully clap, amazing movie 10/10 recommend",0,0,Emily Weber,CXkUaaVrB_s,0.6000000000000001,2020-03-16 04:34:27,False,False
+2020-03-23T05:38:03,Not a good movie,0,0,david dib,CXkUaaVrB_s,-0.35,2020-03-23 05:38:03,False,False
+2020-03-31T00:27:27,"I freaking love this movie, so good💜💜",0,0,zonunyi taetae,CXkUaaVrB_s,0.5,2020-03-31 00:27:27,False,False
+2020-04-01T21:29:47,Hhhh best comedy moves,0,0,James bond,CXkUaaVrB_s,1.0,2020-04-01 21:29:47,False,False
+2020-04-06T03:48:26,🔥🔥    I got such positive feedback about the panels    1:30 💜💜❣     👇👇💞,0,0,JONATHAN,CXkUaaVrB_s,0.11363636363636363,2020-04-06 03:48:26,False,False
+2020-04-09T09:03:35,I watched this on TV today 9 April 2020.,0,4,ItsTheBeyonder,CXkUaaVrB_s,0.0,2020-04-09 09:03:35,False,False
+2020-04-18T18:16:16,This is fakest movie ever,1,0,S K,CXkUaaVrB_s,0.0,2020-04-18 18:16:16,False,False
+2020-04-29T11:44:39,Am I here just because Kate Mckinnon? I'm here just because Kate Mckinnon.,0,0,Sara Rosello,CXkUaaVrB_s,0.0,2020-04-29 11:44:39,False,False
+2020-05-02T10:15:33,All I hear is Meg (who should shut up btw),0,0,3,CXkUaaVrB_s,0.0,2020-05-02 10:15:33,False,False
+2020-05-05T16:46:15,shut up meg,0,0,the one adressed,CXkUaaVrB_s,0.0,2020-05-05 16:46:15,False,False
+2020-05-05T22:15:13,Best realistic comedy spy movie EVER!!!,0,0,Josh Martin,CXkUaaVrB_s,0.6627604166666666,2020-05-05 22:15:13,False,False
+2020-05-08T17:16:06,Love this! Anyone know any other films like this??,0,0,Nazanin Madani,CXkUaaVrB_s,0.25,2020-05-08 17:16:06,False,False
+2020-05-10T17:41:58,this movie was confusing to be honest,0,0,Jeongwon Lim,CXkUaaVrB_s,0.15,2020-05-10 17:41:58,False,False
+2020-05-11T10:11:24,"really bad acting.. Just my opinion... just watched it, wasted 2 hour of my life.",0,0,Kevin Suwandi,CXkUaaVrB_s,-0.3,2020-05-11 10:11:24,False,False
+2020-06-01T09:55:40,"10/10 recommend , i loved it (:",0,0,Aracely,CXkUaaVrB_s,0.7,2020-06-01 09:55:40,False,False
+2020-06-02T22:32:27,https://youtu.be/X_e36QvdzbI,1,0,MrS. MeKhRaLiEvA,CXkUaaVrB_s,0.0,2020-06-02 22:32:27,False,False

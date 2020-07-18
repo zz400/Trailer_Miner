@@ -1,0 +1,577 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2019-06-26T15:58:39,Amazing,2,0,Crazy World,ljKzFGpPHhw,0.6000000000000001,2019-06-26 15:58:39,True,True
+2019-06-26T15:58:40,Bad liar,1,0,Shadøw Edîtź,ljKzFGpPHhw,-0.6999999999999998,2019-06-26 15:58:40,True,True
+2019-06-26T15:58:41,This is going to be great! Can’t wait to watch,1,0,Syphix,ljKzFGpPHhw,1.0,2019-06-26 15:58:41,True,True
+2019-06-26T15:58:42,#releasethesnydercut,4,0,The Last Jedi,ljKzFGpPHhw,0.0,2019-06-26 15:58:42,True,True
+2019-06-26T15:58:45,First,2,0,MADMAX_ 0192,ljKzFGpPHhw,0.25,2019-06-26 15:58:45,True,True
+2019-06-26T15:58:45,Wow,1,0,Blitz 1,ljKzFGpPHhw,0.1,2019-06-26 15:58:45,True,True
+2019-06-26T15:58:46,Firat,1,0,Liam Alexander,ljKzFGpPHhw,0.0,2019-06-26 15:58:46,True,True
+2019-06-26T15:58:46,Nice,1,0,DrewMaster88 -,ljKzFGpPHhw,0.6,2019-06-26 15:58:46,True,True
+2019-06-26T15:58:47,4th,2,0,YAGAMI 2OP,ljKzFGpPHhw,0.0,2019-06-26 15:58:47,True,True
+2019-06-26T15:58:47,I’m Subbing To Everyone Who Likes this and subs,3,0,Dude Bro,ljKzFGpPHhw,0.0,2019-06-26 15:58:47,True,True
+2019-06-26T15:58:48,Hey!!,1,0,Darth Reese,ljKzFGpPHhw,0.0,2019-06-26 15:58:48,True,True
+2019-06-26T15:58:49,Second,1,0,Jaedon Smith,ljKzFGpPHhw,0.0,2019-06-26 15:58:49,True,True
+2019-06-26T15:58:50,Yo yo,1,0,हिंदी ज्ञान,ljKzFGpPHhw,0.0,2019-06-26 15:58:50,True,True
+2019-06-26T15:58:51,Hiiii,1,0,Mateja Davidović,ljKzFGpPHhw,0.0,2019-06-26 15:58:51,True,True
+2019-06-26T15:58:53,Waa,1,0,HARIBO,ljKzFGpPHhw,0.0,2019-06-26 15:58:53,True,True
+2019-06-26T15:58:54,First*,1,0,Liam Alexander,ljKzFGpPHhw,0.25,2019-06-26 15:58:54,True,True
+2019-06-26T15:58:55,Gotta love Helen Mirren!,2,0,Twelve K,ljKzFGpPHhw,0.625,2019-06-26 15:58:55,True,True
+2019-06-26T15:58:55,dick ass,1,0,Lane Carter,ljKzFGpPHhw,0.0,2019-06-26 15:58:55,True,True
+2019-06-26T15:58:55,First lol,1,0,Oblivious Fantasy633,ljKzFGpPHhw,0.525,2019-06-26 15:58:55,True,True
+2019-06-26T15:58:56,COOL FILM,1,0,Kikstar,ljKzFGpPHhw,0.35,2019-06-26 15:58:56,True,True
+2019-06-26T15:58:59,First comment,1,0,The Daring Destroyers,ljKzFGpPHhw,0.25,2019-06-26 15:58:59,True,True
+2019-06-26T15:59:00,Like hier for more trailer! Best company! ♥️♥️,22,0,Al3xDarK,ljKzFGpPHhw,0.8125,2019-06-26 15:59:00,True,True
+2019-06-26T15:59:03,Im from Serbia,1,0,Mateja Davidović,ljKzFGpPHhw,0.0,2019-06-26 15:59:03,True,True
+2019-06-26T15:59:04,💓💓💓💓,1,0,SOUPTIK MONDAL,ljKzFGpPHhw,0.0,2019-06-26 15:59:04,True,True
+2019-06-26T15:59:05,First,0,0,Jaedon Smith,ljKzFGpPHhw,0.25,2019-06-26 15:59:05,True,True
+2019-06-26T15:59:12,I love it,1,0,TalkingFriendsFTW TSeriesFTL,ljKzFGpPHhw,0.5,2019-06-26 15:59:12,True,True
+2019-06-26T15:59:17,Interesting  theme,0,0,Marinto Richee,ljKzFGpPHhw,0.5,2019-06-26 15:59:17,True,True
+2019-06-26T15:59:23,Wow nice movie,1,0,Disney Channel KZ,ljKzFGpPHhw,0.35,2019-06-26 15:59:23,True,True
+2019-06-26T15:59:23,*Woah...! Misery leads ahead.!* 😂,0,0,Garry Mental,ljKzFGpPHhw,0.0,2019-06-26 15:59:23,True,True
+2019-06-26T15:59:25,I don't wanna say but am I first..,2,2,Rashed Alshehhi,ljKzFGpPHhw,0.25,2019-06-26 15:59:25,True,True
+2019-06-26T15:59:29,Biougra morocco,1,0,Ahmed EL kh,ljKzFGpPHhw,0.0,2019-06-26 15:59:29,True,True
+2019-06-26T15:59:30,"All the first comments, your not first",1,0,Homie Frog,ljKzFGpPHhw,0.0625,2019-06-26 15:59:30,True,True
+2019-06-26T15:59:32,Like bcs idk why,2,0,Mateja Davidović,ljKzFGpPHhw,0.0,2019-06-26 15:59:32,True,True
+2019-06-26T15:59:37,Ohhh yeahhhh 💃💃💃,0,0,zaMzaMi,ljKzFGpPHhw,0.0,2019-06-26 15:59:37,True,True
+2019-06-26T15:59:39,🎵 Im a Good LIAR!!!!! Good LIAR!!!!🎵,1,0,Blue Jay,ljKzFGpPHhw,0.85,2019-06-26 15:59:39,True,True
+2019-06-26T15:59:41,3 views and 74 likes and 17 comments YouTube is drunk again,2,0,King Thor,ljKzFGpPHhw,-0.5,2019-06-26 15:59:41,True,True
+2019-06-26T15:59:42,Sounds like my fam like if u agree😅,2,0,Jozae Twins,ljKzFGpPHhw,0.0,2019-06-26 15:59:42,True,True
+2019-06-26T15:59:42,*MAGNETO ALIVE*,1,0,Danial R.,ljKzFGpPHhw,0.1,2019-06-26 15:59:42,True,True
+2019-06-26T15:59:44,Hiiii Warner Bros Inc,1,0,Sandeep Kumar Tripathi,ljKzFGpPHhw,0.0,2019-06-26 15:59:44,True,True
+2019-06-26T16:00:31,Super,2,0,I AM VAIBHU,ljKzFGpPHhw,0.3333333333333333,2019-06-26 16:00:31,True,True
+2019-06-26T16:00:36,I like it,1,0,G1 Grimlock,ljKzFGpPHhw,0.0,2019-06-26 16:00:36,True,True
+2019-06-26T16:00:48,"Don’t know what this is, I just wanted to be early😂",9,0,Ben Parrish,ljKzFGpPHhw,0.0,2019-06-26 16:00:48,True,True
+2019-06-26T16:00:51,#Im the first      No one knows who is first 😃,1,0,krish,ljKzFGpPHhw,0.25,2019-06-26 16:00:51,True,True
+2019-06-26T16:00:53,Plz watch my channel,2,0,I AM VAIBHU,ljKzFGpPHhw,0.0,2019-06-26 16:00:53,True,True
+2019-06-26T16:01:05,Looks good but WB you better release some dc footage,32,8,DayTripper,ljKzFGpPHhw,0.6,2019-06-26 16:01:05,True,True
+2019-06-26T16:01:16,Exciting trailer. I’ll see it!,7,0,Dino Velocir,ljKzFGpPHhw,0.375,2019-06-26 16:01:16,True,True
+2019-06-26T16:01:20,"Anything with Sir Ian Mckellen, I'm in",1,0,Nikhil Sharda,ljKzFGpPHhw,0.0,2019-06-26 16:01:20,True,True
+2019-06-26T16:01:21,"Russel Tovey! ❤️ Looks good, by the way.",11,1,Tamas Maklari,ljKzFGpPHhw,0.7,2019-06-26 16:01:21,True,True
+2019-06-26T16:01:53,"Thought this was a sequel to that mculay culkin horror movie,lol",2,0,Stevenator Bensonica,ljKzFGpPHhw,0.0,2019-06-26 16:01:53,True,True
+2019-06-26T16:02:24,*Not so good if we know about the lies*,9,0,I eat penis because,ljKzFGpPHhw,0.7,2019-06-26 16:02:24,True,True
+2019-06-26T16:02:24,"Damn, this looks good.",3,0,lovepotionsinc,ljKzFGpPHhw,0.7,2019-06-26 16:02:24,True,True
+2019-06-26T16:02:25,Ian Mckellen is back  to grace the Silver Screen.  Looks Intense,386,4,Jomon Philipose,ljKzFGpPHhw,0.1,2019-06-26 16:02:25,True,True
+2019-06-26T16:02:25,Great to see Sir Ian McKellen 👌,3,0,lifewithmyko,ljKzFGpPHhw,0.8,2019-06-26 16:02:25,True,True
+2019-06-26T16:02:40,2 minutes,3,0,Abdullah Ilyas,ljKzFGpPHhw,0.0,2019-06-26 16:02:40,True,True
+2019-06-26T16:02:58,From the title I thought its gonna be a Comedy Film.,2,0,Alex Xander,ljKzFGpPHhw,0.0,2019-06-26 16:02:58,True,True
+2019-06-26T16:03:00,Who else thinks that this movie's title is truly incredible???,4,0,Haruto Chang,ljKzFGpPHhw,0.9,2019-06-26 16:03:00,True,True
+2019-06-26T16:03:03,I once told people that my dad left to buy a pack of cigarettes 20 years ago and everyone believed me... *I lied*,145,4,I eat penis because,ljKzFGpPHhw,0.0,2019-06-26 16:03:03,True,True
+2019-06-26T16:03:28,We need Birds of Prey trailer!!!,7,1,Abbey Bominable,ljKzFGpPHhw,0.0,2019-06-26 16:03:28,True,True
+2019-06-26T16:03:45,Wow this movie is Rated R!,1,0,Amar Ashraf,ljKzFGpPHhw,0.125,2019-06-26 16:03:45,True,True
+2019-06-26T16:05:06,Good,1,0,خنؤن نخززف,ljKzFGpPHhw,0.7,2019-06-26 16:05:06,True,True
+2019-06-26T16:05:10,Yes yes yes YES!,1,0,Anggraha Putra,ljKzFGpPHhw,0.0,2019-06-26 16:05:10,True,True
+2019-06-26T16:05:38,"Ahaha ""You bloody bet I'm gonna take it all"" he didn't even hesitate ahah so cold 😂",44,3,Sweet Karma,ljKzFGpPHhw,-0.7,2019-06-26 16:05:38,True,True
+2019-06-26T16:08:18,"Is that ""Henry Knight"" from that episode in *Sherlock,* The Hounds of Baskerville (Season 2; Episode 2)?",48,10,Angel CK,ljKzFGpPHhw,0.0,2019-06-26 16:08:18,True,True
+2019-06-26T16:08:54,"He’s a porn star, sorry to spoil it for you guys.",1,0,Rune,ljKzFGpPHhw,-0.5,2019-06-26 16:08:54,True,True
+2019-06-26T16:09:41,Looks like a movie about Donald Trump.,1,0,Om Patel,ljKzFGpPHhw,0.0,2019-06-26 16:09:41,True,True
+2019-06-26T16:10:41,Now you have my attention WB. Thank you for this type of diversity in the movie's genres in your schedule.,814,30,Viktor Popov,ljKzFGpPHhw,0.0,2019-06-26 16:10:41,True,True
+2019-06-26T16:10:46,"Looks a pretty good thriller, hope it brings something new and not have some generic movie plot.",194,2,Vamshi Ohgs,ljKzFGpPHhw,0.2715909090909091,2019-06-26 16:10:46,True,True
+2019-06-26T16:11:54,He's Magneto.,2,0,Byju Joseph,ljKzFGpPHhw,0.0,2019-06-26 16:11:54,True,True
+2019-06-26T16:12:07,*Guys all hi !!!Come register and have fun with the best girls from around the world!Welcome!* *👉**https://strip.chat/start*,1,0,COMPANY LIDL,ljKzFGpPHhw,0.65,2019-06-26 16:12:07,True,True
+2019-06-26T16:12:24,The ending music was quite good. The male character seems to be having quite an interesting past.,1,0,samruddha tupe,ljKzFGpPHhw,0.2375,2019-06-26 16:12:24,True,True
+2019-06-26T16:12:31,"Excited for annebell comes home,more than any movie! 🤗🤗🤗🤗🤗🤗🤗🤗",4,2,Mass Thiven,ljKzFGpPHhw,0.46875,2019-06-26 16:12:31,True,True
+2019-06-26T16:14:21,So... This is what Gandalf is up to recently!!?,447,11,Baby Groot,ljKzFGpPHhw,0.0,2019-06-26 16:14:21,True,True
+2019-06-26T16:15:39,That old lady is pretty,1,0,N L,ljKzFGpPHhw,0.175,2019-06-26 16:15:39,True,True
+2019-06-26T16:17:21,I think it is from Netflix at last red bars 😆,4,0,Depth of Horror ꪜ,ljKzFGpPHhw,0.0,2019-06-26 16:17:21,True,True
+2019-06-26T16:17:53,First time i am commenting for a movie trailer before it hit 1 million views .,1,0,Vamsi Krishna,ljKzFGpPHhw,0.25,2019-06-26 16:17:53,True,True
+2019-06-26T16:21:35,ur mom lie,1,0,Haven B777,ljKzFGpPHhw,0.0,2019-06-26 16:21:35,True,True
+2019-06-26T16:22:11,"Magneto back at it again.  Good to have you back, old pal.",30,2,Semyon Galtsev,ljKzFGpPHhw,0.19999999999999998,2019-06-26 16:22:11,True,True
+2019-06-26T16:22:57,I want 69 like please or yo mum gay,2,0,Sahil Sakariya,ljKzFGpPHhw,0.4166666666666667,2019-06-26 16:22:57,True,True
+2019-06-26T16:24:52,"Joker, doctor sleep, and now this!",1,0,TWD,ljKzFGpPHhw,0.0,2019-06-26 16:24:52,True,True
+2019-06-26T16:27:03,Hmm The Good Liar,1,0,Bipin Alawat,ljKzFGpPHhw,0.7,2019-06-26 16:27:03,True,True
+2019-06-26T16:28:33,#ReleaseTheSnyderCut,4,1,Usha Waghmare,ljKzFGpPHhw,0.0,2019-06-26 16:28:33,True,True
+2019-06-26T16:29:02,We all Lie 😉,0,0,ANGELUIZ,ljKzFGpPHhw,0.0,2019-06-26 16:29:02,True,True
+2019-06-26T16:29:43,So either one of Gandalf or Magneto is lying,2,0,Jason Jang,ljKzFGpPHhw,0.0,2019-06-26 16:29:43,True,True
+2019-06-26T16:32:00,I freaking love Ian McKellen.,1,0,Vector Vitale,ljKzFGpPHhw,0.5,2019-06-26 16:32:00,True,True
+2019-06-26T16:32:02,"Loved Ian McKellen ever since I saw him in Lord of the Rings and X-Men, I'm definitely curious about this movie. 😊",13,1,Tony Mata,ljKzFGpPHhw,0.3,2019-06-26 16:32:02,True,True
+2019-06-26T16:34:39,Its like Walter White with a psycho personality,0,0,Fathur Novriantomo,ljKzFGpPHhw,0.0,2019-06-26 16:34:39,True,True
+2019-06-26T16:34:55,At 1:09 very good acting,0,0,Angie M,ljKzFGpPHhw,0.45499999999999996,2019-06-26 16:34:55,True,True
+2019-06-26T16:37:34,"""You shall not pass"" - Magneto",3,0,Kal-El fan 49,ljKzFGpPHhw,0.0,2019-06-26 16:37:34,True,True
+2019-06-26T16:39:49,Magneto? Is that you?,0,0,Jean Pierre vargas alvarez,ljKzFGpPHhw,0.0,2019-06-26 16:39:49,True,True
+2019-06-26T16:41:39,fucking movie 😅,0,0,Gujarati Roasting,ljKzFGpPHhw,-0.6,2019-06-26 16:41:39,True,True
+2019-06-26T16:42:05,When is the birds of prey trailer gonna drop,1,0,Brandon Martinez,ljKzFGpPHhw,0.0,2019-06-26 16:42:05,True,True
+2019-06-26T16:45:34,yes.,0,0,The Drawing Board,ljKzFGpPHhw,0.0,2019-06-26 16:45:34,True,True
+2019-06-26T16:47:20,Don't date people you meet through internet,0,0,Talha Waseem,ljKzFGpPHhw,0.0,2019-06-26 16:47:20,True,True
+2019-06-26T16:48:58,LEGENDS are here,0,0,nikhil madavi,ljKzFGpPHhw,0.0,2019-06-26 16:48:58,True,True
+2019-06-26T16:54:17,Both lead actors are 70+ yet you want to watch this movie. That's what I call legendary acting.,2046,27,paul tan,ljKzFGpPHhw,0.5,2019-06-26 16:54:17,True,True
+2019-06-26T16:57:11,"Gandalf and the Queen!! Here we go, the epic dark side of Gandalf the black!! 🤭🤣🤣",1,0,Three Ravens,ljKzFGpPHhw,-0.1034722222222222,2019-06-26 16:57:11,True,True
+2019-06-26T16:57:51,Proffesor!!  Proffesor Dumbledore.. 😁😇😁😇,0,0,yushi 91,ljKzFGpPHhw,0.0,2019-06-26 16:57:51,True,True
+2019-06-26T16:58:06,Super #GoodLiar 🎟🎬📽✔,0,0,daz rod,ljKzFGpPHhw,0.3333333333333333,2019-06-26 16:58:06,True,True
+2019-06-26T17:03:31,*fly you fools!*,0,0,Abel Villa,ljKzFGpPHhw,1.0,2019-06-26 17:03:31,True,True
+2019-06-26T17:13:06,Lying... Something some people aren't good at.,0,0,Ed 865,ljKzFGpPHhw,0.7,2019-06-26 17:13:06,True,True
+2019-06-26T17:17:22,*pushes the camera with his umbrella* Me: wait that's cool,44,0,Dózsa Márton,ljKzFGpPHhw,0.35,2019-06-26 17:17:22,True,True
+2019-06-26T17:22:50,"but where does the quad-sexual, minority lesbian fit into the plot? A realistic looking movie, finally.",0,0,cid v,ljKzFGpPHhw,0.18888888888888888,2019-06-26 17:22:50,True,True
+2019-06-26T17:42:48,@MattFleshman,0,0,Bridgit Bianco,ljKzFGpPHhw,0.0,2019-06-26 17:42:48,True,True
+2019-06-26T17:57:01,A sir and a dame. 🤯,1,0,Amien Fadhillah,ljKzFGpPHhw,0.0,2019-06-26 17:57:01,True,True
+2019-06-26T17:57:13,"Smell that John, that’s the Oscar scent in the air",1,0,Jermaine Jalade,ljKzFGpPHhw,0.0,2019-06-26 17:57:13,True,True
+2019-06-26T18:07:11,"That is the badass woman from the movie ""RED""",1,0,boris brian,ljKzFGpPHhw,0.0,2019-06-26 18:07:11,True,True
+2019-06-26T18:20:31,So this is why we haven't heard of Magneto in Logan.,0,0,Lord Fand Angus,ljKzFGpPHhw,0.0,2019-06-26 18:20:31,True,True
+2019-06-26T18:31:22,I think its the music that kept me watching this trailer 😅,0,0,GodsAngelAnkita,ljKzFGpPHhw,0.0,2019-06-26 18:31:22,True,True
+2019-06-26T18:39:45,Gandalf went full Saruman on this one,3,0,THE INVISIBLE WARRIOR,ljKzFGpPHhw,0.35,2019-06-26 18:39:45,True,True
+2019-06-26T18:40:13,I was waiting for Keanu to pop up. Man is literally everywhere.   KeanuMania,0,0,saptarshi devburman,ljKzFGpPHhw,0.0,2019-06-26 18:40:13,True,True
+2019-06-26T18:44:09,Amazing,0,0,Robert Saner,ljKzFGpPHhw,0.6000000000000001,2019-06-26 18:44:09,True,True
+2019-06-26T18:51:32,0:16 - 1:19 Soundtrack sounds like something out of a Christopher Nolan movie.,0,0,thehmph1,ljKzFGpPHhw,0.0,2019-06-26 18:51:32,True,True
+2019-06-26T18:52:30,Does anyone know the violin piece in this trailer?  Please !!!! 🙇,0,0,S. Blue Bonnet,ljKzFGpPHhw,0.0,2019-06-26 18:52:30,True,True
+2019-06-26T18:53:39,I love watching old people in movies. They’re always the most sincere in their acting. You could even say they make... good liars.,581,10,South West,ljKzFGpPHhw,0.3833333333333333,2019-06-26 18:53:39,True,True
+2019-06-26T18:54:52,*Nobody:*  *Anime nerds:* 0:13,2,0,Dragon Gamer,ljKzFGpPHhw,0.0,2019-06-26 18:54:52,True,True
+2019-06-26T18:55:53,"Well, lets hope Bill Condon keeps improving",1,0,Manuel David Rendon Acevedo,ljKzFGpPHhw,0.0,2019-06-26 18:55:53,True,True
+2019-06-26T19:04:48,Spy vs assasin?,0,0,Crypto Psycho,ljKzFGpPHhw,0.0,2019-06-26 19:04:48,True,True
+2019-06-26T19:08:24,damn. I felt I was being choked by this trailer.... and I LOVE IT!!!,1,0,Augustine Rombaux,ljKzFGpPHhw,0.9765625,2019-06-26 19:08:24,True,True
+2019-06-26T19:08:34,why does this trailer has the same intensity as one of the dark knight??,8,0,coloronthewalls,ljKzFGpPHhw,-0.075,2019-06-26 19:08:34,True,True
+2019-06-26T19:14:54,"Do people think they're  1. clever 2. cool 3. funny 4. flattering when they refer to an actor by a roll he's played?    Believe me, you're missing the other possibility:  5. idiotic",0,0,theR0nin,ljKzFGpPHhw,-0.0375,2019-06-26 19:14:54,True,True
+2019-06-26T19:15:33,Plot twist: _She's_ the good liar!,0,0,theR0nin,ljKzFGpPHhw,0.875,2019-06-26 19:15:33,True,True
+2019-06-26T19:15:51,I want Godzilla Vs kong trailer...hype for that trailer,1,0,Br3ndan,ljKzFGpPHhw,0.0,2019-06-26 19:15:51,True,True
+2019-06-26T19:23:18,All I want is the SnyderCut and Zack's FULL 5-Part Arc! #ReleaseThe214MinSnyderCut!! And #BringZackBack!!  This is my list on DC Superhero Movies: ( 1 being the Best and 7 being the worst )   1. BvS:UE 2. MoS 3. Wonder Woman 4. Shazam!  5. Aquaman 6. Suicide Squad  7. Josstice League!,0,0,Code Awesome28 #ZackSnydersJusticeLeague2021,ljKzFGpPHhw,0.0625,2019-06-26 19:23:18,True,True
+2019-06-26T19:25:43,This looks good...hope it is..very different from the norm with older actors,0,0,Joseph Kitchens,ljKzFGpPHhw,0.08333333333333333,2019-06-26 19:25:43,True,True
+2019-06-26T19:33:18,This looks way better than the Liar Liar reboot with a female lead I was expecting when I clicked,0,0,BigMack9737,ljKzFGpPHhw,0.25,2019-06-26 19:33:18,True,True
+2019-06-26T19:37:50,S(he) bel(lie)ve(d),1,0,Madhu Vatn,ljKzFGpPHhw,0.0,2019-06-26 19:37:50,True,True
+2019-06-26T19:43:28,Trailer is awesome and the music is amazing 👌👌,0,0,kush mishra,ljKzFGpPHhw,0.8,2019-06-26 19:43:28,True,True
+2019-06-26T19:57:12,Finally a film that looks good with good actors. I'm GenX.,0,0,Deep Waters,ljKzFGpPHhw,0.4666666666666666,2019-06-26 19:57:12,True,True
+2019-06-26T20:07:43,Gandalf jokes loading...,0,0,Joao Klein,ljKzFGpPHhw,0.0,2019-06-26 20:07:43,True,True
+2019-06-26T20:15:46,this looks good actually!,0,0,DongHyun Lee,ljKzFGpPHhw,0.35,2019-06-26 20:15:46,True,True
+2019-06-26T20:25:11,Must be a good movie,0,0,Dio,ljKzFGpPHhw,0.7,2019-06-26 20:25:11,True,True
+2019-06-26T20:46:51,"1:07 ""I know things about you...who you really are"" Turns out he's Magneto.",80,1,Bijit Basumatary,ljKzFGpPHhw,0.2,2019-06-26 20:46:51,True,True
+2019-06-26T20:48:57,I can see the Twist ending a mile away..................     She is the good liar,0,0,Mauricio Merida,ljKzFGpPHhw,0.7,2019-06-26 20:48:57,True,True
+2019-06-26T20:52:53,"Plot Twist:  She's the good liar, and he gets scammed.",525,38,Joseph Humphries,ljKzFGpPHhw,0.7,2019-06-26 20:52:53,True,True
+2019-06-26T20:55:44,Like here good liar fanz,0,0,Chirag Sreekumar,ljKzFGpPHhw,0.7,2019-06-26 20:55:44,True,True
+2019-06-26T20:56:41,this looks good. cant wait,0,0,s23,ljKzFGpPHhw,0.7,2019-06-26 20:56:41,True,True
+2019-06-26T21:03:39,Great choices on the cast,0,0,Jersey Representing,ljKzFGpPHhw,0.8,2019-06-26 21:03:39,True,True
+2019-06-26T21:09:01,WOW THIS LOOKS AMAZING!!!!!!,0,0,F_X,ljKzFGpPHhw,0.55,2019-06-26 21:09:01,True,True
+2019-06-26T21:12:46,"Huh, is that what they say?",0,0,Bryn Whitehead,ljKzFGpPHhw,0.0,2019-06-26 21:12:46,True,True
+2019-06-26T21:53:10,"hope it's good, cause Helen Mirren's recent film choices have been very questionable.   Anna, Nutcracker & Winchester.  I did like The Leisure Seeker tho.",7,2,T Movies,ljKzFGpPHhw,0.016666666666666646,2019-06-26 21:53:10,True,True
+2019-06-26T21:54:23,Helen Mirren and Ian McKellen?  Shut up and take my money!!!!,1,0,Jordan Carpenter,ljKzFGpPHhw,0.0,2019-06-26 21:54:23,True,True
+2019-06-26T21:59:19,Helen and Gandolf in a movie together sign me up,3,0,PC GOD,ljKzFGpPHhw,0.0,2019-06-26 21:59:19,True,True
+2019-06-26T22:03:17,if you listin closly... you can hear the danger pig theme from angry birds space,0,0,ComparedCrib 996,ljKzFGpPHhw,-0.5,2019-06-26 22:03:17,True,True
+2019-06-26T22:13:09,you have my attention,1,0,Chenx Chiu,ljKzFGpPHhw,0.0,2019-06-26 22:13:09,True,True
+2019-06-26T22:15:56,Nice!,0,0,CJ Productions,ljKzFGpPHhw,0.75,2019-06-26 22:15:56,True,True
+2019-06-26T22:24:11,Well that looks amazing.,0,0,Ryan T,ljKzFGpPHhw,0.6000000000000001,2019-06-26 22:24:11,True,True
+2019-06-26T22:25:16,Gandalf the nazi,0,0,MightyTANK1,ljKzFGpPHhw,0.0,2019-06-26 22:25:16,True,True
+2019-06-26T22:34:58,anybody notice that the actor for roi is the same actor for that one tall food taster/interviewer from the old movie ratatouille?,0,0,epic_boy_vines,ljKzFGpPHhw,0.05,2019-06-26 22:34:58,True,True
+2019-06-26T22:58:31,This is why WB remains my favorite movie studio.,1,0,Olu A.,ljKzFGpPHhw,0.5,2019-06-26 22:58:31,True,True
+2019-06-26T23:43:16,That was AMAZING,0,0,AbdulQadir Tv,ljKzFGpPHhw,0.6000000000000001,2019-06-26 23:43:16,True,True
+2019-06-26T23:57:54,But Gandalf would never lie,0,0,Lyreoz,ljKzFGpPHhw,0.0,2019-06-26 23:57:54,True,True
+2019-06-27T00:32:55,Greatest actors  of all time,1,0,Sasha Fox,ljKzFGpPHhw,1.0,2019-06-27 00:32:55,True,True
+2019-06-27T00:46:57,What's this?? AN ORIGINAL MOVIE??? NO WAY,0,0,MundoJuanci,ljKzFGpPHhw,0.375,2019-06-27 00:46:57,True,True
+2019-06-27T01:11:32,"The music by Carter Burwell is the cherry on top, I'm sold! Can't wait",1,0,Sara Morais,ljKzFGpPHhw,0.625,2019-06-27 01:11:32,True,True
+2019-06-27T01:33:28,She is going to be the one thats playing him. Im calling it,6,1,bryce mcbride,ljKzFGpPHhw,0.0,2019-06-27 01:33:28,True,True
+2019-06-27T02:29:16,This trailer had me at Helen Mirren...love her! Looks like another great movie!!,22,0,My Blogged Life,ljKzFGpPHhw,1.0,2019-06-27 02:29:16,True,True
+2019-06-27T03:42:26,I'm watching this on the big screen.,1,0,Srikanth Menon,ljKzFGpPHhw,0.0,2019-06-27 03:42:26,True,True
+2019-06-27T04:19:44,This looks British as fuck,0,0,Rico Garcia,ljKzFGpPHhw,-0.2,2019-06-27 04:19:44,True,True
+2019-06-27T04:49:28,#releasethesyndercut,0,0,Prashant Kumar,ljKzFGpPHhw,0.0,2019-06-27 04:49:28,True,True
+2019-06-27T05:00:21,"I am already giving cartons..just cartons of Oscar, Golden Globes, Bafta and everything else to McKellen and Mirren. Looking forward..",11,0,Sayan SenGupta,ljKzFGpPHhw,0.3,2019-06-27 05:00:21,True,True
+2019-06-27T06:15:48,This looks fantastic! Love Ian,2,0,Connor Diaz,ljKzFGpPHhw,0.5,2019-06-27 06:15:48,True,True
+2019-06-27T06:16:44,whats the song called at 1:27?,3,0,* Storyteller *,ljKzFGpPHhw,0.0,2019-06-27 06:16:44,True,True
+2019-06-27T06:21:58,Wait... what... a movie with an actual SCRIPT!... IN 2019!!,124,11,Kevin Brown,ljKzFGpPHhw,0.0,2019-06-27 06:21:58,True,True
+2019-06-27T07:19:19,I see Helen Mirren me like movie,1,0,rk1h,ljKzFGpPHhw,0.0,2019-06-27 07:19:19,True,True
+2019-06-27T07:19:58,Is something wrong with me if this gave me chills?,0,0,dj gaming,ljKzFGpPHhw,-0.5,2019-06-27 07:19:58,True,True
+2019-06-27T07:31:50,Looks good.  Frightening too,0,0,LadyAnne,ljKzFGpPHhw,0.09999999999999998,2019-06-27 07:31:50,True,True
+2019-06-27T07:43:40,Thank you WB for all these movies !,1,0,Mupmup Isabroc,ljKzFGpPHhw,0.0,2019-06-27 07:43:40,True,True
+2019-06-27T08:06:12,Thought it was clorace leachman,0,0,michael solis,ljKzFGpPHhw,0.0,2019-06-27 08:06:12,True,True
+2019-06-27T09:48:29,"""Do you know who you are?"" What is the most dreadful lie you have ever told?",0,0,Nivek Ladd,ljKzFGpPHhw,-0.25,2019-06-27 09:48:29,True,True
+2019-06-27T10:30:06,So the cast is Grandpa and Grandma.🤔,0,0,May Kyi Phyu,ljKzFGpPHhw,0.0,2019-06-27 10:30:06,True,True
+2019-06-27T11:06:42,"Music starts from 1:36 , does anyone know the title?",3,1,Lollex4,ljKzFGpPHhw,0.0,2019-06-27 11:06:42,True,True
+2019-06-27T11:17:47,So...who is he 😂,0,0,SanSan 5000,ljKzFGpPHhw,0.0,2019-06-27 11:17:47,True,True
+2019-06-27T11:24:13,"Fuck me, Sir",0,0,Muhammad Dhiya'ulhaq Mas Nawi,ljKzFGpPHhw,-0.4,2019-06-27 11:24:13,True,True
+2019-06-27T13:43:01,and the best pictures goes to...,0,0,fachrul febrian,ljKzFGpPHhw,1.0,2019-06-27 13:43:01,True,True
+2019-06-27T13:49:11,Warner Bros. I hope you can use your brands well and make some of it popular so your brands will be profitable.,0,0,Harley Queen,ljKzFGpPHhw,0.6,2019-06-27 13:49:11,True,True
+2019-06-27T14:01:35,This looks promising,0,0,djIV,ljKzFGpPHhw,0.2,2019-06-27 14:01:35,True,True
+2019-06-27T15:16:19,Mithrandir!,0,0,K J,ljKzFGpPHhw,0.0,2019-06-27 15:16:19,True,True
+2019-06-27T15:47:26,"WOW this looks fantastic! Acting royalty here, plus suspense,what more could you want in a movie experience.",4,0,Julia Risi,ljKzFGpPHhw,0.275,2019-06-27 15:47:26,True,True
+2019-06-27T15:55:42,Excellent actors.  I want to see👀🍿🥤,0,0,Dian DP,ljKzFGpPHhw,1.0,2019-06-27 15:55:42,True,True
+2019-06-27T15:56:16,"Looks brilliant, I'm hoping there's a plot twist and she ends up conning him instead 🤣🤣🤣",0,1,louise scott,ljKzFGpPHhw,0.9,2019-06-27 15:56:16,True,True
+2019-06-27T15:56:50,"""my name is not brian it is in fact, Gandalf""",0,0,matt glennon,ljKzFGpPHhw,0.0,2019-06-27 15:56:50,True,True
+2019-06-27T16:15:52,I can't wait to see this!!!,0,0,Matthew Pippin,ljKzFGpPHhw,0.0,2019-06-27 16:15:52,True,True
+2019-06-27T16:26:34,People using other people: Its Human nature - one big joke.,0,0,philip Young,ljKzFGpPHhw,-0.041666666666666664,2019-06-27 16:26:34,True,True
+2019-06-27T16:30:28,Looks fascinating,0,0,jim bob,ljKzFGpPHhw,0.7,2019-06-27 16:30:28,True,True
+2019-06-27T17:15:36,If you get to this comment PLEASE  TURN THE MUSIC DOWN!!!  So many movies now play the music so loud my husband and I can't hear what the people are saying!  This movie looks interesting but I have no idea what they are saying.,0,0,kandr63,ljKzFGpPHhw,0.2052951388888889,2019-06-27 17:15:36,True,True
+2019-06-27T18:07:47,Mirren vs McKellen? YES PLEASE,0,0,The Torresons,ljKzFGpPHhw,0.0,2019-06-27 18:07:47,True,True
+2019-06-27T19:21:18,Not really 🤔 It's in the title lmao 😂. More like the best truth teller 🤗 This Liar told us all the truth by naming the video that in thumbnail 😇,2,0,FREE Will Dummies!,ljKzFGpPHhw,0.5,2019-06-27 19:21:18,True,True
+2019-06-27T21:11:14,Gandalf up to his old shenanigans. Tsk tsk.,1,0,Mr. Video,ljKzFGpPHhw,0.1,2019-06-27 21:11:14,True,True
+2019-06-27T21:21:22,Old grandpa catfish is at it again 😅,1,0,john doe,ljKzFGpPHhw,0.1,2019-06-27 21:21:22,True,True
+2019-06-27T21:25:58,Thought this was xmen,1,0,vSnag Jay,ljKzFGpPHhw,0.0,2019-06-27 21:25:58,True,True
+2019-06-27T21:34:02,Calling it right now he was a nazi in the past,3,1,TheAndJello,ljKzFGpPHhw,0.01785714285714285,2019-06-27 21:34:02,True,True
+2019-06-27T22:18:22,"Oh,  I'm looking forward to this...! With these two powerhouses on screen, I suspect I'll be mesmerized.",3,0,Tristan Black Wolf,ljKzFGpPHhw,0.0,2019-06-27 22:18:22,True,True
+2019-06-28T01:15:18,Since I'll never get to see a good Me.Ripley sequel I guess this will entertain me until the reboot.,2,0,Tommygunnz Frank,ljKzFGpPHhw,0.7,2019-06-28 01:15:18,True,True
+2019-06-28T01:44:00,"so Hard Candy... but with old people. anyway, Dame Helen Mirren and Sir Ian McKellen are legends so I'll watch it.",1,0,O Tom,ljKzFGpPHhw,-0.09583333333333334,2019-06-28 01:44:00,True,True
+2019-06-28T02:41:50,finialy something worth watching in 2019,1,0,Toon She,ljKzFGpPHhw,0.3,2019-06-28 02:41:50,True,True
+2019-06-28T02:58:03,I Know him guys He is non other than Gandalf,0,0,Suju Bsty,ljKzFGpPHhw,-0.125,2019-06-28 02:58:03,True,True
+2019-06-28T04:03:43,Don't trust her Gandalf it's Saruman disguised D:<,0,0,Abe S,ljKzFGpPHhw,0.0,2019-06-28 04:03:43,True,True
+2019-06-28T04:23:03,"I'm just gonna say what we're all thinking: ""Shut up and take my money!""",0,0,Animaniak,ljKzFGpPHhw,0.0,2019-06-28 04:23:03,True,True
+2019-06-28T05:01:19,"I Always Wanted To Be A Film Director And Make A   Live Action Teen Titans Movie Based Off The 2003 Series By DC Comics   And Here's The Full Cast Of The Live Action Teen Titans Movie  Teen Titans Logan Lerman as Robin/Nightwing Ray Fisher as Cyborg Victoria Justice as Starfire Elizabeth Gillies as Raven (not katelyn nacon) Thomas Brodie-Sangster as BeastBoy Peyton List as Terra Tyler Posey as Blue Beetle Jaden Smith as Static Shock SeeJay X as Shockwave/Rajan (I'm playing as my character in the dc universe)  Teen Titans East Jessica Lucas as Bumblebee Samuel Barnett as Speedy BooBoo Stewart as Aqualad Shawn & Aaron Ashmore as Más Y Menos  Teen Titans South Michelle Rodriguez as Pantha Danny Trejo as Wildebeest (voice) Michael Ealy as Hot Spot  Teen Titans North Talitha Bateman as Kole Aleksandr Kerzhakov as Red-Star Abbey Lee Kershaw as Argent Keanu Reeves as Gnarrk  Team Titans Tyler BlackBurn as Nightrider Hugh Jackman as Battalion Camilla Bell as Mirage Charlize Theron as Flame-Bird Unknown Actor as Kilowatt  Honorary Titans Halson Sage as Jinx Dylan R. Snyder as Kid Flash Amber S. West as Thunder Madison Pettis as Lightning Dee Bradley Baker as Tramm (voice) Jimmy Pincheck as Jericho Brandon T. Jackson as Herald Unknown Child Actors as Melvin, Timmy Tantrum and Teether Unknown Actor as Bobby Christopher Larkin as Bushido Alexandra Daddario as WonderGirl Levi Miller as Robin/Damian Wayne Max Charles as Superboy/Kon-el   The Doom Patrol Luke Benward as Mento Adelaide Kane as Elasi-Girl Christopher Eccleston as Negative-Man Cary Elwes as Robot-Man Thomas Brodie-Sangster as BeastBoy  The Justice League Henry Cavill as Superman Gal Gadot as Wonder Woman Ezra Miller as The Flash Jason Momoa as Aquaman Robert Pattinson as Batman Ray Fisher as Cyborg Tom Cruise as Green Lantern Zachary Levi as Shazam Peter Mansah as Martian Manhunter Travis Fimmel as Green Arrow Amanda Schull as Black Canary Channing Tatum as Plastic-Man Sam Worthington as Hawk-Man Abbey Lee as Hawk-Girl Damon Wayans Jr. As Black Lightning Joel Edgerton as Timber-Wolf  The Villians   Joe Manganiello as Deathstroke Sky Ferreira as Ravager Jamie Bell as Grant Wilson Jonathan Keltz as Red-X Kelly Hu as Madame Rouge Gary Oldman as Brother Blood Ben Kingsley as Mumbo Jumbo Jackson A. Dunn as BrightBurn/Brandon Breyer (after seeing brightburn I've been thinking about adding him in my dceu teen titans movies)  Steven Austin as Cinderblock (voice) Dee Bradley Baker as Plasmus (voice) Robin Atkin Downes as Doomsday (Voice) Kevin Michael Richardson as Trigon (voice)  The Hive Five Halson Sage as Jinx Noah Ringer as Gizmo Kim Kold as Mammoth Keegan Michael Key as See-More Allistair McNab as Private Hive Ryan Gosling as Billy Numerous Unknown Actor as Kyd Wykkyd  Teen Tyrants Dylan Minnette as Red Robin Zoey Deutch as Blackfire Joe Keery as Tempest Olivia Cooke as Red Raven Devin Druid as Arsenal  Suicide Squad Viola Davis as Amanda Waller Jared Leto as The Joker Margot Robbie as Harley Quinn Idris Elba as Deadshot Jai Courtney as Captain Boomerang Joel Kinnaman as Rick Flag Jay Hernandez as El Diablo Adewale Akinnuoye-Agbaje as Killer Croc Karen Fukuhara as Katana Nathan Jones as Bane  The Injustice League Joe Manganiello as Deathstroke Michael Rosenbaum as Lex Luthor Yahya Abdul-Mateen II as Black Manta Kristin Wing as Cheetah Mark Strong as Dr. Sivana Dwayne ""The Rock"" Johnson as Black Adam Michael Stuhlbarg as Doctor Light Dan Stevens as Felix Faust Rami Malik as Sinestro Hafpór Júléus Björnsson as Solomon Grundy Timothy Olyphant as Metallo Matt Smith as The Thinker Edward Norton as The Riddler  Fictional Characters Amy Adams as Lois Lane Laurence Fishburne as Perry White Rebecca Buller as Jenny Jurwich Diana Lane as Martha Kent Joe Morton as Silas Stone Jeremy Irons as Alfred Pennyworth Harry Lennix as Captain Swanwick Christina Wren as Carol Ferris J. K. Simmons as Commissioner James Gordon Unknown Actor as Arella   (three characters from the transformers movies) Josh Duhamel as Lt. Colonel William Lennox Tyrese Gibson as Robert Epps Lester Speight as Captain Eddie  Teen Titans Film Series Teen Titans: 1 Teen Titans: 2 The Rise of Trigon Teen Titans: 3 War in Jump City Part 1 Teen Titans: 4 War in Jump City Part 2 Teen Titans: 5 Battle of the Teen Tyrants Teen Titans: 6 The Legends of Titans Teen Titans: 7 The Return of Slade Teen Titans: 8 Trouble in Tokyo Teen Titans: 9 Evolution Teen Titans: 10 The Judas Contract  Music Soundtrack Score by Junkie XL & Steven Price or Soundtrack-Edits Here's The Playlist  https://www.youtube.com/playlist?list...  And I Don't Care that I'm 17  Give Me Cast Ideas For 6 Characters Kilowatt, Melvin, Teether, Timmy, Bobby, Kyd Wykkyd, Arella",0,0,SeeJay X,ljKzFGpPHhw,0.022787878787878788,2019-06-28 05:01:19,True,True
+2019-06-28T05:09:33,So this is what Magneto was doing during Logan,0,0,Samuel Callejo,ljKzFGpPHhw,0.0,2019-06-28 05:09:33,True,True
+2019-06-28T05:32:28,I love Helen,0,0,Justaname,ljKzFGpPHhw,0.5,2019-06-28 05:32:28,True,True
+2019-06-28T06:25:08,what is this music??,1,0,Tira McLachlan,ljKzFGpPHhw,0.0,2019-06-28 06:25:08,True,True
+2019-06-28T08:05:01,Fooking right I’m going to watch this.,0,0,Aurum TheBrave,ljKzFGpPHhw,0.2857142857142857,2019-06-28 08:05:01,True,True
+2019-06-28T08:53:53,"*”Liar! You’re with him, you brought him here to kill me!”*",1,0,tfw you live in 2020,ljKzFGpPHhw,0.0,2019-06-28 08:53:53,True,True
+2019-06-28T09:00:06,"Any time you pair two actors of the caliber of Helen Mirren & Ian McKellen, you have my money.",0,0,Tyrannosavage Rekt,ljKzFGpPHhw,0.0,2019-06-28 09:00:06,True,True
+2019-06-28T09:25:32,"Looks good, a definite watch.",0,0,David Hargreaves,ljKzFGpPHhw,0.35,2019-06-28 09:25:32,True,True
+2019-06-28T10:16:06,"Looks like a super classy, intelligent, mystery drama. The fact that they cast 2 BRILLIANT veteran actors in the leads means this will.be.worth.it.",57,5,Dwiputri Sutanto,ljKzFGpPHhw,0.42666666666666664,2019-06-28 10:16:06,True,True
+2019-06-28T12:08:33,"Can’t get enough of that violin, wonder what that amazing piece is called??",1,0,Kevin Erpel,ljKzFGpPHhw,0.30000000000000004,2019-06-28 12:08:33,True,True
+2019-06-28T13:38:28,Dark side of the beautiful story.,0,0,Maddy Simba,ljKzFGpPHhw,0.35,2019-06-28 13:38:28,True,True
+2019-06-28T13:38:52,Dark side of the beautiful story.,0,0,Maddy Simba,ljKzFGpPHhw,0.35,2019-06-28 13:38:52,True,True
+2019-06-28T13:48:53,I saw the trailer for this last night adn it looks interesting. I hope its better than Greta.,0,0,Moo Moo Puppy,ljKzFGpPHhw,0.3333333333333333,2019-06-28 13:48:53,True,True
+2019-06-28T14:10:35,🌞,0,0,Damarcus Mitchell,ljKzFGpPHhw,0.0,2019-06-28 14:10:35,True,True
+2019-06-28T14:12:09,1.8 million views and only 3k likes and 200 comments.Atleast make it sure that noone understands you are viewbotting.Discusting.,0,0,Snow,ljKzFGpPHhw,0.25,2019-06-28 14:12:09,True,True
+2019-06-28T14:27:52,It’s good to see Russell Torvey finally get the mainstream attention he deserves,2,0,Colbert Massie,ljKzFGpPHhw,0.35,2019-06-28 14:27:52,True,True
+2019-06-28T15:21:08,Two great actors sharing the silver screen. I hope this will be great.,2,0,William Plaud,ljKzFGpPHhw,0.8,2019-06-28 15:21:08,True,True
+2019-06-28T15:48:05,"Loved this, my favourite kind of story telling. Looks damn thriling. Can't wait.",3,2,Rohan Sharma,ljKzFGpPHhw,0.6499999999999999,2019-06-28 15:48:05,True,True
+2019-06-28T16:16:42,Greatest trailer of 2019,0,0,Ali Reza Mohseni Nasab,ljKzFGpPHhw,1.0,2019-06-28 16:16:42,True,True
+2019-06-28T17:01:28,My birthday is  when this movie come out,0,0,demetrie clarke,ljKzFGpPHhw,0.0,2019-06-28 17:01:28,True,True
+2019-06-28T18:03:10,"Sir Ian who is amazing actor... Helen Mirren who is ABSOLUTELY brilliant actress... Love both, whatever the movie is - thanks to both",15,1,Denis Pak,ljKzFGpPHhw,0.55,2019-06-28 18:03:10,True,True
+2019-06-28T18:58:27,Starring HRC?,0,0,Roy Allmond,ljKzFGpPHhw,0.0,2019-06-28 18:58:27,True,True
+2019-06-28T19:24:26,This looks awesome! I love all the main actors involved!,3,0,Dennis Sanderson,ljKzFGpPHhw,0.5694444444444444,2019-06-28 19:24:26,True,True
+2019-06-28T19:40:53,Whatever Gandolf is in  I’m interested in the man can act period,0,0,ifeanyi akpa,ljKzFGpPHhw,0.25,2019-06-28 19:40:53,True,True
+2019-06-28T20:17:50,Now that’s a trailer,0,0,Zenos Villondo,ljKzFGpPHhw,0.0,2019-06-28 20:17:50,True,True
+2019-06-28T22:13:28,I can’t believe this. A 2019 trailer for a film that doesn’t seem to be pushing an agenda.  I’m definitely watching this.,0,0,Andres Gajardo,ljKzFGpPHhw,0.0,2019-06-28 22:13:28,True,True
+2019-06-28T22:43:02,so... fagneto vs M,0,0,Ben Rosen,ljKzFGpPHhw,0.0,2019-06-28 22:43:02,True,True
+2019-06-28T22:46:41,OMG!,0,0,BEHEDETY,ljKzFGpPHhw,0.0,2019-06-28 22:46:41,True,True
+2019-06-28T23:28:44,Ian McKellen as a grifter? Yes please.,4,0,Curt Arnold,ljKzFGpPHhw,0.0,2019-06-28 23:28:44,True,True
+2019-06-29T00:07:29,"This is a must see! Not sure why, just looks really good. Hope the wife wants to go!",1,0,ben ben,ljKzFGpPHhw,0.2333333333333333,2019-06-29 00:07:29,True,True
+2019-06-29T00:18:40,Anyone read the novel?,1,0,Alec Buorandi,ljKzFGpPHhw,0.0,2019-06-29 00:18:40,True,True
+2019-06-29T00:26:20,Looks good!,0,0,Joe Ibarra,ljKzFGpPHhw,0.875,2019-06-29 00:26:20,True,True
+2019-06-29T00:30:55,Dame Helen Mirren is one of the few past 60 yo that can still get it in my book.,1,0,Ugo Eze,ljKzFGpPHhw,-0.225,2019-06-29 00:30:55,True,True
+2019-06-29T00:38:49,The music is intense,3,0,Wolverine,ljKzFGpPHhw,0.2,2019-06-29 00:38:49,True,True
+2019-06-29T02:21:50,The whole time I was like: this is just a gritty reboot of “Dirty Rotten Scoundrels.” Anybody?,1,0,Josh Sampson,ljKzFGpPHhw,-0.13333333333333333,2019-06-29 02:21:50,True,True
+2019-06-29T05:16:49,I srsly cannot wait to see this movie. I love this all star line up.,0,0,Lisa Stallings Keelor,ljKzFGpPHhw,0.5,2019-06-29 05:16:49,True,True
+2019-06-29T05:26:51,"Man this is why I love Warner Bros, always putting up original content. Genuine movie for grown ups unlike them typical superficial lame hero movies. cough cough disney and marvel fans ...",0,0,Jobs mine,ljKzFGpPHhw,0.12166666666666663,2019-06-29 05:26:51,True,True
+2019-06-29T06:31:37,Two legend.. INTENSE,0,0,Likhon Reza,ljKzFGpPHhw,0.2,2019-06-29 06:31:37,True,True
+2019-06-29T07:00:01,this is going to be epic,0,0,Victoria Reynaga,ljKzFGpPHhw,0.1,2019-06-29 07:00:01,True,True
+2019-06-29T07:54:37,#ReleaseSnyderCut,0,0,A.R.W,ljKzFGpPHhw,0.0,2019-06-29 07:54:37,True,True
+2019-06-29T09:24:50,Goddamnit Freddie stop gold digging,0,0,King Crimson,ljKzFGpPHhw,0.0,2019-06-29 09:24:50,True,True
+2019-06-29T10:35:55,I'll wait...,0,0,RK PUSA,ljKzFGpPHhw,0.0,2019-06-29 10:35:55,True,True
+2019-06-29T11:21:26,Thank you 🙏,0,0,Kelly Lin,ljKzFGpPHhw,0.0,2019-06-29 11:21:26,True,True
+2019-06-29T12:16:28,Gandalf is going Gangster,0,0,dan hopkinson,ljKzFGpPHhw,0.0,2019-06-29 12:16:28,True,True
+2019-06-29T13:22:27,"Helen Mirren, Ian McKellen, AND Russell Tovey!? I'm wet.",0,0,Vivian,ljKzFGpPHhw,-0.1,2019-06-29 13:22:27,True,True
+2019-06-29T13:56:36,i want that soundtrack now!!!,39,3,Milomed TOMAS,ljKzFGpPHhw,0.0,2019-06-29 13:56:36,True,True
+2019-06-29T14:40:11,So it’s just like OnLiNe DaTiNg GoNe WrOnG,3,0,Cheezy,ljKzFGpPHhw,-0.5,2019-06-29 14:40:11,True,True
+2019-06-29T15:14:03,I'm usually not into action movies but this looks amazing,0,0,Epicfluffycat The Sleeping cat,ljKzFGpPHhw,0.275,2019-06-29 15:14:03,True,True
+2019-06-29T20:00:53,This looks so Cool,0,0,rjphilla,ljKzFGpPHhw,0.35,2019-06-29 20:00:53,True,True
+2019-06-29T22:00:43,Yeah Magnito we know who u REALLY are,2,1,Andy Duhh,ljKzFGpPHhw,0.2,2019-06-29 22:00:43,True,True
+2019-06-29T22:26:04,"Ian McKellen & Helen Mirren, two of the most formidable actors alive, worth a watch even if they read the yellow pages for 90 minutes.",244,4,Aaron Johnson,ljKzFGpPHhw,0.22499999999999998,2019-06-29 22:26:04,True,True
+2019-06-30T00:22:29,"I know who he is!, he's Magneto!!",2,0,Sub Zero,ljKzFGpPHhw,0.0,2019-06-30 00:22:29,True,True
+2019-06-30T00:46:43,This movie exposes a great deal about the internet you never know who you actually talkin to and my name is truly Roy,21,1,ROY MCLEAN,ljKzFGpPHhw,0.4,2019-06-30 00:46:43,True,True
+2019-06-30T01:03:37,"One of the reasons why you should knock a mf out, no matter the age 😂",3,0,Rae’Quan Morgan,ljKzFGpPHhw,0.0,2019-06-30 01:03:37,True,True
+2019-06-30T02:28:59,Does anyone know this music!!!!,0,0,Samantha Bludsworth,ljKzFGpPHhw,0.0,2019-06-30 02:28:59,True,True
+2019-06-30T02:50:18,I feel like she is gonna be the winner and him the looser.,0,0,rose eze,ljKzFGpPHhw,0.0,2019-06-30 02:50:18,True,True
+2019-06-30T10:05:29,Superb book.  Looking forward to seeing it come to life.,1,1,Julie B,ljKzFGpPHhw,1.0,2019-06-30 10:05:29,True,True
+2019-06-30T12:36:15,"Eric you are better than this... You don't have to lie, you can make a better world",4,0,Hubela Elbay,ljKzFGpPHhw,0.5,2019-06-30 12:36:15,True,True
+2019-06-30T17:25:19,"So, it's the more action version from 47 Years?",0,0,Soearadiri Movie,ljKzFGpPHhw,0.3,2019-06-30 17:25:19,True,True
+2019-06-30T19:24:33,WOW!!! Got to see this one.,0,0,Justina Kavanagh,ljKzFGpPHhw,0.1953125,2019-06-30 19:24:33,True,True
+2019-06-30T20:11:21,This looks really good,0,0,Joyee Luk,ljKzFGpPHhw,0.7,2019-06-30 20:11:21,True,True
+2019-06-30T20:14:58,FUCK YOU WB YOU MADE GAMES SO HARD FUCK YOU,0,0,james tiger,ljKzFGpPHhw,-0.36388888888888893,2019-06-30 20:14:58,True,True
+2019-06-30T21:16:04,Pasen el nombre de las rolas están buenas,0,0,simon saldaña trejo,ljKzFGpPHhw,0.0,2019-06-30 21:16:04,True,True
+2019-06-30T21:48:33,that is q u a l i t y. im fucking excited!!!!,0,0,M Barbz,ljKzFGpPHhw,0.91552734375,2019-06-30 21:48:33,True,True
+2019-07-01T00:05:33,A very fancy and sophisticated con - slut story. I’m interested.,0,0,Racso T.,ljKzFGpPHhw,0.31666666666666665,2019-07-01 00:05:33,True,True
+2019-07-01T00:10:58,I know things about you.  You were a wizard.,5,0,Rachmat Farid Mutiardi,ljKzFGpPHhw,0.0,2019-07-01 00:10:58,True,True
+2019-07-01T01:44:17,So this is what old man Erik Lenscher aka Magneto is up to now.,3,0,Ty Long,ljKzFGpPHhw,0.1,2019-07-01 01:44:17,True,True
+2019-07-01T02:07:13,Hello Warner bros team up with universal studios to make the new powerpuff girls vs jurassic park movie and make it animated into a pg movie thank you,1,0,Gilbert Perea,ljKzFGpPHhw,0.06818181818181818,2019-07-01 02:07:13,True,True
+2019-07-01T03:13:55,Is it just me or is the violin playing Sisqo's Thong....I hope granny ends up running a sham on this man gold digger.,0,0,Kristen C,ljKzFGpPHhw,-0.2,2019-07-01 03:13:55,True,True
+2019-07-01T03:18:12,"After seeing X-men, I can't see Ian as no one other than Magneto. When I hear lines ""seems like you've had quite the past,"" ""You're the only person on this planet, who makes me feel that I'm not alone."" It's like an infomercial for Magneto.",0,0,JackSparrowJives,ljKzFGpPHhw,-0.125,2019-07-01 03:18:12,True,True
+2019-07-01T03:43:55,So that’s what Magneto was doing...,1,0,Strider Stryker,ljKzFGpPHhw,0.0,2019-07-01 03:43:55,True,True
+2019-07-01T06:13:28,Old magneto life after X3 🤣,0,0,kemal hardianto,ljKzFGpPHhw,0.1,2019-07-01 06:13:28,True,True
+2019-07-01T09:02:13,Looks really good!,0,0,nscoby93,ljKzFGpPHhw,0.875,2019-07-01 09:02:13,True,True
+2019-07-01T16:00:52,"Dear Trailer, You aren't fooling me.  She turns out to be the lair and kills men after marriage to get their money. Calling it here.",8,1,Dr Benjamin Stacker,ljKzFGpPHhw,0.0,2019-07-01 16:00:52,True,True
+2019-07-01T17:57:49,"""Here at last, on the shores of the sea, comes the end of our fellowship. I must now star opposite Helen Mirren.""",2,0,J Bro,ljKzFGpPHhw,0.0,2019-07-01 17:57:49,True,True
+2019-07-01T19:10:50,I’m so happy to see Russell and Jim in another project!,1,0,Iúile,ljKzFGpPHhw,1.0,2019-07-01 19:10:50,True,True
+2019-07-01T22:18:53,I want a new batman lol do yall??,1,0,Jay_Flashy,ljKzFGpPHhw,0.4681818181818182,2019-07-01 22:18:53,True,True
+2019-07-01T22:31:37,I can see Oscar coming...,0,0,Ed //Money,ljKzFGpPHhw,0.0,2019-07-01 22:31:37,True,True
+2019-07-02T01:05:36,Very interesting,0,0,Virales Highlight,ljKzFGpPHhw,0.65,2019-07-02 01:05:36,True,True
+2019-07-02T11:09:43,Does anyone know what’s music here?,0,0,Reognatsi TM,ljKzFGpPHhw,0.0,2019-07-02 11:09:43,True,True
+2019-07-02T16:36:29,"OMG an exciting movie about people 60+ that is not about marriage problems or their grandchildren. I will definitely watch this. More of this, please.",217,1,Nadja K,ljKzFGpPHhw,0.26666666666666666,2019-07-02 16:36:29,True,True
+2019-07-02T16:39:39,boring,0,0,Or Barry,ljKzFGpPHhw,-1.0,2019-07-02 16:39:39,True,True
+2019-07-02T16:54:54,"This looks so good, intense.",0,0,Rubén Arturo,ljKzFGpPHhw,0.44999999999999996,2019-07-02 16:54:54,True,True
+2019-07-02T19:10:16,Looks so good. Two legends!,2,0,riaa,ljKzFGpPHhw,0.875,2019-07-02 19:10:16,True,True
+2019-07-02T19:16:25,"Am gonna watch this with chilly fries and a cosy blanket alone, Am gonna enjoy every second😊",2,0,SHAKIR SABOOR,ljKzFGpPHhw,-0.09999999999999998,2019-07-02 19:16:25,True,True
+2019-07-02T20:51:44,Okayyy.. This looks insanely good!!,0,0,Bored Nerd,ljKzFGpPHhw,1.0,2019-07-02 20:51:44,True,True
+2019-07-02T21:39:08,"Dear John, the sequel",0,0,May Queen,ljKzFGpPHhw,0.0,2019-07-02 21:39:08,True,True
+2019-07-02T22:47:35,Damn! November 15!?! 😒,0,0,Melanie Toledo,ljKzFGpPHhw,0.0,2019-07-02 22:47:35,True,True
+2019-07-03T03:05:35,You suck warner bros do Batman Continues or should I say Tim Burton’s Batman 3,0,0,IndianaJack1 Studios,ljKzFGpPHhw,0.0,2019-07-03 03:05:35,True,True
+2019-07-03T08:55:31,I can't wait for those steamy sex scenes ....,1,0,Ed Berger,ljKzFGpPHhw,0.0,2019-07-03 08:55:31,True,True
+2019-07-03T16:05:04,Not one but two knights of the realm. Looks like we're in for a treat.,1,0,Michael Heliotis,ljKzFGpPHhw,0.0,2019-07-03 16:05:04,True,True
+2019-07-04T03:19:46,I smell Oscar nominations for both....🤔,3,0,Ariel Augusto Turcios DuPuis,ljKzFGpPHhw,0.0,2019-07-04 03:19:46,True,True
+2019-07-04T03:26:42,This kind of movie should be appreciate.this kind of acting you will rarely get to see...,0,1,Just Entertain.,ljKzFGpPHhw,0.375,2019-07-04 03:26:42,True,True
+2019-07-04T06:33:22,#releasethesnydercut,0,0,The DUSK,ljKzFGpPHhw,0.0,2019-07-04 06:33:22,True,True
+2019-07-04T15:58:53,I'm gonna watch this movie..,0,0,mhay bizkiter,ljKzFGpPHhw,0.0,2019-07-04 15:58:53,True,True
+2019-07-04T23:24:09,where is Harry Potter and the cursed kid:(,0,0,kyr kal7,ljKzFGpPHhw,-0.75,2019-07-04 23:24:09,True,True
+2019-07-05T01:46:03,Mack a Sanits row movie,1,0,jacob perry,ljKzFGpPHhw,0.0,2019-07-05 01:46:03,True,True
+2019-07-05T20:21:47,Nothing better than a good British thriller.,1,0,Bob Holness,ljKzFGpPHhw,0.39999999999999997,2019-07-05 20:21:47,True,True
+2019-07-06T07:03:31,"Looks great, and gonna watch it for sure, but I think the trailer showed us a little to much of hints, that I already have an idea on how its gonna end. The plot twist is that she knows him from years ago, and now wanna set him up, so she is ""The good Liar"".   The grandson keep saying ""You dont know him"", nah I think she does, and Mckellen answering on his question about what a life he has ""Enoguh to last several life times"".",0,0,MOVIE1000,ljKzFGpPHhw,0.28750000000000003,2019-07-06 07:03:31,True,True
+2019-07-06T14:16:05,Is this showing now ???,0,0,Mimosa Mounia,ljKzFGpPHhw,0.0,2019-07-06 14:16:05,True,True
+2019-07-06T20:24:29,Like for Joseph Morgan as the next joker,0,0,Luke Mccarthy,ljKzFGpPHhw,0.0,2019-07-06 20:24:29,True,True
+2019-07-06T21:35:33,who else is watching this for céline buckens?,0,0,Joe Simnett,ljKzFGpPHhw,0.0,2019-07-06 21:35:33,True,True
+2019-07-07T00:09:28,"Many liars in the world, the truth will always come to light",0,0,Val Rince,ljKzFGpPHhw,0.45,2019-07-07 00:09:28,True,True
+2019-07-07T08:54:45,Cadê  Warner Bros ? Estamos esperando a volta do Samllville .,0,0,DR7,ljKzFGpPHhw,0.0,2019-07-07 08:54:45,True,True
+2019-07-08T05:42:39,Who Waiting Godzilla vs Kong Trailer In Warner Bros Channel?,1,1,Mickey [Gacha & Games ],ljKzFGpPHhw,0.0,2019-07-08 05:42:39,True,True
+2019-07-08T15:30:42,Who the hell is making nowadays wb trailers. They all are just awesome 🔥 🔥,1,0,Ritik Kumar,ljKzFGpPHhw,1.0,2019-07-08 15:30:42,True,True
+2019-07-10T02:05:46,gandalf (YOU SHALL NOT PASS!!!!!),0,0,Jeremy Dabal,ljKzFGpPHhw,0.0,2019-07-10 02:05:46,True,True
+2019-07-10T19:56:09,"I only clicked cause i saw the lady from ""split"" and got over excited",1,0,Çarringtoń,ljKzFGpPHhw,0.1875,2019-07-10 19:56:09,True,True
+2019-07-11T03:19:34,Aaaaahhhhh!!!!!! Sir Ian and Dame Helen in one movie!!!!!! Aaaaaaaahhhh!!!!!!!!! 🙌🙌🙌🙌🙌,0,0,JAsparklefret7,ljKzFGpPHhw,0.0,2019-07-11 03:19:34,True,True
+2019-07-11T06:20:42,1:36 song PLEASE,0,0,Макс Кабаков,ljKzFGpPHhw,0.0,2019-07-11 06:20:42,True,True
+2019-07-11T08:21:28,Blokl mi video,0,0,Daneček,ljKzFGpPHhw,0.0,2019-07-11 08:21:28,True,True
+2019-07-12T02:05:53,I am a DC fan. plzz frist do DC characters solo movie. Do The Flash solo movie. Then make hawgril movie and do not make the story so dark plzz. Then do do the solo movie of marsain man hunter.,0,0,Dangerous Fahad,ljKzFGpPHhw,-0.15,2019-07-12 02:05:53,True,True
+2019-07-12T10:17:53,"Great movie title!!considering the lies you told about justice league and took our money,this should be a WB biografy film!!WB sucks!!!!#releasethesnydercut",0,0,nikos kukos,ljKzFGpPHhw,0.8,2019-07-12 10:17:53,True,True
+2019-07-13T07:50:02,Release the snyder cut,0,0,Mr Gamer,ljKzFGpPHhw,0.0,2019-07-13 07:50:02,True,True
+2019-07-13T12:39:42,I hope you watch this comment please realise the movie of teen titan go! In india cartoon network in hindi please 😣😣😣😣😣😣😣😣😣😣😣😭😭😭😭😭,0,0,INDIAN Memer,ljKzFGpPHhw,0.0,2019-07-13 12:39:42,True,True
+2019-07-13T14:36:51,i'm only here for ian mckellen,0,0,Ban,ljKzFGpPHhw,0.0,2019-07-13 14:36:51,True,True
+2019-07-14T12:19:55,https://www.youtube.com/channel/UCHJF-lXPYIWN9jE5fEfFt5A         netflix,0,0,SAMI SAMO,ljKzFGpPHhw,0.0,2019-07-14 12:19:55,True,True
+2019-07-15T12:48:35,"Oh yes! :) Can't wait to see it on rainy, dark November...",1,0,Roksana Małkowska,ljKzFGpPHhw,0.175,2019-07-15 12:48:35,True,True
+2019-07-15T21:38:56,godzilla vs kong????,0,0,ChickenTablet96 is a sith general,ljKzFGpPHhw,0.0,2019-07-15 21:38:56,True,True
+2019-07-23T03:16:21,What is the name of the violin song start at 1:27?,0,0,happyfelix12,ljKzFGpPHhw,0.0,2019-07-23 03:16:21,True,True
+2019-07-23T04:30:19,"This looks very good, ian mckellen and helen mirren two legendary actors right there 🙌",1,0,Kyle byrne,ljKzFGpPHhw,0.731904761904762,2019-07-23 04:30:19,True,True
+2019-08-13T07:06:11,আমাদের রায়বাবু অন ফায়ার! বৃদ্ধের কত রস দেখেছো?,0,0,pax43,ljKzFGpPHhw,0.0,2019-08-13 07:06:11,True,True
+2019-08-16T01:33:57,Gandalf the grey is finally corrupted by the ring!,0,0,shadmehr99,ljKzFGpPHhw,-0.025,2019-08-16 01:33:57,True,True
+2019-08-19T09:17:53,"Saw this trailer in the theaters today, and I'm sooooo going to watch this!",3,0,Jenno Contreras,ljKzFGpPHhw,0.0,2019-08-19 09:17:53,True,True
+2019-08-25T14:49:27,Extraordinary performances awaitinG together 🔥,2,0,Gaurav Sharma,ljKzFGpPHhw,0.3333333333333333,2019-08-25 14:49:27,True,True
+2019-08-25T20:50:50,I definitely have to see MAGNETO,0,0,Cadillac Deville,ljKzFGpPHhw,0.0,2019-08-25 20:50:50,True,True
+2019-09-01T16:51:47,Mr. Holmes squad reunited yaaaaassssssss,0,0,missthreet,ljKzFGpPHhw,0.0,2019-09-01 16:51:47,True,True
+2019-09-06T21:23:42,Old People: The Movie,0,0,Kiss711,ljKzFGpPHhw,0.1,2019-09-06 21:23:42,True,True
+2019-09-14T23:52:09,I just know the score for this film is going to be EPIC!,1,0,Arón Durant,ljKzFGpPHhw,0.125,2019-09-14 23:52:09,True,True
+2019-09-23T00:00:20,I wonder if Jack Morrissey included a woodchipper scene.,0,0,Stripey Arse,ljKzFGpPHhw,0.0,2019-09-23 00:00:20,True,True
+2019-09-24T08:22:35,Please make harry potter and the cursed child movie please I beg to you,0,0,ADITYA kumar,ljKzFGpPHhw,0.0,2019-09-24 08:22:35,True,True
+2019-09-26T15:30:54,"The trailer is so interesting and didn't give away too much of the story (which is something I have always preferred), but the BGM is kinda off-putting for me. Starting right away with WB's saving-the-world-in-the-first-movie music made me look for signs that someone has a superpower or something is supernatural / expect that one of them is a secret super spy soldier agent. I wish it was something more mellow or subtle, that slowly devolves into something thrilling.",0,0,Paul H,ljKzFGpPHhw,0.1093073593073593,2019-09-26 15:30:54,True,True
+2019-10-02T04:50:13,OK so this movie is kind of like dirty rotten scoundrel's does anybody else pick up on that,0,0,Matthew Miller,ljKzFGpPHhw,0.1666666666666667,2019-10-02 04:50:13,True,True
+2019-10-03T19:49:21,"Why this is a story about a man taking advantage of woman is because there's nothing special or surprising about a woman taking advantage of a man in these same ways - It happens all the time, so it's not dramatic or noteworthy; It's more/less just expected to happen fairly regularly in our society. When it's a man doing the same thingg to a woman, though - Well, that's a film-worthy drama!  XD",0,0,POOKISTAN,ljKzFGpPHhw,0.16768707482993195,2019-10-03 19:49:21,True,True
+2019-10-03T21:26:12,No matter how hard you try or how much bullshit you spread... *DECEIVERS ALWAYS LOSE IN THE END* haha Fuck you bitch....the final show has started...,0,0,B H,ljKzFGpPHhw,-0.058333333333333334,2019-10-03 21:26:12,True,True
+2019-10-04T00:24:57,The Grown-Up's show us how it's done.,0,0,Jim Marshall,ljKzFGpPHhw,0.0,2019-10-04 00:24:57,True,True
+2019-10-05T19:35:48,"Dame and Knight, or more like the day and the night. Dad joke aside, two great actors in what looks like a potentially intriguing story. Quite interesting really.",1,0,Kitty,ljKzFGpPHhw,0.4600000000000001,2019-10-05 19:35:48,True,True
+2019-10-05T21:50:59,This looks great. Can't wait!,0,0,Qüeen Cøbra,ljKzFGpPHhw,1.0,2019-10-05 21:50:59,True,True
+2019-10-05T23:15:16,I actually really want to see this.,2,1,Maria Regina,ljKzFGpPHhw,0.2,2019-10-05 23:15:16,True,True
+2019-10-06T00:57:46,This looks like the sexiest thriller about killer old people I've ever seen.,18,0,Ginger Jackson,ljKzFGpPHhw,0.1,2019-10-06 00:57:46,True,True
+2019-10-06T09:14:46,These two ladies and gentlemen are the perfect duo for this kind of movie. And also the music behind is magnificent! I want so the music from 1:26 and after!!! I've tried also using the Shazam 😅😕,0,0,Doretta Tsamaslidou,ljKzFGpPHhw,0.55,2019-10-06 09:14:46,True,True
+2019-10-06T15:26:43,love to see Ian slaughter some useless people,0,0,1Sandwitch1,ljKzFGpPHhw,0.0,2019-10-06 15:26:43,True,True
+2019-10-06T17:25:41,finally.,0,0,Count DuBlevay,ljKzFGpPHhw,0.0,2019-10-06 17:25:41,True,True
+2019-10-06T17:28:52,i can only hope that Steve Martin was moved to summon Rupret as an added ingredient.,1,0,Count DuBlevay,ljKzFGpPHhw,0.0,2019-10-06 17:28:52,True,True
+2019-10-07T18:21:01,His Name is Jim Michael he and Brent Turnham my Brother Murdered Jurgen Hapke in 2005 and wanted to frame me and Ruth. FUKING DEVIL RACIST COCK SUCKER and the think! they are SWEDES! Joyce Swanson Michael could not cook as good as Grandma but killed her for it so you make the call who the better cook is.,0,0,BRad From The Valley,ljKzFGpPHhw,0.1328125,2019-10-07 18:21:01,True,True
+2019-10-08T07:40:50,Gandalf has had enough...,1,0,The_Mad_Bear,ljKzFGpPHhw,0.0,2019-10-08 07:40:50,True,True
+2019-10-09T00:46:14,Bonerific.,0,0,Jon P,ljKzFGpPHhw,0.0,2019-10-09 00:46:14,True,True
+2019-10-09T19:25:38,"A sexy noir ""sting"" thriller with septuagenarian s? I'm fucking in! :)",1,0,jskd2953,ljKzFGpPHhw,0.08333333333333333,2019-10-09 19:25:38,True,True
+2019-10-12T17:51:09,I think I want to see this movie!,1,0,Andrea Kelly,ljKzFGpPHhw,0.0,2019-10-12 17:51:09,True,True
+2019-10-17T14:51:08,I'm so excited for this movie. Yay!!!,2,0,Michsel Olin,ljKzFGpPHhw,0.732421875,2019-10-17 14:51:08,True,True
+2019-10-19T22:15:18,Some people are just timeless...,0,0,tDream78,ljKzFGpPHhw,0.0,2019-10-19 22:15:18,True,True
+2019-10-21T04:08:00,If this artists still rock  It means that are amaizing  Legendary Masterpiece,2,0,Ajkuna Mesiti,ljKzFGpPHhw,1.0,2019-10-21 04:08:00,True,True
+2019-10-21T10:45:21,Magneto & Victoria,0,0,Marvin Rodriguez,ljKzFGpPHhw,0.0,2019-10-21 10:45:21,True,True
+2019-10-22T20:41:20,Anything with Helen Mirren I am here for it.,0,0,DiamondKesawn C.,ljKzFGpPHhw,0.0,2019-10-22 20:41:20,True,True
+2019-10-22T21:46:35,Why it is always distributed by Warner Bros it should be distributed by new line cinema because it's their film,0,0,Eminel Hernandez,ljKzFGpPHhw,0.13636363636363635,2019-10-22 21:46:35,True,True
+2019-10-23T01:34:38,I can’t wait to see this! Two great actors with a good story line!,1,0,Barbara Villa,ljKzFGpPHhw,0.8375,2019-10-23 01:34:38,True,True
+2019-10-24T00:44:34,*Morty wakes up from simulation*  Rick- “You beat cancer and went back to the carpet store? Boo”,3,0,Desmond Dubois,ljKzFGpPHhw,0.0,2019-10-24 00:44:34,True,True
+2019-10-25T11:42:22,This is like acting masterclass,2,1,Pantelis Karamolegkos,ljKzFGpPHhw,0.0,2019-10-25 11:42:22,True,True
+2019-10-25T12:08:06,I would pay lots of money just to watch Helen Mirren wrestle a pig.,0,0,Leif Johnson,ljKzFGpPHhw,0.0,2019-10-25 12:08:06,True,True
+2019-10-25T18:06:04,Mr & Mrs Smith Old Version,0,0,Brid LaCroix,ljKzFGpPHhw,0.1,2019-10-25 18:06:04,True,True
+2019-10-28T02:25:04,Gandolf!,0,0,mistyapril29,ljKzFGpPHhw,0.0,2019-10-28 02:25:04,True,True
+2019-10-28T07:08:47,All actors' outfits are available here:  spotern.com/en/search?query=The+good+liar,0,0,Mah Rdn,ljKzFGpPHhw,0.4,2019-10-28 07:08:47,True,True
+2019-10-28T09:15:56,"top actors in this a must see film, both my top favourite actors. This should be good,",0,1,Sand June,ljKzFGpPHhw,0.5666666666666667,2019-10-28 09:15:56,True,True
+2019-10-29T12:02:04,"If this movie was pg-13, i guess i'm gonna be the first teen who will watch this kind of movie in theatres alone",4,1,Haziq Amell,ljKzFGpPHhw,0.2833333333333333,2019-10-29 12:02:04,True,True
+2019-10-30T01:28:03,"see movie data, review and synopsis here https://blitzcinema.blogspot.com/2019/10/the-good-liar-2019.html",0,0,Irman N,ljKzFGpPHhw,0.0,2019-10-30 01:28:03,True,True
+2019-10-30T03:46:28,And I thought that that Gandalf was a good old man,0,0,Prasad Yada,ljKzFGpPHhw,0.39999999999999997,2019-10-30 03:46:28,True,True
+2019-10-31T15:54:26,Carson!!! 🥰,1,0,Giovana Samara,ljKzFGpPHhw,0.0,2019-10-31 15:54:26,True,True
+2019-11-01T20:19:26,Где посмотреть на русском языке 🤔,0,0,Татьяна Арещенко,ljKzFGpPHhw,0.0,2019-11-01 20:19:26,True,True
+2019-11-01T23:43:22,Gandalf and Mr. Carson in the same movie?! Hell yeah I'm going to see it!!!!!,3,0,Phantom Lover14,ljKzFGpPHhw,0.0,2019-11-01 23:43:22,True,True
+2019-11-05T12:12:44,"This looks good, what a refreshing change! For once it's not about an actor \ actress getting their kit off but about actual acting! 😁",1,0,s f,ljKzFGpPHhw,0.33125,2019-11-05 12:12:44,True,True
+2019-11-06T00:57:59,You had me at Ian McKellen.,1,0,Rob Moorhouse,ljKzFGpPHhw,0.0,2019-11-06 00:57:59,True,True
+2019-11-06T17:54:47,i cannot wait at all for this masterpiece!!!,1,0,Elvie Lim,ljKzFGpPHhw,0.0,2019-11-06 17:54:47,True,True
+2019-11-06T19:10:01,Beware the Catfish Scam.,0,0,20cher09,ljKzFGpPHhw,0.0,2019-11-06 19:10:01,True,True
+2019-11-07T15:33:29,Spoiler Alert -- I just farted.,0,0,Thomas Hyland,ljKzFGpPHhw,0.0,2019-11-07 15:33:29,True,True
+2019-11-07T18:03:23,There is much more fantastic acting in this trailer than all the marvel universe combined,9,0,Jack L,ljKzFGpPHhw,0.3,2019-11-07 18:03:23,True,True
+2019-11-07T20:40:27,Let me guess: Mirren is the one with the bigger dangerous secret.,118,9,caleast,ljKzFGpPHhw,-0.3333333333333333,2019-11-07 20:40:27,True,True
+2019-11-07T21:44:22,I love the feeling of this movie. Great vibes,3,0,World Class Satanist,ljKzFGpPHhw,0.65,2019-11-07 21:44:22,True,True
+2019-11-07T23:25:35,Nice continuity! At 0:14 you can see that the stickers of the bottom left of the laptop are windows 95!,0,0,andrew12,ljKzFGpPHhw,0.375,2019-11-07 23:25:35,True,True
+2019-11-08T09:41:32,Went to an advanced screening of this movie. You will not be disappointed! The movie is so unbelievably amazing! I have to go watch it again!,0,0,CallmeeKenzie _,ljKzFGpPHhw,0.1333333333333334,2019-11-08 09:41:32,False,True
+2019-11-09T04:45:49,"Ian McKellen, master of acting",1,0,Jared V,ljKzFGpPHhw,0.0,2019-11-09 04:45:49,False,True
+2019-11-09T12:03:45,Magneto is always a bad liar.,0,0,Justice Benson,ljKzFGpPHhw,-0.6999999999999998,2019-11-09 12:03:45,False,True
+2019-11-10T00:40:14,That looks soooo good!,0,0,Kwei Quartey,ljKzFGpPHhw,0.875,2019-11-10 00:40:14,False,True
+2019-11-10T01:24:20,I want to see this looks good,1,0,Jeriann Milemon,ljKzFGpPHhw,0.7,2019-11-10 01:24:20,False,True
+2019-11-10T01:36:17,"Smashed it the both of them! One of the best movies I have watched in 2019 hands down.  Amazing acting and the storyline is insane, must watchhh!",38,4,Yassmina Lassoued,ljKzFGpPHhw,0.08888888888888893,2019-11-10 01:36:17,False,True
+2019-11-10T17:06:18,Can please drop the soundtrack?,0,0,Даня Рябов,ljKzFGpPHhw,0.0,2019-11-10 17:06:18,False,True
+2019-11-11T01:03:18,Russell Tovey!!!,0,0,Megumi M,ljKzFGpPHhw,0.0,2019-11-11 01:03:18,False,True
+2019-11-11T14:30:35,"He's amazing, never been struck on Helen Mirren, but I'm sure she'll play a good part.",1,0,Laura Sheffield,ljKzFGpPHhw,0.6,2019-11-11 14:30:35,False,True
+2019-11-11T15:13:29,"Ohh its magneto versus MI6 super spy. Btw, i had a crush with helen mirren. She's very old but she's charming.",1,0,Pinoy keyboard warrior,ljKzFGpPHhw,0.3877777777777778,2019-11-11 15:13:29,False,True
+2019-11-11T15:28:34,Great,0,0,Ravi Verma,ljKzFGpPHhw,0.8,2019-11-11 15:28:34,False,True
+2019-11-11T16:50:52,This is literally the day of my birthday... ahh and it looks hella good I'm watching it,3,0,Marlens life,ljKzFGpPHhw,0.7,2019-11-11 16:50:52,False,True
+2019-11-12T21:31:59,Excellent movie!!!! Saw it this evening....Great storyline!!!!!,0,0,John Malone,ljKzFGpPHhw,1.0,2019-11-12 21:31:59,False,True
+2019-11-13T00:35:11,"My first thought when I saw the cover for this movies was ""well shit they made a movie about the Clintons""",1,2,CooterPotPie anonymous,ljKzFGpPHhw,0.024999999999999994,2019-11-13 00:35:11,False,True
+2019-11-13T04:02:10,The title and the trailer give the plot of the movie away,0,0,Mo Mo,ljKzFGpPHhw,0.0,2019-11-13 04:02:10,False,True
+2019-11-13T12:22:02,Harry styles to Gandalf: You're amazing😂 Still iconic Everytime i see him it pops in my head,1,0,The Little Endergirl My name is Oliva,ljKzFGpPHhw,0.5,2019-11-13 12:22:02,False,True
+2019-11-13T21:47:04,Crap,0,0,Richard Williams,ljKzFGpPHhw,-0.8,2019-11-13 21:47:04,False,True
+2019-11-14T04:48:46,How much is she worth? Enough to last all the light ages of the world. Like if you get it.,0,0,ShapeshifterAA,ljKzFGpPHhw,0.18,2019-11-14 04:48:46,False,True
+2019-11-14T15:41:42,I saw this movie.  It's really dark.,0,0,ivedoneitall,ljKzFGpPHhw,-0.15,2019-11-14 15:41:42,False,True
+2019-11-15T01:32:18,I hope the movie is better than the book. It has  very good twists but it jumped all over the place.,0,0,MrsW Jr,ljKzFGpPHhw,0.705,2019-11-15 01:32:18,False,True
+2019-11-15T20:08:14,Check out my review! https://hobbiesiwatchmovies.com/2019/11/15/the-good-liar-2019-review/,0,0,theotherwarner,ljKzFGpPHhw,0.0,2019-11-15 20:08:14,False,True
+2019-11-16T00:12:31,bad ass actors,0,0,Richard,ljKzFGpPHhw,-0.6999999999999998,2019-11-16 00:12:31,False,True
+2019-11-16T02:50:01,This movie SUCKED.  I needed a Motrin afterward it’s so fucking slow.  And they’re both liars and both annoying as fuck,0,0,San Man,ljKzFGpPHhw,-0.5,2019-11-16 02:50:01,False,True
+2019-11-16T08:52:05,Just came back from seeing this GO WATCH IT,5,2,Junior Rodriguez,ljKzFGpPHhw,0.0,2019-11-16 08:52:05,False,True
+2019-11-16T11:14:07,"Brilliant film, just finished watching. but gosh what a twist ending to the plot, didn't saw that one comming. Rating if I could , 10/10 must watch,",2,0,Bryan Willis,ljKzFGpPHhw,0.9,2019-11-16 11:14:07,False,True
+2019-11-16T11:54:07,Who's The Liar??? A must watch.,0,0,No.7 Sly,ljKzFGpPHhw,0.0,2019-11-16 11:54:07,False,True
+2019-11-16T12:20:14,I thought this was a campaign ad for Hillary's 2020 run.,1,0,jeb stuart,ljKzFGpPHhw,0.0,2019-11-16 12:20:14,False,True
+2019-11-16T13:34:56,"https://www.youtube.com/watch?v=RxbackKdEtI    ""Вагонные споры"" Макаревича Андрея едут в город Чехов...   Клип Андрея Горбатова на песню Андрея Макаревича и группы ""Машина Времени"" ""Вагонные споры""! Этно-продюсер Андрей Горбатов и актриса и журналистка Танита Флай переосмысливают философскую музыкальную притчу к 50-ти--летию группы ""Машина Времени"" в Рождество 7 января 2019 года!   Андрей Вадимович Макаревич - музыкант, поэт, композитор, художник, лидер и единственный бессменный участник рок-группы Машина Времени  С уважением,   Горбатов Андрей  этно-продюсер  http://www.koncertagency.ru  организация ваших праздников ""под ключ""  звоните в Москву == 8(495)434-64-93 и 8(985)761-00-61  https://www.facebook.com/100004787640232/videos/1223808327788744/  https://www.facebook.com/KaterinaKowal/photos/a.329431950519896/2181308435332229    http://www.koncertagency.ru/publication/  == англоязычная глава о ""Машине времени"" и Макаревиче Андрее Вадимовиче!!!",1,0,Андрей Горбатов,ljKzFGpPHhw,0.0,2019-11-16 13:34:56,False,True
+2019-11-16T19:20:25,"These two are fantastic, don't let their ages make you doubt their ability to make an awesome movie.",0,0,J. C.,ljKzFGpPHhw,0.7,2019-11-16 19:20:25,False,True
+2019-11-16T20:40:40,This guys taking Roy off the grid,2,0,gablestern,ljKzFGpPHhw,0.0,2019-11-16 20:40:40,False,True
+2019-11-17T01:16:24,I saw this film at my local movie theatre today.  Although the NY Times gave this film a lukewarm review you cannot help but get drawn into the plot as the actors are quite convincing.,6,1,JACK ANTHONY,ljKzFGpPHhw,0.25,2019-11-17 01:16:24,False,True
+2019-11-17T06:20:04,Damn it...!!!! You need to stop lying magneto. Charles is worried about you.,0,0,Jaime Rojano,ljKzFGpPHhw,0.0,2019-11-17 06:20:04,False,True
+2019-11-17T10:16:24,Double Toasted brought me here,0,0,Ziad Obaid,ljKzFGpPHhw,0.0,2019-11-17 10:16:24,False,True
+2019-11-17T13:39:04,I love that Warner Bros are not afraid to make this kind of movies. Something different and mysterious that makes you think. Not those repetitive superhero movies and rehash of animation movies into live action movies which shows the lack of imagination and creativity of most Hollywood studios.,0,0,Jonson Javier,ljKzFGpPHhw,0.18363636363636365,2019-11-17 13:39:04,False,True
+2019-11-17T15:56:11,Hellen is a hot MILF,0,0,folladordeprostis,ljKzFGpPHhw,0.25,2019-11-17 15:56:11,False,True
+2019-11-17T15:56:31,She should date a younger dude,0,0,folladordeprostis,ljKzFGpPHhw,0.0,2019-11-17 15:56:31,False,True
+2019-11-17T20:55:02,*Has the grandson gotten over his fear of the hound?*,1,0,Petrichor,ljKzFGpPHhw,0.0,2019-11-17 20:55:02,False,True
+2019-11-17T22:13:34,I got to speak to director Bill Condon about his new film The Good Liar starring Ian McKellen and Helen Mirren. We talk about working with his legendary lead actors and FX2!!   https://t.co/aeDLhJaxas,0,0,Andy McCarroll Movies,ljKzFGpPHhw,0.6121212121212122,2019-11-17 22:13:34,False,True
+2019-11-18T08:14:30,I guess Magneto is enjoying his retirement....,0,0,Nizam Sabirin,ljKzFGpPHhw,0.5,2019-11-18 08:14:30,False,True
+2019-11-18T11:33:16,This looks so boring it can start an underground railway holy fuck,0,0,Logan DePrez,ljKzFGpPHhw,-0.7,2019-11-18 11:33:16,False,True
+2019-11-18T11:34:46,Excellent film. Loved it.,0,0,terry hill,ljKzFGpPHhw,0.85,2019-11-18 11:34:46,False,True
+2019-11-18T19:53:41,Y'all all good liars...really good.,0,0,Ballad of Janine,ljKzFGpPHhw,0.7,2019-11-18 19:53:41,False,True
+2019-11-18T22:35:36,Holy shit this guys going for the highscore on Roy!😂😂,1,0,Bluke420,ljKzFGpPHhw,-0.2,2019-11-18 22:35:36,False,True
+2019-11-19T16:43:30,Boring..,0,0,Pancho Tango,ljKzFGpPHhw,-1.0,2019-11-19 16:43:30,False,True
+2019-11-19T17:34:39,Yes I love them all and will watch it🥰😘,0,0,Male Isac,ljKzFGpPHhw,0.5,2019-11-19 17:34:39,False,True
+2019-11-19T22:44:28,Helen Mirren is an awesome actress. This movie is a 10 out of 10. Incredible,1,0,Paula Horne,ljKzFGpPHhw,0.95,2019-11-19 22:44:28,False,True
+2019-11-20T19:08:29,I loved this movie.  4.5 stars out of 5.  the plot twist at the end was totally unexpected and I loved it.,1,2,Gregory Jones,ljKzFGpPHhw,0.5,2019-11-20 19:08:29,False,True
+2019-11-20T22:12:28,"Went to this boomer movie, everyone was a boomer in the theater except us, this one old boomer's phone kept ringing and she didn't know how to turn it off... FUCKING BOOMERS",1,0,l1998,ljKzFGpPHhw,-0.25,2019-11-20 22:12:28,False,True
+2019-11-21T06:02:36,I just saw it tonight. Crazy awesome plot twist at the end.,1,0,RazAlguise,ljKzFGpPHhw,0.2,2019-11-21 06:02:36,False,True
+2019-11-21T11:44:22,"GUYS DO YOURSELF A FAVOR AND *DO NOT READ THE COMMENTS* cause there's a dumbass somewhere in there that left the biggest spoiler ever that'll ruin everything.  Just go watch the movie, it's worth it!! Thank God I did before seeing his comment else I'd be pissed af!",2,0,Praise O,ljKzFGpPHhw,0.29296875,2019-11-21 11:44:22,False,True
+2019-11-21T15:32:09,I would have second thoughts if i was going to scam/betray the mother of deckard and owen shaw,0,0,casper de Maeyer,ljKzFGpPHhw,0.0,2019-11-21 15:32:09,False,True
+2019-11-23T14:11:07,Music?,0,0,Veronika Pranjic,ljKzFGpPHhw,0.0,2019-11-23 14:11:07,False,True
+2019-11-23T16:21:12,"""The Good Liar,"" ""The Good Wife,"" ""The Good Fight,"" ""The Good Doctor,"" ""Good Dog,"" ""Good Boys,"" ""Good Girls,"" ""Good Burger.""  What's next?  EDIT: Might as well throw in ""Goode Behavior.""",2,1,palmshoot,ljKzFGpPHhw,0.6222222222222222,2019-11-23 16:21:12,False,True
+2019-11-23T19:07:23,This just took my attention from everything I was doing ! Wow need to watch,1,0,Rushelle Bernard,ljKzFGpPHhw,0.1,2019-11-23 19:07:23,False,True
+2019-11-23T19:54:15,"Here's my review for ""The Good Liar""! What did you think of it? Let me know in the comment section down below! https://youtu.be/S1fIW1QLGqA",0,0,Chad Sabourin,ljKzFGpPHhw,0.3402777777777778,2019-11-23 19:54:15,False,True
+2019-11-24T03:22:40,The only con artist that took my Grandmothers money was Pat Robertson,5,0,Lizzie Lahaina,ljKzFGpPHhw,0.0,2019-11-24 03:22:40,False,True
+2019-11-24T15:14:38,Magneto calls this a Tuesday,0,0,MASTER DREW,ljKzFGpPHhw,0.0,2019-11-24 15:14:38,False,True
+2019-11-24T19:22:31,I watched it today. It was amazing!!!! I recommend it highly.,12,2,Ruth Anne,ljKzFGpPHhw,0.58,2019-11-24 19:22:31,False,True
+2019-11-24T22:57:12,Well.__ WAS IT GOOD?,0,0,A Leo,ljKzFGpPHhw,0.7,2019-11-24 22:57:12,False,True
+2019-11-25T06:05:54,This is raw acting talent at it’s finest.,0,0,t9j6c6j51,ljKzFGpPHhw,-0.11538461538461539,2019-11-25 06:05:54,False,True
+2019-11-25T19:21:59,A woman never forgets. Even after 60 years she wanted revenge. And she had it. Glad she had a good life after her rape,0,0,Elena Georgiou,ljKzFGpPHhw,0.6,2019-11-25 19:21:59,False,True
+2019-11-27T23:01:24,i love the title because i am not sure if the liar is a good person or if the person is just good at lying,0,0,Arctic foox,ljKzFGpPHhw,0.4125,2019-11-27 23:01:24,False,True
+2019-11-28T21:42:49,"Amazing film, the backstory to the scam is even more shocking that the lies and deceptions in the film by a great cast led by two legends of the film industry.",1,0,Wolfen443,ljKzFGpPHhw,0.22500000000000003,2019-11-28 21:42:49,False,True
+2019-11-28T22:09:59,"This is superlative acting, but lets not forget the writing, without quality writing the actors fail too, no matter how good they are.",0,0,Bellerophon challen,ljKzFGpPHhw,0.06666666666666665,2019-11-28 22:09:59,False,True
+2019-12-02T08:15:02,Worst movie ever. It is really stupid. 2 wasted hours I can't get back. Save your money.,0,0,Ruthie May,ljKzFGpPHhw,-0.49999999999999994,2019-12-02 08:15:02,False,True
+2019-12-04T07:44:47,"Good movie.  Mirren was great.  Some of the better performances are the more sublte ones sometimes.  Unfortunately, it is hurt by contrivance and an uneccesary epilogue with Condon's usual alphabet people nod.",0,0,Adenoid Hynkel,ljKzFGpPHhw,0.2916666666666667,2019-12-04 07:44:47,False,True
+2019-12-04T10:03:20,Is that mr. Carson?,0,0,Muhammad Ichsan N W,ljKzFGpPHhw,0.0,2019-12-04 10:03:20,False,True
+2019-12-04T14:50:56,Name soundtrack?,0,0,Raider 99,ljKzFGpPHhw,0.0,2019-12-04 14:50:56,False,True
+2019-12-04T22:35:52,What real acting is all about; compelling characters that draw you in.,3,0,Boudicca,ljKzFGpPHhw,0.15,2019-12-04 22:35:52,False,True
+2019-12-06T04:56:11,2 hours time will be seeing this in the cinemas! #PayDoNotTORRENT!,0,0,Dhiren Adatia,ljKzFGpPHhw,0.0,2019-12-06 04:56:11,False,True
+2019-12-06T19:06:52,none of my millennial friends has any interest towards this movie lol...IM GOING ALONE TO THE CINEMAAA...WOHOOOO...cant and wont skip this gem!!!!,8,1,khs_fan insta,ljKzFGpPHhw,0.0,2019-12-06 19:06:52,False,True
+2019-12-06T19:15:48,"Brilliant brilliant acting, terrible terrible story, more holes than Sonny Corleone after being riddled.",0,0,ysgol3,ljKzFGpPHhw,0.05000000000000001,2019-12-06 19:15:48,False,True
+2019-12-07T20:06:50,"My friend saw this and said, *”Boomers are in it”*",3,1,Unnoticed By You,ljKzFGpPHhw,0.0,2019-12-07 20:06:50,False,True
+2019-12-13T13:30:47,Helen Mirren Has always been in my sexual fantasies. I'd still smash even in her 70s.,2,0,Naught Guile,ljKzFGpPHhw,0.5,2019-12-13 13:30:47,False,True
+2019-12-13T21:40:05,Such an incredible movie,1,0,Liam Harte,ljKzFGpPHhw,0.45,2019-12-13 21:40:05,False,True
+2019-12-17T03:22:14,This is a gem of a movie mercifully free of gratuitous violence and formulalic car chases and gun battles. A plot twisting and turning with an ending no one expected. 5 stars from me.,2,0,Australia4031,ljKzFGpPHhw,-0.06666666666666667,2019-12-17 03:22:14,False,True
+2019-12-19T07:57:54,I love this trailer because it doesn’t spoil the movie :),3,0,christina feltham,ljKzFGpPHhw,0.5,2019-12-19 07:57:54,False,True
+2019-12-19T17:44:58,This movie is the best movie i have seen for along time ..its not what you think believe me ..good acting good plot..,0,0,rob catalunya,ljKzFGpPHhw,0.5666666666666667,2019-12-19 17:44:58,False,True
+2019-12-20T05:23:19,Stupid ending. Movie for lesbians,0,0,burns83,ljKzFGpPHhw,-0.7999999999999999,2019-12-20 05:23:19,False,True
+2019-12-30T17:07:14,"Helen Mirren, you are just hots!",1,0,Xarko,ljKzFGpPHhw,0.0,2019-12-30 17:07:14,False,True
+2019-12-30T23:25:07,"This movie looked good, but I won't see it because there is nudity.  Nudity almost always means female nudity.  Until respect is given to women, I'll just not go to movies that exploit women.",0,1,Dawn Leighty,ljKzFGpPHhw,0.35,2019-12-30 23:25:07,False,True
+2020-01-04T23:24:41,These movies really love to suck the hope out of people hey. Far out,0,0,Helena Phoenix,ljKzFGpPHhw,0.3,2020-01-04 23:24:41,False,True
+2020-01-07T04:39:28,Such a pig plot twist at the end jsjsjs,0,0,Anonymous Yd,ljKzFGpPHhw,0.0,2020-01-07 04:39:28,False,True
+2020-01-07T07:02:44,Both of them are good liars. I am pretty sure,0,0,Lola mo,ljKzFGpPHhw,0.48333333333333334,2020-01-07 07:02:44,False,True
+2020-01-17T00:23:25,"Fun Fact: She shit her pants almost the entire time they filmed this movie.  Director wanted to quit and stormed off set many times and pleaded for a replacement.   IMDB won't tell you the things that I know. 1:37  She just ""went"" in that scene too.",0,0,3ds max,ljKzFGpPHhw,0.15,2020-01-17 00:23:25,False,True
+2020-01-17T00:27:07,Comments below filled with nonsense and cliche's and identity recognition/validation wanted.Was the movie good or not?   Dude! Ian is in  it!!  DUDE!!,0,0,3ds max,ljKzFGpPHhw,0.7,2020-01-17 00:27:07,False,True
+2020-01-21T10:55:02,MEH,0,0,kenny omega,ljKzFGpPHhw,0.0,2020-01-21 10:55:02,False,True
+2020-01-21T12:22:51,"looks good, gonna download this movie.",0,0,Noman Sadiq,ljKzFGpPHhw,0.7,2020-01-21 12:22:51,False,True
+2020-01-22T05:15:09,Two of the greatest living actors  - top of my watch list!,0,0,Devon K,ljKzFGpPHhw,0.8125,2020-01-22 05:15:09,False,True
+2020-01-22T05:38:30,This is quite possibly the dumbest movie I've ever seen.,2,1,Wolf4077,ljKzFGpPHhw,0.0,2020-01-22 05:38:30,False,True
+2020-01-22T06:04:07,"Two great actors undeniably smashing the ageist ceiling in film, but I cant shake the feeling that one is a decade older than the other, even if the reality is that its only a six-year difference. I look forward to the film.",0,0,Arthur Watts,ljKzFGpPHhw,0.21041666666666667,2020-01-22 06:04:07,False,True
+2020-01-22T14:46:19,anybody watching this on their computer service?  lol,0,0,uchibenkei,ljKzFGpPHhw,0.8,2020-01-22 14:46:19,False,True
+2020-01-22T15:04:52,Spoiler : He is f**king Magneto.,0,0,mystery chemical,ljKzFGpPHhw,0.0,2020-01-22 15:04:52,False,True
+2020-01-22T15:14:46,"I just watched this movie, very, very good!",1,0,Gail Hickman,ljKzFGpPHhw,1.0,2020-01-22 15:14:46,False,True
+2020-01-23T00:10:45,looks fucking shite,0,0,badboyuk777,ljKzFGpPHhw,-0.6,2020-01-23 00:10:45,False,True
+2020-01-23T01:11:23,Ian is so cute and such a great actor. I want to squish him😃,1,1,Pragya Fating,ljKzFGpPHhw,0.43333333333333335,2020-01-23 01:11:23,False,True
+2020-01-23T03:00:38,How old is this Guy OMG he’s been acting Forever,0,0,F K,ljKzFGpPHhw,0.05,2020-01-23 03:00:38,False,True
+2020-01-23T09:42:49,Is this good movie or not,0,1,faz Patel,ljKzFGpPHhw,0.7,2020-01-23 09:42:49,False,True
+2020-01-23T11:51:45,Oh yes shes knows him ........his Magneto !!!🤣,1,1,shikar babulall,ljKzFGpPHhw,0.0,2020-01-23 11:51:45,False,True
+2020-01-23T12:18:49,Two spectacular actors  .. I'm definitely watching this,0,0,cyber girl 83,ljKzFGpPHhw,0.3,2020-01-23 12:18:49,False,True
+2020-01-23T20:30:05,Mom & Magneto.. you have my attention,0,0,Jason GL,ljKzFGpPHhw,0.0,2020-01-23 20:30:05,False,True
+2020-01-23T23:08:27,gandalf travel in time,0,0,spidy one,ljKzFGpPHhw,0.0,2020-01-23 23:08:27,False,True
+2020-01-23T23:11:10,Fuck me - the amount of people saying this movie is full of “old people”. Can’t wait to each of these retards are left to rot in a home,0,0,shempone,ljKzFGpPHhw,-0.17,2020-01-23 23:11:10,False,True
+2020-01-24T00:25:59,Amazing movie! A must see Very twisted (but in an english way),0,0,Kwan White,ljKzFGpPHhw,0.03333333333333336,2020-01-24 00:25:59,False,True
+2020-01-24T03:40:52,Gandalf finna get some pussy 😂😂,0,0,Oludare James,ljKzFGpPHhw,0.0,2020-01-24 03:40:52,False,True
+2020-01-24T07:53:05,I've never been so confused but so interested,0,0,Qiniso Jake Madlala,ljKzFGpPHhw,-0.07500000000000001,2020-01-24 07:53:05,False,True
+2020-01-24T11:39:59,This was purely a masterpiece.,0,0,Call me Anonymous,ljKzFGpPHhw,0.21428571428571427,2020-01-24 11:39:59,False,True
+2020-01-24T12:12:09,must see movie,0,0,rocvid62,ljKzFGpPHhw,0.0,2020-01-24 12:12:09,False,True
+2020-01-24T13:18:00,"That's the way ! Incorporate a gay interracial relationship into a movie for  "" diversity "" 😂😂😂😂😂",0,1,urgonnaluvit,ljKzFGpPHhw,0.4166666666666667,2020-01-24 13:18:00,False,True
+2020-01-24T22:06:35,Windows XP. Ok Boomer.,2,0,NoTruth,ljKzFGpPHhw,0.5,2020-01-24 22:06:35,False,True
+2020-01-25T03:06:11,"This movie is terrible Liberal fantasy flick. So obvious he was being tricked from the get go. It only became worse once you find out that the reasoning for her ""revenge"" was a #metoo geriatric revenge fantasy that also somehow manages to rip on Germans and propose Nazis from ww2 as the most evil caricature of all time, feeding all of the Liberal wet dreams in one movie. Absolutely ridiculous. I didn't even want to watch it, but was forced to because there are literally no movies being made and I've watched literally everything at least once.",1,0,Blondie,ljKzFGpPHhw,-0.29333333333333333,2020-01-25 03:06:11,False,True
+2020-01-25T06:18:43,"Really good movie , enjoyed it",1,0,Shazel,ljKzFGpPHhw,0.6,2020-01-25 06:18:43,False,True
+2020-01-25T16:02:28,this movie was great ... a must see!,0,0,joe joe,ljKzFGpPHhw,1.0,2020-01-25 16:02:28,False,True
+2020-01-25T18:53:56,Why would a millionaire woman date such an old and ugly guy lol i would find someone looking like arnold schwarzenegger smthn  ıf i was her😝 btw the films good,0,0,Venus Violet,ljKzFGpPHhw,0.18,2020-01-25 18:53:56,False,True
+2020-01-25T18:54:19,Why would a millionaire woman date such an old and ugly guy lol i would find someone looking like arnold schwarzenegger smthn  ıf i was her😝 btw the films good,0,0,Venus Violet,ljKzFGpPHhw,0.18,2020-01-25 18:54:19,False,True
+2020-01-26T03:01:23,😎,0,0,Caroline Olds,ljKzFGpPHhw,0.0,2020-01-26 03:01:23,False,True
+2020-01-27T14:25:44,Is it just me or Helen Mirren is getting more and more beautiful/hot with each passing day?,1,0,Prasenjit Deb,ljKzFGpPHhw,0.5,2020-01-27 14:25:44,False,True
+2020-01-28T13:53:26,"how was this movie? if it turn out that the grandma actually the one who conned the grandpa, i think i`ll pass. the less suspected  person actually the bad guy, ugh.. Thats is too Cliché",0,0,Bob Vahn,ljKzFGpPHhw,-0.21666666666666662,2020-01-28 13:53:26,False,True
+2020-01-28T22:30:24,"The movie was fucked up by the usual by now cultural marxist propaganda. She is a white german with black nephew who has a white boyfriend, gay mixed couple. So sick and tired of this commie shit",1,1,First Name Last Name,ljKzFGpPHhw,-0.14725274725274723,2020-01-28 22:30:24,False,True
+2020-01-29T05:55:09,Anyone else thinks the script was too weak?,1,0,Mariano M,ljKzFGpPHhw,-0.375,2020-01-29 05:55:09,False,True
+2020-01-29T11:18:24,Magneto as Gandalf,0,1,Norreanelucy Padmencie,ljKzFGpPHhw,0.0,2020-01-29 11:18:24,False,True
+2020-01-30T03:18:03,"I think it's pretty obvious the reveal, but the WHY was where it was. A good solid movie. But masterpiece it's not (people raving just because of it's cast).",0,0,Koko Kosila,ljKzFGpPHhw,0.2375,2020-01-30 03:18:03,False,True
+2020-01-30T23:11:02,"just watched it , i loved it , i suggest that you try to see it it's unpredictable",0,0,Boss Entertainment,ljKzFGpPHhw,0.26666666666666666,2020-01-30 23:11:02,False,True
+2020-01-31T22:27:49,Damn this ending 👎,0,0,Benma Moussa,ljKzFGpPHhw,0.0,2020-01-31 22:27:49,False,True
+2020-02-01T02:50:15,"Such bullshit movie, save your time",1,0,John Brown,ljKzFGpPHhw,0.0,2020-02-01 02:50:15,False,True
+2020-02-01T07:44:26,This movie was brilliant,0,0,C Afro,ljKzFGpPHhw,0.9,2020-02-01 07:44:26,False,True
+2020-02-01T09:48:26,I came here just in case someone is looking up the trailer before deciding on watching it. That way they might see this and know that it's simply Fking terrible.,1,0,Bryan Black,ljKzFGpPHhw,-0.5,2020-02-01 09:48:26,False,True
+2020-02-05T13:07:28,One would hope this will produce a thriller experience. Can't wait to see it,0,0,Samuel Abu,ljKzFGpPHhw,0.0,2020-02-05 13:07:28,False,True
+2020-02-05T18:38:05,"""ayvalık Restaurant ocakbaşı meze"" I love TURKEY",0,0,tabiat bekcisi,ljKzFGpPHhw,0.5,2020-02-05 18:38:05,False,True
+2020-02-06T01:23:48,My Mum LOVES this movie! Cheers! :),0,0,DOORWAY2FANDOM,ljKzFGpPHhw,0.5,2020-02-06 01:23:48,False,True
+2020-02-06T09:00:16,"Masterclass in acting , their facial expressions !",0,0,Potomacstud,ljKzFGpPHhw,0.0,2020-02-06 09:00:16,False,True
+2020-02-06T09:21:54,"Just finished it, I thoroughly enjoyed it.",0,0,Nomvuyo Mngonyama,ljKzFGpPHhw,0.5,2020-02-06 09:21:54,False,True
+2020-02-07T06:47:59,I highly recommend watching this movie. An all time favorite for me!,0,0,Fhosu,ljKzFGpPHhw,0.3925,2020-02-07 06:47:59,False,True
+2020-02-07T11:14:23,Russell Tovey just gets hotter as he gets older. I remember watching him in Being Human (British version).,0,0,F dL,ljKzFGpPHhw,0.05555555555555555,2020-02-07 11:14:23,False,True
+2020-02-08T06:31:38,BLOODY BRILLIANT !!   An absolute gem of a movie. Do yourself a favour and watch it. You wont be disappointed,0,0,Danielle Cormier,ljKzFGpPHhw,-0.08750000000000001,2020-02-08 06:31:38,False,True
+2020-02-11T00:45:41,Is this movie on netflix?,0,0,Igor Ralevic,ljKzFGpPHhw,0.0,2020-02-11 00:45:41,False,True
+2020-02-14T06:52:10,Very good movie!!!,0,0,just4mygrl,ljKzFGpPHhw,1.0,2020-02-14 06:52:10,False,False
+2020-02-15T18:17:47,"I enjoyed the acting indeed - such good professional actors. The plot idea is OK, but I didn't like the movie in general, saw some drawbacks. I am too demanding maybe..",0,0,Polina Marchenko,ljKzFGpPHhw,0.2642857142857143,2020-02-15 18:17:47,False,False
+2020-02-17T03:41:24,"After watching this move, it is unbelievable dark, with a twist that comes from nowhere",0,0,Sleudgehammer,ljKzFGpPHhw,-0.2,2020-02-17 03:41:24,False,False
+2020-02-19T03:06:56,Just watched it. Wow!! That was a fantastic movie!!! Brilliantly acted !! BRAVO,0,0,HAPPY GUY,ljKzFGpPHhw,0.6458333333333334,2020-02-19 03:06:56,False,False
+2020-02-19T16:27:45,nice,0,0,Care Huts,ljKzFGpPHhw,0.6,2020-02-19 16:27:45,False,False
+2020-02-20T02:02:35,Funny seeing magneto walking around with knee problem since he lost his powers in x-men3  :),0,0,Dave K,ljKzFGpPHhw,0.375,2020-02-20 02:02:35,False,False
+2020-02-21T22:19:53,This was a GREAT movie!!,0,0,Krista Havenaar,ljKzFGpPHhw,1.0,2020-02-21 22:19:53,False,False
+2020-02-22T23:35:22,"Sir Ian, thank you again for a great movie.",0,0,Steve H,ljKzFGpPHhw,0.8,2020-02-22 23:35:22,False,False
+2020-02-23T12:13:29,Good,0,0,prograff,ljKzFGpPHhw,0.7,2020-02-23 12:13:29,False,False
+2020-02-27T13:19:17,🔥🔥🔥🔥🔥   I absolutely love this movie.   1:30 🔥❤    👇👇👇👇👇💘,0,0,Alfie Reid,ljKzFGpPHhw,0.5,2020-02-27 13:19:17,False,False
+2020-02-28T06:15:27,"Great work  by both actors, brilliant movie with a good twist Thanks.",0,0,Der,ljKzFGpPHhw,0.6500000000000001,2020-02-28 06:15:27,False,False
+2020-02-29T02:00:35,"Well it may look a bit boring. It is a little predictable but, we are talking about those legendary actors. The movie was really really nice and interesting. Its a must. I didn't expected but it definitely is!",0,0,stefkyria,ljKzFGpPHhw,0.0765625,2020-02-29 02:00:35,False,False
+2020-03-01T00:00:15,Ok but is this a good movie?,0,0,A.J_Lifetime A.J,ljKzFGpPHhw,0.6,2020-03-01 00:00:15,False,False
+2020-03-01T12:14:39,I made insane Car Crashes video's on my channel..take a look guys,0,0,Marib Crash,ljKzFGpPHhw,-1.0,2020-03-01 12:14:39,False,False
+2020-03-05T12:23:12,"This Is A Gr8 Movie. 🎬 A Really Good Thriller, Which Keeps U Gripped All The Way Through. 🎬 Superbly Acted By A Gr8 Cast + Interesting Locations. ⭐⭐ 🎬 If U Didn't Manage 2 Watch It At The Cinema, Check It Out On DVD. Also The Novel It's Based On Is A Very Good Read... 📚 🎬⭐⭐🦋🐻🐈📚",0,0,Mary Blogg,ljKzFGpPHhw,0.7775000000000001,2020-03-05 12:23:12,False,False
+2020-03-05T16:33:19,"Helen, Ian, & Russell ! yummy !",0,0,David Martinez,ljKzFGpPHhw,0.0,2020-03-05 16:33:19,False,False
+2020-03-05T16:49:11,What are these two characters lying about that they reached that stage of their lives still well and good  but something mysterious. This is what the people want to see.,0,0,Tito Santos,ljKzFGpPHhw,0.35,2020-03-05 16:49:11,False,False
+2020-03-08T00:09:56,Dumbfuck Christian and his dead wife.,0,0,Jimi Feng,ljKzFGpPHhw,-0.1,2020-03-08 00:09:56,False,False
+2020-03-09T02:47:02,Just finished watching it and it wasn’t what I was expecting. Nice 👍🏾,0,0,Pasta Tasha,ljKzFGpPHhw,0.6,2020-03-09 02:47:02,False,False
+2020-03-09T08:12:56,No.... you will not ruin Gandalf for me!,0,0,Tamala Kakusa,ljKzFGpPHhw,0.0,2020-03-09 08:12:56,False,False
+2020-03-14T22:29:09,"Brilliant movie, but callas are not lillies 😇😀",0,0,Esther Hamalka,ljKzFGpPHhw,0.9,2020-03-14 22:29:09,False,False
+2020-03-16T18:36:40,Si capisce subito che qualcosa bolle in pentola anche per via del titolo ma mai mi sarei aspettata...... Due mostri di bravura perfettamente credibili!,0,0,Virginia Ipazia,ljKzFGpPHhw,-0.15625,2020-03-16 18:36:40,False,False
+2020-03-19T19:04:08,Have to see this movie!,0,0,Susan Behring,ljKzFGpPHhw,0.0,2020-03-19 19:04:08,False,False
+2020-03-21T02:18:14,It was too far fetched,0,0,Rozanah Wirt,ljKzFGpPHhw,0.1,2020-03-21 02:18:14,False,False
+2020-03-22T16:18:18,Pretty boring,0,0,Gmail User,ljKzFGpPHhw,-0.375,2020-03-22 16:18:18,False,False
+2020-03-23T06:25:28,Why you claim meat canyons stuff fuck heads?,0,0,Susan Crane,ljKzFGpPHhw,-0.4,2020-03-23 06:25:28,False,False
+2020-03-29T20:22:16,"The first hour sets the stage, then in the second hour comes the ""punch.""  Glad I continued watching past the first hour.",0,0,Jim,ljKzFGpPHhw,0.15,2020-03-29 20:22:16,False,False
+2020-03-30T02:27:34,"I wanted to watch this movie (on DVD for a cheap Tuesday) but all the rental machines in my area of a 20km radius won't stock it (Video Ezy).  Oh well, if Netflix don't pick it up... there's no way of seeing it.",0,0,1813737,ljKzFGpPHhw,0.4,2020-03-30 02:27:34,False,False
+2020-04-01T22:30:50,"I loved it, was not expecting such a good story!",0,0,Raquel Fernandes,ljKzFGpPHhw,0.525,2020-04-01 22:30:50,False,False
+2020-04-02T17:15:52,"If you enjoy slow movies you will enjoy this. The pace picks up 10 minutes before the film ends. Basically you could clean the house, bake a cake then get to the interesting part of the movie. Its not a bad movie it just has a snail pace....a catapiller would beat this movie hands down.",0,0,TMG JD2,ljKzFGpPHhw,0.22301587301587297,2020-04-02 17:15:52,False,False
+2020-04-05T14:41:40,Ian and Helen se las mandaron!,0,0,Ricardo Álvarez Fonseca,ljKzFGpPHhw,0.0,2020-04-05 14:41:40,False,False
+2020-04-05T15:27:51,you will love this movie. I know that I do.    1:55 💙     👇 ❤,0,0,Anthony Price,ljKzFGpPHhw,0.5,2020-04-05 15:27:51,False,False
+2020-04-07T05:34:45,"Excellent plot twist at the end, though there were some signs of it coming. Great story!",0,0,LitoGeorge,ljKzFGpPHhw,1.0,2020-04-07 05:34:45,False,False
+2020-04-15T04:52:07,Dobar lazljivac,0,0,Gordana Prvulovic,ljKzFGpPHhw,0.0,2020-04-15 04:52:07,False,False
+2020-04-20T01:33:33,Superb movie it’s i was very involved in every scene and fell in love with Ian ... got attracted to older men wow.,0,0,TheAien123,ljKzFGpPHhw,0.39333333333333337,2020-04-20 01:33:33,False,False
+2020-04-24T20:10:15,Fantastic movie,0,0,Thick dark Curvy,ljKzFGpPHhw,0.4,2020-04-24 20:10:15,False,False
+2020-04-27T01:39:44,Looks great,0,0,Capone kingpin King,ljKzFGpPHhw,0.8,2020-04-27 01:39:44,False,False
+2020-04-29T00:44:21,Just a great movie 10/10. Highly recommend it,0,0,Rúdi Israel,ljKzFGpPHhw,0.48000000000000004,2020-04-29 00:44:21,False,False
+2020-05-01T22:47:47,Great movie. I strongly recommend.,0,0,Glory Eziukwu,ljKzFGpPHhw,0.6166666666666667,2020-05-01 22:47:47,False,False
+2020-05-05T14:40:05,"Amazing movie,Really! Go and watch it,don't waste time reading comments",0,0,Matias Guelvenzu,ljKzFGpPHhw,0.275,2020-05-05 14:40:05,False,False
+2020-05-06T18:21:28,Surely I'm not the only one who thinks that the supposed grandson should have been revealed at the end as her boyfriend/lover?,0,0,J. B.,ljKzFGpPHhw,-0.125,2020-05-06 18:21:28,False,False
+2020-05-09T16:22:17,This was a great film. Great actors and great story - like all thrillers it has twists and turns but it still has some nice bite to it.,0,0,Zak Winduss,ljKzFGpPHhw,0.7500000000000001,2020-05-09 16:22:17,False,False
+2020-05-17T18:12:52,"Spoiler Alert (which knowing makes the film better): Mckellen is a German intelligence officer in world war 2 who raped Helen Mirren when they were young and assumed another identity and this is her revenge. The biggest plot strain is assuming that she wasn't an instantly recognizable fox when she was young and just some girl, but if you cast Ian Mckellen it makes some sense.",0,0,FilmGamer,ljKzFGpPHhw,0.19,2020-05-17 18:12:52,False,False
+2020-05-24T00:41:48,I really really liked this movie!!! So good!!! Plus i just really love Ian McKellen so i had to watch lol.,2,1,Emelia Fordjour,ljKzFGpPHhw,0.825,2020-05-24 00:41:48,False,False
+2020-05-24T20:39:33,Gandalf and his girlfriend .,0,0,A Mishra,ljKzFGpPHhw,0.0,2020-05-24 20:39:33,False,False
+2020-06-03T10:42:07,This movie involves Germany and England.,2,0,Kaylan Govender,ljKzFGpPHhw,0.0,2020-06-03 10:42:07,False,False
+2020-06-03T10:42:40,Which is good because I mostly watch American movies.,0,0,Kaylan Govender,ljKzFGpPHhw,0.39999999999999997,2020-06-03 10:42:40,False,False
+2020-06-04T12:28:36,drsgf resrtf e4w r,0,0,Gilberto Araújo Monteiro,ljKzFGpPHhw,0.0,2020-06-04 12:28:36,False,False
+2020-06-04T12:28:39,ergsr ts4r tge4t s,0,0,Gilberto Araújo Monteiro,ljKzFGpPHhw,0.0,2020-06-04 12:28:39,False,False
+2020-06-04T12:28:41,ges rtge4rte,0,0,Gilberto Araújo Monteiro,ljKzFGpPHhw,0.0,2020-06-04 12:28:41,False,False
+2020-06-04T13:41:55,w3r rear3wr wrwa ra3waw3 aw3r aw,0,0,José Henrique Monteiro,ljKzFGpPHhw,0.0,2020-06-04 13:41:55,False,False
+2020-06-05T08:39:02,ewfr eeate rewr wera,0,0,rosangelo ferreira,ljKzFGpPHhw,0.0,2020-06-05 08:39:02,False,False
+2020-06-06T14:57:41,ewarf wa3r3wef w3arw3,0,0,Carlos Vinicius de Carvalho,ljKzFGpPHhw,0.0,2020-06-06 14:57:41,False,False
+2020-06-06T14:57:47,fwa3few fa 3wrf 3w,0,0,Carlos Vinicius de Carvalho,ljKzFGpPHhw,0.0,2020-06-06 14:57:47,False,False
+2020-06-11T17:00:35,e4t gryse4t4st 4et,0,0,Jorge Wagner Da Fonseca,ljKzFGpPHhw,0.0,2020-06-11 17:00:35,False,False
+2020-06-11T17:00:38,4et etges4 ts4et,0,0,Jorge Wagner Da Fonseca,ljKzFGpPHhw,0.0,2020-06-11 17:00:38,False,False
+2020-06-11T17:00:40,e4 tgete4t 4ete,0,0,Jorge Wagner Da Fonseca,ljKzFGpPHhw,0.0,2020-06-11 17:00:40,False,False
+2020-06-11T17:00:43,e4t geyte4,0,0,Jorge Wagner Da Fonseca,ljKzFGpPHhw,0.0,2020-06-11 17:00:43,False,False
+2020-06-13T10:00:56,e4t 5rtste4rtwar 3,0,0,Junior Demazio Sanches,ljKzFGpPHhw,0.0,2020-06-13 10:00:56,False,False
+2020-06-13T10:00:59,w3r 4taw r3w,0,0,Junior Demazio Sanches,ljKzFGpPHhw,0.0,2020-06-13 10:00:59,False,False
+2020-06-13T12:33:09,w3r w3w3,0,0,Roberto Lotofacil,ljKzFGpPHhw,0.0,2020-06-13 12:33:09,False,False
+2020-06-14T01:46:59,Roy got his old ass molly whopped lol. 😆😂😭,0,0,The Jeneral J.U.-ICE,ljKzFGpPHhw,0.45,2020-06-14 01:46:59,False,False
+2020-06-14T02:01:37,"It’s pretty obvious she’s scamming him, but you won’t guess it!! Well written.... really well acted!!",1,0,Anonymous Poster,ljKzFGpPHhw,0.1875,2020-06-14 02:01:37,False,False
+2020-06-14T03:47:50,"I can listen to Gandalf and Mr.  Carson ALL day and if they tell me it's good investment that'll earn me 15% return, I would've gladly given them my money too.  LOL",0,0,D Ttra,ljKzFGpPHhw,0.6666666666666666,2020-06-14 03:47:50,False,False

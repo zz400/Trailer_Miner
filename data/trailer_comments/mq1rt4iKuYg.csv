@@ -1,0 +1,629 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2014-06-12T04:09:06,First,0,0,chino 357,mq1rt4iKuYg,0.25,2014-06-12 04:09:06,True,True
+2014-06-12T04:16:14,I like it a lot,5,0,Blak Knot,mq1rt4iKuYg,0.0,2014-06-12 04:16:14,True,True
+2014-06-12T04:32:26,Cant wait to see it,1,0,Kevin Morales,mq1rt4iKuYg,0.0,2014-06-12 04:32:26,True,True
+2014-06-12T04:34:59,I feel dumber already....,1,0,HealthPaks,mq1rt4iKuYg,0.0,2014-06-12 04:34:59,True,True
+2014-06-12T05:13:18,i like it a loooooo,6,0,Ana sf,mq1rt4iKuYg,0.0,2014-06-12 05:13:18,True,True
+2014-06-12T05:31:06,This is going to be epic,64,0,heat4yoass,mq1rt4iKuYg,0.1,2014-06-12 05:31:06,True,True
+2014-06-12T05:32:06,That last scene was unsettling,69,3,Jet Surf,mq1rt4iKuYg,-0.25,2014-06-12 05:32:06,True,True
+2014-06-12T05:35:29,Fuck Yeah!!! been waiting for 20 years lol,9,0,Sleeping,mq1rt4iKuYg,0.009375000000000022,2014-06-12 05:35:29,True,True
+2014-06-12T05:53:14,"Lloyd, im gunna be a dad. AHHHHHHHH!!!!!!",1,0,Ryan_n,mq1rt4iKuYg,0.0,2014-06-12 05:53:14,True,True
+2014-06-12T07:27:23,"Dusty,",0,0,Joshua McClure,mq1rt4iKuYg,-0.4,2014-06-12 07:27:23,True,True
+2014-06-12T07:32:17,Dat last scene doe...,13,1,OmegaMapDesign,mq1rt4iKuYg,0.0,2014-06-12 07:32:17,True,True
+2014-06-12T07:57:25,YES!!! FINALLY A TRAILER!!!!AW LAWDY LAWD,6,0,Healthy Criticism,mq1rt4iKuYg,0.0,2014-06-12 07:57:25,True,True
+2014-06-12T08:37:11,If you think about it... It actually has been twenty years! 😱,355,17,Stephen Murphy,mq1rt4iKuYg,0.0,2014-06-12 08:37:11,True,True
+2014-06-12T09:43:48,This trailer gives too many things away... would prefer not to have seen so many gags revealed.... looks funny though,0,0,Tom DeLaCruz,mq1rt4iKuYg,0.4166666666666667,2014-06-12 09:43:48,True,True
+2014-06-12T10:21:23,Oh Jim Carrey is fucking funny again.....! :D,2,0,McFlyYouSlacker,mq1rt4iKuYg,0.65625,2014-06-12 10:21:23,True,True
+2014-06-12T11:29:54,What's that background track ? ,0,0,IAmSiriHere KnowMeKnowLove NoMeNoLove,mq1rt4iKuYg,0.0,2014-06-12 11:29:54,True,True
+2014-06-12T11:45:36,I can't wait for this movie to come out,0,0,Abdul Aalee,mq1rt4iKuYg,0.0,2014-06-12 11:45:36,True,True
+2014-06-12T11:49:28,LMAO,0,0,Adi Matei,mq1rt4iKuYg,0.6,2014-06-12 11:49:28,True,True
+2014-06-12T12:37:17,FE EN LA HUMANIDAD RESTAURADA!!!!!,0,0,Andres RequenaFielOE,mq1rt4iKuYg,0.0,2014-06-12 12:37:17,True,True
+2014-06-12T12:38:04,Forrest Gump y el Quinto elemento ?? segundas partes para cuando???? ,1,0,Andres RequenaFielOE,mq1rt4iKuYg,0.0,2014-06-12 12:38:04,True,True
+2014-06-12T12:38:35,"This is my 5th time watching this trailer, because its that funny. ",0,0,ｈｏｎｃｈｏ (ｎｏｔ ｈｏｎｃｈｏ),mq1rt4iKuYg,0.25,2014-06-12 12:38:35,True,True
+2014-06-12T12:57:01,Looks funny.  Can't wait to go see it. ,10,0,Bobby Washington,mq1rt4iKuYg,0.25,2014-06-12 12:57:01,True,True
+2014-06-12T13:07:43,Man they are starting to look older so glad they decided to do this before they stop acting!,290,11,Seth Wheeler,mq1rt4iKuYg,0.16666666666666666,2014-06-12 13:07:43,True,True
+2014-06-12T13:16:29,Can't wait!!! It's gona be epic,0,0,A_slad3,mq1rt4iKuYg,0.1,2014-06-12 13:16:29,True,True
+2014-06-12T14:13:23,I've been waiting a long time and finally  a new part,0,1,chad warden,mq1rt4iKuYg,0.043181818181818175,2014-06-12 14:13:23,True,True
+2014-06-12T14:47:55,bwahahahahahahahahaha!,0,0,Benjamin Frizzell,mq1rt4iKuYg,0.0,2014-06-12 14:47:55,True,True
+2014-06-12T15:01:36,Wow 20yrs later I'm ready to c,0,0,John Aguilar,mq1rt4iKuYg,0.10000000000000002,2014-06-12 15:01:36,True,True
+2014-06-12T15:34:04,"""You can cross that off your bucket list"" lol eeew",0,0,Tezz Leek,mq1rt4iKuYg,0.4,2014-06-12 15:34:04,True,True
+2014-06-12T15:34:06,"""You can cross that off your bucket list"" lol eeew",0,0,Tezz Leek,mq1rt4iKuYg,0.4,2014-06-12 15:34:06,True,True
+2014-06-12T16:03:25,"hope the movie is better than the trailer, and DAMN¡¡ Jim Carrey looks bad, he didnt look this bad in Kick-ass 2.",0,0,MegaSilverBlood,mq1rt4iKuYg,-0.2999999999999999,2014-06-12 16:03:25,True,True
+2014-06-12T16:45:51,I have no words.,0,0,Andrew Godin,mq1rt4iKuYg,0.0,2014-06-12 16:45:51,True,True
+2014-06-12T17:15:50,GONNA BE SO FRICKEN EPIC!!!!!,0,0,Jaco Scholtz,mq1rt4iKuYg,0.30517578125,2014-06-12 17:15:50,True,True
+2014-06-12T17:34:41,Welcome back! Dumb and dumber!,0,0,성준호 成俊虎,mq1rt4iKuYg,0.11041666666666668,2014-06-12 17:34:41,True,True
+2014-06-12T19:03:32,"lmao i can't stop laughin at ""i like her a loot""",0,0,ANTIMKrebirth,mq1rt4iKuYg,0.6,2014-06-12 19:03:32,True,True
+2014-06-12T19:18:19,last joke almost made me gag lmao,0,0,say-cred,mq1rt4iKuYg,0.3,2014-06-12 19:18:19,True,True
+2014-06-12T19:55:34,This looks and sounds like a generic Bollywood movie,0,0,frost bitten,mq1rt4iKuYg,0.0,2014-06-12 19:55:34,True,True
+2014-06-12T21:12:38,@MeymiGrøu Mey χαχαχα έλιωσα θα πάω να την δω στο σινεμά επιτελους μετά από χρόνια μια καλή κωμωδία.,0,0,Technewz GR,mq1rt4iKuYg,0.0,2014-06-12 21:12:38,True,True
+2014-06-12T22:31:37,"I like the trailer a lot, until it gets to the grandma part in the end. It doesn't fit the humor of Dumb and Dumber at all. Felt way outta place.",258,14,hXc Marc,mq1rt4iKuYg,0.012500000000000011,2014-06-12 22:31:37,True,True
+2014-06-12T23:04:18,This is one of my favorite movies !!! I am waiting this thing since 20 yeras ago !!! Amazingggggggg !!! ,0,0,alex,mq1rt4iKuYg,1.0,2014-06-12 23:04:18,True,True
+2014-06-12T23:07:18,Ooopsss !!!This is one of my favorite movies !!! Im waiting this thing since 20 years ago !!! Amazingggggggggggggggggggggg!!!! the waiting is over !!!!,0,0,alex,mq1rt4iKuYg,1.0,2014-06-12 23:07:18,True,True
+2014-06-13T00:26:39,why is Jim Carrey wearing an inverted red triangle on his super hero uniforms chest? is he nazi prisoner of war man? illuminati man?,0,0,Dreamcast 84,mq1rt4iKuYg,0.16666666666666666,2014-06-13 00:26:39,True,True
+2014-06-13T00:45:06,hey anybody knows the name of the song in min. 1:30.. please,2,0,QUETZAL COLIN,mq1rt4iKuYg,0.0,2014-06-13 00:45:06,True,True
+2014-06-13T01:53:34,Can't wait bwahaha,0,0,GoHawksGo,mq1rt4iKuYg,0.0,2014-06-13 01:53:34,True,True
+2014-06-13T02:28:43,kinda disappointed. looks... not too funny :/ the first one would be really hard to top tho..,0,0,L Mack,mq1rt4iKuYg,-0.048611111111111126,2014-06-13 02:28:43,True,True
+2014-06-13T02:44:21,"Yoo that ""I like it a lot"" scene is fuckn HILARIOUS",0,0,Chiseltip20,mq1rt4iKuYg,0.5,2014-06-13 02:44:21,True,True
+2014-06-13T03:09:26,I bet it's going to turn out to be lloyds daughter. I feel it lol,0,0,Jo King,mq1rt4iKuYg,0.8,2014-06-13 03:09:26,True,True
+2014-06-13T03:17:42,"What a funny trailer, 20 years was a long long time for a decond part",0,0,Miguel Ramírez G.,mq1rt4iKuYg,0.05000000000000001,2014-06-13 03:17:42,True,True
+2014-06-13T03:46:12,The ad before the trailer was the trailer. Huh?,0,0,B.D.,mq1rt4iKuYg,0.0,2014-06-13 03:46:12,True,True
+2014-06-13T04:01:23,I gotta rave one out with this guy. DEAR GOD. SEND A WHIRLY BIRD,0,0,Alex White,mq1rt4iKuYg,0.0,2014-06-13 04:01:23,True,True
+2014-06-13T04:36:20,Hm.,0,0,Clif Dickens,mq1rt4iKuYg,0.0,2014-06-13 04:36:20,True,True
+2014-06-13T05:31:19,Did you hide it in this turkey? Lmao,36,3,Fernando Perez,mq1rt4iKuYg,0.6,2014-06-13 05:31:19,True,True
+2014-06-13T06:23:24,What's the name of the song?,0,0,djsoccer30,mq1rt4iKuYg,0.0,2014-06-13 06:23:24,True,True
+2014-06-13T07:34:26,awesome hahahaha,0,0,Wael Junior,mq1rt4iKuYg,0.6,2014-06-13 07:34:26,True,True
+2014-06-13T08:51:29,Dumb and dumber TO? What does the TO MEAN?,1,3,Mortyy VC,mq1rt4iKuYg,-0.34375,2014-06-13 08:51:29,True,True
+2014-06-13T23:19:05,"Haha, praise the lord!!! The Dumb Pack is back!!! (:'D",0,0,Admiral Benson,mq1rt4iKuYg,0.005208333333333333,2014-06-13 23:19:05,True,True
+2014-06-14T17:00:09,this looks fucking hilarious!!! I'm so going to see this!!!!!!,0,0,Dodge Boy,mq1rt4iKuYg,1.0,2014-06-14 17:00:09,True,True
+2014-06-14T19:21:35,Omg!!! Finally they are back!!! Omg! I were 11 age did watch that Now I am 21 age I will watch that November so bad!,35,16,Dayanara Guzman,mq1rt4iKuYg,-0.2916666666666666,2014-06-14 19:21:35,True,True
+2014-06-14T20:39:04,The phone thing was funny. The rest was pretty lame. ,0,0,II,mq1rt4iKuYg,0.0,2014-06-14 20:39:04,True,True
+2014-06-14T22:33:05,its comin out on my birthday,0,0,Tristan Harewood,mq1rt4iKuYg,0.0,2014-06-14 22:33:05,True,True
+2014-06-14T23:54:10,"NO NO NO NO NO NO NO!!! This is garbage. I can't believe they made this approach to the movie, with cheap laughs, gags and exaggerations. Nothing like the original humor of the first one. What a disappointment. x(",0,0,Robert Alexander,mq1rt4iKuYg,0.10624999999999998,2014-06-14 23:54:10,True,True
+2014-06-14T23:55:59,"The look on that old lady's face when she says ""bucket""! That looks like some pretty funny shit.",0,0,George Of Steel,mq1rt4iKuYg,0.10625,2014-06-14 23:55:59,True,True
+2014-06-15T08:09:31,I am cautiously optimistic about the movie. ,0,0,Mr. GMAN's Channel,mq1rt4iKuYg,0.0,2014-06-15 08:09:31,True,True
+2014-06-15T08:37:31,omg my god,0,0,Alim Firza,mq1rt4iKuYg,0.0,2014-06-15 08:37:31,True,True
+2014-06-15T08:52:57,most funny and awaited trailer ever seen!!they look old though but still most funny.,0,0,puneet saini,mq1rt4iKuYg,0.32,2014-06-15 08:52:57,True,True
+2014-06-15T09:28:23,I need to see this,0,0,Jett Philip,mq1rt4iKuYg,0.0,2014-06-15 09:28:23,True,True
+2014-06-15T16:17:36,I'm sure a lot of people are going to ask this  The song is called Boyz by MIA,0,0,Firebourn94,mq1rt4iKuYg,0.5,2014-06-15 16:17:36,True,True
+2014-06-15T16:59:03,"Thing is, Jim Carry isn't acting. He's that much of a dumbass.",0,0,Ozark mama,mq1rt4iKuYg,0.1,2014-06-15 16:59:03,True,True
+2014-06-15T21:58:15,Oh shit this is gonna be great. Ahhaha,0,0,TheRamblin’ Mahoney,mq1rt4iKuYg,0.30000000000000004,2014-06-15 21:58:15,True,True
+2014-06-15T22:46:27,please make a ACE VENTURA ,2,0,Obey SeTTiOz,mq1rt4iKuYg,0.0,2014-06-15 22:46:27,True,True
+2014-06-15T23:10:29,Love those PJs!,0,0,MumzNumber1,mq1rt4iKuYg,0.625,2014-06-15 23:10:29,True,True
+2014-06-16T00:18:30,Do they really need the money for this shite - those jokes worked twenty years ago but now it all looks stupid,0,0,Mark Carle,mq1rt4iKuYg,-0.29999999999999993,2014-06-16 00:18:30,True,True
+2014-06-16T11:44:40,I heard that Jim Carrey's idea of farting which caused an explosion in the film Dumb And Dumber gave the idea of causing Stone Cold Steve Austin to be on fire in the film The Expendables. ,0,0,Nazri Buang,mq1rt4iKuYg,-0.4875,2014-06-16 11:44:40,True,True
+2014-06-17T11:03:01,This is a worse idea than the Crystal Skull...,18,3,Nika Zardiashvili,mq1rt4iKuYg,-0.4,2014-06-17 11:03:01,True,True
+2014-06-17T22:51:59,"I don't like that there's a lot of sex jokes in this one, the first film is funny without them.",0,0,Nick H.,mq1rt4iKuYg,0.25,2014-06-17 22:51:59,True,True
+2014-06-18T00:47:53,OMG more idiotic and mindless bantering...How many movies produced shit trailer and ended up being AWSOME!!! Stop bitching and moaning and stop criticizing something that isn't even out yet. The 1st D&D got shit trailer reviews and most ppl loved that movie! So please don't dumb yourselves down to 1 sided thinking and wait for the damn movie to release before talking shit about something you know nothing of!,0,0,Naked Shitting HOBO,mq1rt4iKuYg,0.012468434343434344,2014-06-18 00:47:53,True,True
+2014-06-18T07:58:16,Laughing out loud then and 20yrs later it still can wait for it love these two guys,1,0,Eduardo Dominguez,mq1rt4iKuYg,0.19999999999999998,2014-06-18 07:58:16,True,True
+2014-06-20T01:55:28,So funny,0,0,bryan goshay,mq1rt4iKuYg,0.25,2014-06-20 01:55:28,True,True
+2014-06-23T03:26:36,"i am willing to bet that the harry's daughter is really loyds becauses in the first one harry talked about the ""mom"" in the first one and loyd said. ""ooh yeah!"" therefor. i figured out the plot of this movie.",12,5,Tyler Johnson,mq1rt4iKuYg,0.253125,2014-06-23 03:26:36,True,True
+2014-06-23T13:53:29,Whats the name of that song?!?! Na na na naah,0,0,Deyleon Lott,mq1rt4iKuYg,0.0,2014-06-23 13:53:29,True,True
+2014-06-23T20:20:05,"Carrey back to what made him who he is, comedy!",1,0,MaySpitfire,mq1rt4iKuYg,0.0,2014-06-23 20:20:05,True,True
+2014-06-24T01:46:09,YES!!! WIN,0,0,BetaKing,mq1rt4iKuYg,0.8,2014-06-24 01:46:09,True,True
+2014-06-24T02:59:35,I can't wait! ,0,0,Cole Goodrich,mq1rt4iKuYg,0.0,2014-06-24 02:59:35,True,True
+2014-06-24T07:26:44,man there old looking ,0,0,Corey Pimper,mq1rt4iKuYg,0.1,2014-06-24 07:26:44,True,True
+2014-06-24T19:05:45,Why did they make Jim Carrey look disabled in the wheel chair?,4,31,CyberHax Inc,mq1rt4iKuYg,-0.2,2014-06-24 19:05:45,True,True
+2014-06-25T09:12:28,mAn i LOvE tHAT mOViE aND jIM cArrey u Ar aWesome,2,1,Sajal Tandon,mq1rt4iKuYg,0.75,2014-06-25 09:12:28,True,True
+2014-06-25T13:26:17,black.. Blackk... BLAAACK humour!!))),1,0,James Smith,mq1rt4iKuYg,-0.26041666666666663,2014-06-25 13:26:17,True,True
+2014-06-25T19:10:59,I LIKE IT A LOT..cant wait! :),0,0,John Mcdonald 123,mq1rt4iKuYg,0.5,2014-06-25 19:10:59,True,True
+2014-06-25T20:00:05,"Can't wait to see it, no matter how shitty it may be.",0,0,Laura-Mae James,mq1rt4iKuYg,0.0,2014-06-25 20:00:05,True,True
+2014-06-25T20:08:05,I cant wait. I watched 1st Damb and Dumber 10th times. My favorite comedy movie! I love it!,0,0,justoneue,mq1rt4iKuYg,0.625,2014-06-25 20:08:05,True,True
+2014-06-26T02:46:26,Where's the soundtrack Funky Town?,0,0,warrkrymez,mq1rt4iKuYg,0.0,2014-06-26 02:46:26,True,True
+2014-06-27T01:56:38,"I pray seabass returns, a rematch would b hilarious ",0,0,TheRealHulk34,mq1rt4iKuYg,0.5,2014-06-27 01:56:38,True,True
+2014-06-27T21:55:04,awesome,0,0,Tavolts,mq1rt4iKuYg,1.0,2014-06-27 21:55:04,True,True
+2014-06-28T01:26:53,in the end: whaaat aaa fffuuuuck!!,0,0,Ilya Fadin,mq1rt4iKuYg,0.0,2014-06-28 01:26:53,True,True
+2014-06-28T20:15:03,first part has a lot of memory teenage time in 1996  wow we are in 2014 relley life is so short  shock facts,6,1,Ali Salim,mq1rt4iKuYg,0.0875,2014-06-28 20:15:03,True,True
+2014-06-28T23:57:31,I laughed through the entire trailer...Got to be good....,0,0,Elizabeth Williams,mq1rt4iKuYg,0.4666666666666666,2014-06-28 23:57:31,True,True
+2014-06-29T01:28:41,Oh god... dust in the wind,1,0,R.A. Sanchez,mq1rt4iKuYg,0.0,2014-06-29 01:28:41,True,True
+2014-06-29T01:49:39,hahaha,0,0,HiBACONBOMB,mq1rt4iKuYg,0.2,2014-06-29 01:49:39,True,True
+2014-06-29T10:45:30,omg this really REALLY  wasnt a good idea  lol,0,0,TheRushfx,mq1rt4iKuYg,0.5666666666666667,2014-06-29 10:45:30,True,True
+2014-06-29T17:44:36,hahaha at 1:44,0,0,CameraMan638,mq1rt4iKuYg,0.2,2014-06-29 17:44:36,True,True
+2014-06-29T20:40:23,Z see,0,0,Angie Deleon,mq1rt4iKuYg,0.0,2014-06-29 20:40:23,True,True
+2014-06-30T06:21:53,Love it. You people made me wait too long.,0,0,RicboAnti,mq1rt4iKuYg,0.225,2014-06-30 06:21:53,True,True
+2014-07-01T07:09:45,i think this is the worst thing i've ever seen,0,0,Breakingthe trance,mq1rt4iKuYg,-1.0,2014-07-01 07:09:45,True,True
+2014-07-01T22:42:31,yaaaaaaaaaaaah,0,0,ابو صقر,mq1rt4iKuYg,0.0,2014-07-01 22:42:31,True,True
+2014-07-02T03:40:42,I can cross watching the movie off my BUCKET LIST iDONT CARE HOW SHITTY IT IS,1,0,Jacob M.,mq1rt4iKuYg,0.0,2014-07-02 03:40:42,True,True
+2014-07-02T03:40:43,I can cross watching the movie off my BUCKET LIST iDONT CARE HOW SHITTY IT IS,0,0,Jacob M.,mq1rt4iKuYg,0.0,2014-07-02 03:40:43,True,True
+2014-07-02T03:51:05,Ha gay,0,0,Davis Morales,mq1rt4iKuYg,0.4166666666666667,2014-07-02 03:51:05,True,True
+2014-07-03T10:08:47,Whats that song?,0,1,MariaMaria,mq1rt4iKuYg,0.0,2014-07-03 10:08:47,True,True
+2014-07-03T17:12:59,lmao!! can't wait for this to come out,0,0,Justin Black Cloud,mq1rt4iKuYg,0.9375,2014-07-03 17:12:59,True,True
+2014-07-04T02:43:28,Omg! this is awesome! and yeah i think actually 20 years!,0,0,cvelizh,mq1rt4iKuYg,0.5,2014-07-04 02:43:28,True,True
+2014-07-04T06:22:14,lol,1,0,Amanda .May,mq1rt4iKuYg,0.8,2014-07-04 06:22:14,True,True
+2014-07-05T16:30:01,LMAO !! THIS IS FUCKING FUNNY :D CANNOT WAIT,0,0,Jackie Frankie,mq1rt4iKuYg,0.7291666666666666,2014-07-05 16:30:01,True,True
+2014-07-05T21:01:56,"I will most definitely cringe at the parts where they've recycled jokes like ""AM I RIGHT? AM I RIGHT?"" and ""I like it a lot""  Come on, really.",0,0,cj397,mq1rt4iKuYg,0.2542857142857143,2014-07-05 21:01:56,True,True
+2014-07-06T01:41:18,The first Dump And Dumper Was Stupid. The remake with an EVEN MORE UNFUNNY Carrey can only be worse.,0,0,Starhunter Terra,mq1rt4iKuYg,-0.09,2014-07-06 01:41:18,True,True
+2014-07-06T05:18:30,interesting. I'll see how the ratings go. the first one was legendary.,0,0,x Frog,mq1rt4iKuYg,0.5833333333333334,2014-07-06 05:18:30,True,True
+2014-07-06T21:15:30,lmao at that last scene... this better be good as the first or at least come reasonably close.... so worried it won't... ,0,0,BIGD_OSpinner,mq1rt4iKuYg,0.2785714285714285,2014-07-06 21:15:30,True,True
+2014-07-07T08:13:00,Seriously? Did they really need to do this 20 years later? This looks horrible!!!,0,0,snoutout,mq1rt4iKuYg,-0.2833333333333333,2014-07-07 08:13:00,True,True
+2014-07-07T09:51:56,he was disabled for 20 yrs for a prank...best one,1,0,Champ Gamer,mq1rt4iKuYg,-0.2,2014-07-07 09:51:56,True,True
+2014-07-07T17:31:39,"Why is Jim Carrey selling out here? He had a string of great films after the first Dumb and Dumber, like Eternal Sunshine of the Spotless Mind. This sequel looks like complete rubbish.",60,41,Raghu Seetharaman,mq1rt4iKuYg,0.19375,2014-07-07 17:31:39,True,True
+2014-07-07T22:31:49,I can't stop washing this!!!!!! @.@,0,1,Snow Tiger,mq1rt4iKuYg,0.0,2014-07-07 22:31:49,True,True
+2014-07-07T22:49:28,Daammmmm 20 years later? WTF!!!,0,0,Robinson estrada alvarez,mq1rt4iKuYg,-0.48828125,2014-07-07 22:49:28,True,True
+2014-07-08T06:58:35,Jim Carrey is still the best... too bad his not immortal.,0,0,coolsite100,mq1rt4iKuYg,0.15000000000000008,2014-07-08 06:58:35,True,True
+2014-07-09T02:07:18,yesyesyesyes fuck that imposter shit,0,0,/,mq1rt4iKuYg,-0.30000000000000004,2014-07-09 02:07:18,True,True
+2014-07-09T05:38:48,The first Dumb and Dumber was absolute film genius. To this date it is the greatest film of all time. This looks awful. If this film tarnish's the first film in anyway for example the way Anchorman 2 did so to Anchorman it will be unforgivable. Obviously this movie can't be as good as the first Dumb and Dumber that is impossible. But if this film doesn't meet a certain standard of awesomeness (which it doesn't look like it will) it would be fair for the fans of the first great film to call for the deaths of Jim Carrey and Jeff Daniels.,1,2,Mike M,mq1rt4iKuYg,0.1373511904761905,2014-07-09 05:38:48,True,True
+2014-07-10T07:58:06,LMAO too much!!,0,0,Alan Ortiz,mq1rt4iKuYg,0.45625,2014-07-10 07:58:06,True,True
+2014-07-10T19:21:49,"Man, time flys",0,0,BG,mq1rt4iKuYg,0.0,2014-07-10 19:21:49,True,True
+2014-07-11T02:56:21,"The part where Lloyd blows dust off his hand really put it over the top for me. When I saw that I very clearly heard George Takei saying his signature, *OH-MY-GOD* phrase!",0,0,John Hancock,mq1rt4iKuYg,0.28750000000000003,2014-07-11 02:56:21,True,True
+2014-07-11T07:00:10,Anyone know the song at the beginning?,0,0,a w,mq1rt4iKuYg,0.0,2014-07-11 07:00:10,True,True
+2014-07-11T19:27:59,Jim Carrey needed to go back to the old school drawing board. Not this new style of over the top comedy,0,0,lincolnls670,mq1rt4iKuYg,0.18409090909090908,2014-07-11 19:27:59,True,True
+2014-07-12T03:47:15,"I like that even with the long unkept hair and beard, he still has those retarded bangs. Haha!",0,0,Dedric There,mq1rt4iKuYg,-0.20000000000000004,2014-07-12 03:47:15,True,True
+2014-07-14T06:56:53,This is going to suck,0,0,X S,mq1rt4iKuYg,0.0,2014-07-14 06:56:53,True,True
+2014-07-15T02:39:47,2:09 ...HASHTAG: FUCKING DISGUSTING!!! the dust made it funny tho ,0,0,Buddy Dry,mq1rt4iKuYg,-0.375,2014-07-15 02:39:47,True,True
+2014-07-15T03:52:37,"1:06 lol!!!! thats enough reason to one day watch this movie.  LOL, jims the best",0,0,rob dub,mq1rt4iKuYg,0.7,2014-07-15 03:52:37,True,True
+2014-07-17T00:04:16,"Lol, gotta love the comments. Only on YouTube do you have a bunch of adolescent crybabies starting a comment war for a Dumb and Dumber trailer, oh the irony of it all",0,0,jeffglenellen,mq1rt4iKuYg,0.185,2014-07-17 00:04:16,True,True
+2014-07-17T01:15:20,so do we got 57 geniuses out there?! :P,1,0,shenjeev k,mq1rt4iKuYg,0.75,2014-07-17 01:15:20,True,True
+2014-07-17T20:40:38,at 1:44 damn i didnt even exspect that,0,0,Justin Nolte,mq1rt4iKuYg,0.0,2014-07-17 20:40:38,True,True
+2014-07-17T21:05:58,Looks funny,0,0,Erik Tadla,mq1rt4iKuYg,0.25,2014-07-17 21:05:58,True,True
+2014-07-18T04:48:34,Este é o novo filme de jin carry esse cara é show!!!,0,0,Phelipe Roque,mq1rt4iKuYg,0.0,2014-07-18 04:48:34,True,True
+2014-07-18T06:05:06,Looks awful,16,4,jpmc04,mq1rt4iKuYg,-1.0,2014-07-18 06:05:06,True,True
+2014-07-18T08:20:43,today... is a good day lads...,0,0,Cpapa18,mq1rt4iKuYg,0.7,2014-07-18 08:20:43,True,True
+2014-07-18T16:56:33,This needs to not happen. Oh. Dear.,0,0,Kallie DeHart Burke,mq1rt4iKuYg,0.0,2014-07-18 16:56:33,True,True
+2014-07-18T18:17:30,20 years later,0,0,EAV123 _,mq1rt4iKuYg,0.0,2014-07-18 18:17:30,True,True
+2014-07-18T22:16:58,They grow up to much !  They be a older's men xD ,0,0,Mr. Ghost,mq1rt4iKuYg,0.20833333333333331,2014-07-18 22:16:58,True,True
+2014-07-19T01:17:20,i cant say no to jim carrey.,0,0,TheCullousus,mq1rt4iKuYg,0.0,2014-07-19 01:17:20,True,True
+2014-07-19T19:56:44,haha this looks like Jim Curry!,0,0,Sandeep K,mq1rt4iKuYg,0.25,2014-07-19 19:56:44,True,True
+2014-07-21T00:31:36,Whats the name of the song in trailer?,0,0,Sete,mq1rt4iKuYg,0.0,2014-07-21 00:31:36,True,True
+2014-07-21T00:48:06,This looks funnier than shit! I was lmfao at the trailor cant wait to see the movie. Fuuuuuuunnnnnny!!!!!! :-),0,0,Rodrick Mims,mq1rt4iKuYg,-0.226837158203125,2014-07-21 00:48:06,True,True
+2014-07-21T17:30:57,Yes there same actor,0,0,James Nguyen,mq1rt4iKuYg,0.0,2014-07-21 17:30:57,True,True
+2014-07-21T21:29:28,whats the music at the start?,0,0,Jon Baxter,mq1rt4iKuYg,0.0,2014-07-21 21:29:28,True,True
+2014-07-22T06:01:28,Dumb and Dumber is dumb...,0,0,Hmmmn Vid's,mq1rt4iKuYg,-0.375,2014-07-22 06:01:28,True,True
+2014-07-22T07:28:48,I think they went full retarted this time.,0,0,marcelosinico,mq1rt4iKuYg,0.35,2014-07-22 07:28:48,True,True
+2014-07-23T04:34:51,https://itunes.apple.com/us/album/ep-ep/id901526724,0,0,jonny sands,mq1rt4iKuYg,0.0,2014-07-23 04:34:51,True,True
+2014-07-23T05:36:23,Lmfao!,0,0,THouGHT CReaTioNiST,mq1rt4iKuYg,0.0,2014-07-23 05:36:23,True,True
+2014-07-23T09:28:16,"I won't pay to see it, but I'd gladly watch it. ",0,0,Kid Stacey,mq1rt4iKuYg,0.5,2014-07-23 09:28:16,True,True
+2014-07-23T21:14:38,Why. Why make a sequel to a movie that was destined to be a one-off. Don't make the mistake of The Hangover series! ,0,0,Dillon Birns,mq1rt4iKuYg,0.0,2014-07-23 21:14:38,True,True
+2014-07-24T01:56:47,"good funny stuff is great. don't sweat the small stuff, just wipe it off and put it back in your pants",0,0,dan myers,mq1rt4iKuYg,0.3,2014-07-24 01:56:47,True,True
+2014-07-24T02:01:54,"ok , another, why'd you name him butthole.............because of this...........LOLHARHARAHA",0,0,dan myers,mq1rt4iKuYg,0.5,2014-07-24 02:01:54,True,True
+2014-07-24T14:41:33,I mean you gotta top 5 jokes:  - Wanna hear the most annoying sound in the world - Ketchup shaving trick - HARRY YOUR HANDS ARE FREEZING! With that Jim Carey look. - Did you pay the gas bill? - AND OF COURSE! Your It! Quincys!,0,0,PapomanResurrect,mq1rt4iKuYg,0.17281249999999998,2014-07-24 14:41:33,True,True
+2014-07-24T21:14:31,"Oh no. Oh no, no, no, no. This looks awful. ",0,0,Kyle Butler,mq1rt4iKuYg,-1.0,2014-07-24 21:14:31,True,True
+2014-07-25T02:09:06,I can't wait for this lol,0,0,Hip Hop Junkie,mq1rt4iKuYg,0.8,2014-07-25 02:09:06,True,True
+2014-07-26T04:24:53,"Oh my god, it's Blues Brothers 2000 all over again.",0,0,Christopher Malone,mq1rt4iKuYg,0.0,2014-07-26 04:24:53,True,True
+2014-07-26T04:44:14,What is the song in the trailer?,0,0,Adam Nash Bramson,mq1rt4iKuYg,0.0,2014-07-26 04:44:14,True,True
+2014-07-26T09:21:50,Burn almost 20 years of your life in that chair just for a joke.....man i never seen something dumb as fuck in my life.,1,0,El Mariachi,mq1rt4iKuYg,-0.3875,2014-07-26 09:21:50,True,True
+2014-07-26T21:56:06,that dust tho,0,0,KeaveoZ,mq1rt4iKuYg,0.0,2014-07-26 21:56:06,True,True
+2014-07-27T17:31:47,It's going to be a Hilarious Movie.....!!,0,0,Rocky Atlantis,mq1rt4iKuYg,0.78125,2014-07-27 17:31:47,True,True
+2014-07-27T23:46:13,"So okay, which of these is it? 1. Jim Carrey cut his hair into a bowl cut for the first film and again for this one. 2. Jim wore a wig for the first film and again for this one. 3. Jim cut his hair into a bowl cut for the first film and wore a wig for this one. 4. Jim wore a wig for the first film and cut his hair for this one (unlikely but... y'know) Also if someone could explain to me how they create that effect with his tooth, that'd be great!",0,0,ShoogaMoogaMan,mq1rt4iKuYg,0.2857142857142857,2014-07-27 23:46:13,True,True
+2014-07-29T04:49:52,Dumb and Dumberer (2003) was funnier than the original.  Fuck the haters,0,0,Sam,mq1rt4iKuYg,-0.13333333333333333,2014-07-29 04:49:52,True,True
+2014-07-29T19:50:42,14 november 2014?,1,0,петар,mq1rt4iKuYg,0.0,2014-07-29 19:50:42,True,True
+2014-07-29T22:41:16,i am allready loving it,0,0,Mr Universe,mq1rt4iKuYg,0.6,2014-07-29 22:41:16,True,True
+2014-07-30T06:56:30,"Wow, makes me want to watch the first one again. Havent seen it in years and this looks great!",0,0,aj lawrence,mq1rt4iKuYg,0.45,2014-07-30 06:56:30,True,True
+2014-07-30T12:54:41,this looks gross,0,0,Bahama Bob,mq1rt4iKuYg,0.0,2014-07-30 12:54:41,True,True
+2014-07-30T21:08:01,I like how the apartment looks about the same.,5,0,MrPhantom95,mq1rt4iKuYg,0.0,2014-07-30 21:08:01,True,True
+2014-07-31T02:48:09,JC is looking old... I wonder if he still has the range to play this character again... ,0,0,FlipSquad1981,mq1rt4iKuYg,0.1,2014-07-31 02:48:09,True,True
+2014-07-31T06:08:32,Nope.,0,0,marcus thatcher,mq1rt4iKuYg,0.0,2014-07-31 06:08:32,True,True
+2014-07-31T16:54:49,Why?,0,0,Fireworxs2012,mq1rt4iKuYg,0.0,2014-07-31 16:54:49,True,True
+2014-07-31T18:42:13,he can still act,0,0,harris brunx,mq1rt4iKuYg,0.0,2014-07-31 18:42:13,True,True
+2014-07-31T20:39:37,After watching the Newsroom seeing Jeff Daniels in this trailer is hysterical,0,0,Daniel Chapman,mq1rt4iKuYg,-1.0,2014-07-31 20:39:37,True,True
+2014-08-01T01:44:39,OMG I CAN'T WAIT TO SEE THIS MOVIE!!!!,0,0,Weyland Productions,mq1rt4iKuYg,0.0,2014-08-01 01:44:39,True,True
+2014-08-01T06:15:51,funniest movie ever,0,0,ghostrider 101,mq1rt4iKuYg,0.0,2014-08-01 06:15:51,True,True
+2014-08-01T10:50:57,hhhhhhhhhhhhhhhhhhhh fuckme this shit is funny as hell,0,0,Zoeyinterface,mq1rt4iKuYg,0.024999999999999994,2014-08-01 10:50:57,True,True
+2014-08-01T12:26:43,"Sell out or not, I'm gonna watch! Remember we were kids when the first one came out and the 'second was a fail' but this true sequel is for the books of history.",0,0,Fortune Majola,mq1rt4iKuYg,0.024999999999999994,2014-08-01 12:26:43,True,True
+2014-08-01T14:41:52,Soooooo Stupid,0,0,O. M.,mq1rt4iKuYg,-0.7999999999999999,2014-08-01 14:41:52,True,True
+2014-08-01T21:16:15,omg i can't what till this comes out i  saww the first how lkong ago was thart,0,0,Max Bradley,mq1rt4iKuYg,0.25,2014-08-01 21:16:15,True,True
+2014-08-02T17:11:32,lol,0,0,The YBZ guy,mq1rt4iKuYg,0.8,2014-08-02 17:11:32,True,True
+2014-08-03T17:03:47,"so it looks like they just made a dirty-- more vulgar version of the first one, from this trailer.... I don't want to see it  =o[",0,0,Jon Williams,mq1rt4iKuYg,-0.13749999999999998,2014-08-03 17:03:47,True,True
+2014-08-04T03:15:59,Jim looks like an elderly Spock.,0,0,BishtrainerTai16,mq1rt4iKuYg,0.0,2014-08-04 03:15:59,True,True
+2014-08-04T09:15:51,"trop bon,c'est toujours les memes ,hate...",1,1,solid corsica,mq1rt4iKuYg,-0.8,2014-08-04 09:15:51,True,True
+2014-08-04T12:54:03,They back again....,1,0,time2kick,mq1rt4iKuYg,0.0,2014-08-04 12:54:03,True,True
+2014-08-04T17:53:01,do u think this kind of guys is actualy exists?? i think so....,0,0,stefanManiak262011,mq1rt4iKuYg,0.6,2014-08-04 17:53:01,True,True
+2014-08-05T00:58:48,Finally a sequel with the real characters danm that one dumb and dumberer was stupid they could if made a danm tv series Jim carry and Daniel,0,0,briggsmadness,mq1rt4iKuYg,-0.24374999999999997,2014-08-05 00:58:48,True,True
+2014-08-05T03:13:49,Looks funny ,0,0,sharon sanchez,mq1rt4iKuYg,0.25,2014-08-05 03:13:49,True,True
+2014-08-06T02:35:01,the ignorant comments make me feel gay :(,1,0,Freeplugin3,mq1rt4iKuYg,-0.16666666666666666,2014-08-06 02:35:01,True,True
+2014-08-06T20:24:06,how am i supposed to laugh?,0,0,Mayde ways,mq1rt4iKuYg,0.3,2014-08-06 20:24:06,True,True
+2014-08-07T01:10:33,Daniels and Carrey must be so desperate...,181,52,Jim O'Donnelly,mq1rt4iKuYg,-0.6,2014-08-07 01:10:33,True,True
+2014-08-07T18:47:23,Still waiting for another Ace Ventura film,0,0,Adam Sigma,mq1rt4iKuYg,0.0,2014-08-07 18:47:23,True,True
+2014-08-08T04:23:08,What most people fail to realize here is that Jim Carrey NEVER does sequels. So the fact that he actually agreed to do this means a lot.,587,36,Algernon97,mq1rt4iKuYg,0.0,2014-08-08 04:23:08,True,True
+2014-08-09T19:12:36,18 years late. lol,0,0,Brewmaster,mq1rt4iKuYg,0.25,2014-08-09 19:12:36,True,True
+2014-08-10T01:20:30,He should've made a fire Marshall bill movie.,0,0,kingmoose,mq1rt4iKuYg,0.0,2014-08-10 01:20:30,True,True
+2014-08-10T10:24:37,I just don't know...,0,0,Aaron Vigil,mq1rt4iKuYg,0.0,2014-08-10 10:24:37,True,True
+2014-08-10T12:03:40,WTF is with the SHIT soundtrack??????,1,0,gooeyM00NAJUANA,mq1rt4iKuYg,-0.35,2014-08-10 12:03:40,True,True
+2014-08-10T14:36:12,IOt takes these much year for jim to realise tht he should make sequal of this one........................n he should  do one more ACE Ventura...,0,0,Peter parker,mq1rt4iKuYg,0.35,2014-08-10 14:36:12,True,True
+2014-08-10T18:48:18,Idc what everyone says i cant fckn wait for this movie!,0,0,mikenator55,mq1rt4iKuYg,0.0,2014-08-10 18:48:18,True,True
+2014-08-10T20:10:37,Did anybody else paused at 1:44?,0,0,Marcus Mortera,mq1rt4iKuYg,0.0,2014-08-10 20:10:37,True,True
+2014-08-11T01:18:28,This looks less than good.,0,0,Bitcoin Video University,mq1rt4iKuYg,0.26666666666666666,2014-08-11 01:18:28,True,True
+2014-08-11T05:19:52,O_o they are old as fuck ,0,0,Francisco Vásquez,mq1rt4iKuYg,-0.08333333333333333,2014-08-11 05:19:52,True,True
+2014-08-11T15:57:36,Ummm yeeeaaaaa........  Fail,0,0,Chris JR,mq1rt4iKuYg,-0.5,2014-08-11 15:57:36,True,True
+2014-08-11T23:49:41,Robin Williams is DEAD!!!,0,0,Don'tKnowWhatToCallThisChannelYet,mq1rt4iKuYg,-0.390625,2014-08-11 23:49:41,True,True
+2014-08-12T03:32:05,1:41 did not see that,0,0,Drake Justice,mq1rt4iKuYg,0.0,2014-08-12 03:32:05,True,True
+2014-08-12T10:24:36,"Hey guys! I did a cover of John Legend's ""All of Me"" over on my channel! Please feel free to give it a listen, a thumbs up and subscribe to me! My main goal is to entertain other so I hope you are entertained by watching my videos!",0,0,CassandraOfficial,mq1rt4iKuYg,0.17013888888888887,2014-08-12 10:24:36,True,True
+2014-08-12T18:52:05,this is bad... sry,0,0,rrgert4,mq1rt4iKuYg,-0.6999999999999998,2014-08-12 18:52:05,True,True
+2014-08-12T21:33:57,"This is the best thing that ever happened, and some of you think that this is a mistake. It's not, you should all be happy that they're back.",0,0,Dustin Martin,mq1rt4iKuYg,0.6,2014-08-12 21:33:57,True,True
+2014-08-12T21:39:11,20 years later wow this gonna be funny! ,0,0,Kazzie Doomes,mq1rt4iKuYg,0.13749999999999998,2014-08-12 21:39:11,True,True
+2014-08-12T22:01:10,"Wow haters everywhere. This trailer cracked me up and I will be watching this movie. I think it will be pretty great, but what do I know? I love the Turtles movie too. ",0,0,Lewis Mitchell,mq1rt4iKuYg,0.4125,2014-08-12 22:01:10,True,True
+2014-08-12T22:17:00,The movie should have been starred by Jenny McCarthy and Jim Carrey.,0,0,pgraphics,mq1rt4iKuYg,0.0,2014-08-12 22:17:00,True,True
+2014-08-13T07:56:53,1:45 was coool,0,0,Suman Thapa Magar,mq1rt4iKuYg,0.0,2014-08-13 07:56:53,True,True
+2014-08-13T13:09:57,Already Weak,0,0,GotDamnDEE King,mq1rt4iKuYg,-0.375,2014-08-13 13:09:57,True,True
+2014-08-14T00:11:21,HOLO SHIT they look so old like seriously so fucking old.,0,0,GAMERDANKAR,mq1rt4iKuYg,0.0,2014-08-14 00:11:21,True,True
+2014-08-14T19:26:32,That is gross,0,0,Austin Givens,mq1rt4iKuYg,0.0,2014-08-14 19:26:32,True,True
+2014-08-15T01:21:05,"I need to see this, can't wait .",0,0,Simply Kayla,mq1rt4iKuYg,0.0,2014-08-15 01:21:05,True,True
+2014-08-15T07:48:31,I totally want to see that!!!,0,0,HayleeTheComet,mq1rt4iKuYg,0.0,2014-08-15 07:48:31,True,True
+2014-08-16T04:36:21,Yes! going back to the 90s again,0,0,thebarrochannel,mq1rt4iKuYg,0.0,2014-08-16 04:36:21,True,True
+2014-08-16T09:01:54,They always have to try to duplicate the classics and they always suck,1,0,Chris Cruise,mq1rt4iKuYg,0.0,2014-08-16 09:01:54,True,True
+2014-08-16T17:45:41,seriously does jim carrey have some fetish for old hags? first yes man now this,0,0,btvbrndn,mq1rt4iKuYg,0.005555555555555564,2014-08-16 17:45:41,True,True
+2014-08-17T03:45:09,No f-ing way!! yup yuuup,0,0,Naptic,mq1rt4iKuYg,0.0,2014-08-17 03:45:09,True,True
+2014-08-17T14:31:05,"been waiting for this for 20 years, finally the duo has come back",0,0,Confederate Texas,mq1rt4iKuYg,0.0,2014-08-17 14:31:05,True,True
+2014-08-20T00:45:34,I hope this one is just as funny as the 1st one,0,0,iF3llOffaBr1dge,mq1rt4iKuYg,0.25,2014-08-20 00:45:34,True,True
+2014-08-20T02:58:27,"""You're hot for my daughter!"" ""What?! ""Am I right? "" ""WHAT?!"" ""AM I RIGHT?!"" ""That's insane!""",2,0,Nekron Prime,mq1rt4iKuYg,0.026227678571428548,2014-08-20 02:58:27,True,True
+2014-08-21T23:42:02,Dumb and dumber was funny. This one is clearly going to suck....really bad.,0,0,Jack Frost,mq1rt4iKuYg,-0.18124999999999997,2014-08-21 23:42:02,True,True
+2014-08-22T03:35:03,bad bad bad bad movie,0,0,trixio mote,mq1rt4iKuYg,-0.6999999999999998,2014-08-22 03:35:03,True,True
+2014-08-22T09:59:31,looks epic,0,0,supertrollhouse,mq1rt4iKuYg,0.1,2014-08-22 09:59:31,True,True
+2014-08-22T19:40:50,i been waiting years for him to go back to his roots. smartest career choice ever cant wait. anyone who thinks hes selling out must not get comedy or remember how he started. example ace ventura amazing 23 shit.,0,0,420ryanrenaud,mq1rt4iKuYg,0.13333333333333336,2014-08-22 19:40:50,True,True
+2014-08-22T21:19:47,"wow, this caused a lot more dispute than I thought it would... should be good then xD",0,0,Nature Empress,mq1rt4iKuYg,0.4333333333333333,2014-08-22 21:19:47,True,True
+2014-08-23T02:25:07,Damn there old!!!!!....but it still looks fun!!!,0,0,Cesar Leal,mq1rt4iKuYg,0.5859375,2014-08-23 02:25:07,True,True
+2014-08-23T12:02:42,"Will never forget in the first film, where the blind kid kept stroking his dead budgie, thinking it was alive, after Jim Carrey decapitated it and taped it's head back on....LOL.....and who could forget the hottie by the side of the road from Austria....'G'day mate.......put another shrimp on the barbie!'",1,0,Noelio Emerald-Isle,mq1rt4iKuYg,-0.06999999999999999,2014-08-23 12:02:42,True,True
+2014-08-23T17:38:32,"Sadly, all the gags are probably in the trailer",0,0,Lord Farquad,mq1rt4iKuYg,-0.5,2014-08-23 17:38:32,True,True
+2014-08-23T19:50:58,I just hope it is done like the last one. Not like todays comedies and you all know what I am talking about. ,0,0,mrrossn,mq1rt4iKuYg,0.0,2014-08-23 19:50:58,True,True
+2014-08-24T18:45:28,What's the age rate for the movie,0,0,Kia Askins,mq1rt4iKuYg,0.0,2014-08-24 18:45:28,True,True
+2014-08-24T20:28:59,Its about time Jim Carrey got that serious acting bug out of his system and started being funny again. Nobody likes you as 'eternal sunshine' Jim! Give us Ace and talk out of your butt like when we liked you 20 years ago.,0,0,madashell1200,mq1rt4iKuYg,0.14479166666666665,2014-08-24 20:28:59,True,True
+2014-08-24T22:03:10,Great trailer,0,0,Teddy Bitesigilwe,mq1rt4iKuYg,0.8,2014-08-24 22:03:10,True,True
+2014-08-25T01:02:17,this seems like the best one yet,0,0,MXP Comedy,mq1rt4iKuYg,1.0,2014-08-25 01:02:17,True,True
+2014-08-25T08:45:12,"I don't care, I want to see this. I'm dumb and dumbererer two. ",0,0,rush thatspeaks,mq1rt4iKuYg,-0.375,2014-08-25 08:45:12,True,True
+2014-08-25T13:07:36,Dumb and Dumber movie was Awesome N now Dumb and Dumber too .can't wait !!!!!!! :),0,0,Common Sense,mq1rt4iKuYg,0.03125,2014-08-25 13:07:36,True,True
+2014-08-25T21:37:53,I wanna see that,0,0,Kairi Perez,mq1rt4iKuYg,0.0,2014-08-25 21:37:53,True,True
+2014-08-26T02:00:05,Please. Just don't suck.,0,0,Matthew McKnight,mq1rt4iKuYg,0.0,2014-08-26 02:00:05,True,True
+2014-08-26T04:29:07,This movie is crap like the first and I'm not gonna watch it but I tell you... the dust Jim blows from his own hand at the end got me laughing out of my belly...,0,0,Davide de Muro Dominijanni,mq1rt4iKuYg,0.016666666666666646,2014-08-26 04:29:07,True,True
+2014-08-26T12:26:22,hell fucking yeah!!!! they're back!!!),0,0,дядя Жеган,mq1rt4iKuYg,-0.5,2014-08-26 12:26:22,True,True
+2014-08-26T18:23:49,hahahaha ok,0,0,Dandin,mq1rt4iKuYg,0.35,2014-08-26 18:23:49,True,True
+2014-08-26T20:28:35,who pause this or go back to 1:44 lol nice camo,0,0,Real muscle for life,mq1rt4iKuYg,0.4666666666666666,2014-08-26 20:28:35,True,True
+2014-08-27T01:05:16,well it cant be as bad as the prequel,0,0,Peter Van Buskirk,mq1rt4iKuYg,-0.6999999999999998,2014-08-27 01:05:16,True,True
+2014-08-27T04:33:49,looks hilarious.  great to see Jim back!!!!,0,0,c c,mq1rt4iKuYg,0.43333333333333335,2014-08-27 04:33:49,True,True
+2014-08-27T14:24:00,"Well... It looks better then that ""prequel"" the released a while ago, ALOT better",0,0,MrEdcoMM,mq1rt4iKuYg,0.5,2014-08-27 14:24:00,True,True
+2014-08-27T14:26:54,WHY DNT U ASK JIM CARREY INSTEAD OF CRYING OUT YOUR STUPID QUESTION HERE,0,0,Vahrex kell,mq1rt4iKuYg,-0.5,2014-08-27 14:26:54,True,True
+2014-08-27T20:36:52,Cool,0,0,Avit Leyva,mq1rt4iKuYg,0.35,2014-08-27 20:36:52,True,True
+2014-08-27T23:43:16,Looks dumb.,0,0,Mightypatient,mq1rt4iKuYg,-0.375,2014-08-27 23:43:16,True,True
+2014-08-29T02:30:15,South indian music rocks,0,0,Clinstan Kulenthevelar Yogarajah,mq1rt4iKuYg,0.0,2014-08-29 02:30:15,True,True
+2014-08-29T15:30:15,to the people who thinks the guys arent sell outs are kinda wrong. You dont ruin a good film like dumb and dumber by making another one. that 20 year prank thing was a terrible excuse for the where abouts of the pair for that period of time. Its definitely unlike  Lloyd to do something like that in comparison to his personality in the first movie. Dumb and dumber was unique and now its lost due to a sequel,0,0,gareth cooney,mq1rt4iKuYg,-0.11000000000000001,2014-08-29 15:30:15,True,True
+2014-08-30T09:43:49,1:06 wtf?,0,0,Sovereign,mq1rt4iKuYg,-0.5,2014-08-30 09:43:49,True,True
+2014-08-30T12:23:01,"why do you folk take things so seriously?...it looks funny,it's not desperate,it's a film...watch it or don't!....live life n b happy...",0,0,gary h,mq1rt4iKuYg,0.8,2014-08-30 12:23:01,True,True
+2014-08-30T14:11:07,I'm  happy they decided to get off their ass and finally make another one.  The first one was a classic.  One of the funniest  movies he's ever been in. The 2nd one looks hilarious!  I can't wait to see it!,0,0,Shauna Hoffman,mq1rt4iKuYg,0.33298611111111115,2014-08-30 14:11:07,True,True
+2014-08-30T17:09:45,Lol,0,0,Emma Alvarez,mq1rt4iKuYg,0.8,2014-08-30 17:09:45,True,True
+2014-09-01T19:15:19,This is one of my dreams come true for the sequel.,5,0,Rahu VV,mq1rt4iKuYg,0.35,2014-09-01 19:15:19,True,True
+2014-09-01T19:45:25,My GOD! XD 20 years pranking in a mental hospital. LOL! Wtf?!,0,0,DoomFry,mq1rt4iKuYg,0.09166666666666667,2014-09-01 19:45:25,True,True
+2014-09-02T01:40:55,"its so incredibly stupid i cant even laugh at it, it would be like laughing at a terminal cancer down sindrome 4 year old",0,0,pereiramariana35,mq1rt4iKuYg,-0.1388888888888889,2014-09-02 01:40:55,True,True
+2014-09-02T04:11:57,they should of made a sequel while they were young. not wait o most 20 years later for  one. It looks ok but i'm sure if going to as good,0,0,Girly Knight,mq1rt4iKuYg,0.3833333333333333,2014-09-02 04:11:57,True,True
+2014-09-02T08:52:57,"omg huge fan of the movie. looks fricken hilarious, oh how I missed Jim Carrey humor. Modern comedy is kind of dry when compared to Jim Carrey.",0,0,Bek Baev,mq1rt4iKuYg,0.3266666666666667,2014-09-02 08:52:57,True,True
+2014-09-02T19:05:38,"this was unconfortable, and extremely depresing....",0,0,ovisatma,mq1rt4iKuYg,-0.125,2014-09-02 19:05:38,True,True
+2014-09-02T19:22:32,Am i the only one who thought about Ian and Anthony?,2,0,David Vapna,mq1rt4iKuYg,0.0,2014-09-02 19:22:32,True,True
+2014-09-03T11:57:55,Finally!,0,0,JWolfshaim,mq1rt4iKuYg,0.0,2014-09-03 11:57:55,True,True
+2014-09-04T06:56:00,Pretended to be catatonic for 20 years lmfao! that shyt is funny right there.,1,0,Sea Hawks,mq1rt4iKuYg,0.26785714285714285,2014-09-04 06:56:00,True,True
+2014-09-04T16:39:09,Do these kunts bellow me have a sense of humor? Their lives must be pathetic!,0,0,Tiago Spartan Beast,mq1rt4iKuYg,-1.0,2014-09-04 16:39:09,True,True
+2014-09-05T07:29:01,Nay Sayers will nay say. But everyone has to admit something right now. It looks a hell of lot better than Dumb and Dumberer: When Harry met Lloyd ,0,0,Austin Beattie,mq1rt4iKuYg,0.1369047619047619,2014-09-05 07:29:01,True,True
+2014-09-05T11:03:37,this is great its bn awl tht i sn jim carrey in the movie,0,0,gerald lumague,mq1rt4iKuYg,0.8,2014-09-05 11:03:37,True,True
+2014-09-05T12:38:09,"I hate when trailers reveal too much, especially for a comedy, GEE who hires these marketing experts? Cut the Grandma scene and they have a good movie.",0,0,LetzFightingLuv,mq1rt4iKuYg,-0.03333333333333336,2014-09-05 12:38:09,True,True
+2014-09-05T18:54:45,"""I like it alot"" :D",1,0,TNTHorse,mq1rt4iKuYg,1.0,2014-09-05 18:54:45,True,True
+2014-09-06T06:12:01,Yeah that last scene totally convinced me not to watch this movie,0,0,frebuf,mq1rt4iKuYg,0.0,2014-09-06 06:12:01,True,True
+2014-09-06T08:12:31,Too much makeup and not enough funny.,0,0,Greg Cunningham,mq1rt4iKuYg,0.15,2014-09-06 08:12:31,True,True
+2014-09-06T09:55:49,This will shit soo much you'll be better off watching 2 girls 1 cup.,0,0,KratoZJ,mq1rt4iKuYg,0.16666666666666666,2014-09-06 09:55:49,True,True
+2014-09-06T20:34:23,it's about time Jim Carry got back on the wagon,1,0,Allen Schroeder,mq1rt4iKuYg,0.0,2014-09-06 20:34:23,True,True
+2014-09-07T02:34:04,What's the music at 1:30,0,0,MrTitus,mq1rt4iKuYg,0.0,2014-09-07 02:34:04,True,True
+2014-09-07T16:08:59,... I am wordless,0,0,Arcane Mortimoose,mq1rt4iKuYg,0.0,2014-09-07 16:08:59,True,True
+2014-09-07T18:51:08,looks sucks but can't dislike Jim ,0,0,shehrima,mq1rt4iKuYg,-0.3,2014-09-07 18:51:08,True,True
+2014-09-07T19:30:34,The sexually akward humor seems absurd for Carrey.,0,0,antonella ippolito,mq1rt4iKuYg,0.0,2014-09-07 19:30:34,True,True
+2014-09-08T12:25:36,i think its good to go back to memory lane once in a while...they did some pretty good skits in this one. hope it'll be a good come back movie for jim carrey.,0,0,Bane Blair,mq1rt4iKuYg,0.3916666666666666,2014-09-08 12:25:36,True,True
+2014-09-08T20:03:00,Jim Carrey is a very talented person for comedy :),0,0,Tsuki maid,mq1rt4iKuYg,0.705,2014-09-08 20:03:00,True,True
+2014-09-09T03:36:04,wow this looks terrible.,0,0,konicki,mq1rt4iKuYg,-0.45,2014-09-09 03:36:04,True,True
+2014-09-09T22:12:21,"If they went along with this, why not a Big Lebowski 2 and Waynes World 3?",0,0,Izzy G.,mq1rt4iKuYg,0.0,2014-09-09 22:12:21,True,True
+2014-09-10T03:32:02,"ah fuck it, ill get high then see it",0,0,EN,mq1rt4iKuYg,-0.24666666666666667,2014-09-10 03:32:02,True,True
+2014-09-11T15:53:25,This movie looks dumb but funny as hell in a hand basket,0,0,Austin Trench,mq1rt4iKuYg,-0.0625,2014-09-11 15:53:25,True,True
+2014-09-11T22:32:58, R.i.p,0,0,Hod Ali,mq1rt4iKuYg,0.0,2014-09-11 22:32:58,True,True
+2014-09-12T01:09:24,carrey is back to make us laugh,0,0,Cdr Neyo,mq1rt4iKuYg,0.15,2014-09-12 01:09:24,True,True
+2014-09-12T01:10:02,0:44 very funny jajajaaa,0,0,Cdr Neyo,mq1rt4iKuYg,0.325,2014-09-12 01:10:02,True,True
+2014-09-12T03:29:21,"I love Dumb and Dumber, but this looks awful. The prank at the beginning is the only funny part.. I hope I'm wrong",0,0,Mark Snavely,mq1rt4iKuYg,-0.1875,2014-09-12 03:29:21,True,True
+2014-09-13T09:06:52,it's awesome that the jim carrey i know is back.. ,0,0,Rafael Arianto,mq1rt4iKuYg,0.5,2014-09-13 09:06:52,True,True
+2014-09-13T10:37:22,CANT WAIT TO WATCH IT,0,0,Petria Michael,mq1rt4iKuYg,0.0,2014-09-13 10:37:22,True,True
+2014-09-13T16:07:41,This is the best Jim Carrey could do?!? the fuck...,0,0,Basilton,mq1rt4iKuYg,0.3,2014-09-13 16:07:41,True,True
+2014-09-13T22:15:12,well... it looks kinda like a slightly more imaginative version of the other dumb and dumber,0,0,joe blogs,mq1rt4iKuYg,0.15000000000000002,2014-09-13 22:15:12,True,True
+2014-09-13T23:18:00,I Lika a Lot!!,0,0,victor botas,mq1rt4iKuYg,0.0,2014-09-13 23:18:00,True,True
+2014-09-14T03:34:17,This better be good. ,0,0,Surfnsound,mq1rt4iKuYg,0.6,2014-09-14 03:34:17,True,True
+2014-09-14T10:04:24,I started laughing as soon as I saw Jim Carrey.,0,0,Pawan Dalal,mq1rt4iKuYg,0.0,2014-09-14 10:04:24,True,True
+2014-09-14T18:25:23,Going to Lmao,0,0,John Veenstra,mq1rt4iKuYg,0.6,2014-09-14 18:25:23,True,True
+2014-09-15T08:19:43,oh god wanna watch,0,0,Bay Argat,mq1rt4iKuYg,0.0,2014-09-15 08:19:43,True,True
+2014-09-15T22:53:42,hahahaha lo so funny,1,0,Nancy Castillo,mq1rt4iKuYg,0.225,2014-09-15 22:53:42,True,True
+2014-09-16T02:38:25,"I see all the negative comments and all I think is fuck these assholes. Jim carrey is giving his fans what they asked for, the movie looks fucking awesome except for the grandmother part. that one was a bit too much. I look forward to seeing this movie. ",32,3,Juan Quiceno,mq1rt4iKuYg,0.125,2014-09-16 02:38:25,True,True
+2014-09-17T19:59:26,Yes he does he did ace ventura 1& 2,0,0,ROCKSTAR44AK,mq1rt4iKuYg,0.0,2014-09-17 19:59:26,True,True
+2014-09-17T22:19:06,finally a second one the first one was funny but i cant wait to watch this one ,0,0,ScottGamingandVlogs,mq1rt4iKuYg,0.16666666666666666,2014-09-17 22:19:06,True,True
+2014-09-19T00:44:56,I'm so happy this movie exists ,0,0,Eel BArto,mq1rt4iKuYg,0.8,2014-09-19 00:44:56,True,True
+2014-09-20T01:54:35,"Omg Now!,",0,0,ryzeth,mq1rt4iKuYg,0.0,2014-09-20 01:54:35,True,True
+2014-09-20T02:32:07,Glad a part 2 is coming. Ive been waiting this ages when the first one came out in 1994.,0,0,sean creedon,mq1rt4iKuYg,0.375,2014-09-20 02:32:07,True,True
+2014-09-20T04:54:57,"Even if this turns out to be a disappointment, I've still got the original classic to fall back on.",0,0,Ken Easley,mq1rt4iKuYg,-0.01458333333333333,2014-09-20 04:54:57,True,True
+2014-09-20T14:13:51,Looks funny as Fuke a must to watch better than that fake sequal,0,0,MISSION PASSED,mq1rt4iKuYg,0.08333333333333333,2014-09-20 14:13:51,True,True
+2014-09-20T16:27:51,Haters Kiss my ass,0,0,sandro comarella,mq1rt4iKuYg,0.0,2014-09-20 16:27:51,True,True
+2014-09-21T06:25:57,Guys If you don't like it don't freaking watch I think its Epic looking.,1,0,Zac Peasley,mq1rt4iKuYg,0.1,2014-09-21 06:25:57,True,True
+2014-09-21T06:26:24,I like it aloht!,1,0,Zac Peasley,mq1rt4iKuYg,0.0,2014-09-21 06:26:24,True,True
+2014-09-21T06:27:01,Shes clampin down!,0,0,Zac Peasley,mq1rt4iKuYg,-0.19444444444444448,2014-09-21 06:27:01,True,True
+2014-09-21T20:40:13,YOUR HOT FOR MY DAUGHTER XD .................thats insane,0,0,Roberson Lubin,mq1rt4iKuYg,-0.375,2014-09-21 20:40:13,True,True
+2014-09-22T04:54:55,0:24 WTF?,0,0,Ashton Carpenter,mq1rt4iKuYg,-0.5,2014-09-22 04:54:55,True,True
+2014-09-23T01:43:21,Brilliant!!!! I can't wait!,0,0,OJ McClanahan,mq1rt4iKuYg,1.0,2014-09-23 01:43:21,True,True
+2014-09-23T06:08:32,Now this was a trailer,0,0,Tunnel Vision44,mq1rt4iKuYg,0.0,2014-09-23 06:08:32,True,True
+2014-09-24T01:58:48,Hard to top me myself and Irene. Hands down careys best performance. ,0,0,watkin107,mq1rt4iKuYg,0.26319444444444445,2014-09-24 01:58:48,True,True
+2014-09-25T05:06:24,I hope you guys like my YouTube ch. I'm singing and dancing . I learn from people like Jim Carey ,0,0,Gilbert Espino,mq1rt4iKuYg,0.0,2014-09-25 05:06:24,True,True
+2014-09-26T09:06:44,But....but.....I find the trailer funny :(,0,0,101commentary,mq1rt4iKuYg,-0.25,2014-09-26 09:06:44,True,True
+2014-09-26T20:42:23,Jeff Daniels look so much like ian from smosh,0,0,Sylvie Roy,mq1rt4iKuYg,0.2,2014-09-26 20:42:23,True,True
+2014-09-27T16:43:18,ahahaah...the end is funny!,0,0,gaae2000,mq1rt4iKuYg,0.3125,2014-09-27 16:43:18,True,True
+2014-09-27T17:01:22,OMG! THIS IS AWESOME!!!,0,0,Jaka Buteelch,mq1rt4iKuYg,1.0,2014-09-27 17:01:22,True,True
+2014-09-28T06:20:01,1:42 just how much air he gets lmfao,6,0,Corey Simmons,mq1rt4iKuYg,0.2,2014-09-28 06:20:01,True,True
+2014-09-28T17:59:14,  Only people in this Modern Day will Dislike this Epic Classic Comedy of Comedies Movie.  Can't wait to see it ........................,0,0,Remeez1000,mq1rt4iKuYg,0.11666666666666667,2014-09-28 17:59:14,True,True
+2014-09-29T00:56:26,It really weird if your best friend is in love with your daughter especially is she's like in her 20's & your best friend I don't know  Also i never watch the first movie so﻿,0,0,Joker,mq1rt4iKuYg,0.375,2014-09-29 00:56:26,True,True
+2014-09-29T03:55:49,The whole fingering an old lady scene makes me doubtful. It's not funny. Hopefully Jim and Jeff's performance outweighs the poor plot and writing.,0,0,Aaron McMahon,mq1rt4iKuYg,-0.205,2014-09-29 03:55:49,True,True
+2014-09-29T08:20:07,"lol swear to God, this nigga Jim Carrey made me understand what comedy was all about, you made my childhood one of the best and thank you for that, can't wait to watch this one lol",0,0,Nuckie China,mq1rt4iKuYg,0.8666666666666667,2014-09-29 08:20:07,True,True
+2014-09-29T18:13:41,If you don't think this is funny anymore you lost ur sense of humor,1,0,Xhale,mq1rt4iKuYg,0.25,2014-09-29 18:13:41,True,True
+2014-09-29T21:05:28,"Digging it, definitely will watch",0,0,disrespectful_nephew,mq1rt4iKuYg,0.0,2014-09-29 21:05:28,True,True
+2014-09-29T22:59:30,Fuck yeah dude... UH LIKE IT... UH LOT!,0,0,COVID BRYANT,mq1rt4iKuYg,-0.5,2014-09-29 22:59:30,True,True
+2014-09-30T22:44:53,first one was brill and i hope this will be too. either way deffo watching it. ,0,0,claire j,mq1rt4iKuYg,0.25,2014-09-30 22:44:53,True,True
+2014-09-30T23:07:16,the fact that this exists is saddening.,0,0,Matt Steelman,mq1rt4iKuYg,0.0,2014-09-30 23:07:16,True,True
+2014-10-01T05:18:13,This movie looks pretty funny. I hope sea bass comes out in this one.,0,0,M Johan,mq1rt4iKuYg,0.11666666666666665,2014-10-01 05:18:13,True,True
+2014-10-01T06:04:30,epicccc!!,0,0,mack brown,mq1rt4iKuYg,0.0,2014-10-01 06:04:30,True,True
+2014-10-02T11:03:07,CAN'T WAIT!!! :D,0,0,Kamisha87,mq1rt4iKuYg,1.0,2014-10-02 11:03:07,True,True
+2014-10-02T13:24:31,There's A New Mr.Bean But This Time There Are Two Mr.Bean,0,0,Vince 0509,mq1rt4iKuYg,0.13636363636363635,2014-10-02 13:24:31,True,True
+2014-10-02T18:38:20,That last scene made me cringe so hard.,0,0,The Philosopher,mq1rt4iKuYg,-0.14583333333333334,2014-10-02 18:38:20,True,True
+2014-10-02T21:19:36,jim carry looks so old,0,0,Aplusem Z,mq1rt4iKuYg,0.1,2014-10-02 21:19:36,True,True
+2014-10-03T03:21:36,"looks terrible, obvious and cheap. like they made a fake trailer as a joke",0,0,ElectricAfroMan,mq1rt4iKuYg,-0.275,2014-10-03 03:21:36,True,True
+2014-10-03T07:55:05,I love how Lloyd still has the fringe even as a shaggy recluse XD,1,0,TheOrangeFondler,mq1rt4iKuYg,0.5,2014-10-03 07:55:05,True,True
+2014-10-03T13:24:17,Low buget . Sad,0,0,Cristian Iulian,mq1rt4iKuYg,-0.25,2014-10-03 13:24:17,True,True
+2014-10-03T19:41:57,Where is Morgan Freeman?,0,0,Guardian Observer,mq1rt4iKuYg,0.0,2014-10-03 19:41:57,True,True
+2014-10-03T20:20:38,I.... Must... Watch... NOW!!!!,0,0,Torgny Haartveit,mq1rt4iKuYg,0.0,2014-10-03 20:20:38,True,True
+2014-10-03T21:33:34,"I thought the cat joke was ""crappy""",0,0,Lyle .G,mq1rt4iKuYg,0.0,2014-10-03 21:33:34,True,True
+2014-10-04T03:13:05,Looks way to forced... It will be lame!!!,0,0,Grace By Faith,mq1rt4iKuYg,-0.63828125,2014-10-04 03:13:05,True,True
+2014-10-04T03:15:06,looks like comedy for dumb and dumber people. The first one was good tho,0,0,Grace By Faith,mq1rt4iKuYg,0.19166666666666665,2014-10-04 03:15:06,True,True
+2014-10-04T14:10:06,"Goes to show there is a fine line between good & bad comedy.   Dumb and Dumber= good, Dumb and Dumber To=good at sucking it. Damn, most of those gags just don't fit the characters",0,0,robertmike57,mq1rt4iKuYg,0.15833333333333335,2014-10-04 14:10:06,True,True
+2014-10-04T21:06:39,Not funny... I place it just above the return to gilligan's island film for things to see. ,0,0,snuppiioo1,mq1rt4iKuYg,-0.0625,2014-10-04 21:06:39,True,True
+2014-10-04T23:48:31,>people here criticizing this movie for looking stupid >literally the main joke of the original movie is exactly this,0,0,Vincent Mitchell,mq1rt4iKuYg,-0.002083333333333326,2014-10-04 23:48:31,True,True
+2014-10-05T01:51:55,sighs jeez alot of hateing so what if theyre desperate this shits funny as hell im glade theyre doing another and didnt leave it as is withthat shitty dumb and dumberer,0,0,lawrence massaro,mq1rt4iKuYg,-0.24166666666666667,2014-10-05 01:51:55,True,True
+2014-10-05T07:27:13,"Im a huge fan of the first one and I even enjoyed the prequel, and I hope this one is good, ive been looking forward to this one for a while, I just hope it wont flop but even if it doesn't do so great, I still think it will make a decent amount and get mixed reviews, mostly positive I hope, no matter what happens I'll enjoy it for what it is, I love these two guys and just having harry and Lloyd back after 20 years is a reward in itself, even if its not like laugh out loud funny, I'll still have a big grin on my face on opening day seeing them venture out to find harry's daughter, billy the blind kid from 4c is back, but we need SEABASS I hope he has a cameo or something  Look Mr. Samsonite ,my friend harry and I had every intention of fully reimbursing you                                                                                         -Lloyd Christmas, 1994",0,13,Joey P95,mq1rt4iKuYg,0.2408199643493761,2014-10-05 07:27:13,True,True
+2014-10-05T20:08:05,ACE VENTURA 3 PLEASE! MAKE IT HAPPEN GOD!,0,0,Zero Hoots,mq1rt4iKuYg,0.0,2014-10-05 20:08:05,True,True
+2014-10-07T23:18:02,"20 years for a joke, lol Imagine it xD Awesomeeee Hhhhhhhhhhhh",7,0,UniqE Alotaibi,mq1rt4iKuYg,0.8,2014-10-07 23:18:02,True,True
+2014-10-08T06:14:04,smh the original was sooo funny that it would almost be impossible to follow it up... should have just left it alone,0,0,Jerry Mao,mq1rt4iKuYg,-0.010416666666666657,2014-10-08 06:14:04,True,True
+2014-10-08T15:49:37,THIS DESERVED A DIFFERENT TITLE,0,0,Larry Stein,mq1rt4iKuYg,0.0,2014-10-08 15:49:37,True,True
+2014-10-08T20:03:00,I can tell by the trailer it's going to be a disappointment compared to the original movie.,0,0,Clayton Johnson,mq1rt4iKuYg,-0.11249999999999999,2014-10-08 20:03:00,True,True
+2014-10-10T00:59:21,No comment,0,0,Dalien Austin,mq1rt4iKuYg,0.0,2014-10-10 00:59:21,True,True
+2014-10-10T03:02:36,I can't wait! Part 1 got me out of my postpartum depression. The part when Harry had to go to the bathroom at Mary's. I couldn't stop laughing! So realistic. I love the soundtrack too.:),1,0,redfox,mq1rt4iKuYg,0.38888888888888884,2014-10-10 03:02:36,True,True
+2014-10-10T05:18:04,"MARY MAGDALENE DIDN'T REALIZE, UNTIL SHE WOKE UP, THAT 'DUMB AND DUMBER' WAS A TRUE STORY ABOUT 7 BILLION WORLD-WIDE SATAN HEBREW ELVES. LIVE AND LEARN. LOL  JIM CARREY LOOKS JUST LIKE FOOTBALL PLAYER RYAN FITZPATRICK.",1,1,Angelica Smith,mq1rt4iKuYg,0.2278409090909091,2014-10-10 05:18:04,True,True
+2014-10-12T17:36:25,I am watching this,1,0,TheMarko3000,mq1rt4iKuYg,0.0,2014-10-12 17:36:25,True,True
+2014-10-13T01:21:15,"LOL! ""There are no diamonds in here"". ",0,0,jxsilicon9,mq1rt4iKuYg,1.0,2014-10-13 01:21:15,True,True
+2014-10-13T06:29:51,"Yup, just watching these trailers.",0,0,Nemanja Skoric,mq1rt4iKuYg,0.0,2014-10-13 06:29:51,True,True
+2014-10-13T07:01:37,We all dislike things in various ways. ,0,0,jeramahia123,mq1rt4iKuYg,0.0,2014-10-13 07:01:37,True,True
+2014-10-13T12:21:23,"i dont know why, as it looks like complete crap, i really want to see this!",0,0,Nathan McCarney,mq1rt4iKuYg,-0.15000000000000002,2014-10-13 12:21:23,True,True
+2014-10-13T16:15:40,I love the fact that i am born 1994. So see a this will be great!,0,0,Duck Power,mq1rt4iKuYg,0.75,2014-10-13 16:15:40,True,True
+2014-10-13T17:16:27,PROVIDENCE IS THE GREATEST CITY IN THE WORLD ,0,0,Rusty Shackleford,mq1rt4iKuYg,1.0,2014-10-13 17:16:27,True,True
+2014-10-14T04:15:54,GREAT way to bring it back!!!,0,0,Afiya B.,mq1rt4iKuYg,0.4,2014-10-14 04:15:54,True,True
+2014-10-14T08:20:31,"es increible, pense que nunca habria secuela, ahora la espero con ansias, un asco los actores que quisieron imitar a estos genios (jim carrey y jeff daniels) en las peliculas mas recientes de dumb and dumber, la espero con ansias, que genial que quieran revivir mi pelicula favorita de comedia",0,0,Luis Jesus Morales Gual,mq1rt4iKuYg,-0.375,2014-10-14 08:20:31,True,True
+2014-10-14T22:04:01,"Looking at the trailer, I really wish they had made the sequel ten years ago. It really looks as if they're pushing hard to mimic their 20 year younger selves. I hope this will become another classic, but very skeptical at this point. That said, it's important to remember we'll always have the original, in all its 90's glory:) ",0,0,Universe,mq1rt4iKuYg,0.09,2014-10-14 22:04:01,True,True
+2014-10-14T23:29:19,"Makes me feel old,  disgusted and sad  at the same time.",0,0,DUKE NUKEM,mq1rt4iKuYg,-0.35,2014-10-14 23:29:19,True,True
+2014-10-15T11:18:51,"I loved the first movie as a kid... I love both actors, especially Daniels... But this movies destiny is to fail. Hard. Shame...",0,0,Sunshine,mq1rt4iKuYg,0.10972222222222221,2014-10-15 11:18:51,True,True
+2014-10-15T19:48:00,ive been waiting so dam long for this movie ,0,0,trent jenkins,mq1rt4iKuYg,-0.05,2014-10-15 19:48:00,True,True
+2014-10-16T00:42:40,Haha omg,1,0,Brian Gabriel,mq1rt4iKuYg,0.2,2014-10-16 00:42:40,True,True
+2014-10-16T01:19:25,Great yes finally they have come back to the big screen yay yay yay great great great so excited,0,0,Wesley Kjelsen,mq1rt4iKuYg,0.446875,2014-10-16 01:19:25,True,True
+2014-10-16T16:11:01,"I'm going for the nostalgia of my youth, but I'm not expecting much. Low expectations is the key people!",80,3,velveetaslingshot,mq1rt4iKuYg,0.0,2014-10-16 16:11:01,True,True
+2014-10-17T01:20:46,"Stop the criticizing and why and how and when, just enjoy the damn clip , you guys are going to pay your money at the cinema and watch it anyways",1,0,CookieCrumblesify,mq1rt4iKuYg,0.4,2014-10-17 01:20:46,True,True
+2014-10-17T15:10:48,"Loved the first movie, it's a classic. I will definitely see this movie but I'm really scared it'll be really stupid. ",0,0,cjsg,mq1rt4iKuYg,0.08611111111111112,2014-10-17 15:10:48,True,True
+2014-10-17T17:33:30,Omg,0,0,Horde Bucket,mq1rt4iKuYg,0.0,2014-10-17 17:33:30,True,True
+2014-10-17T20:26:54,"str8 up son, looks like a decent movie son, will watch it son, str8 up -  #ZHG  ",0,0,Zero Hoots Gang,mq1rt4iKuYg,0.16666666666666666,2014-10-17 20:26:54,True,True
+2014-10-18T12:18:42,aweeeeesome,0,0,Razgriz Scott,mq1rt4iKuYg,0.0,2014-10-18 12:18:42,True,True
+2014-10-18T15:15:29,This is so dump and funny,0,0,Anthony Peixoto,mq1rt4iKuYg,0.25,2014-10-18 15:15:29,True,True
+2014-10-19T01:51:02,Shieet. This is gonna be a good laugh.,0,0,Wooden Lock,mq1rt4iKuYg,0.5,2014-10-19 01:51:02,True,True
+2014-10-19T02:48:13,Looks...dumb.,0,0,freshrr2,mq1rt4iKuYg,0.0,2014-10-19 02:48:13,True,True
+2014-10-19T10:04:25,"Its going to be awful, You know it, I know it",0,0,John Barnes,mq1rt4iKuYg,-1.0,2014-10-19 10:04:25,True,True
+2014-10-19T15:04:08,Cannot wait for this... looks hilarious,0,0,B19 MOB,mq1rt4iKuYg,0.5,2014-10-19 15:04:08,True,True
+2014-10-19T18:22:43,thats just gross....way to ruin the franchise. ,0,0,MaharlikaAWA,mq1rt4iKuYg,0.0,2014-10-19 18:22:43,True,True
+2014-10-20T00:44:04,nice to see them back agan,0,0,Jorzico Lopez,mq1rt4iKuYg,0.3,2014-10-20 00:44:04,True,True
+2014-10-20T06:48:00,I seriously cannot wait for this!! ,0,0,happystrongpure,mq1rt4iKuYg,-0.5208333333333333,2014-10-20 06:48:00,True,True
+2014-10-20T18:15:08,225 people have taste.,0,0,getbiggergeeks,mq1rt4iKuYg,0.0,2014-10-20 18:15:08,True,True
+2014-10-21T08:23:26,LOL This is fucking Hilarious ,0,0,Lukie ozeir,mq1rt4iKuYg,0.65,2014-10-21 08:23:26,True,True
+2014-10-21T09:42:59,"""Yeep""",0,0,Alexander Kang,mq1rt4iKuYg,0.0,2014-10-21 09:42:59,True,True
+2014-10-23T05:15:00,Fuck all yall!  This shit looks funny and entertaining.,0,0,stylz1,mq1rt4iKuYg,0.012500000000000011,2014-10-23 05:15:00,True,True
+2014-10-23T21:38:02,Can't wait to see this!,0,0,GRiMHOLD,mq1rt4iKuYg,0.0,2014-10-23 21:38:02,True,True
+2014-10-24T14:40:26,_We wanted another batman with heath ledger    now that wont happen. We wanted a ms doubt fire 2  but he killed himself too. I'm ready for this movie I dont even care if it sucks_,1,0,alt ctrlesc,mq1rt4iKuYg,-0.09999999999999999,2014-10-24 14:40:26,True,True
+2014-10-24T20:05:42,"Man, Kathleen Turner looks absolutely fucking awful.",0,0,masanf,mq1rt4iKuYg,-1.0,2014-10-24 20:05:42,True,True
+2014-10-25T00:04:56,Quality lol,0,0,Mike Diligent,mq1rt4iKuYg,0.8,2014-10-25 00:04:56,True,True
+2014-10-25T00:12:29,it should be too not to,0,0,Oliver,mq1rt4iKuYg,0.0,2014-10-25 00:12:29,True,True
+2014-10-25T01:10:57,Really GOOGLE YOUTUBE?? REALLY??.. YOU HAVE TO WATCH A COMMERCIAL JUST TO WATCH A COMMERCIAL???... Who is in charge here MC ESCHER???,0,0,communistjesus,mq1rt4iKuYg,0.1,2014-10-25 01:10:57,True,True
+2014-10-25T19:02:35,This movie is gonna suck,0,0,starcopper x,mq1rt4iKuYg,0.0,2014-10-25 19:02:35,True,True
+2014-10-26T14:02:14,It is probably gonna be so bad... but I'm still gonna watch it and hate myself later...,6,0,Bindair Dundat,mq1rt4iKuYg,-0.5,2014-10-26 14:02:14,True,True
+2014-10-29T06:14:27,This smells of utter desperation.,0,0,Lotan,mq1rt4iKuYg,0.0,2014-10-29 06:14:27,True,True
+2014-10-31T11:01:21,It's a good thing everyone thinks the movie is stupid ... :| duh... it's actually called Dumb and Dumber 2... what did you expect?,0,0,Welcome Nduli,mq1rt4iKuYg,-0.15499999999999997,2014-10-31 11:01:21,True,True
+2014-10-31T14:33:01,My God... Jim Carey is so animated  :),0,0,Alex TheWebDesigner,mq1rt4iKuYg,0.5,2014-10-31 14:33:01,True,True
+2014-11-01T23:20:13,That last part was soooooo wrong!,0,0,Jack Hussey,mq1rt4iKuYg,-0.3125,2014-11-01 23:20:13,True,True
+2014-11-02T00:45:59,Testing 123,0,0,Anthony Lacava,mq1rt4iKuYg,0.0,2014-11-02 00:45:59,True,True
+2014-11-02T22:20:01,i like it a lot ,0,0,dron latifi,mq1rt4iKuYg,0.0,2014-11-02 22:20:01,True,True
+2014-11-03T18:01:54,How many boyz are gonna start a war?!,0,0,BrosdaleGov,mq1rt4iKuYg,0.625,2014-11-03 18:01:54,True,True
+2014-11-04T10:04:41,"I might not be able to watch the newsroom after this comes out... Ah who am I kidding, the OBL episode Will was acting like Harry so who cares.",0,0,Craig Cooper,mq1rt4iKuYg,0.25,2014-11-04 10:04:41,True,True
+2014-11-05T03:17:13,YAS!,0,0,100newkid,mq1rt4iKuYg,0.0,2014-11-05 03:17:13,True,True
+2014-11-05T05:51:12,Fuck what ya say this world needs a couple of laughs . So yeah im definitely gonna check out my boy carrey .... ,0,0,Ed Tunz Hernandez [Latin Music Producer],mq1rt4iKuYg,-0.2,2014-11-05 05:51:12,True,True
+2014-11-05T12:42:31,LMFAO!! good to see them back,0,0,Joe Stevens,mq1rt4iKuYg,0.35,2014-11-05 12:42:31,True,True
+2014-11-05T16:49:10,"I want clever writing/wit ... and thats not going to happen here.  ""My Big Fat Greek Wedding"" was one of those!! :)",0,0,D Hager,mq1rt4iKuYg,0.16666666666666666,2014-11-05 16:49:10,True,True
+2014-11-05T22:39:18,No. Just no.,0,0,Funkytrip73,mq1rt4iKuYg,0.0,2014-11-05 22:39:18,True,True
+2014-11-06T08:32:50,Looks awesome ! Love Jim Carreys older stuff before he got all religious and got a stick up his ass.,0,0,TheTuxmania,mq1rt4iKuYg,0.4166666666666667,2014-11-06 08:32:50,True,True
+2014-11-06T18:45:51,All I hear is desperation coming from this so called film. Another abomination was born.,0,0,Jared Smith,mq1rt4iKuYg,0.0,2014-11-06 18:45:51,True,True
+2014-11-06T22:15:36,Ohh dude! Jim carry is back!!! XD,0,0,Tatokun,mq1rt4iKuYg,0.0,2014-11-06 22:15:36,True,True
+2014-11-07T11:52:42,وه ,0,0,Zayn Alshamarti,mq1rt4iKuYg,0.0,2014-11-07 11:52:42,False,True
+2014-11-07T13:10:57,"This looks shit and dumb , honestly",8,6,Destiny108☆,mq1rt4iKuYg,0.00833333333333334,2014-11-07 13:10:57,False,True
+2014-11-07T16:59:33,"Don't know why, but I really think this movie is gonna suck.",0,0,roma_fn,mq1rt4iKuYg,0.2,2014-11-07 16:59:33,False,True
+2014-11-09T00:23:39,i have seen this movie wtf?!?!,0,0,Angel Zipline,mq1rt4iKuYg,-0.78125,2014-11-09 00:23:39,False,True
+2014-11-09T17:33:22,5 days left :D,0,0,Thomas Hardly,mq1rt4iKuYg,0.5,2014-11-09 17:33:22,False,True
+2014-11-10T18:59:16,Can't wait to see this,0,0,Chuck Sharts,mq1rt4iKuYg,0.0,2014-11-10 18:59:16,False,True
+2014-11-10T22:43:34,"Jim and Jeff,just when I think you couldnt get any dumber,you show up with a new movie like this.......... AND TOTALLY REDEEM YOURSELVES !!!!! LOL : P ",1,0,Ezra Wilson,mq1rt4iKuYg,0.4215909090909091,2014-11-10 22:43:34,False,True
+2014-11-11T16:07:13,About time!!,0,0,Lilou LeChienFoufou,mq1rt4iKuYg,0.0,2014-11-11 16:07:13,False,True
+2014-11-11T18:29:48,1:41,0,0,Breaking Roblox,mq1rt4iKuYg,0.0,2014-11-11 18:29:48,False,True
+2014-11-12T00:33:43,cant wait for this. its works so well too cause jim has barely aged and jeff has always looked old so he doesnt look much different either,0,0,Allan Mccann,mq1rt4iKuYg,0.0,2014-11-12 00:33:43,False,True
+2014-11-12T01:26:27,"holly shit, they are back hahaha i cant wait",0,0,Jose RL,mq1rt4iKuYg,0.0,2014-11-12 01:26:27,False,True
+2014-11-12T16:22:38,It seems evil somehow,0,0,Paul Bali,mq1rt4iKuYg,-1.0,2014-11-12 16:22:38,False,True
+2014-11-12T19:17:40,Ironically it looks like even the humor got dumber.. and not in a good way.  ,1,0,tknick90,mq1rt4iKuYg,0.7,2014-11-12 19:17:40,False,True
+2014-11-12T22:12:06,I watched a couple of various trailers now.....and people complain about everything. It's really annoying how people can't accept a movie anymore.,1,0,Tim,mq1rt4iKuYg,-0.4,2014-11-12 22:12:06,False,True
+2014-11-12T22:19:34,Sea bass better be in this,5,1,cnash97,mq1rt4iKuYg,0.175,2014-11-12 22:19:34,False,True
+2014-11-13T01:50:34,"I don't care if the movie turns out to be terrible, I'm just happy to see Harry and Lloyd again!!!!!!!!!!!!!!!!!!!",0,0,gizzycat cat,mq1rt4iKuYg,0.0,2014-11-13 01:50:34,False,True
+2014-11-13T18:22:17,"When i was in Cinema, im soo shocking when i saw the trailer, i though this movie was 20years ago, and they r making remake of it? Coolllll...",0,0,Ade Teguh Prasetyo,mq1rt4iKuYg,-1.0,2014-11-13 18:22:17,False,True
+2014-11-14T03:10:24,Hahaha! I don't care what anyone says...They still got it. Man..That clip with the old lady at the end. Hahaha!,0,0,mrkrazyaznguyizkrazy,mq1rt4iKuYg,0.19999999999999998,2014-11-14 03:10:24,False,True
+2014-11-14T03:50:34,Who else didn't notice the guy in front of the snack machine,0,0,MrGRIMM,mq1rt4iKuYg,0.0,2014-11-14 03:50:34,False,True
+2014-11-14T13:18:09,The new Three Stooges! But two!,0,0,Random Guy,mq1rt4iKuYg,0.2130681818181818,2014-11-14 13:18:09,False,True
+2014-11-14T15:29:19,Anybody else knew that Jim got 7 million for the first film while Jeff only got 50 thousand? Guess that Jeff wants his money back. ,0,0,Jakob Hallberg,mq1rt4iKuYg,0.1125,2014-11-14 15:29:19,False,True
+2014-11-14T17:20:05,I just watched the movie it's AWESOME!!,27,3,Frankie,mq1rt4iKuYg,1.0,2014-11-14 17:20:05,False,True
+2014-11-15T03:45:27,TODAY IS THE DAY!!!,0,0,Craig McCormack,mq1rt4iKuYg,0.0,2014-11-15 03:45:27,False,True
+2014-11-15T04:31:16,Haha Its Halarious Bitches everyone was WRONG,2,0,Tito Montijo,mq1rt4iKuYg,-0.15,2014-11-15 04:31:16,False,True
+2014-11-15T10:25:40,"Just saw this movie today, it was hilarious omg hahaha. ",8,0,성주용,mq1rt4iKuYg,0.35,2014-11-15 10:25:40,False,True
+2014-11-15T11:57:31,"love jim carrey, literally one and only",0,0,robinkhaira1,mq1rt4iKuYg,0.25,2014-11-15 11:57:31,False,True
+2014-11-15T16:26:47,"Uh oh! The haters were wrong (of course)... They pulled it off! Packed theater of people laughing hysterically. Guess what's the #1 movie at the box office after last night? Go see this movie! And stay until the credits are over. And for all those haters... When your parents go to see this, and they will, they can drop you off at Superhero 6. That's more your speed anyway.",1,0,Benjam Dabrisco,mq1rt4iKuYg,-0.28125,2014-11-15 16:26:47,False,True
+2014-11-15T20:07:29,"For those of us who were 10yrs old when the first dumb and dumber came out, this is going to be an amazing sequel to watch. Cant wait to see it this weekend :) ",0,0,WhatIThinkNation,mq1rt4iKuYg,0.21500000000000002,2014-11-15 20:07:29,False,True
+2014-11-15T20:44:39,People are expecting it to be like the first one which is IMPOSSIBLE..the first one is one of the funniest best I've ever seen thats just My opinion..I just seen the second one and i wasn't disappointed it was pretty good..stop hating and go see it,0,0,TysonD916,mq1rt4iKuYg,0.16666666666666666,2014-11-15 20:44:39,False,True
+2014-11-15T20:48:19,"Jim Carrey should take roles in more serious movies. His acting in ""number 23"" was awesome.",1,0,Higgs,mq1rt4iKuYg,0.2916666666666667,2014-11-15 20:48:19,False,True
+2014-11-15T23:24:41,"Yeah, 1994. Dumb and Dumber. How about 1995, Friday?  Next year is their 20th anniversary. Imagine Chris Tucker, Ice Cube, Tiny Lister Jr and all the others coming back for a final movie together. Craig kicks Deebo's ass again",0,0,King Seth,mq1rt4iKuYg,-0.0625,2014-11-15 23:24:41,False,True
+2014-11-16T07:07:37,I just got a 90's movie vibe after seeing this. Love it!!!,0,0,Slaterviel,mq1rt4iKuYg,0.9765625,2014-11-16 07:07:37,False,True
+2014-11-16T10:10:28,That's funny I just watched the movie for the first time because my brother was watching it and now a new one already. This has got to be a record.,0,0,Meng Ciong,mq1rt4iKuYg,0.21212121212121213,2014-11-16 10:10:28,False,True
+2014-11-16T14:07:28,ITS OUT,0,0,Ryder katz,mq1rt4iKuYg,0.0,2014-11-16 14:07:28,False,True
+2014-11-16T15:58:27,lets be honest here we are all going to watch this movie. in the cinema or on the internet,0,1,Akhil Benny,mq1rt4iKuYg,0.6,2014-11-16 15:58:27,False,True
+2014-11-16T21:14:54,"hahah Jim Carrey :)) That was funny, absolutely watch it...!",0,0,cem elibol,mq1rt4iKuYg,0.3333333333333333,2014-11-16 21:14:54,False,True
+2014-11-17T05:40:49,"I love Jim Carrey and any movie he does, even if it looks dumb such as this one.",0,0,Dreia,mq1rt4iKuYg,0.041666666666666664,2014-11-17 05:40:49,False,True
+2014-11-17T23:12:42,1:38 I like it a lot,0,0,dalila valles,mq1rt4iKuYg,0.0,2014-11-17 23:12:42,False,True
+2014-11-18T22:25:04,background  song name pls???,1,0,sai challa,mq1rt4iKuYg,0.0,2014-11-18 22:25:04,False,True
+2014-11-19T02:12:56,never saw numberr one so itd be a waste to see number 2,0,0,ISEPEAK,mq1rt4iKuYg,-0.2,2014-11-19 02:12:56,False,True
+2014-11-19T05:00:27,"don't know why everybody's hating on this movie at least its back again, I missed it and glad its back.",0,0,Mike Diligent,mq1rt4iKuYg,0.05,2014-11-19 05:00:27,False,True
+2014-11-19T18:30:34,Lol. SHES REALLY CLAMPING DOWN. Thats a line thats reason enough to see this movie. And to all the haters. MOVIES ARE TO ENTERTAIN. so sit back shut up and be entertained. Atleast jim carrey is still funny to people who remember his other films.,3,1,Brandon Hackbarth,mq1rt4iKuYg,0.1384920634920635,2014-11-19 18:30:34,False,True
+2014-11-20T00:48:10,"OMFG; 2:08 W-T-F? Since when has anything like that ever been on public video? Like holy crap. Screw Brokeback Mountain, screw Game of Thrones, they have nothing on this.  That said, Carrey is looking amazing.",0,0,Mshojat,mq1rt4iKuYg,-0.15000000000000002,2014-11-20 00:48:10,False,True
+2014-11-20T13:59:03,"Saw the movie. Well, saw the first 30 minutes, before all 3 of us got up and walked out. It sucks. Do not waste your money. A new low for Jim Carrey",0,0,Shawn Cross,mq1rt4iKuYg,0.03727272727272728,2014-11-20 13:59:03,False,True
+2014-11-20T21:45:34,Seeing it on Saturday,0,0,Charles Grant,mq1rt4iKuYg,0.0,2014-11-20 21:45:34,False,True
+2014-11-21T13:21:18,If they were younger maybe i would go with this but they look too old to act this clueless. It doesnt look good at all. Hopefully im wrong and the movie does very well for them.,1,0,papito7757,mq1rt4iKuYg,0.09999999999999999,2014-11-21 13:21:18,False,True
+2014-11-21T14:51:55,This looks like a complete fucking failure. Nothing at all was funny in this trailer. Just retarded pandering.,0,0,AsifIcarebear3,mq1rt4iKuYg,-0.19166666666666668,2014-11-21 14:51:55,False,True
+2014-11-22T03:24:09,fake this movie came out in 1993,0,0,Corey Sullivan,mq1rt4iKuYg,-0.5,2014-11-22 03:24:09,False,True
+2014-11-22T19:32:32,Seriously ?  Ok lets see.  Dumb and Dumber is one of my fvorite movie. Dumber and Dumberer was a FUKIN JOKE.,2,1,Azuma,mq1rt4iKuYg,0.0625,2014-11-22 19:32:32,False,True
+2014-11-23T14:37:03,Saw it I loved it. Also for everyone who said its not funny you have to remember you were 20 years younger when the first came out.,0,0,TooKool4Skool98,mq1rt4iKuYg,0.20625,2014-11-23 14:37:03,False,True
+2014-11-23T19:35:46,K I'm watching it at 1:30,0,0,Logan Castleman,mq1rt4iKuYg,0.0,2014-11-23 19:35:46,False,True
+2014-11-23T23:08:30,Does anyone know the name of the song that was playing at the end?,0,0,Joe Dylan,mq1rt4iKuYg,0.0,2014-11-23 23:08:30,False,True
+2014-11-24T01:54:00,i love Jim Carrey :D,0,0,Alex Travel,mq1rt4iKuYg,0.75,2014-11-24 01:54:00,False,True
+2014-11-24T15:19:19,Ironically despite the fact that you leave the theater with only a few laughs here and there .. that easily makes it the best comedy movie so far for this year.,0,0,Khalid AlNajjar,mq1rt4iKuYg,0.2666666666666667,2014-11-24 15:19:19,False,True
+2014-11-24T17:37:54,Dumbest fckin movie I have ever seen in my entire life. Even worse than Titanic 2! And that is more than just hard. I alsmost felt asleep during dumb and dumber...,0,0,MaTiSu,mq1rt4iKuYg,-0.13333333333333336,2014-11-24 17:37:54,False,True
+2014-11-24T22:33:21,"""you can cross that one off your bucket list."" LOL that is one of the funniest things I've seen in a while.",1,0,goog le,mq1rt4iKuYg,0.4,2014-11-24 22:33:21,False,True
+2014-11-25T10:36:01,That car is a historical artifact!!,0,0,Emmy Eriksson,mq1rt4iKuYg,0.0,2014-11-25 10:36:01,False,True
+2014-11-26T16:36:08,sometimes ppl must know when its time to STOP!!,0,0,Nappy Boy,mq1rt4iKuYg,0.0,2014-11-26 16:36:08,False,True
+2014-11-26T18:41:46,"Most likely, all the funny parts are shown in the trailer.",0,0,chocol8milk,mq1rt4iKuYg,0.25,2014-11-26 18:41:46,False,True
+2014-11-26T23:57:06,THT WAS AWESOME,0,0,AIR 666,mq1rt4iKuYg,1.0,2014-11-26 23:57:06,False,True
+2014-11-27T21:37:09,This looks awful. I love it.,0,0,AllannahEloise12,mq1rt4iKuYg,-0.25,2014-11-27 21:37:09,False,True
+2014-11-27T22:52:06,"I saw this movie, and it was actually really really good.  If anyone loved the first one, it's not as good, but it's definitely worthy of the name ""Dumb and Dumber"".",0,0,JakeGraceAndGlory,mq1rt4iKuYg,0.3847222222222222,2014-11-27 22:52:06,False,True
+2014-11-28T07:31:26,does anyone know me?,0,1,Gustavo NZ,mq1rt4iKuYg,0.0,2014-11-28 07:31:26,False,True
+2014-11-28T17:10:20,Other than a few laughs here and there; this movie was atrocious!,0,0,Pana Kamanana,mq1rt4iKuYg,-0.39999999999999997,2014-11-28 17:10:20,False,True
+2014-11-28T21:13:41,Il n ya qu un seul jim carrey dans le monde entier je l estime tans et il faut le respecter c est une perle tres rare.,0,0,hanafi ali,mq1rt4iKuYg,0.3,2014-11-28 21:13:41,False,True
+2014-11-29T02:53:16,This was actually really fun especially if you're a fan of the first movie and can handle slightly darker humor,1,1,Uber montity,mq1rt4iKuYg,0.09583333333333335,2014-11-29 02:53:16,False,True
+2014-11-29T07:15:37,"best parts are in the trailer, Have to say I am a little dissapointed.  Had a few moments, but that is the problem, few! the original is a classic with so many moments I give this one a B-",0,0,I don't want to,mq1rt4iKuYg,0.2005952380952381,2014-11-29 07:15:37,False,True
+2014-11-29T15:55:33,Jim Carey looks ollld. ,0,0,3gReenHits,mq1rt4iKuYg,0.0,2014-11-29 15:55:33,False,True
+2014-11-29T18:43:51, Maybe The movie is not meant to be smart humor maybe meant to be silly humor  .you know . But people always want it in there way ,2,1,soltan alosmi,mq1rt4iKuYg,-0.14285714285714285,2014-11-29 18:43:51,False,True
+2014-11-30T05:15:08,this is so foolishly silly,0,0,Ivin3690,mq1rt4iKuYg,-0.5,2014-11-30 05:15:08,False,True
+2014-11-30T05:23:56,Fucking hilarious!,1,0,Creed Bratton,mq1rt4iKuYg,0.625,2014-11-30 05:23:56,False,True
+2014-11-30T14:43:14,Whatss the name of the song when Jim Carry meets the girl?,0,2,George Tagesyan,mq1rt4iKuYg,0.0,2014-11-30 14:43:14,False,True
+2014-12-02T21:08:40,I wonder how many times that poor cat had been pulled by tail...,0,0,Detka,mq1rt4iKuYg,0.04999999999999999,2014-12-02 21:08:40,False,True
+2014-12-03T02:58:37,jim is getting old and desperate. he is not an actor he's a shitty slap stick comedian who thinks his stupid facial expressions are funny,0,0,kylechandler4665,mq1rt4iKuYg,-0.20999999999999996,2014-12-03 02:58:37,False,True
+2014-12-03T12:08:28,Why couldn't I have been included in this movie?  I'm not the sharpest tool in the shed but I can sure sing good. ,0,0,BITCH STEWIE,mq1rt4iKuYg,0.6,2014-12-03 12:08:28,False,True
+2014-12-03T19:33:59,Worst movie I saw all year. ,17,1,Squilliam Fancyson,mq1rt4iKuYg,-1.0,2014-12-03 19:33:59,False,True
+2014-12-04T21:07:16,I don't know if this is happening to someone else but this is really pissing and now I am want to punch moniter.  For some reason when I watch youtube videos it keeps on changing the videos all by itself when I am in the middle of and goes to a random or the type of videos I am watching.  And now I am doing a rant about it.,0,0,MonsterDrinkFan605,mq1rt4iKuYg,-0.09999999999999999,2014-12-04 21:07:16,False,True
+2014-12-06T12:56:26,U,0,0,Hamza Shah,mq1rt4iKuYg,0.0,2014-12-06 12:56:26,False,True
+2014-12-06T15:41:49,This is racist look how it is stereotyping white males.,0,0,Robert Moore,mq1rt4iKuYg,0.0,2014-12-06 15:41:49,False,True
+2014-12-06T17:09:40,come on lloyd you got to give me a sign...ah ah ahh  pisses in the bag thats hilarious ,0,0,Dogday,mq1rt4iKuYg,0.5,2014-12-06 17:09:40,False,True
+2014-12-08T23:15:04,watched it did not really like it,2,0,asraf55555,mq1rt4iKuYg,-0.1,2014-12-08 23:15:04,False,True
+2014-12-09T00:57:53,my name jeff,0,0,Chalamundalakapalachalakondabe,mq1rt4iKuYg,0.0,2014-12-09 00:57:53,False,True
+2014-12-09T09:28:24,I don't know about you people this looks freaking hilarious ,7,1,Metayounis,mq1rt4iKuYg,0.5,2014-12-09 09:28:24,False,True
+2014-12-10T03:34:25,"Saw this in the cinema, it was Freaking Hillarious... could not stop laughing all the way to the end LOLLOLOLOLLOLL ",2,0,SeanS,mq1rt4iKuYg,0.0,2014-12-10 03:34:25,False,True
+2014-12-10T13:57:31,Jim Carrey is one of my favourite comedian.,1,0,TSHEPHO RAILO,mq1rt4iKuYg,0.0,2014-12-10 13:57:31,False,True
+2014-12-10T20:53:53,Congratulations.  Jim and Jeff Daniels.,0,0,Geraldo luiz,mq1rt4iKuYg,0.0,2014-12-10 20:53:53,False,True
+2014-12-10T20:54:42,A lik a lot- pictures.,0,0,Geraldo luiz,mq1rt4iKuYg,0.0,2014-12-10 20:54:42,False,True
+2014-12-10T21:55:20,Looks pretty decent to me ,0,0,Paul Higgins,mq1rt4iKuYg,0.20833333333333331,2014-12-10 21:55:20,False,True
+2014-12-12T01:49:59,Hmm,0,0,Rihanna Mtz,mq1rt4iKuYg,0.0,2014-12-12 01:49:59,False,True
+2014-12-12T12:22:32,I just hope the funny ones in the trailer are not the only funny ones in the movie because that would be so disappointing...I dig it!,0,0,Val The Gravedigger,mq1rt4iKuYg,0.1875,2014-12-12 12:22:32,False,True
+2014-12-15T02:15:46,Looks like total shit...,2,0,David Kymdell,mq1rt4iKuYg,-0.1,2014-12-15 02:15:46,False,True
+2014-12-15T13:55:09,name 1song?,0,0,XAVIER M,mq1rt4iKuYg,0.0,2014-12-15 13:55:09,False,True
+2014-12-17T17:35:54,this movie is hilarious x'D,0,0,Aída,mq1rt4iKuYg,0.5,2014-12-17 17:35:54,False,True
+2014-12-19T09:25:27,I can't believe how much hate this is getting!! What the hell is wrong with you lot?!!! I think it looks brilliant and can't wait to watch it tonight!!,0,0,Christie hart,mq1rt4iKuYg,-0.3255208333333333,2014-12-19 09:25:27,False,True
+2014-12-20T10:10:02,if they would make a live-action spongebob movie; these guys would be perfect for the parts!,0,0,beeto45,mq1rt4iKuYg,1.0,2014-12-20 10:10:02,False,True
+2014-12-21T09:57:50,I love this movies!!!!!,0,0,Jirawat Saenwangsee,mq1rt4iKuYg,1.0,2014-12-21 09:57:50,False,True
+2014-12-22T16:52:54,This movie must be awesome !!!😃😃😃,0,0,Simona Dragusin,mq1rt4iKuYg,1.0,2014-12-22 16:52:54,False,True
+2014-12-22T18:31:07,"Jim, oh jim, u r just hilarious man, no one can do what u do by your face.  i love jim",0,0,Epic Way,mq1rt4iKuYg,0.5,2014-12-22 18:31:07,False,True
+2014-12-24T10:39:02,Does anyone know the music to this... dont say darude sandstorm,0,0,HK,mq1rt4iKuYg,0.0,2014-12-24 10:39:02,False,True
+2014-12-24T16:21:26,Hahaha lol ,0,0,beatbox ld,mq1rt4iKuYg,0.5,2014-12-24 16:21:26,False,True
+2014-12-24T21:53:20,funny ass movie,0,0,UndeadKingdom,mq1rt4iKuYg,0.25,2014-12-24 21:53:20,False,True
+2014-12-29T21:15:06,Who is the Dumb? ,0,0,Abdijabar Mohamed Ibrahim,mq1rt4iKuYg,-0.375,2014-12-29 21:15:06,False,True
+2015-01-02T20:06:13,lol @ that camo,0,0,dies irae,mq1rt4iKuYg,0.8,2015-01-02 20:06:13,False,True
+2015-01-05T01:10:24,when will dumb and dumber 3 be relesd,0,0,Samuel Playz,mq1rt4iKuYg,-0.375,2015-01-05 01:10:24,False,True
+2015-01-05T20:19:27,GREAT MOVIE,0,0,Jerick Apostoles,mq1rt4iKuYg,0.8,2015-01-05 20:19:27,False,True
+2015-01-07T10:55:05,I feel it was funnier than the first..,0,0,stangeriam,mq1rt4iKuYg,0.25,2015-01-07 10:55:05,False,True
+2015-01-07T20:43:11,Shit shit shitter crap plot story line no where close to the 1st dumb and dumber ,0,0,Brian Munich,mq1rt4iKuYg,-0.39375000000000004,2015-01-07 20:43:11,False,True
+2015-01-11T05:40:07,"The moviemakers said they wanted someone who was: a dick, an asshole, a bitch, a fucktard and just an overall idiot and so they chose Jim Carrey. xd Have a nice day!",0,0,DJ RPG,mq1rt4iKuYg,-0.01666666666666668,2015-01-11 05:40:07,False,True
+2015-01-12T06:18:12,This movie was awesome! I don't know how but it did better than the original (my opinion)!,0,0,Wiziliz,mq1rt4iKuYg,0.65625,2015-01-12 06:18:12,False,True
+2015-01-16T14:26:03,Is jim 70 yo now ? he looks like a nasty botox shemale now,0,1,MinNyeAccount,mq1rt4iKuYg,-1.0,2015-01-16 14:26:03,False,True
+2015-01-16T19:32:27,This movie was a 20 year GOTCHYA!,0,0,DJ Zero,mq1rt4iKuYg,0.0,2015-01-16 19:32:27,False,True
+2015-01-17T18:25:38,This looks dumber than spit!  ,0,0,jay Gagnaire,mq1rt4iKuYg,0.0,2015-01-17 18:25:38,False,True
+2015-01-26T04:28:44,"A movie that was humorous at the time (saw it theaters, still wasn't a huge fan but was funny)...get's a sequel 20 years later only to make it...fucking stupid. What a waste of time and money.",1,0,Hazmark,mq1rt4iKuYg,-0.016666666666666635,2015-01-26 04:28:44,False,True
+2015-01-28T16:03:20,"Dumb and Dumber has been one my all time favorite movies.With that being said, Dumb and Dumber To has to be the biggest let down I have ever seen for a sequel. I honestly wish I never spent the money at the movie theater to watch it. its so bad, I no longer like Dumb and Dumber one. Good on yah Guys, Keep the shitty sequels coming.",1,0,Mike Legacy,mq1rt4iKuYg,-0.01450617283950617,2015-01-28 16:03:20,False,True
+2015-02-06T22:08:03,the worst movie of all times!!!,1,0,Russ Freeman,mq1rt4iKuYg,-1.0,2015-02-06 22:08:03,False,True
+2015-02-15T18:32:46,You can write whatever you want but this is great movie :) ,2,0,Riaa mal,mq1rt4iKuYg,0.65,2015-02-15 18:32:46,False,False
+2015-02-21T14:33:36,Good video helpful banta,0,0,Scapa TG,mq1rt4iKuYg,0.7,2015-02-21 14:33:36,False,False
+2015-02-21T20:48:35,I just watch it and i am loving it. great movie. ,1,0,Ofer Mizrahi,mq1rt4iKuYg,0.7,2015-02-21 20:48:35,False,False
+2015-02-22T05:43:10,"I swear that everyone wants to talk themselves out of enjoying anything, especially a comedy. Do you people even know what makes something funny anymore? Everything in this movie is classic, outrageous Farrelly Bros. / Jim Carrey comedy. They knew what they were doing.",0,0,Luke M,mq1rt4iKuYg,0.019444444444444448,2015-02-22 05:43:10,False,False
+2015-03-11T07:59:51,I love it,0,0,Sooah Sun,mq1rt4iKuYg,0.5,2015-03-11 07:59:51,False,False
+2015-03-17T03:42:11,Dumb and dumber was supposed to come out in 2003 and the first one dumb and dumberer was made in 1994,0,1,Isaiah Dixon,mq1rt4iKuYg,-0.16666666666666666,2015-03-17 03:42:11,False,False
+2015-03-18T11:09:01,this was not funny as f*ck...dudes try too much,0,0,H ЛЕША,mq1rt4iKuYg,0.037500000000000006,2015-03-18 11:09:01,False,False
+2015-03-19T21:09:53,whats the name of this song that is playing?,1,0,Samantha Mckoy,mq1rt4iKuYg,0.0,2015-03-19 21:09:53,False,False
+2015-03-22T20:24:00,I put in this movie expecting to have a nice time. I laughed so much! I havent laughed that hard since watching the naked gun when I was a kid!,0,0,Josh Jacome,mq1rt4iKuYg,0.3263888888888889,2015-03-22 20:24:00,False,False
+2015-04-10T02:02:46,What the song playing in the end of the trailer???,0,0,Paulius Su.,mq1rt4iKuYg,0.0,2015-04-10 02:02:46,False,False
+2015-04-25T05:02:29,00:17 best song,0,0,Lil Moco,mq1rt4iKuYg,1.0,2015-04-25 05:02:29,False,False
+2015-05-04T21:09:17,"JEFF (to Jim): ""you mean... After all this time, after 20 years, of being a jerk, a recluse, a has-been, a sell out, a wash out, a throw out... You're finally doing a sequel?!?"" JIM: ""Yeeep!"" JEFF: ""That's... AWESOME!""   JIM: ""Oh, wait... We're gonna need a good comedy writer for an updated funny part..."" JEFF: ""We don't need one for that!"" (kicks Jim in the family jewels)  *KA-POW!* JIM: *AAAAUUUUGGGGH!!!* Welcome to the new millennium... again... :D",1,0,odiemodie1,mq1rt4iKuYg,0.5108503861860796,2015-05-04 21:09:17,False,False
+2015-05-17T18:37:52,Hopsin anyone? :D,1,0,Pinkelschrubber,mq1rt4iKuYg,1.0,2015-05-17 18:37:52,False,False
+2015-05-19T09:27:04,Yeah...no....not good ,0,0,Josie Jay,mq1rt4iKuYg,0.7,2015-05-19 09:27:04,False,False
+2015-07-14T02:00:45,Such a NOT FUNNY Movie and the actors are really annoying!!,0,0,M K,mq1rt4iKuYg,-0.375,2015-07-14 02:00:45,False,False
+2015-08-14T16:37:45,"Guys, anyone know the song at 1:28-1:44? Please!",0,1,ףידאל בלו,mq1rt4iKuYg,0.0,2015-08-14 16:37:45,False,False
+2015-08-31T08:14:30,My one of the best comdey,0,0,pankaj singh,mq1rt4iKuYg,1.0,2015-08-31 08:14:30,False,False
+2015-09-18T06:58:03,still funny!,0,0,Antony twin,mq1rt4iKuYg,0.3125,2015-09-18 06:58:03,False,False
+2015-09-27T03:20:59,incase anyone is wondering what that thing was it was a catheter,0,0,TrutherNewsCentral,mq1rt4iKuYg,0.0,2015-09-27 03:20:59,False,False
+2015-10-11T14:57:20,DaD 3??,0,0,ChelseaFC !!!,mq1rt4iKuYg,0.0,2015-10-11 14:57:20,False,False
+2015-10-13T01:13:01,The 2 is better than the 1 moive,0,1,Rebecca Rutkiwski,mq1rt4iKuYg,0.5,2015-10-13 01:13:01,False,False
+2015-10-21T00:41:42,Dumb and Dumber three with be called Dum and Dummer(3 m),1,0,Abdel Ibrahim,mq1rt4iKuYg,-0.375,2015-10-21 00:41:42,False,False
+2015-11-17T05:17:10,poor dude had that haircut for a while,4,0,Ricky Barratt,mq1rt4iKuYg,-0.4,2015-11-17 05:17:10,False,False
+2015-11-21T20:26:52,(.....I wonder if they may actually decide to do an Ace Ventura 3 now.....),1,0,Kyd Kaide,mq1rt4iKuYg,0.0,2015-11-21 20:26:52,False,False
+2015-12-11T20:52:52,Whos he? Ohh hes just a bacol Why did you name it that? Cuse of this. Oh it fits.,0,0,Fonz,mq1rt4iKuYg,0.0,2015-12-11 20:52:52,False,False
+2015-12-12T10:21:03,nmhg jim,0,0,Neritan Topchiu,mq1rt4iKuYg,0.0,2015-12-12 10:21:03,False,False
+2016-02-27T13:07:19,"dumb and dumberer was a prequel that came out after the first release,makes no sense,this is 3",0,0,Ganjatom420,mq1rt4iKuYg,-0.0625,2016-02-27 13:07:19,False,False
+2016-03-18T14:16:34,"i came here every wednesday , for like a thousands years . i like that part that loyd pranked harry",0,0,jenelyn turing,mq1rt4iKuYg,0.0,2016-03-18 14:16:34,False,False
+2016-03-20T05:25:54,Didnt find it that good hey,0,0,Brodzzzzz,mq1rt4iKuYg,0.7,2016-03-20 05:25:54,False,False
+2016-07-03T23:29:04,What a big actors they are.,0,0,The Only Truth One Way,mq1rt4iKuYg,0.0,2016-07-03 23:29:04,False,False
+2016-08-13T13:33:26,"The first 25 mins of this movie was so bad, I couldn't finish it. I'm not sure if I ever will.",0,0,slantyrock,mq1rt4iKuYg,-0.23333333333333328,2016-08-13 13:33:26,False,False
+2016-09-13T00:23:09,Dumb and Dumber 3!!,1,1,John beck,mq1rt4iKuYg,-0.5859375,2016-09-13 00:23:09,False,False
+2016-11-26T18:20:48,Horrible movie. The jokes were lame. I figured Carrey and Daniels only did the squeal (after 20 years) because the script was funny... it wasn't; they just did it for the $.,3,2,Nick Jasper,mq1rt4iKuYg,-0.3125,2016-11-26 18:20:48,False,False
+2016-12-23T03:49:23,They should change the name to Old & Older.,0,0,Mr. Atari 2600,mq1rt4iKuYg,0.13333333333333333,2016-12-23 03:49:23,False,False
+2017-01-01T23:01:08,They overacted in sequal. It's good but nowhere near the first comedic gold and one of the best movies ever,0,0,Chip Douglas,mq1rt4iKuYg,0.5125,2017-01-01 23:01:08,False,False
+2017-01-10T15:03:05,Is that a folk song?,0,0,Saroja The Robot,mq1rt4iKuYg,0.0,2017-01-10 15:03:05,False,False
+2017-04-07T09:58:22,the only plot hole I find is......there is no safety railway crossing for the train. ...anyone could die,1,1,Ranjini M J,mq1rt4iKuYg,0.0,2017-04-07 09:58:22,False,False
+2017-04-30T10:29:07,Its funny i like verry verry Jim Carrey,0,0,Luk AS,mq1rt4iKuYg,0.25,2017-04-30 10:29:07,False,False
+2017-05-08T15:38:26,I'm,0,0,Sumit Sharma,mq1rt4iKuYg,0.0,2017-05-08 15:38:26,False,False
+2017-06-24T23:25:58,anyone can give me a link to watch all te film?,0,1,Tahri Taha,mq1rt4iKuYg,0.0,2017-06-24 23:25:58,False,False
+2017-09-25T11:47:25,good movie,0,0,Asim Asim,mq1rt4iKuYg,0.7,2017-09-25 11:47:25,False,False
+2017-11-26T00:50:07,oh god. lobely... imma watch it again fuvk it,0,0,Andre O.,mq1rt4iKuYg,0.0,2017-11-26 00:50:07,False,False
+2018-01-30T16:15:59,This is like the first movie except this one is for retards.,0,0,Jesper Johansson,mq1rt4iKuYg,-0.325,2018-01-30 16:15:59,False,False
+2018-01-31T13:02:41,Lvd that gay.....💋💋💋,0,0,abhijit mondal,mq1rt4iKuYg,0.0,2018-01-31 13:02:41,False,False
+2018-04-23T11:01:25,"""That's insane!""",0,0,Tertius Carstens,mq1rt4iKuYg,-1.0,2018-04-23 11:01:25,False,False
+2018-06-07T16:24:15,So bad,0,0,Emil,mq1rt4iKuYg,-0.6999999999999998,2018-06-07 16:24:15,False,False
+2018-06-09T10:01:42,hahah  jeff,0,0,jeff balayo,mq1rt4iKuYg,0.0,2018-06-09 10:01:42,False,False
+2018-06-20T04:30:28,I loved the movie.. and i was like lmao but when i rewatched the first part .. i felt that this was a little 😏😏 .. but still this movie was hell funny,0,0,Shashank Jamdagni,mq1rt4iKuYg,0.32249999999999995,2018-06-20 04:30:28,False,False
+2018-06-22T19:52:20,Greetings from Turkey ;),1,0,Sweet Hack,mq1rt4iKuYg,0.25,2018-06-22 19:52:20,False,False
+2018-07-01T03:08:58,"So,was this movie ever released?",0,0,Alladeen Madafaker,mq1rt4iKuYg,0.0,2018-07-01 03:08:58,False,False
+2018-07-03T07:53:40,Weekly feel future scream promotion crew shift curve withdraw,0,0,Cherie Dominguez,mq1rt4iKuYg,0.0,2018-07-03 07:53:40,False,False
+2018-07-21T13:50:20,Terrible movie didn’t laugh one time,0,0,Joe Joe Robinson,mq1rt4iKuYg,-0.35,2018-07-21 13:50:20,False,False
+2018-08-12T15:41:56,Hahah the stupid back...love it,0,0,oliever manjanssen,mq1rt4iKuYg,-0.7999999999999999,2018-08-12 15:41:56,False,False
+2018-08-28T14:27:14,They're just above the giblets,0,0,Studentofgosset,mq1rt4iKuYg,0.0,2018-08-28 14:27:14,False,False
+2018-09-14T16:45:51,Jim scarey,1,0,Not Used,mq1rt4iKuYg,-0.5,2018-09-14 16:45:51,False,False
+2018-09-24T01:06:28,I never knew of a sequel,0,0,William B,mq1rt4iKuYg,0.0,2018-09-24 01:06:28,False,False
+2018-12-21T06:57:11,I saw this movie and it was awesome. Better than the first movie.,2,1,kinderis,mq1rt4iKuYg,0.5833333333333334,2018-12-21 06:57:11,False,False
+2019-02-01T01:25:26,this was a good movie,1,0,scott gimple,mq1rt4iKuYg,0.7,2019-02-01 01:25:26,False,False
+2019-02-10T10:29:36,amazing movie,1,0,ahmad Al Ahmad,mq1rt4iKuYg,0.6000000000000001,2019-02-10 10:29:36,False,False
+2019-03-06T08:06:02,best Comedy movie of my life part 1 & 2 both 😂💓,5,0,Anjan007,mq1rt4iKuYg,1.0,2019-03-06 08:06:02,False,False
+2019-03-24T17:36:21,0:32,2,0,Jack Salvin,mq1rt4iKuYg,0.0,2019-03-24 17:36:21,False,False
+2019-04-02T11:58:27,Jesus crist he really waited 20 years to pull a prank,3,0,Jaime Soque,mq1rt4iKuYg,0.2,2019-04-02 11:58:27,False,False
+2019-04-19T23:51:27,JIM CARREY AND JEFF DANIELS ARE SO AWESOME IN DUMB AND DUMBER II 2014 TRAILER !!!!,0,0,Andrew Flood,mq1rt4iKuYg,0.042236328125,2019-04-19 23:51:27,False,False
+2019-05-21T10:30:54,if My friend did like that I will kill him 😂 it's too bad,4,0,aqonyahan abdizalam hereri,mq1rt4iKuYg,-0.6999999999999998,2019-05-21 10:30:54,False,False
+2019-06-03T01:31:40,There ain't no diamonds in here!  And you're not my grandson! ... *blows dust off hand 😂😂😂😂😂😂,1,0,Missy Patton,mq1rt4iKuYg,0.0,2019-06-03 01:31:40,False,False
+2019-06-09T18:51:10,20 years pretend to be disable prank MrBeast can you do that,0,0,AGENT SMASH,mq1rt4iKuYg,0.0,2019-06-09 18:51:10,False,False
+2019-06-22T21:39:43,"They lit fireworks in someone's motel room in the movie and the trailer? I don't like the sound of that! They also done that in Total Drama: The Movie AKA Dumb and Dumber 3.  Lloyd: Let's do this, Harry!  (Both make an evil laugh) Courtney: What are they doing? Bridget: Whatever they're doing, it's gonna scare me and everyone else! (Lloyd lights the fuse) (Random Guy snores) (Crackling sounds) (Firework sounds and Random Guy screaming in terror) (Door and handrail break open) (Water makes a big splash) (Total Drama guys gasping) Gwen at 20 years old: That was so FUNNY! (Total Drama guys laughing at Random Guy with Lloyd and Harry) (But Lloyd and Harry made a Joker laugh)",0,0,Akilah Heberer,mq1rt4iKuYg,-0.09208333333333332,2019-06-22 21:39:43,False,False
+2019-08-10T09:58:23,The first one was way better,1,0,BDR CHRIST,mq1rt4iKuYg,0.375,2019-08-10 09:58:23,False,False
+2019-09-06T16:04:56,It took 20 years to make this and it ended up being terrible. I know that's how sequels are most of the time but 20 YEARS!,0,2,I say whatever I want and you gotta deal with that,mq1rt4iKuYg,-0.1875,2019-09-06 16:04:56,False,False
+2019-09-10T14:15:07,"If this was 10 yrs later from the 1st dumb and dumber, it woulda been made in 2004",0,0,ItsMatthew : Video Games and stuff.,mq1rt4iKuYg,-0.1875,2019-09-10 14:15:07,False,False
+2019-09-17T17:26:54,OH I HAVE NEVER SE THIS MOVIE    O M G,0,0,I.D,mq1rt4iKuYg,0.0,2019-09-17 17:26:54,False,False
+2019-09-17T19:10:23,The trailer killed the jokes.,0,0,Bearlogg,mq1rt4iKuYg,-0.2,2019-09-17 19:10:23,False,False
+2019-09-21T20:08:26,It was actually much worse then I expected!,0,0,Noname Noname,mq1rt4iKuYg,-0.2625,2019-09-21 20:08:26,False,False
+2019-09-30T05:22:25,I wish it was Dumb Dumber Dumbest,0,0,Msgamerzap,mq1rt4iKuYg,-0.375,2019-09-30 05:22:25,False,False
+2019-10-01T09:51:45,How to download this  Send me link plz,0,0,Its me!,mq1rt4iKuYg,0.0,2019-10-01 09:51:45,False,False
+2019-10-02T23:41:17,Selamun Alleykum,1,0,UTEYBE,mq1rt4iKuYg,0.0,2019-10-02 23:41:17,False,False
+2019-10-03T18:19:16,"movie wasnt that  good,      they waited to long to make it, first one was a lot better,  this one just failed to do anything,  they were to old",0,0,J P,mq1rt4iKuYg,0.16666666666666666,2019-10-03 18:19:16,False,False
+2019-10-06T10:16:17,Jim is a true lunatic,0,0,Maximus,mq1rt4iKuYg,0.35,2019-10-06 10:16:17,False,False
+2019-10-07T15:19:18,"not funny. every joke in this trailer is terribly written and  well, you cant have good execution on a bad joke. sorry fellas/",0,0,JackJackKcajify,mq1rt4iKuYg,-0.325,2019-10-07 15:19:18,False,False
+2019-10-08T22:01:24,more gross then funny,0,0,Gold Bug,mq1rt4iKuYg,0.25,2019-10-08 22:01:24,False,False
+2019-10-09T22:28:41,You can cross that off your bucket list LMAO!,0,0,Stitch o7,mq1rt4iKuYg,0.375,2019-10-09 22:28:41,False,False
+2019-10-09T23:58:07,"I don't understand how the geniuses behind Dumb & Dumber could be the same people who made this.  Reminds of of Airplane 2 or Naked Gun 3.  Just lazy, forced humor for money.",0,0,Kris B,mq1rt4iKuYg,-0.22083333333333333,2019-10-09 23:58:07,False,False
+2019-10-10T17:13:40,0.24 sorry my friend god life is hell  and deemons life is easy like icegream shop business. Let me to be here for awhile,0,0,ai.117 UNSC,mq1rt4iKuYg,-0.033333333333333326,2019-10-10 17:13:40,False,False
+2019-10-14T06:39:10,Best slapstick comedy 😂,0,0,Gaurav Kalra,mq1rt4iKuYg,1.0,2019-10-14 06:39:10,False,False
+2019-10-17T11:16:00,I watch this movie and he is soooooo  funny,0,0,pavle pakito1,mq1rt4iKuYg,0.25,2019-10-17 11:16:00,False,False
+2019-11-10T14:31:59,😂😂😂😂😂😂😂😂😂,0,0,Josef Novy,mq1rt4iKuYg,0.0,2019-11-10 14:31:59,False,False
+2019-11-23T21:30:33,This movie was terrible the first one was better this sucks,3,0,Sten Black,mq1rt4iKuYg,-0.1375,2019-11-23 21:30:33,False,False
+2019-12-10T22:36:53,When i see Dump and Dumper 2 makes me go back and watch the first one which is gold,0,0,Clonimus,mq1rt4iKuYg,0.125,2019-12-10 22:36:53,False,False
+2020-01-06T15:28:44,I actually loved this film!,0,0,Hejsan På dejsan,mq1rt4iKuYg,0.875,2020-01-06 15:28:44,False,False
+2020-01-14T18:13:53,why is this trailer in my recommended now???,3,0,MoloPowah,mq1rt4iKuYg,0.0,2020-01-14 18:13:53,False,False
+2020-01-25T01:41:08,Who else youtube recommended this to in 2020?,2,0,Juliano Alves,mq1rt4iKuYg,0.0,2020-01-25 01:41:08,False,False
+2020-02-11T13:30:00,1:06 I CAN'T😂😂😂,5,0,Fleafy,mq1rt4iKuYg,0.0,2020-02-11 13:30:00,False,False
+2020-03-02T07:10:43,"I don't remember this, I've watched the 2nd one for ages to forget a whole movie",0,0,Alisha.D,mq1rt4iKuYg,0.1,2020-03-02 07:10:43,False,False
+2020-04-12T14:44:19,"They're so dumb, they can not even spell Two right",0,0,Chơi Thử,mq1rt4iKuYg,-0.04464285714285715,2020-04-12 14:44:19,False,False
+2020-04-30T15:53:36,0:44,0,0,Marko Djukic,mq1rt4iKuYg,0.0,2020-04-30 15:53:36,False,False
+2020-05-14T14:49:15,😂😂😂😂😂😂😂😂😂😂😂😂,0,0,AASHUTOSH MEHRA,mq1rt4iKuYg,0.0,2020-05-14 14:49:15,False,False

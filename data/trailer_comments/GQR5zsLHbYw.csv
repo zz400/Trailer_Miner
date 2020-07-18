@@ -1,0 +1,760 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2016-03-22T22:34:09,Ca a l'air vachement cool ce film !,1,0,Gilbert Quintereau de la Chancle Comte d'Issoire,GQR5zsLHbYw,0.4375,2016-03-22 22:34:09,True,True
+2016-03-22T22:34:19,2nd,0,0,BecksJr.,GQR5zsLHbYw,0.0,2016-03-22 22:34:19,True,True
+2016-03-22T22:35:40,4th,0,0,Maurice Hall,GQR5zsLHbYw,0.0,2016-03-22 22:35:40,True,True
+2016-03-22T22:37:10,Gosling looks so awesome in these trailers.,3,0,Big Mama,GQR5zsLHbYw,1.0,2016-03-22 22:37:10,True,True
+2016-03-22T22:37:45,3rd,0,0,Bigesmyles Lightner,GQR5zsLHbYw,0.0,2016-03-22 22:37:45,True,True
+2016-03-22T22:38:16,hahaaâaaa this movie is going to be awesome maaaaan,0,0,Yusuf Turan,GQR5zsLHbYw,1.0,2016-03-22 22:38:16,True,True
+2016-03-22T22:39:40,decent film for once,1,0,WoW MAN 669,GQR5zsLHbYw,0.16666666666666666,2016-03-22 22:39:40,True,True
+2016-03-22T22:41:39,"Eh, it has Russell Crowe in it. I'll bite.",6,0,Justin,GQR5zsLHbYw,0.0,2016-03-22 22:41:39,True,True
+2016-03-22T22:42:59,I'm laughing my heart out  This is gonna be awesome,0,0,GEORGE VOLOGAS,GQR5zsLHbYw,1.0,2016-03-22 22:42:59,True,True
+2016-03-22T22:43:21,The first trailer is better but still this movie looks awesome!,37,0,Alex Townsend,GQR5zsLHbYw,0.5833333333333334,2016-03-22 22:43:21,True,True
+2016-03-22T22:44:21,"I'm a simple man, I see a movie with an original idea, I press like",1820,19,мастер смерти,GQR5zsLHbYw,0.1875,2016-03-22 22:44:21,True,True
+2016-03-22T22:44:28,this one is gonna be good starring two accomplished actors i love it !,4,0,Nizar Touit,GQR5zsLHbYw,0.5083333333333333,2016-03-22 22:44:28,True,True
+2016-03-22T22:45:16,Was that a giant bee?!,4,1,Ryan Kennicott,GQR5zsLHbYw,0.0,2016-03-22 22:45:16,True,True
+2016-03-22T22:45:38,this looks nice.,1,0,Joshua Gongora,GQR5zsLHbYw,0.6,2016-03-22 22:45:38,True,True
+2016-03-22T22:47:58,hi,0,0,FBI !,GQR5zsLHbYw,0.0,2016-03-22 22:47:58,True,True
+2016-03-22T22:55:52,This is now one of my most anticipated movies of the summer.,67,3,Liam Pendergast,GQR5zsLHbYw,0.5,2016-03-22 22:55:52,True,True
+2016-03-22T22:57:03,"Ryan Gosling, Russell Crowe and Matt Bomer in a movie? i'm in",6,0,eduardo ramirez,GQR5zsLHbYw,0.0,2016-03-22 22:57:03,True,True
+2016-03-22T22:58:50,Did anyone else see the giant bee?,54,8,Aiden Meyer,GQR5zsLHbYw,0.0,2016-03-22 22:58:50,True,True
+2016-03-22T23:00:59,Can't wait it look great,1,0,Kaitlin Worley,GQR5zsLHbYw,0.8,2016-03-22 23:00:59,True,True
+2016-03-22T23:01:48,I can't wait for this movie. the last non big budget movie I saw in theaters because the trailers were pretty good was Seven Psychopaths and that was a really good movie. this reminds me of that and I'm hyped for it.,3,0,MalculmX,GQR5zsLHbYw,0.32999999999999996,2016-03-22 23:01:48,True,True
+2016-03-22T23:02:46,Ryan Goslings terrified and Russell Crowe planning a beatdown for a little girl. I'm sold!,1330,12,The Drawing Board,GQR5zsLHbYw,-0.234375,2016-03-22 23:02:46,True,True
+2016-03-22T23:07:34,I can't wait to watch this,2,0,Speedy NMS,GQR5zsLHbYw,0.0,2016-03-22 23:07:34,True,True
+2016-03-22T23:09:47,anyone know the names of the two songs?,0,2,Mic Lowe,GQR5zsLHbYw,0.0,2016-03-22 23:09:47,True,True
+2016-03-22T23:12:06,they showed us the whole movie!,8,8,Zizusami,GQR5zsLHbYw,0.25,2016-03-22 23:12:06,True,True
+2016-03-22T23:15:32,Looks nice,5,0,Kal-El fan 49,GQR5zsLHbYw,0.6,2016-03-22 23:15:32,True,True
+2016-03-22T23:16:40,"Makes me nostalgic for the '90s when we watched ""Boogie Nights"" about the '70s and were nostalgic for that earlier time of drugs, sex, and murder. Man, '90s movies about the '70s were great.",13,2,greyeyed123,GQR5zsLHbYw,-0.04999999999999999,2016-03-22 23:16:40,True,True
+2016-03-22T23:28:38,The Nice Guys - Main Trailer *tips fedora,109,2,Jacques Dorleans,GQR5zsLHbYw,0.3833333333333333,2016-03-22 23:28:38,True,True
+2016-03-22T23:29:53,LOL Zodiac (2007) Music!,0,0,Xavier El Masrur,GQR5zsLHbYw,1.0,2016-03-22 23:29:53,True,True
+2016-03-22T23:51:04,"This look not so bad, probably gonna give it a watch :) at least its not a remake or a sequel just like a lot of the movies who are coming out this summer",0,0,William Donovan,GQR5zsLHbYw,-0.1666666666666666,2016-03-22 23:51:04,True,True
+2016-03-23T00:00:47,"Now here's the kicker: They have a super cool CGI dog named ""Sparky"" he's always cracking jokes and the movie is directed by Micheal Bay!",0,0,Am,GQR5zsLHbYw,0.38541666666666663,2016-03-23 00:00:47,True,True
+2016-03-23T00:15:55,This feels like Kiss Kiss Bang Bang. Which is an EXCELLENT thing.  I already know I will love this movie. I'm sold. You sold me.  Make many many more movies like this please and thank you.,0,0,bluecrabsandsushi2,GQR5zsLHbYw,0.6,2016-03-23 00:15:55,True,True
+2016-03-23T00:17:44,ninguen br caranba slk,0,0,Tagueiros,GQR5zsLHbYw,0.0,2016-03-23 00:17:44,True,True
+2016-03-23T00:27:09,Another L for Warner Bros.,1,5,SiR Pudge,GQR5zsLHbYw,0.0,2016-03-23 00:27:09,True,True
+2016-03-23T00:51:59,I know what happens at the end. SPOILER ALERT WARNING   RYAN GOSLING AND RUSSEL CROWE DIE....... i think?,0,0,AUGIE Productions,GQR5zsLHbYw,0.0,2016-03-23 00:51:59,True,True
+2016-03-23T00:57:51,this looks fucking hilarious.,0,0,lindinle,GQR5zsLHbYw,0.5,2016-03-23 00:57:51,True,True
+2016-03-23T00:58:40,It seems like a great companion film to Kiss Kiss Bang Bang. Looks awesome!,0,0,Olyphantastic,GQR5zsLHbYw,0.9,2016-03-23 00:58:40,True,True
+2016-03-23T01:04:41,damn crowe looking old as fuck,0,0,The Tek,GQR5zsLHbYw,-0.15000000000000002,2016-03-23 01:04:41,True,True
+2016-03-23T01:31:32,Movie of the fucking year right here. holy shit lol.,0,0,CELT1CPRED,GQR5zsLHbYw,0.07142857142857145,2016-03-23 01:31:32,True,True
+2016-03-23T01:34:31,Why is it so damn funny when grown men run away from something like children afraid of getting a timeout?,0,0,smegbug2,GQR5zsLHbYw,-0.175,2016-03-23 01:34:31,True,True
+2016-03-23T01:50:10,Was that Matt Bomer?,0,0,Jayant Belgaumkar,GQR5zsLHbYw,0.0,2016-03-23 01:50:10,True,True
+2016-03-23T02:21:30,"I have been doing a little research project this month. I have had extra time as compared to a normal human being who works. And so to kill time, I have been going to a lot of movies. I have been going to an inordinate amount of movies, more movies than an average human being. Naturally, the first thing I did was watch the movies I really wanted to see based on the previews that I had witnessed. I saw Deadpool which I thought was amazing, then I went to see Zootopia, which was the best movie of the year so far. But, then I started watching movies I wouldn't normally go see. I went to see 10 Cloverfield Lane, which was just ok, and then I saw Risen, which I had mistaken for a movie about Roman soldiers. I was right but also very wrong and the movie wasn't that good anyways. I also saw a movie with one of my favorite actors, George Clooney, however that movie ended up being HIS worst. Then I got really bored and went to see movies I didn't even want to see.   I went to see The Witch, which was bad, and finally dragged myself into the atrocity of a film The Divergent Series: Allegiant, which made me surprised, because I hadn't killed myself before its credits.  My science experiment was that I made a mental note of the feeling the picture gave me just from the previews. The experiment proved that the preview is a very good indicator on whether a movie is going to be good or bad.  I raved about the preview for Deadpool and Zootopia which turned out to be fantastic, and turned my nose up for The Divergent Series: Allegiant which turned out to be a disaster. I had a similar spectrum of feelings for all the movies in the middle. I did not go see The Gods of Egypt. That movie preview was so bad, I decided that I would rather sit in a dark room and listen to grass grow. As it turns out the people who made that film are either fired, broke or both. Maybe they should pick up my hobby.  My point is that The Nice Guys  has got my attention. The preview has made me get the inkling that I am really going to enjoy it. Is it the aging Crowe or the young rising Gosling? Maybe it is the setting or the plot, or a combination of the two? I don't know why I am going to enjoy The Nice Guys, but I would be willing to put money down that I will love it.  I think that a lot of people will agree with me that WB has got this trailer right, and so the movie must be right as well.   I have never seen so many movies in a short amount of time. I pity you people over in Hollywood. I once thought there was great glamour in the movie business. However the reality of it is that there is a lot of junk to sift through. I am happy that the previews allows us to avoid movies that aren't worth a 2D matinee. I also want to thank the industry for making that fact blatantly obvious.   We will see how my nose fairs for the next month. So far I have smelled a stinky ghost, shook my head at a mothers day movie that smells like an old ""friends"" sock, and wondered why Tommy Lee Jones is suddenly mute.  Time will tell Youtube... Time will tell...",0,0,Jstank X Plays,GQR5zsLHbYw,0.14418013038548752,2016-03-23 02:21:30,True,True
+2016-03-23T02:38:21,Welp there goes every bit of shock comedy from the movie.,0,0,Its Always Funny in Sillydelphia,GQR5zsLHbYw,0.0,2016-03-23 02:38:21,True,True
+2016-03-23T02:39:23,"I love everything about that ""easy way"" scene. Many shades of Kiss Kiss Bang Bang. Weird to see two uber intense actors doing comedy, even if Gosling does dabble (he was perfect in The Big Short).",0,0,luciddreams,GQR5zsLHbYw,0.26666666666666666,2016-03-23 02:39:23,True,True
+2016-03-23T02:53:05,haha this looks amazing,0,0,Galactica,GQR5zsLHbYw,0.4,2016-03-23 02:53:05,True,True
+2016-03-23T02:58:57,Hahahahahahaha! That last joke! I live for that shit!,0,0,Advent3546,GQR5zsLHbYw,-0.03787878787878788,2016-03-23 02:58:57,True,True
+2016-03-23T03:10:01,The first one was cool...this one made me laugh. I'm in.,0,0,filmgirlLisa,GQR5zsLHbYw,0.275,2016-03-23 03:10:01,True,True
+2016-03-23T03:16:02,This looks like a really good funny movie ! 😂😂 had me laughing,0,0,Oscar Portillo,GQR5zsLHbYw,0.50625,2016-03-23 03:16:02,True,True
+2016-03-23T03:45:18,"Every trailer I see for this movie has me laughing my ass off. I also like how the first trailer had most of the focus on Russel Crowe making him seem like the protagonist and Ryan Gosling was the sidekick, and this trailer does the reverse. Now I don't know who the focus is going to be on in the full movie, or maybe they'll both get equal focus.  Either way, the fact that the same movie can have two different trailers with two different focuses makes me hopeful for the movie itself.",0,0,Cheese4G,GQR5zsLHbYw,0.15714285714285717,2016-03-23 03:45:18,True,True
+2016-03-23T03:47:39,😂😂,0,0,marcwa74,GQR5zsLHbYw,0.0,2016-03-23 03:47:39,True,True
+2016-03-23T04:06:00,looks good... trailer shows to much though... but it worked on me so what do i know about marketing.,2,1,DayInDaLife,GQR5zsLHbYw,0.44999999999999996,2016-03-23 04:06:00,True,True
+2016-03-23T04:21:47,This movie looks pretty damn good!!!,0,0,Sean Myers,GQR5zsLHbYw,0.625,2016-03-23 04:21:47,True,True
+2016-03-23T04:42:14,2:05 wait wat?,0,0,Carlasver,GQR5zsLHbYw,0.0,2016-03-23 04:42:14,True,True
+2016-03-23T05:08:47,Looks like Inherent Vice but better,17,1,Bowenier,GQR5zsLHbYw,0.5,2016-03-23 05:08:47,True,True
+2016-03-23T05:50:24,"If I ever saw a bee that big, I'd have the same reaction lol",0,0,MarvelWeiner,GQR5zsLHbYw,0.26666666666666666,2016-03-23 05:50:24,True,True
+2016-03-23T05:57:58,What's the song at the beginning?,0,0,max2082,GQR5zsLHbYw,0.0,2016-03-23 05:57:58,True,True
+2016-03-23T06:10:27,Oh Shane Black.. xD,0,0,Mark Offenberg,GQR5zsLHbYw,-0.16666666666666666,2016-03-23 06:10:27,True,True
+2016-03-23T06:20:40,looks great,0,0,mc9399,GQR5zsLHbYw,0.8,2016-03-23 06:20:40,True,True
+2016-03-23T07:13:35,Ryan Gosling not in type cast lol must see,0,0,Remainder,GQR5zsLHbYw,0.8,2016-03-23 07:13:35,True,True
+2016-03-23T07:47:32,Thats a brilliant idea to dump a corpse on a neighboring wedding  reception hahaha,0,0,Patrick Factora,GQR5zsLHbYw,0.55,2016-03-23 07:47:32,True,True
+2016-03-23T07:59:00,🙇🙆,0,0,Jayne S.,GQR5zsLHbYw,0.0,2016-03-23 07:59:00,True,True
+2016-03-23T08:16:27,"ryan, russell, a bit of guns, a bit of funny... i like.",0,0,ooooglat,GQR5zsLHbYw,0.25,2016-03-23 08:16:27,True,True
+2016-03-23T09:40:54,This looks fucking great!,0,0,Helgard Werner,GQR5zsLHbYw,1.0,2016-03-23 09:40:54,True,True
+2016-03-23T09:49:17,FANF THE MOVIE,0,0,tr fd,GQR5zsLHbYw,0.0,2016-03-23 09:49:17,True,True
+2016-03-23T09:49:27,"hopefully ""Long Cool Woman"" is in the movie.",0,0,Regal805,GQR5zsLHbYw,0.15,2016-03-23 09:49:27,True,True
+2016-03-23T10:04:34,another 80s movie  yeah,0,3,𝓓𝓮𝓵𝓲𝓰𝓱𝓽𝓯𝔀𝓛 🍁,GQR5zsLHbYw,0.0,2016-03-23 10:04:34,True,True
+2016-03-23T10:14:37,"This movie looks hilarious. Kiss Kiss Bang Bang was a amazing movie, and this seems to be the same style,humor,with increased violence. Buying this with a giant smile on my face.",24,3,TheSacko,GQR5zsLHbYw,0.28,2016-03-23 10:14:37,True,True
+2016-03-23T11:35:57,Song name from 1.04 onwards?,0,0,James Knowles,GQR5zsLHbYw,0.0,2016-03-23 11:35:57,True,True
+2016-03-23T12:03:52,Shane Black doing what he does best. I'm in.,2,0,joshua kusuma,GQR5zsLHbYw,0.4166666666666667,2016-03-23 12:03:52,True,True
+2016-03-23T12:40:42,This looks funny as hell.,0,0,Kyle Da Vid,GQR5zsLHbYw,0.25,2016-03-23 12:40:42,True,True
+2016-03-23T12:44:16,"Shane Black is a genius, and I think this cast is awesome. I can't wait to see this film.",0,0,Neal Adams,GQR5zsLHbYw,0.4166666666666667,2016-03-23 12:44:16,True,True
+2016-03-23T12:57:10,was that... the mothman in the backseat?,0,1,Mister Dunkan,GQR5zsLHbYw,0.0,2016-03-23 12:57:10,True,True
+2016-03-23T13:25:55,"Nice guys finish last, that's why I'll treat you like trash...",0,0,Some random guy on the internet,GQR5zsLHbYw,0.3,2016-03-23 13:25:55,True,True
+2016-03-23T13:38:59,this looks like what inherent vice wanted to be. this looks good as hell,1,6,Matt Gamin,GQR5zsLHbYw,0.7,2016-03-23 13:38:59,True,True
+2016-03-23T13:42:54,This will be the best movie of the year  Neo-noir comedy...I love it,1,0,YAZEED Z,GQR5zsLHbYw,0.75,2016-03-23 13:42:54,True,True
+2016-03-23T13:48:23,The song at 1:04 and Ryan Gosling combination means Remember the Titans,1,0,Kerry Lin,GQR5zsLHbYw,0.0,2016-03-23 13:48:23,True,True
+2016-03-23T13:53:21,Thats funny with the lady on her hubby been missing. He is dead lol,8,2,Thutmosis7,GQR5zsLHbYw,0.1625,2016-03-23 13:53:21,True,True
+2016-03-23T14:20:07,I click like the first 2 minutes im convinced  to be in tears of laughter besides where else can you through a dead body at a reception,0,0,JEDASE,GQR5zsLHbYw,0.024999999999999994,2016-03-23 14:20:07,True,True
+2016-03-23T14:48:28,it looks fun and wrong. Ha.,0,0,lexmax08,GQR5zsLHbYw,-0.1,2016-03-23 14:48:28,True,True
+2016-03-23T15:19:21,"Russell Crowe is kinda looking like John Goodman in ""Raising Arizona.""",0,0,Northern Independent Films,GQR5zsLHbYw,0.0,2016-03-23 15:19:21,True,True
+2016-03-23T15:38:59,So far all the trailers look good I am so ready for this. Hopefully it will turn out as great as it looks.,0,0,SuperEzFilms,GQR5zsLHbYw,0.45,2016-03-23 15:38:59,True,True
+2016-03-23T15:39:16,"This movie looks so fucking retarded! I understand that both these men lack as much in comedic talent as they do in acting chops, but did they have to make the comedy seem so forced? This is going to stink up the box office big time. Dumb shit",0,0,bardofoc,GQR5zsLHbYw,-0.2392857142857143,2016-03-23 15:39:16,True,True
+2016-03-23T15:50:39,Shane Black?  edit: yup...awesome can't wait!,0,0,DizzleJay27,GQR5zsLHbYw,-0.20833333333333331,2016-03-23 15:50:39,True,True
+2016-03-23T16:14:46,"honestly, i havent watched a film trailer in years that had me feelin like this one, and tbh i havent watched a good (new) film in a very long time im look forward to this",0,1,ticktocksullyOLD,GQR5zsLHbYw,0.34284090909090903,2016-03-23 16:14:46,True,True
+2016-03-23T17:13:57,looks like a way better inherent vice,2,2,The Crazy Movie Lover,GQR5zsLHbYw,0.5,2016-03-23 17:13:57,True,True
+2016-03-23T17:16:08,where is jack kilmer?,0,0,Alfredo Fajardo,GQR5zsLHbYw,0.0,2016-03-23 17:16:08,True,True
+2016-03-23T17:42:32,"""Since the funeral.""",0,0,Yong,GQR5zsLHbYw,0.0,2016-03-23 17:42:32,True,True
+2016-03-23T17:48:46,...this movie looks better than the last 5 similar movies I've seen come out in ages.,0,0,Earthstar Review,GQR5zsLHbYw,0.16666666666666666,2016-03-23 17:48:46,True,True
+2016-03-23T18:10:12,"I am reaching but I fall, and the stars are black and cold, as I stare into the void, of a world that cannot hold. I'll escape now from that world; from the world of Jean Valjean. There is nowhere I can turn. There is no way to go on",0,1,Nikhil Shah,GQR5zsLHbYw,-0.3833333333333333,2016-03-23 18:10:12,True,True
+2016-03-23T18:49:18,only watching cos of ryan,0,0,Pearlie Grace,GQR5zsLHbYw,0.0,2016-03-23 18:49:18,True,True
+2016-03-23T19:15:28,This is a movie that would be so much better with Nicolas Cage as the main :),0,0,MoookOfDuty,GQR5zsLHbYw,0.38888888888888884,2016-03-23 19:15:28,True,True
+2016-03-23T19:16:55,Looks Good. Crowe doing comedy might work.,0,0,43bikeguy,GQR5zsLHbYw,0.7,2016-03-23 19:16:55,True,True
+2016-03-23T19:19:34,A role where Russell Crowe hits people for a living? He was born for this role.,0,0,Malcolm Zzerosignal,GQR5zsLHbYw,0.0,2016-03-23 19:19:34,True,True
+2016-03-23T19:35:22,...  Run.    I laughed for hours.  I'm still chuckling.,0,0,MattAlbie,GQR5zsLHbYw,0.7,2016-03-23 19:35:22,True,True
+2016-03-23T19:54:36,Looks great but a also a carbon copy of kiss kiss bang bang,0,0,gingergreek,GQR5zsLHbYw,0.8,2016-03-23 19:54:36,True,True
+2016-03-23T19:58:22,this is just like Kiss Kiss Bang Bang XD but better,0,0,Dariush Asadi,GQR5zsLHbYw,0.5,2016-03-23 19:58:22,True,True
+2016-03-23T20:36:53,Ryan Gosling's chicken shit scream will never not be funny and nobody kicks anus like fat Russel Crowe. And there's even a giant fuckin fly in it? Shut up and take my pesos!,103,3,Allan Lomas,GQR5zsLHbYw,0.09,2016-03-23 20:36:53,True,True
+2016-03-23T21:06:18,0:34 - Fightin' Around The World With Russell Crowe!! X-D,0,0,NightRunner417,GQR5zsLHbYw,1.0,2016-03-23 21:06:18,True,True
+2016-03-23T21:15:49,I'm dying too rip that ugly mustache off of Ryan's face.,0,0,Keith Luke Swanson,GQR5zsLHbYw,-0.7,2016-03-23 21:15:49,True,True
+2016-03-23T21:22:11,whats the song in 1:04?,0,0,Joker Man139,GQR5zsLHbYw,0.0,2016-03-23 21:22:11,True,True
+2016-03-23T21:23:21,This looks amazing. God I hope they didnt spoil all the good bits,0,0,Happilywanderin,GQR5zsLHbYw,0.65,2016-03-23 21:23:21,True,True
+2016-03-23T21:33:12,Vote For Donald,0,0,Busdriver74,GQR5zsLHbYw,0.0,2016-03-23 21:33:12,True,True
+2016-03-23T21:35:31,This freakin guy Ryan screaming in terror had me chuckling. I want to see more!,20,0,Lolo Lo,GQR5zsLHbYw,0.625,2016-03-23 21:35:31,True,True
+2016-03-23T21:41:56,Looks like it could be real good.,0,0,Four Hundred Twenty Pixels+,GQR5zsLHbYw,1.0,2016-03-23 21:41:56,True,True
+2016-03-23T21:51:52,Still anxious bc Russel Crowe might start seizing,0,0,Julian Pinto,GQR5zsLHbYw,-0.25,2016-03-23 21:51:52,True,True
+2016-03-23T21:52:42,the hollies-long cool woman in a black dress.. in case you were wondering. you're welcome lol,0,0,Sean Salata,GQR5zsLHbYw,0.44583333333333336,2016-03-23 21:52:42,True,True
+2016-03-23T22:02:08,I can't remember the last time a trailer got me so hyped to see a movie.  I'm there!  :-D,0,0,PCBacklash _,GQR5zsLHbYw,0.5,2016-03-23 22:02:08,True,True
+2016-03-23T22:08:04,Finally a proper black comedy worth seeing!,0,0,ARGENT 191,GQR5zsLHbYw,0.06944444444444445,2016-03-23 22:08:04,True,True
+2016-03-23T22:09:52,what is the song in the background at 1:14,0,1,LoganMonster 12,GQR5zsLHbYw,0.0,2016-03-23 22:09:52,True,True
+2016-03-23T22:13:51,I'm in.,0,0,Joshua Jones,GQR5zsLHbYw,0.0,2016-03-23 22:13:51,True,True
+2016-03-23T22:15:11,I was hoping to see Ryan Higa #throwback to the nice guys finish last song,1,1,Haseeb Hasan,GQR5zsLHbYw,0.3,2016-03-23 22:15:11,True,True
+2016-03-23T22:19:57,seems watchable,1,0,FoxHound,GQR5zsLHbYw,0.0,2016-03-23 22:19:57,True,True
+2016-03-23T22:27:20,"That actually made me laugh Well done HOLLYWOOD something original.....All hail SHANE BLACK saviour of Hollywood, The part were they throw the body over the fence and it lands on the dinner table during a dinner party, I wet myself",0,0,Matthew Robinson,GQR5zsLHbYw,0.008333333333333331,2016-03-23 22:27:20,True,True
+2016-03-23T22:29:37,yes,0,0,Mishka,GQR5zsLHbYw,0.0,2016-03-23 22:29:37,True,True
+2016-03-23T22:36:10,Never heard Ryan Gosling's voice go so high haha! This gonna be good,0,0,Tony LeeIm,GQR5zsLHbYw,0.36999999999999994,2016-03-23 22:36:10,True,True
+2016-03-23T22:39:31,This trailer is awesome. I realy want to see the movie.,5,0,Humstuck,GQR5zsLHbYw,1.0,2016-03-23 22:39:31,True,True
+2016-03-23T22:58:42,"Warner Brothers!!! Can you hear me??? Justice League officially enters production on April 11, you have Shane Black contracted for two more movies. Do the math!!!!!!!!!",0,0,KRAS 2,GQR5zsLHbYw,0.4166666666666667,2016-03-23 22:58:42,True,True
+2016-03-23T23:06:36,1:09 the strippers fake clothes added in #CGI fail,0,0,Number2Andrew,GQR5zsLHbYw,-0.5,2016-03-23 23:06:36,True,True
+2016-03-23T23:15:35,"the cars, y'all!!! THE CARS!!!!!",0,0,Joe Bob Tarheel,GQR5zsLHbYw,0.0,2016-03-23 23:15:35,True,True
+2016-03-23T23:20:34,Kind of reminds me of one of those Johnny Gossamer novels.,0,0,Hey Palindrome,GQR5zsLHbYw,0.6,2016-03-23 23:20:34,True,True
+2016-03-23T23:25:48,Looks like it's going to be a classic/oldie-goldie in a decade!!!,2,0,maru chan,GQR5zsLHbYw,0.0,2016-03-23 23:25:48,True,True
+2016-03-23T23:27:17,"A movie that isn't a remake, prequel, sequel, reboot, franchise cash cow, or an origin story is something I will go to theatres to watch",0,0,EngiYoutube,GQR5zsLHbYw,-0.13333333333333333,2016-03-23 23:27:17,True,True
+2016-03-23T23:27:28,"A movie that isn't a remake, prequel, sequel, reboot, franchise cash cow, or an origin story is something I will go to theatres to watch",0,0,EngiYoutube,GQR5zsLHbYw,-0.13333333333333333,2016-03-23 23:27:28,True,True
+2016-03-24T00:24:18,finding dory and the nice guy my summer time movies i will be watching. :),0,0,furmal86,GQR5zsLHbYw,0.55,2016-03-24 00:24:18,True,True
+2016-03-24T00:46:39,you all know the reason. why this movie looks so good? Shane Fucking Black! the greastest American action movie writer of all time.,4,5,Brian Baer,GQR5zsLHbYw,0.14791666666666667,2016-03-24 00:46:39,True,True
+2016-03-24T00:50:51,Looks hilarious,0,0,jermamevo,GQR5zsLHbYw,0.5,2016-03-24 00:50:51,True,True
+2016-03-24T02:07:52,To all the peeps who disliked this trailer......  ARE YOU NOT ENTERTAINED!? ARE YOU NOT ENTERTAINED!!!???,2,1,Seahawkfan1108,GQR5zsLHbYw,-0.48828125,2016-03-24 02:07:52,True,True
+2016-03-24T02:16:21,i think Mike from Breaking Bad should play Russel Crowe's role,0,0,Mikey Guanipa,GQR5zsLHbYw,-0.6999999999999998,2016-03-24 02:16:21,True,True
+2016-03-24T02:20:50,Russell Crowe is starting to look like John Goodman.,27,1,NutterCutterPro.,GQR5zsLHbYw,0.0,2016-03-24 02:20:50,True,True
+2016-03-24T02:28:55,Whatever happened to the April release date?!,0,0,ECMProductions,GQR5zsLHbYw,0.0,2016-03-24 02:28:55,True,True
+2016-03-24T02:31:40,"that last part was funny. ""We got to get rid of this corpse. *throws corpse over fence* *corpse falls and lands on party dinner table* "" run."" lmfao",206,3,ihurricane7,GQR5zsLHbYw,0.125,2016-03-24 02:31:40,True,True
+2016-03-24T02:42:52,I wanna watch this movie,0,0,Laurinda Pierre,GQR5zsLHbYw,0.0,2016-03-24 02:42:52,True,True
+2016-03-24T02:56:06,I will watch anything with Ryan Gosling in it.  Even if it's just a clip of him peeling an orange or cutting toilet paper squares for 30 minutes.,49,5,Nikki Harris,GQR5zsLHbYw,-0.31666666666666665,2016-03-24 02:56:06,True,True
+2016-03-24T02:57:43,All this is missing is Samuel L. Jackson as a mobster.,0,0,JUST WILL,GQR5zsLHbYw,-0.2,2016-03-24 02:57:43,True,True
+2016-03-24T03:25:08,OMG Neil Caffrey's in this movie!!!!,5,0,Nisanthan Nanthakumar,GQR5zsLHbYw,0.0,2016-03-24 03:25:08,True,True
+2016-03-24T03:30:49,Noah needs to hit the gym asap :-),0,1,Lol lel,GQR5zsLHbYw,0.5,2016-03-24 03:30:49,True,True
+2016-03-24T03:35:05,"*""Did I just see a buh-buh-buh big buh-buh-buh bumblebee in the back of that car?""*",3,1,jasonhale1011,GQR5zsLHbYw,0.0,2016-03-24 03:35:05,True,True
+2016-03-24T03:53:21,Cross in a comedy? Why didn't they think of this sooner?,0,0,Killer Cameo,GQR5zsLHbYw,0.0,2016-03-24 03:53:21,True,True
+2016-03-24T03:57:15,What happened to Russell Crows abs?,0,0,Fin,GQR5zsLHbYw,0.0,2016-03-24 03:57:15,True,True
+2016-03-24T05:04:29,"""In Bruges Part 2""? anyone?",0,0,GameOfBananas,GQR5zsLHbYw,0.0,2016-03-24 05:04:29,True,True
+2016-03-24T05:18:47,"But ""Nice Guys finish last"" Don't they?",0,0,Mika Paunga,GQR5zsLHbYw,0.3,2016-03-24 05:18:47,True,True
+2016-03-24T05:29:09,Must see.. .cant wait. Im off to my time machine!!,0,0,kaawBO0OM kaawBO0OM,GQR5zsLHbYw,0.0,2016-03-24 05:29:09,True,True
+2016-03-24T06:34:58,Yep gunna see this,0,0,scass1100,GQR5zsLHbYw,0.0,2016-03-24 06:34:58,True,True
+2016-03-24T07:24:10,I'm really digging this. I want to see it. Nice to see a old-time cop buddy film that is completely original and not remade. It's a high for me.,0,0,rhaspodel,GQR5zsLHbYw,0.33375,2016-03-24 07:24:10,True,True
+2016-03-24T07:24:35,Shane Black. Silver Pictures. I am definitely in.,0,0,Dean Walker,GQR5zsLHbYw,-0.08333333333333333,2016-03-24 07:24:35,True,True
+2016-03-24T07:30:24,the trailer gave me everything .. thank you ...       NEXT !,0,0,Agu Tenpa,GQR5zsLHbYw,0.0,2016-03-24 07:30:24,True,True
+2016-03-24T07:44:16,that was not John Goodman,0,0,clandestinoILEGAL,GQR5zsLHbYw,0.0,2016-03-24 07:44:16,True,True
+2016-03-24T10:36:09,This actually looks good,0,0,Mike Medeiros,GQR5zsLHbYw,0.35,2016-03-24 10:36:09,True,True
+2016-03-24T11:04:30,"humm ? a good movie,...?  naa, hollywood gotta screw it up somehow. lol!",0,0,Curas1,GQR5zsLHbYw,0.85,2016-03-24 11:04:30,True,True
+2016-03-24T11:35:27,"Russell Crowe was great in Gladiator, 16 years ago! Now past his best.",0,0,Maximus Headroom,GQR5zsLHbYw,0.5833333333333334,2016-03-24 11:35:27,True,True
+2016-03-24T11:38:01,I LOOOOOVED the 70's!!! This looks like a great movie. :D,0,1,John B.,GQR5zsLHbYw,0.9,2016-03-24 11:38:01,True,True
+2016-03-24T11:57:20,Looks fantastic!,1,0,cizia69,GQR5zsLHbYw,0.5,2016-03-24 11:57:20,True,True
+2016-03-24T12:02:28,Russell Crowe playing an American again? This guy is sooo overrated.,0,0,j0na7han1,GQR5zsLHbYw,0.0,2016-03-24 12:02:28,True,True
+2016-03-24T12:11:00,Crowe's accent is off.,0,0,BrinkTheGamer,GQR5zsLHbYw,0.0,2016-03-24 12:11:00,True,True
+2016-03-24T12:15:19,like share and subscribe for cool videos,0,0,sid best,GQR5zsLHbYw,0.35,2016-03-24 12:15:19,True,True
+2016-03-24T13:27:42,Get notified when The Nice Guys come out!! http://apple.co/1QY59nM,0,0,Benjamin Garnier,GQR5zsLHbYw,0.9375,2016-03-24 13:27:42,True,True
+2016-03-24T13:53:29,great trailer im sold,0,0,Krazzy Kracker,GQR5zsLHbYw,0.8,2016-03-24 13:53:29,True,True
+2016-03-24T14:27:42,This actually seens like it could be really funny!,0,0,Ayianna Arizmendi,GQR5zsLHbYw,0.15625,2016-03-24 14:27:42,True,True
+2016-03-24T15:44:53,That is going to be so good.  (Shameless promotion: https://www.gofundme.com/jbv9b7bg),0,0,JeremyRP1988,GQR5zsLHbYw,0.7,2016-03-24 15:44:53,True,True
+2016-03-24T15:58:24,This is gonna be fucking fun! An actual funny trailer is like gold dust these days,0,0,Angad Sharma,GQR5zsLHbYw,0.20833333333333334,2016-03-24 15:58:24,True,True
+2016-03-24T15:58:33,Russell's going all John Goodman on us.,267,5,populousmass,GQR5zsLHbYw,0.0,2016-03-24 15:58:33,True,True
+2016-03-24T15:58:50,"For a second, I thought the two actors in the thumbnail were Ryan Reynolds and John Goodman.",9,2,Erin Roberts,GQR5zsLHbYw,0.0,2016-03-24 15:58:50,True,True
+2016-03-24T16:10:25,nice guys finish last   that's why I'll treat you like trash   it's not what I really want to do...,0,0,Jamie Bunce,GQR5zsLHbYw,0.26666666666666666,2016-03-24 16:10:25,True,True
+2016-03-24T16:14:30,The other guys ... rip off,0,0,Igli,GQR5zsLHbYw,-0.125,2016-03-24 16:14:30,True,True
+2016-03-24T16:15:26,"they literally showed all the good parts of the movie!!! i hate that so much about trailers, they try to put the whole movie in like 2 minutes like give us a little bit of mystery ya feel me ?",0,0,emmma amoree,GQR5zsLHbYw,0.08249999999999999,2016-03-24 16:15:26,True,True
+2016-03-24T16:22:46,This feels like every altarnate joke from Kiss Kiss Bang Bang and I cannot be more excited.,0,0,TheDasha92,GQR5zsLHbYw,0.4375,2016-03-24 16:22:46,True,True
+2016-03-24T16:28:23,"Okay, I think it's official that this movie trumps my dislike for Russel Crowe. Crossing everything I own that it's as good as it looks.",0,0,class project,GQR5zsLHbYw,0.6,2016-03-24 16:28:23,True,True
+2016-03-24T16:36:31,what's the tune at the beginning?,0,0,ASEEDEESEE,GQR5zsLHbYw,0.0,2016-03-24 16:36:31,True,True
+2016-03-24T16:49:40,what is up with the writers these days? this is going to be shit.,3,2,Summa summa time,GQR5zsLHbYw,-0.2,2016-03-24 16:49:40,True,True
+2016-03-24T17:05:38,Giant bee...,0,0,Naterrs,GQR5zsLHbYw,0.0,2016-03-24 17:05:38,True,True
+2016-03-24T17:33:03,Ryan Gosling is a good actor.,16,7,Alain Bruno,GQR5zsLHbYw,0.7,2016-03-24 17:33:03,True,True
+2016-03-24T18:04:56,"Goddammit Chris!!! Stop watching the whole trailer!!! You're going to see it anyways.  Besides, for some reason I though John Goodman got in shape, but it's Crowe...",0,0,Chris Benson,GQR5zsLHbYw,0.390625,2016-03-24 18:04:56,True,True
+2016-03-24T18:16:19,"lmao, this seems promising.",0,0,Brother Fiend,GQR5zsLHbYw,0.4,2016-03-24 18:16:19,True,True
+2016-03-24T18:27:26,I bet they finish last.  I'll show myself out.,0,0,Klyborg,GQR5zsLHbYw,0.0,2016-03-24 18:27:26,True,True
+2016-03-24T18:42:37,Anyone else get that Kiss Kiss Bang Bang vibe from this trailer? Looking forward to this! :D,0,0,Stovokor78,GQR5zsLHbYw,1.0,2016-03-24 18:42:37,True,True
+2016-03-24T19:06:46,What the fuck is that 2:05... a giant fly???,0,0,sketchwish,GQR5zsLHbYw,0.13333333333333333,2016-03-24 19:06:46,True,True
+2016-03-24T19:08:18,damn this movie looks funny as hell. Shane black is back.,0,0,Mark Cobbs,GQR5zsLHbYw,0.02777777777777778,2016-03-24 19:08:18,True,True
+2016-03-24T19:17:00,May be the funniest movie of this year.,0,0,Ningauble TV,GQR5zsLHbYw,0.0,2016-03-24 19:17:00,True,True
+2016-03-24T19:31:15,Good comedy. I will watch this,0,0,Sam M,GQR5zsLHbYw,0.7,2016-03-24 19:31:15,True,True
+2016-03-24T19:57:05,This looks hilarious.,0,0,SirTyJensen,GQR5zsLHbYw,0.5,2016-03-24 19:57:05,True,True
+2016-03-24T20:17:36,Redband trailer is wayyyyy better but I'm excited for this,0,0,LoLaS2011,GQR5zsLHbYw,0.4375,2016-03-24 20:17:36,True,True
+2016-03-24T20:20:34,Ryan G was made for these 70's roles tbh,0,0,BABY,GQR5zsLHbYw,0.0,2016-03-24 20:20:34,True,True
+2016-03-24T20:41:20,"Russell, what the fuck are You doing...",0,0,Juozapas Mikulėnas,GQR5zsLHbYw,-0.4,2016-03-24 20:41:20,True,True
+2016-03-24T21:32:58,This movie looks pretty awesome.,0,0,German Medina,GQR5zsLHbYw,0.625,2016-03-24 21:32:58,True,True
+2016-03-24T22:07:30,Looks good.  I like dark comedies.,0,0,Kyle Jeffery,GQR5zsLHbYw,0.27499999999999997,2016-03-24 22:07:30,True,True
+2016-03-25T00:36:11,What is the first song in this trailer,0,0,Garret Weels,GQR5zsLHbYw,0.25,2016-03-25 00:36:11,True,True
+2016-03-25T00:36:27,This will be another Shane Black Classic. Kiss Kiss Bang Bang is one of my favorite movies that i have ever seen and this will be good.,0,0,SuperDJBolt,GQR5zsLHbYw,0.3,2016-03-25 00:36:27,True,True
+2016-03-25T01:25:25,Shane Black rules!!,3,0,Sho Nuff,GQR5zsLHbYw,-0.26041666666666663,2016-03-25 01:25:25,True,True
+2016-03-25T01:44:00,"FUCK- TOWER RECORDS..... FUCKING TOWER RECORDS IS IN THIS TRAILOR!!!     Yes, I will surely see this!",0,0,American Pancake,GQR5zsLHbYw,-0.2583333333333333,2016-03-25 01:44:00,True,True
+2016-03-25T02:16:20,0:10 Lol his face he's like... Um ma'am.. your husbands right there.,0,0,Unique Sell,GQR5zsLHbYw,0.5428571428571429,2016-03-25 02:16:20,True,True
+2016-03-25T03:02:34,"I really want to see this movie! I didn't like this trailer though. It looks like it spoils many scenes. Still, I cant wait to see this one!",8,3,Jokers Midnight Show,GQR5zsLHbYw,0.4375,2016-03-25 03:02:34,True,True
+2016-03-25T03:31:50,No They don't have LED street lamps in 1977 LA @1:24   Im picky.,0,0,Monkey Wrench,GQR5zsLHbYw,0.0,2016-03-25 03:31:50,True,True
+2016-03-25T03:44:41,Did anyone else blast this to make it seem like your in a movie theater??,0,0,MomoTheGamer,GQR5zsLHbYw,0.0,2016-03-25 03:44:41,True,True
+2016-03-25T04:07:47,Showed too much! :( but... I'm still going to watch it. Why did you have to show the guy getting hit with the car? that's a SPOILER!!!! SOMEONE IN YOUR EDITING DEPARTMENT DESERVES TO GET FIRED!,0,4,viscountalpha,GQR5zsLHbYw,-0.375,2016-03-25 04:07:47,True,True
+2016-03-25T04:40:39,This looks so stupid good I think I want to see it twice based on the trailer alone.,0,0,Erik Weber,GQR5zsLHbYw,-0.04999999999999999,2016-03-25 04:40:39,True,True
+2016-03-25T04:45:00,"Finally past the January, February, March bad movie time. Excluding Deadpool, and I'm hoping Batman vs Superman",0,0,Joaquin Coronel,GQR5zsLHbYw,-0.4749999999999999,2016-03-25 04:45:00,True,True
+2016-03-25T06:12:41,2:04 What the fuck?,0,0,TheMcgillacuddy,GQR5zsLHbYw,-0.4,2016-03-25 06:12:41,True,True
+2016-03-25T06:23:55,"So conflicted.... (00:19) ""A Time-Warner Company"" vs. Movie looks good and entertaining. What a predicament.",0,1,czdaniel1,GQR5zsLHbYw,0.6,2016-03-25 06:23:55,True,True
+2016-03-25T06:31:19,Matt Bomer at 1:15 ? ♥,0,0,sayali chavan,GQR5zsLHbYw,1.0,2016-03-25 06:31:19,True,True
+2016-03-25T11:16:11,looks good.,0,0,thedirtylesson,GQR5zsLHbYw,0.7,2016-03-25 11:16:11,True,True
+2016-03-25T15:39:37,"Still can't wait for this movie.  Read the script back in 2003 and it is still one of my favorites.  Read it 20 times.  Been waiting forever for this.  Shane, it better not suck.   You only have yourself to blame this time if it does.  Lethal Weapon 1, The Last Boy Scout, Long Kiss Goodnight, Kiss Kiss Bang Bang...and now the Nice Guys.   God  love ya', Shane Black.  The Greatest Screenwriter of all Time",0,0,jason thompson,GQR5zsLHbYw,0.26481481481481484,2016-03-25 15:39:37,True,True
+2016-03-25T15:40:01,This looks good.,0,0,fideldesu,GQR5zsLHbYw,0.7,2016-03-25 15:40:01,True,True
+2016-03-25T16:25:38,Russell Crowe and Ryan Gosling are such a natural team!! ...  Can... not... wait... for... this!!!,0,0,Artemisia Gentileschi,GQR5zsLHbYw,0.152587890625,2016-03-25 16:25:38,True,True
+2016-03-25T18:23:05,Just when you think Hollywood is running out of ideas....this movie looks good. Let us hope they didn't use all the good parts on the trailer.,0,0,Anthony Rymer,GQR5zsLHbYw,0.7,2016-03-25 18:23:05,True,True
+2016-03-25T18:49:56,Seems entertaining.,0,0,McGooness,GQR5zsLHbYw,0.5,2016-03-25 18:49:56,True,True
+2016-03-26T03:36:56,Fucking amazing trailer!,0,0,Dwight West,GQR5zsLHbYw,0.7500000000000001,2016-03-26 03:36:56,True,True
+2016-03-26T04:22:22,Sold!,0,0,pooyan6969,GQR5zsLHbYw,0.0,2016-03-26 04:22:22,True,True
+2016-03-26T07:43:26,It's hilarious.,0,0,CeltikDarc,GQR5zsLHbYw,0.5,2016-03-26 07:43:26,True,True
+2016-03-26T10:44:45,I haven't seen a good mystery movie in a while.,9,0,micheal cameron,GQR5zsLHbYw,0.7,2016-03-26 10:44:45,True,True
+2016-03-26T14:41:03,I saw this trailer in front of Batman v Superman yesterday. The whole theatre laughed their ass of at the last part of the trailer.,0,0,Halberdier17,GQR5zsLHbYw,0.3,2016-03-26 14:41:03,True,True
+2016-03-26T16:39:36,I feel like I just watched the whole movie...those gags would have been way better as a surprise in the theater.,0,0,Duncan Monroe,GQR5zsLHbYw,0.35,2016-03-26 16:39:36,True,True
+2016-03-26T18:42:17,Goofy Ryan Gosling? I'm in!,83,0,Fahmi Sani,GQR5zsLHbYw,0.625,2016-03-26 18:42:17,True,True
+2016-03-26T20:50:21,Truly hoping all the funny parts aren't just in this trailer...,0,0,Rudy K,GQR5zsLHbYw,0.25,2016-03-26 20:50:21,True,True
+2016-03-26T22:05:00,Russell crowe is better than Ryan Gosling.,0,0,Nemanja Jeremic,GQR5zsLHbYw,0.5,2016-03-26 22:05:00,True,True
+2016-03-26T22:16:42,Wow,0,0,Zell K.,GQR5zsLHbYw,0.1,2016-03-26 22:16:42,True,True
+2016-03-26T23:52:03,"This got some laughs out of me and made me want to see the movie. Hear that, Ghostbusters? This is how you market a comedy. You make the audience laugh and want to see more. Take notes.",328,10,beggar1015,GQR5zsLHbYw,0.4,2016-03-26 23:52:03,True,True
+2016-03-27T01:30:09,please don't suck.  please be as good as kiss kiss bang bang,0,0,busywl69,GQR5zsLHbYw,0.7,2016-03-27 01:30:09,True,True
+2016-03-27T12:09:59,How does Ryan Gosling still look hot with that moustache?,11,0,Elena Ivanova,GQR5zsLHbYw,0.25,2016-03-27 12:09:59,True,True
+2016-03-27T13:54:18,This movie looks incredible,0,0,DwRockett,GQR5zsLHbYw,0.9,2016-03-27 13:54:18,True,True
+2016-03-27T20:20:23,at 2:04 is that a FUCKING BUMBLE BEE,5,0,Bianca Logan,GQR5zsLHbYw,-0.6,2016-03-27 20:20:23,True,True
+2016-03-28T13:00:16,I am entertained.,18,1,Blood Angel,GQR5zsLHbYw,0.0,2016-03-28 13:00:16,True,True
+2016-03-28T16:43:49,"lmao i have never seen these 2 in an outright comedy, this looks fun",0,0,slimsilk1,GQR5zsLHbYw,0.44999999999999996,2016-03-28 16:43:49,True,True
+2016-03-28T18:31:36,"I don't know what it is about this trailer/movie, but like every time I see it pop up as an ad before my YouTube vids, I can't help but watch the damn thing. I think this is how you make a good trailer, and perhaps even a good movie. Even when  I don't wanna watch it.... I HAVE to watch it.",0,0,Astral Lexicon,GQR5zsLHbYw,0.7,2016-03-28 18:31:36,True,True
+2016-03-28T19:29:06,This is the strangest super hero movie ever...,145,5,EVERYSECOND,GQR5zsLHbYw,0.3333333333333333,2016-03-28 19:29:06,True,True
+2016-03-28T21:55:42,"Can't remember the last time I was actually laughing when watching trailer. That was good one, really",0,0,Denis Pak,GQR5zsLHbYw,0.22499999999999998,2016-03-28 21:55:42,True,True
+2016-03-28T23:49:30,"someone name the song towards the end, CCR sounding, let's see who can name it first! go!",0,0,Kenneth Roberts,GQR5zsLHbYw,0.390625,2016-03-28 23:49:30,True,True
+2016-03-28T23:50:23,"you ALL suck and lose, hah",0,0,Kenneth Roberts,GQR5zsLHbYw,0.0,2016-03-28 23:50:23,True,True
+2016-03-29T15:04:57,I kinda really want to see this.,26,1,Kayak1088,GQR5zsLHbYw,0.2,2016-03-29 15:04:57,True,True
+2016-03-29T19:02:06,"my husband is missing,then the look of Ryan!!!!!!!! this film is ganna be greeeeeeat",7,0,handsom.chris,GQR5zsLHbYw,0.0,2016-03-29 19:02:06,True,True
+2016-03-29T20:56:22,Ryan higas song should be played,26,4,Zombiesize,GQR5zsLHbYw,0.0,2016-03-29 20:56:22,True,True
+2016-03-31T04:07:05,Gosling in a SPEAKING role? Sounds risky but based on what I've seen I'm willing to chance it.,0,0,Nerv ClaX,GQR5zsLHbYw,0.25,2016-03-31 04:07:05,True,True
+2016-03-31T05:51:44,Haha!,5,0,Lieutenant Prick,GQR5zsLHbYw,0.25,2016-03-31 05:51:44,True,True
+2016-03-31T21:08:01,i need to watch this.,0,0,Terri Makatu,GQR5zsLHbYw,0.0,2016-03-31 21:08:01,True,True
+2016-04-01T02:07:39,Can you upload this video in color please? I would absolutely love it!,0,1,Jonathan Abbe,GQR5zsLHbYw,0.625,2016-04-01 02:07:39,True,True
+2016-04-01T02:41:07,Sold.,0,0,Patrick_Shanahan,GQR5zsLHbYw,0.0,2016-04-01 02:41:07,True,True
+2016-04-02T13:44:23,"The song at the end of the trailer, for those of you without correct musical taste, is Long Cool Woman In a Black Dress by The Hollies",1,0,H.U.N.K,GQR5zsLHbYw,0.03333333333333333,2016-04-02 13:44:23,True,True
+2016-04-02T17:20:26,What is the song used in this trailer? If you know please tell me. Thank you :),0,3,Thomas Fernandez,GQR5zsLHbYw,0.5,2016-04-02 17:20:26,True,True
+2016-04-03T17:32:54,Kiss Kiss Bang Bang 2! Finally!,0,0,Rigsby 1,GQR5zsLHbYw,0.0,2016-04-03 17:32:54,True,True
+2016-04-07T18:41:20,Damn if that ain't funny I don't what is? Can't wait to see this.,7,0,Duane Lassiter,GQR5zsLHbYw,0.25,2016-04-07 18:41:20,True,True
+2016-04-11T00:08:38,Yes!! Love that song towards the ending,0,0,Drew1973,GQR5zsLHbYw,0.5,2016-04-11 00:08:38,True,True
+2016-04-11T00:14:15,"Yes!! Love that song, Long Cool Woman 1971",0,0,Drew1979,GQR5zsLHbYw,0.26666666666666666,2016-04-11 00:14:15,True,True
+2016-04-11T01:25:13,Ryan gosling smiling like he lit a bag of dog shit on fire on someone's doorstep when they're running away...,0,0,CLR Vision,GQR5zsLHbYw,-0.2,2016-04-11 01:25:13,True,True
+2016-04-11T04:41:55,Looks like 90's movie!,0,0,Vinnii Miranda,GQR5zsLHbYw,0.0,2016-04-11 04:41:55,True,True
+2016-04-12T05:29:28,he's a real human bean..,0,1,Naufal Muflih,GQR5zsLHbYw,0.0,2016-04-12 05:29:28,True,True
+2016-04-12T07:47:44,staring ryan higa!,0,0,TLB54321,GQR5zsLHbYw,0.0,2016-04-12 07:47:44,True,True
+2016-04-12T20:34:55,"They sold me when I saw this movie is from the same director of ""Kiss Kiss Bang Bang"". And the trailer... lmao from beginning to end. Must watch.",1,0,José Díaz L.,GQR5zsLHbYw,0.3,2016-04-12 20:34:55,True,True
+2016-04-13T10:24:43,nice guys finish last.,0,0,ganbat e,GQR5zsLHbYw,0.3,2016-04-13 10:24:43,True,True
+2016-04-14T01:10:59,Looks like another film version of The Big Sleep... should be good!!,0,0,Caleb983,GQR5zsLHbYw,0.5,2016-04-14 01:10:59,True,True
+2016-04-14T05:33:01,this movie looks so fucking stupid. I cannot believe the guy who directed this film is going to make a new Predator sequel. Smh.,0,0,Niggoroth,GQR5zsLHbYw,-0.3318181818181818,2016-04-14 05:33:01,True,True
+2016-04-14T15:41:49,what's the song because i like it ?,0,1,denis charlier,GQR5zsLHbYw,0.0,2016-04-14 15:41:49,True,True
+2016-04-14T21:05:40,Why do people do this! Killing each other then throwing them away over a fence! Why 😭😭😭. It makes no sense!!!! Why do people hurt each other! He kills a guy with walking him with a gun! Why do people do this! What if that was you being killed by that guy???? You wouldn't want people watching a movie about people who killed you!! Like this if you agree,0,0,Kman 4life,GQR5zsLHbYw,-0.284527587890625,2016-04-14 21:05:40,True,True
+2016-04-15T01:08:55,I just was looking for nigahiga nice guys and found this... so yeah,0,0,YNQ,GQR5zsLHbYw,0.6,2016-04-15 01:08:55,True,True
+2016-04-16T22:52:26,Matt Bomer!!!!!!!!!,0,1,Hafsa Gurey,GQR5zsLHbYw,0.0,2016-04-16 22:52:26,True,True
+2016-04-17T02:14:09,THE last scene though. hahaha!,0,0,Daniyal Asif Khan,GQR5zsLHbYw,0.125,2016-04-17 02:14:09,True,True
+2016-04-17T13:29:01,Oh my god this looks hilarious! I hope the good jokes weren't spoiled though.,3,0,OldPervertedHerbert,GQR5zsLHbYw,0.6625,2016-04-17 13:29:01,True,True
+2016-04-17T13:29:01,Oh my god this looks hilarious! I hope the good jokes weren't spoiled though.,14,0,OldPervertedHerbert,GQR5zsLHbYw,0.6625,2016-04-17 13:29:01,True,True
+2016-04-17T14:54:42,Yup. I'll be seeing this one.,0,0,Chorrell Piqué,GQR5zsLHbYw,0.0,2016-04-17 14:54:42,True,True
+2016-04-18T00:43:54,matt bomer as villian? SOLD!!,2,0,Zara Stern,GQR5zsLHbYw,0.0,2016-04-18 00:43:54,True,True
+2016-04-21T10:01:23,"This looks brilliant, shane black is one of the masters behind the camera, brought us all lots of great movies. looking forward tot the new predator film, hopefully somewhere down the line I hope there is a lethal weapon 5........Do it, just one more time shane! :)",0,0,Meditation Vacation,GQR5zsLHbYw,0.2798926767676767,2016-04-21 10:01:23,True,True
+2016-04-21T17:21:38,I want to see this right now!,0,0,Chandreyi Sen,GQR5zsLHbYw,0.3571428571428571,2016-04-21 17:21:38,True,True
+2016-04-21T22:11:00,They are both laughing in the last shot :),0,0,omertadmn,GQR5zsLHbYw,0.25,2016-04-21 22:11:00,True,True
+2016-04-23T23:54:16,What is the name of the song?,7,8,Connor Nicholas,GQR5zsLHbYw,0.0,2016-04-23 23:54:16,True,True
+2016-04-24T12:09:13,"tbh i only came here to check if the lady in here is in 8 mile too. b rabbits mom or ""the crying spagetti momster"" lol...idk im obsessed",0,0,a blob,GQR5zsLHbYw,-0.2333333333333333,2016-04-24 12:09:13,True,True
+2016-04-24T12:18:05,1:34 song?,0,0,a blob,GQR5zsLHbYw,0.0,2016-04-24 12:18:05,True,True
+2016-04-25T05:27:07,Song?,0,0,Roger Powers,GQR5zsLHbYw,0.0,2016-04-25 05:27:07,True,True
+2016-04-25T18:29:38,This looks like the movie I THOUGHT Inherent Vice was going to be.,0,0,GentlemanBystander,GQR5zsLHbYw,0.0,2016-04-25 18:29:38,True,True
+2016-04-25T21:52:30,LOLOLOLOLOL>......I already want to see the sequel!!! Fuckin crazy...Gosling throwin is balls up every five minutes like a b!tch??/ Sweet!,0,0,musicmsl,GQR5zsLHbYw,0.4375,2016-04-25 21:52:30,True,True
+2016-04-27T00:22:16,Dude this looks like a good movie,12,2,Kimberly Whitney Perez,GQR5zsLHbYw,0.7,2016-04-27 00:22:16,True,True
+2016-04-27T01:06:51,"Saw this movie last year, fucking great, definitely going to watch again.",0,0,Cynthia M,GQR5zsLHbYw,0.26666666666666666,2016-04-27 01:06:51,True,True
+2016-04-27T09:49:02,"Yes, the next Shane Black film. So excited",4,0,astrodogg21,GQR5zsLHbYw,0.06944444444444445,2016-04-27 09:49:02,True,True
+2016-04-28T05:42:25,This looks promising.  Might be a sleeper hit.,0,0,Frank Westmoreland,GQR5zsLHbYw,0.2,2016-04-28 05:42:25,True,True
+2016-04-28T09:02:34,"Anyone else hear the song, see Ryan Gosling, and think ""Remember the Titans""?",6,0,Daniel Le,GQR5zsLHbYw,0.0,2016-04-28 09:02:34,True,True
+2016-04-28T13:04:41,"song? towards the end 70s like. I remember it was in ""remember the titans""",0,2,TheKhmercha,GQR5zsLHbYw,0.0,2016-04-28 13:04:41,True,True
+2016-04-29T10:10:20,"""first we gotta get rid of this body"" (now im going to watch it lol)",0,0,gman93,GQR5zsLHbYw,0.525,2016-04-29 10:10:20,True,True
+2016-05-01T00:39:58,"fuck I thought that was John Goodman not Russell crowe at first. thinking john lost a lot of weight but no, Russell gained a lot.",37,4,professorchaosX94,GQR5zsLHbYw,-0.07500000000000001,2016-05-01 00:39:58,True,True
+2016-05-01T02:00:25,Oh so THIS is the one Mark Wahlberg and Will Ferrell passed up.,2,3,Miguel Fernandez,GQR5zsLHbYw,0.0,2016-05-01 02:00:25,True,True
+2016-05-01T23:21:54,Want a toothpick?,0,0,DEFxRECON,GQR5zsLHbYw,0.0,2016-05-01 23:21:54,True,True
+2016-05-02T01:17:37,wut,0,0,Beaterino,GQR5zsLHbYw,0.0,2016-05-02 01:17:37,True,True
+2016-05-02T01:39:13,The scream in the car is the best ever.,1,1,jmua04,GQR5zsLHbYw,1.0,2016-05-02 01:39:13,True,True
+2016-05-02T09:52:49,I'm right here mate,0,0,Amelia El-halabi,GQR5zsLHbYw,0.2857142857142857,2016-05-02 09:52:49,True,True
+2016-05-02T20:58:28,Now THIS is a great trailer.,219,1,FlyingOverTr0ut,GQR5zsLHbYw,0.8,2016-05-02 20:58:28,True,True
+2016-05-03T19:59:59,"I want this film, NOW!",0,0,Richard Fukuda,GQR5zsLHbYw,0.0,2016-05-03 19:59:59,True,True
+2016-05-03T21:12:05,I'm starting to get really tired of superheroes movies every month wish there were more of this feel good comedy.....,8,2,Anndrezzz,GQR5zsLHbYw,0.19999999999999998,2016-05-03 21:12:05,True,True
+2016-05-04T16:31:54,"I am sure this will be a great picture however, it's another film without any hispanic actors as Hollywoods J's continue to show their Hatred of all Hispanic including Trump!!",0,1,izzy4053,GQR5zsLHbYw,0.75,2016-05-04 16:31:54,True,True
+2016-05-05T00:55:37,Please oh Please be different from the mounds of crap coming out of Hollywood these days.  It's got potential...,0,0,Banff1998,GQR5zsLHbYw,-0.26666666666666666,2016-05-05 00:55:37,True,True
+2016-05-05T01:11:15,I like this back when it was called Ray Donovan.,0,0,Matt Poslusny,GQR5zsLHbYw,0.0,2016-05-05 01:11:15,True,True
+2016-05-06T21:56:07,"Looks like the best WB movie of 2016, can't wait",4,1,Yago Pacheco,GQR5zsLHbYw,1.0,2016-05-06 21:56:07,True,True
+2016-05-07T00:31:07,I feel like I just saw the whole movie. .....,0,0,Jonathan George,GQR5zsLHbYw,0.2,2016-05-07 00:31:07,True,True
+2016-05-07T15:15:52,Reminds me of the big lebowski,0,0,Delvin09,GQR5zsLHbYw,0.0,2016-05-07 15:15:52,True,True
+2016-05-10T22:27:20,Rod Stewart- (I know) I'm losing you :) First song on the trailer.,0,0,Jose Taveras,GQR5zsLHbYw,0.375,2016-05-10 22:27:20,True,True
+2016-05-11T00:03:53,I'm so hyped for this RYAN GOSLING GET IT BITCHES!,13,2,Kk x como,GQR5zsLHbYw,0.0,2016-05-11 00:03:53,True,True
+2016-05-11T15:23:33,The Nice Guys 2016 Stream Now ==> https://plus.google.com/+KatieBrooklynJenz/posts/iDttm8MKKcd,3,0,Raisa Renkard,GQR5zsLHbYw,0.6,2016-05-11 15:23:33,True,True
+2016-05-12T18:17:17,ryan gosling screaming is the funniest shit ever,0,0,Halenur Filiz,GQR5zsLHbYw,-0.2,2016-05-12 18:17:17,True,True
+2016-05-12T22:31:17,Holy cow. When did Russell Crowe become John Goodman,2,1,C.C. Ryder,GQR5zsLHbYw,-0.13333333333333333,2016-05-12 22:31:17,True,True
+2016-05-14T02:50:52,B O M B  M AS S I V E  C R A T E R  with dumb investors scattered dead around the bottom.  Some people will see anything. There won't be enough of those idiots to salvage this flop.,1,1,Texas Arcane,GQR5zsLHbYw,-0.34375,2016-05-14 02:50:52,False,True
+2016-05-14T03:53:13,"I never watch movies.. I haven't been to a movie theatre even once for about 1 full year but I think I actually want to go see this. It just seems like they really developed the characters.. Instead of people just acting like a normal everyday person with a story plot, it seemed like they worked on this one. And plus, it has an older 80s/90s vibe to it. I'm interested!",0,0,Jaz Simone,GQR5zsLHbYw,0.10989583333333333,2016-05-14 03:53:13,False,True
+2016-05-14T21:35:14,I already had the chance to see this movie at an early press screening. It's a great buddy action comedy thriller mystery and the chemistry between Crow and Gosling is terrific! :) If you like to see my full review feel free to take a look at my channel! :),0,2,Jimmy Cage,GQR5zsLHbYw,0.35625,2016-05-14 21:35:14,False,True
+2016-05-15T05:09:52,I cant wait !!,0,0,Madelyn Fuentes,GQR5zsLHbYw,0.0,2016-05-15 05:09:52,False,True
+2016-05-15T05:38:30,The Nice Guys 2016 Stream Now ==> https://plus.google.com/+SiskaMirandaLaos/posts/hZYSegKQKGU,1,0,Melly Skaventa,GQR5zsLHbYw,0.6,2016-05-15 05:38:30,False,True
+2016-05-15T23:14:03,For the sequel they should cross paths with The Other Guys and team up for some ass kicking shit.,0,0,RetroSteve,GQR5zsLHbYw,-0.10833333333333334,2016-05-15 23:14:03,False,True
+2016-05-16T00:14:01,why does every movie ryan gosling stars in have an 80's feel to it,0,1,Tomas Canevaro,GQR5zsLHbYw,0.0,2016-05-16 00:14:01,False,True
+2016-05-16T10:02:18,91 PERCENT ON RT? HELL YES,49,2,TheRanchSauce,GQR5zsLHbYw,0.0,2016-05-16 10:02:18,False,True
+2016-05-16T12:04:36,(( The Nice Guys || Now Available in Full HD Watch Now )) https://plus.google.com/+EllieSeager/posts/VPZnGjDQra9,1,0,ameliacondorus,GQR5zsLHbYw,0.45,2016-05-16 12:04:36,False,True
+2016-05-16T18:31:13,What is the name of the first song in the trailer ?,1,6,Emil Hole,GQR5zsLHbYw,0.25,2016-05-16 18:31:13,False,True
+2016-05-17T13:27:46,This looks delicious!!,0,0,Jeff T,GQR5zsLHbYw,1.0,2016-05-17 13:27:46,False,True
+2016-05-17T14:54:39,John Goodman is that you!??,0,0,Grimey,GQR5zsLHbYw,0.0,2016-05-17 14:54:39,False,True
+2016-05-17T16:18:32,Reminds me of Kiss Kiss Bang Bang :) love it,1,0,Sazal Hossain,GQR5zsLHbYw,0.5,2016-05-17 16:18:32,False,True
+2016-05-17T16:43:34,Ok I'm sold based on the trailer,0,0,ZeVio74,GQR5zsLHbYw,0.5,2016-05-17 16:43:34,False,True
+2016-05-17T17:26:54,STREAM NOW...!!!!  The Nice Guys Movie(2016) #Quality Check-Now : https://plus.google.com/103820697798408922857/posts/bJBUxxmFNeN,1,0,Julia Morgan,GQR5zsLHbYw,0.6,2016-05-17 17:26:54,False,True
+2016-05-18T00:05:10,Who else came here after seing Chris Stuckmann's review,120,7,Ayden Projain,GQR5zsLHbYw,0.0,2016-05-18 00:05:10,False,True
+2016-05-18T05:41:21,"I see a lot of Elmore Leonard & Donald Westlake homage here, and I like it. Will watch.",0,0,Kat Sam,GQR5zsLHbYw,0.0,2016-05-18 05:41:21,False,True
+2016-05-18T11:00:41,"2:20 ""Run.""     (cue AWOLNATION - RUN)",19,4,Barry Villacarillo,GQR5zsLHbYw,0.0,2016-05-18 11:00:41,False,True
+2016-05-18T12:55:14,im interested at least,0,0,Kristhor,GQR5zsLHbYw,-0.024999999999999994,2016-05-18 12:55:14,False,True
+2016-05-18T18:44:03,so wonderful feels like lethal weapon but different and better the pairing of crowe and gosling will b as great as peter falk and alan arkin in The In Laws.... a movie from 1977 lol,0,0,Andy Colfer,GQR5zsLHbYw,0.6199999999999999,2016-05-18 18:44:03,False,True
+2016-05-18T20:33:44,Im personally not a fan of Ryan but love Russell so i may check this out :),0,1,ShadowSICK66,GQR5zsLHbYw,0.3333333333333333,2016-05-18 20:33:44,False,True
+2016-05-18T20:59:27,"Ryan Goslings, Russell Crow and MATT BOMER!",16,8,TheFlowMind,GQR5zsLHbYw,0.0,2016-05-18 20:59:27,False,True
+2016-05-19T11:16:35,"I got to see this last night in an advance screening followed by a Q&A with the screenwriter Shane Black (who also wrote and directed Iron Man 3) and producer Joel Silver. Guys, this film is BRILLIANT!!",0,1,WeegieMovies,GQR5zsLHbYw,0.2777777777777778,2016-05-19 11:16:35,False,True
+2016-05-19T22:13:58,"Movie Review: Warning this is an opinion so if you don't want to hear it or are offended then go fuck yourself: I absolutely adored this movie! I don't often love a movie and to be honest usually I am pretty harsh on them but this is a great film. It's not the best film ever made or anything but it's flawless for what it's trying to be which is a stupid noir buddy cop comedy! When I say ""stupid"" I am referring to the good kind of stupid. This movie was interesting, had a great plot, great characters, fantastic script, and even really good film making as a bonus!!! 9.5/10  Video Review: I am not the best typer so if you'd rather just hear me talk about the movie. I do movie reviews on my channel and I have one for this movie!",0,0,Virtual Tyler,GQR5zsLHbYw,0.35000000000000003,2016-05-19 22:13:58,False,True
+2016-05-19T23:31:10,what's it rated?,0,2,Laggin Lambo,GQR5zsLHbYw,0.0,2016-05-19 23:31:10,False,True
+2016-05-20T12:16:36,"Honestly, if I were hallucinating a giant fucking bee, I'd probably freak out just as much as Ryan Gosling did.",0,0,LordJaeger6277,GQR5zsLHbYw,0.05,2016-05-20 12:16:36,False,True
+2016-05-20T16:50:50,Just saw it last night. I can safely say that it absolutely delivers. It's without a doubt one of the better films so far this year.,418,8,Anthony Sanchez,GQR5zsLHbYw,0.26,2016-05-20 16:50:50,False,True
+2016-05-20T20:00:09,"can't wait for this, Shane black always amazing lines. don't give up your gay job",0,0,Joshua Max,GQR5zsLHbYw,0.2833333333333334,2016-05-20 20:00:09,False,True
+2016-05-20T23:27:22,This was surprisingly hilarious,0,0,Insanity On A Bun,GQR5zsLHbYw,0.5,2016-05-20 23:27:22,False,True
+2016-05-21T03:49:38,*Watch The Nice Guys **#full** hd Movie now* Watch at : https://plus.google.com/100248907658507485961/posts/CVDZXTA9Lar,2,0,John Diego,GQR5zsLHbYw,0.475,2016-05-21 03:49:38,False,True
+2016-05-21T07:23:25,This Trailer shows way too much I am so glad i did not watch this trailer before the movie.,5,1,Hon,GQR5zsLHbYw,0.5,2016-05-21 07:23:25,False,True
+2016-05-21T10:08:29,"Pretty good movie, nice pacing, good action, and comedy, all the actors did a great job, would recommend seeing if you just want an enjoyable film where you can laugh and be entertained.",0,0,Bleedy Schastlivyy,GQR5zsLHbYw,0.49375,2016-05-21 10:08:29,False,True
+2016-05-21T11:02:51,"""Whatever happened to offer me 20 buck?"" ""The recession.""  Fuck me, I want to see this movie so bad!",0,0,Skerdy,GQR5zsLHbYw,-0.6375,2016-05-21 11:02:51,False,True
+2016-05-21T16:03:17,the trailer is revealing too much,19,7,yumi,GQR5zsLHbYw,0.2,2016-05-21 16:03:17,False,True
+2016-05-21T19:45:00,i saw this movie last month and i HIGHLY recommend you guys go see it. Its a amazing movie,5,0,Sidneysolove,GQR5zsLHbYw,0.25333333333333335,2016-05-21 19:45:00,False,True
+2016-05-21T20:18:43,When did Russell Crowe become John Goodman?,0,0,IKMNification,GQR5zsLHbYw,0.0,2016-05-21 20:18:43,False,True
+2016-05-22T01:17:48,i feel like i've just watched the whole movie. damn.,0,0,Maykıl Corç,GQR5zsLHbYw,0.2,2016-05-22 01:17:48,False,True
+2016-05-22T01:25:53,Just watched the movie. Never laughed so hard!,737,11,The Proud Sun Bro.,GQR5zsLHbYw,-0.3572916666666667,2016-05-22 01:25:53,False,True
+2016-05-22T02:04:22,Trailer reminds me of Kiss Kiss Bang Bang.,0,0,Crystal Itsasecrete,GQR5zsLHbYw,0.0,2016-05-22 02:04:22,False,True
+2016-05-22T07:09:53,Good film,0,0,Monika Wheeler,GQR5zsLHbYw,0.7,2016-05-22 07:09:53,False,True
+2016-05-22T14:00:27,what's the name of that song,0,3,Rory Whitnall,GQR5zsLHbYw,0.0,2016-05-22 14:00:27,False,True
+2016-05-22T17:23:05,So Maximus and the Driver faked their deaths to be cops lol?,7,0,Sherhan Mahmud,GQR5zsLHbYw,0.8,2016-05-22 17:23:05,False,True
+2016-05-23T00:59:03,Beginning of movie was confusing. Who was the boy in the house when car crashed ?,0,0,Taco O,GQR5zsLHbYw,-0.3,2016-05-23 00:59:03,False,True
+2016-05-23T01:00:00,The birds and the bee lol,0,0,Taco O,GQR5zsLHbYw,0.8,2016-05-23 01:00:00,False,True
+2016-05-23T02:16:33,This looks awesome.,1,0,Unguided Reaper,GQR5zsLHbYw,1.0,2016-05-23 02:16:33,False,True
+2016-05-23T02:50:40,Russell Crowe looks like Fred Flintstone.,6,0,kuei12,GQR5zsLHbYw,0.0,2016-05-23 02:50:40,False,True
+2016-05-23T08:54:47,I fucking love Shane Black. An off day for him is IRON MAN 3. God I love that man.,0,0,PurushaDesa,GQR5zsLHbYw,0.2777777777777778,2016-05-23 08:54:47,False,True
+2016-05-23T16:32:53,"welcome back ryan :* cant wait to see this one and the other film with emma , we've missed you since 2013 , you always make great movies :)",0,0,bah ben,GQR5zsLHbYw,0.395,2016-05-23 16:32:53,False,True
+2016-05-23T18:24:55,Nice guys was Awsome !! A must see movie..way better than I thought it would be,7,0,Jeremy Brown,GQR5zsLHbYw,0.71875,2016-05-23 18:24:55,False,True
+2016-05-23T21:16:17,Looks hilarious but i'm getting tired of movies showing the entire movie in the trailers. Like really showed wayy too much,0,0,boman279,GQR5zsLHbYw,0.1,2016-05-23 21:16:17,False,True
+2016-05-24T01:14:58,This movie was extremely entertaining! Loved it!,259,4,DownInFlames85,GQR5zsLHbYw,0.75,2016-05-24 01:14:58,False,True
+2016-05-25T08:07:44,this movies was freaking entertaining! probably my favorite movie of the year!,0,0,Cesar Acosta,GQR5zsLHbYw,0.625,2016-05-25 08:07:44,False,True
+2016-05-25T13:25:59,great movie! saw it last night. recommend it. laughed out loud.,0,0,Vadim Kozlov,GQR5zsLHbYw,0.45,2016-05-25 13:25:59,False,True
+2016-05-26T12:49:40,I thought it was hilarious and so did the rest of the audience judging by their reaction... a tonne of laughs.,0,0,JeebersMuhubbard,GQR5zsLHbYw,0.5,2016-05-26 12:49:40,False,True
+2016-05-26T19:46:16,an amazing movie the trailer is shit compared to the movie,0,0,motaz saleh,GQR5zsLHbYw,0.20000000000000004,2016-05-26 19:46:16,False,True
+2016-05-26T19:49:39,"Ugh... How many trailers are gonna synchronise the punches and hits with the beat of the music. It's gonna be this decade's ""trailer fad"".",1,0,Ryan McKenzie,GQR5zsLHbYw,0.5,2016-05-26 19:49:39,False,True
+2016-05-26T23:10:23,Sooo funny I look forward to this like so much 😁👍🏻,0,0,Julia Wheeler,GQR5zsLHbYw,0.225,2016-05-26 23:10:23,False,True
+2016-05-27T00:02:48,2:04 WTF?!,1,0,TheLun4tic,GQR5zsLHbYw,-0.625,2016-05-27 00:02:48,False,True
+2016-05-27T10:51:48,"Saw the movie without watching the trailer. Amazing movie, I can only recommend NOT watching the full trailer and just see the film",0,0,Arne Galjaard,GQR5zsLHbYw,0.3166666666666667,2016-05-27 10:51:48,False,True
+2016-05-27T21:05:16,not a good one at all,1,0,Pont Schurrle,GQR5zsLHbYw,-0.35,2016-05-27 21:05:16,False,True
+2016-05-28T01:06:56,this was really good. the end was a little weak but it was good otherwise,0,0,hameed,GQR5zsLHbYw,0.20937499999999998,2016-05-28 01:06:56,False,True
+2016-05-28T12:13:18,Epic movie! Great timing and perfect cast,0,0,Mailijo,GQR5zsLHbYw,0.6416666666666667,2016-05-28 12:13:18,False,True
+2016-05-28T16:48:26,"This trailer doesn't do it justice, just watched the movie and it's brilliant. ABSOLUTELY BRILLIANT LOVE IT",0,0,Yara Ehab,GQR5zsLHbYw,0.7666666666666666,2016-05-28 16:48:26,False,True
+2016-05-28T20:40:51,Saw it today. Loved it. Very funny. It has Deadpool style detective or action mixed with comedy. Very funny,0,0,ABond008ABond008,GQR5zsLHbYw,0.29,2016-05-28 20:40:51,False,True
+2016-05-29T10:13:08,"1:03, what is the name this song?",0,0,Ultras Zdrój,GQR5zsLHbYw,0.0,2016-05-29 10:13:08,False,True
+2016-05-29T14:31:42,0:57 when I don't get a free ice cream,1,0,caitie._.grace,GQR5zsLHbYw,0.4,2016-05-29 14:31:42,False,True
+2016-05-29T21:14:15,MUST SEE.,1,0,TonyVargasPo,GQR5zsLHbYw,0.0,2016-05-29 21:14:15,False,True
+2016-05-29T21:57:21,Would you recommend me to watch the trailer before the movie? (it's not available yet where I live) or watch the movie without seeing anything?,0,6,Frederick Core,GQR5zsLHbYw,-0.03181818181818183,2016-05-29 21:57:21,False,True
+2016-05-31T20:48:46,whats the ending song?(Goes thru half the trailer),0,0,Cricket EditsHD,GQR5zsLHbYw,-0.16666666666666666,2016-05-31 20:48:46,False,True
+2016-06-01T01:43:22,is this like a rush hour spin off,0,0,Tuan Dinh,GQR5zsLHbYw,0.0,2016-06-01 01:43:22,False,True
+2016-06-01T12:48:31,"I loved this movie, worth watching",5,0,GuitarGeek,GQR5zsLHbYw,0.5,2016-06-01 12:48:31,False,True
+2016-06-01T17:44:11,"""Marriage is buying a house for someone you hate""",0,0,TYLER K,GQR5zsLHbYw,-0.8,2016-06-01 17:44:11,False,True
+2016-06-01T20:23:30,Doesn't seem autistic enough for my liking.,0,0,LordTunnok,GQR5zsLHbYw,-0.1,2016-06-01 20:23:30,False,True
+2016-06-02T06:49:55,"That girl, she was rose in 'these final hours' i knew her face as soon as i saw her!",0,0,lotf99,GQR5zsLHbYw,0.3,2016-06-02 06:49:55,False,True
+2016-06-02T10:41:38,Pretty entertaining movie.,0,0,cw3le,GQR5zsLHbYw,0.375,2016-06-02 10:41:38,False,True
+2016-06-03T21:49:29,that was a very good movie ! one of my favortite this year,0,0,Bhurnner,GQR5zsLHbYw,1.0,2016-06-03 21:49:29,False,True
+2016-06-04T13:43:20,So... kind of similar to Kiss Kiss Bang Bang?,0,0,vwtrghldifuhert,GQR5zsLHbYw,0.3,2016-06-04 13:43:20,False,True
+2016-06-04T19:36:40,Best movie I've seen this year.  Everything from the cast to the damn plot twists was top notch. I highly recommend it. Ryan Gosling and Russel Crowe make a perfect movie duo.,805,13,LTTG,GQR5zsLHbYw,0.665,2016-06-04 19:36:40,False,True
+2016-06-04T22:12:01,this movie was so much fun,1,0,Marko Velimirovic,GQR5zsLHbYw,0.3,2016-06-04 22:12:01,False,True
+2016-06-05T03:48:00,This spoiler the entire film,0,0,AG64,GQR5zsLHbYw,0.0,2016-06-05 03:48:00,False,True
+2016-06-05T06:26:49,The funniest movie of 2016 so far! i love it!,0,0,kikasrbija1,GQR5zsLHbYw,0.375,2016-06-05 06:26:49,False,True
+2016-06-05T11:18:40,the last part was so funny,0,0,Mahasvin mate,GQR5zsLHbYw,0.125,2016-06-05 11:18:40,False,True
+2016-06-06T06:58:21,I Want to watch this movie!!!!😭😭😭😭,0,0,Rajni Chaudhary,GQR5zsLHbYw,0.0,2016-06-06 06:58:21,False,True
+2016-06-06T17:55:17,How do you like my ride big boy,0,0,TheMagnificentMeatball,GQR5zsLHbYw,0.0,2016-06-06 17:55:17,False,True
+2016-06-07T17:45:26,10/10,0,0,Michael Z,GQR5zsLHbYw,0.0,2016-06-07 17:45:26,False,True
+2016-06-09T06:10:35,"Really good movie, recommend it",0,0,TaseTea,GQR5zsLHbYw,0.7,2016-06-09 06:10:35,False,True
+2016-06-09T18:33:27,this movie title just cased me and my boyfriend to get into a fight he asked me what I wanted to do today I said I wanted to see nice guys and now we are fighting thanks nice guys,0,0,Sarah Avery,GQR5zsLHbYw,0.4666666666666666,2016-06-09 18:33:27,False,True
+2016-06-09T19:33:19,This movie should have been a box office hit.. :(,323,1,Rohit Rajagopal,GQR5zsLHbYw,-0.75,2016-06-09 19:33:19,False,True
+2016-06-10T19:11:12,Haha he's so cute in this role xD,0,0,firas salman,GQR5zsLHbYw,0.35,2016-06-10 19:11:12,False,True
+2016-06-11T16:20:53,"It's essentially Lethal Weapon. Russell Crowe is a fat Martin Riggs, and Ryan Gosling is a white Roger Murtaugh.",0,0,Georgy Philips,GQR5zsLHbYw,0.0,2016-06-11 16:20:53,False,True
+2016-06-11T21:42:25,look at the 5th vid pg pls,0,0,Eimear Fahey,GQR5zsLHbYw,0.0,2016-06-11 21:42:25,False,True
+2016-06-11T21:42:52,take that down now,1,0,Eimear Fahey,GQR5zsLHbYw,-0.15555555555555559,2016-06-11 21:42:52,False,True
+2016-06-12T03:07:17,this movie was so fucking terrible lol. misplaced humor all around garbage 1/10.,1,0,J,GQR5zsLHbYw,-0.13333333333333333,2016-06-12 03:07:17,False,True
+2016-06-12T12:54:20,I watched this movie yesterday it was great,0,0,asdftommihjkl,GQR5zsLHbYw,0.8,2016-06-12 12:54:20,False,True
+2016-06-12T13:27:45,This was an amazing movie 9/10 would recommend. Only reason it's not a 10 is because it needed to be 6 hours so I could enjoy even more!,0,0,Mr Boombastic,GQR5zsLHbYw,0.40625,2016-06-12 13:27:45,False,True
+2016-06-12T14:14:24,"one of the best movies recently, highly recommend it",0,0,puckoster,GQR5zsLHbYw,0.58,2016-06-12 14:14:24,False,True
+2016-06-14T05:55:50,Best movie ive seen all summer go you!,0,0,Mostly Original,GQR5zsLHbYw,1.0,2016-06-14 05:55:50,False,True
+2016-06-14T16:55:43,The humour really reminded me of It's Always Sunny in Philadelphia. If you like that show then go see this!,0,0,coolbean08,GQR5zsLHbYw,0.25,2016-06-14 16:55:43,False,True
+2016-06-15T03:52:15,Fantastic Movie!!,0,0,JustinD98,GQR5zsLHbYw,0.625,2016-06-15 03:52:15,False,True
+2016-06-15T14:41:51,"Just saw this at the cinema, Lethal Weapon this AIN'T.  Don't be fooled, it's barely funny at all, the action and plot suck, they try to make a humorous situation of a 13 year old girl referencing anal, and also putting her in many other situations that if I were the girl's father I would have absolutely banned her from making this movie. Some Hollywood sicko probably has her on the casting couch.  Compared to a truly great buddy cop movie like Lethal Weapon 1, this is an absolute shambles of a movie with nasty undertones to it. It also drags on and on and on, at least 25 minutes too long for how thin the plot and action are.  Russel Crowe is decent in it, Gosling is his usual insipid former Mickey Mouse Club child star one dimensional self.",1,1,Azure,GQR5zsLHbYw,0.04656862745098041,2016-06-15 14:41:51,False,True
+2016-06-16T14:08:10,Watch the full movie in HD quality: aidomination. com (without spaces) enjoy!,0,0,RahelM20,GQR5zsLHbYw,0.425,2016-06-16 14:08:10,False,True
+2016-06-16T17:36:53,does it have sex scenes?,0,1,hexclub,GQR5zsLHbYw,0.0,2016-06-16 17:36:53,False,True
+2016-06-16T18:39:18,Anyone think of nigahiga when they heard nice guys?,0,0,MetalMecha,GQR5zsLHbYw,0.6,2016-06-16 18:39:18,False,True
+2016-06-16T21:02:11,Definitely a future cult classic,0,0,A Reputable Man,GQR5zsLHbYw,0.08333333333333333,2016-06-16 21:02:11,False,True
+2016-06-16T22:26:21,One of my favourite movies this year... so good,0,0,James Wheeler,GQR5zsLHbYw,0.7,2016-06-16 22:26:21,False,True
+2016-06-17T15:16:09,Very funny,0,0,Ben Baxter,GQR5zsLHbYw,0.325,2016-06-17 15:16:09,False,True
+2016-06-17T21:41:01,I regret going to watch this movie without Mary J in my system. IT WOULD'VE BEEN 150% I still laughed my ass off damn. We need a sequel.,0,0,Mmala Mokone,GQR5zsLHbYw,0.7,2016-06-17 21:41:01,False,True
+2016-06-18T00:32:13,"just saw this film last night, can safely say it was an amazing movie and would definitely recommend it",0,0,xxx anime,GQR5zsLHbYw,0.275,2016-06-18 00:32:13,False,True
+2016-06-19T19:23:53,This is what I have to sit through for fathers day? Omgggggg :'(,2,0,Cosmic kitty,GQR5zsLHbYw,-1.0,2016-06-19 19:23:53,False,True
+2016-06-20T05:07:11,"I'm shocked at how many people think this is a ""good movie""... lol I feel sorry for you people that don't even understand why this film sucked. The jokes were terrible, the plot was CONVOLUTED as shit. I'm going into filmmaking, and I can tell you this shit isn't what people want to see. Make a real film with an actual plot that people can follow, and find something redeeming about. That's the goal. This film had no sense of redeeming quality to it... too many sheeple supporting these crap films. Sigh... also I don't need to hear the 91% rating on Rotten Tomatoes because the people that run that site get paid to give higher ratings...",1,0,MedicinalOnlyCo.,GQR5zsLHbYw,0.05,2016-06-20 05:07:11,False,True
+2016-06-20T19:58:30,I am so glad that I didn't see this trailer before I saw the movie. This shit spoils everything xD,0,0,Theshowdown 93,GQR5zsLHbYw,0.15,2016-06-20 19:58:30,False,True
+2016-06-20T21:43:25,I hated this slapstick piece of shit movie. Laurel and Hardy humor.,0,0,Noname Noname,GQR5zsLHbYw,-0.55,2016-06-20 21:43:25,False,True
+2016-06-22T23:09:28,"The trailer doesn't spoil the movie at all lol what you see here is not how it was in the film, worth the watch, I loved it!",0,0,109367,GQR5zsLHbYw,0.6583333333333333,2016-06-22 23:09:28,False,True
+2016-06-23T16:18:00,"It is genuinely 70's not just the looks but even the absurd plot and screenplay truly felt retro, just dont think LA confidential because this is not a gritty kind of crime movie and also this movie got some hot Jailbaits!",0,0,Tokwang Panis,GQR5zsLHbYw,0.0425,2016-06-23 16:18:00,False,True
+2016-06-24T09:17:48,"I loved the movie and i loved Kiss Kiss bang bang, but what I didn't like about both Movies is that some of the most important and Most funny parts were given away in the trailer. I mean the ending is technically in the trailer!",1,0,HerrMeier007,GQR5zsLHbYw,0.3421875,2016-06-24 09:17:48,False,True
+2016-06-26T22:07:49,"This was a great, funny and entertaining movie, one of the best of this year, a must watch!.",7,0,Clank Zoka,GQR5zsLHbYw,0.6375,2016-06-26 22:07:49,False,True
+2016-06-28T03:47:49,"Nice guys finish last, that's why I'll treat you like trash",1,0,RussiaWasMyIdea,GQR5zsLHbYw,0.3,2016-06-28 03:47:49,False,True
+2016-06-29T03:01:09,Don't watch this trailer just go watch this movie! You won't regret it. It's hilarious! It surprises you! Don't let the trailer spoil some of the best moments.,0,0,Mooneken,GQR5zsLHbYw,0.890625,2016-06-29 03:01:09,False,True
+2016-06-30T04:46:09,"""My husband, he's been gone since the funeral.."" [Ryan looks at the ashes] Ryan: ""shit""  lol i love how much ryan turns red when he tries not to laugh",0,0,greatgood5,GQR5zsLHbYw,0.21428571428571427,2016-06-30 04:46:09,False,True
+2016-07-02T03:17:38,I Saw Ty Simpkins,0,0,Liam Neeson,GQR5zsLHbYw,0.0,2016-07-02 03:17:38,False,True
+2016-07-03T04:55:48,"It's an outright fucking misery that this bombed. When it comes to movies released recently, this is one of few where I found myself truly desiring a sequel.",107,4,Roger Rabbit,GQR5zsLHbYw,-0.26666666666666666,2016-07-03 04:55:48,False,True
+2016-07-03T16:49:35,While this was a good film. The big problem is this trailer. This trailer *literally* shows all the good parts of the film. I would've enjoyed it a lot more if they'd done a better job with this trailer!,1,0,Wenn Ethicus,GQR5zsLHbYw,0.5041666666666667,2016-07-03 16:49:35,False,True
+2016-07-04T06:20:57,omfg where can i watch this?! i can't see any times for it anywhere and its not online either :c,0,0,Meowsome Minerva,GQR5zsLHbYw,-0.75,2016-07-04 06:20:57,False,True
+2016-07-04T09:27:16,the trailer is better than the movie tbh..i'm watching it rn and 30min hv passed and its still so boring,0,0,1multikentish,GQR5zsLHbYw,-0.25,2016-07-04 09:27:16,False,True
+2016-07-09T00:40:33,This movie was so damn funny.,1,0,NoxZero,GQR5zsLHbYw,0.25,2016-07-09 00:40:33,False,True
+2016-07-09T02:57:12,"just watched this. awesome, thank you warner bros.",0,0,Dany-G,GQR5zsLHbYw,1.0,2016-07-09 02:57:12,False,True
+2016-07-10T10:44:11,"Pathetic movie - porn with underage kids saying things I don't care to repeat. This is one of the most disgusting & vulgar movies. Shame on Russel Crowe - Pig, the other idiot that 'starred' and Warner Bros Pictures for attempting to normalize shit like this. Absolutely outrageous.",1,2,sidesplitters,GQR5zsLHbYw,-0.540625,2016-07-10 10:44:11,False,True
+2016-07-10T18:18:25,i got here after seeing the cute af ship drawings,0,0,Pensight,GQR5zsLHbYw,0.5,2016-07-10 18:18:25,False,True
+2016-07-10T21:14:04,Haven't laughed as hard or as much in a long time. Great film!,2,0,DrFootFaceHandManFace,GQR5zsLHbYw,0.33958333333333335,2016-07-10 21:14:04,False,True
+2016-07-13T04:36:40,This movie is the best comedy I've seen in years!!!!!! This 100% deserves a sequel!!!!!!!,3,0,Joseph Scaduto,GQR5zsLHbYw,1.0,2016-07-13 04:36:40,False,True
+2016-07-13T18:45:51,they should have casted robert de niro,0,0,European Patriot,GQR5zsLHbYw,0.0,2016-07-13 18:45:51,False,True
+2016-07-15T18:54:00,My stomach hurt from laughing so hard.  Highly recomment you go buy a ticket today to nice guys.,0,0,Terry E Gunn,GQR5zsLHbYw,0.1561111111111111,2016-07-15 18:54:00,False,True
+2016-07-18T20:10:17,The beggining was hilarious LOL,0,0,Savio Yousif,GQR5zsLHbYw,0.65,2016-07-18 20:10:17,False,True
+2016-07-18T20:46:56,watching this after what happened in Nice feels kinda akward,0,0,Toxic Toz,GQR5zsLHbYw,0.6,2016-07-18 20:46:56,False,True
+2016-07-23T11:25:49,this is shit,1,0,gfdgf2,GQR5zsLHbYw,-0.2,2016-07-23 11:25:49,False,True
+2016-07-24T15:39:02,Russel Crowe in a comedy? WTF?,1,1,Agustin Camejo,GQR5zsLHbYw,-0.5,2016-07-24 15:39:02,False,True
+2016-07-24T16:46:12,"I saw it and no longer look at Ryan the desirable way I look at him as Noah from the Notebook. Man, he's hilarious in this.  Not that attracted to Matt Bomer anymore even he's basically a Greek God, cause omg he played the sociopath so well I can't get the image out of my head lol. Russell has always been great. Main point is their acting was on point and the movie was very entertaining.",0,0,Kan Duong,GQR5zsLHbYw,0.41666666666666663,2016-07-24 16:46:12,False,True
+2016-07-24T22:22:11,what's the name of the song starting on 1:03 ? (and don't answer darude - sandstorm),0,0,Bryangantengful,GQR5zsLHbYw,0.0,2016-07-24 22:22:11,False,True
+2016-07-25T06:14:54,This is one of the funniest movies I've ever seen.,0,0,Vals Gal,GQR5zsLHbYw,0.0,2016-07-25 06:14:54,False,True
+2016-07-27T16:38:16,6/10,0,0,Saowapa Bunpermpoon,GQR5zsLHbYw,0.0,2016-07-27 16:38:16,False,True
+2016-07-27T19:31:34,It sucks the movie was a flop at the box office  It's my new favorite movie and nat a lot of people know about it   It's like originality doesn't exist anymore to the world   Unoriginal the way to go if you want a giant box office   What happened to the good old days,0,2,Aegean Sea salt,GQR5zsLHbYw,0.13376623376623376,2016-07-27 19:31:34,False,True
+2016-07-28T04:52:27,When you start checking the comment section and don't give a fuck about IMDB ratings haha. Thanks guys,1,0,Victo BurgZ,GQR5zsLHbYw,0.0,2016-07-28 04:52:27,False,True
+2016-07-28T12:16:09,funny movie..worth a look at.,0,0,karma bad,GQR5zsLHbYw,0.25,2016-07-28 12:16:09,False,True
+2016-07-28T17:14:16,I love when march throw himself of the balcony when he was acting with pokohanous its hilarious,0,0,ahmed cr7,GQR5zsLHbYw,0.3333333333333333,2016-07-28 17:14:16,False,True
+2016-07-29T03:41:52,This looks like a real movie!,0,0,JOSEPH PASQUARELLA,GQR5zsLHbYw,0.25,2016-07-29 03:41:52,False,True
+2016-07-30T19:07:22,Ryan Gosling will win an Oscar in his lifetime.,179,8,Petyr Wilson,GQR5zsLHbYw,0.8,2016-07-30 19:07:22,False,True
+2016-07-31T03:08:40,"the funniest movie of the year, laughed so hard!!!",0,0,FootballHighlights&Goals,GQR5zsLHbYw,0.06516927083333324,2016-07-31 03:08:40,False,True
+2016-07-31T03:10:48,"if you wanna laugh don't watch the trailer, the trailer showed a lot of the funny scenes",0,0,FootballHighlights&Goals,GQR5zsLHbYw,0.275,2016-07-31 03:10:48,False,True
+2016-08-01T03:12:16,"Actual comedy with funny situations; no stupid banter, references or quips like other current age films they pass of as comedy.  edit- Am not surprised it's the same director from Kiss Kiss Bang Bang. It's unfortunate with it's box office success, should have invested more in promoting it.",0,0,Dinglie Danglie Doodle,GQR5zsLHbYw,0.07749999999999999,2016-08-01 03:12:16,False,True
+2016-08-01T08:08:07,Best one in 2016 so far,0,0,Baldur Freya,GQR5zsLHbYw,0.55,2016-08-01 08:08:07,False,True
+2016-08-03T00:28:17,anybody watched this ?,0,0,K.O,GQR5zsLHbYw,0.0,2016-08-03 00:28:17,False,True
+2016-08-03T02:05:39,i love films made in the 70''s. this is just brilliant. already a classic.,0,0,TheCableguy x,GQR5zsLHbYw,0.5222222222222223,2016-08-03 02:05:39,False,True
+2016-08-05T18:39:57,did u guys know the girl name on 1:09>> ? PLEASE,0,0,Muhammad Amin,GQR5zsLHbYw,0.0,2016-08-05 18:39:57,False,True
+2016-08-05T21:06:13,its remembering me a gta vice city los Angeles..,0,0,juned shaikh,GQR5zsLHbYw,0.0,2016-08-05 21:06:13,False,True
+2016-08-07T05:48:10,"LOVED IT man, shit was hilarious.",0,0,Cuban Rider,GQR5zsLHbYw,0.3333333333333333,2016-08-07 05:48:10,False,True
+2016-08-07T05:51:35,Who watches a movie in movie theater and comes back home and takes time to comment on trailer? Lately these comments looks more and more fake.,5,0,jrs,GQR5zsLHbYw,0.039999999999999994,2016-08-07 05:51:35,False,True
+2016-08-07T21:10:28,"Wasnt bad wasnt good, just something to watch, very bland",1,0,Executnr,GQR5zsLHbYw,-0.07222222222222219,2016-08-07 21:10:28,False,True
+2016-08-08T07:06:13,"This movie is SO BAD horrible acting there is no chemistry between Ryan and Russel. So many awkward lines moments, entire movie i just wanted to leave but hopping it will get better. ALL the comments down below saying ""Laughed so hard"" its all BS.",2,1,jrs,GQR5zsLHbYw,-0.10472222222222223,2016-08-08 07:06:13,False,True
+2016-08-09T02:25:56,good movie sweet dialogs just a manko the cloth of russel crowe the rest realy good,0,0,ԋαɳʂ ωolʇ,GQR5zsLHbYw,0.5833333333333333,2016-08-09 02:25:56,False,True
+2016-08-09T11:07:09,This movie is Soo Good Soo Funny!!!,0,0,OMG ESPORTS,GQR5zsLHbYw,0.594140625,2016-08-09 11:07:09,False,True
+2016-08-09T12:51:34,"I watched this movie, it's great , for an action movie, it's pretty hilarious !",0,0,Mohamed Raed Mahfoudhi,GQR5zsLHbYw,0.44375,2016-08-09 12:51:34,False,True
+2016-08-09T22:06:35,Very Good movie.. time  to sleep...zzzzz,1,0,Joanave Espiritu,GQR5zsLHbYw,0.9099999999999999,2016-08-09 22:06:35,False,True
+2016-08-10T09:28:54,just saw it. boring. 5/10,1,0,Jesse Pinkman,GQR5zsLHbYw,-1.0,2016-08-10 09:28:54,False,True
+2016-08-10T18:29:45,It's a good flick of it's genre but what's with virtually all of the best moments in the trailer being cut from the movie or edited in a way they in no way appear in the movie itself?,0,0,Marko B,GQR5zsLHbYw,0.85,2016-08-10 18:29:45,False,True
+2016-08-11T04:35:35,"It's a good comedy movie, Gosling and Crowe was funny as hell but story is average, i mean that plot twist of mother playing the evil bitch, that's just cliche, but enjoyed it only for the comedy, 4 out of 5",0,0,Symon Alex,GQR5zsLHbYw,-0.0017857142857142952,2016-08-11 04:35:35,False,True
+2016-08-12T19:06:57,had a rough week and this movie just made it a little better. It was one of the best comedy I've seen so far.,0,0,bianxkrish23,GQR5zsLHbYw,0.2625,2016-08-12 19:06:57,False,True
+2016-08-13T22:48:48,"Just watched this movie, felt asleep! Boring af",1,0,Jonkmaister,GQR5zsLHbYw,-1.0,2016-08-13 22:48:48,False,True
+2016-08-13T23:39:15,One of the best this year so far,0,0,Theo Roosevelt,GQR5zsLHbYw,0.55,2016-08-13 23:39:15,False,True
+2016-08-14T02:59:30,Detroit can be taken down after all.,0,0,Rob Z,GQR5zsLHbYw,-0.15555555555555559,2016-08-14 02:59:30,False,True
+2016-08-16T00:13:43,"am i the only one who liked the detective's daughter !! she is so adorable , i think i have a crush on her lol",0,2,Moath Ahmed,GQR5zsLHbYw,0.559375,2016-08-16 00:13:43,False,True
+2016-08-16T07:48:01,Llab omg o love Ryan gosling,0,0,Hector Martinez,GQR5zsLHbYw,0.5,2016-08-16 07:48:01,False,True
+2016-08-17T01:42:39,IMBD rating 7.6 but i give only 4. Bloody marketing people.,0,0,Najeeb Puthiyallam,GQR5zsLHbYw,-0.4,2016-08-17 01:42:39,False,True
+2016-08-17T01:44:49,John Goodman = Russell Crowe.   ..  but movie 4/10,0,0,Najeeb Puthiyallam,GQR5zsLHbYw,0.0,2016-08-17 01:44:49,False,True
+2016-08-17T02:20:53,Gosling waw great performance 10/10,0,0,BLaCk JiGSaW,GQR5zsLHbYw,0.8,2016-08-17 02:20:53,False,True
+2016-08-17T16:25:22,It's a fucking tragedy that this only did $36 million. The best comedy I've seen in years.,0,0,Elise,GQR5zsLHbYw,0.13333333333333333,2016-08-17 16:25:22,False,True
+2016-08-18T01:06:36,the guy who create this trailer should be nominated to the oscar.,0,0,Fandy Diadline,GQR5zsLHbYw,0.0,2016-08-18 01:06:36,False,False
+2016-08-18T06:48:37,"Don't say ""and stuff"".",291,3,Creakush Coliko,GQR5zsLHbYw,0.0,2016-08-18 06:48:37,False,False
+2016-08-20T05:41:18,i couldn't stop laughing from beginning to end. everything about it was flawless!  russell + ryan + the other members - esp the coffee scene.. my laugh was echoing throughout the building for the entirety lmao I FUCKING LOVE THIS MOVIE NOTHING CAN TAINT IT TOP NOTCH ABSOLUTE FAVORITE AND I WILL NEVER STOP WATCHING IT AHHHHHH how fucking perfect can it be? WHY WAS IT SO FUNNY? I WASN'T FUCKING READY AHHHHHHHH now i'm a diehard fan and can't stop watching press material lmao also yay bruins <3 ty shane,0,0,Stacy Kim,GQR5zsLHbYw,0.5019230769230769,2016-08-20 05:41:18,False,False
+2016-08-20T11:19:34,SEQUEL PLS!,0,0,Skooma Much,GQR5zsLHbYw,0.0,2016-08-20 11:19:34,False,False
+2016-08-20T12:56:13,Ryan Gosling is absolutely phenomenal in this hilarious movie.,52,1,Kartikeya Dutta,GQR5zsLHbYw,0.5,2016-08-20 12:56:13,False,False
+2016-08-20T17:52:15,"Just saw it, great movie. Great actors and original story. Must watch.",0,0,Quinten Saija,GQR5zsLHbYw,0.6583333333333333,2016-08-20 17:52:15,False,False
+2016-08-21T17:39:07,Song name Please: 1:04,0,0,George Kebadze,GQR5zsLHbYw,0.0,2016-08-21 17:39:07,False,False
+2016-08-22T05:50:46,Worst movie I have sat through. Terrible.,1,0,Andrew Birch,GQR5zsLHbYw,-1.0,2016-08-22 05:50:46,False,False
+2016-08-22T09:26:55,I din't like the sad ending of the film,0,0,LOIZOS V,GQR5zsLHbYw,-0.5,2016-08-22 09:26:55,False,False
+2016-08-22T13:04:49,"a really good movie, you won't be disappointed. give it a try!",0,0,FLWID ᴏꜰꜰɪᴄɪᴀʟ,GQR5zsLHbYw,-0.11875000000000002,2016-08-22 13:04:49,False,False
+2016-08-22T14:12:16,FUCK YOU JANET!!!!!!,0,0,Faisal AlHafez,GQR5zsLHbYw,-1.0,2016-08-22 14:12:16,False,False
+2016-08-24T06:38:14,anybody know the name of the song towards the end?,0,0,Steve Patterson,GQR5zsLHbYw,0.0,2016-08-24 06:38:14,False,False
+2016-08-26T20:18:28,"Great...great comedy.  I laughed as I never did before because is the right kind of humor not related  to scatological, vulgar or obscene gags.  SUPER RECOMMENDED FILM",0,0,Giannina Borrelli,GQR5zsLHbYw,0.20317460317460315,2016-08-26 20:18:28,False,False
+2016-08-27T00:52:33,awesome and hilarious 👍👍,0,0,Derrick Olivas,GQR5zsLHbYw,0.75,2016-08-27 00:52:33,False,False
+2016-08-28T09:41:46,"laughed so hard ,people in the house asking me what happened.never laughed so hard in a movie",0,0,normie david,GQR5zsLHbYw,0.2041666666666666,2016-08-28 09:41:46,False,False
+2016-08-29T05:58:35,SHITTEST FUCKING FILM EVER FUCKING TIME WASTE,1,4,Kirtan Mistry,GQR5zsLHbYw,-0.4666666666666666,2016-08-29 05:58:35,False,False
+2016-08-29T06:56:11,"""My Leg!!!!!!!""",0,0,SAMWEST,GQR5zsLHbYw,0.0,2016-08-29 06:56:11,False,False
+2016-08-29T09:03:11,any1 from playbox?,0,0,gamz,GQR5zsLHbYw,0.0,2016-08-29 09:03:11,False,False
+2016-08-29T09:59:51,Bloated Crowe,0,0,Jeffrey D,GQR5zsLHbYw,0.0,2016-08-29 09:59:51,False,False
+2016-08-30T03:41:57,yay just bought the bootleg hope its good,0,0,Mario Rivera,GQR5zsLHbYw,0.14999999999999997,2016-08-30 03:41:57,False,False
+2016-09-01T17:48:26,Still trying to figure out how this one bombed,0,0,Killam42,GQR5zsLHbYw,0.0,2016-09-01 17:48:26,False,False
+2016-09-02T21:32:14,"great film, i aprove.",0,0,rigo265,GQR5zsLHbYw,0.8,2016-09-02 21:32:14,False,False
+2016-09-04T12:56:34,Damn I loved this movie... Until the third act. I don't know if I was missing something but it didn't make sense because the whole movie was about them finding Amelia but when she died they wanted to find the film. Why?? Why do they care about the film reel so much,0,0,Jack Lame,GQR5zsLHbYw,0.18,2016-09-04 12:56:34,False,False
+2016-09-04T16:28:05,"one of the most funniest movies i have ever seen, the humor was great the acting was great i really recomend this movie.",0,0,Erik,GQR5zsLHbYw,0.4600000000000001,2016-09-04 16:28:05,False,False
+2016-09-05T05:16:52,shane black's comedy is so good,5,0,Jackie Kavinda,GQR5zsLHbYw,0.26666666666666666,2016-09-05 05:16:52,False,False
+2016-09-05T20:23:09,"Need a sequel, better than Neighbours 2",8,2,Rick,GQR5zsLHbYw,0.5,2016-09-05 20:23:09,False,False
+2016-09-07T18:23:49,Song in the beginning?,0,0,Henry Petrini,GQR5zsLHbYw,0.0,2016-09-07 18:23:49,False,False
+2016-09-08T21:29:16,i never rate movies but this movie sucked. i barely give it 4/10. i only watched it halfway. the main reason is poor performances especially ryan gosling trying to be angry and funny. this is a job for mark walhberg. on the other hand we have russel crowe with his fake voice and also poor performance. the script was kinda predictable. if this movie was made by another director and actors it could be better,1,1,Karpasia Health Products Ltd,GQR5zsLHbYw,-0.09652777777777778,2016-09-08 21:29:16,False,False
+2016-09-09T21:32:40,slick cool refreshing & v charming movie,0,0,lancsFrogger,GQR5zsLHbYw,0.32499999999999996,2016-09-09 21:32:40,False,False
+2016-09-11T20:49:18,i want a sequel!,0,0,Hector Encarnacion,GQR5zsLHbYw,0.0,2016-09-11 20:49:18,False,False
+2016-09-12T19:54:50,wspanialy film :),0,0,Maciek,GQR5zsLHbYw,0.5,2016-09-12 19:54:50,False,False
+2016-09-14T21:34:27,"You guys in the US do movies like this all the time I had a great time, amazing I love the mood, characters so nice so nice :)",0,0,vr jr,GQR5zsLHbYw,0.6,2016-09-14 21:34:27,False,False
+2016-09-16T19:12:57,run...,1,0,shivam trivedi,GQR5zsLHbYw,0.0,2016-09-16 19:12:57,False,False
+2016-09-17T10:01:06,One of the best films I've seen all year,0,0,ellen,GQR5zsLHbYw,1.0,2016-09-17 10:01:06,False,False
+2016-09-19T15:57:48,Emran Hashmi and Rishi Kapoor in Lead roles had the movie been produced in Bollywood hehehehe,0,1,Mayank Thapliyal,GQR5zsLHbYw,0.0,2016-09-19 15:57:48,False,False
+2016-09-19T19:28:33,absolute shite movie 0/10 dont watch it is dung,0,2,full of the pipe,GQR5zsLHbYw,0.2,2016-09-19 19:28:33,False,False
+2016-09-20T18:48:20,insanely funny movies,0,0,dota player,GQR5zsLHbYw,0.25,2016-09-20 18:48:20,False,False
+2016-09-24T03:13:29,loved it! a movie with an underlying  message about the corrupt govt where the guys are looking for a movie with an underlying message about the corrupt govt. pretty deep and lots of laughs AND action!!,0,0,jenn wages,GQR5zsLHbYw,0.046875,2016-09-24 03:13:29,False,False
+2016-09-24T15:24:35,Best Movie of the Year,27,1,DragonNomak,GQR5zsLHbYw,1.0,2016-09-24 15:24:35,False,False
+2016-09-26T00:25:08,One of the best movies I've seen in a last few years!!,0,0,Izzie Lova,GQR5zsLHbYw,0.22916666666666666,2016-09-26 00:25:08,False,False
+2016-09-26T05:37:58,"OMG, did they just put all the best scenes in the trailer again?",2,2,oberstul,GQR5zsLHbYw,1.0,2016-09-26 05:37:58,False,False
+2016-09-27T21:24:36,russell crowe really let himself go.,1,0,Noseefood,GQR5zsLHbYw,0.2,2016-09-27 21:24:36,False,False
+2016-10-02T18:01:34,what a movie,0,0,ZXxsniperMsrXx,GQR5zsLHbYw,0.0,2016-10-02 18:01:34,False,False
+2016-10-04T21:48:30,"Best movie I may have ever seen, best written anyway, the dialogue it amazing in this, every line goes towards charactar development, amazing acting, twists, story, references to real world problems and funny as fuck... fucking amazing film",9,0,James Haygreen,GQR5zsLHbYw,0.4277777777777778,2016-10-04 21:48:30,False,False
+2016-10-08T15:17:34,what song is that,0,0,Cody Morgan,GQR5zsLHbYw,0.0,2016-10-08 15:17:34,False,False
+2016-10-09T17:57:31,awesome film. SOOO glad i avoid trailers....this shows many of the best moments and 'twists'. shameful really.,0,0,Maltese_Eldurango,GQR5zsLHbYw,0.64,2016-10-09 17:57:31,False,False
+2016-10-10T19:36:36,I can't wait to see this movie,0,0,Kalkidan Konjo,GQR5zsLHbYw,0.0,2016-10-10 19:36:36,False,False
+2016-10-14T16:34:43,"boring asf..man, i thought this movie badass..idk maybe not my type",0,0,karl,GQR5zsLHbYw,-1.0,2016-10-14 16:34:43,False,False
+2016-10-15T20:02:28,"this movie is a piece of junk. full of cheap jokes, very weak....sucks",0,0,A N,GQR5zsLHbYw,0.31666666666666665,2016-10-15 20:02:28,False,False
+2016-10-16T21:29:10,"just watched this on a Netflix DVD.. loved it, specially the  Lou Costello  tribute  by Ryan Gosling , the 'oh chuck' bit when he finds the mangled body, which was'spot on'!.. very entertaining, funny at the right moments",0,0,Jimi LaLumia,GQR5zsLHbYw,0.46642857142857136,2016-10-16 21:29:10,False,False
+2016-10-20T04:51:20,How can good actors like these two get themselves to play in such a worthless movie?! Didn't they think of damaging their own  reputation?,0,1,Paul Wilson,GQR5zsLHbYw,0.07499999999999998,2016-10-20 04:51:20,False,False
+2016-10-23T01:19:34,this movie is awsome!!!!,0,0,sebastian alvarez,GQR5zsLHbYw,0.0,2016-10-23 01:19:34,False,False
+2016-10-24T22:17:10,"It's a good year, wink wink.",0,0,Jonathan Joestar,GQR5zsLHbYw,0.7,2016-10-24 22:17:10,False,False
+2016-10-25T01:01:13,epic,0,0,Akaliptos,GQR5zsLHbYw,0.1,2016-10-25 01:01:13,False,False
+2016-10-25T13:16:00,this and Hunt for the wilderpeople is the best movies this year 4 me,0,0,hello lolo,GQR5zsLHbYw,1.0,2016-10-25 13:16:00,False,False
+2016-10-27T04:47:42,What's the song at the start of the trailer,0,0,i_cooped_my_pants333,GQR5zsLHbYw,0.0,2016-10-27 04:47:42,False,False
+2016-10-28T13:23:39,"WTF is wrong with people? Such a cheap judgement!  It's frigging sad!!  It was a fucking terrible movie. Absolutely terrible. wtf!  Eww people, get away from me! You coarse, inartistic zombies!",3,12,Selcouth Entity,GQR5zsLHbYw,-0.4513888888888889,2016-10-28 13:23:39,False,False
+2016-10-29T09:52:21,This should have a sequel. This movie is a hidden gem!,656,6,Daken-dono,GQR5zsLHbYw,-0.20833333333333331,2016-10-29 09:52:21,False,False
+2016-10-31T22:24:28,fightin around the world,0,0,Kormos17,GQR5zsLHbYw,0.0,2016-10-31 22:24:28,False,False
+2016-11-02T10:15:29,"I gotta say - this film has got to be the best this year. Extremely funny, Ryan Gosling is so flipping funny, he has to win an Oscar for this film! Russell Crowe is top notch, he and Ryan make the perfect duo!",0,0,Muscle Man,GQR5zsLHbYw,0.6666666666666666,2016-11-02 10:15:29,False,False
+2016-11-04T01:00:16,Saw it twice. Fucking loved it.,0,0,MrHEC381991,GQR5zsLHbYw,0.7,2016-11-04 01:00:16,False,False
+2016-11-05T17:06:23,the 70's really have great tunes yeah,1,0,asskobeler,GQR5zsLHbYw,0.5,2016-11-05 17:06:23,False,False
+2016-11-06T22:52:56,"Holy shiiiit, this trailer is misleading as fuck!",0,1,DunDeeoZ,GQR5zsLHbYw,-0.5,2016-11-06 22:52:56,False,False
+2016-11-11T13:28:08,Love the interesting chemistry they have.,7,0,vinyl hedgehog,GQR5zsLHbYw,0.5,2016-11-11 13:28:08,False,False
+2016-11-11T17:01:13,Russell Crowe is the white lincoln clay in this movie.,0,0,RedInterceptor,GQR5zsLHbYw,0.0,2016-11-11 17:01:13,False,False
+2016-11-11T19:17:55,Movie reminds me of Kiss Kiss Bang Bang,0,0,blank,GQR5zsLHbYw,0.0,2016-11-11 19:17:55,False,False
+2016-11-15T01:54:59,I would not recommend ANYONE to whatch it :3 :p,1,0,Ilyes Kotrsi,GQR5zsLHbYw,0.625,2016-11-15 01:54:59,False,False
+2016-11-17T00:12:20,"I don't want to read almost 1,000 comments, but I will say, after reading a few of them, whether this is a good movie or not, (I'm going to watch it tonight on Netflix) the previews cracked me up. I hope they did NOT just show the good scenes in the previews though. Someone said they didn't, so I'm looking forward to seeing it. LOVE Ryan Gosling and Russell Crowe even if he's put on a lot of weight.",0,0,Fred Kuney,GQR5zsLHbYw,0.425,2016-11-17 00:12:20,False,False
+2016-11-22T19:37:18,"calling out for a The Nice Guys 2, pretty please regardless, a fantastic film  SUPER impressed",0,0,oof,GQR5zsLHbYw,0.5166666666666666,2016-11-22 19:37:18,False,False
+2016-11-24T23:42:42,i regret i watched this shit,1,0,Talha ishaq,GQR5zsLHbYw,-0.2,2016-11-24 23:42:42,False,False
+2016-11-26T03:52:08,this movie didnt show when they crashed it just showed a nude lady,0,0,Mye 420,GQR5zsLHbYw,0.0,2016-11-26 03:52:08,False,False
+2016-11-26T06:47:28,"These positive comments have got to be schills. I like both actors and wanted to like this movie. however, I have to say it sucked and most of the plot was based on stupidity, and the kid was just annoying as fuck. The studio pumped this shit out for a quick buck based on the sales from the actors. content sucked and acting was trash",1,0,steverino218,GQR5zsLHbYw,-0.11742424242424243,2016-11-26 06:47:28,False,False
+2016-11-30T12:47:38,"watched this movie high as a kite and it was f*ing great. One of the cleverest and most original comedies I've seen so far, also better than the trailer. Laughed my bumhole right off",0,0,Jan Melkebeek,GQR5zsLHbYw,0.42758928571428567,2016-11-30 12:47:38,False,False
+2016-12-03T18:38:59,Need a sequel PLEASE!,2,0,Andrew Budd,GQR5zsLHbYw,0.0,2016-12-03 18:38:59,False,False
+2016-12-04T07:28:56,in the movie holly doesn't say 100 bucks she says 30 bucks,0,0,Sasha Baker,GQR5zsLHbYw,0.0,2016-12-04 07:28:56,False,False
+2016-12-06T10:59:12,"wasnt funny, at all. But it was a good movie",0,0,Newbie Yamaha,GQR5zsLHbYw,0.475,2016-12-06 10:59:12,False,False
+2016-12-07T11:10:49,THEY ARE THE FUCKING BEST MATCHED LEADS I'VE EVER SEEN HOLY FUCK! movie of the year hands down. needs a follow up film by the same cast/writers/director. you shove the rest of the trash comedies that came out this year up your brain washed assess...this is cinema!,0,0,Magicfire productions,GQR5zsLHbYw,0.08611111111111111,2016-12-07 11:10:49,False,False
+2016-12-09T21:37:50,+1 for the car driving through the house!,0,0,Axorell,GQR5zsLHbYw,0.0,2016-12-09 21:37:50,False,False
+2016-12-14T19:45:47,It's pretty sad that this movie didn't make a good amount of money.,1,0,awesome420ication,GQR5zsLHbYw,0.15,2016-12-14 19:45:47,False,False
+2016-12-23T06:27:31,big lewbowski ripoff!,0,0,MrCoffeekelly,GQR5zsLHbYw,0.0,2016-12-23 06:27:31,False,False
+2016-12-24T05:50:02,Ryan Gosling's girl scream lol gotta love him,50,0,Amy Curtis,GQR5zsLHbYw,0.65,2016-12-24 05:50:02,False,False
+2016-12-24T21:46:19,i dont know which better. This or 21/22 Jump Street,0,1,firza G,GQR5zsLHbYw,0.5,2016-12-24 21:46:19,False,False
+2016-12-27T09:41:34,"This trailer is garbage, doesn't do the movie justice. One of the best movies of 2016",2,0,BugattiBiebs,GQR5zsLHbYw,1.0,2016-12-27 09:41:34,False,False
+2016-12-27T18:07:45,"That was some funny shit, I love when Gosling portrays awkward and goofy people who try to be serious but are actually natural born idiots, just like the private investigator in this.",0,0,bottle1 lack,GQR5zsLHbYw,-0.06481481481481481,2016-12-27 18:07:45,False,False
+2016-12-28T01:16:08,Who is here after the Chris top best movies video?,135,6,Jso's Productions,GQR5zsLHbYw,0.75,2016-12-28 01:16:08,False,False
+2016-12-28T02:15:54,Such a good underrated movie. Highly recommend watching it.,841,1,Karsten Binkley,GQR5zsLHbYw,0.2866666666666667,2016-12-28 02:15:54,False,False
+2016-12-28T07:04:17,Good flick,0,0,Pit Bull,GQR5zsLHbYw,0.7,2016-12-28 07:04:17,False,False
+2016-12-28T14:31:49,Anyone know the theme at the start when Russell was using the shotgun.,0,1,Izhar Mark Divendra,GQR5zsLHbYw,0.0,2016-12-28 14:31:49,False,False
+2016-12-30T17:35:37,Great film!,0,0,Lucidia DGTinfoilhat,GQR5zsLHbYw,1.0,2016-12-30 17:35:37,False,False
+2016-12-31T07:56:54,highly disappointed.. the trailer looked great but the movie was horrible.. first time  I  threw away a dvd right after watching it,3,1,Allen Reynolds,GQR5zsLHbYw,-0.08285714285714285,2016-12-31 07:56:54,False,False
+2016-12-31T12:02:28,"thanks for the trailer, i personally go watch this movie at apetv(dot)me . cheers!",0,0,there is no Glawks,GQR5zsLHbYw,0.1,2016-12-31 12:02:28,False,False
+2016-12-31T14:17:03,sequel,0,0,A's Perspective,GQR5zsLHbYw,0.0,2016-12-31 14:17:03,False,False
+2017-01-01T10:02:55,What a brilliant movie! I highly recommend everyone to watch this underrated gem,4,0,Akash Singh,GQR5zsLHbYw,0.58,2017-01-01 10:02:55,False,False
+2017-01-02T11:30:25,this movie is gold. jokes are on point,1,0,Powtato,GQR5zsLHbYw,0.0,2017-01-02 11:30:25,False,False
+2017-01-03T07:12:20,I really enjoyed this movie. very good humor.,1,0,Edwin D,GQR5zsLHbYw,0.705,2017-01-03 07:12:20,False,False
+2017-01-04T09:18:03,I love these guys and the movie excellent and he can do it the easy way damn right he did it,1,0,ANURAG I,GQR5zsLHbYw,0.5547619047619048,2017-01-04 09:18:03,False,False
+2017-01-06T05:19:01,"This was such a nice movie to watch. When you tired of watching so much crap and you stumble upon a legit funny and fun movie, really makes my day.",7,0,p3rsona,GQR5zsLHbYw,0.012499999999999983,2017-01-06 05:19:01,False,False
+2017-01-06T06:53:55,What is that song called can someone tell me please and thank you if any of you guys know it😂,0,0,Ryan Simpkins,GQR5zsLHbYw,0.0,2017-01-06 06:53:55,False,False
+2017-01-09T15:31:49,Don't you just hate it when your husband never showed up after his funeral.,0,0,K L,GQR5zsLHbYw,-0.8,2017-01-09 15:31:49,False,False
+2017-01-14T18:02:41,what is the song in the trailer when it says los angles 1977,0,0,Ryan Veksler,GQR5zsLHbYw,0.0,2017-01-14 18:02:41,False,False
+2017-01-15T04:51:54,Best film of 2016,1,0,theAbusementPark,GQR5zsLHbYw,1.0,2017-01-15 04:51:54,False,False
+2017-01-15T18:23:06,"Dang, this kinda spoiled the funniest gags",1,0,Phantom Lantern,GQR5zsLHbYw,0.0,2017-01-15 18:23:06,False,False
+2017-01-15T20:57:39,what is the song called when it says los angles 1977,0,0,Ryan Veksler,GQR5zsLHbYw,0.0,2017-01-15 20:57:39,False,False
+2017-01-16T01:32:47,It's amazing how they literally make up whole scenes with editing in this trailer,0,0,Subscribe to this channel for literally no reason,GQR5zsLHbYw,0.4,2017-01-16 01:32:47,False,False
+2017-01-17T23:17:58,Great fucking chemistry between the too.,1,0,Guile Ronon,GQR5zsLHbYw,0.10000000000000003,2017-01-17 23:17:58,False,False
+2017-01-18T06:06:09,Ryan Gosling's comic timing is amazing in this film!,0,0,renzo7575,GQR5zsLHbYw,0.5,2017-01-18 06:06:09,False,False
+2017-01-18T21:06:02,Nice guys was a let down.. do not bother with it. It was a tryhard trying to copy Inherent Vice. So just watch Inherent Vice it is the better film ;-).,0,0,Mark Birnage,GQR5zsLHbYw,0.2986111111111111,2017-01-18 21:06:02,False,False
+2017-01-20T07:32:24,"I saw this movie in theaters, overall it was good, but the problem wasn't from the movie. It was how it was shown at the theater, I couldn't hear sh*t at the screening and I know I missed so many hilarious moments. I like what I did understand, but thought I would of loved it if only the theater playing it tinkered with their projectors, speakers, etc for quality GEESH!!!!",0,0,THEMANOFTHOUGHT1,GQR5zsLHbYw,0.39999999999999997,2017-01-20 07:32:24,False,False
+2017-01-20T18:08:34,perfect couple,0,0,mmlp trss,GQR5zsLHbYw,1.0,2017-01-20 18:08:34,False,False
+2017-01-21T13:35:08,great movie useless trailer,0,0,Garvit Sharma,GQR5zsLHbYw,0.15000000000000002,2017-01-21 13:35:08,False,False
+2017-01-31T01:48:22,I paid $10.00 to watch the movie. Had to turn it off. Completely lame.,1,0,Rick Ireton,GQR5zsLHbYw,-0.5,2017-01-31 01:48:22,False,False
+2017-02-01T03:47:24,Best comedy of 2016,0,0,Dark Designs,GQR5zsLHbYw,1.0,2017-02-01 03:47:24,False,False
+2017-02-02T16:58:24,it's literally LGBT: the movie,0,1,Majoras,GQR5zsLHbYw,0.0,2017-02-02 16:58:24,False,False
+2017-02-04T15:36:14,"dude I only came here to say this movie is so freakin funny. gosling and crowe are perfect, the script is genius and I noticed The Martian has a higher rating?! Martian was ghey and sucked!! watch this and laugh your ass off.",0,0,bellmeisterful,GQR5zsLHbYw,0.40765624999999994,2017-02-04 15:36:14,False,False
+2017-02-05T20:43:09,Loved it so much more than La La Land..,0,0,menilmontant,GQR5zsLHbYw,0.6,2017-02-05 20:43:09,False,False
+2017-02-06T20:21:35,Didn't like this... gave up after  20 mins,1,0,WvW Weekender Video Watch,GQR5zsLHbYw,0.0,2017-02-06 20:21:35,False,False
+2017-02-07T02:06:48,just watched this funny as fuck gota watch,0,0,RIGORR MORTIS,GQR5zsLHbYw,-0.07500000000000001,2017-02-07 02:06:48,False,False
+2017-02-07T05:08:06,There's only a few comedies that are actually funny because they don't try hard to be funny. This one I think is right up there. So hilarious.,0,0,Justin Dubbs,GQR5zsLHbYw,0.11343537414965986,2017-02-07 05:08:06,False,False
+2017-02-13T22:36:33,this movie is so underrated...never laughed so hard,0,0,Sekko Tokko,GQR5zsLHbYw,0.20416666666666664,2017-02-13 22:36:33,False,False
+2017-02-22T13:30:03,this should be a saga,0,0,Morty Smith,GQR5zsLHbYw,0.0,2017-02-22 13:30:03,False,False
+2017-03-02T15:03:51,"saw this in the cinema it was fucking good, the characters were spot on, the plot was just fucking right i didnt even expect anything i just bought a ticket out of boredom thank god for this art",0,0,IRYL,GQR5zsLHbYw,0.4928571428571428,2017-03-02 15:03:51,False,False
+2017-03-09T12:53:07,"Ryan Goshling: You seen Chet, the projectionist? Some Guy: Yeah, he just left 10 mins ago, went a drink. And you're? Ryan Goshling: In a hurry. Thanks buddy. Some Guy: How'd you know my name was Buddy?",1,0,SATHISH KUMAR,GQR5zsLHbYw,0.1,2017-03-09 12:53:07,False,False
+2017-03-13T17:12:55,My cousin Ariana is in this💜💜,0,0,Jacy Analise,GQR5zsLHbYw,0.0,2017-03-13 17:12:55,False,False
+2017-03-15T02:42:28,You will never be happy!,0,0,PICKETT THE HANDSOME COLLECTOR,GQR5zsLHbYw,1.0,2017-03-15 02:42:28,False,False
+2017-03-19T19:59:23,my favourite actor is all time Russell Crowe,0,0,Shaukat Ahmad,GQR5zsLHbYw,0.0,2017-03-19 19:59:23,False,False
+2017-03-24T16:08:37,Feels like I just watched the best parts.,0,0,Sexy scientist,GQR5zsLHbYw,1.0,2017-03-24 16:08:37,False,False
+2017-03-26T11:57:20,I'm glad I watched the movie before the trailer :'),0,0,The Obscure Channel,GQR5zsLHbYw,0.5,2017-03-26 11:57:20,False,False
+2017-03-26T22:12:31,"This movie reminds me of Kiss Kiss Bang Bang The plot and the locations and everything, they're both great tho",0,0,ShanKar Sh,GQR5zsLHbYw,0.8,2017-03-26 22:12:31,False,False
+2017-03-27T19:21:35,After watching Gosling speak maybe all of 5 and a half words in the flick where he played the stunt driver....This looks promising. Also.....Russel Crowe. Heh. 👏👏👏👏👏,0,0,TKFreakin,GQR5zsLHbYw,0.016666666666666677,2017-03-27 19:21:35,False,False
+2017-03-29T10:09:20,"Finally, a movie adaptation of ""Russell Crowe Fightin' Around The World.""",0,0,Harvey Wallbanger,GQR5zsLHbYw,0.0,2017-03-29 10:09:20,False,False
+2017-04-06T17:53:07,im gonna watch the movie right away this so hilarious !,0,0,Jimmy Rocks,GQR5zsLHbYw,0.45535714285714285,2017-04-06 17:53:07,False,False
+2017-04-13T10:25:29,"It's all Kiss, Kiss, Bang, Bang all over again, gentlemen !",0,0,Naufal Muhammad Haiqal,GQR5zsLHbYw,0.0,2017-04-13 10:25:29,False,False
+2017-04-14T23:14:59,Don´t waste your time. Truly ... This is a fucking piece of shit,1,0,Esteban Lopez,GQR5zsLHbYw,-0.3333333333333333,2017-04-14 23:14:59,False,False
+2017-04-17T05:02:25,Amelia? Fuck you man we're dead.,0,0,westernwinchester70,GQR5zsLHbYw,-0.30000000000000004,2017-04-17 05:02:25,False,False
+2017-04-30T20:08:43,praise the lord cause I found a good movie . Finally .,0,0,Vasquez Beardoracci,GQR5zsLHbYw,0.35,2017-04-30 20:08:43,False,False
+2017-05-01T21:22:22,"Watch this, not La La Land This movie had me in tears and also in pain from hilariously laughing .  I finally watched it last night for the very first time and it was just simply brilliant A+",59,1,Money Team,GQR5zsLHbYw,0.34500000000000003,2017-05-01 21:22:22,False,False
+2017-05-03T10:18:02,this one deserves a sequel 👌👌👏👏👏,0,0,Guhan Sakthi,GQR5zsLHbYw,0.0,2017-05-03 10:18:02,False,False
+2017-05-07T07:56:15,gosling was too funny in this. he really proved his comedic chops in this one,0,0,Supa CG,GQR5zsLHbYw,0.225,2017-05-07 07:56:15,False,False
+2017-05-09T02:31:27,This movie was fucking legendary,0,0,Greaser Z,GQR5zsLHbYw,1.0,2017-05-09 02:31:27,False,False
+2017-05-14T14:11:44,Please song on 0:20,0,0,Garret,GQR5zsLHbYw,0.0,2017-05-14 14:11:44,False,False
+2017-05-28T22:23:05,A criminally underrated film,0,0,PS Newsom,GQR5zsLHbYw,-0.4,2017-05-28 22:23:05,False,False
+2017-06-12T16:15:54,just watched it. MADE MY DAY!!,0,0,Adha Ujang,GQR5zsLHbYw,0.0,2017-06-12 16:15:54,False,False
+2017-06-14T20:02:06,nice guys finish last,0,0,Sayed Kadri,GQR5zsLHbYw,0.3,2017-06-14 20:02:06,False,False
+2017-06-16T15:14:49,this movie is gold too bad its underrated,0,0,Mark Hendley,GQR5zsLHbYw,-0.6999999999999998,2017-06-16 15:14:49,False,False
+2017-06-17T13:56:44,"Let off the wheels, the car can drive on its own.",0,0,Ghosteriz,GQR5zsLHbYw,0.6,2017-06-17 13:56:44,False,False
+2017-06-23T07:17:23,Ryan Goslings? Like seriously..Creator of Java?,0,0,Chura Bharwah,GQR5zsLHbYw,0.0,2017-06-23 07:17:23,False,False
+2017-06-28T05:28:37,"funny movie!  I got so klost watching it, I forgot about the world I live in.",0,0,Judith Sleed,GQR5zsLHbYw,0.22443181818181818,2017-06-28 05:28:37,False,False
+2017-07-11T19:08:33,"Watched it on a whim, really enjoyed it. Razor sharp script and all involved were great (I hate kids in movies too but that daughter was great!)",0,0,anna315,GQR5zsLHbYw,0.275,2017-07-11 19:08:33,False,False
+2017-07-17T13:49:06,Was this film made by a bunch of pedos or whatt?? I'm embarassed for Ryan Gosling and Russell Crowe that they're even in this heap of crap. What a waste of talent. I couldn't even finish watching it it was so wrong. How was this even made?? Red flag child protection issues,0,1,White Fox,GQR5zsLHbYw,-0.375,2017-07-17 13:49:06,False,False
+2017-07-27T22:24:23,Saw it few moment ago.... And it was awesome...,0,0,SON OF FREEDOM FIGHTER,GQR5zsLHbYw,0.4,2017-07-27 22:24:23,False,False
+2017-08-02T07:32:17,"""The Nice Guys"" was one of the better movies of 2016 that I have seen. It's funny, it's original, and it's straight up entertaining. The humor is quirky, but it is funny. The movie is set in the 1970's, and feels very much like the 1970's, not only is the movie funny, and sort of mysterious, but the lighting, the tone, and the soundtrack are all truly 1970's. This movie is full of grooviness and funkiness. I love seeing Ryan Gosling's range in acting. This dude is so talented. He's been a different type of character and has played the roles well in movies I enjoy, and it was cool, and funny to see him play this role in a quirky humor role that I've never seen him portray, which was really interesting, and funny. I'm going to give, ""The Nice Guys"" 8.2/10 stars. 👨👨🏼🍻🌁🔫🔫💼🔍🎥🎬🎵",0,0,Christian Trahan,GQR5zsLHbYw,0.29520833333333335,2017-08-02 07:32:17,False,False
+2017-08-08T04:43:06,Russel you need to stop bulking.,0,0,Despond,GQR5zsLHbYw,0.0,2017-08-08 04:43:06,False,False
+2017-08-10T06:20:24,"_Nice guys finish last, that's why I'll treat you like trashes_",0,0,Hi Jack,GQR5zsLHbYw,0.3,2017-08-10 06:20:24,False,False
+2017-08-13T12:46:20,Una pelicula pero mas idiota que he visto,0,0,tomi taira,GQR5zsLHbYw,0.0,2017-08-13 12:46:20,False,False
+2017-08-17T01:47:43,What's the name of the latter song ?,0,0,treintaydiez,GQR5zsLHbYw,0.0,2017-08-17 01:47:43,False,False
+2017-08-31T17:02:19,Loved this movie .. hilarious,0,0,Gg Notre,GQR5zsLHbYw,0.6,2017-08-31 17:02:19,False,False
+2017-09-12T18:50:08,Russell Crowe is so DILF in this movie.,0,0,F dL,GQR5zsLHbYw,0.0,2017-09-12 18:50:08,False,False
+2017-09-21T19:21:48,Glad i watched this without seeing the trailer.   Some of the best scenes r spoilt in this.  Loved the movie btw.,0,0,joowantitjoogotit,GQR5zsLHbYw,0.7333333333333334,2017-09-21 19:21:48,False,False
+2017-09-22T12:18:07,I can't that piece of shit money monster starring over rated Clooney earned more than This gem of a movie.,0,0,MM 127,GQR5zsLHbYw,0.15,2017-09-22 12:18:07,False,False
+2017-09-25T20:25:43,Why do I feel like James Franco could replace Ryan Gosling?,0,1,BigChief420,GQR5zsLHbYw,0.0,2017-09-25 20:25:43,False,False
+2017-09-30T21:57:33,this was one of the funniest movies I've seen in a long time. I wheezed the whole time,1,0,M,GQR5zsLHbYw,0.07500000000000001,2017-09-30 21:57:33,False,False
+2017-10-05T00:17:57,Funny as movie I watched this movie like 7 times already. I never watch a movie more then once. So fucking funny so I went to wiki which states the movie cost 50mil to make and only made 57mil so sad there want be a 2nd movie.☹😔,0,0,Charley Martinez-Rodriguez,GQR5zsLHbYw,0.08333333333333333,2017-10-05 00:17:57,False,False
+2017-10-08T00:27:00,"so underrated, really funny and original",0,0,Ava,GQR5zsLHbYw,0.3125,2017-10-08 00:27:00,False,False
+2017-11-09T17:20:28,God this was such a good movie. Sucks they probably won't make a sequel.,0,0,Lucky ASMR,GQR5zsLHbYw,0.13333333333333333,2017-11-09 17:20:28,False,False
+2017-11-15T17:44:13,saw the whole movie. no thanks theatres,0,1,Adeel Abbasi,GQR5zsLHbYw,0.05,2017-11-15 17:44:13,False,False
+2017-11-19T15:33:14,They spoiled the twist,0,2,DevilPoroNnj,GQR5zsLHbYw,0.0,2017-11-19 15:33:14,False,False
+2017-12-03T06:23:23,The actors In this movie are brilliant thumbs up,0,0,Fred Houston,GQR5zsLHbYw,0.9,2017-12-03 06:23:23,False,False
+2017-12-14T04:13:48,I really like the nice guys I like it,0,0,Shawn Feldt,GQR5zsLHbYw,0.4,2017-12-14 04:13:48,False,False
+2018-01-05T14:54:08,watching a cowardly Ryan Gosling screaming like a mariachi singer is just priceless,0,0,Gino,GQR5zsLHbYw,1.0,2018-01-05 14:54:08,False,False
+2018-01-07T22:41:12,This trailer spoilt 75% of the movie dude,1,0,MAXaddictable,GQR5zsLHbYw,0.0,2018-01-07 22:41:12,False,False
+2018-01-12T19:02:44,Best film I've ever seen this year!,1,0,King Cal,GQR5zsLHbYw,1.0,2018-01-12 19:02:44,False,False
+2018-02-08T05:21:32,Lololol 2:03 and 2:11,0,0,Dflowen,GQR5zsLHbYw,0.0,2018-02-08 05:21:32,False,False
+2018-02-24T14:40:41,"Just watched it , great movie.",0,0,Uldan1988,GQR5zsLHbYw,0.8,2018-02-24 14:40:41,False,False
+2018-03-03T11:26:10,The title fucked up this films chances with a wider audience who didn't know any better. The Nice Guys?.... meh!,0,0,Whisky_Tango_Foxtrot 1984,GQR5zsLHbYw,0.21666666666666667,2018-03-03 11:26:10,False,False
+2018-03-04T08:40:18,i never expected to love this movie so much. it was really great,1,0,-,GQR5zsLHbYw,0.3875,2018-03-04 08:40:18,False,False
+2018-03-04T11:19:20,Damn.... i love this movie... !!!!,1,0,Michael Ruben,GQR5zsLHbYw,1.0,2018-03-04 11:19:20,False,False
+2018-03-14T16:36:05,"Russell Crowe, Ryan Gosling and Matt Bomer? Thank you lord for blessing me three times over. ❤️❤️😍😍",1,0,Coffee Tea,GQR5zsLHbYw,0.0,2018-03-14 16:36:05,False,False
+2018-03-16T11:43:37,this movie was AWESOME!!!!!!,1,0,Sam Rhodes,GQR5zsLHbYw,1.0,2018-03-16 11:43:37,False,False
+2018-03-19T03:11:25,Song?,0,0,King of the Fourth,GQR5zsLHbYw,0.0,2018-03-19 03:11:25,False,False
+2018-04-16T05:30:09,In my top favorites,1,0,Joshua,GQR5zsLHbYw,0.5,2018-04-16 05:30:09,False,False
+2018-04-24T04:17:35,"I watched it, really good movie.",3,0,PK PK,GQR5zsLHbYw,0.7,2018-04-24 04:17:35,False,False
+2018-05-27T14:57:56,Would somebody help me overcome this excruciating unpleasant feeling caused by that annoying daughter character???,0,1,galihxtreme,GQR5zsLHbYw,-0.725,2018-05-27 14:57:56,False,False
+2018-06-01T17:30:39,What the hell are you doing Neal Caffrey,0,0,010,GQR5zsLHbYw,0.0,2018-06-01 17:30:39,False,False
+2018-06-11T00:54:55,Instant Classic,1,0,Sol Harv,GQR5zsLHbYw,0.08333333333333333,2018-06-11 00:54:55,False,False
+2018-07-13T16:33:07,What are the songs here,0,0,Broken Window Films,GQR5zsLHbYw,0.0,2018-07-13 16:33:07,False,False
+2018-07-24T02:33:42,".. this movie was kick-ass hilarious from beginning to end, awesome film !!!",0,0,pizzaguy7,GQR5zsLHbYw,0.75,2018-07-24 02:33:42,False,False
+2018-08-06T03:51:23,*tips fedora* m'lady,0,0,Brixster,GQR5zsLHbYw,0.0,2018-08-06 03:51:23,False,False
+2018-08-18T06:53:16,"Love, love, LOVE THIS MOVIE!",0,0,Tan Lan,GQR5zsLHbYw,0.5416666666666666,2018-08-18 06:53:16,False,False
+2018-08-18T21:05:26,"Great movie! And people in the comments, avoid saying ""it's got great gags and stuff."" Just say ""it's got great gags.""",4,0,The Delusionist And His Demons,GQR5zsLHbYw,0.8666666666666667,2018-08-18 21:05:26,False,False
+2018-08-25T10:09:35,I love the movie and stuff! 😁,2,1,duhawma,GQR5zsLHbYw,0.625,2018-08-25 10:09:35,False,False
+2018-09-01T14:52:08,*Buy this film*,2,0,StillGotShit4Brains,GQR5zsLHbYw,0.0,2018-09-01 14:52:08,False,False
+2018-09-03T23:07:32,I enjoyed it.,1,0,Dipak Chowdhury,GQR5zsLHbYw,0.5,2018-09-03 23:07:32,False,False
+2018-09-04T18:07:31,I love this movie 😂😂😂,0,0,Enbu,GQR5zsLHbYw,0.5,2018-09-04 18:07:31,False,False
+2018-09-08T22:25:47,never seen such a good movie in a very long time,1,0,MoJo,GQR5zsLHbYw,0.21166666666666667,2018-09-08 22:25:47,False,False
+2018-09-16T22:07:17,this trailer gives away so much....,0,0,Sean Kobi Sandoval,GQR5zsLHbYw,0.2,2018-09-16 22:07:17,False,False
+2018-09-17T21:46:07,One of my all time fav comedy movie,1,0,bAkA,GQR5zsLHbYw,0.0,2018-09-17 21:46:07,False,False
+2018-09-21T06:33:24,Shane Black killed this movie with the script,0,0,Vean Studio,GQR5zsLHbYw,-0.18333333333333335,2018-09-21 06:33:24,False,False
+2018-10-18T23:04:20,"I'm here to tell you that comedy movies should not be watched alone because they are double the fun when you watch it with company. Anyway,i came here to tell you that i watched this alone and BEST F MOVIE EVER. It cures cancer.",2,0,Ermir Dunga,GQR5zsLHbYw,0.43333333333333335,2018-10-18 23:04:20,False,False
+2018-11-12T23:19:16,Kiss Kiss Bang Bang & Nice Guys > Iron Man 3 & The Predator,1,0,Christopher Souza,GQR5zsLHbYw,0.6,2018-11-12 23:19:16,False,False
+2018-12-05T16:08:18,"Watch this movie , its so fucking good",1,0,pancakes R infinite,GQR5zsLHbYw,0.7,2018-12-05 16:08:18,False,False
+2018-12-11T02:51:15,Another movie where 'Hitler' name is mentioned to scold at someone.....Jewish production I guess ??,0,0,Clay,GQR5zsLHbYw,0.0,2018-12-11 02:51:15,False,False
+2018-12-23T10:07:21,More people need to watch this!,1,0,Ashton Greig,GQR5zsLHbYw,0.625,2018-12-23 10:07:21,False,False
+2018-12-27T15:26:02,What is the name of the disco band that plays live at the party?,0,0,mery soft,GQR5zsLHbYw,0.13636363636363635,2018-12-27 15:26:02,False,False
+2018-12-28T06:24:19,Im looking for underrated movies that i missed in the past recent years. Im bout to watch this however here are some other movies that you guys might not know about that i would recommend. Good Time ***** A Quiet Place ***** The Sisters Brothers **** Kin *** Tag **** (i am now a fan of Hannibal Burres because of this movie),1,1,Artkidtek,GQR5zsLHbYw,0.06499999999999999,2018-12-28 06:24:19,False,False
+2019-01-05T19:27:01,"Nice trailer, doesn't spoil anything.",0,1,Marigen Beltran,GQR5zsLHbYw,0.6,2019-01-05 19:27:01,False,False
+2019-01-05T22:48:30,"alright, The Hollies :)",0,0,Norbert de Varenne,GQR5zsLHbYw,0.5,2019-01-05 22:48:30,False,False
+2019-01-28T05:21:05,Sequel to Kiss Kiss Bang Bang.,0,0,Korak Banerjee,GQR5zsLHbYw,0.0,2019-01-28 05:21:05,False,False
+2019-02-02T12:05:31,What a movie man....i really enjoyed each & every minute....chemistry between Crowe & Gosling was mind blowing.....they both have nailed it....in different ways.😂,0,0,Vengatesh vegetio,GQR5zsLHbYw,0.25,2019-02-02 12:05:31,False,False
+2019-02-03T22:25:16,It is one of the most stupid and unfunny movies I’ve ever watched...,0,2,Prügelkatze0815,GQR5zsLHbYw,-0.14999999999999997,2019-02-03 22:25:16,False,False
+2019-02-07T22:05:08,Best comedy need a part 2,0,0,T Hillr,GQR5zsLHbYw,1.0,2019-02-07 22:05:08,False,False
+2019-02-12T18:41:23,I started watching this movie reluctantly but wow LOVED it 👍,0,0,chantal Amino,GQR5zsLHbYw,0.39999999999999997,2019-02-12 18:41:23,False,False
+2019-02-15T22:39:50,Seriously one of the best comedies in years! Such a shame this movie got on the same day as Neighbors 2 and Angry Birds. Those pieces of shit turned this masterpiece into a financial flop!,0,0,Isaac Cushman,GQR5zsLHbYw,-0.004761904761904753,2019-02-15 22:39:50,False,False
+2019-02-18T07:09:23,"Huh, I like assholes for justice.",0,0,M D,GQR5zsLHbYw,0.0,2019-02-18 07:09:23,False,False
+2019-02-24T09:26:21,I dunno how the hell he can kept a straight face after realizing where the missing husband actually went to.. 😂😂😂,1,0,KuaciGaming MY,GQR5zsLHbYw,0.0,2019-02-24 09:26:21,False,False
+2019-02-27T01:12:58,I Hope We Get A Sequel Soon!!!!!!,0,0,"Tyler ""Shaggy"" Rogers Transformers Anime Fan 01",GQR5zsLHbYw,0.0,2019-02-27 01:12:58,False,False
+2019-02-28T00:05:27,"Such a great movie, perfect combination of different genres.",1,0,Isaiah Marcellino,GQR5zsLHbYw,0.45,2019-02-28 00:05:27,False,False
+2019-03-02T21:29:32,Fucking awesome movie!,0,0,Володимир Поліщук,GQR5zsLHbYw,1.0,2019-03-02 21:29:32,False,False
+2019-04-01T21:00:56,2019 here... Seeing for the 1st... What a great movie,3,0,csl,GQR5zsLHbYw,0.8,2019-04-01 21:00:56,False,False
+2019-04-08T13:32:33,"Really nice detective , thriller, funny movie.",0,0,rajasekar R,GQR5zsLHbYw,0.425,2019-04-08 13:32:33,False,False
+2019-04-11T16:31:09,"I started watching this movie without knowing it was going to be a fun movie. I expected a standard crime/police movie whatever. So at some point I realized there was something odd, then I thought it was stupid, by the end I was laughing a lot :D",0,0,vogliounacocacola,GQR5zsLHbYw,0.038888888888888896,2019-04-11 16:31:09,False,False
+2019-04-17T21:13:12,"It's sad that a mediocre or a straight out boring superhero movie can do great at the box office, but an original hilarious comedy tanks.",4,0,rokky,GQR5zsLHbYw,-0.017857142857142856,2019-04-17 21:13:12,False,False
+2019-05-16T23:48:21,Hands down one of the best film of the past 20 years. Hand fucking down.,2,0,Massimo Volta,GQR5zsLHbYw,0.10972222222222222,2019-05-16 23:48:21,False,False
+2019-05-17T00:43:23,r/niceguys,1,0,Doodle Noodle,GQR5zsLHbYw,0.0,2019-05-17 00:43:23,False,False
+2019-05-31T23:44:58,I really enjoyed it. A sequel would be great!,0,0,Massimo D'Ambrogio,GQR5zsLHbYw,0.75,2019-05-31 23:44:58,False,False
+2019-06-21T11:39:48,Funniest hahahahahahah good movie,0,0,FCarmela CA,GQR5zsLHbYw,0.7,2019-06-21 11:39:48,False,False
+2019-06-22T23:59:41,We need more films like this  cinema has become so oversaturated with superhero movies.,0,0,Matthew Sebastian,GQR5zsLHbYw,0.5,2019-06-22 23:59:41,False,False
+2019-06-27T12:23:32,It's like this generation's Midnight Run.,0,0,Spenser,GQR5zsLHbYw,0.0,2019-06-27 12:23:32,False,False
+2019-06-30T13:35:55,This Film is terribly underrated. There's a Scene in it that made me laugh like no other movie did before.,0,5,Titan Mechanism,GQR5zsLHbYw,-0.2125,2019-06-30 13:35:55,False,False
+2019-07-18T19:57:44,"This movie is hilarious, I don’t care what everybody’s saying...gosling is comedy gold in this one and I don’t think he’s actually trying to be funny neither is Russel Crowe",0,0,Tom Jerry,GQR5zsLHbYw,0.25,2019-07-18 19:57:44,False,False
+2019-07-21T19:18:34,The best buddy cop movie of this decade!!! We need more of this please! Great chemistry and funny as hell,0,0,Prince Solomon,GQR5zsLHbYw,0.66875,2019-07-21 19:18:34,False,False
+2019-07-24T16:38:16,Great trailer.  Terrible movie.  Don't waste your time. I was very disappointed.,0,3,PhillyLucky7,GQR5zsLHbYw,-0.34375,2019-07-24 16:38:16,False,False
+2019-08-07T06:42:33,This movie is sooo fucking good,0,0,Green Man,GQR5zsLHbYw,0.7,2019-08-07 06:42:33,False,False
+2019-08-30T07:58:19,"“1977, it was a time of sex...”  Yeah to be fair, sex has been happening non stop for some time now. Most of my life at least. 😏",0,0,S R,GQR5zsLHbYw,0.3,2019-08-30 07:58:19,False,False
+2019-09-06T12:02:17,"the book was waaaaay better than the film, unless you're a film person",0,0,Silvio Fusiello,GQR5zsLHbYw,0.5,2019-09-06 12:02:17,False,False
+2019-09-13T05:28:14,Love the scenes where you see the smog,0,0,Jimi Hendrix,GQR5zsLHbYw,0.5,2019-09-13 05:28:14,False,False
+2019-09-29T02:01:59,Wish I had seen it in theaters... it's a great companion to Kiss Kiss Bang Bang.,11,1,Enrique Singh,GQR5zsLHbYw,0.8,2019-09-29 02:01:59,False,False
+2019-10-01T10:01:11,Dont say 'and stuff'. Just say theyre doing anal,2,0,stomachegg0,GQR5zsLHbYw,0.0,2019-10-01 10:01:11,False,False
+2019-11-07T03:03:40,One of the best comedies ever,0,0,Wolfy,GQR5zsLHbYw,1.0,2019-11-07 03:03:40,False,False
+2019-12-08T22:55:09,Shane Black. Fred Dekker. SEQUEL.,1,0,Chris Corley,GQR5zsLHbYw,-0.16666666666666666,2019-12-08 22:55:09,False,False
+2019-12-12T06:27:37,You're the worst detective🕵,2,0,Casual_DropoutYT,GQR5zsLHbYw,-1.0,2019-12-12 06:27:37,False,False
+2019-12-23T14:21:17,Box office only 60 million USD?! but „Office Christmas Party“ gets 115 millions?!?! Fuck this world.,0,0,Tech Nomad,GQR5zsLHbYw,-0.2,2019-12-23 14:21:17,False,False
+2019-12-31T04:28:43,What’s the name of the song at 0:22,0,0,Bryan Buchta,GQR5zsLHbYw,0.0,2019-12-31 04:28:43,False,False
+2019-12-31T07:36:08,"Can't believe this movie bombed at box office, funniest film I've watched in a long time",1,0,Laura Usai,GQR5zsLHbYw,-0.05,2019-12-31 07:36:08,False,False
+2019-12-31T09:48:04,Looks at the bottle of ashes. Ryan:how long has he been missing? Lady: since the funeral Me:🤣🤣🤣🤣,2,0,Lumbiwe Mwanang'ono,GQR5zsLHbYw,-0.125,2019-12-31 09:48:04,False,False
+2020-01-03T08:49:16,Extremely underrated movie,0,0,Nicholas Brown,GQR5zsLHbYw,-0.125,2020-01-03 08:49:16,False,False
+2020-01-03T10:16:03,"I just watched this.  Original idea, fun fights, great chemistry between Crowe and Gosling.  Seemed to drag on in the middle though... that's just my worthless opinion.  But the start and the end was good!",0,0,Classic Boxing Matches,GQR5zsLHbYw,0.20714285714285713,2020-01-03 10:16:03,False,False
+2020-01-11T15:24:19,"Whoever edited this trailer did an amazing job. ""It's the recession"" Cuts to a screen that says 1977",0,0,Incog 0,GQR5zsLHbYw,0.6000000000000001,2020-01-11 15:24:19,False,False
+2020-01-16T09:55:16,Not bad movie - Russell crow -  Great as always - Ryan Gosling - being over the top with his so called comedy routines didn't do him any favours - 70's  Settings were fantastic as were the music - Great seeing EWF even though lifted from music video - Overall  great story line great soundtrack & enjoyable movie !,1,1,Stephen Birks,GQR5zsLHbYw,0.5638888888888888,2020-01-16 09:55:16,False,False
+2020-01-18T08:54:41,This trailer is as bad as awesomeeeeeee the movie was. I mean it shows wayyh too much to impress people. Why the fuck are trailers made like that?,0,0,Arpit Srivastava,GQR5zsLHbYw,-0.303125,2020-01-18 08:54:41,False,False
+2020-01-26T20:18:24,Javert has gone through some serious shit,0,0,martin router king,GQR5zsLHbYw,-0.26666666666666666,2020-01-26 20:18:24,False,False
+2020-01-31T20:28:41,Yeah I'm gonna be that guy and say this movie sucked,0,0,Best Anime Hero,GQR5zsLHbYw,0.0,2020-01-31 20:28:41,False,False
+2020-02-05T15:17:55,i still slightlly prefer kiss kiss bang bang than this,1,1,fiqipraramadhan,GQR5zsLHbYw,0.0,2020-02-05 15:17:55,False,False
+2020-02-05T17:47:06,People wants The Nice Guys sequel Warner!!!,0,0,Roland Molnár,GQR5zsLHbYw,0.6,2020-02-05 17:47:06,False,False
+2020-02-10T09:39:00,Felt like a Tarantino movie if Tarantino incorporated a bit more over the top action scenes and comedy scenes. Really is a hidden jem.,0,0,Nava.Adrian,GQR5zsLHbYw,0.23333333333333336,2020-02-10 09:39:00,False,False
+2020-02-15T07:20:46,“No I didn’t Janet!”,0,0,This Boi Loves P!nk,GQR5zsLHbYw,0.0,2020-02-15 07:20:46,False,False
+2020-02-17T23:15:42,One of the most underrated movies of the decade,0,0,Peter Smittens,GQR5zsLHbYw,0.5,2020-02-17 23:15:42,False,False
+2020-02-21T03:35:43,It’s a shame this movie wasn’t a big film. It’s such a great film to watch and I highly recommend. Sad at how underrated it is!,1,0,Samuel’s Piano Covers,GQR5zsLHbYw,0.06700000000000002,2020-02-21 03:35:43,False,False
+2020-02-21T21:22:06,"Amazing movie, loved it",0,0,Lily Steelgrace,GQR5zsLHbYw,0.65,2020-02-21 21:22:06,False,False
+2020-02-24T13:49:01,"this should definitely have a sequel, I'am more expecting this than fast&furious series",1,0,Daniel Yu,GQR5zsLHbYw,0.25,2020-02-24 13:49:01,False,False
+2020-03-13T02:39:08,"People slept on this movie hard, this  is one funny movie",0,0,Andy Gonzalez,GQR5zsLHbYw,-0.020833333333333343,2020-03-13 02:39:08,False,False
+2020-03-18T04:51:26,Qualley has been doing a lot of 90’s films wowie,0,0,Allyson Estes,GQR5zsLHbYw,0.0,2020-03-18 04:51:26,False,False
+2020-03-18T14:31:33,Did anyone else think it was a bit Pulp Fiction esque?,0,0,Phillip C,GQR5zsLHbYw,0.0,2020-03-18 14:31:33,False,False
+2020-03-24T09:52:55,I feel like I made wrong choice watching trailer first,0,0,Fullmetal Senpai,GQR5zsLHbYw,-0.125,2020-03-24 09:52:55,False,False
+2020-04-01T14:19:26,the most underrated movie of the decade. this movie was so damn good,1,1,Samuel Finkelstein,GQR5zsLHbYw,0.6,2020-04-01 14:19:26,False,False
+2020-04-06T03:37:52,saw this movie again today on hulu. l,0,0,Brian Banegas,GQR5zsLHbYw,0.0,2020-04-06 03:37:52,False,False
+2020-04-11T07:09:54,paedos,0,0,Ryan,GQR5zsLHbYw,0.0,2020-04-11 07:09:54,False,False
+2020-04-16T05:14:12,THIS MOVIE- ugh this movie is so underrated I love it sm,0,0,Ellie Steele,GQR5zsLHbYw,0.5,2020-04-16 05:14:12,False,False
+2020-04-16T11:27:15,"Still sad theres no sequel, and that it's very underrated",0,0,hiyas _,GQR5zsLHbYw,-0.15,2020-04-16 11:27:15,False,False
+2020-04-27T06:10:01,its on netflix yay,0,0,LiangHuBBB,GQR5zsLHbYw,0.0,2020-04-27 06:10:01,False,False
+2020-04-30T21:00:58,What’s the first song in the trailer,0,0,Bryan Buchta,GQR5zsLHbYw,0.25,2020-04-30 21:00:58,False,False
+2020-05-01T16:38:57,"the best comedy i watched in a long time , it deserves a sequel.",0,0,Abdelmounaim GHOUALI,GQR5zsLHbYw,0.475,2020-05-01 16:38:57,False,False
+2020-05-08T02:02:30,who’s here from the Nice Jedi video lol,2,0,Amber Parikh,GQR5zsLHbYw,0.7,2020-05-08 02:02:30,False,False
+2020-05-08T23:17:31,Here from the Attack Of The Clones edit,12,0,Ben O'Brien,GQR5zsLHbYw,0.0,2020-05-08 23:17:31,False,False
+2020-05-10T06:32:10,"I didn't like this movie when I first saw it.... This trailer is making me reevaluate, and I'm thinking of seeing it again.",0,0,Mikael Karlsson,GQR5zsLHbYw,0.25,2020-05-10 06:32:10,False,False
+2020-05-11T21:10:46,“I had to question the mermaids”!,4,0,Hjorntan,GQR5zsLHbYw,0.0,2020-05-11 21:10:46,False,False
+2020-05-15T21:14:09,How have i not seen this? Gotta watch it tonight,0,0,Damiani,GQR5zsLHbYw,0.0,2020-05-15 21:14:09,False,False
+2020-05-18T15:45:05,What are the songs in this trailer ?,0,0,I am The Batman,GQR5zsLHbYw,0.0,2020-05-18 15:45:05,False,False
+2020-05-18T21:31:04,Great picture,0,0,Ring general,GQR5zsLHbYw,0.8,2020-05-18 21:31:04,False,False
+2020-05-20T17:31:14,"One of my all time, top ten favorite movies",1,0,Ethan Turrano,GQR5zsLHbYw,0.3333333333333333,2020-05-20 17:31:14,False,False
+2020-05-21T21:21:46,"Génial se film, Ryan Gosling est excellent dedans.",0,0,VINCENT BJ,GQR5zsLHbYw,1.0,2020-05-21 21:21:46,False,False
+2020-05-22T17:59:04,This movie is so underrated!,0,0,Peter Burman,GQR5zsLHbYw,0.0,2020-05-22 17:59:04,False,False
+2020-05-27T16:02:52,10/10,1,0,H Schenck,GQR5zsLHbYw,0.0,2020-05-27 16:02:52,False,False
+2020-06-01T14:12:12,since when has your dead husband been missing?,0,2,P_Sher 12,GQR5zsLHbYw,-0.2,2020-06-01 14:12:12,False,False
+2020-06-01T21:03:44,Okay! How the fuck all these years I didnt see THIS MOVIE????? MOVIE IS GREAT!!! AMAZING PERFORMANCE BY BOTH OF THEM!!!!,0,0,Dr. Manhattan Jr,GQR5zsLHbYw,0.55625,2020-06-01 21:03:44,False,False
+2020-06-04T04:56:34,The trailer spoils most of the film.,0,0,Volatile Music,GQR5zsLHbYw,0.5,2020-06-04 04:56:34,False,False
+2020-06-04T06:41:45,The girl that plays Ryan Gosling's daughter was very good in this.,2,0,Michael Lippert,GQR5zsLHbYw,0.9099999999999999,2020-06-04 06:41:45,False,False
+2020-06-05T21:03:50,"Amazing trailer, amazing movie",2,0,Javier Izquierdo,GQR5zsLHbYw,0.6000000000000001,2020-06-05 21:03:50,False,False
+2020-06-06T16:32:03,"""i think he's comparing you to Hitler""",0,0,Frisky Frisky,GQR5zsLHbYw,0.0,2020-06-06 16:32:03,False,False
+2020-06-12T05:08:05,You call this a diplomatic solution?,0,0,MCJon C3R34L K1LL3R,GQR5zsLHbYw,0.0,2020-06-12 05:08:05,False,False
+2020-06-14T21:32:48,Hilarious movie. A must watch!,0,0,Punit Salimath,GQR5zsLHbYw,0.625,2020-06-14 21:32:48,False,False
+2020-06-14T23:50:01,“Are you not entertained?”,0,0,Oliver,GQR5zsLHbYw,0.0,2020-06-14 23:50:01,False,False

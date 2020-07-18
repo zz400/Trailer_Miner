@@ -1,0 +1,592 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2015-08-14T15:08:54,First,0,1,Hermes Marques,QsyzkkI_g14,0.25,2015-08-14 15:08:54,True,True
+2015-08-14T15:09:23,1st,0,0,Jan Saksida,QsyzkkI_g14,0.0,2015-08-14 15:09:23,True,True
+2015-08-14T15:10:26,third,0,0,Rocco Ruggiero,QsyzkkI_g14,0.0,2015-08-14 15:10:26,True,True
+2015-08-14T15:10:27,second,0,0,Tanic Danilo,QsyzkkI_g14,0.0,2015-08-14 15:10:27,True,True
+2015-08-14T15:11:00,Waiting For Civil War!,6,8,gill,QsyzkkI_g14,0.0,2015-08-14 15:11:00,True,True
+2015-08-14T15:12:14,OMAR SY FOR THE WIN,0,0,Thomas Balestre,QsyzkkI_g14,0.8,2015-08-14 15:12:14,True,True
+2015-08-14T15:13:12,second,0,0,french frie,QsyzkkI_g14,0.0,2015-08-14 15:13:12,True,True
+2015-08-14T15:13:56,gordon ramsay biopic?,764,21,TheGsGClan,QsyzkkI_g14,0.0,2015-08-14 15:13:56,True,True
+2015-08-14T15:14:13,this made me hungry!,0,0,Sahil Pimenta,QsyzkkI_g14,0.0,2015-08-14 15:14:13,True,True
+2015-08-14T15:15:54,Anything with this guy in it is good.,0,0,Ricoclout28,QsyzkkI_g14,0.7,2015-08-14 15:15:54,True,True
+2015-08-14T15:17:26,Not too shabby.,0,0,Ethan Carney,QsyzkkI_g14,0.0,2015-08-14 15:17:26,True,True
+2015-08-14T15:17:38,Am hungry,0,0,MikeyJoJo6385,QsyzkkI_g14,0.0,2015-08-14 15:17:38,True,True
+2015-08-14T15:18:18,Nearly as hot as AxxL,0,0,AxxL,QsyzkkI_g14,0.25,2015-08-14 15:18:18,True,True
+2015-08-14T15:19:05,"This looks good, Bradley Cooper was the right pick to star in this movie.",8,0,Izzy Vert,QsyzkkI_g14,0.4928571428571428,2015-08-14 15:19:05,True,True
+2015-08-14T15:20:24,Lol is this for real??,0,0,ben honeycut,QsyzkkI_g14,0.5,2015-08-14 15:20:24,True,True
+2015-08-14T15:20:57,cook me a dinner please and don't be a drama queen :),95,8,Bagatir,QsyzkkI_g14,0.5,2015-08-14 15:20:57,True,True
+2015-08-14T15:21:03,Anybody else eating when they watched this?,0,1,Channel JJ,QsyzkkI_g14,0.0,2015-08-14 15:21:03,True,True
+2015-08-14T15:21:44,Apparently Leonardo is not the only one desperate for an Oscar...,188,63,msnicoleleeee314,QsyzkkI_g14,-0.18333333333333332,2015-08-14 15:21:44,True,True
+2015-08-14T15:22:16,0:53 - i wish all girls would think that way. sorry :D,20,0,fracture333,QsyzkkI_g14,0.25,2015-08-14 15:22:16,True,True
+2015-08-14T15:24:25,Wow I can't wait to not see this.,1,0,This Is Google,QsyzkkI_g14,0.1,2015-08-14 15:24:25,True,True
+2015-08-14T15:29:36,im hungry now.,0,0,Dominic Massey,QsyzkkI_g14,0.0,2015-08-14 15:29:36,True,True
+2015-08-14T15:30:47,Jamie Dornan is on the movie?,0,0,Susan Perez Gonzalez,QsyzkkI_g14,0.0,2015-08-14 15:30:47,True,True
+2015-08-14T15:36:15,Didn't Bradley Cooper already do something similar to this movie but in TV version many years back? Kitchen Confidential?,13,5,TM56,QsyzkkI_g14,0.16666666666666666,2015-08-14 15:36:15,True,True
+2015-08-14T15:39:08,Interesting movie but sadly Bradley Cooper doesn't look like one of those chefs who are totally driven to succeed.,0,0,Jeston Chua,QsyzkkI_g14,0.0,2015-08-14 15:39:08,True,True
+2015-08-14T15:39:38,Looks so stupid ;-;,0,0,MsaKnight,QsyzkkI_g14,-0.7999999999999999,2015-08-14 15:39:38,True,True
+2015-08-14T15:39:45,"Ratatouille, but with a talking raccoon this time.",1155,12,Uncle Explosion,QsyzkkI_g14,0.0,2015-08-14 15:39:45,True,True
+2015-08-14T15:40:45,wow...gripping trailer,0,0,Diwakar Reddy,QsyzkkI_g14,0.0,2015-08-14 15:40:45,True,True
+2015-08-14T15:41:09,OMAR SY!,0,0,nandoughs,QsyzkkI_g14,0.0,2015-08-14 15:41:09,True,True
+2015-08-14T15:42:58,shokugeki! :P,0,0,jk well,QsyzkkI_g14,0.75,2015-08-14 15:42:58,True,True
+2015-08-14T15:44:20,Looking forward to watching that! Super chief! Looks good!,0,0,Dean J Powell,QsyzkkI_g14,0.6458333333333333,2015-08-14 15:44:20,True,True
+2015-08-14T15:44:21,Hopefully this movie redeems him from that forgettable movie Aloha,0,0,Valerie Antoine,QsyzkkI_g14,-0.5,2015-08-14 15:44:21,True,True
+2015-08-14T15:46:13,"Looks good. Brad's a solid actor. I wish he'd stop repeatedly working with all the same lead actresses though. Pair him up with someone more challenging, maybe not so girly and perfect all the time. I want to see him acting chops grow!",0,0,CaliforniaDebi,QsyzkkI_g14,0.38571428571428573,2015-08-14 15:46:13,True,True
+2015-08-14T15:48:48,Cooking with the kock: De Movie,0,0,Nasty McJackass,QsyzkkI_g14,0.0,2015-08-14 15:48:48,True,True
+2015-08-14T15:49:59,gorden ramsey over here,0,0,Lurd Farquaad,QsyzkkI_g14,0.0,2015-08-14 15:49:59,True,True
+2015-08-14T15:51:37,Gordon Ramsay : Thats my boy.,2,0,Mandeep Singh,QsyzkkI_g14,0.0,2015-08-14 15:51:37,True,True
+2015-08-14T15:52:55,IT'S F*CKING RAW!!!!,0,0,Arix_Zhang,QsyzkkI_g14,-0.5634014423076924,2015-08-14 15:52:55,True,True
+2015-08-14T15:55:12,what about Jamie dornan I heard that he was joined to this movie,0,0,Ali Almalky,QsyzkkI_g14,0.0,2015-08-14 15:55:12,True,True
+2015-08-14T15:55:48,wtf is he doing in France? the best restaurant in the world is in Denmark...,0,2,Frederik Callesen,QsyzkkI_g14,0.25,2015-08-14 15:55:48,True,True
+2015-08-14T15:56:45,Possibly going to be good?,0,0,Spencer Cornelia,QsyzkkI_g14,0.35,2015-08-14 15:56:45,True,True
+2015-08-14T15:58:10,"Meanwhile, I'm satisfied going down to the local for parma and beer.",0,0,Andre,QsyzkkI_g14,0.11481481481481481,2015-08-14 15:58:10,True,True
+2015-08-14T15:58:53,Shokugeki No Suma,0,0,R3dnK,QsyzkkI_g14,0.0,2015-08-14 15:58:53,True,True
+2015-08-14T16:05:53,so he left school when he was 16 to Paris so it is clearly set in France but he looks 35 and still speaks with a fluent American accent and no one in this trailer has a French accent and there was even a woman with an English accent,0,0,temi,QsyzkkI_g14,0.020000000000000004,2015-08-14 16:05:53,True,True
+2015-08-14T16:08:40,IT'S ROTTEN!!,0,0,MikeMerlin,QsyzkkI_g14,0.0,2015-08-14 16:08:40,True,True
+2015-08-14T16:08:41,Yooo I've been waiting for this trailer for too long. FINALLY,0,0,Invidious TV,QsyzkkI_g14,-0.025,2015-08-14 16:08:41,True,True
+2015-08-14T16:13:43,Wait a movie with Bradley Cooper without Jennifer Lawrence!?,0,0,Jacob Garrido,QsyzkkI_g14,0.0,2015-08-14 16:13:43,True,True
+2015-08-14T16:21:47,Please go on my channel and check out my short film and tell me what you think this the first short film I've ever made and would really appreciate the criticism,0,0,Rafael Cruz,QsyzkkI_g14,0.1125,2015-08-14 16:21:47,True,True
+2015-08-14T16:23:42,he`s talking like he`s crying,0,0,Катя Постовая,QsyzkkI_g14,-0.2,2015-08-14 16:23:42,True,True
+2015-08-14T16:26:19,intense.,0,0,Raffy Rillo,QsyzkkI_g14,0.2,2015-08-14 16:26:19,True,True
+2015-08-14T16:26:46,lol noooooo,0,0,MetalsForBrunch,QsyzkkI_g14,0.8,2015-08-14 16:26:46,True,True
+2015-08-14T16:33:13,where is Jennifer Lawrence??,0,0,Sofiane El Marhani,QsyzkkI_g14,0.0,2015-08-14 16:33:13,True,True
+2015-08-14T16:33:30,I would put my shlong in Bradley's butt omg he is so delectable,1,0,Anywhere But Here,QsyzkkI_g14,0.0,2015-08-14 16:33:30,True,True
+2015-08-14T16:47:26,Wow there's so much Oscar bait this year.,8,0,OnlyDavidWould,QsyzkkI_g14,0.15000000000000002,2015-08-14 16:47:26,True,True
+2015-08-14T17:04:00,"Think of Whiplash, in the eyes of J.K. Simmons and a little bit more milder. Thats this movie.",5,0,Briste,QsyzkkI_g14,0.15625,2015-08-14 17:04:00,True,True
+2015-08-14T17:06:59,The REAL Ratatouille,0,0,Lewi,QsyzkkI_g14,0.2,2015-08-14 17:06:59,True,True
+2015-08-14T17:09:46,bollocks,0,0,KHD,QsyzkkI_g14,0.0,2015-08-14 17:09:46,True,True
+2015-08-14T17:14:17,Where's the lamb sauce?!,0,0,Mark,QsyzkkI_g14,0.0,2015-08-14 17:14:17,True,True
+2015-08-14T17:23:23,A movie with Bradley - it's always good.,0,0,Alexander Raskulov,QsyzkkI_g14,0.7,2015-08-14 17:23:23,True,True
+2015-08-14T17:30:42,The Great British Bake Off on crack.,0,0,Paul McLauchlan,QsyzkkI_g14,0.4,2015-08-14 17:30:42,True,True
+2015-08-14T17:41:37,cant be better than cooking master boy,0,0,Alex Gong,QsyzkkI_g14,0.5,2015-08-14 17:41:37,True,True
+2015-08-14T18:00:29,Booooring!,1,0,The Wild One,QsyzkkI_g14,0.0,2015-08-14 18:00:29,True,True
+2015-08-14T18:05:53,"""If you try to open a new restaurant at least a dozen people will try to have you killed"", am I the only one who burst out laughing? Leave it to Hollywood to try and make a movie about cooking a suspenseful thriller by using a bunch of edgy buzzwords in the trailer with dramatic music/undertones. Absolutely hilarious, poor Bradley Cooper, he deserves better.",562,41,Awesomeness Hippopotamus,QsyzkkI_g14,-0.04517906336088154,2015-08-14 18:05:53,True,True
+2015-08-14T18:10:08,I was cringing too much to laugh.,1,0,C.E. Nolan,QsyzkkI_g14,0.3,2015-08-14 18:10:08,True,True
+2015-08-14T18:17:24,master chef hardcore,0,0,jeferson silva,QsyzkkI_g14,0.0,2015-08-14 18:17:24,True,True
+2015-08-14T18:19:05,Spoiler alert  He gets a restaurant,0,0,Your Dad,QsyzkkI_g14,0.0,2015-08-14 18:19:05,True,True
+2015-08-14T18:22:54,"Damn, seems everyone wants that Oscar… Leonardo, Del Toro and Cooper to name a few",0,0,Jonny Freud,QsyzkkI_g14,0.0,2015-08-14 18:22:54,True,True
+2015-08-14T18:28:08,the last scene ''Yes chef ...yeah!! look at me...'' its Gordan Ramsay written all over!! looking forward for this movie!!,2,0,Akheelesh Umrowsing,QsyzkkI_g14,0.0,2015-08-14 18:28:08,True,True
+2015-08-14T18:28:11,Bradley Coopee should fire his agent. He's a talented actor who plays in clichéd generic crap mostly,156,16,Marco A,QsyzkkI_g14,0.09999999999999998,2015-08-14 18:28:11,True,True
+2015-08-14T18:29:03,"And then he had a brilliant idea for a T.V. show, and he called it ""Hell's Kitchen"".",0,0,L.A. Prodigy,QsyzkkI_g14,0.9,2015-08-14 18:29:03,True,True
+2015-08-14T18:34:24,Oscar Bait,0,0,Steve Buscemi,QsyzkkI_g14,0.0,2015-08-14 18:34:24,True,True
+2015-08-14T18:41:13,"I don't know, man.. I loved the movie ""Chef"" because it's fun and heart-warming and I'm not sure if I want to watch another chef movie that's so serious and intense. I'm going to watch it though, but I don't know if I would like it.",0,0,sahalanimation,QsyzkkI_g14,0.12333333333333334,2015-08-14 18:41:13,True,True
+2015-08-14T18:43:01,him and sienna miller again?,0,0,thenikkhazami,QsyzkkI_g14,0.0,2015-08-14 18:43:01,True,True
+2015-08-14T18:45:16,A French (the black guy we saw in Jurassik World) who happens to be a commis (junior cook) in a movie about a restaurant in Britain with an American Chef ... nothing wrong at all ^^,0,0,Andrew Vinci,QsyzkkI_g14,-0.16666666666666666,2015-08-14 18:45:16,True,True
+2015-08-14T18:50:38,another movie making something heroic out of something completely ordinary,0,0,Sharky,QsyzkkI_g14,0.22499999999999998,2015-08-14 18:50:38,True,True
+2015-08-14T18:51:00,"That moment he starts talking, and you immediately notice very good acting... just sayin",0,0,Katarina Fumiš,QsyzkkI_g14,0.45499999999999996,2015-08-14 18:51:00,True,True
+2015-08-14T18:51:06,Cooper: What are you!? chef: An idiot sandwich,0,0,SirCrocodile162,QsyzkkI_g14,-0.8,2015-08-14 18:51:06,True,True
+2015-08-14T18:53:26,"ok ..now am goin to cook some shit,cause I eat what I cook myself only:)p",0,0,Gidis96,QsyzkkI_g14,0.5,2015-08-14 18:53:26,True,True
+2015-08-14T18:56:51,There is going to be a shit load of broken plates at the end of this movie,0,0,Solid Mike P,QsyzkkI_g14,-0.30000000000000004,2015-08-14 18:56:51,True,True
+2015-08-14T18:57:54,so a bitter live action ratatouille?,0,0,flummoxed.mp4,QsyzkkI_g14,0.04545454545454545,2015-08-14 18:57:54,True,True
+2015-08-14T19:26:21,Yes Chef!,0,0,Reginald Frost,QsyzkkI_g14,0.0,2015-08-14 19:26:21,True,True
+2015-08-14T19:32:38,Bradly is Gordon?? (plot twist),0,0,khalifa sharif,QsyzkkI_g14,0.0,2015-08-14 19:32:38,True,True
+2015-08-14T19:40:34,"""The kitchen's the only place that I've ever felt I've really belonged""  If a woman had said this line, the entire internet would explode ",2222,44,charlottesasaki,QsyzkkI_g14,0.06666666666666667,2015-08-14 19:40:34,True,True
+2015-08-14T19:45:42,If Bradley Cooper is in it then I'm going to watch it 👌😁,10,0,abu bakr abdullatif,QsyzkkI_g14,0.0,2015-08-14 19:45:42,True,True
+2015-08-14T19:53:59,What happened with Jamie Dornan?,0,0,Agus Contreras,QsyzkkI_g14,0.0,2015-08-14 19:53:59,True,True
+2015-08-14T20:09:48,I'm eating taco bell while watching this.,0,0,Huy Vo,QsyzkkI_g14,0.0,2015-08-14 20:09:48,True,True
+2015-08-14T20:17:13,Does he kill children and women in this movie too?,0,0,Jin Kazama,QsyzkkI_g14,0.0,2015-08-14 20:17:13,True,True
+2015-08-14T20:24:54,"I want to watch this now, I just can't wait!",1,0,How To Make Sushi,QsyzkkI_g14,0.0,2015-08-14 20:24:54,True,True
+2015-08-14T20:34:17,I wanna see a biopic of Marco Pierre!,0,0,Dennis Pierre,QsyzkkI_g14,0.0,2015-08-14 20:34:17,True,True
+2015-08-14T20:40:09,Omar Sy?,0,0,Akniet Arysbayev,QsyzkkI_g14,0.0,2015-08-14 20:40:09,True,True
+2015-08-14T20:45:09,"Waiting for actually good comments, as I can't figure out one myself :c",0,0,IstuvaRuumis,QsyzkkI_g14,-0.025000000000000022,2015-08-14 20:45:09,True,True
+2015-08-14T21:06:23,bradley is the hottest <3,0,7,Allan da Silva,QsyzkkI_g14,1.0,2015-08-14 21:06:23,True,True
+2015-08-14T21:11:20,No Jennifer Lawrence?,0,0,"Hi, Neighbor!",QsyzkkI_g14,0.0,2015-08-14 21:11:20,True,True
+2015-08-14T21:30:01,yeah~~ Kitchen Confidential is back!,0,0,Q Way,QsyzkkI_g14,0.0,2015-08-14 21:30:01,True,True
+2015-08-14T21:53:15,Burnt:Boring.,0,0,Wolffenhaus Merry,QsyzkkI_g14,0.0,2015-08-14 21:53:15,True,True
+2015-08-14T21:58:05,"That looks awful. Like, really, why in the name of Christ, Moses and Mohammed did they think that wasn't a shit idea? It's gonna make that guff Rocket Raccoon made about being an author look like The Godfather II.",0,0,Antony Murray,QsyzkkI_g14,-0.3333333333333333,2015-08-14 21:58:05,True,True
+2015-08-14T22:04:30,when is somone going to shoot  G O R D O N the movie lol,0,0,Rowan W,QsyzkkI_g14,0.8,2015-08-14 22:04:30,True,True
+2015-08-14T22:14:09,So Bradley Cooper is an Academy award winner but not Leo Dicaprio. well done Merica!,0,0,masud ahmad,QsyzkkI_g14,0.0,2015-08-14 22:14:09,True,True
+2015-08-14T22:14:09,So Bradley Cooper is an Academy award winner but not Leo Dicaprio. well done Merica!,0,0,masud ahmad,QsyzkkI_g14,0.0,2015-08-14 22:14:09,True,True
+2015-08-14T22:17:43,Looks like ok role for sienna,0,0,adam lewis,QsyzkkI_g14,0.5,2015-08-14 22:17:43,True,True
+2015-08-14T22:41:16,American Sniper 2: Chef Edition,48,0,Babyface6200,QsyzkkI_g14,0.0,2015-08-14 22:41:16,True,True
+2015-08-14T22:44:08,"So, he can only make movies with Sienna Miller and JLaw now? Ugh...",0,0,Charles Goss,QsyzkkI_g14,0.0,2015-08-14 22:44:08,True,True
+2015-08-14T22:54:33,"The stress, pressure and adrenaline you feel when you're cooking  for hundreds of people in just 2 hours of a maybe 10 hour daily work. The chef getting mad, yelling and throwing plates around !! You will feel delusional sometimes but it makes you feel alive. A+",0,0,MyImperfectLife,QsyzkkI_g14,-0.2921875,2015-08-14 22:54:33,True,True
+2015-08-14T23:03:43,good looking guy and knows how to cook? oh yummy I want one please,0,1,Latifa Abraham,QsyzkkI_g14,0.7,2015-08-14 23:03:43,True,True
+2015-08-14T23:06:19,"But, he forgot about jennifer lawrence, there is no bradley cooper movie without her.",3,0,Andrés Giraldo,QsyzkkI_g14,0.0,2015-08-14 23:06:19,True,True
+2015-08-14T23:12:36,So when does he become the Orioles CF?,0,0,COMMANDRofAWESUM,QsyzkkI_g14,0.0,2015-08-14 23:12:36,True,True
+2015-08-14T23:21:24,"""Bradley Cooper plays a man unable to stop throwing stuff""",0,0,addgrav,QsyzkkI_g14,-0.5,2015-08-14 23:21:24,True,True
+2015-08-14T23:21:42,"""you are looking at that all the time yeah, you have eyes on it the whole time..."" ""yes chef"" ""look at me."" I thought when she turned her face, she would enter a world of pain",15,0,aloevaro,QsyzkkI_g14,0.2,2015-08-14 23:21:42,True,True
+2015-08-14T23:29:43,Ramsay?!?,1,0,xInZaxx,QsyzkkI_g14,0.0,2015-08-14 23:29:43,True,True
+2015-08-14T23:30:59,"In London ? It should be in France, because it is the best gastronomy in the world",1,0,WWThomahawkWW,QsyzkkI_g14,1.0,2015-08-14 23:30:59,True,True
+2015-08-15T00:06:53,It's like Chef...with none of the heart.,0,0,Char Aznable,QsyzkkI_g14,0.0,2015-08-15 00:06:53,True,True
+2015-08-15T00:25:06,Dat whisking noise could be a good ringtone :p,0,0,Adi Dharma Kusuma,QsyzkkI_g14,0.725,2015-08-15 00:25:06,True,True
+2015-08-15T01:00:02,0:47  please stop  1:06  really stop it  1:31  no just no,0,0,GodKingOsiris,QsyzkkI_g14,0.2,2015-08-15 01:00:02,True,True
+2015-08-15T01:06:43,does Lilly James not get credit?,0,0,John Goundry,QsyzkkI_g14,0.0,2015-08-15 01:06:43,True,True
+2015-08-15T01:58:30,"There is no tension in the story, but the trailer unsuccessful tries to make this movie seem epic and exciting. Another shitty no story movie.",0,0,Nikita Belomestnykh,QsyzkkI_g14,0.09999999999999999,2015-08-15 01:58:30,True,True
+2015-08-15T02:23:45,Whiplash: Gordon Ramsay Lite,0,0,Trevor C,QsyzkkI_g14,0.0,2015-08-15 02:23:45,True,True
+2015-08-15T02:48:16,Just give the man a bloody Oscar already.,0,0,Heeya T.,QsyzkkI_g14,-0.8,2015-08-15 02:48:16,True,True
+2015-08-15T02:55:10,"Anybody else also now wanna watch Food Network Star, Top Chef, etc.?",0,2,TheGodOfPez,QsyzkkI_g14,0.5,2015-08-15 02:55:10,True,True
+2015-08-15T03:07:06,Who else sees Bradley Cooper as the joker!!??,0,0,anthcast,QsyzkkI_g14,0.0,2015-08-15 03:07:06,True,True
+2015-08-15T03:07:10,Who else sees Bradley Cooper as the joker!!??,0,0,anthcast,QsyzkkI_g14,0.0,2015-08-15 03:07:10,True,True
+2015-08-15T03:55:06,can bradley cooper go away,0,1,keen,QsyzkkI_g14,0.0,2015-08-15 03:55:06,True,True
+2015-08-15T04:00:34,I wonder how this movie wild end  -no one ever,0,0,G wp,QsyzkkI_g14,0.1,2015-08-15 04:00:34,True,True
+2015-08-15T04:01:29,this looks terrible,0,0,Robin Aelias,QsyzkkI_g14,-1.0,2015-08-15 04:01:29,True,True
+2015-08-15T04:18:49,Bradley Cooper: Its RAWWWWW,0,0,firstproof,QsyzkkI_g14,0.0,2015-08-15 04:18:49,True,True
+2015-08-15T04:32:52,"yeah no thank you to this, looks like an annoying flick.",0,0,82hky82,QsyzkkI_g14,-0.8,2015-08-15 04:32:52,True,True
+2015-08-15T04:53:30,"God that looks awful and boring, its awfully boring!",0,0,Grave Flower,QsyzkkI_g14,-1.0,2015-08-15 04:53:30,True,True
+2015-08-15T05:19:41,"*Great. Bradley Cooper remade live-action **_""Ratatouille""_**  '08* Be sure to check his toque for a mouse to trap. 😜 ✌️ Peace *_The comedy roast content herein was written & brought to you by DJ Lizzy B, LTD, 2015 trademark-pending, © all rights reserved._",0,0,DJ Lizzy B™,QsyzkkI_g14,0.65,2015-08-15 05:19:41,True,True
+2015-08-15T05:26:11,#MasterChef movie,1,0,Mateus Salvi,QsyzkkI_g14,0.0,2015-08-15 05:26:11,True,True
+2015-08-15T05:26:30,serious business,0,0,Ragepyre,QsyzkkI_g14,-0.3333333333333333,2015-08-15 05:26:30,True,True
+2015-08-15T05:43:26,"We got Brad Cooper, aka: 'rocket' lettuce, but where's Groot?",0,0,STAG162,QsyzkkI_g14,0.0,2015-08-15 05:43:26,True,True
+2015-08-15T05:51:42,Certainly not captivating.,0,0,soulsquealer,QsyzkkI_g14,-0.25,2015-08-15 05:51:42,True,True
+2015-08-15T06:00:11,"Where's JLaw in this film? When you watch a BCooper's movie, Jennifer has to be on it.",0,0,Jesser Ventura,QsyzkkI_g14,0.0,2015-08-15 06:00:11,True,True
+2015-08-15T07:21:34,AMERICAN sniper 2: Snipatouillie,0,0,Bobby Carter,QsyzkkI_g14,0.0,2015-08-15 07:21:34,True,True
+2015-08-15T07:26:56,"This is Alicia Vikander's year. Ex Machina, The Man from U.N.C.L.E., The Danish Girl, Burnt...",1,0,Aegon the Conqueror,QsyzkkI_g14,0.0,2015-08-15 07:26:56,True,True
+2015-08-15T07:51:41,DEBIL,0,0,Насыр Азимов,QsyzkkI_g14,0.0,2015-08-15 07:51:41,True,True
+2015-08-15T08:00:34,Boooooring,0,0,Kaiser Dal,QsyzkkI_g14,0.0,2015-08-15 08:00:34,True,True
+2015-08-15T08:06:13,I came here hoping it was about Toast.,0,0,Jeremy,QsyzkkI_g14,0.0,2015-08-15 08:06:13,True,True
+2015-08-15T08:23:31,Ratatouille 2: Burnt,0,0,Jason Elliott,QsyzkkI_g14,0.0,2015-08-15 08:23:31,True,True
+2015-08-15T08:57:14,"this looks amazing, now why doesn't my career look nothing like this?",0,0,carlos valverde,QsyzkkI_g14,0.6000000000000001,2015-08-15 08:57:14,True,True
+2015-08-15T09:08:20,was that Fredrick zoller?,0,0,mystery 478,QsyzkkI_g14,0.0,2015-08-15 09:08:20,True,True
+2015-08-15T09:14:07,sounds like Gordon Ramsay movie,0,0,richard pasos,QsyzkkI_g14,0.0,2015-08-15 09:14:07,True,True
+2015-08-15T09:30:38,"Burnt, Boulevard, The Revenant and Bridge of Spies all look to be in for a shout at winning an Oscar for best picture and possibly best lead, with Bradley Cooper, Robin Williams' final released movie, Leo DiCaprio, and Tom Hanks leading those movies respectively. Going to be an interesting fall/spring for movies.",0,0,Julian Whiteway,QsyzkkI_g14,0.5,2015-08-15 09:30:38,True,True
+2015-08-15T10:06:27,this is like limitless but with cooking drama,0,0,TrumpCorp.,QsyzkkI_g14,0.0,2015-08-15 10:06:27,True,True
+2015-08-15T10:30:55,A Whiplash with Chris Kyle.,10,1,John Doe Movie Reviews,QsyzkkI_g14,0.0,2015-08-15 10:30:55,True,True
+2015-08-15T10:45:19,pffft,0,0,Jaroslav Záruba,QsyzkkI_g14,0.0,2015-08-15 10:45:19,True,True
+2015-08-15T11:05:52,this looks boring and awful,0,0,saalser00,QsyzkkI_g14,-1.0,2015-08-15 11:05:52,True,True
+2015-08-15T11:49:44,A thriller about a chef ? Really ? Hollywood really must be desperate.,17,0,Michael Westen,QsyzkkI_g14,-0.06666666666666665,2015-08-15 11:49:44,True,True
+2015-08-15T12:11:14,i'm a simple man. i see bradley cooper. i press like,0,0,Hiếu Nguyễn Trọng,QsyzkkI_g14,0.0,2015-08-15 12:11:14,True,True
+2015-08-15T12:34:30,FOOOOD   (╯°□°）╯︵ ┻━┻,0,0,Silwer Q,QsyzkkI_g14,0.0,2015-08-15 12:34:30,True,True
+2015-08-15T12:39:58,Cue the *Gordon Ramsay* quotes....,14,0,Shane Rooney,QsyzkkI_g14,0.0,2015-08-15 12:39:58,True,True
+2015-08-15T12:51:42,Kitchen Confidential The Movie,0,0,Milan Nikolic,QsyzkkI_g14,0.0,2015-08-15 12:51:42,True,True
+2015-08-15T13:05:49,This trailer made me extremely hungry.,0,0,Val Pal,QsyzkkI_g14,-0.125,2015-08-15 13:05:49,True,True
+2015-08-15T13:13:17,The whole time I watched this trailer I was thinking about the movie 'Chef' and how great it is. Think I'll watch it again today. As for this movie it looks to forced to me.,0,0,Kayaking Dachshund,QsyzkkI_g14,0.2333333333333333,2015-08-15 13:13:17,True,True
+2015-08-15T14:21:16,"getting interviewed , what can you do , I know how to scramble eggs.. the end",1,0,Mr Willis,QsyzkkI_g14,0.0,2015-08-15 14:21:16,True,True
+2015-08-15T14:32:50,"or they could have titled it ""Ramsay""",0,0,Stringa,QsyzkkI_g14,0.0,2015-08-15 14:32:50,True,True
+2015-08-15T16:37:13,"I regularly go to restaurants and order a bowl of nothing followed by a dessert of nothing and followed down with lashings of nothing.   I mean who goes to a restaurant to eat, SUCKERS that's who.",0,0,TheCulturalBomb,QsyzkkI_g14,-0.19201388888888887,2015-08-15 16:37:13,True,True
+2015-08-15T17:02:36,You! Come here! It's RAAAAW!,1,0,Marcus Norgren,QsyzkkI_g14,0.0,2015-08-15 17:02:36,True,True
+2015-08-15T17:04:39,Hell's Kitchen: The Movie,3,0,Marcus Norgren,QsyzkkI_g14,0.0,2015-08-15 17:04:39,True,True
+2015-08-15T17:15:33,Seem worth to watch...,0,0,Frans Madika,QsyzkkI_g14,0.3,2015-08-15 17:15:33,True,True
+2015-08-15T17:34:41,one of the most gorgeous men that will ever live,0,0,Jay Large,QsyzkkI_g14,0.4454545454545455,2015-08-15 17:34:41,True,True
+2015-08-15T17:53:13,This steak seems over done no?,0,0,Hydee Hidayat,QsyzkkI_g14,0.0,2015-08-15 17:53:13,True,True
+2015-08-15T18:02:37,"If he wants to run the best restaurant in the world, why does he sound like a disgruntled McDonald's employee that's just finished a 12 night shift?",0,0,Vivien Collins,QsyzkkI_g14,0.5333333333333333,2015-08-15 18:02:37,True,True
+2015-08-15T18:23:05,Omar sy and Daniel Bruhl. nuff said.,0,0,plonkies,QsyzkkI_g14,0.0,2015-08-15 18:23:05,True,True
+2015-08-15T18:44:12,I love Denzel Washington.,0,0,Karam D.,QsyzkkI_g14,0.5,2015-08-15 18:44:12,True,True
+2015-08-15T20:16:13,What? Why does it make noise if you like a comment?,1,0,Oscar Bakker,QsyzkkI_g14,0.0,2015-08-15 20:16:13,True,True
+2015-08-15T21:14:08,Since when did cooking get so badass!?!?!?!? ... Jk,0,1,Kris Kringle,QsyzkkI_g14,0.0,2015-08-15 21:14:08,True,True
+2015-08-15T21:15:19,I bet you 10/10 the movie chef is better than this.,0,0,Kyle McWilliams,QsyzkkI_g14,0.5,2015-08-15 21:15:19,True,True
+2015-08-15T21:49:25,master chef the movie LOL,0,0,Ryan Tony,QsyzkkI_g14,0.8,2015-08-15 21:49:25,True,True
+2015-08-15T23:35:47,Lol wtf a chef movie,0,0,MegaKINGRICHARD,QsyzkkI_g14,0.15000000000000002,2015-08-15 23:35:47,True,True
+2015-08-16T00:41:38,Weinsteeeeeeeeeeeeeeein Company,0,0,SoCalFreelance,QsyzkkI_g14,0.0,2015-08-16 00:41:38,True,True
+2015-08-16T01:07:43,"Bradley Cooper can not express the strictness in combination with passion that Gordon has, so nice movie wrong actor",0,0,Aimopotis 80,QsyzkkI_g14,0.04999999999999999,2015-08-16 01:07:43,True,True
+2015-08-16T01:22:25,"Looks kind of like Whiplash, except food instead of drums...",103,8,red,QsyzkkI_g14,0.6,2015-08-16 01:22:25,True,True
+2015-08-16T03:54:55,Oscar Bait written all over it 😄👌🏻,0,0,Rayyerishnan Rayyer,QsyzkkI_g14,0.0,2015-08-16 03:54:55,True,True
+2015-08-16T04:38:47,Very excited to watch this. Looks like a really good story :),0,0,Christine L,QsyzkkI_g14,0.5625,2015-08-16 04:38:47,True,True
+2015-08-16T05:41:32,life of chef in Paris,0,0,Magesh Srinivasulu,QsyzkkI_g14,0.0,2015-08-16 05:41:32,True,True
+2015-08-16T05:52:42,"I hope this movie is about food first, drama second.",0,0,Clawbytes,QsyzkkI_g14,0.125,2015-08-16 05:52:42,True,True
+2015-08-16T06:04:14,snipe some food on to peoples plates.,0,0,darkdancerman,QsyzkkI_g14,0.0,2015-08-16 06:04:14,True,True
+2015-08-16T06:39:50,this looks terrible,0,0,Molten_,QsyzkkI_g14,-1.0,2015-08-16 06:39:50,True,True
+2015-08-16T10:28:55,"""Staring Academy Award Viewer.. Bradley Cooper",0,0,JCTiggs,QsyzkkI_g14,0.0,2015-08-16 10:28:55,True,True
+2015-08-16T11:45:37,dear Bradley cooper stop trying to win an Oscar we all know you're a great actor you don't need a statue from a fixed ceremony to prove it,0,0,paul babuik,QsyzkkI_g14,0.5666666666666668,2015-08-16 11:45:37,True,True
+2015-08-16T12:00:34,Where's Uma Thurman?,1,1,Jeffrey Paul,QsyzkkI_g14,0.0,2015-08-16 12:00:34,True,True
+2015-08-16T12:02:12,LIL JUJU - WIZ KHALIFA . Search that everyone !!!!,0,0,TrapBoyMusik,QsyzkkI_g14,0.0,2015-08-16 12:02:12,True,True
+2015-08-16T13:09:58,"rocket raccoon and jill valentine, great.",1,0,Mad Kangaroo,QsyzkkI_g14,0.8,2015-08-16 13:09:58,True,True
+2015-08-16T14:49:23,"yes, chef.",0,0,Tasha S,QsyzkkI_g14,0.0,2015-08-16 14:49:23,True,True
+2015-08-16T15:17:43,"a lot of excellent actors,I hope it's good",0,0,Feroz Khan,QsyzkkI_g14,0.85,2015-08-16 15:17:43,True,True
+2015-08-16T18:52:22,Wow. Congrats Weinsteins. You've successfully made a line cook look more badass than James Bond.,0,0,Jean-Pierre Chapoteau,QsyzkkI_g14,0.45,2015-08-16 18:52:22,True,True
+2015-08-16T19:49:58,"""Yes Chef!"".....",0,0,wrizm212,QsyzkkI_g14,0.0,2015-08-16 19:49:58,True,True
+2015-08-16T19:57:21,bradely cooper is bradley cooper in bradley cooper cooks,0,0,Chris __,QsyzkkI_g14,0.0,2015-08-16 19:57:21,True,True
+2015-08-16T21:47:28,Riccardo Scamarcio 1.10??,0,0,shakalaka96,QsyzkkI_g14,0.0,2015-08-16 21:47:28,True,True
+2015-08-16T23:35:23,Another cooking movie.,0,0,Mastro,QsyzkkI_g14,0.0,2015-08-16 23:35:23,True,True
+2015-08-17T02:08:23,Can't wait. Bradley Cooper is one of my favorite actors. Hopefully there's an interesting spin on this!,9,2,Ninja Pups,QsyzkkI_g14,0.5625,2015-08-17 02:08:23,True,True
+2015-08-17T02:27:32,What is it? Biopic of Gordon Ramsey?,0,0,Soul Mahajan,QsyzkkI_g14,0.0,2015-08-17 02:27:32,True,True
+2015-08-17T06:11:41,Attitude is what im seeing yes yes,0,0,Ana Drexler,QsyzkkI_g14,0.0,2015-08-17 06:11:41,True,True
+2015-08-17T07:12:47,Runing out of ideas on what to film ,3,0,luis A,QsyzkkI_g14,0.0,2015-08-17 07:12:47,True,True
+2015-08-17T09:58:39,Gordon Ramsay the movie : i always knew Gordon was a troubled junkie,1,0,Ross Irving,QsyzkkI_g14,-0.5,2015-08-17 09:58:39,True,True
+2015-08-17T11:06:17,"When I took a culinary program in college I cried SO MANY times ;-; it was definitely one of the most challenging things I have ever done, and my instructor was almost as bad as Gordon Ramsay ;-;",0,0,OK Peachie,QsyzkkI_g14,0.13333333333333336,2015-08-17 11:06:17,True,True
+2015-08-17T11:23:32,"So, did he get burnt or not?",0,0,scariot,QsyzkkI_g14,0.0,2015-08-17 11:23:32,True,True
+2015-08-17T11:24:57,looks like chef marco pierre white story.,0,0,Neo Ethan,QsyzkkI_g14,0.0,2015-08-17 11:24:57,True,True
+2015-08-17T13:10:40,BURNT ???  They should have named this RAMSEY,0,0,BulletGen,QsyzkkI_g14,0.0,2015-08-17 13:10:40,True,True
+2015-08-17T13:56:47,Food Porn,0,0,Caterina,QsyzkkI_g14,0.0,2015-08-17 13:56:47,True,True
+2015-08-17T14:36:51,Not quite my term,0,0,EmbIade G,QsyzkkI_g14,0.0,2015-08-17 14:36:51,True,True
+2015-08-17T14:46:19,"The first thing come to my mind is the ""Hell's Kitchen""",4,0,Yen-Chi Huang,QsyzkkI_g14,0.25,2015-08-17 14:46:19,True,True
+2015-08-17T19:21:00,Was Jamie Dornan cut off of the movie?,0,0,jackygomes,QsyzkkI_g14,0.0,2015-08-17 19:21:00,True,True
+2015-08-17T20:50:45,"I have worked with some chefs like the one depicted in the trailer - brute, egomaniacs, violent children. Everyone hated them and, most of the time, their food was just OK. But, regardless, food always becomes shit. These ego-monsters should remember that.",0,1,Sophie Maele,QsyzkkI_g14,-0.18000000000000002,2015-08-17 20:50:45,True,True
+2015-08-17T22:37:17,wait are French people really like that?  NO ONE OUTSHINE MY RESTAURANT! NOT EVEN MCDONALDS!! OUI?!,0,0,Max Li,QsyzkkI_g14,0.244140625,2015-08-17 22:37:17,True,True
+2015-08-18T01:33:04,This  makes me stressed out just watching it.,0,0,Al Kr,QsyzkkI_g14,0.0,2015-08-18 01:33:04,True,True
+2015-08-18T04:39:47,Bradley men stop doing drama shit  your good actor try some action movie men you have da looks da hight da body probably fit to be da nxt jamesbond,0,0,Marcuz Raven,QsyzkkI_g14,0.25,2015-08-18 04:39:47,True,True
+2015-08-18T05:13:23,Limitless 2: Cooking 101,6,0,Lisandro Estevez-Inoa,QsyzkkI_g14,0.0,2015-08-18 05:13:23,True,True
+2015-08-18T05:31:55,COOKING SO INTENSE,0,0,Inkshooter,QsyzkkI_g14,0.2,2015-08-18 05:31:55,True,True
+2015-08-18T05:40:55,"I don't know what everybody have to say, for me i had enough in Favereau's ""Chef"".",0,0,Shoeb Khan,QsyzkkI_g14,0.0,2015-08-18 05:40:55,True,True
+2015-08-18T06:17:02,Another movie about Donald Trump,0,0,geologist100,QsyzkkI_g14,0.0,2015-08-18 06:17:02,True,True
+2015-08-18T15:29:05,Burnt American Guardian Sniper of the Galaxy has a Hangover  I tried,11,0,HighLevi,QsyzkkI_g14,0.0,2015-08-18 15:29:05,True,True
+2015-08-18T15:34:07,he looks ...fat,0,0,Lynn Lynn,QsyzkkI_g14,0.0,2015-08-18 15:34:07,True,True
+2015-08-18T15:55:25,he is playing gordon ramsey lol,0,0,Ðj John,QsyzkkI_g14,0.8,2015-08-18 15:55:25,True,True
+2015-08-18T17:21:22,WTF is this!!!!,0,0,shabib77,QsyzkkI_g14,-1.0,2015-08-18 17:21:22,True,True
+2015-08-18T19:06:36,Food and Stars... perfect!,0,0,SPIDER LILIEZ,QsyzkkI_g14,1.0,2015-08-18 19:06:36,True,True
+2015-08-18T20:26:02,"oh no , not more?................FOOD FETISHISM  the 21st century yawns",1,0,airmark02,QsyzkkI_g14,0.0,2015-08-18 20:26:02,True,True
+2015-08-18T20:44:58,Why do I feel as if Cooper is chanelling Gordon Ramsey here?,0,0,Sumaiya Shams,QsyzkkI_g14,0.0,2015-08-18 20:44:58,True,True
+2015-08-18T21:53:36,I thought I was watching a biopic of Chef Gordon Ramsay. Another Oscar winning material.,0,0,Brian Lau,QsyzkkI_g14,0.5,2015-08-18 21:53:36,True,True
+2015-08-18T23:12:03,Shokugeki no soma? Anyone?,0,0,vinh huynh,QsyzkkI_g14,0.0,2015-08-18 23:12:03,True,True
+2015-08-19T02:09:35,Holy shit this looks terrible.,1,0,HyperSloth,QsyzkkI_g14,-0.6,2015-08-19 02:09:35,True,True
+2015-08-19T02:27:41,LAME. A WHOLE MOVIE ABOUT MAKING SUPPER. NO.,1,0,pricklyphlox,QsyzkkI_g14,-0.15,2015-08-19 02:27:41,True,True
+2015-08-19T02:38:05,esto tiene algo que ver con gordon ramsay????,0,0,Wladimir Bernardo,QsyzkkI_g14,0.0,2015-08-19 02:38:05,True,True
+2015-08-19T02:53:06,This could be an Anthony Bourdain/Gordon Ramsey biopic,0,0,darknightrtr,QsyzkkI_g14,0.0,2015-08-19 02:53:06,True,True
+2015-08-19T04:48:54,He seems to have captured the twatishness of top chefs.,1,0,terry fuckwitt,QsyzkkI_g14,0.5,2015-08-19 04:48:54,True,True
+2015-08-19T15:16:09,"""I'm's good at cookin'...but sometimes I feels maaad.""",3,0,Lauren,QsyzkkI_g14,0.7,2015-08-19 15:16:09,True,True
+2015-08-19T16:14:41,This could be a surprise box office smash as well as a major Oscar contender at next year's Oscars!,0,0,Corey Pack,QsyzkkI_g14,0.03125,2015-08-19 16:14:41,True,True
+2015-08-19T17:18:17,"Looks like ""Hell's Kitchen"" meets ""Kitchen Confidential"" and directed by Terrance Malick.",0,0,kris kemp,QsyzkkI_g14,0.0,2015-08-19 17:18:17,True,True
+2015-08-19T18:19:36,comment section got interesting as hell LOL!!,0,0,Arkham Assassin,QsyzkkI_g14,0.75,2015-08-19 18:19:36,True,True
+2015-08-19T18:23:38,bradley cooper the demon cook (non-musical non-tim burton version),0,0,Arkham Assassin,QsyzkkI_g14,0.0,2015-08-19 18:23:38,True,True
+2015-08-19T19:43:15,Looks good!!!,0,0,Stephfunie89,QsyzkkI_g14,1.0,2015-08-19 19:43:15,True,True
+2015-08-19T20:03:31,Wasn't this originally called Adam Jones???,0,0,RyGuylegos,QsyzkkI_g14,0.375,2015-08-19 20:03:31,True,True
+2015-08-19T23:57:28,0:32 why does that grip bother me so much.,0,0,shogrran,QsyzkkI_g14,0.2,2015-08-19 23:57:28,True,True
+2015-08-19T23:59:12,"1:30 uhhh wait, you told me to look at this all the time, and then you ask me to look at you?",28,0,shogrran,QsyzkkI_g14,0.0,2015-08-19 23:59:12,True,True
+2015-08-20T00:59:10,so miscast it's unreal.,0,0,Sky Vins,QsyzkkI_g14,0.0,2015-08-20 00:59:10,True,True
+2015-08-20T01:38:54,"OK, the Kitchen Confidential now have a movie!",0,0,Neil Wang,QsyzkkI_g14,0.625,2015-08-20 01:38:54,True,True
+2015-08-20T08:07:47,Yea,0,0,Super mega fun time With me,QsyzkkI_g14,0.0,2015-08-20 08:07:47,True,True
+2015-08-20T09:51:42,I'll take a Mòn viceè with caocä sauce and tuùicé wine,0,0,Foul Camel,QsyzkkI_g14,0.0,2015-08-20 09:51:42,True,True
+2015-08-20T09:58:55,Gordon Ramsay: The Fuckin' Movie,14,0,Mindd Kidzag,QsyzkkI_g14,0.0,2015-08-20 09:58:55,True,True
+2015-08-20T13:09:36,"darn, can't wait to watch this.",0,0,Laine Pamplona,QsyzkkI_g14,0.0,2015-08-20 13:09:36,True,True
+2015-08-20T20:12:59,Omar Sy 1:04,0,0,Diane Dgt,QsyzkkI_g14,0.0,2015-08-20 20:12:59,True,True
+2015-08-20T21:30:53,That man is just too damn good looking for certain roles. It's hard to relate.,0,0,Ateka9,QsyzkkI_g14,0.20753968253968255,2015-08-20 21:30:53,True,True
+2015-08-21T14:54:48,The Gordon Ramsey Story,0,0,hardanstyle,QsyzkkI_g14,0.0,2015-08-21 14:54:48,True,True
+2015-08-22T00:17:38,we ll watch the dramatic story of a making omelette in this movie.. sure we ll watch it breathless,0,0,Mahir Celik,QsyzkkI_g14,0.033333333333333354,2015-08-22 00:17:38,True,True
+2015-08-22T05:34:29,"I grew up in for me one of the greatest food places which is South Louisiana where even the truck stops have great gumbo. My dad was raised in the very first place in Louisiana when the French came the first place was Nachitouches, La & he was an excellent cook, natural flair, , &  beautiful presentation. He could cook everything from any seafood (my favorite) to vegetables, bread, soups, salads, crawfish bisque, étouffée, scampi, perfect steaks, barbecue, anything you can name & to top it off the best freaking deserts & homemade old fashioned candy ever. Divinity, pralines, stuff too long to mention. My mamaw once was trying to keep busy to keep him from going out of town to have fun & I will never forget them making candy for 3 days. Then finally he said "" the GD damn candy factory is closed! ""  She never cursed or drank or let anyone use the Lord's  name in vain, but she laughed knowing the jig was up. He made Cafe au lait for you & drank strong chicory cafe from New Orleans.",0,0,foxibot,QsyzkkI_g14,0.42474747474747476,2015-08-22 05:34:29,True,True
+2015-08-22T13:25:14,gordon ramsay should have played the villain ...would be the movie of the year,1,0,Crysh Kathir,QsyzkkI_g14,0.0,2015-08-22 13:25:14,True,True
+2015-08-22T15:47:11,"Seems like Gordon Ramsay's ""Kitchen Nightmares"". Let's see what's going to be ""BURNT""",0,0,Tulsidhar Muthyala,QsyzkkI_g14,0.0,2015-08-22 15:47:11,True,True
+2015-08-22T20:07:39,He`s gonna win the Oscars and Master chef. Brilliant.,0,0,Moisés Pinheiro,QsyzkkI_g14,0.8500000000000001,2015-08-22 20:07:39,True,True
+2015-08-22T21:05:18,"a movie about nothing.... the trailer does not work on me, Bradley got fat?",0,0,primusnocturn,QsyzkkI_g14,0.0,2015-08-22 21:05:18,True,True
+2015-08-22T22:07:30,"Not convinced at all by this. Bradley Cooper doesn't carry himself like a head chief, nevermind a world class chief. Also the whole over-dramatisation of starting a restaurant is laughable, i.e. ""over a dozen people will try to have you killed"". Lol, seriously?  If the trailer is this bad, then I have little hope for the movie.",0,0,sbowesuk,QsyzkkI_g14,-0.11510416666666665,2015-08-22 22:07:30,True,True
+2015-08-23T01:42:10,if you think Gordon Ramsey's supposed to be the lead...,0,0,Ender Gomez,QsyzkkI_g14,0.0,2015-08-23 01:42:10,True,True
+2015-08-23T06:09:28,This is a lot different from American Sniper lmao,0,0,RubbishSpoon,QsyzkkI_g14,0.19999999999999998,2015-08-23 06:09:28,True,True
+2015-08-23T09:11:51,"Food porn, I'm touching myself tonight :D",0,0,King Wizard ♔,QsyzkkI_g14,0.75,2015-08-23 09:11:51,True,True
+2015-08-23T10:42:58,Hell's Kitchen version Hollywood  :3,0,0,Dead Pirate Robert,QsyzkkI_g14,0.5,2015-08-23 10:42:58,True,True
+2015-08-23T15:05:43,Oh look young Gordon Ramsay. He seems to curse less before,0,0,Ayrton Sy,QsyzkkI_g14,-0.033333333333333326,2015-08-23 15:05:43,True,True
+2015-08-23T15:58:01,Is it just me who thinks that at 0:48 the first guy looks like Cody Christian?,0,0,Samantha Stroud,QsyzkkI_g14,0.125,2015-08-23 15:58:01,True,True
+2015-08-23T16:24:21,"Shud have called this movie ''RARE'' -        as in not dense: but unusually great - like a rare display of courage in the face of great adversity & challenge... unusually excellent; admirable; fine:occurring seldom: like a rare appearance or in this case performance...!!      not widely distributed; not generally occurring: like a rare cooking herb.        uncommonly great; extreme: akin to a rare degree of character !!! exhibiting uncommon excellence; superlatively good or fine: like a rare culinary skill !!       highly valued because of its uncommonness: as in this being a rare prize deserving film !!       & of course the best -  Cooked just a short time so as to retain juices and redness: just like a rare delicious steak...!!                      this film cud have been a rare gem.    alas, hollywood Burnt it once again........................................................................................ fail.   yep - Shud have called this movie ''RARE'' .",3,0,Natalie G,QsyzkkI_g14,0.38817336309523814,2015-08-23 16:24:21,True,True
+2015-08-23T19:41:39,Why would anyone kill someone if they wanna open a restaurant,347,11,Jazmine media,QsyzkkI_g14,0.0,2015-08-23 19:41:39,True,True
+2015-08-24T04:21:16,"What I don't understand is why he's Bradly Cooper normal guy most the movie then suddenly becomes a Finnish guy when he says 'Ya?"" ""YA?!""",0,0,Chelsea Colson,QsyzkkI_g14,0.21666666666666667,2015-08-24 04:21:16,True,True
+2015-08-24T08:23:57,"Knock it off with the Oscar bait bull shit.  We all know he should have one for American Sniper, doesn't matter if Chris Kyle was a liar or not, or if they used a fake baby for a scene in which two adults were yelling and fighting and it was be impossible for a normal human baby to be quiet during. He was told to play a roll of an American Military Sniper before the military, during combat, and after with PTSD.  He played it flawlessly and should have been awarded for it.  Who knows why he chose this role but hell play it great.  Hes a top dog now deal.  Hes with Dicaprio, Gyllenhaal, Smith, Washington, Hardy, etc.  The internet is a place of constant, consistent jealously.  Hes amazing deal with it.",0,0,YDK Marshall,QsyzkkI_g14,0.10833333333333332,2015-08-24 08:23:57,True,True
+2015-08-24T17:48:14,Man they have really run out of idea. Trying to pump drama and action into a chef movie....EXTREME BISQUE MAKING!!! Now in 4k ultra HD with buzzing seats!!!!!,0,0,techmarine83,QsyzkkI_g14,0.3980232238769531,2015-08-24 17:48:14,True,True
+2015-08-24T17:58:09,"Soooo, i will watch a movie about my day by day activities..",0,0,Ari Rauf,QsyzkkI_g14,0.0,2015-08-24 17:58:09,True,True
+2015-08-25T07:31:15,"oh god, that Bradley Cooper voice, so him! lols",0,0,inviswings,QsyzkkI_g14,0.0,2015-08-25 07:31:15,True,True
+2015-08-25T08:59:06,I need to be in the restaurant plating industry or just a plate company in general! They must make out like bandits!,0,0,Chad Joseph,QsyzkkI_g14,0.07812500000000003,2015-08-25 08:59:06,True,True
+2015-08-25T09:21:50,Excelsior!,1,0,Merchant Ivory,QsyzkkI_g14,0.0,2015-08-25 09:21:50,True,True
+2015-08-25T20:45:27,"Saw Omar Sy, then I know I gotta watch it :)",0,0,kristbjorg999,QsyzkkI_g14,0.5,2015-08-25 20:45:27,True,True
+2015-08-26T00:00:40,"bradley cooper was good in hangover but thats it, this guy is overrated",6,3,808MixMaster,QsyzkkI_g14,0.7,2015-08-26 00:00:40,True,True
+2015-08-26T02:27:50,This looks rather mediocre.,0,0,annabel levy,QsyzkkI_g14,-0.5,2015-08-26 02:27:50,True,True
+2015-08-26T04:23:21,"This doesn't really look that good. It looks like a blatant rip-off of that movie about the Indian chef. I am fairly put off by all of the table-flipping...and the plate-throwing, because, quite frankly, when MOST people throw plates and flip tables, it's a sign of an immature marital argument! LOL! Why, when a chef with anger management issues does it is it SUDDENLY mature? LOL!",0,0,Peppermint Snowdrift,QsyzkkI_g14,0.27249999999999996,2015-08-26 04:23:21,True,True
+2015-08-27T06:59:38,BRADLEY LOOKS SO GOOD IN THIS. I'M BALD HE  SNATCHED ME ONCE AGAIN,0,0,snlcolin,QsyzkkI_g14,0.7,2015-08-27 06:59:38,True,True
+2015-08-27T09:18:11,"whopper meal ,coke zero and ehh could I get the big king burger as well , just the burger",0,0,Colm Dalton,QsyzkkI_g14,0.0,2015-08-27 09:18:11,True,True
+2015-08-27T09:49:50,The editing on this trailer is really weird given the premise of the movie.  COOKING SO INTENSE,2,0,Inkshooter,QsyzkkI_g14,-0.15,2015-08-27 09:49:50,True,True
+2015-08-28T06:18:59,"this looks pretty stupid. I know the kitchen can get hectic, but not over the top drama. I'll stick to the documentaries, ratatouille, and that recent movie Chef.",51,9,Edges,QsyzkkI_g14,-0.012499999999999983,2015-08-28 06:18:59,True,True
+2015-08-28T06:42:52,Anyone who has seen Hell's Kitchen knows Bradley Cooper is basically playing American Gordon Ramsey here. Even the fish cooking part is similar to an episode of the show. This movie looks meh.,0,0,Madison Taylor,QsyzkkI_g14,0.0,2015-08-28 06:42:52,True,True
+2015-08-28T09:22:38,"Wow, what a music!",0,0,Abc Xyz,QsyzkkI_g14,0.125,2015-08-28 09:22:38,True,True
+2015-08-28T19:29:00,FBI agent. Racoon. Sniper. Bradley cooper has done it all.,0,0,Art vandaley,QsyzkkI_g14,0.0,2015-08-28 19:29:00,True,True
+2015-08-28T19:36:05,another movie with alicia vikander??? that girl is on fire...,1,0,l a,QsyzkkI_g14,0.0,2015-08-28 19:36:05,True,True
+2015-08-28T23:04:16,it's like a more intense Ratatouille movie,0,0,Hysterialicia,QsyzkkI_g14,0.35,2015-08-28 23:04:16,True,True
+2015-08-29T00:14:37,whiplash but with cooking,0,0,NoWonders343,QsyzkkI_g14,0.0,2015-08-29 00:14:37,True,True
+2015-08-29T02:38:11,did he (bradley) trying to look like Gordon Ramsey? or am I the only one who gets the feeling??,0,0,Frans Andreas,QsyzkkI_g14,0.0,2015-08-29 02:38:11,True,True
+2015-08-29T09:44:07,I don't get it why isn't a woman cooking?,0,0,Chris H,QsyzkkI_g14,0.0,2015-08-29 09:44:07,True,True
+2015-08-29T11:07:38,Sienna and bradley together again. 😍 i adore The whole cast actually.  Seems good,0,0,Chiara Vallini,QsyzkkI_g14,0.3,2015-08-29 11:07:38,True,True
+2015-08-29T13:34:55,"why is he trying to act like gordon ramsay....""""""hey hey look at me """,3,0,xc,QsyzkkI_g14,0.0,2015-08-29 13:34:55,True,True
+2015-08-29T15:32:15,"the story of gordon ramsy , even the bit where ppl want him dead.",0,0,Not Sane,QsyzkkI_g14,-0.2,2015-08-29 15:32:15,True,True
+2015-08-30T12:43:57,god damn that cast is amazing,1,0,MsLm_97,QsyzkkI_g14,0.6000000000000001,2015-08-30 12:43:57,True,True
+2015-08-31T02:30:34,"I'm missing the whole Bradley Cooper thing. He's good looking, and an OK actor. To me, a different actor may have been a better choice for this movie.",0,0,Virginia Taylor,QsyzkkI_g14,0.2833333333333333,2015-08-31 02:30:34,True,True
+2015-08-31T15:24:23,Base on true story of Hell kitchen? Yes chef ...,0,0,Junlachart Phoonsiri,QsyzkkI_g14,-0.22500000000000003,2015-08-31 15:24:23,True,True
+2015-09-01T01:19:05,I've cooked eggs before.  It ain't that hard.  Why is Bradly getting so stressed out?,0,0,Scorch428,QsyzkkI_g14,-0.2916666666666667,2015-09-01 01:19:05,True,True
+2015-09-01T06:06:02,"Why do they make these movies showing the ""GLITZ and GLAM OUR"" of Kitchen life.........Ive worked in many........the ""plate throwing chefs"" is about the only thing they got right......",0,0,Dennis Mackey,QsyzkkI_g14,0.14285714285714285,2015-09-01 06:06:02,True,True
+2015-09-01T13:31:20,"Anybody hear that laugh from Bradley Cooper when he was on the floor, I just thought, Joker!",0,0,Boon,QsyzkkI_g14,0.375,2015-09-01 13:31:20,True,True
+2015-09-01T15:04:02,If he wins an Oscar before Leo ill kill myself.,0,0,Zen xion,QsyzkkI_g14,-0.1,2015-09-01 15:04:02,True,True
+2015-09-02T23:14:08,working in kitchens this gives me anxiety YET i want to see it,1,0,bethann landerstyle,QsyzkkI_g14,0.0,2015-09-02 23:14:08,True,True
+2015-09-03T11:21:18,wtf?,0,0,pinang1,QsyzkkI_g14,-0.5,2015-09-03 11:21:18,True,True
+2015-09-04T18:35:13,"Whatever u wanna do it in the Movie , JUST DO IT...But dont u F***ing  BURN my FOOD Bradley !!!",0,0,assis ronaldinho,QsyzkkI_g14,0.0,2015-09-04 18:35:13,True,True
+2015-09-05T11:02:10,american cook,0,0,Alex Malek,QsyzkkI_g14,0.0,2015-09-05 11:02:10,True,True
+2015-09-05T23:01:11,*Movie watch The Transporter Refueled ( 2015 ) online for free full* https://plus.google.com/103572333754715895954/posts/azm235XBAmm,0,0,Полина Репик,QsyzkkI_g14,0.375,2015-09-05 23:01:11,True,True
+2015-09-07T12:24:17,"""If you try to start a new restaurant , there is at least a dozen people who will try to have you killed"" Seriously, is this the way it works in Paris? Anyone from Paris here? I am really curious, I thought it's just the trendy clubs with booze and drugs...but regular restaurants?",0,0,Libertarian 4Life,QsyzkkI_g14,-0.028138528138528147,2015-09-07 12:24:17,True,True
+2015-09-07T23:33:06,I Might See This So I Can Hear All The Girls Wet Theirselves At Jaime Dornan.,0,0,Hannah baker Is hannah montana,QsyzkkI_g14,-0.1,2015-09-07 23:33:06,True,True
+2015-09-08T07:55:19,Crap!,0,0,Emmy Arellano,QsyzkkI_g14,-1.0,2015-09-08 07:55:19,True,True
+2015-09-08T17:03:26,"At least make them say ""Oui, chef!"" instead...",0,0,LLLL 133,QsyzkkI_g14,-0.375,2015-09-08 17:03:26,True,True
+2015-09-08T19:08:47,Hey there. You're A Real Trooper! tame base What do you think... !,0,0,Austin Dean,QsyzkkI_g14,-0.32222222222222224,2015-09-08 19:08:47,True,True
+2015-09-09T16:05:32,chefs ..are the most closest of all..they make your day with delicious food and beverages.....♥,0,0,blood hound,QsyzkkI_g14,0.75,2015-09-09 16:05:32,True,True
+2015-09-09T16:20:07,movie looks dumb lol movie of the year already came out and you can still catch it in theaters! The Gift!!!!,0,0,AGAINST THE POINTS,QsyzkkI_g14,0.3125,2015-09-09 16:20:07,True,True
+2015-09-12T00:03:30,Wow. The Kitchen Kyle,0,0,Los Santos County Sheriff's Department,QsyzkkI_g14,0.1,2015-09-12 00:03:30,True,True
+2015-09-12T10:18:22,This is way too over dramatic for me to take seriously.,0,0,cardsgal89,QsyzkkI_g14,-0.3833333333333333,2015-09-12 10:18:22,True,True
+2015-09-13T10:35:39,Those stirring sound gave such a nice music feel to the background score. Great use.,0,0,ANIKET RANJAN,QsyzkkI_g14,0.45,2015-09-13 10:35:39,True,True
+2015-09-14T00:20:55,based on a true event ; Gordon Ramsay,0,0,TheCfShow,QsyzkkI_g14,0.35,2015-09-14 00:20:55,True,True
+2015-09-14T02:15:56,God it's just food lol,0,0,Monique K,QsyzkkI_g14,0.8,2015-09-14 02:15:56,True,True
+2015-09-15T06:37:35,based off the life of Gordon Ramsay,0,0,Nonya Biznes,QsyzkkI_g14,0.0,2015-09-15 06:37:35,True,True
+2015-09-15T15:37:02,ffs stop throwing shit everywhere :o,0,0,Gilbert977,QsyzkkI_g14,-0.07500000000000001,2015-09-15 15:37:02,True,True
+2015-09-15T17:27:25,So many robot likes,0,0,Vanoir Films,QsyzkkI_g14,0.5,2015-09-15 17:27:25,True,True
+2015-09-16T09:22:29,Chef 2 : The real chefs of USA,0,0,Rakesh Guha,QsyzkkI_g14,0.2,2015-09-16 09:22:29,True,True
+2015-09-16T17:48:28,Now I'm hungry,0,0,Ahmed Falamrzi,QsyzkkI_g14,0.0,2015-09-16 17:48:28,True,True
+2015-09-16T20:09:42,I thought this was a Gordon ramsey movie :p too bad :D,0,0,Joel Mathew,QsyzkkI_g14,0.3500000000000001,2015-09-16 20:09:42,True,True
+2015-09-16T21:29:45,daniel brüüüüüüüühl :) der gute,0,0,Fräulein Wunder,QsyzkkI_g14,0.5,2015-09-16 21:29:45,True,True
+2015-09-17T13:57:25,"Tick Tock, Tick Tock! This chef burnt my A**.",1,0,Praveen N,QsyzkkI_g14,0.0,2015-09-17 13:57:25,True,True
+2015-09-17T18:25:01,what a load of crap……work in a restaurant ….its work why make a film…this guy dosnt work in it he eats in in it,0,0,G Benfield,QsyzkkI_g14,0.0,2015-09-17 18:25:01,True,True
+2015-09-18T03:59:05,I was wowed by the trailer. So much passion and emotion.,0,0,queendsheena1,QsyzkkI_g14,0.2,2015-09-18 03:59:05,True,True
+2015-09-18T07:42:05,"What's next the Story of a Toilet Cleaner who wanted to become the Michael Jackson of the Toilet Cleaners? ""American Toilet Cleaner"" this summer.",10,3,Chris Crocker,QsyzkkI_g14,-0.02,2015-09-18 07:42:05,True,True
+2015-09-18T14:11:20,"Garbage. Bradley stay in the new Limitless series, and away from garbage like this.",1,0,SPARTACUS,QsyzkkI_g14,0.13636363636363635,2015-09-18 14:11:20,True,True
+2015-09-18T16:55:58,"I feel like this guy played by Bradley Cooper, maybe, maybe not he has a little bit of passion and love for cooking but ultimately what I'm getting from this movie is that he wants to be the best of the best. Or maybe he loves cooking so much, the heat the ""violence"" that he knows he can be the best of the best.",0,0,pewsfan,QsyzkkI_g14,0.5236111111111111,2015-09-18 16:55:58,True,True
+2015-09-19T12:29:47,"omg something original outta Hollywood, look forward to it",0,0,Gregorys Mode,QsyzkkI_g14,0.375,2015-09-19 12:29:47,True,True
+2015-09-19T18:40:16,I think Gordon Ramsay approves...,0,0,Ilya Lips,QsyzkkI_g14,0.0,2015-09-19 18:40:16,True,True
+2015-09-20T00:09:39,Wtf why are people hating on Bradley Cooper for playing a cooking role? And since when was cooking gay? What's wrong with y'all lol.,129,6,Alijamaru,QsyzkkI_g14,0.054166666666666696,2015-09-20 00:09:39,True,True
+2015-09-20T14:06:23,Gordon Ramsay supposed to be in the movie instead of this wimp.,0,0,Denys Momot,QsyzkkI_g14,0.0,2015-09-20 14:06:23,True,True
+2015-09-21T22:07:55,Excuse me!? Are they trying to make a movie about a chef into an action flick?,0,0,Probus Excogitatoris,QsyzkkI_g14,0.018750000000000003,2015-09-21 22:07:55,True,True
+2015-09-21T23:26:24,"Alta Gastronomia hummfff, axo isso patético,  filme pra  burquês assistir!!!",0,0,Olinto-117,QsyzkkI_g14,0.0,2015-09-21 23:26:24,True,True
+2015-09-22T11:07:56,I love to cook :D,0,0,jami suraj,QsyzkkI_g14,0.75,2015-09-22 11:07:56,True,True
+2015-09-24T00:36:50,Chef=Asshole,0,0,Charles Davis,QsyzkkI_g14,0.0,2015-09-24 00:36:50,True,True
+2015-09-24T00:36:58,Chef=Asshole,0,0,Charles Davis,QsyzkkI_g14,0.0,2015-09-24 00:36:58,True,True
+2015-09-24T15:14:59,This movie looks good but bradley should get ready for being the victim of a lot monologue jokes.,0,0,F7,QsyzkkI_g14,0.27499999999999997,2015-09-24 15:14:59,True,True
+2015-09-24T22:02:57,Its like 300 and Ratatouille in a blender.,0,1,M Khalil,QsyzkkI_g14,0.0,2015-09-24 22:02:57,True,True
+2015-09-25T18:05:59,meanwhile Leonardo is fighting bears in the wild and will probably loose to cooper for this cooking movie. chili powder in open wound,182,7,JMJ -K,QsyzkkI_g14,0.007692307692307693,2015-09-25 18:05:59,True,True
+2015-09-26T13:03:21,this film looks like the definition of mediocre,0,0,dmwrobinson,QsyzkkI_g14,-0.5,2015-09-26 13:03:21,True,True
+2015-09-27T02:19:00,"one of the most stupid drama ever, yakuza after a chef who can shake the eggs well enough",0,0,Mahir Celik,QsyzkkI_g14,-0.09999999999999998,2015-09-27 02:19:00,True,True
+2015-09-28T21:08:24,#bourdian wrote about this world 13 years ago in Kitchen Confidentials. THAT book beats this movie.,0,0,apachedisco,QsyzkkI_g14,0.0,2015-09-28 21:08:24,True,True
+2015-09-29T00:49:22,Good Actor! Nice trailer!,0,0,Sharon Annette,QsyzkkI_g14,0.8125,2015-09-29 00:49:22,True,True
+2015-09-29T07:50:47,"0:40 I have no clue what that is that's being cut, but I seriously wanna just put it in my mouth. It looks phenomenal",0,0,Lord Alzorn,QsyzkkI_g14,0.08333333333333334,2015-09-29 07:50:47,True,True
+2015-09-30T00:42:10,Have you seen Chef?,315,16,HowToBasic,QsyzkkI_g14,0.0,2015-09-30 00:42:10,True,True
+2015-09-30T15:31:05,is this about gordon ramsay ?,1,0,Emily IG,QsyzkkI_g14,0.0,2015-09-30 15:31:05,True,True
+2015-09-30T19:18:32,Seems a little ott for a bit of broccoli tbh.,0,0,Oflaherty86,QsyzkkI_g14,-0.1875,2015-09-30 19:18:32,True,True
+2015-10-01T06:17:16,didnt like it either...,0,0,Susen Shrestha,QsyzkkI_g14,0.0,2015-10-01 06:17:16,True,True
+2015-10-01T13:22:28,"the oscars will be interesting next year, a lot of great trailers, lets hope the movies are just as good",0,0,Chris Haugan,QsyzkkI_g14,0.5,2015-10-01 13:22:28,True,True
+2015-10-01T20:06:52,"This story/script goes back 10 years. Original idea conceived by Keanu Reeves, and original script written for him. No death threats that I recall; more a story of redemption. Was terrific. For the commenters who say the kitchen stuff is over the top - it's actually toned down. I was there.",0,0,fe@st,QsyzkkI_g14,0.19930555555555554,2015-10-01 20:06:52,True,True
+2015-10-02T02:31:54,YOU DONT RESPECT MY ART!!!!,0,0,Hush3d Hustla,QsyzkkI_g14,0.0,2015-10-02 02:31:54,True,True
+2015-10-02T02:33:57,Like ratatouille with raccoons -IGN 5/10 it's a masterpiece,0,0,Hush3d Hustla,QsyzkkI_g14,0.0,2015-10-02 02:33:57,True,True
+2015-10-02T11:01:10,""" you are looking at that all the time!?have your eyes on thatl the whole time till you hit that pass, yeah?! ""Yes chef!"" ""look at me! yeah yeah!? ""you up for it? ""Yes chef"" ""YOU TOOK YOUR EYES OFF THE FISH YOURE FIRED!!!!""  ugh i love Bradley, i love food, i love gordon ramsey, i love tense thrillers! this however doesn't look like a recipe i would want to taste!!!",1,0,Ash White,QsyzkkI_g14,0.3643663194444445,2015-10-02 11:01:10,True,True
+2015-10-03T00:16:08,I think a person who will play Joker next time is him.  This dish is really really....bad.,0,0,GO CRAZY,QsyzkkI_g14,0.1,2015-10-03 00:16:08,True,True
+2015-10-03T17:07:08,Anyone know the song in the trailer?,1,0,lenna kovacevic,QsyzkkI_g14,0.0,2015-10-03 17:07:08,True,True
+2015-10-04T10:53:38,music / soundtrack?? :),1,0,Denys Shadro,QsyzkkI_g14,0.5,2015-10-04 10:53:38,True,True
+2015-10-05T00:07:08,Why is Bradly Cooper so good at playing people who are batshit bonkers?,0,0,Chris,QsyzkkI_g14,0.7,2015-10-05 00:07:08,True,True
+2015-10-06T09:21:13,Kitchen Confidential >>>,0,0,Francene,QsyzkkI_g14,0.0,2015-10-06 09:21:13,True,True
+2015-10-08T01:42:39,cooper reprising his role as an ambitious chef from kitchen confidential,0,0,delivrex,QsyzkkI_g14,0.25,2015-10-08 01:42:39,True,True
+2015-10-08T04:45:25,"terrible gordon ramsay impression lol.  "" YA ""  watching YA",0,0,Jennifer Lee,QsyzkkI_g14,-0.09999999999999998,2015-10-08 04:45:25,True,True
+2015-10-08T22:15:35,I was thinking this was gonna be a true story at first,0,0,Kyle P,QsyzkkI_g14,0.3,2015-10-08 22:15:35,True,True
+2015-10-10T11:20:39,American chef,0,0,F.u.c.k Allah,QsyzkkI_g14,0.0,2015-10-10 11:20:39,True,True
+2015-10-11T18:03:56,"Kitchen Confidential was awesome, but that was 10 years ago...and do we really need so many film chefs?Yawn.",0,0,loofah76dbk,QsyzkkI_g14,0.5666666666666667,2015-10-11 18:03:56,True,True
+2015-10-11T23:49:55,Looks like a good movie if you are a chef.,0,0,Kacey,QsyzkkI_g14,0.7,2015-10-11 23:49:55,True,True
+2015-10-13T19:47:24,"burnt great tailers,,wish l was in the movie",0,0,Mark Mitchell,QsyzkkI_g14,0.8,2015-10-13 19:47:24,True,True
+2015-10-13T20:17:03,"Yes, a professional kitchen is stressful, but holy shit... usually not THIS dramatic. Cooper plays a chef pretty well, though.",0,0,Holly,QsyzkkI_g14,-0.03166666666666666,2015-10-13 20:17:03,True,True
+2015-10-15T06:39:25,Gordon Ramsay's biography is finally on the big screen folks!!!!!,0,0,Nomzamo Ngcobo,QsyzkkI_g14,0.0,2015-10-15 06:39:25,True,True
+2015-10-16T01:13:14,there goes this movie and almost 2 min. another boring fukn story,0,0,shariar,QsyzkkI_g14,-1.0,2015-10-16 01:13:14,True,True
+2015-10-16T03:21:02,Backstory of Horst from Ratatouille?,0,0,ianseanco3,QsyzkkI_g14,0.0,2015-10-16 03:21:02,True,True
+2015-10-17T04:29:01,Same old repetitive Bradley Cooper. Someone give me Daniel Day Lewis,0,0,Vinod Sobale,QsyzkkI_g14,-0.049999999999999996,2015-10-17 04:29:01,True,True
+2015-10-17T14:38:39,"So is this gordon ramsey's biography, without swearing",0,0,MuscleSheriff,QsyzkkI_g14,0.0,2015-10-17 14:38:39,True,True
+2015-10-18T14:29:03,I dont knw bout y'all but Gordon Ramsy's face pop up in my head while watching this lol,0,0,haha,QsyzkkI_g14,0.8,2015-10-18 14:29:03,True,True
+2015-10-18T17:31:15,Eddie Morra decided to pursue culinary arts instead of presidency.,0,0,MrZosiko,QsyzkkI_g14,0.0,2015-10-18 17:31:15,True,True
+2015-10-19T15:24:58,i'm gonna watch it for the food ........ and daniel bruhl,0,0,aya alem,QsyzkkI_g14,0.0,2015-10-19 15:24:58,True,True
+2015-10-19T20:20:10,nice,0,0,Juan Grimaldo,QsyzkkI_g14,0.6,2015-10-19 20:20:10,True,True
+2015-10-21T09:11:26,Eddie Morra into cooking..? never saw that coming.,0,0,Swapnil Jadhav,QsyzkkI_g14,0.0,2015-10-21 09:11:26,True,True
+2015-10-23T23:30:24,Love the story. But just hate the actor bradley cooper. He such a try hard.,1,0,Dylan L,QsyzkkI_g14,-0.1479166666666667,2015-10-23 23:30:24,False,True
+2015-10-24T09:06:53,It sound like some kind of mechanical machines doing fapping sound.,0,0,Carl Marx,QsyzkkI_g14,0.4666666666666666,2015-10-24 09:06:53,False,True
+2015-10-25T04:46:44,YA?,0,0,Dario Palomo,QsyzkkI_g14,0.0,2015-10-25 04:46:44,False,True
+2015-10-26T00:14:25,a movie about a restaurant........ really?,0,0,Logan Boice,QsyzkkI_g14,0.2,2015-10-26 00:14:25,False,True
+2015-10-27T03:33:14,"If Gordon Ramsay appeared in the movie, that'll be the most glorious,, marvelous, magnificent freaking awesome movie so far that has to do anything with the restaurant industry.",2,0,Diego Sánchez,QsyzkkI_g14,0.72,2015-10-27 03:33:14,False,True
+2015-10-27T17:07:58,Boyzzz..Which bike was it?,0,0,Tom,QsyzkkI_g14,0.0,2015-10-27 17:07:58,False,True
+2015-10-27T17:46:57,"Super film, polecam Wszystkim :-)",0,0,Hania Michalak,QsyzkkI_g14,0.41666666666666663,2015-10-27 17:46:57,False,True
+2015-10-28T17:48:37,It's funny because here in France the movie is advertized around the fact that Omar Sy is in it and on this trailer we only see him like twice in the whole thing :') ^^,0,0,charles beauville,QsyzkkI_g14,0.15,2015-10-28 17:48:37,False,True
+2015-10-29T05:15:37,"Movie goers have always been hungry for a movie about a guy who cooks food at a restaurant. The premise is just spellbinding. Just imagine, a guy walks into a restaurant, sits down, orders a drink, looks at the menu, and orders a couple appetizers. How thrilling to be the guy who gets to cook the food that the first guy ordered, and will later crap out into a toilet. What a sexy and mesmerizing life it must be to cook food at a restaurant. I'm so glad that Hollywood is finally shining a spotlight on those heroes who cook food at restaurants.",0,0,Bryan Taylor,QsyzkkI_g14,0.0811111111111111,2015-10-29 05:15:37,False,True
+2015-10-29T11:14:04,So this is what hes doing with the NCT pill..,0,0,Spartan Warrior,QsyzkkI_g14,0.0,2015-10-29 11:14:04,False,True
+2015-10-29T22:50:47,I can't wait to see this.,0,0,EllieAine,QsyzkkI_g14,0.0,2015-10-29 22:50:47,False,True
+2015-10-30T01:47:51,"Yeah, I really need to take the girl I like that loves to cook and goes to Boces for culinary. I really hope she likes me back.",0,0,Democrats Suck,QsyzkkI_g14,0.1,2015-10-30 01:47:51,False,True
+2015-10-31T15:34:56,I LOVE IT!!!!!!! THIS MOVIE 5*****,1,0,Marlise King,QsyzkkI_g14,1.0,2015-10-31 15:34:56,False,True
+2015-10-31T20:43:09,Sienna Miller as a chef?Please she looks like she has never done a days work in her life!,0,0,alastair saint,QsyzkkI_g14,0.0,2015-10-31 20:43:09,False,True
+2015-11-01T01:37:54,"""This October, Bradley Cooper is a renegade chef who plays by his own rules and shakes up the status quo.""",0,0,MisterPlatitude,QsyzkkI_g14,0.6,2015-11-01 01:37:54,False,True
+2015-11-01T21:51:11,Finally some chef shit.,0,0,EL Donjuan,QsyzkkI_g14,-0.1,2015-11-01 21:51:11,False,True
+2015-11-02T06:53:12,this has Nothing to do with Gordon Ramsay !,0,0,rob b,QsyzkkI_g14,0.0,2015-11-02 06:53:12,False,True
+2015-11-02T11:54:28,Remy would kick this guy's ass with his army of rats.,0,0,Maria Gen,QsyzkkI_g14,0.0,2015-11-02 11:54:28,False,True
+2015-11-03T01:24:39,Bradley Cooper 💕,0,0,Maria Constancia,QsyzkkI_g14,0.0,2015-11-03 01:24:39,False,True
+2015-11-03T21:33:30,QUE CHURRO,0,0,JJGabriel Peña,QsyzkkI_g14,0.0,2015-11-03 21:33:30,False,True
+2015-11-04T00:51:29,The Worst movie I've seen in years...hands down..,0,0,ginalynmorrison,QsyzkkI_g14,-0.5777777777777778,2015-11-04 00:51:29,False,True
+2015-11-04T09:49:57,"gr8 trailer...... the clacking sound throughout of whipping something up! Gosh, I love eating out but now I'm scared ...Great interview with Bradley & Sienna on Graham Norton Show - now I want to see the film real bad :)",0,0,Kiki Vol-au-Vent,QsyzkkI_g14,0.125,2015-11-04 09:49:57,False,True
+2015-11-04T13:56:25,is it like the gordon ramsay's show?,1,0,Cris Capilayan,QsyzkkI_g14,0.0,2015-11-04 13:56:25,False,True
+2015-11-04T18:03:36,Looks great,0,0,Alain Grigoryan,QsyzkkI_g14,0.8,2015-11-04 18:03:36,False,True
+2015-11-06T00:59:55,"So let me get this straight, are people really gonna pay their hard earned money to watch this crap!?",0,0,fre d,QsyzkkI_g14,-0.22291666666666665,2015-11-06 00:59:55,False,True
+2015-11-06T02:12:58,gordon ramsay vs bradley cooper Master chef new series on Food Network. January 14th 2016 7pm.,0,0,Bring Us Peace Please,QsyzkkI_g14,0.13636363636363635,2015-11-06 02:12:58,False,True
+2015-11-06T14:03:39,All the culinary/chefs are relating!! V,0,0,Ishy Peña,QsyzkkI_g14,0.0,2015-11-06 14:03:39,False,True
+2015-11-06T17:05:50,"Saw this movie a while ago. Damn, one of the best. People applaused right after the movie.",0,0,Lance Chester,QsyzkkI_g14,0.6428571428571428,2015-11-06 17:05:50,False,True
+2015-11-07T15:41:58,"I need to watch this now, cannot wait!",0,1,How To Make Sushi,QsyzkkI_g14,0.0,2015-11-07 15:41:58,False,True
+2015-11-07T18:33:39,So Samba finally upgraded from washing dishes to cooking!,0,0,melnjada2,QsyzkkI_g14,0.0,2015-11-07 18:33:39,False,True
+2015-11-08T01:49:08,what a shit movie....,1,0,thepro08,QsyzkkI_g14,-0.2,2015-11-08 01:49:08,False,True
+2015-11-13T05:02:08,the most pathetic movie ever,1,0,Okmnji Nji,QsyzkkI_g14,-0.25,2015-11-13 05:02:08,False,True
+2015-11-13T15:36:37,Daniel Brühl ♥♥♥,6,0,Viridiana D B,QsyzkkI_g14,0.0,2015-11-13 15:36:37,False,True
+2015-11-14T20:38:29,Omar Sy!!!! <3,1,0,Emilie Decombes,QsyzkkI_g14,1.0,2015-11-14 20:38:29,False,True
+2015-11-15T02:33:33,Is he gonna bo cooking on NZT? Couse Iam sure wanna see that ^^,0,0,Emczes,QsyzkkI_g14,0.5,2015-11-15 02:33:33,False,True
+2015-11-20T17:27:12,Online: https://binbox.io/RtJ1c,0,0,Johan,QsyzkkI_g14,0.0,2015-11-20 17:27:12,False,True
+2015-11-22T11:18:36,That and whiplash expose the insecurities of arrogant people.   Pray for their salvation.,1,0,McChulo,QsyzkkI_g14,0.0,2015-11-22 11:18:36,False,True
+2015-11-23T18:31:04,good god this looks bad,0,0,Julian,QsyzkkI_g14,5.551115123125783e-17,2015-11-23 18:31:04,False,True
+2015-11-24T00:13:46,Gordon Ramsay sent his regards,0,0,YouBeeFly,QsyzkkI_g14,0.0,2015-11-24 00:13:46,False,True
+2015-11-30T19:56:17,Cant wait for this one...Damn so catchy sounds :D,0,0,BACKMAN13,QsyzkkI_g14,1.0,2015-11-30 19:56:17,False,True
+2015-12-02T13:50:03,I understand every profession needs their movie...but seriously??,0,0,Josh,QsyzkkI_g14,-0.3333333333333333,2015-12-02 13:50:03,False,True
+2015-12-05T08:08:09,I bet he is using NZT48 the whole time.,4,0,Taonas,QsyzkkI_g14,0.2,2015-12-05 08:08:09,False,True
+2015-12-06T01:58:00,Have you seen Burnt?,0,0,ReincarnaDoll,QsyzkkI_g14,0.0,2015-12-06 01:58:00,False,True
+2015-12-07T18:53:42,best movie in the world,0,0,Ripz27052004,QsyzkkI_g14,1.0,2015-12-07 18:53:42,False,True
+2015-12-09T18:33:08,he sounds kinda like zach efron,0,0,carrie mcdaid,QsyzkkI_g14,0.0,2015-12-09 18:33:08,False,True
+2015-12-19T21:31:10,Cooper's playing himself in this. An arrogant prick,3,0,Stewart Damien,QsyzkkI_g14,0.0,2015-12-19 21:31:10,False,True
+2015-12-30T05:51:36,PLEASE LET THIS MOVIE INCLUDE THE 'I AM AN IDIOT SANDWICH' LINE OR ELSE WHAT'S THE POINT OF IT,19,0,24musicka,QsyzkkI_g14,-0.8,2015-12-30 05:51:36,False,True
+2015-12-30T17:11:33,"now everytime i make myself an omelet, i'll get hyped....that sound...xD",0,0,Vergil Sparda,QsyzkkI_g14,0.0,2015-12-30 17:11:33,False,True
+2015-12-30T19:02:24,hancock 2.👏👏😀😍😍😍,0,0,nunex Fereira,QsyzkkI_g14,0.0,2015-12-30 19:02:24,False,True
+2015-12-31T13:33:52,Whats with the endless whisking? PLEASE STOP!,0,0,Arshad Mehmood,QsyzkkI_g14,-0.15625,2015-12-31 13:33:52,False,True
+2015-12-31T16:49:46,"Ah yes, because cooking movies are so great, said no-one ever!",0,0,Collateraldebris,QsyzkkI_g14,1.0,2015-12-31 16:49:46,False,True
+2015-12-31T17:45:35,LAME,0,0,TheSorrowLand,QsyzkkI_g14,-0.5,2015-12-31 17:45:35,False,True
+2016-01-01T12:42:28,"should call Gordon Ramsey for the acting, it would be more a comedy",0,0,YVCIIVII,QsyzkkI_g14,0.25,2016-01-01 12:42:28,False,True
+2016-01-01T21:37:24,"creating tunes from kitchen items, impressive",0,0,BORO Gaming,QsyzkkI_g14,1.0,2016-01-01 21:37:24,False,True
+2016-01-01T22:35:36,Looks like a very boring movie....,0,0,Kim Brandt,QsyzkkI_g14,-1.0,2016-01-01 22:35:36,False,True
+2016-01-02T18:59:31,next time they will make movie about making toilets in a pompous way BEST SHITTERS !!!,0,0,maciej wrotek,QsyzkkI_g14,0.5,2016-01-02 18:59:31,False,True
+2016-01-03T10:32:38,when did cooking became so dramatic? and interesting for that matter?,5,1,-=AngelGr=-,QsyzkkI_g14,0.033333333333333354,2016-01-03 10:32:38,False,True
+2016-01-03T16:53:43,shitty movie i had Cooper for something more than this...,1,0,Di Angelo,QsyzkkI_g14,0.5,2016-01-03 16:53:43,False,True
+2016-01-04T03:32:01,"meanwhile in china people are doing 18 hours to make dildos and getting paid $4 a day, while Leonardo is getting paid 10 million for one movie..........",1,0,IIAlbertII,QsyzkkI_g14,0.0,2016-01-04 03:32:01,False,True
+2016-01-05T02:39:12,Just watched it. Very good! Better than that Favreau food truck comedy.,0,0,E C,QsyzkkI_g14,0.75,2016-01-05 02:39:12,False,True
+2016-01-05T12:41:09,It was a really good movie I knew I'd like it. But it could've been longer they kinda rushed the last half hour of it.,1,0,Gamble,QsyzkkI_g14,0.17777777777777778,2016-01-05 12:41:09,False,True
+2016-01-05T18:00:31,"Just finished watching this movie and wow... All these negative comments, and i bet you people haven't even watched the movie yet",0,0,Danny Alcaraz,QsyzkkI_g14,-0.09999999999999999,2016-01-05 18:00:31,False,True
+2016-01-06T21:01:51,Critically acclaimed movie directed by Clint Eastwood ... natural progression is obviously to do a movie about doing a bit of cooking and getting a bit angry.,0,0,SW15H,QsyzkkI_g14,-0.1,2016-01-06 21:01:51,False,True
+2016-01-08T01:41:26,Have you seen Chef?,0,0,Fabian Viveros,QsyzkkI_g14,0.0,2016-01-08 01:41:26,False,True
+2016-01-08T06:58:17,Why do he touch the food and put into his mouth and then touch the vessel of food again. That utterly disgusting.,2,0,mojojojo,QsyzkkI_g14,-1.0,2016-01-08 06:58:17,False,True
+2016-01-08T14:00:51,I bet Bradley doesnt even know how to cook a egg in real life.,0,0,Big_Smoke,QsyzkkI_g14,0.2,2016-01-08 14:00:51,False,True
+2016-01-11T02:33:02,"me pregunto si todos lo que estan opinando sobre esta pelicula realmente la vieron.  osea me parece que querian ver sangre en la cocina o tripas en una olla. yo creo que solo es un tipo de pelicula mas simple o mas delicada por asi decirlo. hay buenas actuaciones, una fotografia impresionante y el personaje de bradley se ve simple pero interpretar a un iracundo y frustrado chef, no creo que sea tan facil. hay  todo tipo de peliculas. y se que mientras aqui les acaban criticando, el sigue avanzando como actor. si vas predispuesto al cine saldras malhumorado, yo la vi y me la disfrute bastante. tiene buenn ritmo cinematografico. de hecho confiezo que nunca me intereso la cocina hasta que vi esta pelicula. hicieron tremendo guion a base de tomates y huevos!! y tiene una parte sensible muy peculiar!",0,1,Emelly Guzman,QsyzkkI_g14,-0.3333333333333333,2016-01-11 02:33:02,False,True
+2016-01-11T02:36:28,"I wonder if all those who are reviewing this movie really was. I mean I think they wanted to see blood and guts in the kitchen of a pot. I loner who created a kind of easier or more delicate film so to speak. There are good performances, photography and impressive character Bradley ' s is simple but interpret an un chef angry and frustrated , landlocked I think so easily. There are all kinds of films. and although here just to criticize , which continues to progress as the actor. if you are predisposed to leave the film in a bad mood , I saw it and I enjoyed it . The film has good pace. I admit that never interested me in the kitchen until I saw this movie . He made a tremendous script tomatoes and eggs !! And he has a sensitive side too extravagant !  very good Bradley!!",0,0,Emelly Guzman,QsyzkkI_g14,0.2023148148148148,2016-01-11 02:36:28,False,True
+2016-01-12T19:53:53,umh trying to have the best restaurant can be hectic or dramatic and if you don't agree look at what happend with Bernard Louiseau,0,0,Frans van Kuik,QsyzkkI_g14,0.2833333333333333,2016-01-12 19:53:53,False,True
+2016-01-13T05:49:17,Hoy la vi es realmente buena!,0,0,Karla Cognuck,QsyzkkI_g14,0.0,2016-01-13 05:49:17,False,True
+2016-01-13T16:16:01,Bradley cooper speaks fluent french.  There should have been some french speaking in the trailer considering he was in France.,0,2,Al Ghanekar,QsyzkkI_g14,0.0,2016-01-13 16:16:01,False,True
+2016-01-17T12:23:22,Riccardo Scamarcio 😍,0,0,Katarina B,QsyzkkI_g14,0.0,2016-01-17 12:23:22,False,True
+2016-01-17T17:14:30,"another annoying shitty movie about kitchen and cooking :/ kitchen is not an army and this ""yes chef"" is so funny. cooking should give peoples pleasure for both - customers and those who are making dishes, coz this is their passion.",0,0,Hubert,QsyzkkI_g14,-0.26666666666666666,2016-01-17 17:14:30,False,True
+2016-01-20T22:15:10,im heard the  donnie darko soundtrack in this film  :) (y),0,0,szabina sz,QsyzkkI_g14,0.5,2016-01-20 22:15:10,False,True
+2016-01-26T01:13:27,Hell's Kitchen daaaa Movie.,0,0,Alfie Cotanda,QsyzkkI_g14,0.0,2016-01-26 01:13:27,False,True
+2016-01-27T18:32:38,fkin pretentious idiots,0,0,Dragomir Mihaita,QsyzkkI_g14,-0.55,2016-01-27 18:32:38,False,True
+2016-01-27T18:33:53,pay more for hors shit,0,0,Dragomir Mihaita,QsyzkkI_g14,0.15,2016-01-27 18:33:53,False,True
+2016-01-28T16:58:08,have you seen chef?,0,0,fafafagat,QsyzkkI_g14,0.0,2016-01-28 16:58:08,False,False
+2016-01-28T23:27:58,his ambitiousness is killing him in this movie,0,0,ModoLama,QsyzkkI_g14,0.0,2016-01-28 23:27:58,False,False
+2016-02-03T11:57:07,excelent movie,0,0,Alexandru Ureche,QsyzkkI_g14,0.0,2016-02-03 11:57:07,False,False
+2016-02-04T02:15:56,they tried to make cooking cool lol,0,0,Morgan Tillett,QsyzkkI_g14,0.575,2016-02-04 02:15:56,False,False
+2016-02-24T04:21:27,have you seen a chef pls?,0,0,MrBlue1190,QsyzkkI_g14,0.0,2016-02-24 04:21:27,False,False
+2016-03-02T10:35:11,failed oscar bait.,0,0,Irvin Franc Dumagdag,QsyzkkI_g14,-0.5,2016-03-02 10:35:11,False,False
+2016-03-02T13:18:15,I was waiting to see jennifer lawrence come in and try to sell him the magic mop.,34,0,shoppingfiesta,QsyzkkI_g14,0.5,2016-03-02 13:18:15,False,False
+2016-03-05T02:38:09,now I feel hungry,0,0,Satish Varan,QsyzkkI_g14,0.0,2016-03-05 02:38:09,False,False
+2016-03-12T07:29:39,shitty bradley cooking,0,0,Ambassador of Corruption,QsyzkkI_g14,0.0,2016-03-12 07:29:39,False,False
+2016-03-16T03:26:23,Habe u seen a chef pls,0,0,Pessimistic Optimist,QsyzkkI_g14,0.0,2016-03-16 03:26:23,False,False
+2016-03-23T01:10:06,have u seen chef,0,0,S.T.V,QsyzkkI_g14,0.0,2016-03-23 01:10:06,False,False
+2016-03-24T01:27:59,Que película weon!,0,0,Milton Cifuentes Calderon,QsyzkkI_g14,0.0,2016-03-24 01:27:59,False,False
+2016-03-29T11:24:55,*opens a restaurant* *is suddenly put on top of every hitman and assassin's kill list*,0,0,ches darko,QsyzkkI_g14,0.25,2016-03-29 11:24:55,False,False
+2016-04-06T14:19:13,Chris Kyle cooking on NZT,0,0,iJamie8467x,QsyzkkI_g14,0.0,2016-04-06 14:19:13,False,False
+2016-04-13T11:29:36,Bradley Cooper rocks! Can't wait to see this movie!,0,0,Samaksh Uppal,QsyzkkI_g14,0.0,2016-04-13 11:29:36,False,False
+2016-04-25T22:28:25,Offici,0,0,Sal sha,QsyzkkI_g14,0.0,2016-04-25 22:28:25,False,False
+2016-05-08T15:03:30,"liked the movie, not everyone's taste.",0,0,5aral,QsyzkkI_g14,0.6,2016-05-08 15:03:30,False,False
+2016-05-11T04:13:02,Bradley Cooper and Sienna Miller look good together. Just like on American Sniper.,0,0,Aira Official,QsyzkkI_g14,0.35,2016-05-11 04:13:02,False,False
+2016-05-15T12:52:31,Spoilers: 3 stars,11,1,Tumakz,QsyzkkI_g14,0.5,2016-05-15 12:52:31,False,False
+2016-05-15T12:59:42,Thanx God I didn't see this pathetic trailer befor the movie.. otherwise I would have missed a piece of art.,0,0,SA RAH,QsyzkkI_g14,-1.0,2016-05-15 12:59:42,False,False
+2016-05-19T08:27:13,Anyone else think of food wars,0,0,Ino Uchiha,QsyzkkI_g14,0.0,2016-05-19 08:27:13,False,False
+2016-05-22T23:20:47,Is this about gordon ramsay?,1,1,Alex727,QsyzkkI_g14,0.0,2016-05-22 23:20:47,False,False
+2016-06-10T22:17:57,Just cook some fking bacon ffs,0,0,1010010101,QsyzkkI_g14,0.0,2016-06-10 22:17:57,False,False
+2016-07-09T12:02:39,Remake of Chef or ?,0,0,San D.R.O,QsyzkkI_g14,0.0,2016-07-09 12:02:39,False,False
+2016-07-15T06:38:12,I'm confused. Where was Jennifer Lawrence?,1,0,Jesse Carleton,QsyzkkI_g14,-0.4,2016-07-15 06:38:12,False,False
+2016-07-17T13:07:40,Ratatouille 2,0,0,SkellyGreen,QsyzkkI_g14,0.0,2016-07-17 13:07:40,False,False
+2016-07-26T08:30:52,Fascinating film,0,0,Kovács Kris,QsyzkkI_g14,0.7,2016-07-26 08:30:52,False,False
+2016-08-15T16:35:53,Amazing movie,0,0,reyam 121,QsyzkkI_g14,0.6000000000000001,2016-08-15 16:35:53,False,False
+2016-08-29T02:43:59,"I thought this was a comedy , it had all the right ingredients , your  typical arrogant american infatuated with his own ambition and hes a chef, seriously everyone knows Americans don't know the first thing about food and how to cook it they live out of trashy take away stores and survive on microwaved cryovac cancer packs",0,1,James Barrie,QsyzkkI_g14,0.07150974025974025,2016-08-29 02:43:59,False,False
+2016-09-10T05:11:30,Hahaha is this a serious thing... come on now.,0,0,Nikki King,QsyzkkI_g14,-0.06666666666666665,2016-09-10 05:11:30,False,False
+2016-09-11T08:07:13,Major Cringe!😁😬😣👌🏼,0,0,RANDOM,QsyzkkI_g14,0.0625,2016-09-11 08:07:13,False,False
+2016-09-11T20:32:22,"why does everyone think its more dramatic than it should be ?It's a dramatic truth itself, many famous chefs have commited suicide over those things ,It's called perfectionism and in their case It's over the limit. the movie was not a waste of time at all. It's one of my faves and I just loved the ambitious Brad",93,3,calliope teo,QsyzkkI_g14,0.21041666666666667,2016-09-11 20:32:22,False,False
+2016-09-15T02:44:38,Baron Zebra meets Rocket Raccoon,0,0,Farrux AL,QsyzkkI_g14,0.0,2016-09-15 02:44:38,False,False
+2016-09-26T11:56:25,gordon ramsay???,0,0,Fandy Lim,QsyzkkI_g14,0.0,2016-09-26 11:56:25,False,False
+2016-09-28T18:33:43,Gordon Ramsay :'D,13,0,KuKu ChiLL,QsyzkkI_g14,0.0,2016-09-28 18:33:43,False,False
+2016-09-28T22:36:03,great movie drama. great actors who becoming better every movie they do. like american sniper,1,0,sebastian serrano,QsyzkkI_g14,0.51,2016-09-28 22:36:03,False,False
+2016-10-02T00:42:45,Hmm... A drama film starring Bradley Cooper and Sienna Miller with a title card made up of red text on a white background?  Seems oddly familiar...,1,0,Lex Lawies,QsyzkkI_g14,0.125,2016-10-02 00:42:45,False,False
+2016-10-06T04:07:46,"this movie is amazing! i swear Bradley can do no wrong, whether hes the lead or supporting they are always on point and epic!",6,0,Nicole Leroy,QsyzkkI_g14,0.34375,2016-10-06 04:07:46,False,False
+2016-10-09T07:46:36,This movie was amazingly accurate.  Exactly like how it really is to work in a kitchen.  Bravo!!  :D,3,2,BB Child,QsyzkkI_g14,0.49062500000000003,2016-10-09 07:46:36,False,False
+2016-10-16T12:04:13,is it actually Gordon Ramsey or people are just assuming ?,2,1,Abdo alraimi,QsyzkkI_g14,0.0,2016-10-16 12:04:13,False,False
+2016-10-21T12:27:19,1/10 nothing gets burnt,0,0,Marie Skriver,QsyzkkI_g14,0.0,2016-10-21 12:27:19,False,False
+2016-10-29T04:19:24,This movie is about an asshole starting his own restaurant. The end.,18,3,Smith Js,QsyzkkI_g14,0.3,2016-10-29 04:19:24,False,False
+2016-10-29T22:00:05,"Omar sy, the famous french actor",4,0,Hughes w. Mubake,QsyzkkI_g14,0.25,2016-10-29 22:00:05,False,False
+2016-11-20T18:32:41,"the character must be inspired form gordon ramsey, he's the one with the attitude",2,0,sam ben,QsyzkkI_g14,0.0,2016-11-20 18:32:41,False,False
+2016-11-21T15:38:21,Tagged as comedy drama but trailer looks like a thriller.,0,0,Sexy scientist,QsyzkkI_g14,0.0,2016-11-21 15:38:21,False,False
+2016-11-23T13:06:33,Was watching the movie and I saw the knife rolls they were using and I was wondering if anyone knows where to get them?,0,0,J.L.S,QsyzkkI_g14,0.0,2016-11-23 13:06:33,False,False
+2016-12-06T11:41:07,Good movie,1,0,Cinémaroc,QsyzkkI_g14,0.7,2016-12-06 11:41:07,False,False
+2016-12-09T23:34:28,It is actually a good movie.,3,0,Muhammad Assiddiq,QsyzkkI_g14,0.7,2016-12-09 23:34:28,False,False
+2016-12-12T10:34:41,two words: yes chef,2,0,Yakov Mishor,QsyzkkI_g14,0.0,2016-12-12 10:34:41,False,False
+2016-12-18T18:17:10,"The kitchens the only place I've ever felt like I really belonged.. I love every minute of it.The heat, the pressure, the violence.",5,0,GARRY OAK,QsyzkkI_g14,0.2333333333333333,2016-12-18 18:17:10,False,False
+2016-12-22T03:50:51,"1:10 I don't think I've seen this scene in the movie, anyone?",1,2,Bim,QsyzkkI_g14,0.0,2016-12-22 03:50:51,False,False
+2017-02-07T06:03:46,"lily james and alicia vikander in the same movie? oh my, oh my",0,0,my name,QsyzkkI_g14,0.0,2017-02-07 06:03:46,False,False
+2017-03-04T01:15:17,Really liked the movie!! Worth the time!,0,0,johnysoulless,QsyzkkI_g14,0.65625,2017-03-04 01:15:17,False,False
+2017-03-04T04:27:47,soooooooooooooo lame,0,0,Nita V,QsyzkkI_g14,-0.5,2017-03-04 04:27:47,False,False
+2017-03-05T00:43:12,It looked really cool when I thought it was a true story,0,0,Rick might be insane,QsyzkkI_g14,0.35,2017-03-05 00:43:12,False,False
+2017-03-16T16:47:03,this was the best movie i've watched. sober me disagrees.,0,0,Henna K,QsyzkkI_g14,0.55,2017-03-16 16:47:03,False,False
+2017-03-24T10:56:30,1:54 .........😕,0,0,bec just_BEC,QsyzkkI_g14,0.0,2017-03-24 10:56:30,False,False
+2017-04-13T08:28:07,Niki Lauda!,0,0,786sami786,QsyzkkI_g14,0.0,2017-04-13 08:28:07,False,False
+2017-04-19T18:29:14,Takes NZT,0,0,Miscellaneous,QsyzkkI_g14,0.0,2017-04-19 18:29:14,False,False
+2017-04-29T13:02:22,Ratatouille meets Gordon Ramsey...,1,0,Kc Luna,QsyzkkI_g14,0.0,2017-04-29 13:02:22,False,False
+2017-05-01T12:25:29,my nama chef,0,0,Mete Başdemir,QsyzkkI_g14,0.0,2017-05-01 12:25:29,False,False
+2017-05-21T00:40:35,I used to think Gone With the Wind was the greatest movie until I saw this perfect masterpiece.   This will go down as one of the greatest films of all time.,0,0,Harry Carrey,QsyzkkI_g14,0.711111111111111,2017-05-21 00:40:35,False,False
+2017-06-01T19:21:28,he wants to be a chef and he's from Louisiana. this movie is so about me,0,0,UglyNova Games,QsyzkkI_g14,0.2,2017-06-01 19:21:28,False,False
+2017-06-04T12:05:59,"Hey, have you guys seen chef?",0,0,skramble,QsyzkkI_g14,0.0,2017-06-04 12:05:59,False,False
+2017-06-05T08:05:38,the kiss between Adam & Tony is so cute,0,0,Orange Sheep,QsyzkkI_g14,0.5,2017-06-05 08:05:38,False,False
+2017-06-08T04:10:17,The soundtrack reminds me of the creepy tea cup clinking woman in Get Out.,1,0,Pasan,QsyzkkI_g14,-0.5,2017-06-08 04:10:17,False,False
+2017-06-10T06:56:42,Have you seen chef?,0,0,BrianV,QsyzkkI_g14,0.0,2017-06-10 06:56:42,False,False
+2017-06-13T08:19:15,"At first I thought it was a romantic flick,but it's actually a enjoyable and inspiring film. The protagonist learns to live and let live. Bradley Cooper is an versatile actor for sure. I recommend this film.",0,0,rolf778,QsyzkkI_g14,0.2889610389610389,2017-06-13 08:19:15,False,False
+2017-06-27T07:47:58,Yikes.. what a condescending Ass of a chef.. you know damn well that you can't have a good professional relationship with a boss such as this bad chef.. no F'ckin way!,1,0,laura valentina,QsyzkkI_g14,-0.01874999999999996,2017-06-27 07:47:58,False,False
+2017-07-04T21:52:35,"I stayed at the Langham. When I went to the restaurant, I had no idea what half of the things in the menu were. When I finally figured out what to order, the food was amazing",0,0,Cons Lorenzo,QsyzkkI_g14,0.1444444444444445,2017-07-04 21:52:35,False,False
+2017-07-30T05:51:05,Yeay bradley cooper,0,0,Tae Is My Purple Bangtan,QsyzkkI_g14,0.0,2017-07-30 05:51:05,False,False
+2017-08-12T18:51:15,replace the whisking noise in the background with ticket machine printing 😵😨,0,0,daniel smith,QsyzkkI_g14,0.0,2017-08-12 18:51:15,False,False
+2017-09-03T00:01:59,This movie is great! I have worked in kitchen once and this movie describes the adrenalina a cook or a chef feels in these situations.  Bradley Cooper is a geat actor and he killed it!,1,0,WeirdosZONE,QsyzkkI_g14,0.375,2017-09-03 00:01:59,False,False
+2017-09-04T02:36:30,This movie was just awful,1,0,Claw,QsyzkkI_g14,-1.0,2017-09-04 02:36:30,False,False
+2017-09-09T04:03:30,This movie was aweful. If you haven't seen it don t waste your time.,0,0,StevenyGabby Perez,QsyzkkI_g14,-0.2,2017-09-09 04:03:30,False,False
+2017-09-12T19:29:21,"This is actually an incredible movie. The acting, the emotion, the message; it's superb",2,1,Corina Badea-Mic,QsyzkkI_g14,0.6333333333333333,2017-09-12 19:29:21,False,False
+2017-09-13T21:26:05,I just want everyone on this comment section to die,0,0,Osamin TV,QsyzkkI_g14,0.0,2017-09-13 21:26:05,False,False
+2017-09-22T08:38:03,nikki lauda is amazing,0,0,Ali Mansour,QsyzkkI_g14,0.6000000000000001,2017-09-22 08:38:03,False,False
+2017-09-25T20:44:18,"A very fine film. The tension throughout is admirable. The film's nexus comes when Chef Jones delivers a birthday cake to young Lily; oh, there's more wonderful tension after that scene through the film's climax.",0,0,TralfazConstruction,QsyzkkI_g14,0.5354166666666667,2017-09-25 20:44:18,False,False
+2017-10-14T07:21:43,finally Hritik Roshan leave Bollywood for Hollywood lol,0,0,Rio RIFFALL,QsyzkkI_g14,0.4,2017-10-14 07:21:43,False,False
+2017-11-04T18:09:00,*god... I f_cking love this movie*,0,0,MIZORAM - Mafaka Hnamte,QsyzkkI_g14,0.5,2017-11-04 18:09:00,False,False
+2017-11-11T11:35:12,I loved this movie and I own it. I was surprised to see so many people on here talking crap about it. But then again it's YouTube. Look I have worked in a restaurant before and it was no where near a 3 star restaurant and it was crazy in that kitchen especially for the cooks behind the line. Some of my friends are cooks and they tell me that the pressure is madding. I admire and person who has a love and a passion for what they do. This is why people pay so much to go to those restaurants. It's People using the best to give you the customer the best. The cast of Burnt did great.,0,0,kamille seven,QsyzkkI_g14,0.2642857142857143,2017-11-11 11:35:12,False,False
+2017-12-09T20:24:57,"liberal douchebaggery at it's best ,, 10min in and it's already a cringe fest",0,0,GrowerPristine.MatthewMalone,QsyzkkI_g14,1.0,2017-12-09 20:24:57,False,False
+2017-12-25T04:44:28,Ya me la vi. No me gustó,0,0,Oscar Macías,QsyzkkI_g14,0.0,2017-12-25 04:44:28,False,False
+2018-02-16T11:10:00,Perfect movie,0,0,Ahmet Eroz,QsyzkkI_g14,1.0,2018-02-16 11:10:00,False,False
+2018-03-08T00:29:52,"I love this movie, is there any other chef movie that as good as this movie, please mention it.",0,0,LetsPlay,QsyzkkI_g14,0.35833333333333334,2018-03-08 00:29:52,False,False
+2018-03-08T10:40:56,so... is this about Gordon Ramsay or what?,2,0,Neo Virz,QsyzkkI_g14,0.0,2018-03-08 10:40:56,False,False
+2018-04-14T20:30:42,Opening  a restaurant is so dangerous. Its even riskier than meddling in the Mafia underworld 👀LOL,0,1,Jana K,QsyzkkI_g14,-0.6,2018-04-14 20:30:42,False,False
+2018-04-30T08:28:20,"Finally, a movie about Gordon ramsay!",4,0,Gothus Touchstone Singularity,QsyzkkI_g14,0.0,2018-04-30 08:28:20,False,False
+2018-05-18T14:04:42,"Pretty bummed that they changed the title from ""Adam Jones"" (my full name), to Burnt. Just one week before it was released.",0,0,Adam J.,QsyzkkI_g14,0.3,2018-05-18 14:04:42,False,False
+2018-05-23T13:20:58,"So my man wants me to watch this with him. I will, but I just don't know what will happen. He's gone to Art Institute and cooking is his passion, but I don't have any idea of what will happen in this movie LOL 😂.",1,0,Drea Luscious,QsyzkkI_g14,0.5,2018-05-23 13:20:58,False,False
+2018-05-24T10:04:06,THIS IS A MOVIE ABOUT HOW NOT TO RUN A KITCHEN,0,0,5 Star MGTOW,QsyzkkI_g14,0.0,2018-05-24 10:04:06,False,False
+2018-05-31T15:51:57,I'm 3 years late. I guess the thriller was really more about the character's own turmoil and messed up past. A movie focused solely on the struggles of a chef desperate to get the Michelin Star. That's it.,0,0,Frood Tooth,QsyzkkI_g14,-0.009999999999999986,2018-05-31 15:51:57,False,False
+2018-06-05T04:38:50,Teaser freezer,0,0,jr,QsyzkkI_g14,0.0,2018-06-05 04:38:50,False,False
+2018-06-06T04:35:29,Terrible movie. Total waste of time.,0,0,YTfancol,QsyzkkI_g14,-0.39999999999999997,2018-06-06 04:35:29,False,False
+2018-07-05T00:37:14,"A Weinstein company, did the lady had sex with Harvey Bent?🤗😊😅",0,0,Poseidon99Jeus,QsyzkkI_g14,0.0,2018-07-05 00:37:14,False,False
+2018-07-19T03:07:38,"this movie has some beautiful scenes, like beautiful images, how do i find more films as aesthetic?",0,0,mssaturn,QsyzkkI_g14,0.7333333333333334,2018-07-19 03:07:38,False,False
+2018-08-08T08:15:55,someone should make a movie about gordon ramsey,0,0,Daniel Ikupu,QsyzkkI_g14,0.0,2018-08-08 08:15:55,False,False
+2018-08-11T02:17:51,Acabo de verla .... Genial!!,0,0,Jack Kölner Höeck,QsyzkkI_g14,0.0,2018-08-11 02:17:51,False,False
+2018-09-02T23:04:23,Best movie ever,0,0,Jon Martinez,QsyzkkI_g14,1.0,2018-09-02 23:04:23,False,False
+2018-09-26T02:41:34,Bradley Cooper looks good whatever role he plays. I really enjoyed this movie especially because I love cooking.,0,0,AstroBetaSirius,QsyzkkI_g14,0.425,2018-09-26 02:41:34,False,False
+2018-10-16T16:10:36,Much better than Chef imo. Mainly because of the acting (the cast of this movie is really good),0,0,Prashant Samlal,QsyzkkI_g14,0.3416666666666667,2018-10-16 16:10:36,False,False
+2018-11-10T14:31:44,This movie was unbelievably awesome and inspirational! Really hit the unique chef life on the head. Fantastic film,0,0,Benny Fraser,QsyzkkI_g14,0.52,2018-11-10 14:31:44,False,False
+2018-11-12T20:29:05,Great movie with a great message...,0,0,Dušan Osadský,QsyzkkI_g14,0.8,2018-11-12 20:29:05,False,False
+2018-11-15T02:47:46,Cookery is the Phoenix.,0,0,Moo Kris,QsyzkkI_g14,0.0,2018-11-15 02:47:46,False,False
+2018-11-21T20:24:46,There's only a room in this kitchen for one hysterical chef,0,0,The Resident Psycho,QsyzkkI_g14,-0.5,2018-11-21 20:24:46,False,False
+2018-12-25T02:44:14,GORDON RAMSAY HAHAHAHAHAA,0,0,ARYANSH BHADORIA,QsyzkkI_g14,0.0,2018-12-25 02:44:14,False,False
+2019-01-08T21:44:00,I love how he is driving the same Motorcycle as Massimo Bottura. Nice touch.,0,0,Obi,QsyzkkI_g14,0.3666666666666667,2019-01-08 21:44:00,False,False
+2019-01-15T06:48:11,nice nice nice... now go make me a sandwich ?,0,0,SIDΞKICK,QsyzkkI_g14,0.6,2019-01-15 06:48:11,False,False
+2019-01-17T01:52:04,"on Netflix, it's underneath a t.v show. what the hell. I'm watching this now lol",0,0,Genevieve Gareau,QsyzkkI_g14,0.8,2019-01-17 01:52:04,False,False
+2019-01-31T03:14:57,This trailer was so amazing and the movie was garbage,0,0,MidnightBastard,QsyzkkI_g14,0.6000000000000001,2019-01-31 03:14:57,False,False
+2019-02-20T11:35:01,Brad is hott,0,0,Tamera Shields,QsyzkkI_g14,0.0,2019-02-20 11:35:01,False,False
+2019-03-12T03:35:24,This is such a good movie,0,0,JotaroKujo,QsyzkkI_g14,0.35,2019-03-12 03:35:24,False,False
+2019-03-13T13:53:08,"I just recently watched this movie. I am not a massive fan of Bradley Cooper. But as always he portrays each character perfectly. Being a chef is very competitive. Having to be the best and create dishes that are perfect would make anyone crazy. Which Bradley captures as a man seeking redemption yet at the same time he wants the prestige.He does it the only way he knows through manipulation and his own desire which in fact was what ended his success. The relationship between Reece and Adam truly captures the respect they have for their craft which involves jealousy, competitiveness for each other but there is an unspoken respect and understanding which ultimately allow us to relate to Adam. It is at the end when Adam is having a melt down he chooses an adversary rather then a friend to see him at his weakness who understand . Love this movie and I thought I would not. Definitely on my favourite list.",0,0,Zakiya Seedat,QsyzkkI_g14,0.23055555555555557,2019-03-13 13:53:08,False,False
+2019-03-20T04:05:51,This food based film looks worse than 'Chef',0,0,Serpentini,QsyzkkI_g14,-0.4,2019-03-20 04:05:51,False,False
+2019-04-14T01:09:21,"UNDERRATED AND UNDERAPPRECIATED....as a CHEF, i love this movie",0,0,Kuda95 M,QsyzkkI_g14,0.5,2019-04-14 01:09:21,False,False
+2019-04-25T05:10:51,"comida is beautiful, i like to eat takis at the park before playing soccer",0,0,Jasper Arce,QsyzkkI_g14,0.85,2019-04-25 05:10:51,False,False
+2019-04-25T14:44:01,I checked this bcs someone told me Daniel was in this film. Is he?,0,0,Aynee Mundo,QsyzkkI_g14,0.0,2019-04-25 14:44:01,False,False
+2019-05-23T16:07:32,Trailer ends.... Beating eggs intensely....................,0,0,Optimus Prime,QsyzkkI_g14,0.2,2019-05-23 16:07:32,False,False
+2019-06-02T18:55:02,An ex crackhead uses people to get a restaurant and earned a 3rd star.,0,0,Tiwa Valenzuela,QsyzkkI_g14,0.0,2019-06-02 18:55:02,False,False
+2019-06-05T03:47:27,where is my lamb suace.....,0,0,raja abdullah,QsyzkkI_g14,0.0,2019-06-05 03:47:27,False,False
+2019-06-08T10:05:00,"The italian name of this movie is ""the flavour of success""",0,0,Kujo McFly,QsyzkkI_g14,0.15,2019-06-08 10:05:00,False,False
+2019-06-17T07:08:39,Cooking mafia? 😂😂😂,0,0,Honor Ninelite,QsyzkkI_g14,0.0,2019-06-17 07:08:39,False,False
+2019-06-29T06:01:01,Great movie really enjoy it⭐️⭐️⭐️⭐️⭐️,0,0,krisztina otvos,QsyzkkI_g14,0.6000000000000001,2019-06-29 06:01:01,False,False
+2019-07-06T00:32:00,"I wonder how many takes it took for Cooper to say ""sick with longing"" without cringing.",0,0,James Nuttes,QsyzkkI_g14,-0.10714285714285715,2019-07-06 00:32:00,False,False
+2019-07-06T02:45:26,"When Rocket Racoon retired as GOTG members, mechanic, & pilot. He becomes chef like Gordon Ramsay.   Or he should do crossover movie between Chef and Burnt.   Both movies stars are MCU actors/actress.",1,0,Hendra Darmawan,QsyzkkI_g14,0.0,2019-07-06 02:45:26,False,False
+2019-07-15T09:11:09,chef is better,0,0,Arnav Vaid,QsyzkkI_g14,0.5,2019-07-15 09:11:09,False,False
+2019-07-26T23:07:14,This movie is slightly like a follow up to Kitchen Confidential but a bit more dramatic,0,0,Stefan Tomasi,QsyzkkI_g14,-0.033333333333333305,2019-07-26 23:07:14,False,False
+2019-08-24T11:59:50,Pot noodle loyal 😎,0,0,The JudderMan,QsyzkkI_g14,0.3333333333333333,2019-08-24 11:59:50,False,False
+2019-09-12T07:06:45,This was worth it,0,0,Scott Summers,QsyzkkI_g14,0.3,2019-09-12 07:06:45,False,False
+2019-10-06T14:15:52,Youtube :  2015 : no 2016 : no 2017 : no 2018 : no 2019 : here u go,1,0,Wenedi Okydiano,QsyzkkI_g14,0.0,2019-10-06 14:15:52,False,False
+2019-11-13T14:52:14,"Critics dont like this movie because they dont know what really happens inside the kitchen, they think this is over acting but in real life this is what we really do.",0,0,kikong kamote,QsyzkkI_g14,0.15000000000000002,2019-11-13 14:52:14,False,False
+2019-11-13T19:39:40,1:22 and Gordon xD,0,0,IKONxIKONICS140915 Ikon,QsyzkkI_g14,0.0,2019-11-13 19:39:40,False,False
+2019-11-22T04:46:55,"Love this movie. To spend $40 on a meal, is ok,... not hundreds. Fine dinning is a scam.",0,0,Zeus Robida,QsyzkkI_g14,0.47222222222222227,2019-11-22 04:46:55,False,False
+2019-12-03T05:46:36,This movie is so intense. I love it!,0,0,Ethereal Rhyme,QsyzkkI_g14,0.4125,2019-12-03 05:46:36,False,False
+2019-12-05T18:13:42,Reminds me of Joker.. 1:17,0,0,ZAHID HASAN,QsyzkkI_g14,0.0,2019-12-05 18:13:42,False,False
+2019-12-17T19:32:48,Gordon Ramsay,0,0,Meme College,QsyzkkI_g14,0.0,2019-12-17 19:32:48,False,False
+2020-01-25T14:47:39,fun fact : in 2005 also bradley played a lead role as head chef in a tv show called kitchen confidential,0,0,ashish01997,QsyzkkI_g14,0.3,2020-01-25 14:47:39,False,False
+2020-01-30T15:18:53,Who plays the Maître d in this? He was excellent. Anyone that has worked in high end hospitality would identify with this guy. I’ve worked with plenty.He pulled it off perfectly.,0,0,Dave O,QsyzkkI_g14,0.7200000000000001,2020-01-30 15:18:53,False,False
+2020-02-08T03:24:14,Wow! Zemo and Rocket being besties 😃😂,0,0,Chayanika Hazra,QsyzkkI_g14,0.125,2020-02-08 03:24:14,False,False
+2020-03-09T06:47:40,Didn't know Zemo is in here,0,0,SN Azziera,QsyzkkI_g14,0.0,2020-03-09 06:47:40,False,False
+2020-03-22T19:06:00,That noise of scrambling eggs lol . Satisfying. Anyhow my parents watched this one a few times and they say its real good,0,0,Burek Mali,QsyzkkI_g14,0.525,2020-03-22 19:06:00,False,False
+2020-03-31T15:02:25,"This kind of cooking is disgusting. They practically spit in the food, and touch everything for decoration. In the scenes of this movie at least, the guy keeps tasting the food with one spoon, passes it around, and then puts it back in the pot. An then keeps shouting while sniffing at close range to the plates. With shouting, nothing good can be created in any craft. Very obnoxious, pathetic people. And dirty practice.",0,0,Kay Em,QsyzkkI_g14,-0.175,2020-03-31 15:02:25,False,False
+2020-04-01T12:35:18,⭐⭐⭐⭐⭐,0,0,Soukaina dalhi,QsyzkkI_g14,0.0,2020-04-01 12:35:18,False,False
+2020-04-14T03:16:44,I really love this film tho... I highly reccomend you watching this haha...,0,0,artery,QsyzkkI_g14,0.2866666666666667,2020-04-14 03:16:44,False,False
+2020-04-14T17:49:21,"""If you try to start a restaurant there are at least a dozen people who will try to have you killed"" No there aren't",1,0,GiantSandles,QsyzkkI_g14,-0.25,2020-04-14 17:49:21,False,False

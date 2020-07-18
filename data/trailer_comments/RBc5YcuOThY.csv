@@ -1,0 +1,615 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2015-10-01T19:04:26,now that shit is scary.,1,0,cramnkey13469721907,RBc5YcuOThY,-0.35,2015-10-01 19:04:26,True,True
+2015-10-01T19:06:08,"Natalie is so good, in everything she does, damn",466,24,Es,RBc5YcuOThY,0.7,2015-10-01 19:06:08,True,True
+2015-10-01T19:10:24,"Looks good but I hope it's not just another shitty jumpscare fest, horror seems to be dying not been legitimately scared by anything in years except It Follows.",0,0,mrcheesemunch,RBc5YcuOThY,0.7,2015-10-01 19:10:24,True,True
+2015-10-01T19:14:47,Natalie Dormer needs to have my babies,33,6,Uzair Amanat,RBc5YcuOThY,0.0,2015-10-01 19:14:47,True,True
+2015-10-01T19:15:16,Looks pretty basic and not so good it seems like there point is that the place is real but doesn't really change much smh,0,0,zuperspicy,RBc5YcuOThY,0.2583333333333333,2015-10-01 19:15:16,True,True
+2015-10-01T19:15:18,Where are the parts where the plane crashes? Where are the cannibals you can beat the shit out of with their legs? Where are the axes? So misleading for a movie with the name of The Forest.,1,0,TetonicKnight,RBc5YcuOThY,-0.2,2015-10-01 19:15:18,True,True
+2015-10-01T19:15:18,Looks pretty basic and not so good it seems like there point is that the place is real but doesn't really change much smh,0,1,zuperspicy,RBc5YcuOThY,0.2583333333333333,2015-10-01 19:15:18,True,True
+2015-10-01T19:16:34,"Sara comes out at the end ""its just a prank! its just a prank! theres a camera right there, and there""",785,28,AztecSoviet,RBc5YcuOThY,0.2857142857142857,2015-10-01 19:16:34,True,True
+2015-10-01T19:17:22,She never had a twin sister. Or something. I dont know.,148,8,rudyrudiger84,RBc5YcuOThY,0.0,2015-10-01 19:17:22,True,True
+2015-10-01T19:17:54,I can't tell if she is right for a horror movie or not,0,0,Methodsofdestruction,RBc5YcuOThY,0.2857142857142857,2015-10-01 19:17:54,True,True
+2015-10-01T19:18:19,Is this a american remake to a japanese film?? Still looks good thou,0,0,Christopher Moltisanti,RBc5YcuOThY,0.2333333333333333,2015-10-01 19:18:19,True,True
+2015-10-01T19:19:03,"Funny... In the teaser someone commented ""I hope she'll be naked""; and their prayers have been answered. Damn! I want 1000000 euros... Nothing happened. shoot",1,0,Dahlia Blake,RBc5YcuOThY,0.125,2015-10-01 19:19:03,True,True
+2015-10-01T19:20:33,Blair Witch Project > This Shit,1,1,Studios,RBc5YcuOThY,-0.2,2015-10-01 19:20:33,True,True
+2015-10-01T19:21:13,"The concept of dark magic arising from a place like Aokigahara is pretty cool, but the story itself will fail.",0,0,Brian Rodriguez,RBc5YcuOThY,0.09,2015-10-01 19:21:13,True,True
+2015-10-01T19:23:24,So we have this and Sea of Trees coming out in the same year. I think the last thing a forest where people go to commit suicide is attention.,0,0,Alextromagnetic,RBc5YcuOThY,0.0,2015-10-01 19:23:24,True,True
+2015-10-01T19:23:36,Ah... Another typical horror movie with jumpscares and stupid characters......Nothing new.,135,24,Aleck5andrs,RBc5YcuOThY,-0.2767676767676767,2015-10-01 19:23:36,True,True
+2015-10-01T19:27:14,░░░░█▒▒▄▀▀▀▀▀▄▄▒▒▒▒▒▒▒▒▒▄▄▀▀▀▀▀▀▄ ░░▄▀▒▒▒▄█████▄▒█▒▒▒▒▒▒▒█▒▄█████▄▒█ ░█▒▒▒▒▐██▄████▌▒█▒▒▒▒▒█▒▐██▄████▌▒█ ▀▒▒▒▒▒▒▀█████▀▒▒█▒░▄▒▄█▒▒▀█████▀▒▒▒█ ▒▒▐▒▒▒░░░░▒▒▒▒▒█▒░▒▒▀▒▒█▒▒▒▒▒▒▒▒▒▒▒▒█ ▒▌▒▒▒░░░▒▒▒▒▒▄▀▒░▒▄█▄█▄▒▀▄▒▒▒▒▒▒▒▒▒▒▒▌ ▒▌▒▒▒▒░▒▒▒▒▒▒▀▄▒▒█▌▌▌▌▌█▄▀▒▒▒▒▒▒▒▒▒▒▒▐ ▒▐▒▒▒▒▒▒▒▒▒▒▒▒▒▌▒▒▀███▀▒▌▒▒▒▒▒▒▒▒▒▒▒▒▌ ▀▀▄▒▒▒▒▒▒▒▒▒▒▒▌▒▒▒▒▒▒▒▒▒▐▒▒▒▒▒▒▒▒▒▒▒█ ▀▄▒▀▄▒▒▒▒▒▒▒▒▐▒▒▒▒▒▒▒▒▒▄▄▄▄▒▒▒▒▒▒▄▄▀ ▒▒▀▄▒▀▄▀▀▀▄▀▀▀▀▄▄▄▄▄▄▄▀░░░░▀▀▀▀▀▀ ▒▒▒▒▀▄▐▒▒▒▒▒▒▒▒▒▒▒▒▒▐ ░▄▄▄░░▄░░▄░▄░░▄░░▄░░░░▄▄░▄▄░░░▄▄▄░░░▄▄▄ █▄▄▄█░█▄▄█░█▄▄█░░█░░░█░░█░░█░█▄▄▄█░█░░░█ █░░░█░░█░░░░█░░░░█░░░█░░█░░█░█░░░█░█░░░█ ▀░░░▀░░▀░░░░▀░░░░▀▀▀░░░░░░░░░▀░░░▀░▀▄▄▄▀,1,0,_MaZ_TeR_,RBc5YcuOThY,0.0,2015-10-01 19:27:14,True,True
+2015-10-01T19:27:19,░░░░█▒▒▄▀▀▀▀▀▄▄▒▒▒▒▒▒▒▒▒▄▄▀▀▀▀▀▀▄ ░░▄▀▒▒▒▄█████▄▒█▒▒▒▒▒▒▒█▒▄█████▄▒█ ░█▒▒▒▒▐██▄████▌▒█▒▒▒▒▒█▒▐██▄████▌▒█ ▀▒▒▒▒▒▒▀█████▀▒▒█▒░▄▒▄█▒▒▀█████▀▒▒▒█ ▒▒▐▒▒▒░░░░▒▒▒▒▒█▒░▒▒▀▒▒█▒▒▒▒▒▒▒▒▒▒▒▒█ ▒▌▒▒▒░░░▒▒▒▒▒▄▀▒░▒▄█▄█▄▒▀▄▒▒▒▒▒▒▒▒▒▒▒▌ ▒▌▒▒▒▒░▒▒▒▒▒▒▀▄▒▒█▌▌▌▌▌█▄▀▒▒▒▒▒▒▒▒▒▒▒▐ ▒▐▒▒▒▒▒▒▒▒▒▒▒▒▒▌▒▒▀███▀▒▌▒▒▒▒▒▒▒▒▒▒▒▒▌ ▀▀▄▒▒▒▒▒▒▒▒▒▒▒▌▒▒▒▒▒▒▒▒▒▐▒▒▒▒▒▒▒▒▒▒▒█ ▀▄▒▀▄▒▒▒▒▒▒▒▒▐▒▒▒▒▒▒▒▒▒▄▄▄▄▒▒▒▒▒▒▄▄▀ ▒▒▀▄▒▀▄▀▀▀▄▀▀▀▀▄▄▄▄▄▄▄▀░░░░▀▀▀▀▀▀ ▒▒▒▒▀▄▐▒▒▒▒▒▒▒▒▒▒▒▒▒▐ ░▄▄▄░░▄░░▄░▄░░▄░░▄░░░░▄▄░▄▄░░░▄▄▄░░░▄▄▄ █▄▄▄█░█▄▄█░█▄▄█░░█░░░█░░█░░█░█▄▄▄█░█░░░█ █░░░█░░█░░░░█░░░░█░░░█░░█░░█░█░░░█░█░░░█ ▀░░░▀░░▀░░░░▀░░░░▀▀▀░░░░░░░░░▀░░░▀░▀▄▄▄▀,1,0,_MaZ_TeR_,RBc5YcuOThY,0.0,2015-10-01 19:27:19,True,True
+2015-10-01T19:29:38,"It's another supposedly scary movie like So Above, So Below, great",0,4,_MaZ_TeR_,RBc5YcuOThY,0.10000000000000002,2015-10-01 19:29:38,True,True
+2015-10-01T19:30:16,nature is scary af im never leaving my house again,2,0,Lucas Dunham,RBc5YcuOThY,-0.5,2015-10-01 19:30:16,True,True
+2015-10-01T19:33:00,Tommy Wiseau goes camping.,0,0,NathaN,RBc5YcuOThY,0.0,2015-10-01 19:33:00,True,True
+2015-10-01T19:34:25,most people don't know that this place is actually real...,520,15,Stylus [DG],RBc5YcuOThY,0.35,2015-10-01 19:34:25,True,True
+2015-10-01T19:36:53,"don't worry natalie, king tommen will save you",7,0,thisisgame,RBc5YcuOThY,0.0,2015-10-01 19:36:53,True,True
+2015-10-01T19:37:29,Joffrey is there,133,1,igor matijevic,RBc5YcuOThY,0.0,2015-10-01 19:37:29,True,True
+2015-10-01T19:37:37,why are all fantasy moves now are horro,0,1,Hyper Nova,RBc5YcuOThY,0.0,2015-10-01 19:37:37,True,True
+2015-10-01T19:43:58,Cabin Fever 3,0,1,Humanoid,RBc5YcuOThY,0.0,2015-10-01 19:43:58,True,True
+2015-10-01T19:44:09,This actually looks like a good horror film.,48,5,GnarbySZN🐍,RBc5YcuOThY,0.35,2015-10-01 19:44:09,True,True
+2015-10-01T19:48:39,What's better than Natalie Dormer?  Pair of Natalie Dormer :),2,6,Kushagra Khanna,RBc5YcuOThY,0.5,2015-10-01 19:48:39,True,True
+2015-10-01T19:53:48,Fatal frame,0,0,pedro henrique,RBc5YcuOThY,0.0,2015-10-01 19:53:48,True,True
+2015-10-01T19:56:17,January? Forget it.,0,0,matwang1,RBc5YcuOThY,0.0,2015-10-01 19:56:17,True,True
+2015-10-01T19:57:14,I like the actress but i'm not convinced its worth a movie ticket price so ill rent it for now,0,0,SoundtrackFanGirlFa,RBc5YcuOThY,-0.1,2015-10-01 19:57:14,True,True
+2015-10-01T19:59:01,holy moly..think i saw this place on a top ten or a top five channel,0,1,C. F.,RBc5YcuOThY,0.3333333333333333,2015-10-01 19:59:01,True,True
+2015-10-01T20:00:51,all she had to do was stay on the path,165,5,Ludens,RBc5YcuOThY,0.0,2015-10-01 20:00:51,True,True
+2015-10-01T20:07:57,"This LOOKS good...but two things:  1) Its a January Horror movie 2) Hints at a ""true story""",0,3,Travis Loranger,RBc5YcuOThY,0.35,2015-10-01 20:07:57,True,True
+2015-10-01T20:14:48,Margery Tyrell wtf are you doing here?!,3,0,Mylifeis funny,RBc5YcuOThY,-0.625,2015-10-01 20:14:48,True,True
+2015-10-01T20:21:06,"Looks terrible. The acting, whoa thats bad! And I already know the twist JUST by the trailer. She is driven to the forest and put into a ""trance"" (I'm guessing) and she commits suicide. Hence, the suicide forest.",0,0,shooting as CK,RBc5YcuOThY,-0.6249999999999999,2015-10-01 20:21:06,True,True
+2015-10-01T20:21:25,i know it is real which is y i said i saw it on a youtube channel..honestlyyy,0,0,C. F.,RBc5YcuOThY,0.2,2015-10-01 20:21:25,True,True
+2015-10-01T20:38:53,If Natalie Dormer had a twin sister... Um... this world would be a better place.,1,0,Greg Lorash,RBc5YcuOThY,0.5,2015-10-01 20:38:53,True,True
+2015-10-01T20:40:01,I only clicked on this because I thought it was based of the game.,0,0,TailAbNormal,RBc5YcuOThY,-0.2,2015-10-01 20:40:01,True,True
+2015-10-01T20:49:38,Sara answer yo damn sister!,4,0,KravenGoesTeemo,RBc5YcuOThY,0.0,2015-10-01 20:49:38,True,True
+2015-10-01T20:49:55,It's a real place called the Hoia Baciu Forest in Romania. It's a very interesting place,1,1,Splurge,RBc5YcuOThY,0.42500000000000004,2015-10-01 20:49:55,True,True
+2015-10-01T20:51:50,"yet another typical horror, not even going to bother :/",0,0,TheNickH3X,RBc5YcuOThY,-0.20833333333333331,2015-10-01 20:51:50,True,True
+2015-10-01T20:54:00,I'd like to see it since it's based on an actual location at the base of Mt. Fuji where hundreds of people commit suicide there every year. It's called Aokigahara Forest I believe.,1,0,s2k9k,RBc5YcuOThY,-0.4,2015-10-01 20:54:00,True,True
+2015-10-01T21:00:10,Why yes I will be watching this movie. why? 'cause natalie dormer is in it,1,0,palebluedot,RBc5YcuOThY,0.0,2015-10-01 21:00:10,True,True
+2015-10-01T21:06:28,This looks like a cool movie. Excited!,1,0,ClothesCall,RBc5YcuOThY,0.409375,2015-10-01 21:06:28,True,True
+2015-10-01T21:12:49,"OMG I have been to that forest it is absolutely beautiful and mysterious. We have actually found some plastic strings and pills. But pills were probably just vitamins lol and there is a path for tourists so they dont get lost in the forest, If u go a bit further you see the sign to not pass any further of the forest after that point cuz thats where people mostlygo to commit suicide. I wrote this before watching the whole trailer and looks like they showed the sign is at 1:15 Omg i was waiting for a movie like this. I wish i could go again. I cant wait to watch this.",22,9,bellowen,RBc5YcuOThY,0.2642857142857143,2015-10-01 21:12:49,True,True
+2015-10-01T21:13:16,saw a doc. from VICE and people usually stay there for days and days just thinking. so no scary shit at night irl but good twist i guess.....psyche.  such a shit story but good acting no dramatic teens lololol.,0,0,Lonely Sith,RBc5YcuOThY,0.13518518518518519,2015-10-01 21:13:16,True,True
+2015-10-01T21:13:52,So she ded now right,0,0,Slow-wipe,RBc5YcuOThY,0.2857142857142857,2015-10-01 21:13:52,True,True
+2015-10-01T21:25:18,natalie idboneher,1,0,Professional69,RBc5YcuOThY,0.0,2015-10-01 21:25:18,True,True
+2015-10-01T21:35:14,los latinos comenten aquí!!vengan vengan!!,0,0,Diego patricio,RBc5YcuOThY,0.0,2015-10-01 21:35:14,True,True
+2015-10-01T21:43:40,"Guys, look at you ""omg another horror movie with scares""",0,0,Jeferson Pedro,RBc5YcuOThY,0.0,2015-10-01 21:43:40,True,True
+2015-10-01T21:52:20,Loud sounds are not horror.,0,0,mauricio quiroz,RBc5YcuOThY,0.1,2015-10-01 21:52:20,True,True
+2015-10-01T21:57:06,"So, a film version of the dead marshes from lord of the rings. Stay on the path hobbitses! ",6,0,Richard Round,RBc5YcuOThY,-0.25,2015-10-01 21:57:06,True,True
+2015-10-01T22:03:56,This looks like 2 hours of jump scares,0,0,Avi p,RBc5YcuOThY,0.0,2015-10-01 22:03:56,True,True
+2015-10-01T22:06:56,Natalie Dormer? SOLD! She's hot as shite,2,0,Lennie Godber,RBc5YcuOThY,0.25,2015-10-01 22:06:56,True,True
+2015-10-01T22:07:40,Pshhh .... I'll go to that forest right now and walk out like a boss #Batfleck,0,0,Alvin Musai,RBc5YcuOThY,0.2857142857142857,2015-10-01 22:07:40,True,True
+2015-10-01T22:17:01,Saaaa... Saaarrr... Saaarahhh... Sssarah :3,0,0,MG Rogue,RBc5YcuOThY,0.5,2015-10-01 22:17:01,True,True
+2015-10-01T22:37:44,This movie is about ssSSsssaAAaraaAaaAaa...,0,0,H4ydeN,RBc5YcuOThY,0.0,2015-10-01 22:37:44,True,True
+2015-10-01T22:44:17,Great. Another zombie movie,0,0,Ciaran Pierce,RBc5YcuOThY,0.8,2015-10-01 22:44:17,True,True
+2015-10-01T22:51:02,Was wondering when Aokigahara would be the subject of a horror film.,0,0,quipper,RBc5YcuOThY,-0.16666666666666666,2015-10-01 22:51:02,True,True
+2015-10-01T22:51:12,What has Margery Tyrell gotten herself into THIS time.,3,0,Luke Hickey,RBc5YcuOThY,0.0,2015-10-01 22:51:12,True,True
+2015-10-01T23:30:16,1:02 He probably just wanted a closer look,1,0,Samantha Buntal,RBc5YcuOThY,0.0,2015-10-01 23:30:16,True,True
+2015-10-01T23:31:35,"The fact that it comes out in January should be a red flag, but Natalie Dormer is freaking perfect and an amazing actress. So I think I'll see it.",2,0,Austin Culver,RBc5YcuOThY,0.5333333333333333,2015-10-01 23:31:35,True,True
+2015-10-01T23:38:29,Isn't this a game?,0,0,adoplusjr,RBc5YcuOThY,-0.4,2015-10-01 23:38:29,True,True
+2015-10-01T23:41:32,What's her character's name again?,0,2,YakuzaPanda,RBc5YcuOThY,0.0,2015-10-01 23:41:32,True,True
+2015-10-01T23:42:13,"Ooooh, I want to watch it so bad. First, the urban legend, myth, whatever, is real. Second,...my name is not Sarah.",1,0,JDGamingPR,RBc5YcuOThY,-0.06249999999999996,2015-10-01 23:42:13,True,True
+2015-10-01T23:55:38,i thought it's suppose to be scary,0,0,ali vanom,RBc5YcuOThY,-0.5,2015-10-01 23:55:38,True,True
+2015-10-01T23:59:47,i've been waiting for a movie about this forest for so long!!,2,0,Karla Oliveira,RBc5YcuOThY,-0.078125,2015-10-01 23:59:47,True,True
+2015-10-02T00:08:11,"sorry tree lovers, but that would be one forest that needs to be cut down.",1,0,ECH0ChAOs,RBc5YcuOThY,-0.3277777777777778,2015-10-02 00:08:11,True,True
+2015-10-02T00:47:51,"Despite this being a horror movie coming out in January, I have a little hope for this movie! Natalie Dormer is fantastic and even if the story will most likely be predictable and dull, the film itself looks beautifully shot.",5,0,Stupid Robots,RBc5YcuOThY,0.1462797619047619,2015-10-02 00:47:51,True,True
+2015-10-02T00:48:15,January 8th release date. Uh-oh.,3,0,John Mathews,RBc5YcuOThY,0.0,2015-10-02 00:48:15,True,True
+2015-10-02T00:49:33,is this going to be another jumpscare fest?,0,0,Lactovacilo,RBc5YcuOThY,0.0,2015-10-02 00:49:33,True,True
+2015-10-02T01:11:40,Is this movie based off the game at all?,0,1,Uncle Explosion,RBc5YcuOThY,-0.4,2015-10-02 01:11:40,True,True
+2015-10-02T01:12:56,"She looks like one of the Whoville residents, in a good way.",1,0,Ed S.,RBc5YcuOThY,0.7,2015-10-02 01:12:56,True,True
+2015-10-02T01:27:41,The fact that my name is sara makes this trailer even more creepy,0,0,Sara Filipa,RBc5YcuOThY,0.0,2015-10-02 01:27:41,True,True
+2015-10-02T02:13:08,Plot Twist: She still locked in a cell in Kings Landing and is having illusions.,13,0,Yamil Jose,RBc5YcuOThY,0.0,2015-10-02 02:13:08,True,True
+2015-10-02T02:20:17,A shit ton of tourists are gonna go to suicide forest after this comes out,0,0,NFVideodrome,RBc5YcuOThY,-0.2,2015-10-02 02:20:17,True,True
+2015-10-02T02:29:23,she played marriotie spelled that so wrong but she played in elementary and shes a badass,1,0,Blackstar thegamer,RBc5YcuOThY,-0.1,2015-10-02 02:29:23,True,True
+2015-10-02T02:47:27,Looks like the effects budget only allowed for one monster/ghost/corpse whatever.,0,0,TheSuperbuffalo,RBc5YcuOThY,0.0,2015-10-02 02:47:27,True,True
+2015-10-02T03:45:33,Aokigahara forest located next to mount Fuji is a true suicide forest with many suicide reports each year,1,0,7k7mce,RBc5YcuOThY,0.2833333333333333,2015-10-02 03:45:33,True,True
+2015-10-02T03:48:40,like for league of legends,0,0,Sunny Trees,RBc5YcuOThY,0.0,2015-10-02 03:48:40,True,True
+2015-10-02T03:52:25,Bethhhhhhh!!!?!? Nope nvm,0,0,DraYzey,RBc5YcuOThY,0.0,2015-10-02 03:52:25,True,True
+2015-10-02T04:02:02,Did they just show the ending?  Epic fail,0,0,Lomax0506,RBc5YcuOThY,-0.2,2015-10-02 04:02:02,True,True
+2015-10-02T04:44:55,You know this is gonna be a shit movie because it comes out in January.,0,0,BarcelonaDude6,RBc5YcuOThY,-0.2,2015-10-02 04:44:55,True,True
+2015-10-02T05:35:27,Wow Hollywood has ran out of ideas. Same old lame ass jump scenes. But the girl looks hot,0,0,stdfreesteve,RBc5YcuOThY,-0.009999999999999998,2015-10-02 05:35:27,True,True
+2015-10-02T06:12:37,"Oh look, yet another formulaic, cliche horror movie. Didn't see a single original idea throughout this entire trailer, and those were probably all the best parts. Pass.",0,0,sbowesuk,RBc5YcuOThY,0.26071428571428573,2015-10-02 06:12:37,True,True
+2015-10-02T06:58:47,Dat description of the movie.,0,0,GamercastMMs,RBc5YcuOThY,0.0,2015-10-02 06:58:47,True,True
+2015-10-02T07:03:45,"Why do I feel like the Ghosts are gonna be white people when, It's predominantly Japanese people who commit sudoku in the forest",99,9,Damjan Plamenac,RBc5YcuOThY,0.0,2015-10-02 07:03:45,True,True
+2015-10-02T07:36:46,"Naa not feeling this, doesn't look much different to every other horror movie :/",0,0,A random black guy,RBc5YcuOThY,-0.125,2015-10-02 07:36:46,True,True
+2015-10-02T07:44:33,So.. will she take any of her clothes off in this one or should I skip it?,0,0,M. G. Karabine,RBc5YcuOThY,0.0,2015-10-02 07:44:33,True,True
+2015-10-02T08:02:29,o_O,0,0,hab rithy,RBc5YcuOThY,0.05,2015-10-02 08:02:29,True,True
+2015-10-02T08:04:36,"its the adorable Natalie Dormer, that voice thoo !!",1,1,GameOf FLEONS,RBc5YcuOThY,0.78125,2015-10-02 08:04:36,True,True
+2015-10-02T08:13:21,Count the number of times you heard Sara :D,0,0,Lucien Lee,RBc5YcuOThY,1.0,2015-10-02 08:13:21,True,True
+2015-10-02T10:31:09,Looks scary but wondering if people are banned from entering how do they still manage to get in.,0,2,R cruz,RBc5YcuOThY,-0.5,2015-10-02 10:31:09,True,True
+2015-10-02T10:36:32,run forest run.,2,0,Mandeep Singh,RBc5YcuOThY,0.0,2015-10-02 10:36:32,True,True
+2015-10-02T10:51:33,Is that the forest where people go to commit suicide? Anybody can commit suicide anywhere!,0,0,A.D.,RBc5YcuOThY,0.0,2015-10-02 10:51:33,True,True
+2015-10-02T12:11:07,And then I bet Taylor Kinney turns out to also be dead,0,0,dimmadong,RBc5YcuOThY,-0.2,2015-10-02 12:11:07,True,True
+2015-10-02T12:44:58,watching this cuz of natalie dormer but knowing that this is loosely based on true events is making me so curious to see this movie,1,0,BatmanFANizationReborn,RBc5YcuOThY,0.05769230769230768,2015-10-02 12:44:58,True,True
+2015-10-02T13:20:13,"I like that there is some truth to this forest, and she's cool maybe I'll watch it.  Not usually a horror fan.",1,0,kevinsmak,RBc5YcuOThY,0.2375,2015-10-02 13:20:13,True,True
+2015-10-02T14:04:51,hey lady margary,1,0,Kapil Gupta,RBc5YcuOThY,0.0,2015-10-02 14:04:51,True,True
+2015-10-02T14:08:12,"let the ""Game Of Thrones"" comments begin !!!",0,1,Bey Sarah,RBc5YcuOThY,-0.78125,2015-10-02 14:08:12,True,True
+2015-10-02T14:27:49,Isn't this the same girl from the Hunger Games?,1,0,MyNameIs Nate,RBc5YcuOThY,0.0,2015-10-02 14:27:49,True,True
+2015-10-02T15:08:29,make me remember an episod from the X-Files,1,0,Baîz Mohamed Achraf,RBc5YcuOThY,0.0,2015-10-02 15:08:29,True,True
+2015-10-02T15:56:11,"I love Taylor Kinney Horror Movie , hes so great in everything . Cant wai",1,0,Downrange Film,RBc5YcuOThY,0.65,2015-10-02 15:56:11,True,True
+2015-10-02T16:01:02,It's been a while since I got scared by a movie trailer .. This is gonna be a good horror movie !,1,0,Kien Tang,RBc5YcuOThY,0.875,2015-10-02 16:01:02,True,True
+2015-10-02T16:17:30,1: Natalie Dormer and her *American Accent* 2: Suicide Forest? Don't you mean *LOST WOODS*?!?,0,0,MalcolmRandall,RBc5YcuOThY,-0.1953125,2015-10-02 16:17:30,True,True
+2015-10-02T16:39:18,That ending with the web search was....random lol,0,0,Chrisnazzy,RBc5YcuOThY,0.8,2015-10-02 16:39:18,True,True
+2015-10-02T16:49:29,At least it's not another found footage.,0,0,rofyle,RBc5YcuOThY,-0.3,2015-10-02 16:49:29,True,True
+2015-10-02T17:45:14,About time somebody used that forest to make an unrealistic horror movie. This goes on my list. Can't wait! :),3,0,Brian Nielsen,RBc5YcuOThY,-0.0625,2015-10-02 17:45:14,True,True
+2015-10-02T18:59:13,Queen Margery Tyrrell,1,0,ibrahim khan,RBc5YcuOThY,0.0,2015-10-02 18:59:13,True,True
+2015-10-02T19:10:00,who goes in beautiful nature to commit suicide??? that don't make no sense...,0,2,Lauren Kirsten,RBc5YcuOThY,0.85,2015-10-02 19:10:00,True,True
+2015-10-02T22:16:17,Radioactive particles being emitted from nuclear reactors of Fukushima Daiichi 24/7 since 2011 is much more than scary than this.,0,0,Juni Kim,RBc5YcuOThY,0.0,2015-10-02 22:16:17,True,True
+2015-10-02T22:17:28,this is inspired by the wii u game: Project Zero - Maiden of the Black Water ! Really cool !!!!!!,1,0,nicolas berthelemy,RBc5YcuOThY,0.13055555555555554,2015-10-02 22:17:28,True,True
+2015-10-02T22:26:25,...yawn...,1,0,Johnnewb,RBc5YcuOThY,0.0,2015-10-02 22:26:25,True,True
+2015-10-02T23:32:04,"This looks like a great horror flick, could watch Natalie Dormer all day anyhow!!",1,0,ALAN BROWN,RBc5YcuOThY,1.0,2015-10-02 23:32:04,True,True
+2015-10-03T00:03:44,is it based off the game,0,1,Phantom Foxy,RBc5YcuOThY,-0.4,2015-10-03 00:03:44,True,True
+2015-10-03T01:00:44,Movies like this make James Wan jealous cus he has to stick to that exorcism crap lol.,0,0,DavonNathanael,RBc5YcuOThY,-0.06666666666666665,2015-10-03 01:00:44,True,True
+2015-10-03T01:38:41,"If I watch ""The Ring"" video on ""The grudge"" house and a week latter(assuming that I last long enough) go to this forest will I have there japanese ghosts fighting each other for the right to kill me?",4,0,Zidneya,RBc5YcuOThY,0.018452380952380953,2015-10-03 01:38:41,True,True
+2015-10-03T02:10:09,go high garden,1,0,Nick Dalzell,RBc5YcuOThY,0.16,2015-10-03 02:10:09,True,True
+2015-10-03T04:06:47,The only good things about this movie are Natalie and the Japanese urban legend about this forest,226,22,Anne Hriscu,RBc5YcuOThY,0.175,2015-10-03 04:06:47,True,True
+2015-10-03T05:01:39,This is a real forest search it this is really based on real facts no joke search it online,1,0,Wesley Smith IV,RBc5YcuOThY,0.20000000000000004,2015-10-03 05:01:39,True,True
+2015-10-03T06:49:41,im here for Gaga's hot future husband,16,0,kailen gray,RBc5YcuOThY,0.125,2015-10-03 06:49:41,True,True
+2015-10-03T07:16:58,"The japanese actor, might be..... the worst actor ever.",0,0,DOMINOSMOFO,RBc5YcuOThY,-0.5,2015-10-03 07:16:58,True,True
+2015-10-03T07:59:01,This movie looks cool I'm gonna make a reference it's snowing on Mt Fuji,0,0,Gowther,RBc5YcuOThY,0.35,2015-10-03 07:59:01,True,True
+2015-10-03T10:16:20,My jap teacher told us about his forest. Apparently it has signs everywhere telling people to think about there family and that life does get better,1,0,Eliza Day,RBc5YcuOThY,0.275,2015-10-03 10:16:20,True,True
+2015-10-03T10:54:14,let me guess....she is the twin sister...she's looking for herself....hahaha,0,0,Jesse Artichuno,RBc5YcuOThY,0.0,2015-10-03 10:54:14,True,True
+2015-10-03T12:41:57,Natalie is very beautiful,1,0,X Lin,RBc5YcuOThY,1.0,2015-10-03 12:41:57,True,True
+2015-10-03T13:19:56,"there is a real forest but nothing like this,, just sad people who kill them self there,, there a documentary about it and this movie is just garbage..",1,0,chevyridin86,RBc5YcuOThY,-0.09999999999999999,2015-10-03 13:19:56,True,True
+2015-10-03T15:23:40,but realistically u know they didn't actually go in an film scenes in that Forrest cuz we all know what could happen lol,0,0,prettyboy Ian,RBc5YcuOThY,0.4,2015-10-03 15:23:40,True,True
+2015-10-03T16:12:33,Natalie Dormer bad ass in mockingjay. And amazing in this movie!!!!!,5,0,tm. G,RBc5YcuOThY,0.15000000000000008,2015-10-03 16:12:33,True,True
+2015-10-03T17:25:24,All jump scares and no real point. 👎,0,0,afroindia42,RBc5YcuOThY,-0.1,2015-10-03 17:25:24,True,True
+2015-10-03T17:30:47,Didn't vice do a documentary on the suicide forest?,0,0,HeroOfOsiris,RBc5YcuOThY,0.0,2015-10-03 17:30:47,True,True
+2015-10-03T17:46:21,Am I the only one who thought this was gonna be based off the game?,2,1,FurryNomNoms,RBc5YcuOThY,-0.2,2015-10-03 17:46:21,True,True
+2015-10-03T18:13:52,https://twitter.com/epilepsysocial,0,0,Andy,RBc5YcuOThY,0.0,2015-10-03 18:13:52,True,True
+2015-10-03T18:41:08,Anyone catch the main girl's name?,0,1,luke kelly,RBc5YcuOThY,0.16666666666666666,2015-10-03 18:41:08,True,True
+2015-10-03T19:00:55,a true story??? =/,0,1,Brendra Cabrera,RBc5YcuOThY,-0.2,2015-10-03 19:00:55,True,True
+2015-10-03T19:21:46,the documentary about this forest was pretty good.,0,0,Jason L.,RBc5YcuOThY,0.31666666666666665,2015-10-03 19:21:46,True,True
+2015-10-03T21:49:29,"Oh no I have fallen into a hole!! Wait here is a old view master, let's not immediately see that this is weird.. Lady you deserve to become a ghost!",0,0,Ruberto Paulo,RBc5YcuOThY,-0.2625,2015-10-03 21:49:29,True,True
+2015-10-03T22:08:53,I'm feeling it,0,0,Josh,RBc5YcuOThY,0.0,2015-10-03 22:08:53,True,True
+2015-10-03T22:09:58,Mmmm. At the end she's the one who kill herself in the forest and not her sister. Right?,6,1,Rodrigo Ramírez,RBc5YcuOThY,0.2857142857142857,2015-10-03 22:09:58,True,True
+2015-10-04T03:15:44,"The suicide forest is real. A brave Japanese reporter went with a volunteer park ranger and the camera crew came across a body. The man had hung himself from a tree. It was the most shocking, disturbing interview I have ever seen.",0,0,largol33t1,RBc5YcuOThY,0.0,2015-10-04 03:15:44,True,True
+2015-10-04T04:16:38,looks decent,1,0,wildcard749,RBc5YcuOThY,0.16666666666666666,2015-10-04 04:16:38,True,True
+2015-10-04T04:26:30,She shouldn't have called Cersei sister again. Now she'll be strangled in her sleep.,0,0,Unicorn Demon,RBc5YcuOThY,0.0,2015-10-04 04:26:30,True,True
+2015-10-04T06:21:47,"I came here to see about Nataly comments, ""grabs pop corn"" I mean~Hodor Hodor Hodor.",0,0,Archer,RBc5YcuOThY,0.0,2015-10-04 06:21:47,True,True
+2015-10-04T09:33:20,All this film looks like is just things coming up behind her when shes not looking,0,0,The BookofBaba,RBc5YcuOThY,-0.4,2015-10-04 09:33:20,True,True
+2015-10-04T11:02:18,ok my name is Sara and after this trailer I will definitely have nightmares. I will hear my name whispered like...always!!!creepy,0,0,Sara P,RBc5YcuOThY,0.25,2015-10-04 11:02:18,True,True
+2015-10-04T16:15:02,God even the makeup on the zombies is awful,0,0,MSI Gamer,RBc5YcuOThY,-1.0,2015-10-04 16:15:02,True,True
+2015-10-04T16:33:59,cinemathography looks good at least,0,0,melih narinç,RBc5YcuOThY,0.19999999999999998,2015-10-04 16:33:59,True,True
+2015-10-04T16:35:29,january? not a good sign,0,0,melih narinç,RBc5YcuOThY,-0.35,2015-10-04 16:35:29,True,True
+2015-10-04T17:11:26,Am I the only person who thinks it's kinda weird to make profits off peoples suicides? ):,0,0,akhenatenwasawesome,RBc5YcuOThY,-0.25,2015-10-04 17:11:26,True,True
+2015-10-04T20:08:36,i like trees.,0,0,rick jasda,RBc5YcuOThY,0.0,2015-10-04 20:08:36,True,True
+2015-10-05T03:28:41,I got this movie all wrong I thought it was gonna be a slenderman movie 😭😭,0,0,TopLemon,RBc5YcuOThY,-0.5,2015-10-05 03:28:41,True,True
+2015-10-05T06:38:26,Gave to much away in this trailer,0,0,Ivan Soto,RBc5YcuOThY,0.2,2015-10-05 06:38:26,True,True
+2015-10-05T09:03:39,Seems like a good movie,1,0,NautilusNinja,RBc5YcuOThY,0.7,2015-10-05 09:03:39,True,True
+2015-10-05T10:12:19,Natalie makes everything worth watching.,5,1,AmyNikita,RBc5YcuOThY,0.3,2015-10-05 10:12:19,True,True
+2015-10-05T12:51:19,this looks like garbage,1,0,Zarachi D,RBc5YcuOThY,0.0,2015-10-05 12:51:19,True,True
+2015-10-05T16:17:56,"So, this is like Sea of Trees: Horror Edition. mmm...so another awful film.",0,0,Gerardo cruz espinosa,RBc5YcuOThY,-1.0,2015-10-05 16:17:56,True,True
+2015-10-05T16:43:05,looks great!,1,0,Satyajit Mukherjee,RBc5YcuOThY,1.0,2015-10-05 16:43:05,True,True
+2015-10-05T17:01:41,The first thing I've seen her in was The Tutors and I loved her instantly. She looks better with brunette hair though. 😊,0,0,DRIA. [Fierra2000],RBc5YcuOThY,0.3625,2015-10-05 17:01:41,True,True
+2015-10-05T17:59:08,"still, better being trapped in a forest haunted by ghosts than living in luxury married to Joffrey :P",0,0,stubs,RBc5YcuOThY,0.325,2015-10-05 17:59:08,True,True
+2015-10-05T22:01:54,"I've already seen her boobs, no need to watch this",0,0,Liam Genosko,RBc5YcuOThY,0.0,2015-10-05 22:01:54,True,True
+2015-10-05T22:25:55,I can't tell if this looks good or bad.,0,0,Vuolsicosìcolà,RBc5YcuOThY,5.551115123125783e-17,2015-10-05 22:25:55,True,True
+2015-10-06T00:05:53,Who wants to bet? less than 10% Rotten Tomatoes rating?,14,1,Damien Spectre,RBc5YcuOThY,0.016666666666666677,2015-10-06 00:05:53,True,True
+2015-10-06T02:48:32,"Wow. This was my idea for a movie, so i don't need to see it.",0,0,HHH3R0,RBc5YcuOThY,0.1,2015-10-06 02:48:32,True,True
+2015-10-06T04:18:45,Teh solution is simple burn the whole forest lol,89,21,ultragalx1,RBc5YcuOThY,0.3333333333333333,2015-10-06 04:18:45,True,True
+2015-10-06T10:22:49,"I camped in the forrest a week ago, GOD i'm glad I didn't saw the trailer beforehand.",0,1,Knågen,RBc5YcuOThY,0.5,2015-10-06 10:22:49,True,True
+2015-10-06T11:49:07,Dude this was a terrible trailer,0,0,Neo Vinci,RBc5YcuOThY,-1.0,2015-10-06 11:49:07,True,True
+2015-10-06T13:59:26,is this base on the game Fatal Frame?,0,0,eldon flores,RBc5YcuOThY,-0.6000000000000001,2015-10-06 13:59:26,True,True
+2015-10-07T00:51:22,This place is real.,0,0,Tyrone W. James,RBc5YcuOThY,0.2,2015-10-07 00:51:22,True,True
+2015-10-07T02:49:31,What is up with jump scares.,0,0,sutats,RBc5YcuOThY,0.0,2015-10-07 02:49:31,True,True
+2015-10-07T08:53:56,i heard of this forest and that people doesnt have a lot of money to collect the bodies so they do it anually,1,0,murgamr,RBc5YcuOThY,0.0,2015-10-07 08:53:56,True,True
+2015-10-07T22:48:26,"does anyone get scared at these movies?   they're so dumb.  we usually wait until they're on dvd & watch a bunch of them on a boring night & laugh at them.  i grew up on the screams, scary movies,the hostels, chain saw...blah blah...",0,0,susan NY,RBc5YcuOThY,-0.365,2015-10-07 22:48:26,True,True
+2015-10-08T01:30:35,I will subscribe to every porn Natalie would make!!!,0,0,9/11 is an inside job,RBc5YcuOThY,0.0,2015-10-08 01:30:35,True,True
+2015-10-09T01:45:06,...January...,0,0,Omnivision,RBc5YcuOThY,0.0,2015-10-09 01:45:06,True,True
+2015-10-09T01:45:09,...January...,0,0,Omnivision,RBc5YcuOThY,0.0,2015-10-09 01:45:09,True,True
+2015-10-09T21:48:36,"Yeah, go ahead and show us EVERYTHING on the trailer. What a piece of crap.",0,0,SlavicSoul,RBc5YcuOThY,-0.8,2015-10-09 21:48:36,True,True
+2015-10-10T18:11:11,Scared the shit out of me,1,0,natalia,RBc5YcuOThY,-0.2,2015-10-10 18:11:11,True,True
+2015-10-12T04:41:55,This looks amazing!! I really want to see this!,0,0,Nick Garcia,RBc5YcuOThY,0.59375,2015-10-12 04:41:55,True,True
+2015-10-12T08:30:15,"I could be wrong, but it looks like another of America's greatest horror cliches riding on some J-horror tropes. I'll wait for some more info before deciding to watch it.",2,0,Logic Bomb,RBc5YcuOThY,0.3333333333333333,2015-10-12 08:30:15,True,True
+2015-10-12T15:27:28,fatal frame...what realy went down.,0,0,The Jaclyne Jackie Mouse,RBc5YcuOThY,-0.15555555555555559,2015-10-12 15:27:28,True,True
+2015-10-12T19:48:42,this forest is real. Vice did a documentery about.,4,0,Goron,RBc5YcuOThY,0.2,2015-10-12 19:48:42,True,True
+2015-10-12T21:56:13,death by Viewmaster.....,0,0,Ginger Clements,RBc5YcuOThY,0.0,2015-10-12 21:56:13,True,True
+2015-10-13T06:14:56,The ghosts they're using here. it doesn't feel like anywhere in Japan to me.,0,0,Mark Angelo Garcia,RBc5YcuOThY,0.0,2015-10-13 06:14:56,True,True
+2015-10-13T14:27:24,of course the stories about white people in japan and not japanese people in japan.,0,1,Troy F,RBc5YcuOThY,0.0,2015-10-13 14:27:24,True,True
+2015-10-13T18:43:19,Margeary Tyrell vs White Walkers,4,0,Losbby,RBc5YcuOThY,0.0,2015-10-13 18:43:19,True,True
+2015-10-13T21:31:25,meh. doesnt look scary.,0,0,Narciso Salas Martinez,RBc5YcuOThY,-0.5,2015-10-13 21:31:25,True,True
+2015-10-14T05:22:25,"Kinda fucked up that they'd exploit Aokigahara rainforest considering a lot of people have lost children and siblings and friends and spouses there :/ that's a real place where sad shit happens, I can't imagine how people who have lost someone there would feel seeing something like this.",4,1,reginageorgeisnotsweet,RBc5YcuOThY,-0.26999999999999996,2015-10-14 05:22:25,True,True
+2015-10-16T04:22:18,That Forest in the movie is The most haunted places on earth! were thousands of people comit suicide.. located at JAPAN! try to research!,0,0,ENZO PENZO,RBc5YcuOThY,0.9765625,2015-10-16 04:22:18,True,True
+2015-10-16T04:22:38,That Forest in the movie is The most haunted places on earth! were hundreds of people comit suicide.. located at JAPAN! try to research!,5,0,ENZO PENZO,RBc5YcuOThY,0.9765625,2015-10-16 04:22:38,True,True
+2015-10-16T19:12:25,"Amo a Natalie esa voz que tiene, me fasina",0,0,Nicolas Garcia,RBc5YcuOThY,0.0,2015-10-16 19:12:25,True,True
+2015-10-16T20:16:00,Nice! Only hope we don't butcher the actual legend of the Forest of Death or the suicide forest.,0,0,Erik P.T.,RBc5YcuOThY,0.25,2015-10-16 20:16:00,True,True
+2015-10-17T00:37:39,Was anyone else waiting for the plane to crash and the white mutant things to appear?,0,0,Maxwell Rex,RBc5YcuOThY,0.0,2015-10-17 00:37:39,True,True
+2015-10-17T05:23:32,Japanese ghost speaking 'engrish'?,0,0,Nyzel Lovret,RBc5YcuOThY,0.0,2015-10-17 05:23:32,True,True
+2015-10-17T18:21:20,Oh for crappin sake I thought this would be about a father searching for his kidnapped son after a plane crash into a mysterious island of mutated cannibals and limb-monsters using his Bear Grills survival superpowers.,0,0,Galejro,RBc5YcuOThY,0.0,2015-10-17 18:21:20,True,True
+2015-10-18T03:18:18,aokigahara forest,0,0,Andy Y.,RBc5YcuOThY,0.0,2015-10-18 03:18:18,True,True
+2015-10-19T13:24:57,Why would her dumb ass go deep into the Forest after the police told you somebody committed suicide there? So fuckin dumb lmfaooooo Why? WHY!? lol Continue with your life man SMH,0,0,Phil 4 Real,RBc5YcuOThY,-0.010937499999999989,2015-10-19 13:24:57,True,True
+2015-10-20T10:10:02,"Twins! She really did it, twins yay!",1,0,Lindsay,RBc5YcuOThY,0.25,2015-10-20 10:10:02,True,True
+2015-10-21T23:57:22,Spoiler!!! if you watch this trailer you will have  officially seen the entire film.,0,0,Tim Tommy,RBc5YcuOThY,0.0,2015-10-21 23:57:22,True,True
+2015-10-25T21:14:41,I m gonna watch because of Natalie,1,0,prince1984,RBc5YcuOThY,0.0,2015-10-25 21:14:41,True,True
+2015-10-26T06:55:51,"I've been here and it's actually quite peaceful and pretty. there's signs saying ""don't commit suicide! have strength, think of your family"" etc. i didn't see any bodies but i did see some abandoned camp sites. i wonder if i brought back any bad spirits with me.....",3,0,caramel coffee,RBc5YcuOThY,-0.02749999999999997,2015-10-26 06:55:51,True,True
+2015-10-26T16:38:43,I have to see this movie!!!!,0,0,Alysabeth Stuhlmacher,RBc5YcuOThY,0.0,2015-10-26 16:38:43,True,True
+2015-10-27T12:25:47,26:00 Scared the crap out of me and it's just the trailer.,0,0,MentqlMG,RBc5YcuOThY,-0.8,2015-10-27 12:25:47,True,True
+2015-10-27T23:18:30,"it looks good to me, why is everyone complaing about it",0,0,Fever Dream,RBc5YcuOThY,0.7,2015-10-27 23:18:30,True,True
+2015-10-28T16:05:57,sh*t iam so scared,0,0,XUAN TRANG,RBc5YcuOThY,0.0,2015-10-28 16:05:57,True,True
+2015-10-29T05:45:20,is she is wife of prince Joffrey.,0,0,SAAD TARIQ,RBc5YcuOThY,0.0,2015-10-29 05:45:20,True,True
+2015-10-30T05:07:49,hell no forest,0,0,Sckin Sick,RBc5YcuOThY,0.0,2015-10-30 05:07:49,True,True
+2015-10-30T19:43:51,"Ha... ha...once I saw that the setting of this movie was going to be in the forests of Japan, I had a feeling this would be about the suicide forest... saw that documentary years ago...",0,0,azmariah94,RBc5YcuOThY,0.0,2015-10-30 19:43:51,True,True
+2015-11-01T20:36:48,"I never thought about anyone making a movie about Aokigahara forest.  It's an actual forest in Japan where hundreds of people have gone to commit suicide, that part is very much real.  Google it.",5,0,willbessent,RBc5YcuOThY,0.1,2015-11-01 20:36:48,True,True
+2015-11-02T03:33:24,Run king Henry's ghost will get you,0,0,Chow Outside,RBc5YcuOThY,0.0,2015-11-02 03:33:24,True,True
+2015-11-03T06:22:38,"Looks like another As Above, So below. No thanks.",0,0,anthemlog,RBc5YcuOThY,-0.05,2015-11-03 06:22:38,True,True
+2015-11-06T05:28:14,"WHEN THEY SAY STAY ON THE PATH, STAY ON THE PATH.",0,0,Ali Carson,RBc5YcuOThY,0.0,2015-11-06 05:28:14,True,True
+2015-11-08T05:53:37,"Free Live Sex Cam Show, Exclusive Unlimited Access:      BABETONIGHT------------------c0m",0,0,Stacy Cohen,RBc5YcuOThY,0.2681818181818182,2015-11-08 05:53:37,True,True
+2015-11-08T23:13:47,"I already know the plot of this, some perverted guy heard that Natalie Dormer was coming to Japan so he stalked her.  He decided to dress up as a creepy monster thing because he finds ""hunting"" to be pleasurable.  Of course their is a scene with Dormer naked in a shower because that was the main reason why this guy came, to gain some intel on what it looks like under a woman's clothes.  The rest of the spooky stuff is just misleading bs to make you think it's a horror movie.  In reality, it's more like a comedy in which we see an obsessive fan fail to get nudes of Natalie Dormer.",0,0,Dalton K,RBc5YcuOThY,-0.06666666666666668,2015-11-08 23:13:47,True,True
+2015-11-10T01:49:28,"i mean, i just genuinely enjoy looking at Natalie Dormer..",0,0,WildWesti,RBc5YcuOThY,0.04375000000000001,2015-11-10 01:49:28,True,True
+2015-11-10T03:53:41,I can't believe they made a movie about a real place where people end there lives.,271,36,Bianca Winston,RBc5YcuOThY,0.2,2015-11-10 03:53:41,True,True
+2015-11-10T16:49:53,"Queen Natalie I see the High Sparrow let you go, so you can go do this movie. Just make sure you are back in the dungeon in time for Game of Thrones next season !!  ;-)",0,0,TheTruthIsGonnaHurt,RBc5YcuOThY,0.085,2015-11-10 16:49:53,True,True
+2015-11-10T22:58:00,Sarah…,0,0,Cheesie freezie,RBc5YcuOThY,0.0,2015-11-10 22:58:00,True,True
+2015-11-10T23:01:57,Didn't know this was The Walking Dead,0,0,jennifer j,RBc5YcuOThY,-0.2,2015-11-10 23:01:57,True,True
+2015-11-12T10:36:12,...and then there's the shower scene...,0,0,weemouse101,RBc5YcuOThY,0.0,2015-11-12 10:36:12,True,True
+2015-11-12T20:27:43,I lived in Japan 10 yrs and never knew about this forest until I saw a Vice doc a few months ago about it. So scary in real life I guess the Japanese don't even want to mention it. Edit: Wife is Japanese and even she only mentioned it after I told her about that documentary.,4,2,IL-Matt,RBc5YcuOThY,-0.07142857142857142,2015-11-12 20:27:43,True,True
+2015-11-13T01:43:00,finally a decent horror/thriller.,0,0,superblahmanofdoom,RBc5YcuOThY,0.16666666666666666,2015-11-13 01:43:00,True,True
+2015-11-13T11:07:46,😖😖😖😖😖,0,0,Elfry Garcia,RBc5YcuOThY,0.0,2015-11-13 11:07:46,True,True
+2015-11-13T13:58:25,"American movie is so american...also, it should be called Sarah...",0,0,Edgar Valdebenito,RBc5YcuOThY,0.0,2015-11-13 13:58:25,True,True
+2015-11-14T04:41:51,"I love horror movies but this is absolutely disrespectful to the hundreds of REAL people who commit suicide in Aokigahara forest even to this day. On another site someone asked the question ""So when are they going to make a horror movie about the ghosts of 9-11 victims?"" Imagine the outrage if our own loved ones were turned into hackneyed vengeful ghosts?",3,0,Shawna H.,RBc5YcuOThY,0.44000000000000006,2015-11-14 04:41:51,True,True
+2015-11-14T06:17:37,"This movie looks pretty good, I think I am going to watch it......with some really easily scared friends of course. hehe",0,0,Enya Nunez,RBc5YcuOThY,0.4611111111111111,2015-11-14 06:17:37,True,True
+2015-11-14T12:53:37,fatal frame?,0,1,Igor Siqueira,RBc5YcuOThY,0.0,2015-11-14 12:53:37,True,True
+2015-11-14T21:32:20,"plot twist, Sarah is actually just living a happy normal life in Palermo, they all went into the dangerous forest for nothing.",0,0,Flying Rancid M00n Fish,RBc5YcuOThY,0.08750000000000002,2015-11-14 21:32:20,True,True
+2015-11-15T06:25:34,This reminds me of Until Dawn the gane,0,0,Phoenix Anime_HD,RBc5YcuOThY,0.0,2015-11-15 06:25:34,True,True
+2015-11-15T06:25:42,I meant game,0,0,Phoenix Anime_HD,RBc5YcuOThY,-0.4,2015-11-15 06:25:42,True,True
+2015-11-17T00:21:33,"Yet another lazy, corny, and cliche horror movie huh?",0,0,Anyone's Guess,RBc5YcuOThY,-0.25,2015-11-17 00:21:33,True,True
+2015-11-18T10:54:44,the only reason i'm gonna watch this is because of natalie amd the Japanese legends,0,0,Sean Keil Padilla,RBc5YcuOThY,0.0,2015-11-18 10:54:44,True,True
+2015-11-20T12:46:45,The fact that this forest is actually a REAL place..,0,0,D Faulkhead,RBc5YcuOThY,0.2,2015-11-20 12:46:45,True,True
+2015-11-20T13:39:47,is this like a creepy pasta story?,0,0,mariè,RBc5YcuOThY,-0.5,2015-11-20 13:39:47,True,True
+2015-11-20T21:23:19,Look good ya,0,0,Scott Palfrey,RBc5YcuOThY,0.7,2015-11-20 21:23:19,True,True
+2015-11-21T08:28:38,does anyone know the music playing at 0:38,0,0,Elena Alonso,RBc5YcuOThY,0.0,2015-11-21 08:28:38,True,True
+2015-11-22T02:18:32,"What's crazy about this is that it's sort of a true story. If you want your pick of human bones, take a stroll through Suicide Forest. Nearly every month, a conveyor belt ferries grim Japanese there and returns empty as the hopes of whomsoever would pay the most awful fare. The passenger manifest defies all statistics, and no one really knows why.",0,0,fungoorstitch,RBc5YcuOThY,-0.155,2015-11-22 02:18:32,True,True
+2015-11-23T11:42:23,Fuji no Jukai,0,0,鉄リンゴ,RBc5YcuOThY,0.0,2015-11-23 11:42:23,True,True
+2015-11-24T02:57:33,"Damn ,damn ,damn ,damn ,damn ,damn and damn Lol xD",0,0,Amita Pannavati,RBc5YcuOThY,0.8,2015-11-24 02:57:33,True,True
+2015-11-24T10:36:23,Going to that forest is suicide in itself. No extra effort required.,0,0,Oindrila Ghosh,RBc5YcuOThY,0.0,2015-11-24 10:36:23,True,True
+2015-11-24T21:36:17,The Forest-game  The Forest-film-copy-paste,0,0,Tony,RBc5YcuOThY,0.0,2015-11-24 21:36:17,True,True
+2015-11-25T07:10:43,i got scared in the first 30 seconds of the movie when she turned around and saw a little girl. Also on the part when there was something outside her shower i closed my eyes and then went back to that same part and still closed my eyes.,0,0,Alena Payton,RBc5YcuOThY,-0.019642857142857146,2015-11-25 07:10:43,True,True
+2015-11-25T16:20:03,Suka strashno! I am scared,0,0,Анна Кузьмина,RBc5YcuOThY,0.0,2015-11-25 16:20:03,True,True
+2015-11-26T07:35:33,Margaery -Im GOT Fan BOY :),0,0,Venthakrishnan Adikesavan,RBc5YcuOThY,0.5,2015-11-26 07:35:33,True,True
+2015-11-26T22:15:52,Better than being married to Joffrey.,0,0,Jeremy's Stories,RBc5YcuOThY,0.375,2015-11-26 22:15:52,True,True
+2015-11-26T23:30:31,1:05 Kept fapping anyway,0,0,Gradual Decay,RBc5YcuOThY,0.0,2015-11-26 23:30:31,True,True
+2015-11-28T01:43:58,Imagine is Natalie and Scarlett J made a movie together and played as sister ...  Mind.... BLOWN,0,0,Lisa Zhang,RBc5YcuOThY,0.0,2015-11-28 01:43:58,True,True
+2015-11-28T08:41:49,"Smart people bring weapons,guns,explosives,phone for help,  Cmon! that THING have a physical form! YOU COULD KILL IT",0,0,Lyfeless,RBc5YcuOThY,0.13392857142857142,2015-11-28 08:41:49,True,True
+2015-11-28T13:30:08,"This by far the one place I'd never set foot. I'm very into the paranormal I believe in demons, deities and the like. But something about this place just doesn't feel right at all.",0,0,Cadence Wallace,RBc5YcuOThY,0.19523809523809524,2015-11-28 13:30:08,True,True
+2015-11-28T13:55:32,great. thankyou for making people not want to visit mount fuji :),1,0,amanda aarons,RBc5YcuOThY,0.65,2015-11-28 13:55:32,True,True
+2015-11-28T13:56:10,"surprise surprise,anoter one of those main charecter having a shower scenes. way to be original -_____-",1,0,amanda aarons,RBc5YcuOThY,0.2708333333333333,2015-11-28 13:56:10,True,True
+2015-11-28T13:57:34,why is every ghost in horror movies white....cant there just be a colored ghost? smh,2,0,amanda aarons,RBc5YcuOThY,0.0,2015-11-28 13:57:34,True,True
+2015-11-29T08:07:12,"The Japanese lady who says ""no guides""...I have seen her somewhere pretty recently. JUST can't remember where...DAMN!",0,0,Shreya Bhattacharya,RBc5YcuOThY,0.08333333333333333,2015-11-29 08:07:12,True,True
+2015-11-29T16:57:12,Didn't know about the forest until seeing the trailer. The true background of the forest sounds creepier than this movie.,0,0,eallisnwndrlnd,RBc5YcuOThY,0.35,2015-11-29 16:57:12,True,True
+2015-11-30T07:11:51,Scrolling down won't keep you safe....,0,0,misterkmo,RBc5YcuOThY,0.17222222222222222,2015-11-30 07:11:51,True,True
+2015-11-30T20:10:38,"Hello lacrissa, how's the booby traps to snow dodging going?",0,0,Myriah Trotsenko,RBc5YcuOThY,0.0,2015-11-30 20:10:38,True,True
+2015-11-30T22:09:19,"Why is this movie called ""the Forest"" while it's obviously taking place in a wood?",0,0,Августовское воодушевление,RBc5YcuOThY,0.0,2015-11-30 22:09:19,True,True
+2015-12-01T19:59:31,"funny, they shoulda called this film ""SARAH""",7,0,Jugglynam,RBc5YcuOThY,0.25,2015-12-01 19:59:31,True,True
+2015-12-01T22:09:20,"I would swear I've seen an extremely similar movie within the last year, possibly also called The Forest (or The Forest of _______), where a college student and her filmmaker (because obviously) friends decide to go the suicide forest to find her mom or sister who were last seen entering it. Am I nuts???",0,1,Courtney Haver,RBc5YcuOThY,0.0,2015-12-01 22:09:20,True,True
+2015-12-02T02:03:26,i'm guessing she didn't stay on the path. D:,0,0,DisturbedStrawberry,RBc5YcuOThY,0.0,2015-12-02 02:03:26,True,True
+2015-12-02T23:38:15,is that taylor kinney wow he was in the other woman and is in chicago fire,0,0,Rayaan Hersi,RBc5YcuOThY,-0.012499999999999997,2015-12-02 23:38:15,True,True
+2015-12-04T04:14:47,im keen >:),0,0,Synthetic God,RBc5YcuOThY,0.5,2015-12-04 04:14:47,True,True
+2015-12-04T05:00:59,Wanna go see it..,0,0,SswithS,RBc5YcuOThY,0.0,2015-12-04 05:00:59,True,True
+2015-12-05T00:32:19,Is Natalie Dormer gonna be naked in this one ???  Because I see no other reason for me to watch this movie,0,0,odrysian,RBc5YcuOThY,0.03125,2015-12-05 00:32:19,True,True
+2015-12-05T06:59:09,"So many sore SJWs getting pissed because the movie is ""disrespectful"", lol.",12,5,Sam Hayashi,RBc5YcuOThY,0.65,2015-12-05 06:59:09,True,True
+2015-12-05T23:31:53,i wanna go there!!!,0,0,Gordon Pouc,RBc5YcuOThY,0.0,2015-12-05 23:31:53,True,True
+2015-12-06T02:14:59,remind me with alane Wake  And wrong turn :),0,0,WIlson Fisk,RBc5YcuOThY,0.0,2015-12-06 02:14:59,True,True
+2015-12-07T10:06:26,i saw a documentary about the suicide forest. it's real. people go there to kill themselves. there are japanese who are trying to change the forest's reputation.  i don't think this movie will help.,5,0,Posiesand Cures,RBc5YcuOThY,0.06666666666666667,2015-12-07 10:06:26,True,True
+2015-12-07T11:30:09,only the mockingjay can save u now,2,0,Jason Shin,RBc5YcuOThY,0.0,2015-12-07 11:30:09,True,True
+2015-12-07T18:58:34,r/morbidreality wil explan this place.,0,0,Doogie H,RBc5YcuOThY,0.0,2015-12-07 18:58:34,True,True
+2015-12-07T20:40:08,im planning on visiting that  forest...,0,0,mohd aisyamudin,RBc5YcuOThY,0.0,2015-12-07 20:40:08,True,True
+2015-12-07T23:12:04,"C'mon. First Rate Work. society gleaming What's your opinion about that, guys",0,0,Benjamin Suarez,RBc5YcuOThY,0.25,2015-12-07 23:12:04,True,True
+2015-12-08T00:31:57,Isn't this basically Grave Halloween?,0,0,Kitty Bruner,RBc5YcuOThY,0.0,2015-12-08 00:31:57,True,True
+2015-12-08T00:34:59,It's basically perfect because Natalie's in it. End of. Anything she's in is perfect i don't care,0,0,Sophie Carys,RBc5YcuOThY,1.0,2015-12-08 00:34:59,True,True
+2015-12-08T11:59:07,Was this based on the suicide forest?,0,0,Erica Joy Shirley Alaban,RBc5YcuOThY,0.0,2015-12-08 11:59:07,True,True
+2015-12-08T11:59:17,Was this based on the suicide forest?,0,0,Erica Joy Shirley Alaban,RBc5YcuOThY,0.0,2015-12-08 11:59:17,True,True
+2015-12-09T17:14:54,This is a remake...,0,0,onlyoldnavy,RBc5YcuOThY,0.0,2015-12-09 17:14:54,True,True
+2015-12-10T01:31:32,Who else came for Matt smith,0,0,2nightsLater,RBc5YcuOThY,0.0,2015-12-10 01:31:32,True,True
+2015-12-10T21:06:19,not cool...,0,0,Shamelesscritique1,RBc5YcuOThY,-0.175,2015-12-10 21:06:19,True,True
+2015-12-10T23:36:23,"Wow... Hollywood is actually trying to capitalize on such a tragic real life phenomenon in Japan and what do they do, make a movie out of it with an all White starring cast.... Also looks like a typical shitty jump scare movie",60,8,neutralButton,RBc5YcuOThY,-0.0880952380952381,2015-12-10 23:36:23,True,True
+2015-12-11T00:18:04,wack movie,1,0,Crenshaw Dai,RBc5YcuOThY,0.0,2015-12-11 00:18:04,True,True
+2015-12-11T03:33:34,"Well stupid twin is, stupid twin does, go in the Forrest. Dumb premise for a horror movie.",0,0,No Name,RBc5YcuOThY,-0.6583333333333333,2015-12-11 03:33:34,True,True
+2015-12-11T09:43:22,Idk something about this is disrespectful to actual people who committed suicide in this forest. Like. This kinda pissed me off lol.,6,0,Eddie !,RBc5YcuOThY,0.4,2015-12-11 09:43:22,True,True
+2015-12-11T13:24:57,A trailer that creepily says my mom's name over and over and over again. XD,0,0,Salted Snail,RBc5YcuOThY,-0.5,2015-12-11 13:24:57,True,True
+2015-12-11T19:19:12,"Welp, I know where I'm committing suicide now.",0,0,FeisarAG,RBc5YcuOThY,0.0,2015-12-11 19:19:12,True,True
+2015-12-11T23:41:31,taylor kinney,0,0,jorge matthew,RBc5YcuOThY,0.0,2015-12-11 23:41:31,True,True
+2015-12-12T03:42:15,Movie will not be great but might watch it because of natelie dormer,0,0,Shourya of Delhi,RBc5YcuOThY,0.8,2015-12-12 03:42:15,True,True
+2015-12-13T05:09:06,Looking forward to it,0,0,DrkSpphrGT,RBc5YcuOThY,0.0,2015-12-13 05:09:06,True,True
+2015-12-13T05:59:30,"Is this related to the game in any way or is it just a movie that kinda lines up with the storyline of the game slightly? Ya know, humanoid things trying to kill you... In a forest... And also not staying out after dark...",0,0,LlamaMusicChannel,RBc5YcuOThY,-0.22333333333333333,2015-12-13 05:59:30,True,True
+2015-12-14T03:50:05,"Really hope this movie flops considering how insulting it is to the actual Aokigahara forest where people actually go to end their lives. the real forest is full of signs that tell people how good life is and to think of their families. people go in there constantly volunteering to find new bodies to put them to rest. yes, the forest has a creepy air to it since people go to this secluded, peaceful area to end their own lives, but their are flowers from loved ones scattered everywhere, not malicious spirits who want to attack the living. movies like this insult the lives lost in this forest, and i for one am not going to watch it. the story idea is good, and so far the acting seems good, but they could have at least respected the memories of those who weren't strong enough to fight through a mental illness that has claimed the lives of thousands of people instead of disrespect the families of the lost by saying the souls of the fallen are now murderous beings.",311,17,Salty Potato,RBc5YcuOThY,0.1509379509379509,2015-12-14 03:50:05,True,True
+2015-12-14T07:47:04,White people sure do love to freak out about things only when it involves them lol.,0,0,Pantonesara,RBc5YcuOThY,0.36,2015-12-14 07:47:04,True,True
+2015-12-14T19:22:01,Fatal Frame anyone? Camera Obscura? But not as scary. The setting is pretty scary.,0,0,BruceBloot,RBc5YcuOThY,-0.25,2015-12-14 19:22:01,True,True
+2015-12-14T22:54:23,Must be pleasant to film a joke horror film about one of the most suicidal places in the world,2,0,Spectrum,RBc5YcuOThY,0.6166666666666667,2015-12-14 22:54:23,True,True
+2015-12-14T23:29:51,wouldnt it make more sense to have a japanese family instead of some white family??,126,0,trap Queen,RBc5YcuOThY,0.16666666666666666,2015-12-14 23:29:51,True,True
+2015-12-15T05:42:33,this movie has a little bit of the Fatal Frame video game vibe,0,0,mitchieanne22,RBc5YcuOThY,-0.29375,2015-12-15 05:42:33,True,True
+2015-12-15T09:50:03,its based off of a real forest in Japan so far no one seems to know or care like always congratulations now go LOOK IT UP the premise is based on suicide in the actual forest its not based off the goddamn game does it even look like its based off the game?? no it doesn't I don't see fuckin cannibals....,0,0,Heavenly Shifted,RBc5YcuOThY,-0.1,2015-12-15 09:50:03,True,True
+2015-12-15T13:36:45,"Interesting, there is such a place in Japan.",0,0,Hazuk.i Sonohara,RBc5YcuOThY,0.25,2015-12-15 13:36:45,True,True
+2015-12-15T18:27:03,Possible SCP-2157 leak detected. All Foundation personnel to be on standby.,0,0,ixfd64,RBc5YcuOThY,0.0,2015-12-15 18:27:03,True,True
+2015-12-15T22:45:19,PASS   NEXT!,0,0,Hank Chinaski,RBc5YcuOThY,0.0,2015-12-15 22:45:19,True,True
+2015-12-16T06:44:13,"They actually filmed this in the forest? Why isn't there ""based on a true story that is happening every day"" in there? THEY FILMED THIS IN A PLACE WHERE JAPANESE PEOPLE HAVE GONE (AND STILL ARE) TO COMMIT SUICIDE!!!!!",9,5,Jenny Yao,RBc5YcuOThY,0.11666666666666665,2015-12-16 06:44:13,True,True
+2015-12-16T12:51:57,"Yeah sure. lets romanticise a real place where real Japanese people have gone to die, real stories, real struggles and hardships and turn it into a film with a cast of only white people. way to go hollywood you've hit a new low and continue to amaze me with every piece of shit film you spew out.",22,5,Impi www,RBc5YcuOThY,0.10363636363636364,2015-12-16 12:51:57,True,True
+2015-12-16T13:11:23,"It really sucks that they're making a movie about a REAL place where people CURRENTLY go to commit suicide. This isn't an urban legend, or part of Japan's mythos. Japan has a large mental health problem and there's a lot of stigma around depression. This film does nothing to help the people currently suffering in Japan. And it actually goes against the government's attempts to downplay the Aokigahara forest's association with suicide in order to stop locals from going there to hang themselves, overdose, etc.",0,0,Kulture Vulture,RBc5YcuOThY,0.0017857142857142863,2015-12-16 13:11:23,True,True
+2015-12-16T13:23:24,Am i the  only one that read the title and though about title?,0,0,Lukas Pkina,RBc5YcuOThY,0.0,2015-12-16 13:23:24,True,True
+2015-12-16T18:01:28,"As much as I adore Natalia Dormer, this movie needs to flop really quick.",21,0,Suspicious Bee,RBc5YcuOThY,0.26666666666666666,2015-12-16 18:01:28,True,True
+2015-12-16T18:33:40,why are there so many white ppl its japan?????,1,3,carrie,RBc5YcuOThY,0.25,2015-12-16 18:33:40,True,True
+2015-12-16T20:48:22,"This looks really bad. I heard people giving this movie shit, saying they were going to boycott it for using white American actors instead of Japanese or Asian-American actors or whatever. Thoughts?",0,3,Brian Lebron,RBc5YcuOThY,-0.18,2015-12-16 20:48:22,True,True
+2015-12-17T14:33:47,"Why does every single ""scary"" movie have to have a jump scare? Holy jesus.",0,0,Gaming With Balance,RBc5YcuOThY,-0.2857142857142857,2015-12-17 14:33:47,True,True
+2015-12-17T15:43:33,Burn it with fire.,0,0,Haylez,RBc5YcuOThY,0.0,2015-12-17 15:43:33,True,True
+2015-12-17T16:47:55,The audio is so badly edited... like at 0:47,0,0,nopedy no,RBc5YcuOThY,-0.6999999999999998,2015-12-17 16:47:55,True,True
+2015-12-17T18:58:51,"I find total and utter disrespect in even the idea of this being a movie. Suicide/death in general is not something to mocked. Using Aokigahara as a setting for the movie disrespects the ones who have died in that forest; a place where spirits are meant to rest peacefully. I imagine the filming caused a bunch of ruckus....also, really? you're going to use white people as the main cast? I understand that this was done to appeal to a western audience, but really....looks just as stupid as any other western horror film. I hope everyone will recognize that what they did to make this film should not be taken lightly. If you agree...i strongly urge you to speak out and boycott this film....definitely would not watch this...",0,0,Jade K.,RBc5YcuOThY,0.044230769230769226,2015-12-17 18:58:51,True,True
+2015-12-18T02:20:39,The beginning of this trailer vaguely reminded me of the book beautiful lies by Jessica Warmen. I don't know if anyone else has read it and felt the same way? Just the first part of the trailer tho,1,0,Megan M,RBc5YcuOThY,0.15,2015-12-18 02:20:39,True,True
+2015-12-18T05:03:49,"This is... I can't think of an awful enough word. This forest is real, people really do go there to die. Even today, people go to Aokigahara forest, and commit suicide. This movie is completely disrespectful. They speak of the forest, but I do not see any Japanese person except for one who says they cannot go there. This is an insult to everyone who has ever lost their life in Aokigahara, aka ""Suicide Forest"".",1,0,Crystal Lewis,RBc5YcuOThY,-0.08333333333333336,2015-12-18 05:03:49,True,True
+2015-12-19T03:09:00,you had one Job dammit.... stay on the freakin path....one Job!,0,0,Dr. Quill,RBc5YcuOThY,0.0,2015-12-19 03:09:00,True,True
+2015-12-19T15:50:39,"Anne,Margaery, Cressida and Sarah... god! Natalie can make anything",0,0,Mike Cardoso,RBc5YcuOThY,0.0,2015-12-19 15:50:39,True,True
+2015-12-19T21:25:54,natalie is from THE HUNGER GAMES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0,0,Crystal Garcia,RBc5YcuOThY,0.0,2015-12-19 21:25:54,True,True
+2015-12-20T05:01:04,Take a non Western history/real figure/real place and put white actors/actress there... Sounds like Hollywood!!  the only thing making me like this film is Nathalie Dormer,0,1,Jin C,RBc5YcuOThY,0.0,2015-12-20 05:01:04,True,True
+2015-12-20T15:25:18,that is crazy,0,0,Stef Sloan,RBc5YcuOThY,-0.6,2015-12-20 15:25:18,True,True
+2015-12-21T00:44:23,based on true facts of suicide forest it's on YouTube I want to see it,0,0,Frankie Mena,RBc5YcuOThY,0.35,2015-12-21 00:44:23,True,True
+2015-12-21T23:56:15,"Anyone stop the think this may be highlighting mental illness and it's involvement with the forest? What if the main character is mentally ill and goes to the forest, considers suicide, but doesn't because of the forest? How many people do you think have gone into the forest to kill themselves, but ended up find peace in the world through the forest? Stop assuming the movie is straight up disrespectful, and watch it. It might turn out to be raising a glass to all those who have ended their lives there. You have no idea.",1,0,MisterBright133,RBc5YcuOThY,0.05333333333333333,2015-12-21 23:56:15,True,True
+2015-12-22T05:04:38,"This movie looks really stupid, but I love Natalie Dormer(only reason I would consider watching it).",0,0,Cameron Aminian,RBc5YcuOThY,-0.14999999999999997,2015-12-22 05:04:38,True,True
+2015-12-22T10:15:01,Why the hell would hollywood make a movie about this?,21,5,The Agent Of Chaos,RBc5YcuOThY,0.0,2015-12-22 10:15:01,True,True
+2015-12-22T19:28:07,so japan is the bad character in this movie? hehe,0,0,krizitoyness,RBc5YcuOThY,-0.6999999999999998,2015-12-22 19:28:07,True,True
+2015-12-22T22:47:32,"How many cliches does this have? Twin sisters, shower sequence, jump scares, zombies, getting lost, foreign guide. Lol.",23,4,Max,RBc5YcuOThY,0.39166666666666666,2015-12-22 22:47:32,True,True
+2015-12-22T23:24:22,#theforestisdumb,1,1,John’s tanks and more,RBc5YcuOThY,0.0,2015-12-22 23:24:22,True,True
+2015-12-23T20:39:39,Has Anyone Ever Played A Fatal Frame Game.... This movie seems like the quite the rip off ... I actually thought the was a preview for the Movie Version of that Game... :(,0,0,Broken Fiction,RBc5YcuOThY,-0.3875,2015-12-23 20:39:39,True,True
+2015-12-24T11:06:57,Why do they put a shower scene in almost every horror movie? Any good answer everyone?,0,0,Sole Human,RBc5YcuOThY,0.7,2015-12-24 11:06:57,True,True
+2015-12-24T12:49:16,wow this movie looks great,0,0,Andreas Papachristoforou,RBc5YcuOThY,0.45,2015-12-24 12:49:16,True,True
+2015-12-25T09:49:08,"OMG!!!!! Thank you thank you!!, who ever made the film!!, ive always wonder why there's no official movie about japanese suicide forrest, i looked all over the internet learned alot about this forrest in Japan, saw a couple documentaries here and there, and always imagine what a real movie base on this would be like,, now my wish come true!! yay!! a real movie on it!! i look soo forward to see this. Thanks for the trailer uploader!!!",0,1,Quantum Entangle,RBc5YcuOThY,0.1596028645833333,2015-12-25 09:49:08,True,True
+2015-12-25T20:19:44,"Isn't that the same actress from ""Into the badlands"" that plays Quinn's second wife?",0,0,Teraprinny,RBc5YcuOThY,0.0,2015-12-25 20:19:44,True,True
+2015-12-26T12:49:22,Sarah...,0,0,Makis Metaxas,RBc5YcuOThY,0.0,2015-12-26 12:49:22,True,True
+2015-12-26T12:51:00,Damn it why do girls fall when they run from something,0,0,Mylliee,RBc5YcuOThY,0.0,2015-12-26 12:51:00,True,True
+2015-12-27T03:47:35,"The fact that this is based of a true place, gives me goosebumps, and the fact that they use real pictures, it scares the living crap out of me..",0,0,Mollie Lynn,RBc5YcuOThY,-0.08333333333333333,2015-12-27 03:47:35,True,True
+2015-12-27T06:20:39,"To be honest, I'm very conflicting about it. First off, it is true that this is disrespectful and offensive about making the events of Aokigahara forest into  a horror flick where real people came there to commit suicide. But there were movies and mangas that done this already surrounding this forest especially bringing up legends of demons and wandering ghosts in the forest.   I don't know but I might watch it but it may discourage people committing suicide especially people traveling to Japan as a scare tactic. This is my opinion.   If you think about, they already done some movies  concerning ours like our troops in the war such as the American Sniper, Lone Survivor and 13 Hours. But I might agree that is not the same.",1,3,Danissa S,RBc5YcuOThY,0.15999999999999998,2015-12-27 06:20:39,True,True
+2015-12-27T10:39:18,"This is actually a real forest (minus the spooky bullshit), Vice did a great documentary on it..",0,0,Jo,RBc5YcuOThY,0.225,2015-12-27 10:39:18,True,True
+2015-12-27T18:34:59,YOU HAVE ONE JOB! Stay. On. The. Path.,0,0,Tianna Nguyen,RBc5YcuOThY,0.0,2015-12-27 18:34:59,True,True
+2015-12-29T10:16:38,THE SEA OF TREES RIP-OFF!!!!!!!!!,0,0,Slowly I am,RBc5YcuOThY,-1.0,2015-12-29 10:16:38,True,True
+2015-12-30T03:24:28,Somebody always in the damn shower when something happens see this what makes me paranoid when I take showers,0,0,Paris Danielle,RBc5YcuOThY,0.0,2015-12-30 03:24:28,True,True
+2015-12-30T05:14:55,The black guy dies so quick in this horror movie they forgot to even put him in trailer...bazinga,3,0,Jess Schimmel,RBc5YcuOThY,0.08333333333333333,2015-12-30 05:14:55,True,True
+2015-12-31T00:59:09,if I saw a demon I would 1#flip them off 2#say kiss my ass demon,0,0,World of Soccer,RBc5YcuOThY,0.0,2015-12-31 00:59:09,True,True
+2015-12-31T02:19:23,"Any movie that is based on real story, is far better than science fiction.",0,0,lili M,RBc5YcuOThY,0.26666666666666666,2015-12-31 02:19:23,True,True
+2015-12-31T20:03:57,"This forest is 100% real, it is extremely haunted. Ghost investigators visited this first and witnessed paranormal activities.  ",0,0,mohammed dayaji,RBc5YcuOThY,0.03125,2015-12-31 20:03:57,True,True
+2015-12-31T22:49:02,This is really scaring,0,0,princess qali,RBc5YcuOThY,0.2,2015-12-31 22:49:02,True,True
+2016-01-01T04:02:01,hola,0,0,Margarita Martinez Cano,RBc5YcuOThY,0.0,2016-01-01 04:02:01,False,True
+2016-01-01T23:16:35,"The suicide forest in japan should be respected .I knew hollywood would disturb its peace .But this is why we have a lot of unrest souls & hauntings because they choose the easy way out .It's sad to think about the forest in japan & knowing thousands of people committed suicide there .But i will never hike through there ,cause maybe you might just walk back out with a spirit attached to you .",0,3,Sakura,RBc5YcuOThY,-0.022222222222222216,2016-01-01 23:16:35,False,True
+2016-01-02T01:15:16,Wait isnt this forset actually real in Japan ?  Please tell me im right,0,0,Life Mistake,RBc5YcuOThY,0.24285714285714285,2016-01-02 01:15:16,False,True
+2016-01-02T09:51:22,"This movie is awful. The trailers show self harm and disturbing things. People that are suicidal and have those kinds of problems are VERY triggered by this. And it's awful when you can't skip it. I'm surprised these people haven't been sued yet. This movie is so harmful. I know ""don't see it then"" but I'm forced to when it's an add and I can't skip it. It's triggering to me and many others. I honestly wouldn't be surprised if it causes suicides in real life due to its triggering. I just think the trailers need to be less graphic so the people that stumble upon it won't be triggered and potentially hurt themselves",1,0,_Make_Me_Howell,RBc5YcuOThY,-0.0961111111111111,2016-01-02 09:51:22,False,True
+2016-01-02T23:45:27,Is anyone else thinking this is slightly disrespectful? Like this forest is real and real people have killed themselves in it. They have families that will see adverts or posters about it and it can bring back bad memories.,1,0,Fangirl,RBc5YcuOThY,-0.11111111111111109,2016-01-02 23:45:27,False,True
+2016-01-03T20:18:55,This movie looks awesome.,0,0,prankstergangstergirl,RBc5YcuOThY,1.0,2016-01-03 20:18:55,False,True
+2016-01-04T01:38:28,anyone wanna come with me to the suicide forest at mount fuji? :D im up for it :D,0,0,Imre Kovacs,RBc5YcuOThY,1.0,2016-01-04 01:38:28,False,True
+2016-01-04T02:47:03,Epic!!!!,0,0,Kzksbdbdbd Kdndjznd,RBc5YcuOThY,0.244140625,2016-01-04 02:47:03,False,True
+2016-01-05T18:12:44,"So, she has a twin, uses a camera like thing to see the ghosts and is based on Japan? isn't this Fatar Flame?",0,0,Philtomato,RBc5YcuOThY,0.0,2016-01-05 18:12:44,False,True
+2016-01-05T18:48:19,0:26 unintentionally funny,0,0,Kirby C,RBc5YcuOThY,0.25,2016-01-05 18:48:19,False,True
+2016-01-06T01:15:11,PVP SAAAAAN !!!!,2,0,Snixar,RBc5YcuOThY,0.0,2016-01-06 01:15:11,False,True
+2016-01-06T01:57:49,Hopefully she has some nude scenes.,1,0,WyvernX,RBc5YcuOThY,0.0,2016-01-06 01:57:49,False,True
+2016-01-06T05:26:11,love nd,0,0,Ireland Sharpless,RBc5YcuOThY,0.5,2016-01-06 05:26:11,False,True
+2016-01-06T07:33:00,This looks soooo bad.,0,0,G Bm,RBc5YcuOThY,-0.6999999999999998,2016-01-06 07:33:00,False,True
+2016-01-06T10:18:13,PVP SAAAN !!! :D :D ;),0,0,Abdelmadjid Bounatiro,RBc5YcuOThY,0.75,2016-01-06 10:18:13,False,True
+2016-01-06T12:47:04,The walking dead here?,0,0,Deziona,RBc5YcuOThY,-0.2,2016-01-06 12:47:04,False,True
+2016-01-06T13:10:13,0:58 i was so pumped to see that scene of natalie  until 1:06,0,0,Destroic,RBc5YcuOThY,0.0,2016-01-06 13:10:13,False,True
+2016-01-06T20:53:26,"this forest is actually real in Japan where people usually come in to commit suicide, there is a documentaty about a man who comes here everyday to find dead bodies",0,0,Dvo,RBc5YcuOThY,-0.1125,2016-01-06 20:53:26,False,True
+2016-01-07T02:24:35,So is this based off of the game?,1,2,Aaron Alam,RBc5YcuOThY,-0.4,2016-01-07 02:24:35,False,True
+2016-01-07T08:49:04,the forest actually exists though. more proof that japan is weird af and awesome.,0,0,ruoweii,RBc5YcuOThY,0.25,2016-01-07 08:49:04,False,True
+2016-01-07T23:45:02,that camera thing its like fatal frame 2 when a girl search for her twin sister.,0,0,Dimas Barbosa,RBc5YcuOThY,0.0,2016-01-07 23:45:02,False,True
+2016-01-08T02:49:06,"Although I'm a sucker for these kinds of movies, what disappoints me so much is when they release the movie in January and if there's anything I learn from Jeremy Jahns and Chris Stuckmann, the movie is probably gonna suck. Let's hope it has some good feed back.",0,0,David Langheier,RBc5YcuOThY,0.15,2016-01-08 02:49:06,False,True
+2016-01-08T09:37:21,"Oh come on, is there really a shower scene? Get a new schtick horror genre.",0,0,GeorgeBonanza,RBc5YcuOThY,0.16818181818181818,2016-01-08 09:37:21,False,True
+2016-01-08T15:01:10,oh thats very bad because no kings,0,0,D4RK D3VIL,RBc5YcuOThY,-0.9099999999999998,2016-01-08 15:01:10,False,True
+2016-01-08T15:33:50,I'm watching this today.....,1,4,Pow• •,RBc5YcuOThY,0.0,2016-01-08 15:33:50,False,True
+2016-01-08T19:04:35,Looks crap,0,0,Madison Patrick,RBc5YcuOThY,-0.8,2016-01-08 19:04:35,False,True
+2016-01-08T19:40:53,I want to know how much money these guys paid to have every single freakin ad on youtube play this trailer.,0,0,ethernetspit,RBc5YcuOThY,0.0642857142857143,2016-01-08 19:40:53,False,True
+2016-01-08T19:49:46,"I was going to see this movie too.  I heard about it a while ago.  But after being bombarded by ads all day, I am no longer going to.",0,0,ethernetspit,RBc5YcuOThY,0.0,2016-01-08 19:49:46,False,True
+2016-01-08T23:29:02,This movie looks like shit,0,0,School Stuff,RBc5YcuOThY,-0.2,2016-01-08 23:29:02,False,True
+2016-01-09T00:37:07,"Natalie Dormer could make a 2 hour movie repeatedly saying ""I like killing children"" or just film herself reading a book and it would still be fantastic. One of my favourite actresses.",0,0,Iordanis Triantafyllou,RBc5YcuOThY,0.4,2016-01-09 00:37:07,False,True
+2016-01-09T01:59:45,".04 seconds: ""My sister Jess, AND I!"" Whats with this akward bit of line injection?  I know it's a work in progress, but if you can't get basic lines in the first ten seconds of the trailer in order, you're in trouble.",0,0,Lost Luna,RBc5YcuOThY,0.012499999999999997,2016-01-09 01:59:45,False,True
+2016-01-09T02:48:26,LOL,0,0,Minnie Mouse,RBc5YcuOThY,0.8,2016-01-09 02:48:26,False,True
+2016-01-09T06:41:32,"I hate ""The Forest"" ads, i tired for this shit off.",0,0,Mark Lubashevscky,RBc5YcuOThY,-0.46666666666666673,2016-01-09 06:41:32,False,True
+2016-01-09T14:52:56,Well... That movie was another waste of my $20 bucks. Plus the story didn't even make sense. And the trailer showed you the ending,0,0,Stephen Conos,RBc5YcuOThY,-0.2,2016-01-09 14:52:56,False,True
+2016-01-09T17:04:59,Filmed in Serbia?,0,0,Dima Maksimov,RBc5YcuOThY,0.0,2016-01-09 17:04:59,False,True
+2016-01-09T17:30:06,The way I found out about this forest was on a top ten video,0,0,Rebecca Kitchens,RBc5YcuOThY,0.25,2016-01-09 17:30:06,False,True
+2016-01-09T18:10:30,just saying about half the things in this trailer were not included in the movie; i saw it yesterday. it kinda sucked,0,0,Elena Rodriguez,RBc5YcuOThY,-0.16666666666666666,2016-01-09 18:10:30,False,True
+2016-01-09T18:19:40,#returntheslab,0,0,Miguel Castorena,RBc5YcuOThY,0.0,2016-01-09 18:19:40,False,True
+2016-01-10T04:54:02,I'm glad they didn't film this in the actual forest,0,0,Sydney M,RBc5YcuOThY,0.25,2016-01-10 04:54:02,False,True
+2016-01-10T05:08:20,Going right now.,0,0,Jordan,RBc5YcuOThY,0.2857142857142857,2016-01-10 05:08:20,False,True
+2016-01-10T06:24:38,Shame its not related to the video game The Forest.,0,0,Aussie Kent,RBc5YcuOThY,-0.2,2016-01-10 06:24:38,False,True
+2016-01-10T14:20:27,I just saw this movie yesterday and it's actually pretty good. It has a twist towards the end,4,0,River Chambers,RBc5YcuOThY,0.475,2016-01-10 14:20:27,False,True
+2016-01-10T14:52:07,she looks like ariana richards,0,0,La Monga,RBc5YcuOThY,0.0,2016-01-10 14:52:07,False,True
+2016-01-11T01:02:10,C-movie. nope.,0,0,Johann Muster,RBc5YcuOThY,0.0,2016-01-11 01:02:10,False,True
+2016-01-11T18:46:12,the suicide forest actually exits.,0,0,Aria Merolevo,RBc5YcuOThY,0.0,2016-01-11 18:46:12,False,True
+2016-01-11T22:01:24,i bet after releasing this movie you will be seen ghost caught in cameras while fliming this movie,0,0,Mr. Badass,RBc5YcuOThY,0.0,2016-01-11 22:01:24,False,True
+2016-01-11T22:38:33,Check out the Vice documentary on the real place.,0,0,sodapopsik,RBc5YcuOThY,0.1,2016-01-11 22:38:33,False,True
+2016-01-12T02:39:51,kinda annoying how they kept saying my name in the background,2,2,Sarah Graham,RBc5YcuOThY,-0.8,2016-01-12 02:39:51,False,True
+2016-01-12T18:28:07,Im here bicuse of Natalie,0,0,fluX,RBc5YcuOThY,0.0,2016-01-12 18:28:07,False,True
+2016-01-13T12:17:23,YOU HAD ONE SIMPLE JOB AND YA FUCKED UP SONNY,0,0,Vincent R,RBc5YcuOThY,-0.3,2016-01-13 12:17:23,False,True
+2016-01-13T19:11:38,ausome,0,0,Connor And Hunter Staples,RBc5YcuOThY,0.0,2016-01-13 19:11:38,False,True
+2016-01-13T21:05:39,is awesome. but is scary,0,0,FANTOMA,RBc5YcuOThY,0.25,2016-01-13 21:05:39,False,True
+2016-01-15T02:38:00,"This would be a good idea maybe 30 years ago when that forest (aka Jukai) was all the rage. Nowadays the subject is as old hat as prison break movie from Alcatraz. There are other way more ""interesting"" suicide spots in Japan just in case. My favorite is one active volcano where tons of people went there to throw themselves in the 70s (one particular Japanese woman who dove into the lava with her boyfriend changed her mind in the middle of the descent and managed to crawl back. Half her body was consumed by the magma but she managed to survive a la Darth Vader and later she became an activist on suicide awareness. And oh her boyfriend succeeded to die.)",0,0,CUMBICA1970,RBc5YcuOThY,0.13392857142857142,2016-01-15 02:38:00,False,True
+2016-01-15T18:02:50,this is good bcs tthat place is f real,0,0,Athirah Auni .Othman,RBc5YcuOThY,0.44999999999999996,2016-01-15 18:02:50,False,True
+2016-01-15T20:58:48,"I am baffled at how they're promoting this as an ""Actual Feature-Length Movie""- i mean for pete sake, it looks like just a typical Sci-Fi (F*** SYFY >X(! )original movie thing, and they're going as far as to put it into  theaters?! WTH promotes it to the point of actual movie-theater quality???",0,0,killeing,RBc5YcuOThY,0.0029761904761904817,2016-01-15 20:58:48,False,True
+2016-01-15T21:00:29,alot of the scenes in the trailer never happened in the movie,0,0,Debby Hopp,RBc5YcuOThY,0.0,2016-01-15 21:00:29,False,True
+2016-01-16T03:43:24,my middle name is sara,0,0,luke sucks balls 卌,RBc5YcuOThY,0.0,2016-01-16 03:43:24,False,True
+2016-01-16T13:05:54,го на мой канал ),0,0,DEFOLT,RBc5YcuOThY,0.0,2016-01-16 13:05:54,False,True
+2016-01-16T20:50:20,I'm glad I'm not called Sarah.,0,0,Tara Wood,RBc5YcuOThY,0.5,2016-01-16 20:50:20,False,True
+2016-01-17T01:27:59,This movie sucked,0,0,Amber D,RBc5YcuOThY,0.0,2016-01-17 01:27:59,False,True
+2016-01-17T01:54:16,My dad is half Japanese and he grew up in Japan and I have been fascinated with Mt. Fuji and its forest even before the movie came out at all.,0,0,Lily Linn,RBc5YcuOThY,-0.08333333333333333,2016-01-17 01:54:16,False,True
+2016-01-17T17:16:44,snip.ly/LrLj <THe Forest> Watch Now <hiGHT QualITy>,0,0,depal hoza,RBc5YcuOThY,0.0,2016-01-17 17:16:44,False,True
+2016-01-18T17:05:17,I find that movie is not real.,0,0,Dame Rajkumar,RBc5YcuOThY,-0.1,2016-01-18 17:05:17,False,True
+2016-01-18T18:21:40,This movie si so bad,0,0,Ethan Joyal,RBc5YcuOThY,-0.6999999999999998,2016-01-18 18:21:40,False,True
+2016-01-18T23:24:46,"I like Natalie Dormer, but do I like her enough to watch this shit?",0,0,lisambofoh,RBc5YcuOThY,-0.1,2016-01-18 23:24:46,False,True
+2016-01-19T01:25:51,sarah dies jess lives aiden dies spolier alert hahahahahah,0,0,that crazy guy,RBc5YcuOThY,0.0,2016-01-19 01:25:51,False,True
+2016-01-19T20:27:07,"First, all her husbands die, now this! Poor Natalie!",0,0,MsJoey,RBc5YcuOThY,-0.09375,2016-01-19 20:27:07,False,True
+2016-01-19T23:28:56,+++Tempting to Enter but forbidden+++,0,0,Laura Parra,RBc5YcuOThY,0.0,2016-01-19 23:28:56,False,True
+2016-01-20T02:59:04,In thought titanic was disrespectful as well as star wars ep 7,0,0,Thomas bob bob,RBc5YcuOThY,0.0,2016-01-20 02:59:04,False,True
+2016-01-20T19:03:38,I spent 1hour15' for this movie ... That's ok but short time to me,0,0,Hannah nguyễn,RBc5YcuOThY,0.13333333333333333,2016-01-20 19:03:38,False,True
+2016-01-20T19:35:47,"To be honest, I loved the movie right up until the very cliché ending. If they had ended it a little sooner, without like the last ten seconds, it would have been better. But the creepiness of the film is well worth it.",0,0,Chantelle C,RBc5YcuOThY,0.2664682539682539,2016-01-20 19:35:47,False,True
+2016-01-20T19:45:09,gotta watch an advertisement to watch a trailer lol,0,0,Joe Cento,RBc5YcuOThY,0.8,2016-01-20 19:45:09,False,True
+2016-01-21T01:04:06,حلوو جداااا الفيلم,0,0,Mena Shiko,RBc5YcuOThY,0.0,2016-01-21 01:04:06,False,True
+2016-01-21T18:24:25,Quite Disappointing. Did Not like it at all.,0,0,Spiritedfellow,RBc5YcuOThY,-0.6,2016-01-21 18:24:25,False,True
+2016-01-22T16:44:45,la produccion de esta pelicula no supera los 100 dolares jejeje,0,0,Fenix Rising,RBc5YcuOThY,0.0,2016-01-22 16:44:45,False,True
+2016-01-23T20:20:04,was it so hard to cast a japanese actress in a movie set in japan,33,4,shaniya epps,RBc5YcuOThY,-0.14583333333333334,2016-01-23 20:20:04,False,True
+2016-01-23T22:03:16,this is stupid,0,0,D a n a,RBc5YcuOThY,-0.7999999999999999,2016-01-23 22:03:16,False,True
+2016-01-24T18:39:36,It's the green tea.,0,0,Laura Collins,RBc5YcuOThY,-0.2,2016-01-24 18:39:36,False,True
+2016-01-24T20:59:53,Yesterday I saw this film ... The story is very nice but very frightening .... I'm really afraid ¡-¡,0,0,Reem Khaled,RBc5YcuOThY,-0.15666666666666665,2016-01-24 20:59:53,False,True
+2016-01-24T21:01:02,It's very sad because sara died at the end,0,0,Reem Khaled,RBc5YcuOThY,-0.65,2016-01-24 21:01:02,False,True
+2016-01-24T21:33:23,"they find the sister, but she dies. You're welcome.",0,0,Gina Diana,RBc5YcuOThY,0.8,2016-01-24 21:33:23,False,True
+2016-01-25T03:03:35,is there a website i can watch this movie because i looked everywhere and found nothing................ DONT REPORT ME,0,0,AAA J,RBc5YcuOThY,0.0,2016-01-25 03:03:35,False,True
+2016-01-26T03:36:50,"All you had to do, was follow the damn path CJ!",0,0,Part 74,RBc5YcuOThY,0.0,2016-01-26 03:36:50,False,True
+2016-01-26T12:13:01,Game the forest,0,0,The Doggy,RBc5YcuOThY,-0.4,2016-01-26 12:13:01,False,True
+2016-01-27T12:51:50,in the end natalie died and her spirit trapped in the forest while her twin is free from the forest,0,0,adi sulistyo,RBc5YcuOThY,0.1,2016-01-27 12:51:50,False,True
+2016-01-27T20:06:39,"Japan ranks 17th country with the highest suicide rate in the world, USA ranks 50th. This forest is a place where Japanese people go because they are struggling, with life, with society, with mental illness, to find peace.  But sure, let's make a horror movie with an all-white cast about it. Because that is not disrespectful at all.",2,3,maiii0608,RBc5YcuOThY,0.13333333333333333,2016-01-27 20:06:39,False,True
+2016-01-28T16:47:44,the forest gump......,0,0,Alba Gomes,RBc5YcuOThY,0.0,2016-01-28 16:47:44,False,True
+2016-01-29T05:48:16,Watched it and it sucked tbh,0,0,lemillion,RBc5YcuOThY,0.0,2016-01-29 05:48:16,False,True
+2016-01-30T06:44:34,wow this must have been really creepy to watch if your name is Sarah,0,0,Julia L,RBc5YcuOThY,-0.2,2016-01-30 06:44:34,False,True
+2016-01-31T01:01:29,She dies at the end,0,0,Jermy tosgi,RBc5YcuOThY,0.0,2016-01-31 01:01:29,False,True
+2016-01-31T01:28:25,is this like based off the game 'The forest' just like with out the building stuff and the plane crash????,0,1,Jazza 1198,RBc5YcuOThY,-0.4,2016-01-31 01:28:25,False,True
+2016-01-31T06:33:16,"Free Live Sex Cam Show, Exclusive Unlimited Access:      BabeGirlsHere.BlogSpot------------------c0m",1,0,Provancika Hujuki,RBc5YcuOThY,0.2681818181818182,2016-01-31 06:33:16,False,True
+2016-01-31T10:29:34,Even Taylor Kinneys cute face couldn't save this crappy movie. -_-,0,0,Serafina,RBc5YcuOThY,0.5,2016-01-31 10:29:34,False,True
+2016-02-02T03:15:53,I see you hiding in the comments. Scroll back up and watch it like a man.,0,0,Cobi Mayes,RBc5YcuOThY,0.0,2016-02-02 03:15:53,False,True
+2016-02-05T18:24:21,Fatal Frame brought me here. Anyone? The story looks like the combination of Fatal Frame 2 and 5.,0,0,Vandhira Liang,RBc5YcuOThY,0.0,2016-02-05 18:24:21,False,True
+2016-02-06T11:42:33,another funny movie...,0,0,DIEGO GARCÍA,RBc5YcuOThY,0.25,2016-02-06 11:42:33,False,True
+2016-02-07T09:56:02,nice movie,0,0,endrit cudi,RBc5YcuOThY,0.6,2016-02-07 09:56:02,False,True
+2016-02-07T18:02:56,she's the director girl from Mocking Jay.,0,0,Michael Jayson Banua,RBc5YcuOThY,0.0,2016-02-07 18:02:56,False,True
+2016-02-09T01:36:27,00:25 yep that's how I let people know I am in trouble and in need lol,0,0,Candi Soda,RBc5YcuOThY,0.30000000000000004,2016-02-09 01:36:27,False,True
+2016-02-09T23:08:54,20 bucks she kills herself at the end....,0,0,hamm232,RBc5YcuOThY,0.0,2016-02-09 23:08:54,False,True
+2016-02-10T18:23:33,"another ""movie"" to watch for children",0,0,piczasso,RBc5YcuOThY,0.0,2016-02-10 18:23:33,False,True
+2016-02-10T19:59:55,STUPID MOVIE! It's PAIN IN THE ASS. going to watch trump it's better,0,0,Daher Hani,RBc5YcuOThY,-0.24999999999999994,2016-02-10 19:59:55,False,True
+2016-02-11T05:47:30,some of u guys claim that all actors&actresses are white but at 1:14 I see Yukiyoshi Ozawa.he is 3/4 Asian.,0,0,Nozomi Burnt,RBc5YcuOThY,0.0,2016-02-11 05:47:30,False,True
+2016-02-11T08:33:21,is this in aokigahara forest?,0,0,Lanedr,RBc5YcuOThY,0.0,2016-02-11 08:33:21,False,True
+2016-02-12T12:37:38,This place is real. how do i know? I committed suicide there!,0,0,Amjed Omer,RBc5YcuOThY,0.25,2016-02-12 12:37:38,False,True
+2016-02-12T15:47:55,Cadê o Brasil nessa porra,0,0,Canal da Brenda,RBc5YcuOThY,0.0,2016-02-12 15:47:55,False,True
+2016-02-12T18:15:02,"This forest makes you paranoid and you have to stay on the path or else you die,so this is basically Mirkwood.",1,0,Kenzo,RBc5YcuOThY,0.0,2016-02-12 18:15:02,False,True
+2016-02-12T19:55:51,Kelly Severide.,0,0,Rez,RBc5YcuOThY,0.0,2016-02-12 19:55:51,False,True
+2016-02-14T01:36:41,"Oh boy, look another spooky ghost film...",0,0,DarkWestern,RBc5YcuOThY,0.0,2016-02-14 01:36:41,False,True
+2016-02-14T19:09:05,perfeito,0,0,Ferreira Marcelo dos Santos,RBc5YcuOThY,0.0,2016-02-14 19:09:05,False,True
+2016-02-14T19:27:44,"You idiot didn't you hear what that guy said? Stay on the path. Oh right it's horror movie, so do everything opposite of what people say to you, explore creepy looking places and just be dumb.",0,0,AiKa,RBc5YcuOThY,-0.27785714285714286,2016-02-14 19:27:44,False,True
+2016-02-15T06:14:42,I'm so glad this movie flipped because it's a blatant mockery of a real mental health issue,0,0,hardcoremunchkin,RBc5YcuOThY,-0.05000000000000001,2016-02-15 06:14:42,False,True
+2016-02-16T12:52:19,Doesn't look that bad,0,0,rybolfc,RBc5YcuOThY,-0.6999999999999998,2016-02-16 12:52:19,False,True
+2016-02-16T22:28:41,"the forest is real, there is (was) a youtube documentary about it done by vice",0,0,frances von stackelberg,RBc5YcuOThY,0.1,2016-02-16 22:28:41,False,True
+2016-02-17T00:20:21,So Sara goes in search of Natalie and she get lost..so   Police and Sara's boyfriend go in search of her but finds Natalie instead.... wtf?,0,0,Luis Lizard,RBc5YcuOThY,-0.5,2016-02-17 00:20:21,False,True
+2016-02-17T20:13:17,Grappige films,0,0,Sofie Bollen,RBc5YcuOThY,0.0,2016-02-17 20:13:17,False,True
+2016-02-20T16:26:54,"Free Live Sex Cam Show, Exclusive Unlimited Access:      BabeGirlsHere.BlogSpot------------------c0m",0,0,Raymundo Starling,RBc5YcuOThY,0.2681818181818182,2016-02-20 16:26:54,False,True
+2016-02-21T10:45:07,Omg this forrest is actually real i watched a great documentary on this. Its true about the path. def watching this,0,0,B Naruto,RBc5YcuOThY,0.3375,2016-02-21 10:45:07,False,True
+2016-02-21T16:14:49,tros cool cette bande annonce,0,0,Chrysta Boillat,RBc5YcuOThY,0.35,2016-02-21 16:14:49,False,True
+2016-02-21T16:16:05,natalie dormer is so good,0,0,Chrysta Boillat,RBc5YcuOThY,0.7,2016-02-21 16:16:05,False,True
+2016-02-21T21:09:30,"cliche as hell, frustrating and honestly not worth your time unless you are bored",0,0,Little Crimson,RBc5YcuOThY,-0.35000000000000003,2016-02-21 21:09:30,False,True
+2016-02-23T19:48:46,this looks so bad,0,0,Joe Mckenzie,RBc5YcuOThY,-0.6999999999999998,2016-02-23 19:48:46,False,True
+2016-02-24T07:01:30,cool thing about the trailer is i can see everything I need to see without wasting my time on the film.,0,0,Phil Moufarrege,RBc5YcuOThY,0.35,2016-02-24 07:01:30,False,True
+2016-02-26T21:31:21,No thanks I'm staying in the path haha,0,0,Adrianasco,RBc5YcuOThY,0.05,2016-02-26 21:31:21,False,True
+2016-02-27T18:18:01,movie blows donkey balls.,0,0,Goremeister100,RBc5YcuOThY,0.0,2016-02-27 18:18:01,False,True
+2016-02-27T19:59:28,blair witch vol:6346573261380,0,0,kıvanç erakçora,RBc5YcuOThY,0.0,2016-02-27 19:59:28,False,True
+2016-02-28T04:12:41,#theforestisreal,0,0,Shinchujj,RBc5YcuOThY,0.0,2016-02-28 04:12:41,False,True
+2016-02-28T21:09:55,"Suicide zombie demons be like at the end *whispering* ""sarah... sarah... SARAH YOU JUST GOT PUNK'D!!",0,0,Leonardo Clement,RBc5YcuOThY,0.0,2016-02-28 21:09:55,False,True
+2016-03-01T16:14:51,suiside forest is real it sin japan or soemthing,0,0,Tortilla,RBc5YcuOThY,0.2,2016-03-01 16:14:51,False,True
+2016-03-02T06:53:57,I'm shocked they made a movie about this forest (Aokigahara),0,0,smithredhawk,RBc5YcuOThY,-0.7,2016-03-02 06:53:57,False,True
+2016-03-04T21:32:36,🐜🐜🐜🐜🐜🐜🐜,0,0,Wendy Griffin,RBc5YcuOThY,0.0,2016-03-04 21:32:36,False,True
+2016-03-08T03:46:26,"thoughts first glance... ""i dunno"" more into the trailer... ""maybe"" shower scene ""YES!!! 10/10 DEFINITELY WATCHING"" like if your the same",0,0,BigGG231 Gaming,RBc5YcuOThY,0.306640625,2016-03-08 03:46:26,False,True
+2016-03-09T07:24:10,The movie wasnt really filmed in the forest right? They filmed inside a studio i hope,0,0,Erika Evora,RBc5YcuOThY,0.24285714285714285,2016-03-09 07:24:10,False,True
+2016-03-11T00:17:14,At the end why do I see a lot of random white people acting as spirits in this film even though the film is suppose to set in Japan?!!💀,0,0,Harold Kwong,RBc5YcuOThY,-0.16666666666666666,2016-03-11 00:17:14,False,True
+2016-03-11T11:43:46,"Tooo Much   Screaming,,,  almost got deaf !",0,0,Thumbs up,RBc5YcuOThY,0.25,2016-03-11 11:43:46,False,True
+2016-03-16T04:41:56,this movie sucks. what a moronic clumbsy annoying piece of shit movie.,0,0,Hef Tarc,RBc5YcuOThY,-0.43333333333333335,2016-03-16 04:41:56,False,True
+2016-03-18T04:44:52,This movie sucks.... worst horror movie ever..... wasted my time....,0,0,Sakshyam Sworup Shrestha,RBc5YcuOThY,-0.5,2016-03-18 04:44:52,False,True
+2016-03-19T18:25:56,Natalie Dormer She is going to be scared It is snowing on mount fuji,0,0,Dazer Eyes,RBc5YcuOThY,0.0,2016-03-19 18:25:56,False,True
+2016-03-22T17:39:39,"And here I thought it was going to be a guy stranded on a island looking for his boy, have having to deal with an island filled with cannibal tribes and mutant that tries to eat him. XD",0,0,wickedblade,RBc5YcuOThY,0.15000000000000002,2016-03-22 17:39:39,False,True
+2016-03-22T18:16:40,Loved the sound effects.,0,0,ChaZ-E,RBc5YcuOThY,0.55,2016-03-22 18:16:40,False,True
+2016-03-23T09:09:35,"Might as well have named the movie ""Sarah""",0,0,Breakfast with Satan,RBc5YcuOThY,0.0,2016-03-23 09:09:35,False,True
+2016-03-25T08:44:02,Looks soooo good am waiting for the DVD to  be reasleased,0,0,Shannan Pollock,RBc5YcuOThY,0.7,2016-03-25 08:44:02,False,True
+2016-03-25T16:35:52,Waste of time.,6,0,Syed Ikramuddin,RBc5YcuOThY,-0.2,2016-03-25 16:35:52,False,True
+2016-03-25T19:31:19,Just another disappointing horror movie.,0,0,Joshua Shank,RBc5YcuOThY,-0.6,2016-03-25 19:31:19,False,True
+2016-03-26T04:08:05,This movie was so bad. I laughed at most of the jump scares... some of them looked like women with bad makeup. The ending was stupid...,9,1,Dan O Qam Yasharahla,RBc5YcuOThY,-0.19999999999999993,2016-03-26 04:08:05,False,True
+2016-03-26T21:50:32,"this is a bull shit how could they make such a movie?!! there are thousand of people took their lives in this forest, they should at least consider this before making the movie!! cause this is not a myth it's a real place and I found this offensive to those people. it's really sad to know that they took their own lives. how could Hollywood make a movie like this one,!! I mean why Aokigahara?! god damn it people",0,0,fadoua,RBc5YcuOThY,-0.060267857142857144,2016-03-26 21:50:32,False,True
+2016-03-27T00:46:31,is it good ?,0,0,noe perez,RBc5YcuOThY,0.7,2016-03-27 00:46:31,False,True
+2016-03-27T19:32:08,This movie is so freaking boring..,0,1,Lavinia,RBc5YcuOThY,-1.0,2016-03-27 19:32:08,False,True
+2016-03-30T17:12:35,Why every horror movie has finally sucked,0,0,Hodaya biton,RBc5YcuOThY,0.0,2016-03-30 17:12:35,False,True
+2016-03-30T22:26:07,How does she find her sister exactly? Bluetooth tracking? I mean its a pretty big forest isn't it?,0,0,Meld,RBc5YcuOThY,0.046875,2016-03-30 22:26:07,False,True
+2016-03-30T23:39:36,Is the forest some kind of spooky thing??  I live in Sweden.......,0,1,Makus Dhy,RBc5YcuOThY,0.36818181818181817,2016-03-30 23:39:36,False,True
+2016-03-31T18:50:29,hashtag the forest is real? Really? That's how you know a movie is dogshit.,0,0,kelerews,RBc5YcuOThY,0.30000000000000004,2016-03-31 18:50:29,False,True
+2016-03-31T19:18:05,always horror movies rates is bad  so i dont think im gonna watch it,0,0,Saud SA,RBc5YcuOThY,-0.6999999999999998,2016-03-31 19:18:05,False,True
+2016-04-01T20:34:21,"No! No please, don't do it! I'm a virgin!",0,0,Jack Thompson,RBc5YcuOThY,0.0,2016-04-01 20:34:21,False,True
+2016-04-03T08:23:18,Good,0,0,Tyler Andrews,RBc5YcuOThY,0.7,2016-04-03 08:23:18,False,True
+2016-04-05T11:38:01,"MeSsage: SubliMinal, & uMMM.......uR Gonna Die? !?!",0,0,Da'k!DD,RBc5YcuOThY,0.0,2016-04-05 11:38:01,False,True
+2016-04-07T03:09:17,I think this was inspired from Aokigahara forest. o.O,0,0,Jenjen Lakikay,RBc5YcuOThY,0.05,2016-04-07 03:09:17,False,False
+2016-04-13T12:13:09,Can anyone please tell me why did the sister even go into the forest in the first place?,0,1,Custom Lioness7,RBc5YcuOThY,0.25,2016-04-13 12:13:09,False,False
+2016-04-15T04:12:08,not a place to be fearful.  those people need help not be left to have suicide.  not a place to make money neither.  poor people. . they need help... :'(,1,0,David Quezada,RBc5YcuOThY,-0.575,2016-04-15 04:12:08,False,False
+2016-04-16T09:20:47,الفيلم لاباس به,0,0,مروة غ,RBc5YcuOThY,0.0,2016-04-16 09:20:47,False,False
+2016-04-18T13:03:20,I wish my enemy would go to this forest and u know..... Kill herself ☺,0,0,Shelby T.,RBc5YcuOThY,0.0,2016-04-18 13:03:20,False,False
+2016-04-20T11:04:18,its super cool,0,0,Mihai Popescu,RBc5YcuOThY,0.3416666666666667,2016-04-20 11:04:18,False,False
+2016-04-20T11:04:22,its super cool,0,0,Mihai Popescu,RBc5YcuOThY,0.3416666666666667,2016-04-20 11:04:22,False,False
+2016-04-23T15:16:05,"Great horror flick, cerebral, with little blood.  We enjoyed it.",0,0,Herb Arnold,RBc5YcuOThY,0.37083333333333335,2016-04-23 15:16:05,False,False
+2016-04-26T14:51:10,its very disappointing...,5,0,Renata Davenport,RBc5YcuOThY,-0.78,2016-04-26 14:51:10,False,False
+2016-04-27T14:23:00,Abroad in Japan just sent me here.,0,0,British Blue,RBc5YcuOThY,0.0,2016-04-27 14:23:00,False,False
+2016-05-06T09:10:49,worst film ever with the best actress ever...,0,0,Tommy G,RBc5YcuOThY,0.0,2016-05-06 09:10:49,False,False
+2016-05-12T06:20:08,is this movie a appropriate movie for 11 years old to watch?,0,1,Natalie Lo,RBc5YcuOThY,0.3,2016-05-12 06:20:08,False,False
+2016-05-13T22:47:45,I loved this movie,0,0,Cina C.,RBc5YcuOThY,0.7,2016-05-13 22:47:45,False,False
+2016-05-25T04:08:36,"Why are there so may white people in a movie set in Japan?  Like I'm not being an sjw, I just don't understand why nearly everyone in this movie is white when its set in Japan its not very realistic.",0,0,YumeKyun,RBc5YcuOThY,0.008974358974358977,2016-05-25 04:08:36,False,False
+2016-05-25T06:37:13,"""Spirits cannot rest there. They come back...hungry*"" 0:55",0,0,Funeral Giggle,RBc5YcuOThY,0.0,2016-05-25 06:37:13,False,False
+2016-05-27T18:07:04,Natalie I love you,0,0,Russian 15,RBc5YcuOThY,0.5,2016-05-27 18:07:04,False,False
+2016-05-27T18:33:17,i very love horror movies  even i live in horror in iraq,13,6,يوميات مغترب Diary of an expatriate,RBc5YcuOThY,0.3931818181818182,2016-05-27 18:33:17,False,False
+2016-05-31T14:58:41,"Another promising horror movie and another disappointment. This could've been very creepy , eerie and effective film, but it satisfied itself being lame, cliche, bland and less than mediocre attempt at ghost story. I liked the lead actress, you could see tention and fear all over her face in certain moments, production and locations in the movie are great, Zlatibor county in Serbia is really beautiful and it was ambitious attempt at creating something new.  The problem is that movie comes of as incoherent. It seemed like there wasn't long term planing or vision put into creating it, and it felt like they were writing the next scene while shooting another. Scares are nothing more than jump scares and it is the easiest and laziest way to go, you really do not care about these people, story and character motivation is very weak and certain parts just come out of nowhere without any explanation or resolution. Ending makes zero sense and last shot is cringeworthy. Overall THE FOREST is underwhelming and joins all other failed horror attempts like The Gallows, The Other Ones and many more. 1/5",0,0,ogorjefan,RBc5YcuOThY,0.039803391053391035,2016-05-31 14:58:41,False,False
+2016-06-01T10:28:36,Stop glorifying suicide.,0,0,anonamiss,RBc5YcuOThY,0.0,2016-06-01 10:28:36,False,False
+2016-06-02T07:32:09,claro  si salis en games of thrones ya tenes una pelicula,0,0,Profesor Cerebron,RBc5YcuOThY,0.0,2016-06-02 07:32:09,False,False
+2016-06-12T18:38:22,I love this movie. hate the ending though,0,0,Ana Ana,RBc5YcuOThY,-0.15000000000000002,2016-06-12 18:38:22,False,False
+2016-06-13T10:36:22,"Anyway, it´s much, much better than the 2011 shit called ""Forest of the living dead"", though this one must be already the 3rd same Aokigahara  themed movie..Still, .I would go for the japonese electronics:)",0,0,Gigi Lefteru,RBc5YcuOThY,0.09999999999999999,2016-06-13 10:36:22,False,False
+2016-06-16T12:23:28,"Free Live Sex Cam Show, Exclusive Unlimited Access:      BabeGirlsHere.BlogSpot------------------c0m",0,0,Helen McCombs,RBc5YcuOThY,0.2681818181818182,2016-06-16 12:23:28,False,False
+2016-06-19T19:33:37,I was hoping this movie was gonna be good... but its really not. huge disappointment,0,0,Autumn Yates,RBc5YcuOThY,-0.03333333333333336,2016-06-19 19:33:37,False,False
+2016-06-20T04:11:49,"(whispers) ""Sarah...""",0,1,Dogs Mohawk,RBc5YcuOThY,0.0,2016-06-20 04:11:49,False,False
+2016-06-23T15:45:43,"ITS A NICE MOVIE...BUT DONT WATCH IN ALONE AND IN,DARK..",0,1,shekhar chatterjee,RBc5YcuOThY,0.6,2016-06-23 15:45:43,False,False
+2016-06-25T10:10:31,"this forrest i real....there is a video on youtube from some guys, they went to this forrest, some people were trying to explain that they should not go in there, they did anyway and they found some weird stuff.",0,0,Femke Kraan,RBc5YcuOThY,-0.5,2016-06-25 10:10:31,False,False
+2016-06-26T00:18:16,I like how half the scenes aren't in the actual movie.,0,0,Kay Dee,RBc5YcuOThY,-0.08333333333333333,2016-06-26 00:18:16,False,False
+2016-06-30T11:31:54,"Was catched by the name and came for white cannibals, mutants, secret millitary technologies, demons and aliens, but all they showed are another zombies. Eeew.",0,0,Ivan Petrov,RBc5YcuOThY,-0.2,2016-06-30 11:31:54,False,False
+2016-07-02T22:48:21,"whats's this Fatal Frame ??? some elements looks familiar (lost sibling,Aoikigahara,the camera ) LOL MiooooooOOOO ~~~  MayyuuuuuUUU ~~",0,0,m raffi,RBc5YcuOThY,0.5875,2016-07-02 22:48:21,False,False
+2016-07-08T16:51:22,Is this inspired by The Forest on Steam,0,0,Mads Jensen,RBc5YcuOThY,0.0,2016-07-08 16:51:22,False,False
+2016-07-10T18:52:01,The only good thing about this movie was finding out the number of stars it has on imdb because I wanted to make sure I would think twice before renting again so I could watch the other half cause I just saw 45 minutes of it. I now realize thats 45 minutes enough of boring bullshit.,0,0,Yatukih001,RBc5YcuOThY,-0.013095238095238096,2016-07-10 18:52:01,False,False
+2016-07-10T18:53:42,The solution is simple. Put a bunch of politicians into the forest. Then the rest of the actors behind all the hoax events.,0,0,Yatukih001,RBc5YcuOThY,-0.2,2016-07-10 18:53:42,False,False
+2016-07-19T11:19:45,"its a movie people, please , go with the flow, if you think its fake then don't go and watch it! omfg critics! bloody whingers. cant please anyone these days....................... its a bloody movie movie its not  real, its a story someone wanted to share....... ffs",0,0,david damerau,RBc5YcuOThY,-0.6203125,2016-07-19 11:19:45,False,False
+2016-07-20T22:01:45,Did her sister die?,0,0,DxathDontHarm :/,RBc5YcuOThY,0.0,2016-07-20 22:01:45,False,False
+2016-07-23T23:17:09,"I think this movie was ok, maybe not the best horror movie i've seen but it was just ok. A person get lost in a big forest, its a good plot for sure. There were some jump scares and creepy scenes and of course Natalie Dormer was good as Sarah. But i really didnt like how the movie ended. I dont want to spoil so much here, the ones who have seen it know the ending. The thing that happens with Sarah. I understand they wanted it to be scary since its a horror movie about a haunted forest, but i wish the ending was better. Because that was a huge disappointment! Very bad! ",0,0,Daniel Larsson,RBc5YcuOThY,0.1633333333333334,2016-07-23 23:17:09,False,False
+2016-07-25T17:35:08,Shit film,0,0,A. K,RBc5YcuOThY,-0.2,2016-07-25 17:35:08,False,False
+2016-07-28T07:19:59,this place is real,0,0,Elijah Jonathan TV,RBc5YcuOThY,0.2,2016-07-28 07:19:59,False,False
+2016-07-28T17:46:30,"The actress was very good, but I did not enjoy the film.  I felt some things with the man were not explained, and it left me confused.",0,0,Pelican Eel,RBc5YcuOThY,0.07749999999999999,2016-07-28 17:46:30,False,False
+2016-07-31T17:53:42,This based on aokigahara forest?,0,1,Wouters Staf,RBc5YcuOThY,0.0,2016-07-31 17:53:42,False,False
+2016-08-09T07:31:21,"Only conversation movie i don""t know why people thumbs up for the movie ......such a waste of time ....... no horror",0,0,jimmi,RBc5YcuOThY,-0.1,2016-08-09 07:31:21,False,False
+2016-08-11T16:02:03,OMG this girl plays mocking part 2,0,0,S L,RBc5YcuOThY,0.0,2016-08-11 16:02:03,False,False
+2016-08-13T23:09:04,"Slightly funny: 2006 there was a horror movie called 'The Woods'. 10 years later, there's a movie called 'The Forest'  I said it was only slightly funny",3,0,agenttheater5,RBc5YcuOThY,0.125,2016-08-13 23:09:04,False,False
+2016-08-15T04:43:57,I'm glad I didn't waste my money on this garbage! Movie was horrible,0,0,Kayla Zong,RBc5YcuOThY,-0.25,2016-08-15 04:43:57,False,False
+2016-09-01T16:52:00,"***********Game of Thrones SPOILER ALERT************      OMG YES I was soooo sad when she died in GOT, I can't wait to watch movies with her!!! :))",5,0,Kaillyne,RBc5YcuOThY,-0.2921875,2016-09-01 16:52:00,False,False
+2016-09-06T20:15:51,Margeary is that you?,0,0,Sumit Chauhan,RBc5YcuOThY,0.0,2016-09-06 20:15:51,False,False
+2016-09-07T01:16:19,Use Microsoft tracker dumbass if you wanna find your sister,0,0,DonkeyHomie,RBc5YcuOThY,0.0,2016-09-07 01:16:19,False,False
+2016-09-09T01:25:22,Is it worth it? Got it recorded.,0,0,Daniel Lee,RBc5YcuOThY,0.3,2016-09-09 01:25:22,False,False
+2016-09-11T22:33:27,I really love to visit Aikigahara and stay there at night.Hayyyyyyyyys Solituuuuuuuude,0,0,Berry Dirty Wateu,RBc5YcuOThY,0.5,2016-09-11 22:33:27,False,False
+2016-09-14T19:46:10,What is the name of the song at the beginning ?,0,0,Nathan Pakiv,RBc5YcuOThY,0.0,2016-09-14 19:46:10,False,False
+2016-09-14T23:00:45,Ugh my English homework involves watching scary trailer,2,1,Jhosawany Gonzalez,RBc5YcuOThY,-0.25,2016-09-14 23:00:45,False,False
+2016-09-21T01:55:11,"In my opinion.. this movie was utter trash. Aiden died in the dumbest way possible, and the ending.. like what was that?? I was asking myself the whole time, what an English teacher in Japan might be doing in the forest that people say is haunted? Shouldn't she have been teaching students proper English and not wandering off inside the frigging forest? Michi (Meechi?) should've died too for letting Sarahs' dumb self stay there.",0,0,nyah,RBc5YcuOThY,-0.024999999999999998,2016-09-21 01:55:11,False,False
+2016-09-21T16:28:49,That epic moment when you realize that this place is actually real.,0,0,StrongAF,RBc5YcuOThY,0.15000000000000002,2016-09-21 16:28:49,False,False
+2016-10-18T18:42:42,هذا  للفيلم باليابان,0,1,أعشق أفلام رعب,RBc5YcuOThY,0.0,2016-10-18 18:42:42,False,False
+2016-10-18T18:50:52,غابة أوكيغاهارا. 😈,0,0,أعشق أفلام رعب,RBc5YcuOThY,0.0,2016-10-18 18:50:52,False,False
+2016-10-18T18:51:05,غابة أوكيغاهارا. 😈,1,0,أعشق أفلام رعب,RBc5YcuOThY,0.0,2016-10-18 18:51:05,False,False
+2016-10-30T12:14:14,Margaery😞,1,0,Mother of Dragons,RBc5YcuOThY,0.0,2016-10-30 12:14:14,False,False
+2016-11-26T11:26:54,I've seen that girl on hunger game 3 part 2.. what's her name?,0,1,Juneao Alfred,RBc5YcuOThY,-0.4,2016-11-26 11:26:54,False,False
+2016-12-01T20:46:24,wasn't she on game on thrones?,0,0,Incognito ONE,RBc5YcuOThY,-0.4,2016-12-01 20:46:24,False,False
+2016-12-11T01:42:28,Too bad it has nothing to do with the game.,0,0,Luciano Silvestri,RBc5YcuOThY,-0.5499999999999999,2016-12-11 01:42:28,False,False
+2016-12-20T02:07:59,i already watch the movie and i love it soooo much and i hope they make The Forest 2 and played by the same person including Jess,0,0,Evaline Keiza,RBc5YcuOThY,0.2333333333333333,2016-12-20 02:07:59,False,False
+2016-12-30T16:52:31,Eric Peake its in Serbia.I have been there.The mountain calls Tara.,2,0,Maksim Dejanovic,RBc5YcuOThY,0.0,2016-12-30 16:52:31,False,False
+2017-01-01T20:17:40,Boring movie,1,0,roy de ruig,RBc5YcuOThY,-1.0,2017-01-01 20:17:40,False,False
+2017-01-05T20:18:58,"This is disgusting. Utterly disgusting and disrespectful. This is a REAL LIFE Forest where people who are desperate and see no other way out go and kill themselves. To make a cheap ass horror flick from it is just...disgusting in the highest possible way. Real people, so many people, died in this forest and they mock it. I feel actually sick right now...",0,2,CupcakeKingdom,RBc5YcuOThY,-0.15146103896103896,2017-01-05 20:18:58,False,False
+2017-02-05T15:00:10,was I the only one disappointed with this movie,0,2,abbie wilson,RBc5YcuOThY,-0.375,2017-02-05 15:00:10,False,False
+2017-02-07T04:52:39,This movie seems to have taken a lot from Fatal Frame 5 imo,0,0,checkerknights4,RBc5YcuOThY,0.0,2017-02-07 04:52:39,False,False
+2017-02-11T21:28:44,Wasn't that girl blown up and consumed by wildfire?,0,0,Robin Ceuppens,RBc5YcuOThY,0.0,2017-02-11 21:28:44,False,False
+2017-02-23T16:02:27,Blair Witch is looking good,0,0,Summer Rose,RBc5YcuOThY,0.7,2017-02-23 16:02:27,False,False
+2017-03-11T00:56:33,That movie sucks!!!!,0,0,mandy,RBc5YcuOThY,-0.732421875,2017-03-11 00:56:33,False,False
+2017-04-13T15:22:44,am I the only who thought this was based on the game?,0,0,Dan Lee,RBc5YcuOThY,-0.2,2017-04-13 15:22:44,False,False
+2017-04-23T02:05:19,worst movie I have ever seen,1,0,NordicOnur Honca,RBc5YcuOThY,-1.0,2017-04-23 02:05:19,False,False
+2017-05-31T03:06:15,"This movie should've been called ""typical white girl making every horror movie mistake.""",1,2,Prod Alex Saibot,RBc5YcuOThY,-0.08333333333333333,2017-05-31 03:06:15,False,False
+2017-06-02T22:49:08,The only good horror movie ever made was The Shining,0,0,Mr. Pocket,RBc5YcuOThY,0.35,2017-06-02 22:49:08,False,False
+2017-07-07T18:58:50,its a whole movie,0,0,danish khan Khan,RBc5YcuOThY,0.2,2017-07-07 18:58:50,False,False
+2017-07-08T01:43:17,1:10 hey it's severide,0,0,Brock Burr,RBc5YcuOThY,0.0,2017-07-08 01:43:17,False,False
+2017-07-20T17:38:08,maybe my heart gone with the wind or what......i didn't feel anything even a bit scare -_-,0,0,Snow Journeys,RBc5YcuOThY,0.0,2017-07-20 17:38:08,False,False
+2017-08-06T12:34:04,BOOM! BOOM! BOOM! BOOM! BOOM! BOOM! BOOM! BOOM!,0,0,Christoffer Boman,RBc5YcuOThY,0.0,2017-08-06 12:34:04,False,False
+2017-08-09T11:38:44,The part were the thing appear behind hẻ scare the crap outta me,0,0,Tuyết Thị,RBc5YcuOThY,-0.6000000000000001,2017-08-09 11:38:44,False,False
+2017-10-19T03:20:25,They made 4 movies about this place... and this one the shittest!!!,1,0,Kakamal Nor,RBc5YcuOThY,0.0,2017-10-19 03:20:25,False,False
+2017-10-25T09:00:29,that is why you don't go into the forest  alone what did you learn kids?,0,0,Aims Y,RBc5YcuOThY,0.0,2017-10-25 09:00:29,False,False
+2017-10-30T19:51:04,"This forest is called Aokigahara and it's located near Mount Fuji . In the japanese folklore , it is said this forest is home to the yurei ( or ghosts of the dead ) . It is also known as the suicide forest because it is a place chosen for people to comite suicide , it is reported around 100 suicides happen per year at this forest . So you could say that this forest is haunted whitout any doubt .",0,0,Viriatus PC,RBc5YcuOThY,-0.03333333333333333,2017-10-30 19:51:04,False,False
+2017-11-18T13:11:04,La pelicula no me gusto 😕,1,0,V.J. A.G,RBc5YcuOThY,0.0,2017-11-18 13:11:04,False,False
+2017-12-22T21:28:14,Im scared to take a shower now,0,0,Elena,RBc5YcuOThY,0.0,2017-12-22 21:28:14,False,False
+2018-01-01T08:27:20,Who’s here from Logan Paul’s Vlog since he came across a Hanged person in the forest...,0,0,ADotDior,RBc5YcuOThY,0.0,2018-01-01 08:27:20,False,False
+2018-01-01T13:19:31,Cool it's not Scarry😅😅,0,1,Silvija Velikolepnaja,RBc5YcuOThY,0.35,2018-01-01 13:19:31,False,False
+2018-01-02T03:35:11,logan paul amirite guys haha lol xD,0,0,BlokeAfterWar,RBc5YcuOThY,0.5,2018-01-02 03:35:11,False,False
+2018-01-02T18:18:33,Can someone make an edit of Logan paul😂,0,0,Luke 2C76,RBc5YcuOThY,0.0,2018-01-02 18:18:33,False,False
+2018-01-02T21:49:04,Anyone here from Logan Paul?,1,0,Mike the knight,RBc5YcuOThY,0.0,2018-01-02 21:49:04,False,False
+2018-01-02T21:58:41,Just came after Logan Paul's video,1,0,LroyLikesHerToo ?,RBc5YcuOThY,0.0,2018-01-02 21:58:41,False,False
+2018-01-05T02:45:07,Logan Pual,1,1,Nick 23,RBc5YcuOThY,0.0,2018-01-05 02:45:07,False,False
+2018-01-09T22:01:54,Starring Logan Paul,2,0,The Great SteveO,RBc5YcuOThY,0.0,2018-01-09 22:01:54,False,False
+2018-01-12T10:10:07,*S A R A H*,0,0,Doomhardt,RBc5YcuOThY,0.0,2018-01-12 10:10:07,False,False
+2018-01-12T17:57:25,"I searched this on youtube because it played on tv,what timing.",0,0,I AM BATMAN,RBc5YcuOThY,0.0,2018-01-12 17:57:25,False,False
+2018-01-12T18:33:09,You'd think a foreigner would listen to the natives cause they know better. smh. typical dumb horror movie characters.,2,0,Kiammyfy,RBc5YcuOThY,-0.013888888888888876,2018-01-12 18:33:09,False,False
+2018-01-17T09:49:34,Walked in the woods Found a d-     DEAD BODY ON THE SUICIDE FOREST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,1,0,I like girls,RBc5YcuOThY,-1.0,2018-01-17 09:49:34,False,False
+2018-01-20T22:54:10,Logan Poul should be in this movie,2,0,Sebastian Riis,RBc5YcuOThY,0.0,2018-01-20 22:54:10,False,False
+2018-01-28T14:16:52,I think there’s something hanging there...mmm,0,0,amy. cathay,RBc5YcuOThY,0.0,2018-01-28 14:16:52,False,False
+2018-02-09T20:15:42,I watched this film in cinema 3d,0,0,dance cool,RBc5YcuOThY,0.0,2018-02-09 20:15:42,False,False
+2018-02-12T23:36:56,Logan paul liked this movie too much,1,0,vsa,RBc5YcuOThY,0.4,2018-02-12 23:36:56,False,False
+2018-03-15T20:23:10,*Can make a movie about the suicide forest*   (And can be shown)   *Logan Paul films a vlog about the suicide forest*  (Gets flagged)   (But the movie can be shown)    And I know it was months ago but still really?   (If you see this please don’t hate but I know people will so I won’t be responding if you do.),1,1,ItsNoahScott,RBc5YcuOThY,-0.30000000000000004,2018-03-15 20:23:10,False,False
+2018-03-18T15:32:09,-Ah!,0,0,Mathis Miceli,RBc5YcuOThY,0.0,2018-03-18 15:32:09,False,False
+2018-07-06T20:29:12,Japanese Suicide Forest movie inspired.,0,0,Innive,RBc5YcuOThY,0.0,2018-07-06 20:29:12,False,False
+2018-07-14T17:43:09,This movie is Fuckin scary...,0,0,The Gamer,RBc5YcuOThY,-0.5,2018-07-14 17:43:09,False,False
+2018-08-01T19:13:39,I like this actresses's personality,0,0,RUSHIL JOHAR,RBc5YcuOThY,0.0,2018-08-01 19:13:39,False,False
+2018-08-02T17:22:12,Margaery..,0,0,Stargaryeen,RBc5YcuOThY,0.0,2018-08-02 17:22:12,False,False
+2018-08-18T18:22:30,The new Logan paul,0,0,Karly Grace,RBc5YcuOThY,0.13636363636363635,2018-08-18 18:22:30,False,False
+2018-10-30T18:57:37,"Natalie, I love you so muchhh ah <333",0,0,MK.,RBc5YcuOThY,0.5,2018-10-30 18:57:37,False,False
+2019-01-06T00:43:00,Boobies!,0,0,Semen Expert,RBc5YcuOThY,0.0,2019-01-06 00:43:00,False,False
+2019-04-13T08:40:56,富士の樹海？,0,0,〰 〰,RBc5YcuOThY,0.0,2019-04-13 08:40:56,False,False
+2019-07-16T08:39:03,Long long maaaaaaaaaan,0,0,Jacey King,RBc5YcuOThY,-0.05,2019-07-16 08:39:03,False,False
+2019-08-07T11:45:31,Worst movie ever,0,0,nived gajul,RBc5YcuOThY,-1.0,2019-08-07 11:45:31,False,False
+2019-10-31T03:23:02,"I HAVE SOMETHING COMPLETELY SEPARATE TO SAY INVOLVING ACTRESS (NATALIE DORMER)  Now I can imagine actress star (Natalie Dormer) to play the character role of (Lady Arkham) in a BATMAN movie, and I can imagine her playing the character role of (POSION IVY) in a chapter of a BATMAN movie.  I can also imagine actress star (NATALIE DOEMER) playing a character role in a MARVEL ComicBook movie as either a female hero, or playing a character role as a female villain, or play the character role as a female adversary for some hero.",0,0,Brian Daleske,RBc5YcuOThY,0.025,2019-10-31 03:23:02,False,False
+2019-11-06T23:53:11,"That whole Sarah whisper thing, they have going on in the trailer. Is really irritating",0,0,anthony corcino,RBc5YcuOThY,-0.1,2019-11-06 23:53:11,False,False
+2020-01-20T23:53:26,logan paul is the star of the sequel,1,0,Isaac Raymond,RBc5YcuOThY,0.0,2020-01-20 23:53:26,False,False
+2020-04-19T01:19:08,1:02 It looked like that corpse was on a stroller and some backstage person gave it a little nudge,0,0,Dennis Huang,RBc5YcuOThY,-0.1875,2020-04-19 01:19:08,False,False
+2020-05-15T21:13:30,I heard that the forest is real in china,0,0,Tasha Monell,RBc5YcuOThY,0.2,2020-05-15 21:13:30,False,False
+2020-06-06T23:29:18,ice nine kills,0,0,banchamlak tarekegn,RBc5YcuOThY,0.0,2020-06-06 23:29:18,False,False

@@ -2,7 +2,7 @@
 ### Slides: https://docs.google.com/presentation/d/1eYL0SUBftpwC_WGlJPREZkFyGHv1ZnYtXUOBRxvJvUY
 
 ### Pipeline
-![](./_pipeline.png)
+![](./images/_pipeline.png)
 
 ## 1. Collection of movie metadata 
 
@@ -62,3 +62,4 @@
 - Regression target is the ratio of opening_box_office / budget.
 - Train data: 593 movies in 2014 - 2018; Test data: 103 movies in 2019.
 - 15-fold cross validation.
+

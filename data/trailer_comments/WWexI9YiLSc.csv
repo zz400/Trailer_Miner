@@ -1,0 +1,660 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2017-09-12T18:57:49,Hi,0,0,0-0,WWexI9YiLSc,0.0,2017-09-12 18:57:49,True,True
+2017-09-12T18:57:53,1,0,0,Expellius,WWexI9YiLSc,0.0,2017-09-12 18:57:53,True,True
+2017-09-12T19:00:11,"Hi, I'm here",0,0,Evelyn Ck,WWexI9YiLSc,0.0,2017-09-12 19:00:11,True,True
+2017-09-12T19:00:23,Super trailer really👌👏👏👏👏👏,389,4,BEN GAMER,WWexI9YiLSc,0.3333333333333333,2017-09-12 19:00:23,True,True
+2017-09-12T19:01:33,SecondXD,0,0,Jonathan Knudsen,WWexI9YiLSc,0.0,2017-09-12 19:01:33,True,True
+2017-09-12T19:02:10,Taken the train,42,1,The Banter Lounge,WWexI9YiLSc,0.0,2017-09-12 19:02:10,True,True
+2017-09-12T19:02:15,Isn't it a little early for a remake of Non-Stop?,135,6,Tyler Gabel,WWexI9YiLSc,-0.04375,2017-09-12 19:02:15,True,True
+2017-09-12T19:02:31,I love it cos its Liam...,0,0,to tosh,WWexI9YiLSc,0.5,2017-09-12 19:02:31,True,True
+2017-09-12T19:02:51,"When this comment was posted, there was no dislike...",0,0,to tosh,WWexI9YiLSc,0.0,2017-09-12 19:02:51,True,True
+2017-09-12T19:04:24,Tommen died and came back as an edgelord,217,3,Auden,WWexI9YiLSc,0.0,2017-09-12 19:04:24,True,True
+2017-09-12T19:04:33,i see liam and i click...easy call!,109,0,shawn batten,WWexI9YiLSc,0.0,2017-09-12 19:04:33,True,True
+2017-09-12T19:05:01,Shes messing with the wrong commuter. Hes got too many particular skills and is a family man.,550,2,Elevator Doors,WWexI9YiLSc,0.05555555555555555,2017-09-12 19:05:01,True,True
+2017-09-12T19:05:10,"This is Liam Neeson's penultimate action movie apparently, it better be good",15,9,Seb Creaney,WWexI9YiLSc,0.4333333333333333,2017-09-12 19:05:10,True,True
+2017-09-12T19:05:30,liam what are you doing,0,0,Shea Lupkes,WWexI9YiLSc,0.0,2017-09-12 19:05:30,True,True
+2017-09-12T19:07:49,Liam and Vera? I'm in,76,0,magmi.,WWexI9YiLSc,0.0,2017-09-12 19:07:49,True,True
+2017-09-12T19:08:56,Vera😍😍,21,0,Lili Cooper,WWexI9YiLSc,0.0,2017-09-12 19:08:56,True,True
+2017-09-12T19:09:10,Vera Farmiga. I'm sold.,88,0,Vyron H.,WWexI9YiLSc,0.0,2017-09-12 19:09:10,True,True
+2017-09-12T19:10:37,Norma Bates!,5,0,npc,WWexI9YiLSc,0.0,2017-09-12 19:10:37,True,True
+2017-09-12T19:12:13,"first i thought the title of the movies was ""The Computer""",0,0,Playush,WWexI9YiLSc,0.25,2017-09-12 19:12:13,True,True
+2017-09-12T19:12:33,Pointless,0,0,Alex Probst,WWexI9YiLSc,-0.25,2017-09-12 19:12:33,True,True
+2017-09-12T19:12:50,Liam Neeson has no luck with transportation,1052,20,r u ready,WWexI9YiLSc,0.0,2017-09-12 19:12:50,True,True
+2017-09-12T19:12:52,"Liam is awesome, but it is about time he breaks free from this stereotype. Whatever happened to the Liam Neeson who played Oskar Schindler?! At his age, he needs to do more movies like Schindler's list!",9,2,Caayotee,WWexI9YiLSc,0.7083333333333334,2017-09-12 19:12:52,True,True
+2017-09-12T19:12:55,"Looks like he should've ""Taken"" a different train.",942,25,Adam Moynihan,WWexI9YiLSc,0.0,2017-09-12 19:12:55,True,True
+2017-09-12T19:13:29,Dead Tommen Baratheon spotted,0,0,Sonny,WWexI9YiLSc,-0.2,2017-09-12 19:13:29,True,True
+2017-09-12T19:13:53,I will find you. And I will travel to work on you.,90,2,Mr Harley,WWexI9YiLSc,0.0,2017-09-12 19:13:53,True,True
+2017-09-12T19:14:05,So no kidnapped family members?,415,8,ThePrehistoricMaster,WWexI9YiLSc,0.0,2017-09-12 19:14:05,True,True
+2017-09-12T19:14:18,Liam Neeson owns these type of movies and it's great to see him back in one again.,5,0,Denver 96,WWexI9YiLSc,0.4,2017-09-12 19:14:18,True,True
+2017-09-12T19:14:23,Liam Neeson on a phone again.,91,1,Cian O Donnell,WWexI9YiLSc,0.0,2017-09-12 19:14:23,True,True
+2017-09-12T19:15:14,Non stop - train version - money gets TAKEN,0,1,John kedet,WWexI9YiLSc,0.0,2017-09-12 19:15:14,True,True
+2017-09-12T19:15:16,"""hey kiddo""",0,0,Orbit,WWexI9YiLSc,0.0,2017-09-12 19:15:16,True,True
+2017-09-12T19:15:45,Non stop 2,0,0,KChuncky Nguyen,WWexI9YiLSc,0.0,2017-09-12 19:15:45,True,True
+2017-09-12T19:15:51,This movie seems really awesome,1,0,bulldogscolby,WWexI9YiLSc,1.0,2017-09-12 19:15:51,True,True
+2017-09-12T19:16:41,Should've called this 'Next-Stop'    ( ͡° ͜ ͡°),604,20,Hoxtilicious,WWexI9YiLSc,0.0,2017-09-12 19:16:41,True,True
+2017-09-12T19:16:48,This looks actually....really good,20,0,Dózsa Márton,WWexI9YiLSc,0.7,2017-09-12 19:16:48,True,True
+2017-09-12T19:17:16,"the bathroom money, Taken",0,0,mrzack888,WWexI9YiLSc,0.0,2017-09-12 19:17:16,True,True
+2017-09-12T19:17:34,Hey My bro liam is Comeing...😚😚,0,0,bhatt premshwairay,WWexI9YiLSc,0.0,2017-09-12 19:17:34,True,True
+2017-09-12T19:17:56,I hate Masterminds who control people.,0,0,Epyonwings,WWexI9YiLSc,-0.8,2017-09-12 19:17:56,True,True
+2017-09-12T19:18:15,Non stop on a train. Great,0,0,mrfalconpuch123,WWexI9YiLSc,0.8,2017-09-12 19:18:15,True,True
+2017-09-12T19:18:43,It's just Non-Stop on a train,0,0,Sean Whearty,WWexI9YiLSc,0.0,2017-09-12 19:18:43,True,True
+2017-09-12T19:19:30,The guy who doesnt belong on the train is somehow gonna end up being Tom hanks. The only other actor with worse luck traveling than Liam neesanz,169,5,Bkr,WWexI9YiLSc,-0.17500000000000002,2017-09-12 19:19:30,True,True
+2017-09-12T19:20:30,I really like Non-Stop so that trailer make me exiteded,0,0,Spleace,WWexI9YiLSc,0.2,2017-09-12 19:20:30,True,True
+2017-09-12T19:21:00,I like train thrillers,0,0,Roy Schults,WWexI9YiLSc,0.0,2017-09-12 19:21:00,True,True
+2017-09-12T19:22:25,Source Code without TimeTravel??,5,1,Konsti G.,WWexI9YiLSc,0.0,2017-09-12 19:22:25,True,True
+2017-09-12T19:22:30,"This looks awesome, kinda like ""Non-stop"" but on a train :D",49,3,caps,WWexI9YiLSc,1.0,2017-09-12 19:22:30,True,True
+2017-09-12T19:22:38,Oh my word this got interesting,0,0,Alex Little,WWexI9YiLSc,0.5,2017-09-12 19:22:38,True,True
+2017-09-12T19:23:05,Lol this is Non Stop on a train,16,0,Rige1997,WWexI9YiLSc,0.8,2017-09-12 19:23:05,True,True
+2017-09-12T19:24:28,For a second I thought the movie title was 'The Communist' lol,0,0,Dixie Normus,WWexI9YiLSc,0.4,2017-09-12 19:24:28,True,True
+2017-09-12T19:24:45,Public transport is a bloody nightmare these days,0,0,Josh Charlie,WWexI9YiLSc,-0.4,2017-09-12 19:24:45,True,True
+2017-09-12T19:25:20,I just hope this won't be a TRAIN wreck of a movie,0,0,David Thoo,WWexI9YiLSc,0.0,2017-09-12 19:25:20,True,True
+2017-09-12T19:27:48,Taken: The Ring,0,0,Ivan Dong,WWexI9YiLSc,0.0,2017-09-12 19:27:48,True,True
+2017-09-12T19:30:15,It's the same plot as Non-Stop exceot on a train and Liam Neeson is the bad guy.....,0,0,Joshua Hickey,WWexI9YiLSc,-0.3499999999999999,2017-09-12 19:30:15,True,True
+2017-09-12T19:31:28,This looks really good,0,0,you know what I am gonna leave,WWexI9YiLSc,0.7,2017-09-12 19:31:28,True,True
+2017-09-12T19:32:43,Liam is back,0,0,7down bo,WWexI9YiLSc,0.0,2017-09-12 19:32:43,True,True
+2017-09-12T19:33:33,Trainken,0,0,where am i,WWexI9YiLSc,0.0,2017-09-12 19:33:33,True,True
+2017-09-12T19:34:00,"At some point people just has to stop trying to take away people or things from Liam Neeson. He IS going to find you, you know?",0,0,Mauro De Simone,WWexI9YiLSc,0.0,2017-09-12 19:34:00,True,True
+2017-09-12T19:35:08,Yes again a Liam nesson action movie I like all of them especially non stop,0,0,Cinema Max,WWexI9YiLSc,0.05,2017-09-12 19:35:08,True,True
+2017-09-12T19:36:24,"Did she forget the man she is messing with has a very particular set of skills, skills which he has acquired over a very long career ?",1561,28,K,WWexI9YiLSc,0.07583333333333334,2017-09-12 19:36:24,True,True
+2017-09-12T19:36:38,People saying its like Non Stop have definitely never seen the movie as this trailer has no relation to that films plot,0,0,Smitty Jjensin,WWexI9YiLSc,0.0,2017-09-12 19:36:38,True,True
+2017-09-12T19:37:07,"As always, you'll have 8 minutes.",0,0,Chad Clark,WWexI9YiLSc,0.0,2017-09-12 19:37:07,True,True
+2017-09-12T19:37:18,Thought Tommen killed himself,0,0,SoBanked-,WWexI9YiLSc,-0.2,2017-09-12 19:37:18,True,True
+2017-09-12T19:37:23,Shes the one from the departed,8,4,MercifuL,WWexI9YiLSc,0.0,2017-09-12 19:37:23,True,True
+2017-09-12T19:39:30,non-stop train version,0,0,Agha Talal,WWexI9YiLSc,0.0,2017-09-12 19:39:30,True,True
+2017-09-12T19:40:05,"I don't know who you are, or what seat you're setting in, but I will find you and I will win that money.",7,0,Wistful HERBz,WWexI9YiLSc,0.8,2017-09-12 19:40:05,True,True
+2017-09-12T19:40:42,"If you think that Liam Neeson can stay a normal office worker for longer than 10 minutes into a movie, then you are mistaken.",0,0,Alex Smith,WWexI9YiLSc,0.15,2017-09-12 19:40:42,True,True
+2017-09-12T19:40:59,Liam Neeson and January go so well together,0,0,It'sAlexForShort,WWexI9YiLSc,0.0,2017-09-12 19:40:59,True,True
+2017-09-12T19:41:38,The sequel to Non stop looks great..,0,0,You G0t Th1s,WWexI9YiLSc,0.8,2017-09-12 19:41:38,True,True
+2017-09-12T19:42:47,Non-Stop meets Source Code?,0,0,Chris Grimes,WWexI9YiLSc,0.0,2017-09-12 19:42:47,True,True
+2017-09-12T19:45:13,*NON-STOP... ON... O-ON A TRAIN... YEAH...*,0,0,Tainted Frogs,WWexI9YiLSc,0.0,2017-09-12 19:45:13,True,True
+2017-09-12T19:45:42,The train and Vera reminded me of Source Code...,9,0,Girija Shankar Nayak,WWexI9YiLSc,0.0,2017-09-12 19:45:42,True,True
+2017-09-12T19:46:14,V E R A  F A R M I G A ❤,29,1,Ivana Torres,WWexI9YiLSc,0.0,2017-09-12 19:46:14,True,True
+2017-09-12T19:47:41,So it's like Non-Stop but in a train? C'mon people! Can't you think of other movie ideas?,0,0,JC Denton,WWexI9YiLSc,-0.125,2017-09-12 19:47:41,True,True
+2017-09-12T19:48:19,Not Taken but Given...cause he was given money.,5,0,18T220,WWexI9YiLSc,0.0,2017-09-12 19:48:19,True,True
+2017-09-12T19:48:43,Liam is bro,0,0,"I am sorbitol, Maltitol, xylitol, mannitol, Calcium",WWexI9YiLSc,0.0,2017-09-12 19:48:43,True,True
+2017-09-12T19:48:52,Don't look all that.,0,0,Mo Johal,WWexI9YiLSc,0.0,2017-09-12 19:48:52,True,True
+2017-09-12T19:49:10,Vera Farmiga is attractive,9,0,Jack,WWexI9YiLSc,0.8,2017-09-12 19:49:10,True,True
+2017-09-12T19:49:24,"LIAM NEESON, VERA FARMIGA AND PATRICK WILSON",74,2,CHRONICLE KAI,WWexI9YiLSc,0.0,2017-09-12 19:49:24,True,True
+2017-09-12T19:50:25,Liam Neeson as Liam Neeson,0,0,Ricardo Cruz Music,WWexI9YiLSc,0.0,2017-09-12 19:50:25,True,True
+2017-09-12T19:50:53,Non stop train version lol,0,0,Spartan_A117,WWexI9YiLSc,0.8,2017-09-12 19:50:53,True,True
+2017-09-12T19:52:03,"""The Commuter"", ""Non-Stop""... Same director, same actor...",0,0,Александр Подвысоцкий,WWexI9YiLSc,0.0,2017-09-12 19:52:03,True,True
+2017-09-12T19:52:24,First a plane then now its a train? Whats next a boat? Lol,0,0,Spartan_A117,WWexI9YiLSc,0.35000000000000003,2017-09-12 19:52:24,True,True
+2017-09-12T19:54:08,Isn't he sick of these movies yet?,0,0,james reid,WWexI9YiLSc,-0.7142857142857143,2017-09-12 19:54:08,True,True
+2017-09-12T19:54:36,Only gonna watch this for Vera....,0,0,shooting as CK,WWexI9YiLSc,0.0,2017-09-12 19:54:36,True,True
+2017-09-12T19:55:01,Everyday bro with the dumb song flow!,0,0,LowKeyDead,WWexI9YiLSc,-0.334375,2017-09-12 19:55:01,True,True
+2017-09-12T19:56:27,Well that escalated quickly,0,0,Walker123,WWexI9YiLSc,0.3333333333333333,2017-09-12 19:56:27,True,True
+2017-09-12T19:57:04,A trailer that doesnt show the whole movie? What kind of sorcery is this?,30,0,Robert Ri,WWexI9YiLSc,0.4,2017-09-12 19:57:04,True,True
+2017-09-12T19:57:12,FARMIGAAAAAAAAAAAAAAA,0,0,Claudia Delgado,WWexI9YiLSc,0.0,2017-09-12 19:57:12,True,True
+2017-09-12T19:57:22,"They mess with wrong person, cause this man got a particular set of skills and is a family man",0,0,QQEQQ,WWexI9YiLSc,-0.16944444444444448,2017-09-12 19:57:22,True,True
+2017-09-12T20:01:03,Taken 25,0,0,Jason S,WWexI9YiLSc,0.0,2017-09-12 20:01:03,True,True
+2017-09-12T20:05:23,VERA FARMIGA!!!,0,0,y.mne.,WWexI9YiLSc,0.0,2017-09-12 20:05:23,True,True
+2017-09-12T20:05:54,"I don't know who you are. I don't know what you want. If you are looking for ransom I can tell you I don't have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career. Skills that make me a nightmare for people like you. If you let my daughter go now that'll be the end of it. I will not look for you, I will not pursue you, but if you don't, I will look for you, I will find you and I will kill you.",0,0,Michael0,WWexI9YiLSc,0.07583333333333334,2017-09-12 20:05:54,True,True
+2017-09-12T20:09:06,This is so Non-stop: Train version.,0,0,Châu Vĩ Hào,WWexI9YiLSc,0.0,2017-09-12 20:09:06,True,True
+2017-09-12T20:11:35,"Wow,such originality",0,0,Mr. Shekelstein,WWexI9YiLSc,0.0,2017-09-12 20:11:35,True,True
+2017-09-12T20:12:03,Its him isn't it. He isn't supposed to be there?,0,0,Eli Harper,WWexI9YiLSc,0.0,2017-09-12 20:12:03,True,True
+2017-09-12T20:12:59,It's ok.. still gonna watch it,0,0,GeorgeErika,WWexI9YiLSc,0.5,2017-09-12 20:12:59,True,True
+2017-09-12T20:14:50,Vera Farmiga is the most underrated actress ever! I still hate the Emmys for not even nominating her for Season 5 of Bates Motel!,0,0,Söan M,WWexI9YiLSc,-0.1875,2017-09-12 20:14:50,True,True
+2017-09-12T20:15:20,"""good luck""",0,0,MEMES ON TOAST,WWexI9YiLSc,0.7,2017-09-12 20:15:20,True,True
+2017-09-12T20:15:24,Non stop meets source code and conjuring,0,0,Yudha Bagaskara,WWexI9YiLSc,0.0,2017-09-12 20:15:24,True,True
+2017-09-12T20:16:07,Liam Neeson will find her...and then he will kill her.. hopefully,0,0,Neel Katarnavare,WWexI9YiLSc,0.0,2017-09-12 20:16:07,True,True
+2017-09-12T20:17:06,So What kind of person are you?,0,0,Sajjad Anwer,WWexI9YiLSc,0.6,2017-09-12 20:17:06,True,True
+2017-09-12T20:17:38,It looks like to be amazing..,0,0,Dante Alighieri,WWexI9YiLSc,0.6000000000000001,2017-09-12 20:17:38,True,True
+2017-09-12T20:18:47,Next time it's gonna be on a boat I called it.,0,0,fasial king,WWexI9YiLSc,0.0,2017-09-12 20:18:47,True,True
+2017-09-12T20:23:35,🤢🤢🤢,0,0,Cory,WWexI9YiLSc,0.0,2017-09-12 20:23:35,True,True
+2017-09-12T20:25:18,Love it!!!!,0,0,Paras Sharma,WWexI9YiLSc,1.0,2017-09-12 20:25:18,True,True
+2017-09-12T20:27:50,IM NOT TRYING TO HOJACK THIS TRAIN IM TRYING TO SAVE IT?,3,0,C Millz,WWexI9YiLSc,0.0,2017-09-12 20:27:50,True,True
+2017-09-12T20:29:36,"If you watch this again, you will see the Nun .",7,1,Yu. S.,WWexI9YiLSc,0.0,2017-09-12 20:29:36,True,True
+2017-09-12T20:31:30,Nice Movie  I Like It,0,0,Lars 2020,WWexI9YiLSc,0.6,2017-09-12 20:31:30,True,True
+2017-09-12T20:31:41,Yay💃something much better than crap released before or  releasing hereafter .. 😏,0,0,The moving finger writes_ 226,WWexI9YiLSc,-0.15000000000000002,2017-09-12 20:31:41,True,True
+2017-09-12T20:32:30,Should have taken the bus,0,0,ScoobyDigits,WWexI9YiLSc,0.0,2017-09-12 20:32:30,True,True
+2017-09-12T20:33:13,and just imagine what would have happened if he didn't take the train that day,0,0,Vasun05,WWexI9YiLSc,0.0,2017-09-12 20:33:13,True,True
+2017-09-12T20:33:46,So basically it's non-stop on a train,0,0,Khal Drogo,WWexI9YiLSc,0.0,2017-09-12 20:33:46,True,True
+2017-09-12T20:34:55,The train just looks too fake for my taste,0,0,James Bond,WWexI9YiLSc,-0.5,2017-09-12 20:34:55,True,True
+2017-09-12T20:35:09,finally a movie with  Liam Neeson :D !!!,0,0,Rafail Apostolos Karachatzis,WWexI9YiLSc,0.5,2017-09-12 20:35:09,True,True
+2017-09-12T20:35:30,That vertigo effect tho,0,0,Harry Gray,WWexI9YiLSc,0.0,2017-09-12 20:35:30,True,True
+2017-09-12T20:40:04,January. Bad movie month. That's a bad sign.,1,0,TheHardMode,WWexI9YiLSc,-0.6999999999999998,2017-09-12 20:40:04,True,True
+2017-09-12T20:42:33,"Can totally relate, my commute is like this all the time.",10,0,Simon Mills,WWexI9YiLSc,0.0,2017-09-12 20:42:33,True,True
+2017-09-12T20:43:18,Looks cool,0,0,Conor Doyle,WWexI9YiLSc,0.35,2017-09-12 20:43:18,True,True
+2017-09-12T20:43:27,Non stop on a train got it,0,0,NGM Movies,WWexI9YiLSc,0.0,2017-09-12 20:43:27,True,True
+2017-09-12T20:47:10,Didn't he do this same movie but on a plane,0,0,Aaron Smith,WWexI9YiLSc,0.0,2017-09-12 20:47:10,True,True
+2017-09-12T20:47:56,Just here for Qui-Gon Jinn and Taken jokes.  Don't mind me,7,0,MrUrkel0730,WWexI9YiLSc,0.0,2017-09-12 20:47:56,True,True
+2017-09-12T20:49:01,I want to marry her 😍😍😍😍😍,0,0,Ｉｓｓａ ＭｉｋＥ,WWexI9YiLSc,0.0,2017-09-12 20:49:01,True,True
+2017-09-12T20:50:13,So it's Non-Stop on a train where he is the bad guy but not really. Awesome!,0,0,Christian Pearson,WWexI9YiLSc,-0.5999999999999999,2017-09-12 20:50:13,True,True
+2017-09-12T20:52:50,Looks dope,0,0,Pow Pow's Pepsi,WWexI9YiLSc,0.0,2017-09-12 20:52:50,True,True
+2017-09-12T20:54:57,YES! Looks great and trailer didn't show too much.,0,0,Swedish Otaku,WWexI9YiLSc,0.5,2017-09-12 20:54:57,True,True
+2017-09-12T20:55:28,non stop tho,0,0,M V,WWexI9YiLSc,0.0,2017-09-12 20:55:28,True,True
+2017-09-12T20:55:53,"Now thats a trailer! doesnt give too much away, keeps you interested. Nice!",0,0,Nick Schaeffler,WWexI9YiLSc,0.39999999999999997,2017-09-12 20:55:53,True,True
+2017-09-12T20:56:02,source code meets taken lol,0,0,Dave Fischer,WWexI9YiLSc,0.8,2017-09-12 20:56:02,True,True
+2017-09-12T20:59:16,"Whelp, its happened. Hes been typecast now.",0,0,BRAVO ACTUAL,WWexI9YiLSc,0.0,2017-09-12 20:59:16,True,True
+2017-09-12T20:59:43,Source code 2?,0,0,Joseph Caine,WWexI9YiLSc,0.0,2017-09-12 20:59:43,True,True
+2017-09-12T21:02:47,"Man, they are really milking Taken.",0,0,Wolfman's Got Nards,WWexI9YiLSc,0.2,2017-09-12 21:02:47,True,True
+2017-09-12T21:03:42,"What I do possess is a particular set of skills, which I can use even on a train!",0,0,xSMOKExEMxALLx,WWexI9YiLSc,0.20833333333333331,2017-09-12 21:03:42,True,True
+2017-09-12T21:04:23,"I'm calling it now, the one person that doesn't belong on the train is him",7,1,earthian11,WWexI9YiLSc,0.0,2017-09-12 21:04:23,True,True
+2017-09-12T21:06:03,Oh maaaan you never learn,0,0,Irakli Dvalishvili,WWexI9YiLSc,0.0,2017-09-12 21:06:03,True,True
+2017-09-12T21:06:26,VERA!!!!,11,0,Kevin Le,WWexI9YiLSc,0.0,2017-09-12 21:06:26,True,True
+2017-09-12T21:16:44,"Definitely gonna watch it for Vera, she's awesome",0,0,Wiktoria Korszlak,WWexI9YiLSc,0.5,2017-09-12 21:16:44,True,True
+2017-09-12T21:18:05,Getting some serious Source Code vibes,0,0,Conor Roberts,WWexI9YiLSc,-0.3333333333333333,2017-09-12 21:18:05,True,True
+2017-09-12T21:20:01,Nonstop 2: the commuter,0,0,shinistrue,WWexI9YiLSc,0.0,2017-09-12 21:20:01,True,True
+2017-09-12T21:20:10,"Now he's on a train; next is a ship, then a submarine.",19,2,PrankCaster,WWexI9YiLSc,0.0,2017-09-12 21:20:10,True,True
+2017-09-12T21:25:43,She may have skills in human behaviour. But she forgets... He has a very particular set of skills.,51,0,Officer K,WWexI9YiLSc,0.10833333333333334,2017-09-12 21:25:43,True,True
+2017-09-12T21:26:07,Liam is the goat.,0,0,Renzo Harris,WWexI9YiLSc,0.0,2017-09-12 21:26:07,True,True
+2017-09-12T21:28:09,Where the deuce is patrick wilson?,4,0,TheFlickinCritic,WWexI9YiLSc,0.0,2017-09-12 21:28:09,True,True
+2017-09-12T21:29:31,The commuter The passenger The driver (Probably  next movie?),7,0,John Roman Panganiban,WWexI9YiLSc,0.0,2017-09-12 21:29:31,True,True
+2017-09-12T21:29:34,Give up Liam,0,0,Mr Chuck Peterson,WWexI9YiLSc,0.0,2017-09-12 21:29:34,True,True
+2017-09-12T21:31:31,The Man on the Train,0,0,Kevin Carolan,WWexI9YiLSc,0.0,2017-09-12 21:31:31,True,True
+2017-09-12T21:32:34,so Non-Stop but on train?,0,0,Grobar Jug,WWexI9YiLSc,0.0,2017-09-12 21:32:34,True,True
+2017-09-12T21:34:19,Non-Stop 2 : The train,0,0,SAM THE APOLLO WOLF,WWexI9YiLSc,0.0,2017-09-12 21:34:19,True,True
+2017-09-12T21:34:42,But great movie trailer though,0,0,SAM THE APOLLO WOLF,WWexI9YiLSc,0.8,2017-09-12 21:34:42,True,True
+2017-09-12T21:35:34,His Train got TAKEN,0,0,iShivy,WWexI9YiLSc,0.0,2017-09-12 21:35:34,True,True
+2017-09-12T21:36:11,i got a movie idea: Liam Neeson on a bus,0,0,Polak Polanski,WWexI9YiLSc,0.0,2017-09-12 21:36:11,True,True
+2017-09-12T21:36:34,Wow it's been a while since I've seen Liam Neeson in a movie.,0,0,Ben Jensen,WWexI9YiLSc,0.1,2017-09-12 21:36:34,True,True
+2017-09-12T21:39:02,Why is she always bothering celebrities on trains? First Jake Gyllenhaal and now liam neeson.,0,0,Sham Sher,WWexI9YiLSc,0.25,2017-09-12 21:39:02,True,True
+2017-09-12T21:41:48,Finally a ''Liam Neeson'' movie again !!!!,0,0,GameStellar,WWexI9YiLSc,0.0,2017-09-12 21:41:48,True,True
+2017-09-12T21:47:24,Reminded me of snowpiercer for some reason,0,0,DarkSkull,WWexI9YiLSc,0.0,2017-09-12 21:47:24,True,True
+2017-09-12T21:48:42,The annual Liam Neeson high concept thriller. My guilty pleasure.,0,0,WarlordRising,WWexI9YiLSc,-0.16999999999999998,2017-09-12 21:48:42,True,True
+2017-09-12T21:51:46,I absolutely love movies like this. Bring it on.,0,0,Superman Steve,WWexI9YiLSc,0.5,2017-09-12 21:51:46,True,True
+2017-09-12T21:52:38,"I probably wouldn't want to see this movie if it were for one thing...  In almost all of Liam's recent action movies, he's FORCED to do his actions. But in this one, as the strange woman beautifully says, ""What kind of a person are you?"" And ""No one forced you to take that money.""  It's stuff like that that gets me excited. And with Liam in this kind of movie... TAKE MY MONEY!",0,0,Zavarious,WWexI9YiLSc,0.22499999999999995,2017-09-12 21:52:38,True,True
+2017-09-12T21:53:09,1:18 that's the Terminator theme wtf,0,0,Logan Boice,WWexI9YiLSc,-0.5,2017-09-12 21:53:09,True,True
+2017-09-12T21:53:43,next in cruise,0,0,Branwve,WWexI9YiLSc,0.0,2017-09-12 21:53:43,True,True
+2017-09-12T21:53:46,Looks like taken but with rush hour,0,0,Justin Fencsak,WWexI9YiLSc,0.0,2017-09-12 21:53:46,True,True
+2017-09-12T21:54:57,When he holds that phone its like taken all over again 😂😂,18,0,Joseph Kitembo,WWexI9YiLSc,0.0,2017-09-12 21:54:57,True,True
+2017-09-12T22:02:35,Good to see Norma Bates again.,0,0,FC Schaeffer,WWexI9YiLSc,0.7,2017-09-12 22:02:35,True,True
+2017-09-12T22:04:51,Would you kindly,0,0,Knight Wing,WWexI9YiLSc,0.6,2017-09-12 22:04:51,True,True
+2017-09-12T22:07:47,So he retired as an Air Marshal and started travelling on trains,3,0,Khizee Naweed,WWexI9YiLSc,0.0,2017-09-12 22:07:47,True,True
+2017-09-12T22:09:10,Can't wait 😊,0,0,Betey Tasew,WWexI9YiLSc,0.0,2017-09-12 22:09:10,True,True
+2017-09-12T22:09:17,People really need to stop messing with this guy.... Just take a look at his kill count,0,0,Loading...,WWexI9YiLSc,0.2,2017-09-12 22:09:17,True,True
+2017-09-12T22:11:30,Vera as a villain? oh my!!!,12,0,Jesus Christ,WWexI9YiLSc,0.0,2017-09-12 22:11:30,True,True
+2017-09-12T22:14:59,Liam Neeson is turning into Bill Nighy,0,0,wawustv,WWexI9YiLSc,0.0,2017-09-12 22:14:59,True,True
+2017-09-12T22:15:34,non-stop [train version],0,0,leadspot,WWexI9YiLSc,0.0,2017-09-12 22:15:34,True,True
+2017-09-12T22:15:46,Interesting!,0,0,bogdanich375,WWexI9YiLSc,0.625,2017-09-12 22:15:46,True,True
+2017-09-12T22:16:25,She's the one that doesn't belong on the train,0,0,Spetzy,WWexI9YiLSc,0.0,2017-09-12 22:16:25,True,True
+2017-09-12T22:19:40,So it's Taken? With a train,0,0,JL Smith,WWexI9YiLSc,0.0,2017-09-12 22:19:40,True,True
+2017-09-12T22:20:44,"You've seen Taken on a boat You've seen Non-stop on a plane  Now Liam Neeson continues his war against motorised transport  (Alright, so you probably haven't seen Non-stop)",0,0,Matthew Zeffertt,WWexI9YiLSc,0.0,2017-09-12 22:20:44,True,True
+2017-09-12T22:23:03,I will take the $75000 And i will find you,0,0,JASON SKYWALKER,WWexI9YiLSc,0.0,2017-09-12 22:23:03,True,True
+2017-09-12T22:24:41,Non-Stop but on a train:)😂,2,0,AwesomeGuy Peter,WWexI9YiLSc,0.0,2017-09-12 22:24:41,True,True
+2017-09-12T22:25:21,This ditector has consintantly put out not great but good action movies and Im really happy he does because theyre exactly the kind of time wasters I want in my life,0,0,Pontus IFALLATT,WWexI9YiLSc,0.3416666666666666,2017-09-12 22:25:21,True,True
+2017-09-12T22:31:04,"Saw the Liam and then saw the title of the movie and my first thought was ""Commuter/Taken 4: You Took My Parking Spot.""",3,0,stonecoldku,WWexI9YiLSc,0.25,2017-09-12 22:31:04,True,True
+2017-09-12T22:36:44,He should've taken the plan... Wait never mind,0,0,Dan 1,WWexI9YiLSc,0.0,2017-09-12 22:36:44,True,True
+2017-09-12T22:41:25,The reason for clicking on this video and most likely watching this movie: Liam Neeson can literally do no wrong.😐😏😎,0,0,Taylor M,WWexI9YiLSc,0.25,2017-09-12 22:41:25,True,True
+2017-09-12T22:43:26,Lol literally non stop on a train,0,0,Film Lovin' American,WWexI9YiLSc,0.8,2017-09-12 22:43:26,True,True
+2017-09-12T22:47:39,I will watch it.,0,0,sarah michel,WWexI9YiLSc,0.0,2017-09-12 22:47:39,True,True
+2017-09-12T22:51:06,VERA😍😍😍,12,0,luvletter93,WWexI9YiLSc,0.0,2017-09-12 22:51:06,True,True
+2017-09-12T22:52:35,Want to watch this but Maze runner 3 is in January,0,0,Gaming orb 841,WWexI9YiLSc,0.0,2017-09-12 22:52:35,True,True
+2017-09-12T22:52:41,January release date huh? The studio must have a lot of confidence in this film.,0,0,Billy Batson,WWexI9YiLSc,0.0,2017-09-12 22:52:41,True,True
+2017-09-12T22:52:54,Non-stop in a  train,0,0,Somehowlucky122 -,WWexI9YiLSc,0.0,2017-09-12 22:52:54,True,True
+2017-09-12T22:53:51,liam... please stop taking these roles plaese,0,0,mnash,WWexI9YiLSc,0.0,2017-09-12 22:53:51,True,True
+2017-09-12T22:55:15,I just wanna see Liam Neeson karate chop people in the neck!,0,0,Lieutenant Scrotes,WWexI9YiLSc,0.0,2017-09-12 22:55:15,True,True
+2017-09-12T22:55:52,this reminds me of this great movie with jake gylanhall and conveniently enough vera farmiga.its called......source code,9,1,TheChodenOne,WWexI9YiLSc,0.4,2017-09-12 22:55:52,True,True
+2017-09-12T23:04:43,Same movie over and over and over,0,0,11ll11l1ll111l1,WWexI9YiLSc,0.0,2017-09-12 23:04:43,True,True
+2017-09-12T23:05:05,"Where is that lady from, I swear she's in a movie I've seen before",0,1,Alex Aguirre,WWexI9YiLSc,0.0,2017-09-12 23:05:05,True,True
+2017-09-12T23:11:24,"When I first saw Liam neeson face , I was like dam who are they going to kidnap this time",0,0,APPLE Job,WWexI9YiLSc,0.25,2017-09-12 23:11:24,True,True
+2017-09-12T23:17:57,what she didnt know is Liam Neeson has acquired a particular set of skills. skills that make him a nightmare for people like her. skills he acquired by sitting on a train doing nothing for the last 10 years. Liam Neeson will do nothing. good luck.,0,0,Smithy Holm,WWexI9YiLSc,0.28888888888888886,2017-09-12 23:17:57,True,True
+2017-09-12T23:19:28,BWAAAAAAAAAAAAAAAAAAAAAAAAAAH [dialog dialog dialog] BWAAAAAAAAAAAAAAAAAAAAAAAAAAH,0,0,Mark Brockman,WWexI9YiLSc,0.0,2017-09-12 23:19:28,True,True
+2017-09-12T23:21:28,im in love with vera farmiga,0,0,Chicken Finger,WWexI9YiLSc,0.5,2017-09-12 23:21:28,True,True
+2017-09-12T23:25:09,IM HERE FOR VERA YES 👏🏼👏🏼,9,0,lustrxous,WWexI9YiLSc,0.0,2017-09-12 23:25:09,True,True
+2017-09-12T23:28:27,I love the comments on here :),0,0,Hikari Sakai,WWexI9YiLSc,0.5,2017-09-12 23:28:27,True,True
+2017-09-12T23:31:57,so i'm guessing this is pretty much the movie Non-Stop  that he did but just on a train this time,0,0,Daniel Young,WWexI9YiLSc,0.225,2017-09-12 23:31:57,True,True
+2017-09-12T23:32:49,Excuse me - Is this seat...Taken?,125,0,Wotsma Naym,WWexI9YiLSc,-0.05,2017-09-12 23:32:49,True,True
+2017-09-12T23:33:58,Taken 5: On a Train,0,0,The_BigfootJr,WWexI9YiLSc,0.0,2017-09-12 23:33:58,True,True
+2017-09-12T23:34:35,TAKEN 4?,0,0,Jem-Kimber-Aja-Shana,WWexI9YiLSc,0.0,2017-09-12 23:34:35,True,True
+2017-09-12T23:37:52,I have a shertain shet of shkillsh,0,0,Shodan Cat,WWexI9YiLSc,0.0,2017-09-12 23:37:52,True,True
+2017-09-12T23:42:42,I would of taken that money and jump off the train.,0,0,jason4275,WWexI9YiLSc,0.0,2017-09-12 23:42:42,True,True
+2017-09-12T23:47:07,When will people learn to stop fking with Liam Neeson?!,0,0,ernesto garcia,WWexI9YiLSc,0.0,2017-09-12 23:47:07,True,True
+2017-09-12T23:48:32,Taken: the train.,0,0,SignedWithBlood,WWexI9YiLSc,0.0,2017-09-12 23:48:32,True,True
+2017-09-12T23:49:02,"wait, I spotted King Tommen.",0,0,Ilham Mahendra Makalalag,WWexI9YiLSc,0.0,2017-09-12 23:49:02,True,True
+2017-09-12T23:50:39,Flight Plan 2: The Train,0,0,LF Batman,WWexI9YiLSc,0.0,2017-09-12 23:50:39,True,True
+2017-09-12T23:55:29,Oh snap. Liam Neeson is back. But he's not killing anybody in this trailer.  DING!,0,0,Omar Harris,WWexI9YiLSc,0.0,2017-09-12 23:55:29,True,True
+2017-09-13T00:00:16,"this is just like non stop but on a train instead of a plane, now i cant wat till january...",0,0,GamingPredator,WWexI9YiLSc,0.0,2017-09-13 00:00:16,True,True
+2017-09-13T00:00:30,The Computer,0,0,KrosseKrabbeCrew,WWexI9YiLSc,0.0,2017-09-13 00:00:30,True,True
+2017-09-13T00:08:43,Liam's Neesons,0,0,"Hi, Neighbor!",WWexI9YiLSc,0.0,2017-09-13 00:08:43,True,True
+2017-09-13T00:16:01,How many kids has this man had?,0,0,LIQUID EAGLE,WWexI9YiLSc,0.5,2017-09-13 00:16:01,True,True
+2017-09-13T00:20:06,Tommen Lannister always pays his debts!,1,0,Casey Ryan,WWexI9YiLSc,0.0,2017-09-13 00:20:06,True,True
+2017-09-13T00:36:28,"No, just no.....",0,0,Evil Droid,WWexI9YiLSc,0.0,2017-09-13 00:36:28,True,True
+2017-09-13T00:39:56,Looks like Source Code meets Non-Stop. And I'm not just saying that because 1. Train & Farmiga 2. Liam Neeson and Director.,2,0,DJGamingSmash,WWexI9YiLSc,0.0,2017-09-13 00:39:56,True,True
+2017-09-13T00:48:50,Zeus,0,0,Mighty Boomerang,WWexI9YiLSc,0.0,2017-09-13 00:48:50,True,True
+2017-09-13T00:55:20,"Whelp it would have ended in seconds for me. I would have walked away from her, before she was done talking by calling her on her bs.",0,0,JustPassNbye,WWexI9YiLSc,0.0,2017-09-13 00:55:20,True,True
+2017-09-13T00:57:22,"I've seen this movie in Burma, Kansas and when he kills the president with a tape roll it it was an epic first half of the movie.",0,0,toolizawesome,WWexI9YiLSc,0.06111111111111111,2017-09-13 00:57:22,True,True
+2017-09-13T01:12:03,"Non Stop= plane, The Commuter= Train, what is gonna drop in 2019? The Cruise?",0,0,Punta Rahadi,WWexI9YiLSc,0.0,2017-09-13 01:12:03,True,True
+2017-09-13T01:14:06,I'm still waiting for his standup comedy show,0,0,A Bittersweet Life,WWexI9YiLSc,0.0,2017-09-13 01:14:06,True,True
+2017-09-13T01:20:23,Liam Neason in .... The Train,0,0,DDMco123,WWexI9YiLSc,0.0,2017-09-13 01:20:23,True,True
+2017-09-13T01:22:48,She's s great actress,0,0,Tdis01,WWexI9YiLSc,0.8,2017-09-13 01:22:48,True,True
+2017-09-13T01:23:06,Non stop plan = non stop train wow,0,0,Naseer Alrifay,WWexI9YiLSc,0.1,2017-09-13 01:23:06,True,True
+2017-09-13T01:23:49,Non-Stop 2: Next Stop,0,0,Jordan Jones,WWexI9YiLSc,0.0,2017-09-13 01:23:49,True,True
+2017-09-13T01:25:57,Non-Stop: Train Edition,0,0,Thomas O.,WWexI9YiLSc,0.0,2017-09-13 01:25:57,True,True
+2017-09-13T01:29:07,The source code part 2,0,0,AJ Films,WWexI9YiLSc,0.0,2017-09-13 01:29:07,True,True
+2017-09-13T01:35:52,WTF this is like murder on the orient express 🤔,0,0,Virgilio,WWexI9YiLSc,-0.5,2017-09-13 01:35:52,True,True
+2017-09-13T01:40:01,The thumbnail is weird..,0,0,V Sen,WWexI9YiLSc,-0.5,2017-09-13 01:40:01,True,True
+2017-09-13T01:48:33,I've always wondered what Strangers on a Train would be like as an action movie. XD,0,0,Agrellar,WWexI9YiLSc,0.1,2017-09-13 01:48:33,True,True
+2017-09-13T01:54:41,"Perfect trailer, has me intrigued but didn't give away too much plot 👍",0,0,Humbug and Twig,WWexI9YiLSc,0.6,2017-09-13 01:54:41,True,True
+2017-09-13T01:56:40,"First a plane and now a train He can't go anywhere he should just stay home, oh thats right if he stays home they take his kid.",0,0,Tyler Kowalczyk,WWexI9YiLSc,0.26785714285714285,2017-09-13 01:56:40,True,True
+2017-09-13T02:00:07,tommen wtf ?,0,0,isorenx,WWexI9YiLSc,-0.5,2017-09-13 02:00:07,True,True
+2017-09-13T02:00:07,"I'm a simple man, I see Liam Neeson I click.",1,0,World Reject,WWexI9YiLSc,0.0,2017-09-13 02:00:07,True,True
+2017-09-13T02:01:20,Non-stop: The Commuter?,0,0,timmy yong,WWexI9YiLSc,0.0,2017-09-13 02:01:20,True,True
+2017-09-13T02:06:13,"Lets see, he's already done the plane movie, doing the train in this movie, I believe next will be the automobile 👌🏽",7,2,Cyphera,WWexI9YiLSc,0.0,2017-09-13 02:06:13,True,True
+2017-09-13T02:14:25,"finally put something good on this channel unlike my little pony, random video of pennywise screaming, and etc.",0,0,Jaime Segura,WWexI9YiLSc,0.003124999999999989,2017-09-13 02:14:25,True,True
+2017-09-13T02:15:47,NON STOP 2: train highway,0,0,Leonardo Pedraza Arias,WWexI9YiLSc,0.0,2017-09-13 02:15:47,True,True
+2017-09-13T02:16:59,"On a plane, in a train, in a car; He will find you..           And he will kill you",0,0,d0st,WWexI9YiLSc,0.0,2017-09-13 02:16:59,True,True
+2017-09-13T02:20:57,non-stop on the train,1,0,Vasili Vroulis,WWexI9YiLSc,0.0,2017-09-13 02:20:57,True,True
+2017-09-13T02:28:28,"I'm a man of simple principles. I see Liam Neeson in a thumbnail, I click.",0,0,Eli Davis,WWexI9YiLSc,0.0,2017-09-13 02:28:28,True,True
+2017-09-13T02:46:33,"GREAT WHAT DOES ""LIAM NEESON"" GET TAKEN AWAY FROM HIM THIS TIME ?",0,0,Soul Assassin,WWexI9YiLSc,0.8,2017-09-13 02:46:33,True,True
+2017-09-13T02:59:27,It's Non-stop Unknown all over again!,0,0,DaiLou,WWexI9YiLSc,-0.125,2017-09-13 02:59:27,True,True
+2017-09-13T03:01:22,"Unkown, Taken, Non stop, and now this. Bad luck Liam",0,0,clumsy fuk,WWexI9YiLSc,-0.6999999999999998,2017-09-13 03:01:22,True,True
+2017-09-13T03:06:57,Liam Neeson is Liam Neeson starring Leem Neeson on a Train,0,0,KOMOSKY,WWexI9YiLSc,0.0,2017-09-13 03:06:57,True,True
+2017-09-13T03:11:38,it looks like it will not be good at the box office,0,0,Movies Now,WWexI9YiLSc,0.7,2017-09-13 03:11:38,True,True
+2017-09-13T03:12:01,Calling it now. Vera Farmiga's character is not supposed to be on that train.,0,0,Deciding Chaos,WWexI9YiLSc,0.0,2017-09-13 03:12:01,True,True
+2017-09-13T03:17:38,1:19 Oh that's a good sign,0,0,supermariofan03,WWexI9YiLSc,0.7,2017-09-13 03:17:38,True,True
+2017-09-13T03:17:50,Good trailer.,0,0,SNJ,WWexI9YiLSc,0.7,2017-09-13 03:17:50,True,True
+2017-09-13T03:24:13,"It does look better than every throw away Liam Neeson action movie, I'll give it that, but it's coming out in January and that already brought down my excitement way low.",0,0,supermariofan03,WWexI9YiLSc,0.1111111111111111,2017-09-13 03:24:13,True,True
+2017-09-13T03:30:37,"Every time I see liam neeson, I always say to myself, ""who is he going to rescue this time."" Lmao Good actor tho.",0,0,jhohner man22,WWexI9YiLSc,0.6499999999999999,2017-09-13 03:30:37,True,True
+2017-09-13T03:34:00,Liam. The name is enough to watch the movie.,0,0,Rajesh Babu,WWexI9YiLSc,0.0,2017-09-13 03:34:00,True,True
+2017-09-13T03:40:57,Non stop 2,0,0,sai kiran,WWexI9YiLSc,0.0,2017-09-13 03:40:57,True,True
+2017-09-13T03:42:29,Liam Neeson's back everyone!!,0,0,Joshami !!,WWexI9YiLSc,0.0,2017-09-13 03:42:29,True,True
+2017-09-13T03:56:00,Taken in the train,0,0,Kenneth Sanez,WWexI9YiLSc,0.0,2017-09-13 03:56:00,True,True
+2017-09-13T04:01:48,Don't trust Norma Bates.,58,5,N G,WWexI9YiLSc,0.0,2017-09-13 04:01:48,True,True
+2017-09-13T04:01:51,Now this is a good trailer and not a trailer which shows the full plot.,0,0,V Sen,WWexI9YiLSc,0.5249999999999999,2017-09-13 04:01:51,True,True
+2017-09-13T04:01:52,0:16   *KING TOMMEN !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*,0,0,Ramses Amon RA,WWexI9YiLSc,0.0,2017-09-13 04:01:52,True,True
+2017-09-13T04:18:07,"Thought it said ""computer"" also, why didn't that chick get more naked in The Departed :(",0,0,Jaqen H'ghar,WWexI9YiLSc,-0.08333333333333333,2017-09-13 04:18:07,True,True
+2017-09-13T04:25:23,Liam should play Reed Richard aka mr fantastic,0,0,Abhinav Patle,WWexI9YiLSc,0.4,2017-09-13 04:25:23,True,True
+2017-09-13T04:29:39,"So it's ""Given"" now...",0,0,ironing man,WWexI9YiLSc,0.0,2017-09-13 04:29:39,True,True
+2017-09-13T04:44:51,Pretty sure she's the person on the train out of place,0,0,Bryce Shuster,WWexI9YiLSc,0.375,2017-09-13 04:44:51,True,True
+2017-09-13T04:51:22,Who will rescue the rescuer?,0,0,BELENOSSi,WWexI9YiLSc,0.0,2017-09-13 04:51:22,True,True
+2017-09-13T05:04:35,is all right,0,0,Game Tester,WWexI9YiLSc,0.2857142857142857,2017-09-13 05:04:35,True,True
+2017-09-13T05:06:17,zzzzzzzzzzzzzzzzzzzzzzz,0,0,Hito,WWexI9YiLSc,0.0,2017-09-13 05:06:17,True,True
+2017-09-13T05:10:42,This is gonna be good,0,0,L Simply L,WWexI9YiLSc,0.7,2017-09-13 05:10:42,True,True
+2017-09-13T05:34:54,Literally every Liam Neeson movie is him getting interrupted during his morning commute,0,0,Platinum Peyton,WWexI9YiLSc,0.0,2017-09-13 05:34:54,True,True
+2017-09-13T05:36:37,gay. didnt even watch it,0,0,Obed Suazo,WWexI9YiLSc,0.4166666666666667,2017-09-13 05:36:37,True,True
+2017-09-13T05:38:35,It's gonna be intense,0,0,Alex Boricua,WWexI9YiLSc,0.2,2017-09-13 05:38:35,True,True
+2017-09-13T05:42:37,You can't go wrong with Liam Neeson.,0,0,Robert Lim,WWexI9YiLSc,-0.5,2017-09-13 05:42:37,True,True
+2017-09-13T05:45:10,He could have just taken an Uber.,0,0,TheGreatGambino,WWexI9YiLSc,0.0,2017-09-13 05:45:10,True,True
+2017-09-13T05:45:57,Geez how long is his commute??,0,0,Sarah Lynn,WWexI9YiLSc,-0.05,2017-09-13 05:45:57,True,True
+2017-09-13T05:49:45,"Liam Neeson be like - ""I don't know who you are, I don't know what you want If you are looking for ransom, I have the money this time  But I can tell you this That I don't have a very particular set of skills this time too But still, I can give nightmares to people like you If you let me go now freely, that'll be the end of it, I will not look for you But if You don't then I will FIND YOU AND I WILL KILL YOU!",0,0,Anant Vijay Singh,WWexI9YiLSc,0.35833333333333334,2017-09-13 05:49:45,True,True
+2017-09-13T05:52:22,This looks oddly familiar 🤔,0,0,Just Jay,WWexI9YiLSc,0.375,2017-09-13 05:52:22,True,True
+2017-09-13T05:56:43,"I'm moving seats, don't speak crazy",0,0,Lance fisher,WWexI9YiLSc,-0.6,2017-09-13 05:56:43,True,True
+2017-09-13T05:59:42,GOOD LUCK,0,0,Francis Tuazon,WWexI9YiLSc,0.7,2017-09-13 05:59:42,True,True
+2017-09-13T06:09:28,"HELLO COMMUTERS. With your computers,",0,0,MilkNoSugar,WWexI9YiLSc,0.0,2017-09-13 06:09:28,True,True
+2017-09-13T06:13:45,NOOOOOORRRRMANNNN!,8,0,SpencerLevey,WWexI9YiLSc,0.0,2017-09-13 06:13:45,True,True
+2017-09-13T06:33:35,January Come Already!!!! Liam Neeson is the best!!! :D,0,0,Darth Latino,WWexI9YiLSc,1.0,2017-09-13 06:33:35,True,True
+2017-09-13T06:34:29,The girl was not even pretty so i will just say meh.,0,0,bajorjor1,WWexI9YiLSc,0.25,2017-09-13 06:34:29,True,True
+2017-09-13T06:53:24,Wow! This looks really good.,0,0,A B,WWexI9YiLSc,0.4125,2017-09-13 06:53:24,True,True
+2017-09-13T06:56:54,This is sad. Liam what are you doing? Why did you do this? This is a crappier version of every film you've done so far.,0,0,Maybe Human,WWexI9YiLSc,-0.2,2017-09-13 06:56:54,True,True
+2017-09-13T06:57:11,I will find you and I will take that money and run,0,0,TheSuperRay,WWexI9YiLSc,0.0,2017-09-13 06:57:11,True,True
+2017-09-13T07:01:43,Liam neeson should just stop using public transports,0,0,MrUtuber2012,WWexI9YiLSc,0.0,2017-09-13 07:01:43,True,True
+2017-09-13T07:01:44,Liam neeson should just stop using public transports,0,0,MrUtuber2012,WWexI9YiLSc,0.0,2017-09-13 07:01:44,True,True
+2017-09-13T07:10:16,Didn't he say he was done with these type of movies? Old people forget so quickly.,0,0,Gamerstyle808,WWexI9YiLSc,0.21666666666666667,2017-09-13 07:10:16,True,True
+2017-09-13T07:17:02,This could be either really good or really bad..,0,0,Josh The Emoticon,WWexI9YiLSc,5.551115123125783e-17,2017-09-13 07:17:02,True,True
+2017-09-13T07:18:28,wow a trailer that doesn't give away the whole movie!,0,0,11Anti11,WWexI9YiLSc,0.175,2017-09-13 07:18:28,True,True
+2017-09-13T07:19:19,looks great,0,0,Observing In Esports - ID,WWexI9YiLSc,0.8,2017-09-13 07:19:19,True,True
+2017-09-13T07:31:52,The king of action thriller is back baby! 😁,13,0,gr4yw4rd3n,WWexI9YiLSc,0.05,2017-09-13 07:31:52,True,True
+2017-09-13T07:44:27,"I see Liam, I upvote!",1,0,Marylen S Bulsao,WWexI9YiLSc,0.0,2017-09-13 07:44:27,True,True
+2017-09-13T07:58:50,At the end of the movie his alarm goes off and he wakes up the end,0,0,robc009,WWexI9YiLSc,0.0,2017-09-13 07:58:50,True,True
+2017-09-13T08:31:04,didn't he already do this on a plane?,0,0,George Ainsley,WWexI9YiLSc,0.0,2017-09-13 08:31:04,True,True
+2017-09-13T08:40:45,Yeah.. I'll watch anything that Liam Neeson is in.,4,0,Chadchol Meesaeng,WWexI9YiLSc,0.0,2017-09-13 08:40:45,True,True
+2017-09-13T08:58:27,WOAH WOAH.....Tommen? In modern? I'm probably on that weird side of youtube again?,0,0,D_ Daeani,WWexI9YiLSc,-0.15,2017-09-13 08:58:27,True,True
+2017-09-13T09:01:02,Here comes the Taken jokes XDDD,0,0,Lio Pm,WWexI9YiLSc,0.0,2017-09-13 09:01:02,True,True
+2017-09-13T09:03:04,They need to do a Liam Neeson movie that doesn't have Liam Neeson in it,0,0,KimoAmazin,WWexI9YiLSc,0.0,2017-09-13 09:03:04,True,True
+2017-09-13T09:18:58,Another film about Liam Neeson having problems with public transport. He should learn to drive.,0,0,Roo Stercogburn,WWexI9YiLSc,0.0,2017-09-13 09:18:58,True,True
+2017-09-13T09:31:45,About bloody time. I've been waiting for this trailer since the movie was announced nearly a year ago.,0,0,Exar Kun,WWexI9YiLSc,-0.35000000000000003,2017-09-13 09:31:45,True,True
+2017-09-13T09:39:05,Did anyone notice the Terminator tune at 01:19?,0,0,nigj1,WWexI9YiLSc,0.0,2017-09-13 09:39:05,True,True
+2017-09-13T09:45:14,"I don't know who you are, but i will find you, and i will kill you Lorraine Warren!",0,0,dkamil,WWexI9YiLSc,0.0,2017-09-13 09:45:14,True,True
+2017-09-13T10:07:09,Can someone explain that ? Is that copy of None Stop or sequel of None Stop ?,0,0,Mehmet Can,WWexI9YiLSc,0.0,2017-09-13 10:07:09,True,True
+2017-09-13T10:15:13,This is his last movie. Will definitely watch it.,2,0,GreenApples,WWexI9YiLSc,0.0,2017-09-13 10:15:13,True,True
+2017-09-13T10:34:57,The real cliffhanger here is.. will Liam Neesons fight wolves with bare hands in this one?,0,0,slvr_wh1sper,WWexI9YiLSc,0.125,2017-09-13 10:34:57,True,True
+2017-09-13T10:43:28,What is up with Liam Neeson with CellPhones and setting up stuff.,0,0,D-ROBMENSIONS,WWexI9YiLSc,0.0,2017-09-13 10:43:28,True,True
+2017-09-13T11:19:22,"I'm still excited as long Liam Nesson on the movie, even this movie looks like a Non-Stop",0,0,Andy Harfandy,WWexI9YiLSc,0.1625,2017-09-13 11:19:22,True,True
+2017-09-13T11:21:47,if Vera is here where's Patrick huh?,1,0,Peter Productions,WWexI9YiLSc,0.0,2017-09-13 11:21:47,True,True
+2017-09-13T11:23:21,Woa hdude they do trailers 6 months before movies come out now?,0,0,Boris,WWexI9YiLSc,0.0,2017-09-13 11:23:21,True,True
+2017-09-13T11:34:01,finally some old school action thriller !!,0,0,mohammad muzammil,WWexI9YiLSc,0.08541666666666665,2017-09-13 11:34:01,True,True
+2017-09-13T11:43:57,Surprised that nobody got taken in this trailer....,0,0,TandTProject,WWexI9YiLSc,0.1,2017-09-13 11:43:57,True,True
+2017-09-13T11:59:08,loooool yep he owns this genre now.,0,0,afro symphony,WWexI9YiLSc,0.0,2017-09-13 11:59:08,True,True
+2017-09-13T12:52:55,if its liam neeson i always accept,0,0,min yuna,WWexI9YiLSc,0.0,2017-09-13 12:52:55,True,True
+2017-09-13T12:54:55,"Liam Neeson in: ""That escalated quickly""",0,0,DCL87,WWexI9YiLSc,0.3333333333333333,2017-09-13 12:54:55,True,True
+2017-09-13T13:01:39,And here I was thinking she just wanted to bang him....,0,0,Mikey Mike,WWexI9YiLSc,0.0,2017-09-13 13:01:39,True,True
+2017-09-13T13:06:04,Non-Stop 2,0,0,Oliver White,WWexI9YiLSc,0.0,2017-09-13 13:06:04,True,True
+2017-09-13T13:18:09,Rainy day thriller,0,0,Will Common,WWexI9YiLSc,0.0,2017-09-13 13:18:09,True,True
+2017-09-13T13:38:22,"First he was set up in a plane, now in a train, so next should be a boat or did I miss that one XD",0,0,One Mad Gamer,WWexI9YiLSc,0.125,2017-09-13 13:38:22,True,True
+2017-09-13T13:40:11,excellent trailer,0,0,nandoughs,WWexI9YiLSc,1.0,2017-09-13 13:40:11,True,True
+2017-09-13T13:42:17,"Okay so obviously this takes place after they have kidnapped his daughter then his wife. As you can see because this must be his second marriage. Where I'm confused though, does this take place before working for the Irish Mob and working in Alaska or after??",0,0,J Nav,WWexI9YiLSc,0.019999999999999997,2017-09-13 13:42:17,True,True
+2017-09-13T13:48:27,The Taken Commuter.,0,0,Stephanie Mujan,WWexI9YiLSc,0.0,2017-09-13 13:48:27,True,True
+2017-09-13T13:52:17,This is pretty much just another Source Code movie,1,0,Lmclean89,WWexI9YiLSc,0.225,2017-09-13 13:52:17,True,True
+2017-09-13T13:54:22,He looks tinner,0,0,John,WWexI9YiLSc,0.0,2017-09-13 13:54:22,True,True
+2017-09-13T14:11:49,liam neeson kills people on a train the movie,0,0,Goblin Knight,WWexI9YiLSc,0.0,2017-09-13 14:11:49,True,True
+2017-09-13T14:38:29,Non stop : train edition,0,0,John the Greek,WWexI9YiLSc,0.0,2017-09-13 14:38:29,True,True
+2017-09-13T14:43:20,i love lim nison,2,0,Pradip Tribhuvan,WWexI9YiLSc,0.5,2017-09-13 14:43:20,True,True
+2017-09-13T14:46:37,"Couldn't happen in the UK. If you tried to start a conversation with a stranger, they'd look at you like you're insane and slowly edge away.",0,0,Adrian L,WWexI9YiLSc,-0.65,2017-09-13 14:46:37,True,True
+2017-09-13T14:53:42,Non - stop part 2!,0,0,Clark Miller,WWexI9YiLSc,0.0,2017-09-13 14:53:42,True,True
+2017-09-13T15:03:48,Here for Vera Farmiga!!,0,0,Ummyyyyyy,WWexI9YiLSc,0.0,2017-09-13 15:03:48,True,True
+2017-09-13T15:04:49,Yay Norma lives!! 😄,0,0,Ummyyyyyy,WWexI9YiLSc,0.0,2017-09-13 15:04:49,True,True
+2017-09-13T15:34:34,Maybe this is the best trailer of this year. Let's hope the movie is as good.,0,0,Sosa,WWexI9YiLSc,0.85,2017-09-13 15:34:34,True,True
+2017-09-13T15:41:43,Looks like the guy from Non Stop got cleaned up and had a couple of kids and then....got himself in to some similar mess. Liam Neeson just can't catch a break...,0,0,Abdul Basit,WWexI9YiLSc,-0.0875,2017-09-13 15:41:43,True,True
+2017-09-13T16:20:41,Taken in conjuring,0,0,Ultra Magnus,WWexI9YiLSc,0.0,2017-09-13 16:20:41,True,True
+2017-09-13T16:26:50,13 Sins?,0,0,DiarrheaChain,WWexI9YiLSc,0.0,2017-09-13 16:26:50,True,True
+2017-09-13T16:29:40,lol just dont take the money and movie is over and happy ending....,0,0,Evandro,WWexI9YiLSc,0.8,2017-09-13 16:29:40,True,True
+2017-09-13T16:32:15,Norma isnt dead!!!! L,0,0,Kyurue,WWexI9YiLSc,-0.48828125,2017-09-13 16:32:15,True,True
+2017-09-13T16:33:56,Give it a rest.,0,0,Walter Manhead,WWexI9YiLSc,0.0,2017-09-13 16:33:56,True,True
+2017-09-13T16:41:30,Source Code 2: Taken,0,0,Victor dARKO,WWexI9YiLSc,0.0,2017-09-13 16:41:30,True,True
+2017-09-13T16:42:40,Poor Liam.  Lets hope he never gets on the same bus with Sandra Bullock or Keanu Reeves.,0,0,yakuza01,WWexI9YiLSc,-0.2,2017-09-13 16:42:40,True,True
+2017-09-13T16:46:05,Wow..,0,0,James Carter,WWexI9YiLSc,0.1,2017-09-13 16:46:05,True,True
+2017-09-13T16:55:51,75K??? ill do it for 5k,0,0,Eduardo Mujica,WWexI9YiLSc,-0.5,2017-09-13 16:55:51,True,True
+2017-09-13T17:01:25,"For a moment I thought that he'll say: ""I will find you and I will kill you""",0,0,Фаррух Турсунходжаев,WWexI9YiLSc,0.0,2017-09-13 17:01:25,True,True
+2017-09-13T17:04:19,"Is it the Trailer for The Commuter Teaser, OR the Teaser Trailer for The Commuter?",0,0,Joseph S Hayden,WWexI9YiLSc,0.0,2017-09-13 17:04:19,True,True
+2017-09-13T17:45:33,Liam nesson looks looks olds,0,0,Dan,WWexI9YiLSc,0.0,2017-09-13 17:45:33,True,True
+2017-09-13T18:01:44,It is Liam Neeson...he will find you,0,0,Jatin Kathuria,WWexI9YiLSc,0.0,2017-09-13 18:01:44,True,True
+2017-09-13T18:17:44,Kind of looks like the movie Source Code.,4,0,Ak Penguin,WWexI9YiLSc,0.6,2017-09-13 18:17:44,True,True
+2017-09-13T18:25:05,Finally! was wondering when Taken 4 comes out..,0,0,Dewald,WWexI9YiLSc,0.0,2017-09-13 18:25:05,True,True
+2017-09-13T19:00:55,Can we say no to a movie with VERA FARMIGA???,47,5,o babadook,WWexI9YiLSc,0.0,2017-09-13 19:00:55,True,True
+2017-09-13T19:12:18,So Liam Neeson always gets bad luck every time he takes public transport.,0,0,Arnier van Bruno,WWexI9YiLSc,-0.3499999999999999,2017-09-13 19:12:18,True,True
+2017-09-13T19:36:13,Non-stop 2,0,0,Killa K2death,WWexI9YiLSc,0.0,2017-09-13 19:36:13,True,True
+2017-09-13T19:39:35,Calling it now.... the identity of the passenger he's trying to uncover.... will be himself.,1,0,gigawingbolt,WWexI9YiLSc,0.0,2017-09-13 19:39:35,True,True
+2017-09-13T19:40:44,Hasn't he done this movie already? Then called Non-Stop.,2,0,Carl Ekeroth,WWexI9YiLSc,0.0,2017-09-13 19:40:44,True,True
+2017-09-13T20:16:56,Just don't kill him when you find him,0,0,furrukhjamal00,WWexI9YiLSc,0.0,2017-09-13 20:16:56,True,True
+2017-09-13T20:47:53,Looks great....I just love movies like these.,2,0,jumbovs,WWexI9YiLSc,0.5,2017-09-13 20:47:53,True,True
+2017-09-13T20:55:14,Its just Norma messing with another guy's mind,0,0,SpacyGuy,WWexI9YiLSc,0.0,2017-09-13 20:55:14,True,True
+2017-09-13T20:59:32,The shallows. What a terrible movie. I have a feeling this will be bad.,0,0,cryhavoc,WWexI9YiLSc,-0.8499999999999999,2017-09-13 20:59:32,True,True
+2017-09-13T21:10:53,Non stop on a train,0,0,Marc Beresford,WWexI9YiLSc,0.0,2017-09-13 21:10:53,True,True
+2017-09-13T21:38:55,But if you touch her...,0,0,Armin Slisans,WWexI9YiLSc,0.0,2017-09-13 21:38:55,True,True
+2017-09-13T21:49:03,It's like that movie where he was on the plane. Now he is on a train.,0,0,E Middlebrooks,WWexI9YiLSc,0.0,2017-09-13 21:49:03,True,True
+2017-09-13T21:49:04,Non-stop 2?,0,0,Rooster2628,WWexI9YiLSc,0.0,2017-09-13 21:49:04,True,True
+2017-09-13T22:33:00,Who here just because vera farmigas in it,6,0,Karsen123 4,WWexI9YiLSc,0.0,2017-09-13 22:33:00,True,True
+2017-09-14T00:26:25,norman got too her,0,0,Al James,WWexI9YiLSc,0.0,2017-09-14 00:26:25,True,True
+2017-09-14T00:37:57,New taken looks goooood,0,0,Borat Nephelheim,WWexI9YiLSc,0.13636363636363635,2017-09-14 00:37:57,True,True
+2017-09-14T00:45:36,"Liam, and I'm there",0,0,Kay Kanganga,WWexI9YiLSc,0.0,2017-09-14 00:45:36,True,True
+2017-09-14T00:59:44,Don't ever mess with Liam Neeson! He will FOOK you up!,0,0,Anjana Devi Kumar MHT,WWexI9YiLSc,-0.2734375,2017-09-14 00:59:44,True,True
+2017-09-14T01:41:26,Liam Neesom looks so frail in that thumbnail. It's a damn shame,0,0,Roma nator,WWexI9YiLSc,0.0,2017-09-14 01:41:26,True,True
+2017-09-14T02:24:08,I will never ride with this guy!,0,0,papabossify,WWexI9YiLSc,0.0,2017-09-14 02:24:08,True,True
+2017-09-14T02:24:25,Negative comment.,0,0,M. Strain Jr.,WWexI9YiLSc,-0.3,2017-09-14 02:24:25,True,True
+2017-09-14T03:34:56,How many commutes does liam need to get to his destination? He's been on a plane now a train.,0,0,Vita Soy,WWexI9YiLSc,0.5,2017-09-14 03:34:56,True,True
+2017-09-14T04:51:19,1st an aeroplane now a train .... what's next!?,0,0,Altrickz,WWexI9YiLSc,0.0,2017-09-14 04:51:19,True,True
+2017-09-14T04:53:31,That's how you do a good trailer for a movie full with good actors 😊😊.,3,0,Odio Tutti,WWexI9YiLSc,0.5833333333333333,2017-09-14 04:53:31,True,True
+2017-09-14T05:09:14,I create video game music~please listen my track~thanks,0,0,zander Hsu,WWexI9YiLSc,-0.4,2017-09-14 05:09:14,True,True
+2017-09-14T05:22:58,"isn't this just that movie non stop but instead of a plane, its on a train? Well played then",0,0,RazBaybee,WWexI9YiLSc,0.0,2017-09-14 05:22:58,True,True
+2017-09-14T05:43:35,"Trying to think of a good Liam Neeson joke, but they're all taken",0,0,MrPeterPFL MovieReviews,WWexI9YiLSc,0.7,2017-09-14 05:43:35,True,True
+2017-09-14T06:22:33,"If they make another Taken movie, they should call it, Taken 4 Granted. Turns out, he had a long lost son name Grant and the first 3 Taken movies were his dreams. His dad is actually a drunken jerk, knows no kung fu and isn't a spy or whatever.",0,0,Swift blind justice,WWexI9YiLSc,0.06666666666666667,2017-09-14 06:22:33,True,True
+2017-09-14T06:54:18,Liam Neason stars in... Removed (bwaaaah),0,0,Captain Falcon,WWexI9YiLSc,0.0,2017-09-14 06:54:18,True,True
+2017-09-14T07:05:22,I adore Vera farmiga ..,4,0,Paulo Guzzon,WWexI9YiLSc,0.0,2017-09-14 07:05:22,True,True
+2017-09-14T07:25:32,not you again Liam Neeson ffs!,0,0,renato ramadhan,WWexI9YiLSc,0.0,2017-09-14 07:25:32,True,True
+2017-09-14T08:23:16,This looks awesome!!! Can't wait!!!,0,0,IceandMice,WWexI9YiLSc,1.0,2017-09-14 08:23:16,True,True
+2017-09-14T09:35:52,Plot twist - He's only dreaming after a long ride on train :-D,0,0,Kim Swang,WWexI9YiLSc,0.31666666666666665,2017-09-14 09:35:52,True,True
+2017-09-14T10:04:15,goddamit did someone kidnap his daughter again?,0,0,suvro sarkar,WWexI9YiLSc,0.0,2017-09-14 10:04:15,True,True
+2017-09-14T10:30:57,"Liam neeson just rolled over the rail lines ,under the running train . he is rajnikanth",0,0,Rituparna Dutta,WWexI9YiLSc,0.0,2017-09-14 10:30:57,True,True
+2017-09-14T13:44:51,Non-stop but on land.,1,0,iei,WWexI9YiLSc,0.0,2017-09-14 13:44:51,True,True
+2017-09-14T14:59:08,"Source code anyone? I mean it also has Vera in it, just saying.",0,0,Francisco Javier Aguirre,WWexI9YiLSc,-0.3125,2017-09-14 14:59:08,True,True
+2017-09-14T15:25:36,This is a cross between the movies 'Derailed' 'Source Code' and 'Face off',0,0,Marsha Creary,WWexI9YiLSc,0.0,2017-09-14 15:25:36,True,True
+2017-09-14T16:28:20,NON STOP REMAKE,0,0,Roxy Roy,WWexI9YiLSc,0.0,2017-09-14 16:28:20,True,True
+2017-09-14T17:01:19,He doesn't know her but still he would find her and kill her for trying to set him up,0,0,Milind Sagara,WWexI9YiLSc,0.0,2017-09-14 17:01:19,True,True
+2017-09-14T18:04:47,Vera Farmiga is such a good actress,5,0,Alex,WWexI9YiLSc,0.35,2017-09-14 18:04:47,True,True
+2017-09-14T21:38:22,Non stop on a train,0,0,Alex,WWexI9YiLSc,0.0,2017-09-14 21:38:22,True,True
+2017-09-14T22:20:55,Better than snakes on the plane!!,0,0,karma.,WWexI9YiLSc,0.78125,2017-09-14 22:20:55,True,True
+2017-09-14T22:24:45,Liam Neeson doesnt have the 1 liner that he does in Taken... booooooooooooooooooooooooooooo,0,0,gd6noob,WWexI9YiLSc,0.0,2017-09-14 22:24:45,True,True
+2017-09-14T23:04:16,"This b* don't know who she's messing with... He's got a ""particular"" set of skills, ya know.",0,0,Leonidas GGG,WWexI9YiLSc,0.16666666666666666,2017-09-14 23:04:16,True,True
+2017-09-15T00:02:59,somebodys always trying to set him up,0,0,Madara Uchia,WWexI9YiLSc,0.0,2017-09-15 00:02:59,True,True
+2017-09-15T01:27:40,Soooo taken but on a train?,0,0,Dj C,WWexI9YiLSc,0.0,2017-09-15 01:27:40,True,True
+2017-09-15T02:44:05,"Wow Liam looks much older in this film, it made me sad. I wish all talented and genuine actors like Liam stays young forever",0,0,lone rider,WWexI9YiLSc,0.16111111111111112,2017-09-15 02:44:05,True,True
+2017-09-15T03:25:22,I love Liam movies. But he's become a bit of a one trick pony.,0,0,Christine A,WWexI9YiLSc,0.5,2017-09-15 03:25:22,True,True
+2017-09-15T03:32:31,I'm so there 👍👍👍👍,0,0,Jerry Mathis,WWexI9YiLSc,0.0,2017-09-15 03:32:31,True,True
+2017-09-15T07:18:20,"Given that there was his wife's ring in the envelope, yes, his wife was definitely Taken.",0,0,Aniv Khawaunju,WWexI9YiLSc,0.0,2017-09-15 07:18:20,True,True
+2017-09-15T09:12:00,I hope this train doesn't go to the Grey...,0,0,dlj9178,WWexI9YiLSc,-0.05,2017-09-15 09:12:00,True,True
+2017-09-15T11:56:14,before watchin classic liam neeson after watchin ah another nice film with liam neeson,0,0,14manga,WWexI9YiLSc,0.3833333333333333,2017-09-15 11:56:14,True,True
+2017-09-15T13:10:58,"okay first of all can we acknowledge that this guy is like, what, 63 years old and he's still doing stunt movies like this? I'm cheering him on all the way he's really good  and wow australia's featured in this go australia",0,0,dawn,WWexI9YiLSc,0.32999999999999996,2017-09-15 13:10:58,True,True
+2017-09-15T13:55:13,Well that escalated quickly,0,0,Tom Thumb,WWexI9YiLSc,0.3333333333333333,2017-09-15 13:55:13,True,True
+2017-09-15T14:32:55,New and nicer try this time. better luck opponent.,0,0,KSA Saami,WWexI9YiLSc,0.3181818181818182,2017-09-15 14:32:55,True,True
+2017-09-15T15:16:21,blow identification whatever stop until tear press wise commitment emotion.,0,0,jonathan schulte,WWexI9YiLSc,0.7,2017-09-15 15:16:21,True,True
+2017-09-15T17:16:10,Liam Neeson looks skinny here...,0,0,TheRichSeven,WWexI9YiLSc,0.0,2017-09-15 17:16:10,True,True
+2017-09-16T03:01:25,Looks cool enough but why are the cool shots in the trailer obvious cgi? His face at the end and a shot of the passengers.,0,0,Nizzle Prizzle,WWexI9YiLSc,0.175,2017-09-16 03:01:25,True,True
+2017-09-16T05:05:37,"I love the shallow, so i gonna love this from same guy that make it :D",0,0,Muhd Raziq,WWexI9YiLSc,0.33333333333333337,2017-09-16 05:05:37,True,True
+2017-09-16T05:20:36,Norma Bates!,5,0,Caffeinated Nation,WWexI9YiLSc,0.0,2017-09-16 05:20:36,True,True
+2017-09-16T07:50:50,This reminds me of source code,0,0,Multi fandom,WWexI9YiLSc,0.0,2017-09-16 07:50:50,True,True
+2017-09-16T07:51:07,Where is patric Wilson ?,0,0,Multi fandom,WWexI9YiLSc,0.0,2017-09-16 07:51:07,True,True
+2017-09-16T09:48:59,Vera Farmiga 💙,7,0,Hannah Phillips,WWexI9YiLSc,0.0,2017-09-16 09:48:59,True,True
+2017-09-16T13:09:25,Anyone movie with Liam nesson is a good movie,0,0,CeeJayy8Beats,WWexI9YiLSc,0.7,2017-09-16 13:09:25,True,True
+2017-09-16T16:44:16,Its 2017 and people still want to mess with Liam Neeson?,0,0,Nd Sempai,WWexI9YiLSc,-0.175,2017-09-16 16:44:16,True,True
+2017-09-16T17:01:25,He's going to retire.   Action thrillers will never be the same!!!,0,0,MarkDavidson / M__ZIME - GB&NI,WWexI9YiLSc,0.05,2017-09-16 17:01:25,True,True
+2017-09-16T18:37:12,"I was kind of excited for this until it said ""January"" and ""Non-Stop""",0,0,BarcelonaDude6,WWexI9YiLSc,0.4875,2017-09-16 18:37:12,True,True
+2017-09-16T22:19:03,ayyy nice to see her again. The polite and crazy Vera Farmiga!,0,0,dE3R3ckaN3rd,WWexI9YiLSc,-0.07500000000000001,2017-09-16 22:19:03,True,True
+2017-09-17T09:30:05,Wonder hw he chooses scripts??,0,0,Ramesh Prabhu,WWexI9YiLSc,0.0,2017-09-17 09:30:05,True,True
+2017-09-17T15:40:33,"A man is TAKEN on a ride AMONG THE TOMBSTONES that'll RUN ALL NIGHT.  A man TAKEN 2 a place UNKNOWN, a man that has TAKEN 3 years to forget his past... he is THE COMMUTER!",0,0,nativewood,WWexI9YiLSc,-0.20625,2017-09-17 15:40:33,True,True
+2017-09-17T20:24:00,LIAM is back :D,0,0,Marcus,WWexI9YiLSc,0.5,2017-09-17 20:24:00,True,True
+2017-09-17T22:11:34,"Liam Neeson's in it, take my money!!",0,0,Kevin Condna,WWexI9YiLSc,0.0,2017-09-17 22:11:34,True,True
+2017-09-17T23:19:46,Looks interesting and original. Sooo when we gonna get that Taken/John Wick team up movie???,0,0,Jacob ibarra,WWexI9YiLSc,0.4375,2017-09-17 23:19:46,True,True
+2017-09-18T02:59:59,Somebody should stop giving out his business card... Switch off his phone... Consider Video Chat from Home...,0,0,Alatha Madyaka,WWexI9YiLSc,0.0,2017-09-18 02:59:59,True,True
+2017-09-18T03:15:00,"""Good Luck"" - Marco from Tropoja",0,0,Kevin Garrido,WWexI9YiLSc,0.7,2017-09-18 03:15:00,True,True
+2017-09-18T08:06:41,Source Code + Non-Stop,1,0,Matthew Davis,WWexI9YiLSc,0.0,2017-09-18 08:06:41,True,True
+2017-09-18T11:38:29,"Kinda wish it didn't come out in January. Usually a poor month for new releases. Hopefully the director and the cast, which I like, deliver cause it looks intriguing.",0,0,Tiago Cruz,WWexI9YiLSc,0.012121212121212125,2017-09-18 11:38:29,True,True
+2017-09-18T19:24:08,so it's *Non-Stop 2* ?,0,0,Zack Brangen,WWexI9YiLSc,0.0,2017-09-18 19:24:08,True,True
+2017-09-19T00:30:32,"January, we meet again.",0,0,Trev 8,WWexI9YiLSc,0.0,2017-09-19 00:30:32,True,True
+2017-09-19T03:43:44,Ugh. Vera Farmiga is so hot.,9,1,Josh McNair,WWexI9YiLSc,0.25,2017-09-19 03:43:44,True,True
+2017-09-19T04:09:03,FFS. These train movies are bad,0,0,ovomaji,WWexI9YiLSc,-0.6999999999999998,2017-09-19 04:09:03,True,True
+2017-09-19T13:05:02,THE LIAM NEESSOONSS THO! ~,0,0,PJ Desierto,WWexI9YiLSc,0.0,2017-09-19 13:05:02,True,True
+2017-09-19T15:32:54,Never travel with Liam Nesson.......,12,0,Diptendu Mukherjee,WWexI9YiLSc,0.0,2017-09-19 15:32:54,True,True
+2017-09-20T05:18:45,Super trailer really 👌🏻👏🏻👏🏻👏🏻👏🏻👏🏻,1,0,Alan Parker,WWexI9YiLSc,0.26666666666666666,2017-09-20 05:18:45,True,True
+2017-09-20T17:53:12,it's just a prank,0,0,Ricardo Almeida,WWexI9YiLSc,0.0,2017-09-20 17:53:12,True,True
+2017-09-21T17:19:19,"Well seems like he himself is the person, which doesn't belong on the train...",0,0,Tjeckleburgseyes,WWexI9YiLSc,0.0,2017-09-21 17:19:19,True,True
+2017-09-21T17:51:11,Liked Non Stop and Source Code. Looking forward to this one :),0,0,Tekusake,WWexI9YiLSc,0.55,2017-09-21 17:51:11,True,True
+2017-09-22T03:55:05,👍👊👍👊👋👋,1,0,Face Off,WWexI9YiLSc,0.0,2017-09-22 03:55:05,True,True
+2017-09-22T22:34:25,This film but on a UK commuter train run by Southern... It's over in 5 minutes because the train's been cancelled.,0,0,LiftFan,WWexI9YiLSc,0.0,2017-09-22 22:34:25,True,True
+2017-09-23T02:44:31,"""I have the power to hurt someone very close to you"" ...Moral of the story, don't EVER be related to Liam Neeson",0,0,Fiona Akkerman,WWexI9YiLSc,0.1,2017-09-23 02:44:31,True,True
+2017-09-23T07:07:33,The person who doesn’t belong in the Train is obviously Mike Ehrmantrout.,0,0,Sy A,WWexI9YiLSc,0.0,2017-09-23 07:07:33,True,True
+2017-09-23T09:03:59,Speed: Heavy Steel,0,0,SickPrid3,WWexI9YiLSc,-0.2,2017-09-23 09:03:59,True,True
+2017-09-23T10:38:50,looks kinda stupid,0,0,RT-Viz,WWexI9YiLSc,-0.7999999999999999,2017-09-23 10:38:50,True,True
+2017-09-23T20:54:44,Liam Neeson should seriously stop using public transportation. It never seems to work out well.,0,0,Nandhaan Verma,WWexI9YiLSc,-0.16666666666666666,2017-09-23 20:54:44,True,True
+2017-09-24T08:51:35,When I saw the ad for this I really thought it would be source code 2,0,0,Aaron Parker,WWexI9YiLSc,0.2,2017-09-24 08:51:35,True,True
+2017-09-24T12:16:11,Shame it's got Liam Neeson for that fact I'll not be watching it. Not a great fan of outspoken performers they should stick to performing,0,0,otowise,WWexI9YiLSc,-0.4,2017-09-24 12:16:11,True,True
+2017-09-25T21:45:46,What kind of Person are you?  Gullible,4,0,Ram Jam,WWexI9YiLSc,0.6,2017-09-25 21:45:46,True,True
+2017-09-28T10:13:22,it's a January movie tho,0,0,SpymanTIVC,WWexI9YiLSc,0.0,2017-09-28 10:13:22,True,True
+2017-10-02T05:09:32,"I won't kill you, but I dont have to save you.",1,0,Bumbitus Productions,WWexI9YiLSc,0.0,2017-10-02 05:09:32,True,True
+2017-10-03T01:58:17,Looks good!,0,0,repairdrive,WWexI9YiLSc,0.875,2017-10-03 01:58:17,True,True
+2017-10-04T14:56:08,"so it's Non-Stop, but on a train?  very very similar theme.",0,0,Cubsfan122112,WWexI9YiLSc,0.0,2017-10-04 14:56:08,True,True
+2017-10-06T23:30:27,"We gonna act like this isnt biting hard of of Alfred hitchcock's ""strangers on a train""?",0,0,atticus finch,WWexI9YiLSc,-0.2916666666666667,2017-10-06 23:30:27,True,True
+2017-10-17T04:54:11,"*Now that how you edit a trailer, give questions that you have to answer in the movie, sets the tone but not spoil you the end*",0,0,Aaron Mijail Herrera Castro,WWexI9YiLSc,0.0,2017-10-17 04:54:11,True,True
+2017-10-20T16:48:23,Is that the Metro-North line omg why,0,0,FABIENNE RICCOBONI,WWexI9YiLSc,0.0,2017-10-20 16:48:23,True,True
+2017-10-20T17:14:29,Awesome trailer. #TheCommuter,0,0,Michael Cobbs,WWexI9YiLSc,1.0,2017-10-20 17:14:29,True,True
+2017-10-22T13:09:31,Vera Farmiga.... 😍😍😍😍,4,0,T LMR,WWexI9YiLSc,0.0,2017-10-22 13:09:31,True,True
+2017-10-22T16:10:40,Liam neeson is probably my favorite actor i cant wait to see this omg !! Looks soo good,39,2,Sippin Tea Wid Sharlele,WWexI9YiLSc,0.740625,2017-10-22 16:10:40,True,True
+2017-10-22T18:17:54,Is he just suppose to find the person for 75k or kill them... If its killing somebody. 75k isnt alot of money at all,1,0,Throwshit,WWexI9YiLSc,0.0,2017-10-22 18:17:54,True,True
+2017-10-22T18:24:38,Speed/12 rounds in one movie,0,0,Stimp-C,WWexI9YiLSc,0.0,2017-10-22 18:24:38,True,True
+2017-10-23T00:44:40,Trains are such good places to stage action movies like this.,5,0,XtremeXpress,WWexI9YiLSc,0.26666666666666666,2017-10-23 00:44:40,True,True
+2017-10-23T17:47:58,Can't wait,0,0,Dea Dea,WWexI9YiLSc,0.0,2017-10-23 17:47:58,True,True
+2017-10-23T23:18:47,Did they just reference a transport-based Liam Neeson movie in the trailer for another transport-based Liam Neeson movie?,0,0,RJ M,WWexI9YiLSc,0.0,2017-10-23 23:18:47,True,True
+2017-10-24T01:45:00,Seems like we've seen it already million times but as long as Liam Neeson in it I'll watch it anyway))),0,0,la la,WWexI9YiLSc,-0.05,2017-10-24 01:45:00,True,True
+2017-10-24T02:23:44,Norma Bates meets Qui-Gon,0,0,Shadow Freak,WWexI9YiLSc,0.0,2017-10-24 02:23:44,True,True
+2017-10-25T15:08:49,I kind of wish this was a sequel to The Foreigner. Jackie Chan would have found that person easily lol,0,0,Midnight Media TV,WWexI9YiLSc,0.7,2017-10-25 15:08:49,True,True
+2017-10-25T18:18:09,Why liam neeson have to suffer from last 5 years since taken..😎😎😎,0,0,kaushik boruah,WWexI9YiLSc,0.0,2017-10-25 18:18:09,True,True
+2017-10-27T05:15:19,Is this Conjuring and Taken mixed up?,0,0,Carl Harrison,WWexI9YiLSc,0.0,2017-10-27 05:15:19,True,True
+2017-10-27T06:49:25,I knew something came from Non-stop I knew it oww Yes!! 😄,0,0,Tony González,WWexI9YiLSc,0.0,2017-10-27 06:49:25,True,True
+2017-10-29T12:35:46,Nice trailer!,0,0,Imaad,WWexI9YiLSc,0.75,2017-10-29 12:35:46,True,True
+2017-11-01T03:30:35,"I'm not trying to crash this train,  I'm trying to save it!!!!!!!",0,0,TheCuckThat'sOpenlyACuck,WWexI9YiLSc,0.0,2017-11-01 03:30:35,True,True
+2017-11-20T09:58:03,looks like a ground version of non stop,0,0,Tanvir Apu,WWexI9YiLSc,0.0,2017-11-20 09:58:03,True,True
+2017-11-20T17:07:44,Just watch it be himself,0,0,Smile S,WWexI9YiLSc,0.0,2017-11-20 17:07:44,True,True
+2017-11-29T15:47:20,GOOD LUCK!!!,0,0,Maik Daglish,WWexI9YiLSc,1.0,2017-11-29 15:47:20,True,True
+2017-11-30T21:08:44,WHAT DOES EVERYONE WANT FROM LIAM NEESON??  taken taken 2 taken 3  Unknown   just leave the man alone LMAOO,0,0,Zaynab A,WWexI9YiLSc,-0.1,2017-11-30 21:08:44,True,True
+2017-11-30T21:09:57,Norma Bates still tormenting even after she's dead. The woman never stops.,0,0,Zaynab A,WWexI9YiLSc,-0.2,2017-11-30 21:09:57,True,True
+2017-12-02T15:55:28,Under siege on a ship-under siege 2 on a train- non stop on a plane - non stop 2 on a train.,0,0,Strong Bull,WWexI9YiLSc,0.0,2017-12-02 15:55:28,True,True
+2017-12-05T00:48:29,this movie seems a bit confusing like !!!!!,0,0,So friggin Amazing,WWexI9YiLSc,-0.91552734375,2017-12-05 00:48:29,True,True
+2017-12-06T04:00:13,5 thousand or 5 hundred thousand?,0,0,MS,WWexI9YiLSc,0.0,2017-12-06 04:00:13,True,True
+2017-12-09T12:42:52,I like it same concept yeah bravo,0,0,Joni Assan,WWexI9YiLSc,0.0,2017-12-09 12:42:52,True,True
+2017-12-11T10:36:57,Wondering if there's an Arab/Muslim character in this. Because I don't want to hear about crybabies bitching about the bad guy not being an Arab or Muslim like Non-Stop was.,0,0,Christopher C,WWexI9YiLSc,-0.6999999999999998,2017-12-11 10:36:57,True,True
+2017-12-12T10:59:14,a sick movie;),0,0,No Commentary Gameplay,WWexI9YiLSc,-0.23214285714285715,2017-12-12 10:59:14,True,True
+2017-12-13T01:45:33,Taken meets Murder on the Orient Express,0,0,Gigi Ligi,WWexI9YiLSc,0.0,2017-12-13 01:45:33,True,True
+2017-12-15T06:33:01,the money was TAKEN,0,0,ashesfrombones,WWexI9YiLSc,0.0,2017-12-15 06:33:01,True,True
+2017-12-15T14:42:54,wowwww liam,0,0,rajesh goud,WWexI9YiLSc,0.0,2017-12-15 14:42:54,True,True
+2017-12-17T14:13:25,This movie is literally “Non-Stop” but they replaced the plane with a train.................yeah really creative,0,0,F.O.A.C ML,WWexI9YiLSc,0.5,2017-12-17 14:13:25,True,True
+2017-12-17T16:32:59,"First the plane, now the train.. Mr. boat, brace yourself!!",0,0,Abdellah Najime,WWexI9YiLSc,0.390625,2017-12-17 16:32:59,True,True
+2017-12-17T19:42:02,Wait ? This is like non-stop,0,0,the wonderer,WWexI9YiLSc,0.0,2017-12-17 19:42:02,True,True
+2017-12-18T04:05:22,Non-stop 2,0,0,Heath Ruppert,WWexI9YiLSc,0.0,2017-12-18 04:05:22,True,True
+2017-12-18T20:09:26,I got a add of this trailer while trying to watch THE SAME EXACT TRAILER....,0,0,Ali Jomaa,WWexI9YiLSc,0.125,2017-12-18 20:09:26,True,True
+2017-12-19T06:35:39,"I mean it’s only like “non-stop” and “taken 1, 2 & 3 .... original",0,0,Co Richards,WWexI9YiLSc,0.020833333333333332,2017-12-19 06:35:39,True,True
+2017-12-19T16:10:33,I swear Liam did this movie on a plane lmao,0,0,Jayy,WWexI9YiLSc,0.6,2017-12-19 16:10:33,True,True
+2017-12-19T20:52:23,"Plot twist, the train derails in Washington",0,0,imaShooterforBrazzers,WWexI9YiLSc,0.0,2017-12-19 20:52:23,True,True
+2017-12-19T21:38:00,Do it Norman.,0,0,Keanu Herrera,WWexI9YiLSc,0.0,2017-12-19 21:38:00,True,True
+2017-12-20T05:01:47,"I love the trailer and the actors, and I will watch this, but I think that the idiot would have been a fitting name as well.",0,0,Tomer Israeli,WWexI9YiLSc,0.06666666666666665,2017-12-20 05:01:47,True,True
+2017-12-20T07:39:14,I would ask for more money a hundred grand for that really you can't  even buy a nice house most places with that,0,0,Sevenrings,WWexI9YiLSc,0.45999999999999996,2017-12-20 07:39:14,True,True
+2017-12-20T11:56:56,i like trains,0,0,VLAD,WWexI9YiLSc,0.0,2017-12-20 11:56:56,True,True
+2017-12-21T14:35:54,Liam Neeson plays... Liam Neeson,0,0,AdzSONLINE,WWexI9YiLSc,0.0,2017-12-21 14:35:54,True,True
+2017-12-26T00:38:39,"this dood is good but damn he plays the same char in every movie, he has what 30alike movies?",0,0,GA Fighters,WWexI9YiLSc,0.35,2017-12-26 00:38:39,True,True
+2017-12-26T13:28:52,Liam neeson is a great actor. I'm excited to watch it,0,0,Lily Ylilsanj,WWexI9YiLSc,0.5875,2017-12-26 13:28:52,True,True
+2017-12-27T03:49:46,I have to see this movie! 😨 I love Liam Neeson! He is my all time favourite actor and I hope to meet him one day 😘🤔😍,2,0,Kylee Klassen,WWexI9YiLSc,0.625,2017-12-27 03:49:46,True,True
+2017-12-28T23:37:23,It's the psychiatrist from the Departed,0,0,ChubbyChecker182,WWexI9YiLSc,0.0,2017-12-28 23:37:23,True,True
+2017-12-29T02:25:13,"train, that woman, feeling deja vu like i've seen this before...........wait, yeah i remember its ""SOURCE CODE"" movie",0,0,Ruther Bustos,WWexI9YiLSc,0.0,2017-12-29 02:25:13,True,True
+2017-12-29T02:25:29,"train, that woman, feeling deja vu like i've seen this before...........wait, yeah i remember its ""SOURCE CODE"" movie",0,0,Ruther Bustos,WWexI9YiLSc,0.0,2017-12-29 02:25:29,True,True
+2017-12-29T06:47:51,"So, ""Non-Stop"" on a train?",0,0,Donegal513,WWexI9YiLSc,0.0,2017-12-29 06:47:51,True,True
+2017-12-29T10:35:40,sounds  like bat man movie,0,0,Manahati Zamorano,WWexI9YiLSc,0.0,2017-12-29 10:35:40,True,True
+2017-12-29T18:06:43,Luggage Taken.,0,0,MarStoryTime,WWexI9YiLSc,0.0,2017-12-29 18:06:43,True,True
+2017-12-30T11:12:53,"one needs a very particular set of skills to do this job, I guess",0,0,Dias Amreyev,WWexI9YiLSc,0.21666666666666667,2017-12-30 11:12:53,True,True
+2018-01-02T02:56:26,So this is the Train version of Non Stop lol,0,0,Diesel,WWexI9YiLSc,0.8,2018-01-02 02:56:26,True,True
+2018-01-02T06:37:18,"""Interesting,not what I expected?...",0,0,Green TwoStay,WWexI9YiLSc,-0.1,2018-01-02 06:37:18,True,True
+2018-01-02T08:06:03,Can't wait for thiiiiis!,0,0,Bea,WWexI9YiLSc,0.0,2018-01-02 08:06:03,True,True
+2018-01-02T17:47:46,Ok so this is Taken 4,0,0,Cee Woo,WWexI9YiLSc,0.5,2018-01-02 17:47:46,True,True
+2018-01-03T14:10:56,She has taken his ticket. He must now use all ok his skills do avoid getting caught without a ticket.,1,1,Frogboy,WWexI9YiLSc,0.5,2018-01-03 14:10:56,True,True
+2018-01-03T17:23:41,Went to the wrong movie. I went to murder on the oriental express... explained why it wasnt what I expected.,0,0,menne vh,WWexI9YiLSc,-0.3,2018-01-03 17:23:41,True,True
+2018-01-04T13:27:03,just surviving a train ride in America can be made into a movie after tacoma and savannah and deaths on new york subways trains from mental health people punching them. we don't need superhero anti terroists liam neeson plots haha. steven segal made a navy seal train rescue movie already,0,0,Jason West,WWexI9YiLSc,0.07878787878787878,2018-01-04 13:27:03,True,True
+2018-01-04T13:48:40,"Liam Nelson is a great actor.  Love his movies Taken, Unknown, Run all Night, Non-Stop, etc. You can tell always that’s him by his one of kind voice. Lol 😂 This movie should be good.",0,0,Sean Henderson,WWexI9YiLSc,0.5499999999999999,2018-01-04 13:48:40,True,True
+2018-01-04T21:57:48,FINALLY NON STOP 2,0,0,MrOptimisticc,WWexI9YiLSc,0.0,2018-01-04 21:57:48,True,True
+2018-01-05T02:15:16,"Same movie all the time. Trains, planes and automobiles! Always a mystery passengers...       I'm still gonna go see it.",1,0,Tev,WWexI9YiLSc,0.0,2018-01-05 02:15:16,False,True
+2018-01-05T05:38:19,like if you still like the song 'despacito',0,0,summer mark,WWexI9YiLSc,0.0,2018-01-05 05:38:19,False,True
+2018-01-05T14:06:57,valak,0,0,Catherine Bloomington,WWexI9YiLSc,0.0,2018-01-05 14:06:57,False,True
+2018-01-05T21:40:14,He is going to find her and he is going to kill her 😁,0,0,بيتي مملكتي,WWexI9YiLSc,0.0,2018-01-05 21:40:14,False,True
+2018-01-06T21:17:16,Great actors!!! 😍😍😍,0,0,brunetu89,WWexI9YiLSc,1.0,2018-01-06 21:17:16,False,True
+2018-01-07T16:21:54,Und wow this guy is from the clash of clan old commercial we’re he said I would destroy you with lots of barbarian ms and dragons lmao 😂😂😂😂🤣🤣,0,0,BEBA AND MASENATION,WWexI9YiLSc,-0.016666666666666663,2018-01-07 16:21:54,False,True
+2018-01-07T18:15:45,Source code anyone?,0,0,Tinky :},WWexI9YiLSc,0.0,2018-01-07 18:15:45,False,True
+2018-01-08T11:28:26,I thought he said he was done with action roles,0,0,Koroshiya,WWexI9YiLSc,0.1,2018-01-08 11:28:26,False,True
+2018-01-08T21:56:28,"Now that's a good trailer: moody, suspenseful without giving way too much, and of course Liam Neeson",0,0,Vanessa T,WWexI9YiLSc,0.3,2018-01-08 21:56:28,False,True
+2018-01-08T22:20:42,Taken: A Train,0,0,Tim Oughton,WWexI9YiLSc,0.0,2018-01-08 22:20:42,False,True
+2018-01-08T23:43:40,Fantastic 👍🏻,0,0,Arjun,WWexI9YiLSc,0.4,2018-01-08 23:43:40,False,True
+2018-01-10T05:30:58,I saw this movie tonight in a preview - the story is a bit farfetched - BUT it is really good - especially the second half - a lot of suspense.,0,0,Marion Duignan,WWexI9YiLSc,0.13333333333333333,2018-01-10 05:30:58,False,True
+2018-01-10T06:42:14,Seems like there is a liitle of the plot from source code ? - Can Liam Neeson have multiple guessing at her little riddle ? And I'm betting (not that I'm a betting man ?) -That it's either the lady who pose's the question -Or Liam Neeson - Who's caught the wrong train ???,0,0,Steve Birks,WWexI9YiLSc,-0.22916666666666666,2018-01-10 06:42:14,False,True
+2018-01-10T06:42:58,Will be interesting to see ?,0,0,Steve Birks,WWexI9YiLSc,0.5,2018-01-10 06:42:58,False,True
+2018-01-10T18:58:57,VERA FARMIGA!!!!😍 I need to see this movie just because of her😂😍❤,0,0,liekie peace,WWexI9YiLSc,0.0,2018-01-10 18:58:57,False,True
+2018-01-11T05:44:18,Damn liam neeson is really badass,0,0,Galaxy Gizer,WWexI9YiLSc,0.2,2018-01-11 05:44:18,False,True
+2018-01-12T00:59:09,"THE TRAILER MAKES THE MOVIE LOOK GOOD. I WONDER WHAT WILL HAPPEN NEXT,",0,0,DENISE HARRIS,WWexI9YiLSc,0.35,2018-01-12 00:59:09,False,True
+2018-01-12T09:26:00,when the couple from the movie insidious have a part time job other than being psychics....lol,0,0,Jesebel35,WWexI9YiLSc,-0.125,2018-01-12 09:26:00,False,True
+2018-01-12T12:43:10,looked a good movie bfre i saw the stiff jeromy irons would be in it yawn,0,0,Carol Maz,WWexI9YiLSc,0.24285714285714283,2018-01-12 12:43:10,False,True
+2018-01-12T13:47:46,"Spoilers     He grabs someone and yells ""it was You""",0,0,journeymanX,WWexI9YiLSc,0.0,2018-01-12 13:47:46,False,True
+2018-01-12T14:01:08,"""I don't know who you are, I don't know what rail network you work for; but what I do know is that I have a ticket for the 11:45 to Norwich. And if my train is delayed... I will find you, and I will kill you.""",0,0,Colm Coss,WWexI9YiLSc,0.0,2018-01-12 14:01:08,False,True
+2018-01-12T17:56:45,Liam Neeson is a movie genre.,5,1,Misael Rodríguez,WWexI9YiLSc,0.0,2018-01-12 17:56:45,False,True
+2018-01-13T03:43:53,Why does this remind me like 90% if Source Code,0,0,Sara Amber,WWexI9YiLSc,0.0,2018-01-13 03:43:53,False,True
+2018-01-13T17:51:18,Liam Neeson and Vera Farmiga...am sold But wait a min..I see Patrick Wilson mentioned in comments...someone help me if I missed him in the trailer?,0,0,Shubhra Sarkar,WWexI9YiLSc,0.0,2018-01-13 17:51:18,False,True
+2018-01-13T22:08:50,Esse cara é o uns dos melhores  ator todos filme dele e da hora,1,0,Guinho Morais,WWexI9YiLSc,0.0,2018-01-13 22:08:50,False,True
+2018-01-14T00:33:22,I thought it was another taken movie,0,0,Missladyy91,WWexI9YiLSc,0.0,2018-01-14 00:33:22,False,True
+2018-01-14T00:48:35,"I don't know who you are, but you are not going to stop me from seeing The Commuter.",0,0,Benny Phillips,WWexI9YiLSc,0.0,2018-01-14 00:48:35,False,True
+2018-01-14T00:54:40,The movies in San Francisco are charging $21.00 for this movies because it is in Dolby. Way to expensive and won’t pay it.,0,0,Earth,WWexI9YiLSc,-0.5,2018-01-14 00:54:40,False,True
+2018-01-14T03:36:27,It was good go and see it Thank me later 😀,1,0,OShawna23,WWexI9YiLSc,0.35,2018-01-14 03:36:27,False,True
+2018-01-14T08:41:06,Guess he's making up for that time Batman ditched him on a train.,0,0,Joshua Carpenter,WWexI9YiLSc,0.0,2018-01-14 08:41:06,False,True
+2018-01-14T10:41:11,he should change hes line of acting because its  getting very very repetitive  and boring.,0,0,Anth Bentley,WWexI9YiLSc,-0.44166666666666665,2018-01-14 10:41:11,False,True
+2018-01-14T23:32:39,This is a good movie I saw it today I will ride a plane train or bus with Liam Neeson,0,0,Shantel Goggins,WWexI9YiLSc,0.7,2018-01-14 23:32:39,False,True
+2018-01-15T01:35:40,Is this a true story?,0,0,leafyutube,WWexI9YiLSc,0.35,2018-01-15 01:35:40,False,True
+2018-01-15T02:11:17,"Man, I love Polar Express",0,0,astronomuer,WWexI9YiLSc,0.20833333333333334,2018-01-15 02:11:17,False,True
+2018-01-15T02:42:59,is this the 2 none stop movie,0,0,ScottGamingandVlogs,WWexI9YiLSc,0.0,2018-01-15 02:42:59,False,True
+2018-01-15T17:53:34,I'm buying a razor scooter after seeing this trailer...,0,0,Geoffrey Doetzer,WWexI9YiLSc,0.0,2018-01-15 17:53:34,False,True
+2018-01-16T00:17:10,I'm not trying to hijack this train I'm trying to save it xD,0,0,Gil Garcia,WWexI9YiLSc,0.0,2018-01-16 00:17:10,False,True
+2018-01-16T01:29:48,The movie is way better than the trailer trust me I just watched and ohhhh... best movie of the start of 2018,0,0,Amy Gabriela,WWexI9YiLSc,0.75,2018-01-16 01:29:48,False,True
+2018-01-16T03:05:07,This was a good movie 🍿! Worth seeing,0,0,Cool Chicka Vlogs,WWexI9YiLSc,0.5875,2018-01-16 03:05:07,False,True
+2018-01-16T03:06:39,The movie is a lot better than the trailer!,0,0,Cool Chicka Vlogs,WWexI9YiLSc,0.625,2018-01-16 03:06:39,False,True
+2018-01-16T16:30:27,every action and thriller fan should see this amazing movie,0,0,"90S Eurodance, Eurohouse and bubblegum dance songs",WWexI9YiLSc,0.35000000000000003,2018-01-16 16:30:27,False,True
+2018-01-16T21:41:49,"This is Liam Neeson in every movie he has done for the last 10 years:  (talking on a cell phone in a rough, scratchy voice) ""I don't know who you are or what you want. But I will look for you. I will find you. And I will kill you.""",1,0,"FOX News is 100% fake news, lies, and garbage",WWexI9YiLSc,-0.2833333333333333,2018-01-16 21:41:49,False,True
+2018-01-16T22:09:29,I thought that was kristen wiig...,1,0,Aberrate,WWexI9YiLSc,0.0,2018-01-16 22:09:29,False,True
+2018-01-17T02:07:21,"I ONCE PULLED A-🎅TRAIN ON A GIRL WITH  PARTICULAR SET OF SKILLS IN HUMAN BEHAVIORAL,,, SHE CAME  TO THE CONCLUSION IT WAS BAD BEHAVIOR / ITS  ALL-GOOD IN THE HOOD👌👏 LOLolololol (AWESOMEOUSNESS)",0,0,K G,WWexI9YiLSc,-0.17777777777777773,2018-01-17 02:07:21,False,True
+2018-01-17T07:14:04,meh too much like 13 sins....yawwwwn,0,0,Tyler Durden,WWexI9YiLSc,0.2,2018-01-17 07:14:04,False,True
+2018-01-19T00:37:08,I just saw the movie today. The movie had a few unnatural plot twists but overall i give it a 4/5. good movie :),3,0,Illegal,WWexI9YiLSc,0.25,2018-01-19 00:37:08,False,True
+2018-01-19T09:50:06,"If it was in the UK, his train would be late and overcrowded and would never get to the speed to flip end over end😂😂😂😂lmao. Looks like a ripping yarn though. Can't wait to see it, lol.",0,0,PropRotor Nut,WWexI9YiLSc,0.13333333333333333,2018-01-19 09:50:06,False,True
+2018-01-19T10:17:46,It's not easy to be an insurance agent when your name is Liam Neeson,0,0,Kakamal Nor,WWexI9YiLSc,-0.21666666666666667,2018-01-19 10:17:46,False,True
+2018-01-19T16:18:35,Liam is back ladies and gentlemen,0,0,shersinghdx,WWexI9YiLSc,0.0,2018-01-19 16:18:35,False,True
+2018-01-19T19:54:31,Not a bad movie. You will love it if you're a fan of Leam Neesen,0,0,Alezey574,WWexI9YiLSc,0.42499999999999993,2018-01-19 19:54:31,False,True
+2018-01-19T20:30:12,Am I the only guy wondering what would have happened if it happened like : “is this seat taken?”  “Yeah.”,0,0,Mallory Rogers,WWexI9YiLSc,0.0,2018-01-19 20:30:12,False,True
+2018-01-19T22:15:12,Seems oddly  familiar... *cough* Non-Stop *cough* ...oh sorry I seem to have a bad *cough* Its the same film but on a train *cough* .,0,0,DrDead Red,WWexI9YiLSc,-0.20624999999999996,2018-01-19 22:15:12,False,True
+2018-01-19T23:06:34,"Norma Bates, you don't belong on the train!",0,0,Jen Robinson,WWexI9YiLSc,0.0,2018-01-19 23:06:34,False,True
+2018-01-20T03:46:35,i had to see an add to c an add,0,0,Don't Question Just Believe,WWexI9YiLSc,0.0,2018-01-20 03:46:35,False,True
+2018-01-20T14:34:44,I got an ad for the commuter on the trailer for the commuter 😂,0,0,Eileen G,WWexI9YiLSc,0.0,2018-01-20 14:34:44,False,True
+2018-01-20T15:37:01,وين العرب,0,0,W7GZ -_-,WWexI9YiLSc,0.0,2018-01-20 15:37:01,False,True
+2018-01-20T16:02:41,the advert before the trailer was the trailer,0,0,Blaya 58,WWexI9YiLSc,0.0,2018-01-20 16:02:41,False,True
+2018-01-20T16:05:08,just watched an add on the trailer before the actual trailer came on,1,0,king L,WWexI9YiLSc,0.0,2018-01-20 16:05:08,False,True
+2018-01-20T21:13:35,"If is starring Liam Neeson, I already liked before I even watch, is a king of the kings",0,0,Mr Green,WWexI9YiLSc,0.6,2018-01-20 21:13:35,False,True
+2018-01-21T00:34:03,Don’t watch his movies anymore’ boycott!,0,0,Pamela Prettynose,WWexI9YiLSc,0.0,2018-01-21 00:34:03,False,True
+2018-01-21T01:24:22,Is this seat taken?🙄,2,0,Aryeh Ben Yehudah,WWexI9YiLSc,0.0,2018-01-21 01:24:22,False,True
+2018-01-21T09:06:38,I will find you and I will kill you same story movies😂😂,0,0,blue beach,WWexI9YiLSc,0.0,2018-01-21 09:06:38,False,True
+2018-01-21T11:00:50,Like Nonstop,0,0,Đức Trí Nguyễn,WWexI9YiLSc,0.0,2018-01-21 11:00:50,False,True
+2018-01-21T19:03:05,"why pick up a veteran and former law enforcer who had a distinguished and remarkable carreer?not only that not just an ordinary policeman,he's an undercover FBI agent.",0,0,Johnny Angeles,WWexI9YiLSc,0.1,2018-01-21 19:03:05,False,True
+2018-01-21T19:45:38,I just saw an ad for this movie on this trailer,0,0,Ennie Fransesca,WWexI9YiLSc,0.0,2018-01-21 19:45:38,False,True
+2018-01-21T21:35:27,"This movie was awesome,saw it lastnight..Loved it.",0,0,cast390,WWexI9YiLSc,0.0,2018-01-21 21:35:27,False,True
+2018-01-22T00:12:24,I have watched this 👆. Its a amaze movie. 👍❤,0,1,Devi Agustina Rangkuti,WWexI9YiLSc,0.0,2018-01-22 00:12:24,False,True
+2018-01-23T01:38:58,This movie is all about his voice and Liam's great one liners in that voice. But the plot el-suckO!,0,0,Smokey Rosario,WWexI9YiLSc,1.0,2018-01-23 01:38:58,False,True
+2018-01-23T11:53:57,"Saw this, even better than the trailer suggests. Great fun.",0,0,Harlock2day,WWexI9YiLSc,0.5333333333333333,2018-01-23 11:53:57,False,True
+2018-01-23T21:16:05,ايمت هاد الفلم رح يطلع,0,0,kamal SY,WWexI9YiLSc,0.0,2018-01-23 21:16:05,False,True
+2018-01-24T02:50:31,LmAO Liam in another movie where's he's on the cell for half of it lol,0,0,Moe Araji,WWexI9YiLSc,0.41111111111111115,2018-01-24 02:50:31,False,True
+2018-01-24T22:50:47,Finally a trailer that doesn't show all the movie!,0,0,Assos,WWexI9YiLSc,0.0,2018-01-24 22:50:47,False,True
+2018-01-25T00:18:34,I hope liam neeson has a unlimited plan that seems like alot of roaming......,0,0,Cody Muse,WWexI9YiLSc,0.0,2018-01-25 00:18:34,False,True
+2018-01-25T20:50:35,"so this looks like a reverse of Taken, nice",0,0,Cool Jerry,WWexI9YiLSc,0.6,2018-01-25 20:50:35,False,True
+2018-01-25T21:03:34,"I just saw this movie yesterday, and it's AMAZING!",0,0,Shiny,WWexI9YiLSc,0.7500000000000001,2018-01-25 21:03:34,False,True
+2018-01-26T14:18:36,Loved it,0,0,amona talaat,WWexI9YiLSc,0.7,2018-01-26 14:18:36,False,True
+2018-01-27T09:30:38,Vera is so beautiful,2,0,hazelsage,WWexI9YiLSc,0.85,2018-01-27 09:30:38,False,True
+2018-01-28T06:26:36,"I watched it, it was pretty good! I won't spoil it, i'll just say the plot is lacking a little bit and some scenes can be a little stagnant but it is a fun action movie to watch with your friends or family! There is little build up too; the action starts early in the movie and is constant. Liam Neeson is good as always.",0,1,Goatvarro,WWexI9YiLSc,0.1715909090909091,2018-01-28 06:26:36,False,True
+2018-01-28T10:59:20,Is there acthly a decent  movie out in there Cinemas! 😕,0,0,Zahide Ahmed,WWexI9YiLSc,0.20833333333333331,2018-01-28 10:59:20,False,True
+2018-01-28T20:03:04,"This is like non-stop, but on a train.",0,0,Shania,WWexI9YiLSc,0.0,2018-01-28 20:03:04,False,True
+2018-01-29T10:27:03,"Even in Liam Neeson's basic form ( a family man), he's too skilled for normal people.",2,0,muchacho,WWexI9YiLSc,0.21666666666666667,2018-01-29 10:27:03,False,True
+2018-02-01T02:59:26,"""I am not hijacking this train, I'm trying to save it!""",1,0,devilpupbear09,WWexI9YiLSc,0.0,2018-02-01 02:59:26,False,True
+2018-02-04T13:52:29,What kind of person are you?,1,0,ΓΙΑΝΝΗΣ ΓΚΑΛΡΙΝΥΑΝ,WWexI9YiLSc,0.6,2018-02-04 13:52:29,False,True
+2018-02-11T00:19:17,"Liam Neeson's late-career blooming as an action star framed as Walter White's Breaking Bad character trajectory: ""When an ageing actor is told by his doctor he only has 20-30 years left to live, he realises desperate measures are in order if he's going to be able to leave millions of dollars to his family. On AMC this fall, Making Bad (Movies)"".",0,0,Selwyn Andrews,WWexI9YiLSc,-0.14040404040404036,2018-02-11 00:19:17,False,True
+2018-02-11T05:54:49,Movie has a lot of actions,0,0,geraldyn santos,WWexI9YiLSc,0.0,2018-02-11 05:54:49,False,True
+2018-02-15T21:22:29,Get a Hitman to kill someone on train and do NOT try and make someone do it.,0,0,Layla Lewis,WWexI9YiLSc,0.0,2018-02-15 21:22:29,False,True
+2018-02-15T23:41:17,i will find you !!! and i`ll give you ... the money back,0,0,aka.fhu7hai,WWexI9YiLSc,0.0,2018-02-15 23:41:17,False,True
+2018-02-16T05:19:32,Liam Neeson in/is TAKEN: THE TRAIN to a station near u,0,0,luvvinallmusik 57,WWexI9YiLSc,0.1,2018-02-16 05:19:32,False,True
+2018-02-26T20:30:46,Well I personally love the movie. And I really like Liam Neeson as an actor I think he's one of the better ones. Being nice looking sure doesn't hurt him either.. I like the movie and the end sure has a Twist at you don't even see coming. If you like his movies taken and you like him as an actor I'm pretty sure you'll like this movie I would like to see it again. Keep up the good work and everyone have a wonderful day or evening..🎬🎬🎬🎥🎥🎥📽📽📽📽📽📽📽📽📽📽,0,0,Jeannie Russo,WWexI9YiLSc,0.525,2018-02-26 20:30:46,False,True
+2018-02-27T02:47:00,Is this movie good,0,0,Russian Badass,WWexI9YiLSc,0.7,2018-02-27 02:47:00,False,True
+2018-02-28T14:50:00,"Not a bad movie, but i liked ''Non-stop'' more",0,0,Mr XPExplorer,WWexI9YiLSc,0.48333333333333334,2018-02-28 14:50:00,False,True
+2018-03-09T06:53:49,O. Yawn. Its. Liam. The. Moron. Again. Zzzz,0,0,Shannon Burn in hell,WWexI9YiLSc,-0.8,2018-03-09 06:53:49,False,True
+2018-03-09T06:54:46,Comuter. Sucks. Ass,0,0,Shannon Burn in hell,WWexI9YiLSc,-0.3,2018-03-09 06:54:46,False,True
+2018-03-09T14:30:29,Vera Farminga 😍,0,0,Claudia Robert,WWexI9YiLSc,0.0,2018-03-09 14:30:29,False,True
+2018-03-15T00:19:09,She can face ghosts but facing a man with a particular set of skills... That is an other story,0,0,Armando Júnior,WWexI9YiLSc,0.02083333333333333,2018-03-15 00:19:09,False,True
+2018-03-16T07:44:49,Show este filme.,0,0,Luiz Carlos,WWexI9YiLSc,0.0,2018-03-16 07:44:49,False,True
+2018-03-21T20:57:47,Vera Farmiga...hubba hubba.,0,0,John Doe,WWexI9YiLSc,0.0,2018-03-21 20:57:47,False,True
+2018-03-29T12:28:06,Will definitely watch this,0,0,Arun Sudheesan,WWexI9YiLSc,0.0,2018-03-29 12:28:06,False,True
+2018-03-30T03:34:46,has he done a plane yet?,0,0,digitalsiler,WWexI9YiLSc,0.0,2018-03-30 03:34:46,False,True
+2018-03-30T05:37:08,"""I don't know who you are. I don't know what you want. If you are looking for ransom I can tell you I don't have money, but what I do have are a very particular set of skills. Skills I have acquired over a very long career. Skills that make me a nightmare for people like you. If you let my daughter go now that'll be the end of it. I will not look for you, I will not pursue you, but if you don't, I will look for you, I will find you and I will kill you.""",0,0,joweywow,WWexI9YiLSc,0.07583333333333334,2018-03-30 05:37:08,False,True
+2018-03-30T06:08:54,I am not Prin😂,0,0,Archibold Ramasenya,WWexI9YiLSc,0.0,2018-03-30 06:08:54,False,True
+2018-03-31T06:38:15,the editing and camera job of this movie is just........ anyone noticed?!,0,0,Vincent WANG,WWexI9YiLSc,0.0,2018-03-31 06:38:15,False,True
+2018-04-01T19:05:36,I had watched it .. .awesome...,0,0,Serdar gr,WWexI9YiLSc,0.0,2018-04-01 19:05:36,False,True
+2018-04-01T20:20:48,"""I AM not prin"" lol wouldve said the same thing.",0,0,Titi Omisakin,WWexI9YiLSc,0.4,2018-04-01 20:20:48,False,True
+2018-04-02T08:07:59,"thanks to taken, i do NOT trust liam as a parent hahaha",0,0,fhhsvnggbh,WWexI9YiLSc,0.2,2018-04-02 08:07:59,False,True
+2018-04-02T20:29:55,So beautiful movie that I did not want to finish,0,0,Vigan Iljazi,WWexI9YiLSc,0.85,2018-04-02 20:29:55,False,True
+2018-04-03T08:37:08,Shouldn't have Taken the money,2,0,Extreme Tech Team,WWexI9YiLSc,0.0,2018-04-03 08:37:08,False,True
+2018-04-04T05:59:18,such a great movie,0,0,not in use anymore :,WWexI9YiLSc,0.4,2018-04-04 05:59:18,False,True
+2018-04-04T06:42:15,"vera farmiga, oh boy!",0,0,Minh Nguyen,WWexI9YiLSc,0.0,2018-04-04 06:42:15,False,True
+2018-04-04T09:24:42,映画館で見てきました。 とても良かったです。,0,0,kyone0123,WWexI9YiLSc,0.0,2018-04-04 09:24:42,False,True
+2018-04-04T22:39:56,Am I the only one who thinks this looks CORNY as hell?!,0,0,Lillian Lilo,WWexI9YiLSc,0.0,2018-04-04 22:39:56,False,True
+2018-04-04T22:39:57,"I was obese > made a long recovery to healthy bodyweight > watched this movie > ""Where's Pring?"" > craved pringles > ate pringles > I am now once again obese",0,0,That Guy,WWexI9YiLSc,0.225,2018-04-04 22:39:57,False,True
+2018-04-05T03:26:39,"I saw this movie and I got to say, this movie was really good. A lot of action and mystery involved in it",0,0,John Ackerman,WWexI9YiLSc,0.39999999999999997,2018-04-05 03:26:39,False,True
+2018-04-05T04:41:05,Who is here for Liam...?,1,0,MrJaaadugar,WWexI9YiLSc,0.0,2018-04-05 04:41:05,False,True
+2018-04-05T16:28:59,I feel like the trailer showed the most parts,0,0,LegendColgo,WWexI9YiLSc,0.5,2018-04-05 16:28:59,False,True
+2018-04-06T05:39:43,good luck,0,0,Sanga Gadhia,WWexI9YiLSc,0.7,2018-04-06 05:39:43,False,True
+2018-04-07T23:24:29,Good 👌,0,0,wleed ahmd,WWexI9YiLSc,0.7,2018-04-07 23:24:29,False,True
+2018-04-08T01:42:55,They had me at Liam Neeson,0,0,Staunch Davie,WWexI9YiLSc,0.0,2018-04-08 01:42:55,False,True
+2018-04-08T17:53:59,this movie is gonna be bomb,0,0,Zoorro,WWexI9YiLSc,0.0,2018-04-08 17:53:59,False,True
+2018-04-08T21:37:54,Now that is a trailer🙄🤔,0,0,Vivek Shrivastava,WWexI9YiLSc,0.0,2018-04-08 21:37:54,False,True
+2018-04-09T13:32:19,They took his daughter-Taken They took him and his wife -Taken 2 They kill his ex - Taken 3 They took his identity.Third Person AKA Taken 4  They hijack his plane.Non Stop AKA Taken 5  They took and killed his employers wife.A walk among the tombstones AKA Taken 6 They took his train. The commuter Aka Taken 7 Whats Next ?,0,0,Vladimir Herrera,WWexI9YiLSc,-0.1,2018-04-09 13:32:19,False,True
+2018-04-09T20:17:07,"good ass movie, just watch it last night.",1,0,rj adragel,WWexI9YiLSc,0.35,2018-04-09 20:17:07,False,True
+2018-04-09T22:51:50,"Just watched this movie. Only have one word to say, INCREDIBLE!",2,0,Phiwokuhle Khumalo,WWexI9YiLSc,0.5,2018-04-09 22:51:50,False,True
+2018-04-10T08:02:29,Liam Neeson is always getting into trouble.,0,0,Romulous75,WWexI9YiLSc,-0.2,2018-04-10 08:02:29,False,True
+2018-04-13T09:13:48,Vera Farmiga offers you $75000.. You use your particular set of skills and STFU!,1,0,Damage Included,WWexI9YiLSc,0.15416666666666667,2018-04-13 09:13:48,False,False
+2018-04-16T19:26:28,This was one of the worst movies I've ever seen. Plot hole after plot hole. Very unbelievable storyline. I want my two hours back,0,1,jay63811,WWexI9YiLSc,-0.44166666666666665,2018-04-16 19:26:28,False,False
+2018-04-19T23:33:07,"The Commuter sucked.  They explain in generic terms, that the police were involved in this guy’s so-called suicide, that the police actually murdered the guy and the girl is to become a Federally Protected Witness.  The police are working for some powerful people.  Okay, so how are they powerful, what illegal activities are these powerful people doing.  Why did this guy get killed by the police, they don’t explain anything and leave it up to the audience to guess.  And who was the lady who orchestrated this whole mess and sent the train off its tracks?  How did Liam find her?",0,0,Paul Roberts,WWexI9YiLSc,0.07250000000000001,2018-04-19 23:33:07,False,False
+2018-04-20T11:42:40,Watching now,0,0,Crazy Couple,WWexI9YiLSc,0.0,2018-04-20 11:42:40,False,False
+2018-04-22T18:33:27,the movie is awesome !! everyone need to see it !!,2,0,Miguel Santos,WWexI9YiLSc,1.0,2018-04-22 18:33:27,False,False
+2018-05-13T20:37:39,"FREEMASONS/ILLUMINATI This film is showcasing the powers of the upper elite, their position within what is known as the ‘Secret Society’.",0,0,MsSecretlady,WWexI9YiLSc,-0.2,2018-05-13 20:37:39,False,False
+2018-05-18T13:40:04,"*Lifehack: if you ever see Liam Neeson in a train, on a plane or anywhere else - GET OUT!!! 😁*",0,0,WAYWARD SON,WWexI9YiLSc,0.0,2018-05-18 13:40:04,False,False
+2018-05-27T17:25:35,"Liam Neeson in this movie:   I don't know who you are. I don't know what you want. If you are looking for ransom, I can tell you I don't have money. But what I do have are a very particular set of skills, skills I have acquired over a very long career. Skills that make me a nightmare for people like you. If you let my daughter go now, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will kill you.",0,0,Dhyan Sandesh,WWexI9YiLSc,0.07583333333333334,2018-05-27 17:25:35,False,False
+2018-06-03T18:20:07,"Great movie, I'll recommend this.😎👍",0,0,Richard Ngcanga,WWexI9YiLSc,0.8,2018-06-03 18:20:07,False,False
+2018-06-17T22:09:21,THIS FILM IS REALLY GOOD! HIGHLY RECOMMEND! just letting you know if you have doubts about it :P (im super picky when it comes to films),0,0,Simur,WWexI9YiLSc,0.5395833333333333,2018-06-17 22:09:21,False,False
+2018-06-21T08:59:19,"Errr.....woman, did you know that you're trying to mess with a God who is also a Jedi who trained Batman ?",1,0,Vince Oh Myyy,WWexI9YiLSc,-0.175,2018-06-21 08:59:19,False,False
+2018-06-28T17:03:47,My wife.,0,0,battery,WWexI9YiLSc,0.0,2018-06-28 17:03:47,False,False
+2018-07-22T22:01:47,"""Non-stop"" but it's on a train.",0,0,Piero Minaya Rojas,WWexI9YiLSc,0.0,2018-07-22 22:01:47,False,False
+2018-10-03T21:43:25,it's just one little thing?🤨 guess i just have to watch the movie to find out..😒,0,0,Alexadnan,WWexI9YiLSc,-0.1875,2018-10-03 21:43:25,False,False
+2018-11-21T02:04:56,The comments here are way more entertaining than the trailer itself.,0,0,Azizuddin Ahmed Afaq,WWexI9YiLSc,0.5,2018-11-21 02:04:56,False,False
+2019-01-10T07:36:38,"Movie Studios, Movie Trailer Makers: Take note: This is how you make a trailer. You tease. You show who is in it, what type of movie it is, and the most basic of a premise: The Set-up. And you end with a question- not the answer. You leave a sense of mystery. Liam asks a question. And the answer given by Vera is vague. Do not give a summarization of an entire movie. Or all the plot points. Less is More. Give just enough. I've never watched this film but came here because I was skimming through Amazon Prime, but they didn't have a trailer posted with it. It's a basic entertainment movie. A thriller- and I will check it out, but I'd be pissed if the trailer gave any more and doing so would've decreased my interest in watching it. Got it Trailer-makers?",0,0,ken gruz,WWexI9YiLSc,0.043333333333333335,2019-01-10 07:36:38,False,False
+2019-02-06T03:18:23,I just saw this on Amazon Prime.....what a piece of $hit film this was.....!!!,0,0,GunzRloaded,WWexI9YiLSc,0.0,2019-02-06 03:18:23,False,False
+2019-02-09T09:31:36,Ending was my favorite  bit,0,0,Swole,WWexI9YiLSc,0.5,2019-02-09 09:31:36,False,False
+2019-05-07T19:38:14,"i hate the role of vera her. so intense, one of the best movie",0,0,Roderick Dometita,WWexI9YiLSc,0.1333333333333333,2019-05-07 19:38:14,False,False
+2019-05-09T16:08:03,Plss aplod hindi pls,0,0,Konkani Bhavesh,WWexI9YiLSc,0.0,2019-05-09 16:08:03,False,False
+2019-05-10T20:00:05,invite me for your future film,0,0,Hastin Nuraini,WWexI9YiLSc,0.0,2019-05-10 20:00:05,False,False
+2019-05-11T19:07:16,0:39 his glass are on 0:42 his glasses are  TAKEN!,0,0,Gevork Babayan,WWexI9YiLSc,0.0,2019-05-11 19:07:16,False,False
+2020-03-27T18:50:38,Liam neeson: picks up phone  Me:I will find you and I will kill you,1,0,Gaming Films,WWexI9YiLSc,0.0,2020-03-27 18:50:38,False,False
+2020-03-30T17:57:42,Non stop+Taken = The commuter,0,0,Captain Dodz,WWexI9YiLSc,0.0,2020-03-30 17:57:42,False,False
+2020-05-01T16:49:16,Non-stop: Train edition,0,0,Noah Lewis,WWexI9YiLSc,0.0,2020-05-01 16:49:16,False,False
+2020-05-30T14:35:17,My granny went to school with Liam Neeson,1,0,Emmalouise Mcneill,WWexI9YiLSc,0.0,2020-05-30 14:35:17,False,False

@@ -1,0 +1,626 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2017-02-16T15:01:18,1st,1,1,Jacob Soderlin,bLwII6-92_Y,0.0,2017-02-16 15:01:18,True,True
+2017-02-16T15:01:25,First!,1,1,juan pedro,bLwII6-92_Y,0.3125,2017-02-16 15:01:25,True,True
+2017-02-16T15:03:24,risky buisness 2017?,1,0,POA,bLwII6-92_Y,0.0,2017-02-16 15:03:24,True,True
+2017-02-16T15:05:16,Shit look whack,60,2,Big Dawg,bLwII6-92_Y,-0.2,2017-02-16 15:05:16,True,True
+2017-02-16T15:06:56,Rafi bomb haha,7,1,s goddard,bLwII6-92_Y,0.2,2017-02-16 15:06:56,True,True
+2017-02-16T15:08:33,lol,0,0,Friðleifur Friðleifsson,bLwII6-92_Y,0.8,2017-02-16 15:08:33,True,True
+2017-02-16T15:09:42,early asf 😂😁,1,2,Belle Casabuena,bLwII6-92_Y,0.1,2017-02-16 15:09:42,True,True
+2017-02-16T15:14:33,I don't get it? Why not just take a student loan?,840,34,Deepak Guzzula,bLwII6-92_Y,0.0,2017-02-16 15:14:33,True,True
+2017-02-16T15:17:40,This movie gon be good!,19,3,Elijah B.,bLwII6-92_Y,0.875,2017-02-16 15:17:40,True,True
+2017-02-16T15:18:34,Hot garbage,0,0,Butt-Dumpling Fart-Goblin,bLwII6-92_Y,0.25,2017-02-16 15:18:34,True,True
+2017-02-16T15:23:41,or just get student loans like every other college grad,373,15,Schaefer,bLwII6-92_Y,-0.125,2017-02-16 15:23:41,True,True
+2017-02-16T15:24:27,gonna be funny,0,0,Eli Harper,bLwII6-92_Y,0.25,2017-02-16 15:24:27,True,True
+2017-02-16T15:25:39,"Oooh shiiit, this looks like another regular decent to mediocer comedy",0,5,TheSpanishzombie,bLwII6-92_Y,0.08333333333333333,2017-02-16 15:25:39,True,True
+2017-02-16T15:30:03,"Let me guess, they all get arrested",0,0,Joementia Malarkey The Forgetter In Chief,bLwII6-92_Y,0.0,2017-02-16 15:30:03,True,True
+2017-02-16T15:38:57,I clicked for Will Ferrell. You probably did too.,460,15,S. I. V.,bLwII6-92_Y,0.0,2017-02-16 15:38:57,True,True
+2017-02-16T15:40:23,Rafi!!!,7,0,Addison Davis,bLwII6-92_Y,0.0,2017-02-16 15:40:23,True,True
+2017-02-16T15:57:08,This looks horrible. Will Ferrell fell off,48,3,NelGOD 206,bLwII6-92_Y,-1.0,2017-02-16 15:57:08,True,True
+2017-02-16T16:00:48,ZOUKS!!!,18,4,Bruce Wayne,bLwII6-92_Y,0.0,2017-02-16 16:00:48,True,True
+2017-02-16T16:04:05,Wow the League is really getting some really top notch guest stars.,267,5,mjk,bLwII6-92_Y,0.26666666666666666,2017-02-16 16:04:05,True,True
+2017-02-16T16:15:37,"First half will be funny, second half will be desperate.",0,0,darraghoco,bLwII6-92_Y,-0.0722222222222222,2017-02-16 16:15:37,True,True
+2017-02-16T16:23:42,yessss!,0,0,Insert funny Username Here,bLwII6-92_Y,0.0,2017-02-16 16:23:42,True,True
+2017-02-16T16:24:51,leslie knope? i thought u married to ben wyatt?,47,4,George,bLwII6-92_Y,0.25,2017-02-16 16:24:51,True,True
+2017-02-16T16:24:53,Rafiiiiii bomb,0,0,Hayden Mackay,bLwII6-92_Y,0.0,2017-02-16 16:24:53,True,True
+2017-02-16T16:29:56,I feel like they could have come up with a better title,101,5,leah,bLwII6-92_Y,0.5,2017-02-16 16:29:56,True,True
+2017-02-16T16:30:57,gotta admit i rarely hear this premise,0,0,TOON/Anime Revolutions,bLwII6-92_Y,0.3,2017-02-16 16:30:57,True,True
+2017-02-16T16:38:43,IT'S DETECTIVE PIMENTO!!!,0,0,mr k,bLwII6-92_Y,0.0,2017-02-16 16:38:43,True,True
+2017-02-16T16:39:21,"almost same concept from family guy, when peter opens a casino in his basement",0,0,Chen Jun Liu,bLwII6-92_Y,0.0,2017-02-16 16:39:21,True,True
+2017-02-16T16:55:09,Lololololol could be pretty good despite a  reoccurring present day theme,0,0,Cory Swift,bLwII6-92_Y,0.31666666666666665,2017-02-16 16:55:09,True,True
+2017-02-16T16:59:50,😂😂😂😂😂😂😂,0,0,Fortress One,bLwII6-92_Y,0.0,2017-02-16 16:59:50,True,True
+2017-02-16T16:59:59,How did I know Rafi would be behind the whole thing. Smh.,91,2,Tim Robinson,bLwII6-92_Y,-0.1,2017-02-16 16:59:59,True,True
+2017-02-16T17:04:12,"Looks awesome, but side note: pay for your own dam college or work hard enough to get a scholorship. If you cant do it by your own merits then your just a lazy gold digger",0,0,Artillery Mage,bLwII6-92_Y,0.27638888888888885,2017-02-16 17:04:12,True,True
+2017-02-16T17:07:57,Rafi and Ferrell in the same movie? Going to be epic!!,0,0,Mantis Toboggan,bLwII6-92_Y,0.078125,2017-02-16 17:07:57,True,True
+2017-02-16T17:11:02,No Amy Schumer? No Lena Dunham? No Sarah Silverman? No Mark Ruffalo? Ok I'm in.,0,0,Gavin McIngus,bLwII6-92_Y,0.5,2017-02-16 17:11:02,True,True
+2017-02-16T17:12:22,Disappointed,0,0,Brooklyn Style ☑️,bLwII6-92_Y,-0.75,2017-02-16 17:12:22,True,True
+2017-02-16T17:17:47,Rafi bombbb,0,0,AXX XXA,bLwII6-92_Y,0.0,2017-02-16 17:17:47,True,True
+2017-02-16T17:19:33,3 of the funniest people on earth but this looks terrible. Dammit.,0,0,AXX XXA,bLwII6-92_Y,-1.0,2017-02-16 17:19:33,True,True
+2017-02-16T17:22:05,what parents do for their kids,0,0,nesseiht gnay,bLwII6-92_Y,0.0,2017-02-16 17:22:05,True,True
+2017-02-16T17:35:38,"I have a feeling this one's really gonna shine on the red-band side of things, so not worried about laughing hysterically during this trailer. The premise is solid and the entire cast is fantastic, hope it doesn't get buried in the thick of the summer!",0,1,Lucky Day,bLwII6-92_Y,-0.12916666666666668,2017-02-16 17:35:38,True,True
+2017-02-16T17:49:38,They have a huge house that's able to hide a casino  with a big swimming pool and they can't afford college fees ? WTF?,380,20,Jonano 12,bLwII6-92_Y,0.10000000000000003,2017-02-16 17:49:38,True,True
+2017-02-16T17:57:02,when will this appear at the cinema?,1,0,Andrei White,bLwII6-92_Y,0.0,2017-02-16 17:57:02,True,True
+2017-02-16T18:07:43,Mantzoukas!!!!!!!!!!!!   (heynongman),0,0,David Berger,bLwII6-92_Y,0.0,2017-02-16 18:07:43,True,True
+2017-02-16T18:17:56,this looks like old school part 2,0,0,Stremer,bLwII6-92_Y,0.1,2017-02-16 18:17:56,True,True
+2017-02-16T18:22:47,Dennis Feinstein,0,0,Inchan Hwang,bLwII6-92_Y,0.0,2017-02-16 18:22:47,True,True
+2017-02-16T19:02:58,Looks terrible.,98,11,D. Rüesch,bLwII6-92_Y,-1.0,2017-02-16 19:02:58,True,True
+2017-02-16T19:04:02,I am gonna watch it just coz of Will Ferrell...,1,0,Kartik Kumar,bLwII6-92_Y,0.0,2017-02-16 19:04:02,True,True
+2017-02-16T19:08:28,"How Did This Get Made - Episode 200 ... Jason has to watch his own movie. ""This is bonkers.""",1,0,Coweta Score,bLwII6-92_Y,0.6,2017-02-16 19:08:28,True,True
+2017-02-16T19:08:34,GATACA !!,0,0,parker man,bLwII6-92_Y,0.0,2017-02-16 19:08:34,True,True
+2017-02-16T19:32:53,xD im in love with the last part LOL,0,0,Skoll Iki,bLwII6-92_Y,0.43333333333333335,2017-02-16 19:32:53,True,True
+2017-02-16T19:34:13,whats the name of the song in the middle? The one where the bass begins? :),4,0,kayjayMotion,bLwII6-92_Y,0.11666666666666665,2017-02-16 19:34:13,True,True
+2017-02-16T19:51:33,"2:18 ""Tell your friends they mess with usjkdfgfg""   - spilled me water all over myself)))",0,0,YupVideoFever,bLwII6-92_Y,-0.175,2017-02-16 19:51:33,True,True
+2017-02-16T19:59:14,Comedy is hard.,0,0,david letterman,bLwII6-92_Y,-0.2916666666666667,2017-02-16 19:59:14,True,True
+2017-02-16T20:00:53,I will never get tired of seeing Jason Mantzoukas in anything.,1,0,Jesus Torres,bLwII6-92_Y,-0.4,2017-02-16 20:00:53,True,True
+2017-02-16T20:01:33,Ok I laughed at the end,433,8,jourpool,bLwII6-92_Y,0.6,2017-02-16 20:01:33,True,True
+2017-02-16T20:03:14,This is actually good. I am genuinely surprised.,0,0,muyiwa folorunso,bLwII6-92_Y,0.39999999999999997,2017-02-16 20:03:14,True,True
+2017-02-16T20:19:37,lame,0,0,Sam Spencer,bLwII6-92_Y,-0.5,2017-02-16 20:19:37,True,True
+2017-02-16T20:20:18,"I just clicked for Amy, she's the best. Also Adrian Pimento is here!!!",0,0,Eduardo,bLwII6-92_Y,1.0,2017-02-16 20:20:18,True,True
+2017-02-16T20:30:08,"Leslie Knope, Dennis Feinstein, The Douche and Ron Burgundy!!! YES PLEASE!",337,7,Maliha Intikhab,bLwII6-92_Y,0.0,2017-02-16 20:30:08,True,True
+2017-02-16T20:54:43,will ferrel is a bad actor and not funny at all,0,1,ghuldorgrey,bLwII6-92_Y,-0.4124999999999999,2017-02-16 20:54:43,True,True
+2017-02-16T20:57:18,ok that last part got me. lmao,2,0,Richard Armand,bLwII6-92_Y,0.3666666666666667,2017-02-16 20:57:18,True,True
+2017-02-16T21:13:27,This actually might be funny.,0,0,John Jaime,bLwII6-92_Y,0.125,2017-02-16 21:13:27,True,True
+2017-02-16T21:13:59,The whole movie in 2 minutes :-/,0,0,Mind Over Bread,bLwII6-92_Y,-0.024999999999999994,2017-02-16 21:13:59,True,True
+2017-02-16T21:16:55,OK this shit looks funny!,0,0,DeusPlutonix,bLwII6-92_Y,0.2041666666666667,2017-02-16 21:16:55,True,True
+2017-02-16T21:24:21,nope,0,0,klui ranu,bLwII6-92_Y,0.0,2017-02-16 21:24:21,True,True
+2017-02-16T21:29:09,I clicked for Amy Poehler,159,9,mia l,bLwII6-92_Y,0.0,2017-02-16 21:29:09,True,True
+2017-02-16T21:31:18,lol !!!!!!!!,0,0,Hilda Hernandez,bLwII6-92_Y,1.0,2017-02-16 21:31:18,True,True
+2017-02-16T21:32:08,life is hard for middle-class,2,0,Sunwah P.,bLwII6-92_Y,-0.2916666666666667,2017-02-16 21:32:08,True,True
+2017-02-16T21:43:03,That ending had me weak. LOL HAHAHAAHAHAHA,3,0,Danny Bakes,bLwII6-92_Y,0.21250000000000002,2017-02-16 21:43:03,True,True
+2017-02-16T21:49:04,"It has a potential to be funny.. Nowadays, that's a good thing for trailer.",0,0,Chris Tian,bLwII6-92_Y,0.31666666666666665,2017-02-16 21:49:04,True,True
+2017-02-16T21:49:08,"It has a potential to be funny.. Nowadays, that's a good thing for trailer.",0,0,Chris Tian,bLwII6-92_Y,0.31666666666666665,2017-02-16 21:49:08,True,True
+2017-02-16T21:54:22,Tell your friends *whooeeeuu* part got me,0,0,Rhey,bLwII6-92_Y,0.0,2017-02-16 21:54:22,True,True
+2017-02-16T21:56:26,"This is like the holy grail of comedic actors. Brennan, Leslie and Rafi?!",0,0,Nyphty,bLwII6-92_Y,0.0,2017-02-16 21:56:26,True,True
+2017-02-16T21:57:43,"These better not be the best bits in the movie, because they are awesome",0,0,Jarons20,bLwII6-92_Y,0.8333333333333334,2017-02-16 21:57:43,True,True
+2017-02-16T22:08:37,This film is like a metaphor for libtards : When you run out of money just double down by gambling away more #EndTheFed #FIATCurrency #DebtClock,7,3,J Black,bLwII6-92_Y,0.11481481481481481,2017-02-16 22:08:37,True,True
+2017-02-16T22:15:01,<Will Farrel yells something random> the movie,2,1,drogean,bLwII6-92_Y,0.0,2017-02-16 22:15:01,True,True
+2017-02-16T22:20:41,Complimentary drinks and pocket dogs at the Blackjack table.,0,0,Sean Galloway,bLwII6-92_Y,0.3,2017-02-16 22:20:41,True,True
+2017-02-16T22:21:38,Another bullshit movie. Some stupid cheesy ass ending as well.,0,0,HAZ,bLwII6-92_Y,-0.6499999999999999,2017-02-16 22:21:38,True,True
+2017-02-16T22:29:48,Meh,0,0,Ddelop Kwapn,bLwII6-92_Y,0.0,2017-02-16 22:29:48,True,True
+2017-02-16T22:33:44,YAWN,0,0,Aja888888,bLwII6-92_Y,0.0,2017-02-16 22:33:44,True,True
+2017-02-16T22:35:34,Just fill out the FASFA you fucking morons.,0,0,ThereAreNo AvailableNames,bLwII6-92_Y,-0.8,2017-02-16 22:35:34,True,True
+2017-02-16T22:38:30,literally all the funny scenes right there,1,0,HawkHooves,bLwII6-92_Y,0.26785714285714285,2017-02-16 22:38:30,True,True
+2017-02-16T22:42:18,Thanks Philip DeFranco for sending me here...,0,0,King Snake,bLwII6-92_Y,0.2,2017-02-16 22:42:18,True,True
+2017-02-16T22:45:31,I'm so glad to see Amy P. again.  I just finished binge watching Parks N Rec on Netflix!,0,0,Smilin Observer,bLwII6-92_Y,0.625,2017-02-16 22:45:31,True,True
+2017-02-16T23:11:30,Leslie Knope really went down hill after her divorce with Ben,27,0,Bilbo Ballins,bLwII6-92_Y,0.022222222222222213,2017-02-16 23:11:30,True,True
+2017-02-16T23:34:48,"wow.... no one is creative anymore, story taken directly from workaholics",0,0,J C,bLwII6-92_Y,0.2333333333333333,2017-02-16 23:34:48,True,True
+2017-02-16T23:37:10,Anything with Amy Poehler is an immediate yes for me to see in theaters.,7,0,EJ Land,bLwII6-92_Y,0.0,2017-02-16 23:37:10,True,True
+2017-02-16T23:40:27,Yawn.,0,0,Soulgraven,bLwII6-92_Y,0.0,2017-02-16 23:40:27,True,True
+2017-02-16T23:44:15,omg  hilarious,0,0,Jedi Knight,bLwII6-92_Y,0.5,2017-02-16 23:44:15,True,True
+2017-02-16T23:50:26,Jesus people are right my generation is whiny. People barely saw two minutes of content and are bitching away. How about be happy Will is doing another comedy. At this point every trailer of anything is being trashed at least wait to complain till after you see it.,0,0,Sedrick J,bLwII6-92_Y,0.2089285714285714,2017-02-16 23:50:26,True,True
+2017-02-16T23:55:46,parents paying for the kid's college tuition?  Genre: Fantasy,908,10,MCIzawa,bLwII6-92_Y,0.0,2017-02-16 23:55:46,True,True
+2017-02-17T00:00:11,They took the women's sunglasses joke from when Will did it on Conan a few years ago.,0,0,David M.,bLwII6-92_Y,-0.2,2017-02-17 00:00:11,True,True
+2017-02-17T00:13:17,0:48  did they just say will ferrell is 40? lol,0,0,LiaThePenguinologist,bLwII6-92_Y,0.8,2017-02-17 00:13:17,True,True
+2017-02-17T00:43:17,No need to see the movie now. That was all the parts worth laughing at.,2,0,dogwoodfan777,bLwII6-92_Y,0.3,2017-02-17 00:43:17,True,True
+2017-02-17T00:45:17,"Ok, this looks good.",0,0,Extracted Beats,bLwII6-92_Y,0.6,2017-02-17 00:45:17,True,True
+2017-02-17T00:51:12,THE WOMENS SUNGLASSES FROM CONAN!,0,0,Alex H,bLwII6-92_Y,0.0,2017-02-17 00:51:12,True,True
+2017-02-17T01:00:27,I'm only watching this for jason mantzoukas. KUMITE KUMITE KUMITE,4,0,CincoMilÁrboles,bLwII6-92_Y,0.0,2017-02-17 01:00:27,True,True
+2017-02-17T01:01:07,this looks hilarious!! i love amy poehler!,1,0,aecrosie,bLwII6-92_Y,0.703125,2017-02-17 01:01:07,True,True
+2017-02-17T01:22:00,Rafi and Ruspin in the same movie should be funny! lol!,0,0,n00b2b3r,bLwII6-92_Y,0.4375,2017-02-17 01:22:00,True,True
+2017-02-17T01:32:44,I clicked for Leslie Knope,1,0,Daev,bLwII6-92_Y,0.0,2017-02-17 01:32:44,True,True
+2017-02-17T01:40:29,That was a good movie. Thanks.,0,0,Bad Santa,bLwII6-92_Y,0.44999999999999996,2017-02-17 01:40:29,True,True
+2017-02-17T01:44:42,looks garbage,0,0,Cameron Hunter,bLwII6-92_Y,0.0,2017-02-17 01:44:42,True,True
+2017-02-17T01:55:44,... this is such an Obama era movie. Bring on the Trump effect!,0,0,MetalArms,bLwII6-92_Y,0.0,2017-02-17 01:55:44,True,True
+2017-02-17T02:01:46,Doesn't look that good - and not to make it ultra serious but student loan debt is a serious issue I really wish some of these movies would try to make a more poignant message about how people are fucking broke and it's the for profit college model that is the issue but my guess is they won't. I love will Ferrell and I hope this is good  Some implausible plot about an underground casino which nobody reports on immediately? If 100 ppl go through at least one person will tell the Feds they would be shut down within a week. I get that it's a movie and whatever but that sticks out to me,9,0,A_Socialist_Channel,bLwII6-92_Y,0.07979797979797981,2017-02-17 02:01:46,True,True
+2017-02-17T02:04:49,Heyong man,0,0,Colin R,bLwII6-92_Y,0.0,2017-02-17 02:04:49,True,True
+2017-02-17T02:08:26,"looked retarded, the masses will love it.",0,0,Sharkfan,bLwII6-92_Y,-0.15000000000000002,2017-02-17 02:08:26,True,True
+2017-02-17T02:36:49,agent pimento! awsome that guy is hillarious,0,0,iconocast,bLwII6-92_Y,0.0,2017-02-17 02:36:49,True,True
+2017-02-17T02:47:39,"Not bad, I enjoyed it. Pretty short movie but at least it was free.",0,0,Adam Wilson,bLwII6-92_Y,0.19999999999999996,2017-02-17 02:47:39,True,True
+2017-02-17T02:50:03,that beginning lmao,0,0,Famhe,bLwII6-92_Y,0.6,2017-02-17 02:50:03,True,True
+2017-02-17T03:07:53,Looks like a shitty Ferrell movie.,0,0,Zander Perkalator,bLwII6-92_Y,0.0,2017-02-17 03:07:53,True,True
+2017-02-17T03:44:26,HAHAHAAHHAHA,0,0,mike dick,bLwII6-92_Y,0.0,2017-02-17 03:44:26,True,True
+2017-02-17T03:48:39,"Amy Poehler and Will Ferrell, interesting duo",1,0,ExotiCxWhiteKiD,bLwII6-92_Y,0.5,2017-02-17 03:48:39,True,True
+2017-02-17T03:50:11,nyc,0,0,Attention Seeker,bLwII6-92_Y,0.0,2017-02-17 03:50:11,True,True
+2017-02-17T03:54:15,Came for Ferrel and Poehler staying for Mantzoukas!!,0,0,Madison Cook,bLwII6-92_Y,0.0,2017-02-17 03:54:15,True,True
+2017-02-17T04:01:29,is that nuclear nadal????,0,0,BP Rimal,bLwII6-92_Y,0.0,2017-02-17 04:01:29,True,True
+2017-02-17T04:03:21,Omg #solovingthis,0,0,Cooliotopnotch,bLwII6-92_Y,0.0,2017-02-17 04:03:21,True,True
+2017-02-17T04:04:06,Glad to see Will back on the big screen,0,0,Daily Foodie,bLwII6-92_Y,0.16666666666666666,2017-02-17 04:04:06,True,True
+2017-02-17T04:06:08,2:20 I CHOCKED ON MY CEREAL 😂😂,0,0,Jordan Vasquez,bLwII6-92_Y,0.0,2017-02-17 04:06:08,True,True
+2017-02-17T04:06:28,"WHAT'S UP, JERKS!!!!",1,0,Adam Jarrett,bLwII6-92_Y,0.0,2017-02-17 04:06:28,True,True
+2017-02-17T04:11:52,Looks stupid,0,0,IL Scrapple,bLwII6-92_Y,-0.7999999999999999,2017-02-17 04:11:52,True,True
+2017-02-17T04:15:14,This looks like trash,0,0,Jake JAnkow,bLwII6-92_Y,0.0,2017-02-17 04:15:14,True,True
+2017-02-17T04:15:23,I'll watch it for free this fall.,0,0,Freedom Lover,bLwII6-92_Y,0.4,2017-02-17 04:15:23,True,True
+2017-02-17T04:19:45,"Even if THEY DID have $401,000, they still WOULDN'T be able to pay that tuition😂",3,0,Levi Torres,bLwII6-92_Y,0.5,2017-02-17 04:19:45,True,True
+2017-02-17T04:20:31,"If they live in a house like that, they can afford tuition.",893,15,Jake,bLwII6-92_Y,0.13636363636363635,2017-02-17 04:20:31,True,True
+2017-02-17T04:22:23,Old people humor: The Movie.,0,0,Daniel,bLwII6-92_Y,0.1,2017-02-17 04:22:23,True,True
+2017-02-17T04:23:35,whoever says they should just get a student loan has obviously never had a student loan.,0,0,Terry I,bLwII6-92_Y,0.0,2017-02-17 04:23:35,True,True
+2017-02-17T04:27:04,"Jeezus, Will Farrell is immortal.",4,0,Locust VII,bLwII6-92_Y,0.0,2017-02-17 04:27:04,True,True
+2017-02-17T04:28:16,"This has a similar basic premise to ""Stealing Harvard"". (People commit crime to pay for a close family member's collage tuition, because they don't want to crush someone's dreams)",0,0,Gammera,bLwII6-92_Y,0.0,2017-02-17 04:28:16,True,True
+2017-02-17T04:30:30,Does Bucknell have the copyright here? @bucknell ALO??? Union County?,9,3,Kaela Diomede,bLwII6-92_Y,0.0,2017-02-17 04:30:30,True,True
+2017-02-17T04:33:56,FUCK YES!!!!!!,0,0,HowToBambi,bLwII6-92_Y,-1.0,2017-02-17 04:33:56,True,True
+2017-02-17T04:37:04,"Will ferrell and amy poehler could pay for 10,000 kids 4 year tuition cmon and maybe even grad school",1,0,Le Me,bLwII6-92_Y,0.0,2017-02-17 04:37:04,True,True
+2017-02-17T04:37:28,hey guys new video uoloaded come check It out be awesome if you did,0,0,gaming with rick,bLwII6-92_Y,0.5681818181818181,2017-02-17 04:37:28,True,True
+2017-02-17T04:45:22,Watching only for Rafi,0,0,Davon85J,bLwII6-92_Y,0.0,2017-02-17 04:45:22,True,True
+2017-02-17T04:49:39,Wow Rafi and Ruxin are in it,0,0,Andrew Bergeron,bLwII6-92_Y,0.1,2017-02-17 04:49:39,True,True
+2017-02-17T04:49:57,Will Ferrell the ultimate SJW,0,0,Alex B,bLwII6-92_Y,0.0,2017-02-17 04:49:57,True,True
+2017-02-17T04:50:02,I have a feeling this is gonna be really bad..,0,0,ben larson,bLwII6-92_Y,-0.6999999999999998,2017-02-17 04:50:02,True,True
+2017-02-17T05:05:16,Make Step Brothers 2 already.,1,0,Shelby S.,bLwII6-92_Y,0.0,2017-02-17 05:05:16,True,True
+2017-02-17T05:09:59,Dirty Randy!,0,0,Justin Thompson,bLwII6-92_Y,-0.75,2017-02-17 05:09:59,True,True
+2017-02-17T05:14:30,FUCK Berkley,0,0,B Wood,bLwII6-92_Y,-0.4,2017-02-17 05:14:30,True,True
+2017-02-17T05:21:59,a snl skit from the cutting floor ..brought.back to life...and still not funny...,0,0,Dan Banks,bLwII6-92_Y,-0.3625,2017-02-17 05:21:59,True,True
+2017-02-17T05:26:04,not supposed to run in the tracksuit-,1,0,Traveling-Stranger,bLwII6-92_Y,0.0,2017-02-17 05:26:04,True,True
+2017-02-17T05:27:20,Heynong man!,0,0,jeffjeff jeffjeff,bLwII6-92_Y,0.0,2017-02-17 05:27:20,True,True
+2017-02-17T05:29:32,WILL = 💩,0,0,Mister Anonymous,bLwII6-92_Y,0.0,2017-02-17 05:29:32,True,True
+2017-02-17T05:37:41,LOL when that guy almost barfed!  I just couldn't 😂,0,0,Bible Studies and Devotions,bLwII6-92_Y,1.0,2017-02-17 05:37:41,True,True
+2017-02-17T05:47:18,Will Ferrell wishes he was 40 years old again.,0,0,osbely,bLwII6-92_Y,0.1,2017-02-17 05:47:18,True,True
+2017-02-17T05:50:47,Seems like a ridiculous premise to fill 90 minutes .,0,0,midtownjohn,bLwII6-92_Y,-0.3333333333333333,2017-02-17 05:50:47,True,True
+2017-02-17T05:54:33,why does will ferrel waste precious time on garbage like this anyone else got the predictable cliche r rated comedian movie thats been played out to a T by now.THINK OF NEW IDEAS PEOPLE!,0,0,Indigo Primo,bLwII6-92_Y,0.06761363636363635,2017-02-17 05:54:33,True,True
+2017-02-17T05:59:57,Rafi!!!!!,0,0,DannyBoi,bLwII6-92_Y,0.0,2017-02-17 05:59:57,True,True
+2017-02-17T06:02:46,hopefully she dont get killed in a riot,1,0,TheMayko,bLwII6-92_Y,-0.2,2017-02-17 06:02:46,True,True
+2017-02-17T06:04:12,Movie looks funny 😂,0,0,DemBoyz 7,bLwII6-92_Y,0.25,2017-02-17 06:04:12,True,True
+2017-02-17T06:08:12,"I love comedy movie❤ I'm so interested in this movie❤ Happy day, everybody❤ Please come to my channel and enjoy my animation, too❤",0,0,Happy Bear Kid ANDREA,bLwII6-92_Y,0.48750000000000004,2017-02-17 06:08:12,True,True
+2017-02-17T06:12:20,Guarantee there's a scene with Will Ferrell in his underwear in this movie.,0,0,Dan Shouse,bLwII6-92_Y,0.0,2017-02-17 06:12:20,True,True
+2017-02-17T06:13:18,"Didn't really chuckle. And that's rare if the video has Will Ferrel in it.  P.S. Can we get a sequel to ""The Other Guys""?",0,0,MegaPocketMon,bLwII6-92_Y,0.125,2017-02-17 06:13:18,True,True
+2017-02-17T06:18:18,"Never stop making movies Will, after adam sander became not funny you have become my favorite comedy actor",0,0,Yung Slay,bLwII6-92_Y,0.1875,2017-02-17 06:18:18,True,True
+2017-02-17T06:19:52,If you love facts guys then subscribe to my channel to get to know things you would love. :),0,0,Md. Shakib Hossain,bLwII6-92_Y,0.5,2017-02-17 06:19:52,True,True
+2017-02-17T06:20:00,Didn't laugh once during this. Avoid at all costs this summer.,0,0,Noise Pollution,bLwII6-92_Y,0.3,2017-02-17 06:20:00,True,True
+2017-02-17T06:22:06,"oh, adorable parents",0,0,Alexandra Donnadieu,bLwII6-92_Y,0.5,2017-02-17 06:22:06,True,True
+2017-02-17T06:29:21,It's late at night but the ending really got me 😂😂,0,0,Movie Man Mark,bLwII6-92_Y,-0.04999999999999999,2017-02-17 06:29:21,True,True
+2017-02-17T06:32:39,"I'll just say a quote from the movie and get likes. ""90, 100, if I have some scratch paper I can figure it out"". -___-",0,0,Chilolo 14,bLwII6-92_Y,0.0,2017-02-17 06:32:39,True,True
+2017-02-17T06:37:49,"Who wants to lick ballsacks, pays 20$ an hour? contact me for more info i'd be pleased to get sack to you",1,0,Wafflesnugget Ryan Gutierrez,bLwII6-92_Y,0.39999999999999997,2017-02-17 06:37:49,True,True
+2017-02-17T06:41:32,watch my vids,0,0,Francis Lenane,bLwII6-92_Y,0.0,2017-02-17 06:41:32,True,True
+2017-02-17T06:45:28,anyone know what the song at the end is?,1,1,Connor Skoglund,bLwII6-92_Y,0.0,2017-02-17 06:45:28,True,True
+2017-02-17T06:52:45,Cannot wait. FML NEED IT NOW!,0,0,Teh Redbaron,bLwII6-92_Y,0.0,2017-02-17 06:52:45,True,True
+2017-02-17T06:54:35,i think I've just seen the entire movie. :D,0,0,Peter Cho,bLwII6-92_Y,0.5,2017-02-17 06:54:35,True,True
+2017-02-17T06:54:39,UC Berkeley ewww they shun free speech. Fuck that place,0,0,Jhn,bLwII6-92_Y,0.0,2017-02-17 06:54:39,True,True
+2017-02-17T06:56:42,What's up tall guy,0,0,NC_29 North,bLwII6-92_Y,0.0,2017-02-17 06:56:42,True,True
+2017-02-17T07:01:03,"Bbbobbbbbhblh,hbbbbhbbbhbbbbbb.  Bbb.      B. B. Bl.             Br.              Qfl.      .     Q.                        ..",0,0,Geoffrey Neylon,bLwII6-92_Y,0.0,2017-02-17 07:01:03,True,True
+2017-02-17T07:09:32,"Girl says ""Hey guy, do this math; 1+1=???"" Guy answers ""3?... 10?"" Girl responds ""No, wrong.. honey..""  Hahahahaha, can I be a Hollywood script writer now?",0,0,OneMor3Win,bLwII6-92_Y,0.225,2017-02-17 07:09:32,True,True
+2017-02-17T07:29:46,Rafi bomb!,0,0,YzzleMate,bLwII6-92_Y,0.0,2017-02-17 07:29:46,True,True
+2017-02-17T07:36:21,"alright that last joke made me laugh, I'm watching it!",0,0,IG:Tmoney__310 Anthony Carrillo,bLwII6-92_Y,0.1875,2017-02-17 07:36:21,True,True
+2017-02-17T07:40:24,RAFI BOMB,0,0,2SweetKyle,bLwII6-92_Y,0.0,2017-02-17 07:40:24,True,True
+2017-02-17T07:42:09,I like most comedies with Will Ferrell so I'll definitely watch this :),51,5,Hound Life Vlogs,bLwII6-92_Y,0.3333333333333333,2017-02-17 07:42:09,True,True
+2017-02-17T07:55:29,"Well, glad I didn't have to pay to watch the whole thing.",0,0,Jamal Richardson,bLwII6-92_Y,0.35,2017-02-17 07:55:29,True,True
+2017-02-17T07:56:04,Why would anyone promote criminal activity,0,0,lilmikefosho,bLwII6-92_Y,-0.4,2017-02-17 07:56:04,True,True
+2017-02-17T08:08:27,Why does Hollywood have to add sound effect to all mouse clicks in movies and tv shows... No computers do that,0,0,jiggatasticly,bLwII6-92_Y,0.4,2017-02-17 08:08:27,True,True
+2017-02-17T08:13:09,That last gag is classic Mantzoukas,2,0,YuzBeK,bLwII6-92_Y,0.08333333333333333,2017-02-17 08:13:09,True,True
+2017-02-17T08:17:13,Was I supposed to laugh during this?,0,0,Patrick B,bLwII6-92_Y,0.3,2017-02-17 08:17:13,True,True
+2017-02-17T08:24:36,that ending though had me in stitches looks great !,0,0,Zombie Terrorist,bLwII6-92_Y,1.0,2017-02-17 08:24:36,True,True
+2017-02-17T08:30:15,I clicked for Amy poehler,0,0,Shanella Akhtar,bLwII6-92_Y,0.0,2017-02-17 08:30:15,True,True
+2017-02-17T08:46:49,yawn,0,0,spaceman,bLwII6-92_Y,0.0,2017-02-17 08:46:49,True,True
+2017-02-17T08:50:20,"ahahaaha looks funny! party, gambling sweet!",0,0,My family adventures in life,bLwII6-92_Y,0.375,2017-02-17 08:50:20,True,True
+2017-02-17T08:55:37,I would be way more excited if Amy wasn't in this movie,0,0,Taniya K,bLwII6-92_Y,0.4375,2017-02-17 08:55:37,True,True
+2017-02-17T09:00:40,I'm pretty sure this movie idea only sounded good on paper.,0,0,Lobo Cua,bLwII6-92_Y,0.3625,2017-02-17 09:00:40,True,True
+2017-02-17T09:13:57,looks awful.,0,0,anadin0612,bLwII6-92_Y,-1.0,2017-02-17 09:13:57,True,True
+2017-02-17T09:15:20,Pavilions the best,0,0,Monkeith Tinsley,bLwII6-92_Y,1.0,2017-02-17 09:15:20,True,True
+2017-02-17T09:20:38,just NO,0,0,Rocket Power,bLwII6-92_Y,0.0,2017-02-17 09:20:38,True,True
+2017-02-17T09:24:04,Good,0,0,mohaned Al YAHIA,bLwII6-92_Y,0.7,2017-02-17 09:24:04,True,True
+2017-02-17T09:24:25,this looks like the type of movie that has all the funny and worth watching parts in the trailer.,2,0,RS1,bLwII6-92_Y,0.275,2017-02-17 09:24:25,True,True
+2017-02-17T09:27:39,I'm going to bed now  When I wake up  I want 69 thumbs up  Also sub to my channel  Jks I have no content,0,0,Billy Ketkeophomphone,bLwII6-92_Y,0.0,2017-02-17 09:27:39,True,True
+2017-02-17T09:31:19,This looks like it's going to suck. Will is washed up and not funny at all,0,0,RedCorngamin,bLwII6-92_Y,-0.125,2017-02-17 09:31:19,True,True
+2017-02-17T09:38:16,nope. NEXT!!!,0,0,gadsen kresczwyk,bLwII6-92_Y,0.0,2017-02-17 09:38:16,True,True
+2017-02-17T09:41:53,fix for this: don't send your kids to commie college to learn lesbian dance theory. we don't need more Berkeley riots,1,0,James McCullen XXIV,bLwII6-92_Y,0.5,2017-02-17 09:41:53,True,True
+2017-02-17T09:48:34,#istandwithpewdiepie,0,0,TheMiasmik,bLwII6-92_Y,0.0,2017-02-17 09:48:34,True,True
+2017-02-17T10:04:13,the daughter is super girl,0,0,The Gaming evaluation,bLwII6-92_Y,0.3333333333333333,2017-02-17 10:04:13,True,True
+2017-02-17T10:09:50,"Stupid yuppie comedy, fuck this garbage.",7,0,VicRules666,bLwII6-92_Y,-0.6,2017-02-17 10:09:50,True,True
+2017-02-17T10:10:28,i have seen this movie it is funny and heart touching to,0,0,GRIM NATION,bLwII6-92_Y,0.375,2017-02-17 10:10:28,True,True
+2017-02-17T10:18:27,Looks weak af,4,4,Tom KN,bLwII6-92_Y,-0.375,2017-02-17 10:18:27,True,True
+2017-02-17T10:22:37,' q,0,0,Ruqaiyah Alwazir,bLwII6-92_Y,0.0,2017-02-17 10:22:37,True,True
+2017-02-17T10:25:45,wow she got into Berkeley. that's like finally being able to buy a ford focus,1,0,Ninjaman195,bLwII6-92_Y,0.19999999999999998,2017-02-17 10:25:45,True,True
+2017-02-17T10:26:51,this movie looks pretty promising but if it's like all will ferrel movies we could have a problem,0,0,hamzoot,bLwII6-92_Y,0.225,2017-02-17 10:26:51,True,True
+2017-02-17T10:42:49,Lookin forward to seeing this.,0,0,KingDoms Kingdom1985,bLwII6-92_Y,0.0,2017-02-17 10:42:49,True,True
+2017-02-17T10:58:42,Omg. Worst shit ever.    What happened to film?,17,2,Jimmy B,bLwII6-92_Y,-0.6,2017-02-17 10:58:42,True,True
+2017-02-17T11:03:14,fuckin good movie,0,0,Anmol Bhardwaj,bLwII6-92_Y,0.7,2017-02-17 11:03:14,True,True
+2017-02-17T11:03:38,This is like a UCB alumni reunion movie.,0,0,12345678abracadabra,bLwII6-92_Y,0.0,2017-02-17 11:03:38,True,True
+2017-02-17T11:07:10,#tonyhandal,0,0,Tony Handal,bLwII6-92_Y,0.0,2017-02-17 11:07:10,True,True
+2017-02-17T11:07:29,#Ana Only,0,0,Tony Handal,bLwII6-92_Y,0.0,2017-02-17 11:07:29,True,True
+2017-02-17T11:07:45,#AnaOnly,0,0,Tony Handal,bLwII6-92_Y,0.0,2017-02-17 11:07:45,True,True
+2017-02-17T11:12:49,Looks painfully unfunny....,0,0,Grrrr....Maritz,bLwII6-92_Y,-0.7,2017-02-17 11:12:49,True,True
+2017-02-17T11:19:40,good to see will ferrell back,0,0,matzmx,bLwII6-92_Y,0.35,2017-02-17 11:19:40,True,True
+2017-02-17T11:28:37,will 4 ever,0,0,Yallah Habeebi,bLwII6-92_Y,0.0,2017-02-17 11:28:37,True,True
+2017-02-17T11:30:18,I clicked on this cus youtube lagged and now i want this movie..,0,0,David B,bLwII6-92_Y,0.0,2017-02-17 11:30:18,True,True
+2017-02-17T11:34:40,SPOILER ALERT: daugthers going to solve problem by signing up for student loan at the end of movie.,0,0,Emoe Blk,bLwII6-92_Y,0.0,2017-02-17 11:34:40,True,True
+2017-02-17T11:36:01,so she imidietly got into Berkley,0,0,Justin Kunz,bLwII6-92_Y,0.0,2017-02-17 11:36:01,True,True
+2017-02-17T11:37:34,"Hey random person in the comment section,follow your dreams and help me follow mine. My goal is to hit 1000 subscribers by the end of summer please help me hit this milestone :) (everyone who subs i will sub back to)",2,0,AYB Music,bLwII6-92_Y,0.0,2017-02-17 11:37:34,True,True
+2017-02-17T11:47:43,Will Ferrell the best of the best!!!,2,4,lala omar,bLwII6-92_Y,1.0,2017-02-17 11:47:43,True,True
+2017-02-17T12:03:41,Was that just the whole me movie we saw?,1,0,bluewhale18,bLwII6-92_Y,0.2,2017-02-17 12:03:41,True,True
+2017-02-17T12:10:09,Rafi the movie?,0,0,Mike D,bLwII6-92_Y,0.0,2017-02-17 12:10:09,True,True
+2017-02-17T12:10:58,twgegeghf,0,0,ياسين خؤشناو,bLwII6-92_Y,0.0,2017-02-17 12:10:58,True,True
+2017-02-17T12:14:16,Well this looks terrible,0,0,Bajan182,bLwII6-92_Y,-1.0,2017-02-17 12:14:16,True,True
+2017-02-17T12:18:33,uhhh...student loans?,0,0,Tariq Elagamy,bLwII6-92_Y,0.0,2017-02-17 12:18:33,True,True
+2017-02-17T12:27:04,"Hollywood should back 30 years ago when movies had real comedy. How is this funny? is the same thing in all of them, sex,cursing, alcohol and naked people?? lol is so sad that apparently this is what most people like.",0,0,Vanessa Pascual,bLwII6-92_Y,0.14444444444444446,2017-02-17 12:27:04,True,True
+2017-02-17T12:29:04,Good love that person and to play comedy!!! I don't know his name but I've seen a lot of his movies! The special love education before his fake family and prison!!!,0,0,李文秋,bLwII6-92_Y,0.3161160714285714,2017-02-17 12:29:04,True,True
+2017-02-17T12:35:26,With that cast this can't not be funny,0,0,Kevin William,bLwII6-92_Y,0.25,2017-02-17 12:35:26,True,True
+2017-02-17T12:39:17,Pimentooooo fuck yeah,0,0,Sir Digby Chicken Caesar,bLwII6-92_Y,-0.4,2017-02-17 12:39:17,True,True
+2017-02-17T12:40:30,This looks dumb..  Not to mention you basically watched the entire movie in the trailer.,0,0,John Lamb,bLwII6-92_Y,-0.1875,2017-02-17 12:40:30,True,True
+2017-02-17T12:43:08,1.51 honestly I thought it was like a no swearing movie but they said sceew it and did it good shit do,1,0,Subscribe For Free Nando's,bLwII6-92_Y,0.36666666666666664,2017-02-17 12:43:08,True,True
+2017-02-17T12:47:38,I'm only here for Will Ferrel 🔥,5,1,Abdi Tyrow,bLwII6-92_Y,0.0,2017-02-17 12:47:38,True,True
+2017-02-17T12:50:20,Yawn!,0,0,Maxxiggor,bLwII6-92_Y,0.0,2017-02-17 12:50:20,True,True
+2017-02-17T12:51:31,Whats Thise,1,3,SAMERA SHAWAMREH,bLwII6-92_Y,0.0,2017-02-17 12:51:31,True,True
+2017-02-17T12:52:29,I paid all my college by my self. why do her parents have to pay for it?,0,2,Lost Puppy,bLwII6-92_Y,0.0,2017-02-17 12:52:29,True,True
+2017-02-17T12:54:18,well this looks like dog shite,0,0,Leafblade15,bLwII6-92_Y,0.0,2017-02-17 12:54:18,True,True
+2017-02-17T12:57:18,The Parents of Wall Street,0,0,RJ John,bLwII6-92_Y,0.0,2017-02-17 12:57:18,True,True
+2017-02-17T12:58:45,it's Will Ferrell if you make it I WILL Watch...............,0,0,stephsmithanie,bLwII6-92_Y,0.0,2017-02-17 12:58:45,True,True
+2017-02-17T13:09:38,"this actually looks funny and the plot is pretty good, i'll bite",0,0,olivia f,bLwII6-92_Y,0.3,2017-02-17 13:09:38,True,True
+2017-02-17T13:16:17,So this is what Al-Adeen's nuclear scientist was been doing...,1,1,;_; 7,bLwII6-92_Y,0.0,2017-02-17 13:16:17,True,True
+2017-02-17T13:31:18,Man what a cast!!,0,0,Clude98,bLwII6-92_Y,0.0,2017-02-17 13:31:18,True,True
+2017-02-17T13:48:14,we want step brothers 2 screw this shit!,0,0,HalfHarry,bLwII6-92_Y,-0.25,2017-02-17 13:48:14,True,True
+2017-02-17T13:53:46,I'm looking forward to seeing this.....,0,0,Zade,bLwII6-92_Y,0.0,2017-02-17 13:53:46,True,True
+2017-02-17T13:53:53,Another generic Hollywood comedy.,1,0,RetroSteve,bLwII6-92_Y,0.0,2017-02-17 13:53:53,True,True
+2017-02-17T13:57:11,"Just cos dey 'ave dis nice house, dont gon mean dey 'av bare £££ hanging 'bout da place, innit?",0,0,A Man Has No Name,bLwII6-92_Y,0.11249999999999999,2017-02-17 13:57:11,True,True
+2017-02-17T14:07:34,Amy poehler and will Ferrell. Hm. Never thought That'd be a movie couple I'd see. I think it's an interesting match up given how funny they both are though.,0,0,Kam S,bLwII6-92_Y,0.375,2017-02-17 14:07:34,True,True
+2017-02-17T14:28:34,Yay or Nay,0,0,GnosticViking,bLwII6-92_Y,0.0,2017-02-17 14:28:34,True,True
+2017-02-17T14:32:46,"This looks so fucking boring, cliche, unoriginal, generic.... Fuck this movie",4,0,NinjaKillaGaming,bLwII6-92_Y,-0.4,2017-02-17 14:32:46,True,True
+2017-02-17T14:33:09,are those women's sunglasses? ... no. they're Italian,0,0,Jerry P,bLwII6-92_Y,0.0,2017-02-17 14:33:09,True,True
+2017-02-17T14:33:15,I've been waiting for a good will Farrell movie,0,0,BuddhaJetSki,bLwII6-92_Y,0.7,2017-02-17 14:33:15,True,True
+2017-02-17T14:35:54,Thanks for the whole movie.,0,0,Yeahboi,bLwII6-92_Y,0.2,2017-02-17 14:35:54,True,True
+2017-02-17T14:36:03,"hey guys, you wanna check out my  channel? you don't have to",0,0,Slictorshades2,bLwII6-92_Y,0.0,2017-02-17 14:36:03,True,True
+2017-02-17T14:36:54,0:58 the guy from the office!!!! I love him!!!,0,0,Kirk Meyers,bLwII6-92_Y,0.9765625,2017-02-17 14:36:54,True,True
+2017-02-17T14:37:36,I don't know why I love it so much!,0,0,Half Orc Monk,bLwII6-92_Y,0.375,2017-02-17 14:37:36,True,True
+2017-02-17T14:49:49,the end had me laughing,0,0,John Mare,bLwII6-92_Y,0.0,2017-02-17 14:49:49,True,True
+2017-02-17T14:52:36,"A blonde woman had financial problems, so she decided to kidnap a child in exchange for a ransom. She went to a park, kidnapped a little boy, took him behind a tree and wrote on a note: ""I've kidnapped your child. Leave 25,000 Dollars in a brown paper bag behind the big park oak at 7:00 in the morning tomorrow."" The note was signed: ""blonde"" She hung the note inside the little boy's jacket and told him to go home. The next morning, the blonde returned to the park to recover the $ 25,000, as she had asked about the instructions. In the bag, was the following note: ""Here's your money, I never thought a blonde could do that to another blonde !!!!""",0,0,Animal Sounds,bLwII6-92_Y,-0.09038461538461538,2017-02-17 14:52:36,True,True
+2017-02-17T15:15:21,I could watch this  :),0,0,FreakyLynx,bLwII6-92_Y,0.5,2017-02-17 15:15:21,True,True
+2017-02-17T15:18:32,meh,0,0,Sam M,bLwII6-92_Y,0.0,2017-02-17 15:18:32,True,True
+2017-02-17T15:19:01,America has such a fucked up education system,0,0,R&R Wargaming,bLwII6-92_Y,-0.3,2017-02-17 15:19:01,True,True
+2017-02-17T15:20:33,Will Ferrell doesn't disappoint. Even if a movie is utter garbage he still puts all his energy and comedic talents into it.,0,0,CS CUZ,bLwII6-92_Y,0.0,2017-02-17 15:20:33,True,True
+2017-02-17T15:21:27,When comedy movies don't even try anymore so they resort to low clueless humor,1,1,OrigamiSt3ve,bLwII6-92_Y,0.0,2017-02-17 15:21:27,True,True
+2017-02-17T15:24:36,This is great! I love Will Ferrel!,0,0,Kala Hill,bLwII6-92_Y,0.8125,2017-02-17 15:24:36,True,True
+2017-02-17T15:25:22,How is this regarded as comedy?,0,0,Kadz Daman,bLwII6-92_Y,0.0,2017-02-17 15:25:22,True,True
+2017-02-17T15:25:51,that brooklyn nine nine guy is awesome.,0,0,Ankit,bLwII6-92_Y,1.0,2017-02-17 15:25:51,True,True
+2017-02-17T15:26:42,Please don't let me down with this one Ferrell.,0,0,Wooz Wooz,bLwII6-92_Y,-0.15555555555555559,2017-02-17 15:26:42,True,True
+2017-02-17T15:27:50,I'd like to see Farrell in a dramatic role once. might be fun.,0,2,_rmaze_ Quiambao,bLwII6-92_Y,-0.06666666666666665,2017-02-17 15:27:50,True,True
+2017-02-17T15:28:47,CHECK RECENT POST FOR INSANE BOTTLE FLIP!!!,0,0,Brady L,bLwII6-92_Y,-0.5,2017-02-17 15:28:47,True,True
+2017-02-17T15:29:44,Who's the girl at 1:08 I feel like I've seen her before,0,0,eclips0nGames,bLwII6-92_Y,0.0,2017-02-17 15:29:44,True,True
+2017-02-17T15:35:52,"So this movie will either be really good, or suck super hard like the recent comedies we've gotten.",0,0,Nicholas Foss,bLwII6-92_Y,0.18541666666666662,2017-02-17 15:35:52,True,True
+2017-02-17T15:36:30,ughhhhhhhhhhhhhhhhhhh Will Ferrell movies... ugh,0,0,Overkills,bLwII6-92_Y,0.0,2017-02-17 15:36:30,True,True
+2017-02-17T15:39:11,"Please subscribe to my channel! I post world record gameplays on the daily, and every viewer and subscriber helps.",1,0,Tyler Olson,bLwII6-92_Y,0.0,2017-02-17 15:39:11,True,True
+2017-02-17T15:43:05,what's the rating tho?,0,0,Kayla Tracy,bLwII6-92_Y,0.0,2017-02-17 15:43:05,True,True
+2017-02-17T15:43:23,This seems more like an indictment of America's education system than a comedy,0,0,Yan Nezhinsky,bLwII6-92_Y,0.5,2017-02-17 15:43:23,True,True
+2017-02-17T15:47:11,Is it just me or is Will Ferrell's comedy slowly traversing down the depths of a porter potty.,4,1,Aaron 117,bLwII6-92_Y,-0.2277777777777778,2017-02-17 15:47:11,True,True
+2017-02-17T15:47:43,you'll laugh..you'll cry..you'll kiss 10$ goodbye!,0,0,david zero,bLwII6-92_Y,0.0,2017-02-17 15:47:43,True,True
+2017-02-17T15:51:13,i laughed zero times.,0,0,R Rastogi,bLwII6-92_Y,0.7,2017-02-17 15:51:13,True,True
+2017-02-17T15:54:21,Why pay to go and see the full movie when they've already condensed it down to 2 minutes and 27 seconds?,0,0,Stephen Mills,bLwII6-92_Y,0.0972222222222222,2017-02-17 15:54:21,True,True
+2017-02-17T15:55:07,White people.,0,0,Joel Menjivar,bLwII6-92_Y,0.0,2017-02-17 15:55:07,True,True
+2017-02-17T15:57:56,Hey guys its my birthday today i am very happy today! can people please mabey subscribe as a birthday present,0,0,Inky Animations,bLwII6-92_Y,0.5,2017-02-17 15:57:56,True,True
+2017-02-17T15:59:13,👍🏼,0,0,chawo chilin,bLwII6-92_Y,0.0,2017-02-17 15:59:13,True,True
+2017-02-17T16:05:59,Lil,0,0,David Stewart,bLwII6-92_Y,0.0,2017-02-17 16:05:59,True,True
+2017-02-17T16:07:39,I love those films with Chad Smith.,0,0,David Pear,bLwII6-92_Y,0.5,2017-02-17 16:07:39,True,True
+2017-02-17T16:15:50,White people....,2,0,videodude2010,bLwII6-92_Y,0.0,2017-02-17 16:15:50,True,True
+2017-02-17T16:23:37,The dad looks familiar....,0,1,shane reilly,bLwII6-92_Y,0.375,2017-02-17 16:23:37,True,True
+2017-02-17T16:27:01,Please subscribe my channel for funny Videos!!,0,0,TONY TANTY,bLwII6-92_Y,0.390625,2017-02-17 16:27:01,True,True
+2017-02-17T16:28:30,I think this is gonna be like keeping up with the joneses,0,0,Juliana Crain,bLwII6-92_Y,0.0,2017-02-17 16:28:30,True,True
+2017-02-17T16:32:13,I feel sorry for Americans because they have to pay for tuition (Scotland is free),0,0,Dominic Bruce,bLwII6-92_Y,-0.04999999999999999,2017-02-17 16:32:13,True,True
+2017-02-17T16:57:07,Kavs&Sadhs,0,1,Plays/Dramas,bLwII6-92_Y,0.0,2017-02-17 16:57:07,True,True
+2017-02-17T17:03:35,Their gunna get caught daughter finds out but everything works out in the end,0,0,Joey Rodriguez,bLwII6-92_Y,0.0,2017-02-17 17:03:35,True,True
+2017-02-17T17:08:42,0:10 SANTA!!!!!,0,0,SportsReel HD,bLwII6-92_Y,0.0,2017-02-17 17:08:42,True,True
+2017-02-17T17:09:22,I love will Farrell but why is he always shouting in every movie haha,0,0,K OC,bLwII6-92_Y,0.35,2017-02-17 17:09:22,True,True
+2017-02-17T17:09:52,"Put Cory in that house, and you got yourself a great anime movie.",0,0,BigBrainAnime,bLwII6-92_Y,0.8,2017-02-17 17:09:52,True,True
+2017-02-17T17:10:29,"Do the math, you're 40 years old and you go to jail for 20 years. How old are you when you get out? ... Baked Potato",0,0,SportsReel HD,bLwII6-92_Y,0.03333333333333333,2017-02-17 17:10:29,True,True
+2017-02-17T17:19:18,the last part though xD,0,0,henry hassan,bLwII6-92_Y,0.0,2017-02-17 17:19:18,True,True
+2017-02-17T17:20:32,THAT'S why I can't do crime! I'd dry heave the whole time.. 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂,1,0,3 1 5 7 3,bLwII6-92_Y,0.06666666666666668,2017-02-17 17:20:32,True,True
+2017-02-17T17:22:44,Marvel started it's Production for Infinity War. Justice League movie better be awesome. -A DC fan,1,0,tesla192000,bLwII6-92_Y,0.75,2017-02-17 17:22:44,True,True
+2017-02-17T17:25:29,@1:29 Jim Carrey?,0,1,Owen Wilson,bLwII6-92_Y,0.0,2017-02-17 17:25:29,True,True
+2017-02-17T17:26:49,"If they have a house like that and can't afford tuition, they spend too much on their house.",1,0,no name,bLwII6-92_Y,0.2,2017-02-17 17:26:49,True,True
+2017-02-17T17:32:19,this looks terrible but I am %110 going to watch it,0,0,Jack M,bLwII6-92_Y,-1.0,2017-02-17 17:32:19,True,True
+2017-02-17T17:33:55,I like Will Ferrell but this doesn't really look funny...meh,0,0,Super Kawaii Kittens,bLwII6-92_Y,0.2,2017-02-17 17:33:55,True,True
+2017-02-17T17:40:56,can't wait to see Amy on the big screen,0,0,deepti madhu,bLwII6-92_Y,0.0,2017-02-17 17:40:56,True,True
+2017-02-17T17:42:14,"Making a comedy of money troubles, this message should quench the sheep populace for awhile.",0,0,Travis Rabble,bLwII6-92_Y,0.0,2017-02-17 17:42:14,True,True
+2017-02-17T17:42:20,That was funny that bit at the end. Seriously.,0,0,Mike K.,bLwII6-92_Y,-0.04166666666666666,2017-02-17 17:42:20,True,True
+2017-02-17T17:42:41,Well that looks like a pile of total shit,0,0,The Casual Front,bLwII6-92_Y,-0.1,2017-02-17 17:42:41,True,True
+2017-02-17T17:43:04,I bet the funniest part in the movie was them accidentally chopping that guys hand off. Way to ruin that for us Hollywood. You idiots.,0,0,Processor,bLwII6-92_Y,-0.8,2017-02-17 17:43:04,True,True
+2017-02-17T17:43:52,did barry fuck up the timeline again?,0,0,Chn B,bLwII6-92_Y,-0.4,2017-02-17 17:43:52,True,True
+2017-02-17T17:46:46,This looks dreadfully awful.,0,0,jon Q,bLwII6-92_Y,-1.0,2017-02-17 17:46:46,True,True
+2017-02-17T17:49:35,The last bit was funny,0,0,Astrohalcyon,bLwII6-92_Y,0.125,2017-02-17 17:49:35,True,True
+2017-02-17T17:52:17,"Why doesn't Comedy Central actually have a channel. It's just the videos, the channel doesn't show up when you click on it. At least on mobiles.",0,0,Fatty Flakes,bLwII6-92_Y,-0.09999999999999999,2017-02-17 17:52:17,True,True
+2017-02-17T17:54:11,Here's the whole movie in a 2 minute trailer,0,0,ASWIFTYSPY,bLwII6-92_Y,0.2,2017-02-17 17:54:11,True,True
+2017-02-17T17:55:33,Zooooks!,0,0,CA Gamble,bLwII6-92_Y,0.0,2017-02-17 17:55:33,True,True
+2017-02-17T17:57:21,Well that was a pretty funny movie. Glad I don't have to actually watch it now.,1,0,John Jackson,bLwII6-92_Y,0.25,2017-02-17 17:57:21,True,True
+2017-02-17T18:01:51,will ferrell,1,0,Cahooleo Vlogs,bLwII6-92_Y,0.0,2017-02-17 18:01:51,True,True
+2017-02-17T18:02:50,oh my days will and the guy from brooklyn 911 yessssssssss,0,0,Cahooleo Vlogs,bLwII6-92_Y,0.0,2017-02-17 18:02:50,True,True
+2017-02-17T18:32:35,Will Ferrell. Instant Like.,0,0,Cartman4wesome,bLwII6-92_Y,0.0,2017-02-17 18:32:35,True,True
+2017-02-17T18:34:38,Ugh that Amy lady is going to ruin the movie,0,0,Ghost Midget,bLwII6-92_Y,0.0,2017-02-17 18:34:38,True,True
+2017-02-17T18:41:07,Who else didn't rely on mommy and daddy to pay their tuition?,0,0,Kyrie,bLwII6-92_Y,0.0,2017-02-17 18:41:07,True,True
+2017-02-17T18:48:45,http://catcut.net/Z8C6,0,0,Best of Comedy Club.,bLwII6-92_Y,0.0,2017-02-17 18:48:45,True,True
+2017-02-17T18:54:46,please yes I already love this  movie,0,0,Addilynn Bri,bLwII6-92_Y,0.5,2017-02-17 18:54:46,True,True
+2017-02-17T18:59:09,What I took away from this was Rory Scovel!,0,0,JesusPulledMeThrough,bLwII6-92_Y,0.0,2017-02-17 18:59:09,True,True
+2017-02-17T18:59:18,Looks good.,0,0,Black Hole,bLwII6-92_Y,0.7,2017-02-17 18:59:18,True,True
+2017-02-17T19:08:47,Nuclear Nadal looking pretty good . Remember anybody?,0,0,Syed Jawwad,bLwII6-92_Y,0.475,2017-02-17 19:08:47,True,True
+2017-02-17T19:14:28,so this is what pimento was doing while hiding from figgis,0,0,Khristian Idica,bLwII6-92_Y,0.0,2017-02-17 19:14:28,True,True
+2017-02-17T19:20:44,Rafi never disappoints.,0,0,The Billa,bLwII6-92_Y,0.0,2017-02-17 19:20:44,True,True
+2017-02-17T19:21:02,It's about time Amy and Will are a married couple in a movie,0,0,iNicki1,bLwII6-92_Y,0.25,2017-02-17 19:21:02,True,True
+2017-02-17T19:33:08,"If only Bernie Sanders had been elected, she could have had a ""free"" college education funded by a few dozen low-income taxpayers slaving way some place in a blue-collar West Virginia town so she could major in Humanities or French Philosophy. Just imagine how great that would be. Socialists are so compassionate. Not like those evil capitalists.",0,0,McScott76,bLwII6-92_Y,0.008928571428571428,2017-02-17 19:33:08,True,True
+2017-02-17T19:49:11,"Great, same old stupid Will Farrell movie.",0,0,ineedmondayoff,bLwII6-92_Y,0.025000000000000022,2017-02-17 19:49:11,True,True
+2017-02-17T19:49:55,"Nah, just put a grow on.",0,0,ShallowDepression,bLwII6-92_Y,0.0,2017-02-17 19:49:55,True,True
+2017-02-17T19:49:56,I can't wait 😊,1,0,Jenna Monique,bLwII6-92_Y,0.0,2017-02-17 19:49:56,True,True
+2017-02-17T19:50:27,meh looks decent,0,0,The Flash 2020,bLwII6-92_Y,0.16666666666666666,2017-02-17 19:50:27,True,True
+2017-02-17T19:52:13,It's a hit.  I can tell already.  And good for Will Ferrell because he could use one.,0,0,Dame Martha Falker,bLwII6-92_Y,0.7,2017-02-17 19:52:13,True,True
+2017-02-17T19:53:04,"""EL CUÑADO""!!! (ralphy)😂",0,0,rcsc824 sc,bLwII6-92_Y,0.0,2017-02-17 19:53:04,True,True
+2017-02-17T19:57:21,zooks is a awesome as always.,0,0,Maru Raba,bLwII6-92_Y,1.0,2017-02-17 19:57:21,True,True
+2017-02-17T20:00:25,Is this even a real movie ? I mean they uploaded it on Comedy Central ?,0,0,Michael S,bLwII6-92_Y,-0.0375,2017-02-17 20:00:25,True,True
+2017-02-17T20:09:27,could you imagine your parents loving you that much,0,0,holly,bLwII6-92_Y,0.4,2017-02-17 20:09:27,True,True
+2017-02-17T20:25:14,"Looks lame,",0,0,18T220,bLwII6-92_Y,-0.5,2017-02-17 20:25:14,True,True
+2017-02-17T20:30:18,"I'm surprised Amy Poehler would go this low as to mock poordom, while simultaneously making millions from a movie. Seriously? I wish I could be a rich white actor portraying struggling families to make millions of dollars and buy cars and houses with pools and travel all around the world. Will Ferrell, I'd expect this from that guy, I generally always hated him. But AMY POEHLER?",0,0,Raul Flores,bLwII6-92_Y,-0.10119047619047618,2017-02-17 20:30:18,True,True
+2017-02-17T20:34:33,"If only there was a word like blackface for when rich actors portray the poor, and profit from that portrayal. This movie should be offensive to people, and I'm shocked Amy Poehler would have anything to do with it. #POORFACE",0,0,Raul Flores,bLwII6-92_Y,-0.18125,2017-02-17 20:34:33,True,True
+2017-02-17T20:37:18,Dumb looks terrible,0,0,Justin Lewis,bLwII6-92_Y,-0.6875,2017-02-17 20:37:18,True,True
+2017-02-17T20:47:13,RAFI BOMB!,0,0,Nick,bLwII6-92_Y,0.0,2017-02-17 20:47:13,True,True
+2017-02-17T21:19:19,omg i didnt know what to expect when i clicked on this trailer but it looks funny as hell.,0,0,PennilessImp749,bLwII6-92_Y,0.25,2017-02-17 21:19:19,True,True
+2017-02-17T21:20:29,Subliminal message: Universal Education NOW!,0,0,Shawn,bLwII6-92_Y,0.0,2017-02-17 21:20:29,True,True
+2017-02-17T21:22:18,"I still do not find Will Ferrel funny.  I actually thought everyone else was good ... maybe that's what he's there for, to be the mediocre talent that allows others to find a wide swath of sunshine?",0,0,Gangrel Aussie,bLwII6-92_Y,0.06999999999999999,2017-02-17 21:22:18,True,True
+2017-02-17T21:25:24,New Vlog in my channel :) please come and visit.,1,0,NotYourAverageMo,bLwII6-92_Y,0.3181818181818182,2017-02-17 21:25:24,True,True
+2017-02-17T21:27:36,A house like that and they cannot afford to send her to college?.......nah,0,0,EliteProductions,bLwII6-92_Y,0.0,2017-02-17 21:27:36,True,True
+2017-02-17T21:54:53,👉🏾Subscribe to my YouTube channel!!👈🏾,0,0,Danielle,bLwII6-92_Y,0.0,2017-02-17 21:54:53,True,True
+2017-02-17T21:56:04,I can't wait for the sequel...    The Bungalow.,0,0,Malfunction,bLwII6-92_Y,0.0,2017-02-17 21:56:04,True,True
+2017-02-17T21:58:41,"40 yo , funniest part of the trailer",0,0,DZ Adam,bLwII6-92_Y,0.0,2017-02-17 21:58:41,True,True
+2017-02-17T22:03:37,Looks dumb,0,0,couchpoet1,bLwII6-92_Y,-0.375,2017-02-17 22:03:37,True,True
+2017-02-17T22:16:39,1:08 is that elektra Lol?,0,0,Bliss Madness,bLwII6-92_Y,0.8,2017-02-17 22:16:39,True,True
+2017-02-17T22:26:00,I like will Ferrell but this shit just looks dumb,0,0,Liam Leonard,bLwII6-92_Y,-0.2875,2017-02-17 22:26:00,True,True
+2017-02-17T22:29:20,I am kinda sick of formula comedy movies! :/,0,0,indraja reddy,bLwII6-92_Y,-0.5714285714285714,2017-02-17 22:29:20,True,True
+2017-02-17T22:31:24,parents do illegal stuff every night so girl can get gang banged by the university football team at a frat party,1,0,glearful,bLwII6-92_Y,-0.5,2017-02-17 22:31:24,True,True
+2017-02-17T22:45:29,im watching this hands down finally a decent comedy movie !!!,0,0,M. Chan,bLwII6-92_Y,0.08498263888888884,2017-02-17 22:45:29,True,True
+2017-02-17T22:57:28,awesome,0,0,Noah Loving Life,bLwII6-92_Y,1.0,2017-02-17 22:57:28,True,True
+2017-02-17T22:59:54,Raffi,0,0,Tennis Toad,bLwII6-92_Y,0.0,2017-02-17 22:59:54,True,True
+2017-02-17T23:11:47,this seems like a Family Guy episode turned into a movie,0,0,russell7p,bLwII6-92_Y,0.0,2017-02-17 23:11:47,True,True
+2017-02-17T23:14:16,omg haha i want to watch lol,0,0,Rox,bLwII6-92_Y,0.5,2017-02-17 23:14:16,True,True
+2017-02-17T23:15:11,That's how I felt when I opened my first acceptance letter😂😂,0,0,It’s Anth,bLwII6-92_Y,0.25,2017-02-17 23:15:11,True,True
+2017-02-17T23:27:55,When you run out of movie ideas...,0,0,Ling ling,bLwII6-92_Y,0.0,2017-02-17 23:27:55,True,True
+2017-02-17T23:32:05,looks like shit.,0,0,I_Stink,bLwII6-92_Y,-0.2,2017-02-17 23:32:05,True,True
+2017-02-17T23:37:20,Daamn you can tell they're running outta ideas. Get ya act together hollywood.,0,0,Cloudzone,bLwII6-92_Y,0.0,2017-02-17 23:37:20,True,True
+2017-02-17T23:47:38,I already love it,0,0,Lord Gains,bLwII6-92_Y,0.5,2017-02-17 23:47:38,True,True
+2017-02-17T23:51:41,Will Ferrell is closer to 50 than 40.,0,0,miss october,bLwII6-92_Y,0.0,2017-02-17 23:51:41,True,True
+2017-02-17T23:53:59,I AM SO HAPPY AMY POEHLER IS IN A MOVIE AGAIN I POVE HER OMFG YAYYYY,0,0,nicolevs_,bLwII6-92_Y,0.8,2017-02-17 23:53:59,True,True
+2017-02-17T23:58:34,Why can't she pay her own tuition?,0,0,amelie1416,bLwII6-92_Y,0.6,2017-02-17 23:58:34,True,True
+2017-02-18T00:03:38,All that money so that your daughter can take gender studies classes and punch people who show up to see speakers she doesn't like.,0,0,JJoe,bLwII6-92_Y,0.0,2017-02-18 00:03:38,True,True
+2017-02-18T00:26:30,https://www.buzzfeed.com/rachelberry10/12-will-ferrell-quotes-that-perfectly-describe-col-2th8s,0,0,Rachel Berry,bLwII6-92_Y,0.0,2017-02-18 00:26:30,True,True
+2017-02-18T00:34:56,"Enough, please, SNL alum.",0,0,octopibingo,bLwII6-92_Y,0.0,2017-02-18 00:34:56,True,True
+2017-02-18T00:39:48,Jason 'Zooks! So hyped!,1,0,Jonathan Burtson,bLwII6-92_Y,0.0,2017-02-18 00:39:48,True,True
+2017-02-18T00:41:12,Come and watch our super fun and crazy videos,0,0,Lucy Ambraza,bLwII6-92_Y,0.011111111111111108,2017-02-18 00:41:12,True,True
+2017-02-18T00:59:06,Anyone else noticing that this is almost a Parks and Rec reunion,0,0,Mark Negron,bLwII6-92_Y,0.0,2017-02-18 00:59:06,True,True
+2017-02-18T01:02:23,I hope since the trailer wasnt funny they left all the funny parts out,0,0,Ron Nicklas,bLwII6-92_Y,0.16666666666666666,2017-02-18 01:02:23,True,True
+2017-02-18T01:12:17,"I am way funnier than this, subscribe and comment my vids and LIKE!",1,1,Boney Updates,bLwII6-92_Y,0.0,2017-02-18 01:12:17,True,True
+2017-02-18T01:19:34,subscribe to me,0,0,CLEWD UP,bLwII6-92_Y,0.0,2017-02-18 01:19:34,True,True
+2017-02-18T01:24:32,"""Are those women's sunglasses?"" ""No... There Italian."" Actually made me laugh.",0,0,Scream For Cream,bLwII6-92_Y,0.09999999999999999,2017-02-18 01:24:32,True,True
+2017-02-18T01:35:53,pretty far fetched,0,0,L H,bLwII6-92_Y,0.175,2017-02-18 01:35:53,True,True
+2017-02-18T01:49:36,That looks so good!,0,0,Gemma Niye,bLwII6-92_Y,0.875,2017-02-18 01:49:36,True,True
+2017-02-18T01:52:58,"love this movie .Hey,how want's to play a little game with me? find the n:mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmnmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm.",0,0,Exienne draw shoe,bLwII6-92_Y,-0.029166666666666674,2017-02-18 01:52:58,True,True
+2017-02-18T02:05:14,Meh,0,0,Jeff Reviews,bLwII6-92_Y,0.0,2017-02-18 02:05:14,True,True
+2017-02-18T02:05:52,Look at this on eBay http://www.ebay.com/itm/272559092615  check out thisl Allen Edmond shoes that it's going for a great price on eBay it's a great steal,0,0,fullcharge 876,bLwII6-92_Y,0.8,2017-02-18 02:05:52,True,True
+2017-02-18T02:11:09,Step brothers 2 plz,0,0,Conner. M. W. _,bLwII6-92_Y,0.0,2017-02-18 02:11:09,True,True
+2017-02-18T02:19:28,This here is love. This is what parents do for their children,0,0,B.L. Simpson,bLwII6-92_Y,0.5,2017-02-18 02:19:28,True,True
+2017-02-18T02:20:26,"I am always happy to watch Will doing his thing, so funny.",0,0,F3ND1MUS,bLwII6-92_Y,0.525,2017-02-18 02:20:26,True,True
+2017-02-18T02:35:10,Another will Ferrell movir,0,1,Angelfish138,bLwII6-92_Y,0.0,2017-02-18 02:35:10,True,True
+2017-02-18T02:40:18,nice,0,0,Tegik385 Faribo,bLwII6-92_Y,0.6,2017-02-18 02:40:18,True,True
+2017-02-18T02:45:43,Classic pam ;'),0,0,LakzerK3,bLwII6-92_Y,0.16666666666666666,2017-02-18 02:45:43,True,True
+2017-02-18T02:50:37,Here for Amy Poehler ❤,0,0,A Rosalez,bLwII6-92_Y,0.0,2017-02-18 02:50:37,True,True
+2017-02-18T02:53:00,This looks like a great movie! Can't wait til it comes out!,0,0,Mega Pixel Productions,bLwII6-92_Y,1.0,2017-02-18 02:53:00,True,True
+2017-02-18T03:01:26,this looks cringy not in a good way,0,0,Simon DW,bLwII6-92_Y,0.7,2017-02-18 03:01:26,True,True
+2017-02-18T03:01:58,probably the only Will Ferrell movie I've not wanted to watch,0,0,Simon DW,bLwII6-92_Y,0.0,2017-02-18 03:01:58,True,True
+2017-02-18T03:02:25,"""She door'd her""   Since when was that a saying.",0,0,Lo,bLwII6-92_Y,0.0,2017-02-18 03:02:25,True,True
+2017-02-18T03:09:02,401k made me giggle,0,0,corndog984,bLwII6-92_Y,0.0,2017-02-18 03:09:02,True,True
+2017-02-18T03:23:40,Well I got OSAP so this is not relevant to me anymore but I will still watch it,0,0,dan sherwin lizardo,bLwII6-92_Y,-0.2,2017-02-18 03:23:40,True,True
+2017-02-18T03:37:17,Pam?,0,0,Kev Gunner,bLwII6-92_Y,0.0,2017-02-18 03:37:17,True,True
+2017-02-18T03:41:46,Looks shit,0,0,Mr Magoo,bLwII6-92_Y,-0.2,2017-02-18 03:41:46,True,True
+2017-02-18T03:42:12,Really this will air on the birthday WHY?!?!?!?!?,0,0,Blacc-Ice,bLwII6-92_Y,0.48828125,2017-02-18 03:42:12,True,True
+2017-02-18T03:45:48,this is hilarious lol !😁,0,0,MVP Royale,bLwII6-92_Y,0.75,2017-02-18 03:45:48,True,True
+2017-02-18T03:53:16,Suuuuuuuuuux! Shoulda got someone else other than Amy Poehler for my liking. Will is fine.,0,0,Hosé TV!,bLwII6-92_Y,0.14583333333333334,2017-02-18 03:53:16,True,True
+2017-02-18T04:01:45,are they really trying to pass will ferrell off as a 40 year old,1,0,lilsmy,bLwII6-92_Y,0.15000000000000002,2017-02-18 04:01:45,True,True
+2017-02-18T04:17:16,Holy bikini batman! This looks like garbage,0,0,mer meh,bLwII6-92_Y,0.0,2017-02-18 04:17:16,True,True
+2017-02-18T04:32:07,The only part I laughed at was when he tried to tell him to tell his friends and started gagging lmao. Didnt even crack a smile until then.,0,0,RMSWeBadNews,bLwII6-92_Y,0.39999999999999997,2017-02-18 04:32:07,True,True
+2017-02-18T04:53:42,This is the opposite of funny,0,0,DrSonus,bLwII6-92_Y,0.125,2017-02-18 04:53:42,True,True
+2017-02-18T04:53:50,There's this thing called student loans...,0,0,shaeley,bLwII6-92_Y,0.0,2017-02-18 04:53:50,True,True
+2017-02-18T05:03:14,The only good joke in the whole trailer was the one about the 401(k),0,0,Well-Known Member,bLwII6-92_Y,0.3,2017-02-18 05:03:14,True,True
+2017-02-18T05:10:46,Did I see David Wallace,0,0,Cool Kid,bLwII6-92_Y,0.0,2017-02-18 05:10:46,True,True
+2017-02-18T05:18:39,i love how people argue logic in a will farrell movie,0,0,Gamerchyck,bLwII6-92_Y,0.5,2017-02-18 05:18:39,True,True
+2017-02-18T05:29:04,ily ryan hopefully we can work on a show again like a highschool ruining freakin' crew,1,0,Kid Kittrell,bLwII6-92_Y,0.0,2017-02-18 05:29:04,True,True
+2017-02-18T05:30:39,Anh hung sa dieu,0,0,Phong Doan,bLwII6-92_Y,0.0,2017-02-18 05:30:39,True,True
+2017-02-18T05:36:51,funny,0,0,Zack Bordeaux,bLwII6-92_Y,0.25,2017-02-18 05:36:51,True,True
+2017-02-18T05:38:48,the ending hahaha,0,0,Zack Bordeaux,bLwII6-92_Y,0.2,2017-02-18 05:38:48,True,True
+2017-02-18T05:39:16,Looks ok ill check it out when it comes out,0,0,AngelReacts,bLwII6-92_Y,0.0,2017-02-18 05:39:16,True,True
+2017-02-18T05:43:30,His comeback movie !,0,0,drdave2468,bLwII6-92_Y,0.0,2017-02-18 05:43:30,True,True
+2017-02-18T05:44:56,This movie will kill it at the oscars next year !,0,0,drdave2468,bLwII6-92_Y,0.0,2017-02-18 05:44:56,True,True
+2017-02-18T05:47:49,"Thanks for the whole movie, now I don't need to see it!",1,0,T B,bLwII6-92_Y,0.225,2017-02-18 05:47:49,True,True
+2017-02-18T05:49:35,doing a givaway ends soon,0,0,Homie Quicks,bLwII6-92_Y,0.0,2017-02-18 05:49:35,True,True
+2017-02-18T05:51:16,when all the good jokes are in the trailer...,0,0,Logan Boice,bLwII6-92_Y,0.7,2017-02-18 05:51:16,True,True
+2017-02-18T05:58:02,Tell her butt to get a job and help pay for her own education! And if she's smart enough for Berkeley she should've been applying for scholarships!,0,0,lillost,bLwII6-92_Y,0.32142857142857145,2017-02-18 05:58:02,True,True
+2017-02-18T06:14:08,I just watched the whole movie,1,0,peruface,bLwII6-92_Y,0.2,2017-02-18 06:14:08,True,True
+2017-02-18T06:32:10,Rated R. Has 11 year old in it.,0,1,Preston Ray,bLwII6-92_Y,0.1,2017-02-18 06:32:10,True,True
+2017-02-18T06:37:04,You cant make will ferrel funny He just has a role that fits like step brothers  Nothing here made me laugh,0,0,RADOSLAV TV,bLwII6-92_Y,0.275,2017-02-18 06:37:04,True,True
+2017-02-18T06:43:47,*Will Ferrell is becoming the new Adam Sandler. I hope he doesn't.*,6,0,Garrus Vakarian,bLwII6-92_Y,0.2931818181818182,2017-02-18 06:43:47,True,True
+2017-02-18T07:24:34,"Wow, Amy Poehler is in it and it actually looks decent! I knew 2017 was going to be a crazy year.",0,0,True2Live,bLwII6-92_Y,-0.07291666666666666,2017-02-18 07:24:34,True,True
+2017-02-18T07:28:25,Atoi,0,0,Sasa Ssrr,bLwII6-92_Y,0.0,2017-02-18 07:28:25,True,True
+2017-02-18T07:54:25,Looks fucking shit like most will Farrell films now days,0,0,havesword willtravel,bLwII6-92_Y,0.15,2017-02-18 07:54:25,True,True
+2017-02-18T07:54:58,Hopefully all the funny parts aren't in the trailer.,1,0,MIXVIDOS,bLwII6-92_Y,0.25,2017-02-18 07:54:58,True,True
+2017-02-18T09:24:54,lol I laughed at the end 😂,0,0,miri,bLwII6-92_Y,0.75,2017-02-18 09:24:54,True,True
+2017-02-18T09:48:40,Yeeet another good movie,0,0,Venomous Revolver,bLwII6-92_Y,0.7,2017-02-18 09:48:40,True,True
+2017-02-18T10:21:25,That last part where the guy almost throws up made me LMAO,0,0,Sputz3,bLwII6-92_Y,0.3,2017-02-18 10:21:25,True,True
+2017-02-18T10:28:32,I DONT F@CKING KNOW WHY I LOVE THIS SO MUCH!!! :),0,0,shadowfallenable,bLwII6-92_Y,0.4635416666666667,2017-02-18 10:28:32,True,True
+2017-02-18T10:50:56,So Project X for middle aged folks.,0,0,Samuel Nelson,bLwII6-92_Y,-0.05,2017-02-18 10:50:56,True,True
+2017-02-18T10:59:36,Adrian Pimento!,0,0,Cuzjudd,bLwII6-92_Y,0.0,2017-02-18 10:59:36,True,True
+2017-02-18T11:19:13,什么电影？好好看噢！,0,0,梁文开,bLwII6-92_Y,0.0,2017-02-18 11:19:13,True,True
+2017-02-18T12:13:35,"Ohhhhhhh, a comedy where the protagonists are super stupid and have to pull of a zany plan to raise money! Wooohooo! Never seen this sort of comedy before!",0,0,Globalklaus,bLwII6-92_Y,-0.33333333333333337,2017-02-18 12:13:35,True,True
+2017-02-18T12:40:02,Saw Will Ferrel in celebrity cannabalism dinner with marina abranovic so will definitely not be watching any of his movies,0,0,Quyen T,bLwII6-92_Y,0.0,2017-02-18 12:40:02,True,True
+2017-02-18T12:44:45,"Looks like one really long, very bad SNL sketch.",0,0,PositiveLastAction,bLwII6-92_Y,-0.4799999999999999,2017-02-18 12:44:45,True,True
+2017-02-18T13:29:23,Writers: Let's turn the pitfalls of capitalism into a comedy film,0,0,logick3,bLwII6-92_Y,0.0,2017-02-18 13:29:23,True,True
+2017-02-18T13:31:13,White writers:' let's fabricate a white upper middle class family as the victims,0,0,logick3,bLwII6-92_Y,0.0,2017-02-18 13:31:13,True,True
+2017-02-18T13:42:32,"K, I get it. No need to watch entire movie. Nice official trailer.",0,0,Alberic Etzel,bLwII6-92_Y,0.3,2017-02-18 13:42:32,True,True
+2017-02-18T13:48:08,"ehhh, I don't know about this one. lots of great actors, but it seems as if the best parts are in the trailer. like ""Keanu"" was disappointing in that way 😕",0,0,thebeausoleilXO,bLwII6-92_Y,0.4000000000000001,2017-02-18 13:48:08,True,True
+2017-02-18T13:54:05,Student loans. The end.,1,0,Mike Fudge,bLwII6-92_Y,0.0,2017-02-18 13:54:05,True,True
+2017-02-18T14:43:32,they would have to pay me to watch will ferrell,0,0,OHJUSTFORKU,bLwII6-92_Y,0.0,2017-02-18 14:43:32,True,True
+2017-02-18T14:57:05,"Isn't this supposed to be a comedy? This is worse than those modern ""Scary Movie"" rip offs. Sad. So sad.",0,0,Kez 2009,bLwII6-92_Y,-0.33999999999999997,2017-02-18 14:57:05,True,True
+2017-02-18T15:28:12,Full Movie on my channel,1,0,BIgBallsYT,bLwII6-92_Y,0.35,2017-02-18 15:28:12,True,True
+2017-02-18T16:14:53,"Does anyone else find these kind of comedies funny for about 1/4 of the film, and then by the end you are just mildly smiling?",0,0,Marx Skinner,bLwII6-92_Y,0.39444444444444443,2017-02-18 16:14:53,True,True
+2017-02-18T16:29:33,I'm hyped about this. Amy Poehler and Will Ferrell are a great collab,1,0,Indolent Tenderfoot,bLwII6-92_Y,0.8,2017-02-18 16:29:33,True,True
+2017-02-18T16:34:36,i love this movie when we will be getting it on youtube,0,0,Jaimie Pierre,bLwII6-92_Y,0.5,2017-02-18 16:34:36,True,True
+2017-02-18T16:47:00,hey nong man!,0,0,Neale Scott,bLwII6-92_Y,0.0,2017-02-18 16:47:00,True,True
+2017-02-18T16:47:29,This movie will fail b/c the USA will be a dystopia by summer with Trump as president.,0,0,Crushi: Independent Original Recording Musician,bLwII6-92_Y,-0.5,2017-02-18 16:47:29,True,True
+2017-02-18T17:07:09,"I don't think I have been this excited for a comedy in a while. Looks promising, premise is pretty cool and the talent they got for this film is amazing.",0,0,Guillermo Ruiz,bLwII6-92_Y,0.355,2017-02-18 17:07:09,True,True
+2017-02-18T17:23:52,"Okay, let's just get this out of the way, 1. Why is there a debate on a comedy trailer? lmfao and 2. Just because you.live in a big house does not mean you prioritized your money enough to to afford a college tuition.  Shit Mc hammer went broke..idk what is so hard to grasp about the concept of this movie.",5,0,Wasted fayyo,bLwII6-92_Y,0.027430555555555552,2017-02-18 17:23:52,True,True
+2017-02-18T17:27:38,The only funny part. 2:18,0,0,Dawn Foxes,bLwII6-92_Y,0.125,2017-02-18 17:27:38,True,True
+2017-02-18T17:36:13,I thought this was a thriller,0,0,Vruinz,bLwII6-92_Y,0.0,2017-02-18 17:36:13,True,True
+2017-02-18T17:42:34,"Exceptional actors, but this movie looks very cringey, redundant and boring",1,0,Sammi ss,bLwII6-92_Y,-0.08333333333333331,2017-02-18 17:42:34,True,True
+2017-02-18T18:07:36,Gotta get creative!,0,0,Toby Barns,bLwII6-92_Y,0.625,2017-02-18 18:07:36,True,True
+2017-02-18T18:25:03,Go back to the lego movie,0,0,Clorox Bleach,bLwII6-92_Y,0.0,2017-02-18 18:25:03,True,True
+2017-02-18T19:03:55,"""I feel like a bad a** b****""    she says",2,0,Shanneal Young,bLwII6-92_Y,-0.6999999999999998,2017-02-18 19:03:55,True,True
+2017-02-18T19:34:56,How come this looks so awful?,0,0,I’veGot TheDocuments,bLwII6-92_Y,-1.0,2017-02-18 19:34:56,True,True
+2017-02-18T19:36:04,She couldn't earn a scholarship or anything?,0,0,I’veGot TheDocuments,bLwII6-92_Y,0.0,2017-02-18 19:36:04,True,True
+2017-02-18T19:42:05,There's a lot of phonies in this comment section. How much do they pay people to leave comments nowadays?,0,0,I’veGot TheDocuments,bLwII6-92_Y,0.2,2017-02-18 19:42:05,True,True
+2017-02-18T19:53:33,"No one i know in college has it paid for by their parents, that shit doesn't happen.",0,0,GaLoS,bLwII6-92_Y,-0.2,2017-02-18 19:53:33,True,True
+2017-02-18T19:55:48,"My friends i bring you good news! there has been a man who has risen from the grave...this man is none other that a Jewish man by the name of Jesus the Christ (savior) before being ruthlessly crucified at the cross by the Jews this man showed great signs and wonders...healed the lepers, restored the sight of the blind, raised the dead and walked on water...my friends this man was none other than Emmanuel (God with us) and he told us that his Father has given him authority to judge and to save whosoever repents and believe on his name, Jesus was crucified, buried and resurrected from the grave the third day at the cross he conquered sin and death! John 3:16 ""For God so loved the world that he sent his only begotten Son (Jesus Christ) whosoever believes on him should not perish (die forever) but have Eternal Life (Immortality) and Jesus going into the city and saying ""repent yeh and believe the gospel"" The wages of sin IS death but the gift of God is eternal life through Jesus Christ our Lord!!!",0,0,Laborer in the field,bLwII6-92_Y,0.032692307692307694,2017-02-18 19:55:48,True,True
+2017-02-18T20:00:52,he better pull out a pocket hotdog.,0,0,Oh No,bLwII6-92_Y,0.5,2017-02-18 20:00:52,True,True
+2017-02-18T20:58:03,I *MUST* SEE THIS,0,0,doge,bLwII6-92_Y,0.0,2017-02-18 20:58:03,True,True
+2017-02-18T21:07:48,"""tell ur friends if they missed with us this is hughoulolhohlhlllllll  what they gonna get""",1,0,Faisal Alamri,bLwII6-92_Y,0.0,2017-02-18 21:07:48,True,True
+2017-02-18T21:08:27,"""tell ur friends if they missed with us this is hughoulolhohlhlllllll  what they gonna get""",2,0,Faisal Alamri,bLwII6-92_Y,0.0,2017-02-18 21:08:27,True,True
+2017-02-18T21:51:20,Ralphie 😂,0,0,first last,bLwII6-92_Y,0.0,2017-02-18 21:51:20,True,True
+2017-02-18T22:54:56,Amy Poehler sucks! She really does.,0,0,Fred Flintstone,bLwII6-92_Y,-0.0875,2017-02-18 22:54:56,True,True
+2017-02-18T23:01:32,I have to work to pay for college.,0,1,Ana Tovar,bLwII6-92_Y,0.0,2017-02-18 23:01:32,True,True
+2017-02-18T23:01:43,PLEASE FOLLOW MY INSTAGRAM https://www.instagram.com/flatearthmagnetism/,0,0,Rey Xan,bLwII6-92_Y,0.0,2017-02-18 23:01:43,True,True
+2017-02-18T23:57:00,I'll watch anything with Will in it . Looks like a funny movie,0,0,Mihail Lazarov,bLwII6-92_Y,0.25,2017-02-18 23:57:00,True,True
+2017-02-18T23:59:12,It doesn't look that great but I still wanna see it kinda,0,0,Dion,bLwII6-92_Y,0.8,2017-02-18 23:59:12,True,True
+2017-02-19T00:22:53,I pray Bryan Cranston makes a special guest appearance,0,0,CGod,bLwII6-92_Y,0.35714285714285715,2017-02-19 00:22:53,True,True
+2017-02-19T00:36:02,ferrell is too old to play a 40 yo,1,0,momma,bLwII6-92_Y,0.1,2017-02-19 00:36:02,True,True
+2017-02-19T00:42:23,Further perpetuating the myth that you HAVE to go to a super expensive private college to be a valid adult. Complete BS.,0,0,Heidi Faith,bLwII6-92_Y,0.005555555555555554,2017-02-19 00:42:23,True,True
+2017-02-19T00:54:52,"man, if Bernie was president, they wouldn't have to turn their house into a casino",0,0,The King Of Norway,bLwII6-92_Y,0.0,2017-02-19 00:54:52,True,True
+2017-02-19T01:42:43,OK so I guess they are remaking Stealing Harvard now,0,0,Namesy Guy,bLwII6-92_Y,0.5,2017-02-19 01:42:43,True,True
+2017-02-19T01:47:19,Ferrell Movie tickets = Lamborghini = Laughter.  only the smart ones will get it,0,0,Tri-Wick,bLwII6-92_Y,0.10714285714285714,2017-02-19 01:47:19,True,True
+2017-02-19T02:09:15,subscribe here for weekly videos of Me singing songs in baths and disgusting lyrics,1,0,FREDDIE BEANS,bLwII6-92_Y,-1.0,2017-02-19 02:09:15,True,True
+2017-02-19T03:12:03,#pizzagate.        #DavidSeaman,0,0,Stephen LeBlanc,bLwII6-92_Y,0.0,2017-02-19 03:12:03,True,True
+2017-02-19T03:17:50,Yup look like vegas :),0,0,Kurisu,bLwII6-92_Y,0.5,2017-02-19 03:17:50,True,True
+2017-02-19T04:32:18,My god does this look dreadful....,0,0,Mark Silverman,bLwII6-92_Y,-1.0,2017-02-19 04:32:18,True,True
+2017-02-19T04:55:40,"I personally hate the fact that college has this stigma of, ""Did I get accepted?"" you literally have to be hella stupid to worry about that. If you have a basic education with a barely 2.75 GPA and the big one ""MONEY"" then you will always get accepted... You don't even get a letter, you just register then... Bam you going to college/university.",0,0,SappFireTech,bLwII6-92_Y,-0.31,2017-02-19 04:55:40,True,True
+2017-02-19T05:29:46,I bet in the end the daughter drops out anyway,0,0,R P,bLwII6-92_Y,0.0,2017-02-19 05:29:46,True,True
+2017-02-19T05:30:58,I smell Oscars!!!,0,0,Innerpeace,bLwII6-92_Y,0.0,2017-02-19 05:30:58,True,True
+2017-02-19T05:39:42,This looks great.,0,0,Brad Rittner,bLwII6-92_Y,0.8,2017-02-19 05:39:42,True,True
+2017-02-19T06:24:49,looks good,0,0,Saucy,bLwII6-92_Y,0.7,2017-02-19 06:24:49,True,True
+2017-02-19T06:43:36,Pass.,0,0,PostalFA,bLwII6-92_Y,0.0,2017-02-19 06:43:36,True,True
+2017-02-19T07:57:14,"""Tell your friends if they mess with us this is [gagg] what they'll get""  Hahah",7,1,David K,bLwII6-92_Y,-0.175,2017-02-19 07:57:14,True,True
+2017-02-19T08:40:08,Cannot wait,0,0,The Paqui,bLwII6-92_Y,0.0,2017-02-19 08:40:08,True,True
+2017-02-19T11:14:53,so funny already .. i can't wait...,0,0,abinet alemu,bLwII6-92_Y,0.25,2017-02-19 11:14:53,True,True
+2017-02-19T11:51:26,Looks like shit,0,0,Half-Life Scientist,bLwII6-92_Y,-0.2,2017-02-19 11:51:26,True,True
+2017-02-19T12:49:30,Trash,0,0,K I E R A N,bLwII6-92_Y,0.0,2017-02-19 12:49:30,True,True
+2017-02-19T13:44:26,"Holy shit, what a turd",0,0,Tim Gunnar,bLwII6-92_Y,-0.2,2017-02-19 13:44:26,True,True
+2017-02-19T17:02:31,"im gonna watch it when it gets to hbo one sunday afternoon,thats the kind of movie that i wouldn't pay to watch",0,0,Julio Hernandez,bLwII6-92_Y,0.6,2017-02-19 17:02:31,True,True
+2017-02-19T17:20:40,Looks shit,0,0,Ferocious Super nova,bLwII6-92_Y,-0.2,2017-02-19 17:20:40,True,True
+2017-02-19T17:24:35,I rarely laugh at movie trailers but I laughed twice at this! I can't wait!,0,0,CameronRocks,bLwII6-92_Y,0.65,2017-02-19 17:24:35,True,True
+2017-02-19T18:58:58,no!,0,0,Bret H,bLwII6-92_Y,0.0,2017-02-19 18:58:58,True,True
+2017-02-19T18:59:14,no!,0,0,Bret H,bLwII6-92_Y,0.0,2017-02-19 18:59:14,True,True
+2017-02-19T19:23:47,mannnn!!!,0,0,Dayang Diana,bLwII6-92_Y,0.0,2017-02-19 19:23:47,True,True
+2017-02-19T19:58:41,Lmaoooo..... I cannot wait for June to see this.,0,0,Jay Belin,bLwII6-92_Y,0.0,2017-02-19 19:58:41,True,True
+2017-02-19T20:46:55,Why should the parents be paying for their Child ( an adult ) to go to college ?,0,0,Fists of Fury,bLwII6-92_Y,0.1,2017-02-19 20:46:55,True,True
+2017-02-19T21:46:27,What a pathetically lame concept Jesus Christ this looks bad,0,0,yeggs24,bLwII6-92_Y,-0.5999999999999999,2017-02-19 21:46:27,True,True
+2017-02-19T22:01:19,RORYY SCOVELLL WOOOO,0,0,ProTim Instrumentalist,bLwII6-92_Y,0.0,2017-02-19 22:01:19,True,True
+2017-02-19T23:46:00,"HAHAHA this was so funny, I can only imagine how much more there is the movie. How do they even come up with so many jokes haha",0,0,NKLA2222,bLwII6-92_Y,0.27499999999999997,2017-02-19 23:46:00,True,True
+2017-02-20T00:07:46,this is nina 🐟 nina likes movies but can not afford to watch them 😭 1 like = 1 movie for nina to watch 🐟,0,0,Lucinda B,bLwII6-92_Y,0.0,2017-02-20 00:07:46,True,True
+2017-02-20T05:53:15,40 my ass,0,0,mikeynike81,bLwII6-92_Y,0.0,2017-02-20 05:53:15,True,True
+2017-02-20T06:54:11,Scot here: Dafuk is tuition?,0,0,millsathn,bLwII6-92_Y,0.0,2017-02-20 06:54:11,True,True
+2017-02-20T13:09:25,Laughed out loud at that last part.,0,0,Mahad Yare,bLwII6-92_Y,0.26666666666666666,2017-02-20 13:09:25,True,True
+2017-02-20T13:46:05,Jason Mantzoukas playing a shady character who deals in illegal business... he's never done that before!,1,0,poisongodmachine3,bLwII6-92_Y,-0.4375,2017-02-20 13:46:05,True,True
+2017-02-20T19:07:41,"Dennis Feinstein and Leslie Knope. Dammmn, Leslie be stooping low....",1,0,Alternate TDH,bLwII6-92_Y,0.0,2017-02-20 19:07:41,True,True
+2017-02-20T20:51:39,"couldve thought of a better reason to need money, college really?",0,0,Don100Green,bLwII6-92_Y,0.35,2017-02-20 20:51:39,True,True
+2017-02-21T00:34:36,They have a really nice house and can't afford college? what..,0,0,unknown,bLwII6-92_Y,0.6,2017-02-21 00:34:36,True,True
+2017-02-21T00:35:19,Setting up the casino cost more than the college,0,0,unknown,bLwII6-92_Y,0.5,2017-02-21 00:35:19,True,True
+2017-02-22T01:03:35,Will Ferrell is a legend in comedy lol...  Who is ready to see this movie now?,0,0,DnA Vlogs,bLwII6-92_Y,0.5,2017-02-22 01:03:35,True,True
+2017-02-22T02:42:18,making the character dumb isnt funny ffs,0,0,asdwaetd,bLwII6-92_Y,-0.0625,2017-02-22 02:42:18,True,True
+2017-02-22T06:33:31,holy fucking shit,0,0,tasteslikeawesome,bLwII6-92_Y,-0.2,2017-02-22 06:33:31,True,True
+2017-02-22T09:47:06,Z,0,0,Kathryn Hodgson,bLwII6-92_Y,0.0,2017-02-22 09:47:06,True,True
+2017-02-22T16:52:47,"Do you ever watch a move trailer and think ""I wonder why previews of movies and transportation devices hauled behind vehicles are called the same thing?""",0,0,Brett Hartsell,bLwII6-92_Y,-0.2,2017-02-22 16:52:47,True,True
+2017-02-22T19:21:55,They Live ~ We Sleep,0,0,Insane Comedion,bLwII6-92_Y,0.13636363636363635,2017-02-22 19:21:55,True,True
+2017-02-22T21:54:52,Bank loan. Movie solved.,0,0,insaneapples,bLwII6-92_Y,0.0,2017-02-22 21:54:52,True,True
+2017-02-22T22:26:57,Bucknell university,0,0,Victoria,bLwII6-92_Y,0.0,2017-02-22 22:26:57,True,True
+2017-02-23T00:58:31,Great actors but looks very meh.,0,0,Wangchuk,bLwII6-92_Y,0.5,2017-02-23 00:58:31,True,True
+2017-02-23T08:14:45,that guy used to play a homeless,0,0,Erika Alvarez,bLwII6-92_Y,0.0,2017-02-23 08:14:45,True,True
+2017-02-23T10:22:23,so is this '21' or 'breaking bad'?,0,0,MintBerryCrunch,bLwII6-92_Y,-0.6999999999999998,2017-02-23 10:22:23,True,True
+2017-02-23T16:39:12,Nah,0,0,Troy Christoffer,bLwII6-92_Y,0.0,2017-02-23 16:39:12,True,True
+2017-02-23T22:21:00,3x,0,0,Ahsan Ali Bhutt0,bLwII6-92_Y,0.0,2017-02-23 22:21:00,True,True
+2017-02-24T00:04:50,My backyard,0,0,krby 666,bLwII6-92_Y,0.0,2017-02-24 00:04:50,True,True
+2017-02-24T02:24:32,seems interesting,0,0,Kevin Lobo,bLwII6-92_Y,0.5,2017-02-24 02:24:32,True,True
+2017-02-24T16:03:34,Horrible premise. New premise! Scratch Amy Poehler and the entire storyline about making money for college tuition. Rafi and Ron Burgundy open up a casino in their house.,0,0,Are Bees,bLwII6-92_Y,-0.20738636363636365,2017-02-24 16:03:34,True,True
+2017-02-24T18:06:49,This looks pretty funny,0,0,Adam Sanche,bLwII6-92_Y,0.25,2017-02-24 18:06:49,True,True
+2017-02-24T20:03:13,LMFAO CANT WAIT FOR THIS TO COME OUT 🤣🤣🤣🤣🤣🤣🤣  FUKIN LOV3 WILL F3RR3L!!!!!!!!!,0,0,Mb,bLwII6-92_Y,0.0,2017-02-24 20:03:13,True,True
+2017-02-24T21:25:26,location discussion expansion beam valuable vs themselves.,0,0,Lucas Reid,bLwII6-92_Y,0.0,2017-02-24 21:25:26,True,True
+2017-02-24T22:15:11,Need to see!!,0,0,Kirsty Wright,bLwII6-92_Y,0.0,2017-02-24 22:15:11,True,True
+2017-02-25T00:57:26,Well this looks bad.,0,0,"I know I’m wrong but,",bLwII6-92_Y,-0.6999999999999998,2017-02-25 00:57:26,True,True
+2017-02-25T08:48:16,Still waiting for manimal,0,0,Suspicious Spam,bLwII6-92_Y,0.0,2017-02-25 08:48:16,True,True
+2017-02-25T15:06:58,where to downoad?? tnx,0,0,Mario Ratkovic,bLwII6-92_Y,0.0,2017-02-25 15:06:58,True,True
+2017-02-25T17:00:50,"I was with it until I saw Amy Poehler, that no talent hack isn't worth the money.",0,0,mynameisray,bLwII6-92_Y,0.3,2017-02-25 17:00:50,True,True
+2017-02-26T05:13:17,https://m.facebook.com/story.php?story_fbid=244133462664151&id=100012024972337,0,0,Rex tanvir,bLwII6-92_Y,0.0,2017-02-26 05:13:17,True,True
+2017-02-26T07:25:57,"Lennon Parham is gonna steal this shit, even Zouks! I can't fucking wait.",0,0,Beef Supreme,bLwII6-92_Y,-0.425,2017-02-26 07:25:57,True,True
+2017-02-27T19:21:58,"that song is AWESOME. i shazaamed it ""Love My People"" by Crown and the M.O.B. !",0,0,beacon1225,bLwII6-92_Y,0.8125,2017-02-27 19:21:58,True,True
+2017-02-27T19:40:13,shoulder sharply fresh yell concrete.,0,0,Archie White,bLwII6-92_Y,0.225,2017-02-27 19:40:13,True,True
+2017-02-27T22:32:33,"holy fucking shit , stupid ... beyond stupid plots with time to retire comedians .",0,0,Rick Salt,bLwII6-92_Y,-0.6,2017-02-27 22:32:33,True,True
+2017-02-28T03:18:47,Is it suitable for upload this kind of trailer ?,0,0,paist,bLwII6-92_Y,0.575,2017-02-28 03:18:47,True,True
+2017-03-01T16:51:37,"Love how in the 90s Will Ferrel was ripping on Robin Williams on SNL for making movies like ""Patch Adams,"" he said, ""it looks terrible!"".....Way to raise the bar Will. This is obviously funnier but without those annoying, good performances by Academy Award winning actors like Phillip Seymour Hoffman and Robin Williams.",1,0,Chris Cowden,bLwII6-92_Y,-0.01666666666666668,2017-03-01 16:51:37,True,True
+2017-03-02T13:12:40,oke,0,0,Kewz,bLwII6-92_Y,0.0,2017-03-02 13:12:40,True,True
+2017-03-03T05:30:44,RAFI BOMB!,1,0,Willz828,bLwII6-92_Y,0.0,2017-03-03 05:30:44,True,True
+2017-03-03T13:17:37,I wish I was in America I was I went to the cinema first one,0,0,BeaSt وحش,bLwII6-92_Y,0.25,2017-03-03 13:17:37,True,True
+2017-03-03T21:14:31,"Watching it, especially for the tell your friends (gag) if the mess with us 🤣😂🤣",0,0,Jay Bruno,bLwII6-92_Y,-0.0875,2017-03-03 21:14:31,True,True
+2017-03-05T11:07:49,Only in america...,0,0,Gudni FB,bLwII6-92_Y,0.0,2017-03-05 11:07:49,True,True
+2017-03-05T20:09:32,Showing casinos cheaters justice part was bad idea....that should be suprise.,0,0,butch ering,bLwII6-92_Y,-0.6999999999999998,2017-03-05 20:09:32,True,True
+2017-03-07T07:19:21,I would rather watch my cat take shit than watch this movie...,0,0,Jesse Sloan,bLwII6-92_Y,-0.2,2017-03-07 07:19:21,True,True
+2017-03-19T17:12:43,40 + 20 = 60 years,0,0,Samuel Johnson,bLwII6-92_Y,0.0,2017-03-19 17:12:43,True,True
+2017-03-24T15:29:12,They could have just sold their massive house with a swimming pool for a smaller one. They would have had money left over to pay the college fees. And them some over to maybe buy a car. Or a holiday in the Bora Bora islands.,1,0,Fuck You Google Plus,bLwII6-92_Y,0.0,2017-03-24 15:29:12,True,True
+2017-04-01T19:18:58,"1:58 Because fuck you, that's why.",0,0,Connor MacLeod,bLwII6-92_Y,-0.4,2017-04-01 19:18:58,True,True
+2017-04-10T13:43:07,"Jason Mantzoukas is finally gonna be a star,he is hilarious. He would have been one sooner but ya know,his name is Jason Mantzoukas...Jay Montzokas? Moussaka....",0,0,Sir Sumumabitch,bLwII6-92_Y,0.25,2017-04-10 13:43:07,True,True
+2017-04-12T07:01:02,Yoooou can't find this movie with beetter quality than here => https://twitter.com/2b325b39a6ad4fdb6/status/824452926324121600,0,0,Viral Video,bLwII6-92_Y,0.0,2017-04-12 07:01:02,True,True
+2017-04-21T13:33:15,well.. thanks for showing the whole movie,0,0,jshaolin0,bLwII6-92_Y,0.2,2017-04-21 13:33:15,True,True
+2017-04-24T19:18:04,will ferrels wife is swedish and amys brother live in sweden,0,0,Melicia,bLwII6-92_Y,0.13636363636363635,2017-04-24 19:18:04,True,True
+2017-05-01T05:29:43,"Sure, I'll watch it or whatever",0,0,darktennisball,bLwII6-92_Y,0.5,2017-05-01 05:29:43,True,True
+2017-05-03T18:44:32,Song?,0,0,Elliot Philpott,bLwII6-92_Y,0.0,2017-05-03 18:44:32,True,True
+2017-05-05T08:42:31,when this movies available in cinema?,0,0,Free Palestine,bLwII6-92_Y,0.4,2017-05-05 08:42:31,True,True
+2017-05-14T15:25:14,Raffi!,0,0,Chris L,bLwII6-92_Y,0.0,2017-05-14 15:25:14,True,True
+2017-05-15T08:12:08,"0:08 The acceptance letter has a typo. 2nd paragraph, 2nd sentence it has ""or"" instead of ""our"" lol. Way to go Buckley University with the very best education available.",0,0,Harambe The Gorilla,bLwII6-92_Y,0.44000000000000006,2017-05-15 08:12:08,True,True
+2017-05-16T19:59:03,tell you friends if they mess with......this is what ...*huuaaaakkkkkkkkkkkk*....they gonna get!,0,0,Rahul Saxena,bLwII6-92_Y,-0.21875,2017-05-16 19:59:03,True,True
+2017-05-19T12:08:02,WHATS THE SONG THAT BEGINS AT 0:56??? I NEED TO KNOW,1,0,kayjayMotion,bLwII6-92_Y,0.0,2017-05-19 12:08:02,True,True
+2017-05-19T13:38:21,why is Adrian Pimento helping Ron Burgundy and Leslie Knope open a casino in their weird shared universe house?,0,0,Sasquatch_Gaming_,bLwII6-92_Y,-0.25,2017-05-19 13:38:21,True,True
+2017-05-21T01:05:51,tell your friends if they mess with us ugh this is what they're going to get laughed till I drooled,0,0,Latosha Bullock,bLwII6-92_Y,0.26249999999999996,2017-05-21 01:05:51,True,True
+2017-05-21T09:30:52,a shame the assholes at imdb removed the message boards......would be nice to discuss movies  like this one over there,1,0,Silver TT,bLwII6-92_Y,0.6,2017-05-21 09:30:52,True,True
+2017-05-27T09:28:13,I want it!!,0,0,Mirielen Arantes,bLwII6-92_Y,0.0,2017-05-27 09:28:13,True,True
+2017-05-29T09:23:38,"wasn't this an episode of bobs burgers a few years ago? and who the fuck thinks Amy Poehler is funny, coupled with getting to watch will Ferrell act like a complete fucking unfunny spaz in yet another movie doomed to fail.",0,0,trahapace150,bLwII6-92_Y,-0.225,2017-05-29 09:23:38,True,True
+2017-05-30T05:00:37,Heynong man.,0,0,alissa jimenez,bLwII6-92_Y,0.0,2017-05-30 05:00:37,True,True
+2017-05-30T20:17:11,This is based off bucknell,0,0,9/11 Holocaust,bLwII6-92_Y,0.0,2017-05-30 20:17:11,True,True
+2017-06-07T00:48:33,where's Mariah? :(,0,0,Pipoca Smith,bLwII6-92_Y,-0.75,2017-06-07 00:48:33,True,True
+2017-06-21T20:07:29,it looks terrible,0,0,Brandon Rogers,bLwII6-92_Y,-1.0,2017-06-21 20:07:29,True,True
+2017-06-22T18:55:59,Rafi and will ferrrell in the same movie oh my god,0,0,Rmac12x31,bLwII6-92_Y,0.0,2017-06-22 18:55:59,True,True
+2017-06-23T11:23:51,Song?,0,0,taquitotexano09,bLwII6-92_Y,0.0,2017-06-23 11:23:51,False,True
+2017-06-26T07:58:03,The House Movie Available in hd Quality Stream Now https://plus.google.com/+McQuinGanesStaringDika/posts/ipypzwSiDnY,1,0,Golly Hoadley,bLwII6-92_Y,0.4,2017-06-26 07:58:03,False,True
+2017-06-27T03:01:05,I just came here to watch that last part 😂😂😂,0,0,Hashslingingkappa,bLwII6-92_Y,0.0,2017-06-27 03:01:05,False,True
+2017-06-27T05:08:26,Hello youtubeееrs waaatch Theee Housе online here => https://twitter.com/3a742b0ef52cad046/status/878070489150652416,0,0,MinKyung DaeHyun,bLwII6-92_Y,0.0,2017-06-27 05:08:26,False,True
+2017-06-28T07:22:05,This movie looks more retarded than Special Ed from Crank Yankers.,0,0,Adam Lang,bLwII6-92_Y,0.019047619047619035,2017-06-28 07:22:05,False,True
+2017-06-29T03:03:37,Wаaatсh TTТThe House onlinе here => https://twitter.com/3a742b0ef52cad046/status/878070489150652416,0,0,Анастасия Муз,bLwII6-92_Y,0.0,2017-06-29 03:03:37,False,True
+2017-06-29T07:51:57,"Don't watch this movie, it is so misleading. I just watched the movie, I'm disgusted, and I'm 16. It is filled with cliches and cheap humor. A lot of the scenes played in this movie you won't be able to see in the movie and bad writing. Thanks, Will Feral you just wasted 2 hours of my life that I can never get back.",0,0,Idontlikenames,bLwII6-92_Y,-0.049999999999999975,2017-06-29 07:51:57,False,True
+2017-06-29T10:44:32,Good writers we shall still exist even though u hack to our systems u can take the script but not my brain new trialer from where? ????????? just still have the original but j will change never use on line formatting and u know still j look up to Morgan fox my model bst script writer j will not give up,0,0,Esau Shevy,bLwII6-92_Y,0.4037878787878788,2017-06-29 10:44:32,False,True
+2017-06-29T15:09:53,she doent know she needs one and the parents dont get student loan because the collage will tell kid,0,0,gut spilla187,bLwII6-92_Y,0.0,2017-06-29 15:09:53,False,True
+2017-06-30T23:07:11,Don't let this good trailer fool you these are the ONLY funny parts of the movie and they're funnier in this trailer the rest of the movie is fucking annoying improve that goes on forever it ruins entire scenes.  This movie sucks ass,0,0,grkpektis,bLwII6-92_Y,-0.042857142857142864,2017-06-30 23:07:11,False,True
+2017-07-01T08:57:25,"Will Ferrell's career is beginning to remind of Chevy Chase in the late 80s, early 90s. It's sad. We can only hope he doesn't end up with his own talk show and doing Doritos commercials.",0,0,Lex,bLwII6-92_Y,-0.019999999999999997,2017-07-01 08:57:25,False,True
+2017-07-01T19:14:22,Garbage,1,0,Pornisforhomosexuals Hentaiisforhomosexualsto,bLwII6-92_Y,0.0,2017-07-01 19:14:22,False,True
+2017-07-03T06:41:13,0:43 (Stop)  The Clown.  Do you think it's a reference to the movie IT?,0,0,Joel Iñiguez mendez,bLwII6-92_Y,0.0,2017-07-03 06:41:13,False,True
+2017-07-03T21:32:02,IF THIS FLOPS DO A MUTHAFUKKIN SEQUEL TO TALLADEGA NIGHTS DAMMIT!!!!!!!!! ENUFF OF STEP BROS AN ANCHORMAN SHIT.GET BACK TO RICKY BOBBY DAM!!!,0,0,Benny Danielz,bLwII6-92_Y,0.0,2017-07-03 21:32:02,False,True
+2017-07-07T14:21:21,wow.. did this movie suck.... it could've been a great one...a good story... but boy.. did they miss the boat,1,0,Rudy Gun,bLwII6-92_Y,0.5333333333333333,2017-07-07 14:21:21,False,True
+2017-07-07T15:56:46,Tell your friends that if they mess with us this is what huuuhhhggg this is what they're gonna get.,0,0,CryThePanda,bLwII6-92_Y,-0.175,2017-07-07 15:56:46,False,True
+2017-07-07T16:18:02,spoiler alert: saw this movie last night. i thought it was pretty funny. not quite at anchorman level or talladega nights but still enjoyable. i really liked how will's character couldn't do math at all and they go from going to vegas to try and win some money for their daughter to basically running their own mob at the end.,0,0,scott b,bLwII6-92_Y,0.42857142857142866,2017-07-07 16:18:02,False,True
+2017-07-09T07:56:51,I wаааatched Thе Hоuse full mоviее heeеerе https://twitter.com/3a742b0ef52cad046/status/878070489150652416,0,0,ANA ALI KHAN,bLwII6-92_Y,0.35,2017-07-09 07:56:51,False,True
+2017-07-09T11:43:09,"guys, you keep on criticizing the story, it's just for fun, don't you want to criticize why Clark Kent can fly?",0,0,J English,bLwII6-92_Y,0.55,2017-07-09 11:43:09,False,True
+2017-07-10T03:31:56,whats the name of that song in the trailer can someoneone tell me please,0,0,Lawrencio Elliott,bLwII6-92_Y,0.0,2017-07-10 03:31:56,False,True
+2017-07-17T01:43:20,"This was a pretty funny movie and I like that they chose Bucknell as the college of choice but there is actually no real shot of Bucknell’s campus in the entire movie, not sure why because Bucknell’s campus is much nicer……….",0,0,Rob M,bLwII6-92_Y,0.05833333333333334,2017-07-17 01:43:20,False,True
+2017-07-17T02:08:00,"""Tell you friends that if the mamamess wwwiith us, this is what there gonne get""    LMAO",0,0,Artem Geradimchuk,bLwII6-92_Y,0.6,2017-07-17 02:08:00,False,True
+2017-08-11T03:57:31,Тhis movie is now aaaavailаble tо watch here => https://twitter.com/3a742b0ef52cad046/status/878070489150652416,0,0,dhcbdc kducyuyadh,bLwII6-92_Y,0.0,2017-08-11 03:57:31,False,True
+2017-08-12T21:13:48,"he's 40?  huh, 2017-1967 = 40?  must be common core math.  my bad.",1,0,Jason Thompson,bLwII6-92_Y,-0.4999999999999999,2017-08-12 21:13:48,False,True
+2017-09-14T07:57:51,Will Ferrell is playing a 40 year old in this movie? lol,0,1,Petrus Amp,bLwII6-92_Y,0.45,2017-09-14 07:57:51,False,True
+2017-09-20T02:26:00,"My name's Richard, but all my friends call me BIG DICK! Nice vid btw.",0,0,BIG Dick4u,bLwII6-92_Y,0.3,2017-09-20 02:26:00,False,True
+2017-09-25T01:06:47,Corny as hell.,0,0,Mark F,bLwII6-92_Y,0.0,2017-09-25 01:06:47,False,True
+2017-09-29T18:39:10,Chance the rapper,0,0,fortnite gaming clips,bLwII6-92_Y,0.0,2017-09-29 18:39:10,False,False
+2017-10-02T21:02:05,This was a great movie.,0,0,Brandon Louis,bLwII6-92_Y,0.8,2017-10-02 21:02:05,False,False
+2017-10-13T14:21:15,Adrian Pimento watcha doing here??,0,0,Jaimie Hex,bLwII6-92_Y,0.0,2017-10-13 14:21:15,False,False
+2017-10-14T10:30:30,this movie wasn't penned by adults.,0,0,Iron Lungs,bLwII6-92_Y,0.0,2017-10-14 10:30:30,False,False
+2017-10-15T11:03:18,it was surprisingly funny and taking the issue of college costs and addictions,0,0,Castor Troy,bLwII6-92_Y,0.25,2017-10-15 11:03:18,False,False
+2017-10-18T09:48:56,This entire movie is a waste of time. 👎,0,0,Savannah Darrell,bLwII6-92_Y,-0.1,2017-10-18 09:48:56,False,False
+2017-10-21T17:38:42,"where im from its free to study on college. well, taxes cover it ofc.",0,0,Hroptatyr Othala,bLwII6-92_Y,0.4,2017-10-21 17:38:42,False,False
+2017-10-23T17:47:36,BEST INTRO to a movie...that florida song in the intro is lit,0,0,Robi Parvez,bLwII6-92_Y,1.0,2017-10-23 17:47:36,False,False
+2017-10-28T17:44:19,Don't waste your time on this,0,0,Mislav Čačić,bLwII6-92_Y,-0.2,2017-10-28 17:44:19,False,False
+2017-11-01T03:42:33,STUPID!! STUPID!!! STUPID!!!!! SUCKS!!!Q,1,0,Tommy Sands,bLwII6-92_Y,-1.0,2017-11-01 03:42:33,False,False
+2017-11-02T08:10:14,2:17,0,0,Sander Verweij,bLwII6-92_Y,0.0,2017-11-02 08:10:14,False,False
+2018-01-21T19:31:05,LOL The Butcher!,1,0,F dL,bLwII6-92_Y,1.0,2018-01-21 19:31:05,False,False
+2018-02-04T05:00:05,the movie was nothing like the trailer,0,0,Mllr Hr,bLwII6-92_Y,0.0,2018-02-04 05:00:05,False,False
+2018-02-05T19:09:25,It's look like a really good move that i want to watch.,0,0,Simon Karlsson,bLwII6-92_Y,0.7,2018-02-05 19:09:25,False,False
+2018-02-09T00:17:05,boring,0,0,celtic celtic,bLwII6-92_Y,-1.0,2018-02-09 00:17:05,False,False
+2018-02-24T14:10:22,did i watch this movie before?,0,1,ameer adel,bLwII6-92_Y,0.0,2018-02-24 14:10:22,False,False
+2018-04-04T19:23:46,Just watched this today. Wasn’t funny at all. One of Will Ferrell’s worst performances.,0,0,Mitchell Wagoner,bLwII6-92_Y,-0.375,2018-04-04 19:23:46,False,False
+2018-06-01T23:26:27,2:18 ahhahahahhahahahahaha Blaaaaaaaaaaah,0,0,VARYAGIN,bLwII6-92_Y,0.0,2018-06-01 23:26:27,False,False
+2018-06-17T00:12:41,Anybody knows the background music in men fight?,0,0,Uzinotozi,bLwII6-92_Y,0.0,2018-06-17 00:12:41,False,False
+2018-07-25T12:54:27,he looks like jeremy clarkson,0,0,CALL ME ASG,bLwII6-92_Y,0.0,2018-07-25 12:54:27,False,False
+2018-08-31T21:41:42,Amy Poehler is just so *NOT* funny. And the movie just sucks ass. What a load of crap,0,0,Bryan Awkwardson,bLwII6-92_Y,-0.4083333333333334,2018-08-31 21:41:42,False,False
+2018-09-07T22:41:01,😎🤣🤣🤣,0,0,Jenny Mason,bLwII6-92_Y,0.0,2018-09-07 22:41:01,False,False
+2018-10-01T18:04:05,Holy shit stained balls the jokes in the trailer suck,0,0,Alan Brown,bLwII6-92_Y,-0.2,2018-10-01 18:04:05,False,False
+2018-10-16T19:48:42,When you actually went to work saved money and paid for your own way into college. Um has their daughter ever heard of working before?? Oh wait what about scholarships?,0,0,Amethyst Rock,bLwII6-92_Y,0.3,2018-10-16 19:48:42,False,False
+2018-10-20T06:04:47,how is that song called?,0,0,Veronica Venegas,bLwII6-92_Y,0.0,2018-10-20 06:04:47,False,False
+2019-01-04T08:16:10,Must see this super comedy movie! With boxxy software I can add subtitles and audio in my language. Boxxy it's free.,1,0,Steve Wertz,bLwII6-92_Y,0.4083333333333333,2019-01-04 08:16:10,False,False
+2019-01-15T16:12:40,Never heard of it or saw a trailer. Rented it at a video store (yes video store) and thought it was funny.,0,0,Raymond Marquez,bLwII6-92_Y,0.25,2019-01-15 16:12:40,False,False
+2019-07-05T21:35:31,What was the secret word? I don't remember...thx,0,0,Valerio Ricci,bLwII6-92_Y,-0.4,2019-07-05 21:35:31,False,False
+2019-11-12T22:42:57,"I have 450000 dollarsin the account!!!   No sir, you have 450 dollars!!!",0,0,nomon95,bLwII6-92_Y,0.0,2019-11-12 22:42:57,False,False

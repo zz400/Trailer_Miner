@@ -1,0 +1,882 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2017-01-20T19:09:26,FIRST,1,0,MrHowl,wwjtdOqTmrA,0.25,2017-01-20 19:09:26,True,True
+2017-01-20T19:09:27,First!,0,0,LibertyOverTyranny76,wwjtdOqTmrA,0.3125,2017-01-20 19:09:27,True,True
+2017-01-20T19:09:32,FIRST,0,0,MrHowl,wwjtdOqTmrA,0.25,2017-01-20 19:09:32,True,True
+2017-01-20T19:09:35,First,0,0,Dennis Pool,wwjtdOqTmrA,0.25,2017-01-20 19:09:35,True,True
+2017-01-20T19:09:35,First,0,0,David Dim,wwjtdOqTmrA,0.25,2017-01-20 19:09:35,True,True
+2017-01-20T19:09:41,holaaa,0,0,joel,wwjtdOqTmrA,0.0,2017-01-20 19:09:41,True,True
+2017-01-20T19:09:51,Shout out to #chicken,0,2,WrigleyNAE,wwjtdOqTmrA,-0.6,2017-01-20 19:09:51,True,True
+2017-01-20T19:10:10,Earlier,0,1,Will Barrett,wwjtdOqTmrA,0.0,2017-01-20 19:10:10,True,True
+2017-01-20T19:10:11,Banter,2,1,Nick Crompton,wwjtdOqTmrA,0.0,2017-01-20 19:10:11,True,True
+2017-01-20T19:10:11,"A very interesting film made by unknown companies, no one is going to watch this.",84,6,Ziango Rex,wwjtdOqTmrA,0.275,2017-01-20 19:10:11,True,True
+2017-01-20T19:10:34,fourth,1,0,abdelrahman ahmed,wwjtdOqTmrA,0.0,2017-01-20 19:10:34,True,True
+2017-01-20T19:10:46,5th,0,0,ox bro films,wwjtdOqTmrA,0.0,2017-01-20 19:10:46,True,True
+2017-01-20T19:11:05,If u like this trailer Press like in this comment.,0,1,Mr. Mister,wwjtdOqTmrA,0.0,2017-01-20 19:11:05,True,True
+2017-01-20T19:11:11,"""Jax Teller After Life Trailer #1 (2017)""",161,0,Mindful,wwjtdOqTmrA,0.0,2017-01-20 19:11:11,True,True
+2017-01-20T19:11:40,"I thought that was Brad Pitt thinking this was world war z 2, whatta let down breddah",0,0,joshDNBhunt,wwjtdOqTmrA,-0.15555555555555559,2017-01-20 19:11:40,True,True
+2017-01-20T19:11:43,Notifications Gang where you at??,12,2,MD FAMILY,wwjtdOqTmrA,0.0,2017-01-20 19:11:43,True,True
+2017-01-20T19:11:52,1:01 Palpatine!!! I was waiting for him to say Anakin.,512,28,Omar Correa,wwjtdOqTmrA,0.0,2017-01-20 19:11:52,True,True
+2017-01-20T19:11:59,DO IT! 1:01,0,0,BowarePL,wwjtdOqTmrA,0.0,2017-01-20 19:11:59,True,True
+2017-01-20T19:12:52,omg same brad pitt haha,10,2,Karelys Ortiz,wwjtdOqTmrA,0.1,2017-01-20 19:12:52,True,True
+2017-01-20T19:13:05,ahahahahahaha this comment will be lost so I have no regards to what I say next. *I watch nugget porn*,155,6,koko unknown,wwjtdOqTmrA,0.0,2017-01-20 19:13:05,True,True
+2017-01-20T19:13:07,:-)),0,0,art angel,wwjtdOqTmrA,0.5,2017-01-20 19:13:07,True,True
+2017-01-20T19:13:59,"Lost City of Z? what is Z, is it like V for Vendetta? Zendetta?",13,12,Shark Team,wwjtdOqTmrA,0.0,2017-01-20 19:13:59,True,True
+2017-01-20T19:14:08,so Jax meets Emperor Palpatine,0,0,reymond lopez,wwjtdOqTmrA,0.0,2017-01-20 19:14:08,True,True
+2017-01-20T19:14:09,Anybody else thought it was WWZ 2,466,7,Eli_ Blast,wwjtdOqTmrA,0.0,2017-01-20 19:14:09,True,True
+2017-01-20T19:14:13,is it lost if people live there,421,11,bobby ray,wwjtdOqTmrA,0.13636363636363635,2017-01-20 19:14:13,True,True
+2017-01-20T19:14:43,thought this was a prequel to world war z for a second,2085,43,bmaster461603,wwjtdOqTmrA,0.0,2017-01-20 19:14:43,True,True
+2017-01-20T19:16:58,my name  is James,0,1,James Foran,wwjtdOqTmrA,0.0,2017-01-20 19:16:58,True,True
+2017-01-20T19:17:42,my name is James,1,0,James Foran,wwjtdOqTmrA,0.0,2017-01-20 19:17:42,True,True
+2017-01-20T19:18:08,I'm guessing they will find a Zygarde,44,1,Waheed Abdullah,wwjtdOqTmrA,0.0,2017-01-20 19:18:08,True,True
+2017-01-20T19:18:27,....Everything changed when the Nation Z attacked.,1,0,Heil Jewbacca,wwjtdOqTmrA,0.0,2017-01-20 19:18:27,True,True
+2017-01-20T19:18:56,looks interesting,0,0,Dwarf Giraffe,wwjtdOqTmrA,0.5,2017-01-20 19:18:56,True,True
+2017-01-20T19:20:00,When's the last time you heard the name of Robert Pattinson,1,0,Abe Amir,wwjtdOqTmrA,0.0,2017-01-20 19:20:00,True,True
+2017-01-20T19:21:18,Lame,0,0,James Want to die,wwjtdOqTmrA,-0.5,2017-01-20 19:21:18,True,True
+2017-01-20T19:21:40,Its that Palpatine??,0,1,David Mosquera,wwjtdOqTmrA,0.0,2017-01-20 19:21:40,True,True
+2017-01-20T19:22:00,this movie looks like Obama's presidency.,1,3,mike,wwjtdOqTmrA,0.0,2017-01-20 19:22:00,True,True
+2017-01-20T19:22:30,Not gonna lie the reason I clicked on this was because I thought this was the trailer for world war Z 2 since thats coming out this year but then the based on the true story popped up and I was baffed😂😂😂,287,11,Emmanuel Molen,wwjtdOqTmrA,0.35,2017-01-20 19:22:30,True,True
+2017-01-20T19:24:53,Where are the zombies? o_O,0,1,Sneaky Pewpz,wwjtdOqTmrA,0.05,2017-01-20 19:24:53,True,True
+2017-01-20T19:25:32,fin go find rey,0,0,p may,wwjtdOqTmrA,0.0,2017-01-20 19:25:32,True,True
+2017-01-20T19:25:54,I see Charlie Hunnam I click!,1,0,Linda Starr,wwjtdOqTmrA,0.0,2017-01-20 19:25:54,True,True
+2017-01-20T19:26:48,Jax Teller?,0,0,Lucas Viana,wwjtdOqTmrA,0.0,2017-01-20 19:26:48,True,True
+2017-01-20T19:27:56,is this the guy from narcos ???,0,2,KHSAM 15SA,wwjtdOqTmrA,0.0,2017-01-20 19:27:56,True,True
+2017-01-20T19:28:17,this looks like a really good film,73,1,Maxx Weinstein,wwjtdOqTmrA,0.7,2017-01-20 19:28:17,True,True
+2017-01-20T19:28:44,looks boring tbh,0,0,KING JAY UNO,wwjtdOqTmrA,-1.0,2017-01-20 19:28:44,True,True
+2017-01-20T19:28:45,"Thank God this is not a zombie movie. Sounds good, btw.",1,0,Matheus Fontoura,wwjtdOqTmrA,0.7,2017-01-20 19:28:45,True,True
+2017-01-20T19:29:50,revenant in The forest?,0,0,Andrea de nichilo,wwjtdOqTmrA,0.0,2017-01-20 19:29:50,True,True
+2017-01-20T19:29:53,Where did they find this Heath ledger lookalike?,14,1,weird1ize,wwjtdOqTmrA,0.0,2017-01-20 19:29:53,True,True
+2017-01-20T19:29:55,BESTTTT,0,0,Elmar Aghayev,wwjtdOqTmrA,0.0,2017-01-20 19:29:55,True,True
+2017-01-20T19:32:05,"Last time I was this early, Obama was President",1,0,ItsChronicle,wwjtdOqTmrA,0.05,2017-01-20 19:32:05,True,True
+2017-01-20T19:34:53,Thought this was gonna be a zombie for a sec,16,0,Erik Bernal,wwjtdOqTmrA,-0.1,2017-01-20 19:34:53,True,True
+2017-01-20T19:35:57,Ian Mcdiramid( or however you spell it) hasn't aged since the second Death Star blew up!,0,0,JimmyNGman,wwjtdOqTmrA,-0.05,2017-01-20 19:35:57,True,True
+2017-01-20T19:36:39,I think this film is going to be about man trying to find something that he wants to exist yet he knows it really doesn't. Still I wanna see it tho,0,0,Nathan Rowalnd,wwjtdOqTmrA,0.2,2017-01-20 19:36:39,True,True
+2017-01-20T19:37:03,dam whites ruining other cultures,297,49,Jaxon Wallace,wwjtdOqTmrA,-0.125,2017-01-20 19:37:03,True,True
+2017-01-20T19:37:53,he is cristobal colon? :0,1,0,Gonzalo Aguilar,wwjtdOqTmrA,0.0,2017-01-20 19:37:53,True,True
+2017-01-20T19:38:05,Who else thought this had anything to do with World War Z,1161,23,Blackjack804,wwjtdOqTmrA,0.0,2017-01-20 19:38:05,True,True
+2017-01-20T19:39:01,What an Anti-White film,0,0,Earthshine,wwjtdOqTmrA,0.0,2017-01-20 19:39:01,True,True
+2017-01-20T19:40:57,old music and terrible collors,1,0,Tailwhip,wwjtdOqTmrA,-0.45,2017-01-20 19:40:57,True,True
+2017-01-20T19:42:21,good trailer,0,0,Sergio Speed,wwjtdOqTmrA,0.7,2017-01-20 19:42:21,True,True
+2017-01-20T19:42:57,anyone else think this was a world war z sequel?,0,0,soap bar,wwjtdOqTmrA,0.0,2017-01-20 19:42:57,True,True
+2017-01-20T19:43:39,"Why do trailers have intro trailers now? Also, Charlie Hunnam is proving to be a pretty bad actor, outside of Sons of Anarchy.",8,3,Kevin Miller,wwjtdOqTmrA,-0.14999999999999994,2017-01-20 19:43:39,True,True
+2017-01-20T19:44:32,Through the whole clip I'm over here looking for Zombies! I seen Spiderman though! Tom Holland in the credits! 😁,0,0,NewDrew2,wwjtdOqTmrA,0.390625,2017-01-20 19:44:32,True,True
+2017-01-20T19:50:29,The color grading pisses me off tbh,1,0,Dwarf Giraffe,wwjtdOqTmrA,0.0,2017-01-20 19:50:29,True,True
+2017-01-20T19:51:50,i totally thought this was related to world war z,0,0,ZachariusM8,wwjtdOqTmrA,0.0,2017-01-20 19:51:50,True,True
+2017-01-20T19:55:26,so...no zombies?,722,8,Bryan A,wwjtdOqTmrA,0.0,2017-01-20 19:55:26,True,True
+2017-01-20T19:57:38,Pattinson unrecognisable in this!,115,2,Eoghan900,wwjtdOqTmrA,0.0,2017-01-20 19:57:38,True,True
+2017-01-20T19:57:48,"Trump, Trump Trump!!",0,0,SkyRa,wwjtdOqTmrA,0.0,2017-01-20 19:57:48,True,True
+2017-01-20T19:57:57,"omg, I've wanted to see this since I read the book years ago. So excited for this! Hell yeah!",5,0,SOren0414,wwjtdOqTmrA,0.5859375,2017-01-20 19:57:57,True,True
+2017-01-20T19:58:06,"...it is Z, and we must find it. 10 years from now when the raw materials such as gold, iron and diamonds we find have been mined to enrich our great country and industries, then, we will enslave Z's citizen for the betterment and prosperity of civilization.",0,0,Jon Lamp,wwjtdOqTmrA,0.18974358974358974,2017-01-20 19:58:06,True,True
+2017-01-20T19:58:30,check out some cool tshirts and hoodies here https://www.teepublic.com/user/tkron,0,0,Darth Boy,wwjtdOqTmrA,0.35,2017-01-20 19:58:30,True,True
+2017-01-20T19:58:40,I thought I'm this had something to do for world war Z,0,0,word g,wwjtdOqTmrA,0.0,2017-01-20 19:58:40,True,True
+2017-01-20T20:03:47,"Charlie Hunnam <3 , can't wait for movie , looks awesome.",0,0,cipko,wwjtdOqTmrA,1.0,2017-01-20 20:03:47,True,True
+2017-01-20T20:10:25,0:02 they should've hired Rhett,0,0,chris ryan,wwjtdOqTmrA,0.0,2017-01-20 20:10:25,True,True
+2017-01-20T20:11:15,Wut bout the other 25 lost cities?,1,0,Jia L.,wwjtdOqTmrA,-0.125,2017-01-20 20:11:15,True,True
+2017-01-20T20:13:51,jack,2,0,Kaya Ilah,wwjtdOqTmrA,0.0,2017-01-20 20:13:51,True,True
+2017-01-20T20:14:35,Jax teller (Charlie Hunnam) 😍😍😍😍 I'm waiting for his other movie King Arthur too,38,1,Rasha Zedd,wwjtdOqTmrA,-0.125,2017-01-20 20:14:35,True,True
+2017-01-20T20:15:51,it will not end well.,0,0,John Bush,wwjtdOqTmrA,0.0,2017-01-20 20:15:51,True,True
+2017-01-20T20:16:56,SPOILER: He goes missing and is never found.,0,1,KatKost,wwjtdOqTmrA,-0.2,2017-01-20 20:16:56,True,True
+2017-01-20T20:16:59,Charlie Hunnam looks like poor man's Brad Pitt,1,2,JacobusOptimum,wwjtdOqTmrA,-0.4,2017-01-20 20:16:59,True,True
+2017-01-20T20:17:00,Find out next time on The Lost City of Z,0,0,gustinex,wwjtdOqTmrA,0.0,2017-01-20 20:17:00,True,True
+2017-01-20T20:17:15,Congo Sequel!,0,0,Brian Baer,wwjtdOqTmrA,0.0,2017-01-20 20:17:15,True,True
+2017-01-20T20:20:31,Thought the thumbnail was Johnny Knoxville at first glance and I was thoroughly rattled.,0,0,TheDutchBoy13,wwjtdOqTmrA,0.25,2017-01-20 20:20:31,True,True
+2017-01-20T20:20:34,"Wow, Charlie Hunnam seems to have shown his acting skills here. His speech made my flesh crawl!",1,0,Ad Astra,wwjtdOqTmrA,0.05,2017-01-20 20:20:34,True,True
+2017-01-20T20:21:13,i thought this was a zombie movie since it's called the lost city of Z!!??..,0,0,ArKhAm,wwjtdOqTmrA,0.0,2017-01-20 20:21:13,True,True
+2017-01-20T20:26:23,Ps4 giveaway!,0,0,Cillian Domican,wwjtdOqTmrA,0.0,2017-01-20 20:26:23,True,True
+2017-01-20T20:27:40,this movie set in the Amazon?,0,1,Zaipy,wwjtdOqTmrA,0.0,2017-01-20 20:27:40,True,True
+2017-01-20T20:28:26,95% of the people thought this is a sequel to world war z,0,0,MaskdJohn,wwjtdOqTmrA,0.0,2017-01-20 20:28:26,True,True
+2017-01-20T20:31:50,this looks sooo bad,0,0,Peter R,wwjtdOqTmrA,-0.6999999999999998,2017-01-20 20:31:50,True,True
+2017-01-20T20:34:29,"Z is dead baby, z is dead",0,0,Jurij Vasilyev,wwjtdOqTmrA,-0.2,2017-01-20 20:34:29,True,True
+2017-01-20T20:34:49,"""If we found a lost civilisation one impossible to exist"" then we will exterminate its inhabitants, culture, language and history, plunder its resources for centuries into the future and tell its remaining wretched people they should appreciate the civilising grace of the white man for without it they wouldn't be a able drink coca cola, drive a car or watch TV",394,38,Sam,wwjtdOqTmrA,-0.04166666666666666,2017-01-20 20:34:49,True,True
+2017-01-20T20:36:16,*Where are zombies?*,1,0,Кунг-Фу Падла,wwjtdOqTmrA,0.0,2017-01-20 20:36:16,True,True
+2017-01-20T20:38:43,Holy shitttt this is being adapted to a movie?? I've been meaning to read the book for YEARS. Better get on it stat.,0,0,Fancy Alien,wwjtdOqTmrA,0.5,2017-01-20 20:38:43,True,True
+2017-01-20T20:40:56,Is this a prequel to WWZ or Star Wars? I am confused.,0,1,Sandouras,wwjtdOqTmrA,-0.4,2017-01-20 20:40:56,True,True
+2017-01-20T20:41:01,Who also thought it was Heath Ledger in the thumb nail?,4,2,Hanna N,wwjtdOqTmrA,0.0,2017-01-20 20:41:01,True,True
+2017-01-20T20:43:25,The lost city of Zed not Zee.,0,0,dags xew,wwjtdOqTmrA,0.0,2017-01-20 20:43:25,True,True
+2017-01-20T20:47:29,The movie looks good but I thought it was a sequel to world war z,0,0,PaPaPuBear,wwjtdOqTmrA,0.7,2017-01-20 20:47:29,True,True
+2017-01-20T20:55:04,when is trailer start at the first thing I thought was Laura Croft,0,0,S.A.L Entertainment,wwjtdOqTmrA,0.25,2017-01-20 20:55:04,True,True
+2017-01-20T20:56:25,"Charlie Hunnam, The man with an accent from nowhere on planet earth.",0,1,MadCowGoMoo,wwjtdOqTmrA,0.0,2017-01-20 20:56:25,True,True
+2017-01-20T20:58:05,My History teacher just talked to us about this today. I cant believe this is actually gonna be a movie!,2,1,Ralo10,wwjtdOqTmrA,0.0,2017-01-20 20:58:05,True,True
+2017-01-20T20:59:33,"An American saying ""Zed""? HE'S A REDCOAT, GET HIM BOIZ!",0,0,Hi,wwjtdOqTmrA,0.0,2017-01-20 20:59:33,True,True
+2017-01-20T21:03:27,Since when did Peter Parker have facial hair?,0,2,izayuh.,wwjtdOqTmrA,0.0,2017-01-20 21:03:27,True,True
+2017-01-20T21:05:00,New Indiana jones,0,0,Ziofy,wwjtdOqTmrA,0.13636363636363635,2017-01-20 21:05:00,True,True
+2017-01-20T21:07:00,just researched the background of this city. this could be really good. lots of mystery that they can build up on since the explorer disappeared and was never seen again,2,0,MoFi,wwjtdOqTmrA,0.7,2017-01-20 21:07:00,True,True
+2017-01-20T21:17:29,spiderman!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0,0,Carey Ojall,wwjtdOqTmrA,0.0,2017-01-20 21:17:29,True,True
+2017-01-20T21:18:05,I thought it was Brad Pitt in the thumbnail,0,1,ccsays,wwjtdOqTmrA,0.0,2017-01-20 21:18:05,True,True
+2017-01-20T21:19:51,i thought this movie was about Zombies.,0,0,samu,wwjtdOqTmrA,0.0,2017-01-20 21:19:51,True,True
+2017-01-20T21:20:21,More like lost city of beards,2,1,TL Brown,wwjtdOqTmrA,0.5,2017-01-20 21:20:21,True,True
+2017-01-20T21:21:46,where are the dragonballs?,0,0,HappiestSadGuy,wwjtdOqTmrA,0.0,2017-01-20 21:21:46,True,True
+2017-01-20T21:22:30,"They find King Kong, right?",0,1,Kevin Israel,wwjtdOqTmrA,0.2857142857142857,2017-01-20 21:22:30,True,True
+2017-01-20T21:25:15,Thought this something about wizard of Oz,1,1,Tommy Tha Great 🛸,wwjtdOqTmrA,0.0,2017-01-20 21:25:15,True,True
+2017-01-20T21:25:40,Finally we get to see a knew scene of Tom Holland at 1:26,0,0,Alyssa patato,wwjtdOqTmrA,0.0,2017-01-20 21:25:40,True,True
+2017-01-20T21:27:13,Jax teller <3,0,0,Fatih Tonbul,wwjtdOqTmrA,1.0,2017-01-20 21:27:13,True,True
+2017-01-20T21:29:02,Yawn,0,0,JFomo,wwjtdOqTmrA,0.0,2017-01-20 21:29:02,True,True
+2017-01-20T21:31:51,"dammit, they need some freedom!",0,0,Tim Nergaard,wwjtdOqTmrA,0.0,2017-01-20 21:31:51,True,True
+2017-01-20T21:33:01,"Let me guess, he finds it.",467,17,Necramonium,wwjtdOqTmrA,0.0,2017-01-20 21:33:01,True,True
+2017-01-20T21:34:30,"The movie might be good, but this trailer sucks",0,1,Brandon Schreur,wwjtdOqTmrA,0.19999999999999998,2017-01-20 21:34:30,True,True
+2017-01-20T21:35:44,So what the Z stand for?,0,1,The_Real_Big_Boss,wwjtdOqTmrA,0.0,2017-01-20 21:35:44,True,True
+2017-01-20T21:36:14,Uncharted 5 looks nice,6,0,imicca,wwjtdOqTmrA,0.6,2017-01-20 21:36:14,True,True
+2017-01-20T21:38:58,This looks pretty interesting,0,0,electrica,wwjtdOqTmrA,0.375,2017-01-20 21:38:58,True,True
+2017-01-20T21:51:52,"This guy should play Nathan Drake, or until someone better shows up.",0,0,Jamie Dayne,wwjtdOqTmrA,0.5,2017-01-20 21:51:52,True,True
+2017-01-20T21:53:13,Nice click bait mate I thought this was a sequel to world war z for 2 seconds although that movie sucked I still wanted to see if the sequel would be better lol:),0,0,paul gib,wwjtdOqTmrA,0.6000000000000001,2017-01-20 21:53:13,True,True
+2017-01-20T21:54:56,Brasil,0,0,Lucas Batista,wwjtdOqTmrA,0.0,2017-01-20 21:54:56,True,True
+2017-01-20T22:01:33,"Looks awesome, but I cant really sympitise with Hunnam because we all know what happens when a white man finds an ancient civilization.",1,0,alcoholicdrummer,wwjtdOqTmrA,0.39999999999999997,2017-01-20 22:01:33,True,True
+2017-01-20T22:06:50,This was a really good book. Go read it!,0,0,dcore147,wwjtdOqTmrA,0.875,2017-01-20 22:06:50,True,True
+2017-01-20T22:07:19,Good actors in this movie.,538,16,Alain Bruno,wwjtdOqTmrA,0.7,2017-01-20 22:07:19,True,True
+2017-01-20T22:13:13,1:34 me in Battlefield 1,2,0,adri_farran,wwjtdOqTmrA,0.0,2017-01-20 22:13:13,True,True
+2017-01-20T22:15:19,Thought it was about zombies... Would have been fun,239,5,Mauro De Simone,wwjtdOqTmrA,0.3,2017-01-20 22:15:19,True,True
+2017-01-20T22:20:47,is that or is that not Brad pitt?,0,1,TUKMAK,wwjtdOqTmrA,0.0,2017-01-20 22:20:47,True,True
+2017-01-20T22:31:50,James Gray and Charlie Hunnam great mix !,2,0,Eisūto,wwjtdOqTmrA,1.0,2017-01-20 22:31:50,True,True
+2017-01-20T22:32:19,I will watch this movie because tom holland has a great mustache😂😂,0,0,hshdj lll,wwjtdOqTmrA,0.8,2017-01-20 22:32:19,True,True
+2017-01-20T22:32:43,Is that cop from Pablo escabor show from netflix?,1,1,RM,wwjtdOqTmrA,0.0,2017-01-20 22:32:43,True,True
+2017-01-20T22:45:46,I just clicked because of Charlie Hunnam 😍😍😍,0,0,stars areblind,wwjtdOqTmrA,0.0,2017-01-20 22:45:46,True,True
+2017-01-20T22:53:21,Ok I saw Charlie hunnam and instantly clicked,0,0,Shanella Akhtar,wwjtdOqTmrA,0.25,2017-01-20 22:53:21,True,True
+2017-01-20T22:54:41,"SOOO, ""zed"" is NOT for ""zombies""? got it",1,1,Les Ed,wwjtdOqTmrA,0.0,2017-01-20 22:54:41,True,True
+2017-01-20T23:17:44,"Damn the guy from narcos is doing allot now, Logan and now this.",0,0,SaturaPVP,wwjtdOqTmrA,0.0,2017-01-20 23:17:44,True,True
+2017-01-20T23:23:28,well obviously they find the hidden city...,1,1,Obey Koi,wwjtdOqTmrA,-0.08333333333333333,2017-01-20 23:23:28,True,True
+2017-01-20T23:23:30,I clicked on this because the thumbnail looked like Charlie Hunnam and it is 😍😍😍😍,9,2,Ashkins Curls,wwjtdOqTmrA,0.0,2017-01-20 23:23:30,True,True
+2017-01-20T23:31:41,I thought that was Brad Pitt in the thumbnail,0,0,Patrick Brannen,wwjtdOqTmrA,0.0,2017-01-20 23:31:41,True,True
+2017-01-20T23:33:20,"hi guys, some subscription please",0,0,AnareuzVlogs,wwjtdOqTmrA,0.0,2017-01-20 23:33:20,True,True
+2017-01-20T23:34:51,What is Jack Stellar up to this time?,1,1,JonO387,wwjtdOqTmrA,0.25,2017-01-20 23:34:51,True,True
+2017-01-20T23:36:41,I see Charlie Hunnam I watch ! Hopefully he won't die in this,0,0,bailey clifford,wwjtdOqTmrA,0.0,2017-01-20 23:36:41,True,True
+2017-01-20T23:44:01,Palpatine!!!!,0,0,Nayden,wwjtdOqTmrA,0.0,2017-01-20 23:44:01,True,True
+2017-01-20T23:44:17,"Well, now I've seen it.  The trailer showed me everything.  What happened to obscurity in trailers??",0,0,MM 10712,wwjtdOqTmrA,0.0,2017-01-20 23:44:17,True,True
+2017-01-20T23:47:28,This looks great! :),1,0,Twan Duvigneau,wwjtdOqTmrA,0.75,2017-01-20 23:47:28,True,True
+2017-01-20T23:51:31,Manifest destiny 101,0,0,-,wwjtdOqTmrA,0.0,2017-01-20 23:51:31,True,True
+2017-01-20T23:52:49,"a movie about a guy wanting to find indigenous people? gee, out of the many ""based on an incredible true story""-movies they could have made, they chose this?",1,0,Allan da Silva,wwjtdOqTmrA,0.5833333333333334,2017-01-20 23:52:49,True,True
+2017-01-20T23:57:38,They found the city where the nissan 350 Z was designed,0,0,Abu Aziyaan,wwjtdOqTmrA,0.0,2017-01-20 23:57:38,True,True
+2017-01-21T00:01:18,JACKIE BOY!,8,0,John Dough,wwjtdOqTmrA,0.0,2017-01-21 00:01:18,True,True
+2017-01-21T00:13:21,did they found it ?,0,0,viviana santos,wwjtdOqTmrA,0.0,2017-01-21 00:13:21,True,True
+2017-01-21T00:17:08,Thought this was a world war Z two trailer. But instead looks like a better movie anyway,0,0,Ben Talbot,wwjtdOqTmrA,0.5,2017-01-21 00:17:08,True,True
+2017-01-21T00:17:59,I'm guessing it's gonna be the Machu Picchu as it was discovered around WW1.,0,0,друг,wwjtdOqTmrA,0.0,2017-01-21 00:17:59,True,True
+2017-01-21T00:19:18,Charlie hunnams accent always sounds so fake,1,0,Desmon Brock,wwjtdOqTmrA,-0.5,2017-01-21 00:19:18,True,True
+2017-01-21T00:32:25,when he returns .... he will become a king,0,0,Chaos is Coming,wwjtdOqTmrA,0.0,2017-01-21 00:32:25,True,True
+2017-01-21T00:33:23,People were saying they thought this was a prequel to World War Z. I thought it might deal with Dragonball Z.... two kinds of people,0,0,Mike Matthews,wwjtdOqTmrA,0.0,2017-01-21 00:33:23,True,True
+2017-01-21T00:44:06,This movie reminds me of uncharted,0,0,Azrael_Black,wwjtdOqTmrA,0.0,2017-01-21 00:44:06,True,True
+2017-01-21T00:59:01,"But why though, why must you find 'it'? Why must you leave your home and interrupt some other people's peace and livelihood?",47,5,NaijaCINE,wwjtdOqTmrA,-0.125,2017-01-21 00:59:01,True,True
+2017-01-21T01:10:31,1:01 Lord Sidious,0,0,Kevin,wwjtdOqTmrA,0.0,2017-01-21 01:10:31,True,True
+2017-01-21T01:14:47,damn colonial,2,0,Wilson,wwjtdOqTmrA,0.0,2017-01-21 01:14:47,True,True
+2017-01-21T01:34:24,"reading the title i was like: ""o shit, just another lame Zombie movie"", i'm glad i watched it anyways, this looks pretty cool",0,0,carpos p,wwjtdOqTmrA,0.08,2017-01-21 01:34:24,True,True
+2017-01-21T01:48:21,My balls will not be laminated.  Oh..... wrong site. Sorry.,0,0,Options Specialist,wwjtdOqTmrA,-0.5,2017-01-21 01:48:21,True,True
+2017-01-21T01:49:51,Remind me of Heath leadger,0,0,Jouhan Tan,wwjtdOqTmrA,0.0,2017-01-21 01:49:51,True,True
+2017-01-21T01:59:55,If he isn't on a bike at any point in this movie i'll kill my third left toe,0,0,A_swish West,wwjtdOqTmrA,0.0,2017-01-21 01:59:55,True,True
+2017-01-21T02:09:00,is this based on the guy who went looking for a city but was never heard from and its assumed he was cannibalized?  forget his name but it seems similiar.,7,2,GodKingOsiris,wwjtdOqTmrA,0.0,2017-01-21 02:09:00,True,True
+2017-01-21T02:17:15,AT LONG LAST. AN EXPLANATION FOR WHY THERE 'S NO LIVE ACTION DRAGONBALL Z MOVIE,0,0,Bovine Designs,wwjtdOqTmrA,-0.0045454545454545435,2017-01-21 02:17:15,True,True
+2017-01-21T02:17:54,"wait the letter ""Z"" is just in the title to make it sound cool?... oh... that's disheartening...",0,0,Bovine Designs,wwjtdOqTmrA,0.375,2017-01-21 02:17:54,True,True
+2017-01-21T02:33:50,Where's the Harley Davidson,0,0,Junior Gregório,wwjtdOqTmrA,0.0,2017-01-21 02:33:50,True,True
+2017-01-21T02:37:19,Jackie boy!,0,0,Brandon Carrion,wwjtdOqTmrA,0.0,2017-01-21 02:37:19,True,True
+2017-01-21T02:37:37,y los zombis?,0,0,Tyron 77,wwjtdOqTmrA,0.0,2017-01-21 02:37:37,True,True
+2017-01-21T02:58:30,Why are you excited for wwz 2? That movie was garbage on top of a burning tire covered in dirty dippers. First off you realize that doors stopped most of the zombies! Not guns or swords. Doors! And the cure at the end was really dumb! A box full of needles. Stabbed in his arm and that's it. Dumb. If you like wwz you have terrible taste in movies.,2,0,Jack Smith,wwjtdOqTmrA,-0.020833333333333332,2017-01-21 02:58:30,True,True
+2017-01-21T03:11:19,Damn my man Charlie look so goddamn fine 👌🏼,0,0,Dinda,wwjtdOqTmrA,0.4166666666666667,2017-01-21 03:11:19,True,True
+2017-01-21T03:22:12,This looks gorgeous,0,0,Luta Young,wwjtdOqTmrA,0.7,2017-01-21 03:22:12,True,True
+2017-01-21T03:38:30,Jax Teller need to bring his ass back in charming,0,0,zikri,wwjtdOqTmrA,0.35,2017-01-21 03:38:30,True,True
+2017-01-21T03:51:38,Who else though this is a zombie movie?,1,0,StoneGuy,wwjtdOqTmrA,0.0,2017-01-21 03:51:38,True,True
+2017-01-21T04:11:59,Charlie hunnam needs to get casted as green arrow in the DCEU ASAP!!!!,0,0,ozair hussain,wwjtdOqTmrA,-0.48828125,2017-01-21 04:11:59,True,True
+2017-01-21T04:18:50,"Lol I pronounce stuff in American so I thought it was ""Zee"" instead of ""Zed""  Which led to me thinking it was a World war Z squeal",0,0,Edwin Dungdung,wwjtdOqTmrA,0.4,2017-01-21 04:18:50,True,True
+2017-01-21T04:30:11,"We must find it, fight it, rape it, kill it, enslave it and then own it. Sounds familiar? 🌚",185,14,Kitty S,wwjtdOqTmrA,0.4875,2017-01-21 04:30:11,True,True
+2017-01-21T04:46:36,"he needs an entire crew , Nathan Drake would have done it with the help of only Sully.",6,0,Tanmey Saraiya,wwjtdOqTmrA,0.0,2017-01-21 04:46:36,True,True
+2017-01-21T04:58:30,Comments related to World War Z are too many,0,0,Vishgraphy,wwjtdOqTmrA,0.25,2017-01-21 04:58:30,True,True
+2017-01-21T05:15:25,No se porque entre pensando en que iba llegar viendo la secuela de Guerra mundial Z!!! XD,0,0,hedyson rivas,wwjtdOqTmrA,0.0,2017-01-21 05:15:25,True,True
+2017-01-21T05:32:17,ROBERT PATTISON,1,0,graceholt35,wwjtdOqTmrA,0.0,2017-01-21 05:32:17,True,True
+2017-01-21T06:21:10,"We're all flying through an infinite space on a rock. Our history as this form of primate is a relative second to the age of the universe. Stop making movies about these trivial concepts. We have brains capable of understanding everything, not reflecting on ourselves. That should be the least of our concern. Religion ruined everything, but it was beneficiary.",0,0,Heleve Joergon,wwjtdOqTmrA,-0.024999999999999994,2017-01-21 06:21:10,True,True
+2017-01-21T06:31:04,I thought this was a prequel to Dragon Ball Z,0,0,Andiv Good,wwjtdOqTmrA,0.0,2017-01-21 06:31:04,True,True
+2017-01-21T06:40:07,BOOOOORRRIINNGGGG,1,0,Royalz 685,wwjtdOqTmrA,0.0,2017-01-21 06:40:07,True,True
+2017-01-21T06:50:17,Lol who else thought he was gonna say Zee instead of Zed?,2,0,Satvik Soni,wwjtdOqTmrA,0.8,2017-01-21 06:50:17,True,True
+2017-01-21T07:05:38,He looks like Heath ledger,0,1,King Kushy,wwjtdOqTmrA,0.0,2017-01-21 07:05:38,True,True
+2017-01-21T07:09:38,"I definitely gonna watch it,when it said based on a true story",0,0,Nanadhiaa 16,wwjtdOqTmrA,0.175,2017-01-21 07:09:38,True,True
+2017-01-21T07:30:07,"""I AM the Senate""...",0,0,Stephen Hall,wwjtdOqTmrA,0.0,2017-01-21 07:30:07,True,True
+2017-01-21T07:45:21,I was waiting for the zombies.   They never showed.   I don't think this movie has zombies.,1,1,Caffeinated Nation,wwjtdOqTmrA,0.0,2017-01-21 07:45:21,True,True
+2017-01-21T07:48:15,Strong resemblance to Heath Ledger!!!,0,0,omar ob,wwjtdOqTmrA,0.8463541666666665,2017-01-21 07:48:15,True,True
+2017-01-21T08:03:19,Love that Audiomachine did the music for this trailer.,1,2,Broedy Heinrichs,wwjtdOqTmrA,0.5,2017-01-21 08:03:19,True,True
+2017-01-21T08:08:45,Reminds Apocalypto and Arcanum of steamworks and magick obscura,0,0,Pasha Defragzor,wwjtdOqTmrA,0.0,2017-01-21 08:08:45,True,True
+2017-01-21T08:15:44,Maybe he'll find Goku and Vegeta?,0,0,KimoAmazin,wwjtdOqTmrA,0.0,2017-01-21 08:15:44,True,True
+2017-01-21T08:22:49,so he is looking for the lost city,0,0,Mohammed Othman,wwjtdOqTmrA,0.0,2017-01-21 08:22:49,True,True
+2017-01-21T08:25:44,CHARLIE HUNNAM!!!! (Sons of anarchy),0,0,Max Willemsen,wwjtdOqTmrA,0.0,2017-01-21 08:25:44,True,True
+2017-01-21T08:30:20,music seems to be made by Hans Zimmer right,0,0,Rakesh Roy,wwjtdOqTmrA,0.2857142857142857,2017-01-21 08:30:20,True,True
+2017-01-21T08:49:11,great✌👌,0,0,BEN GAMER,wwjtdOqTmrA,0.0,2017-01-21 08:49:11,True,True
+2017-01-21T09:05:35,The lost city of zzzzz... HUH?What?,9,0,Smoochy Poochy,wwjtdOqTmrA,0.0,2017-01-21 09:05:35,True,True
+2017-01-21T09:32:51,Palpy,0,0,Chief,wwjtdOqTmrA,0.0,2017-01-21 09:32:51,True,True
+2017-01-21T09:54:51,"I saw the ""Z"" and thought it means something with zombie... now i'm sad.",0,0,Skål,wwjtdOqTmrA,-0.5,2017-01-21 09:54:51,True,True
+2017-01-21T09:59:39,"Thou shall not maketh movie with ""Z"" unless it's a world war z prequel or sequel lol 😂",0,0,Princee Marr,wwjtdOqTmrA,0.8,2017-01-21 09:59:39,True,True
+2017-01-21T10:01:05,i can tell .. i can tell  this is gonna be great!!!,0,0,Faisal QHT,wwjtdOqTmrA,1.0,2017-01-21 10:01:05,True,True
+2017-01-21T10:38:48,Thought This Was Uncharted Movie,0,0,Lowkey Liesmith,wwjtdOqTmrA,0.0,2017-01-21 10:38:48,True,True
+2017-01-21T10:54:51,What's with all these trailers giving like 5 second trailers of the trailer right before the trailer starts? Smdh,1,0,TJ Hoover,wwjtdOqTmrA,0.14285714285714285,2017-01-21 10:54:51,True,True
+2017-01-21T10:56:18,"Dunno where this lost city is, but there better be zombies in it.",10,0,coozema,wwjtdOqTmrA,0.5,2017-01-21 10:56:18,True,True
+2017-01-21T10:57:38,"I expected zombies, cause of the title.",1,0,Confused Cat,wwjtdOqTmrA,-0.1,2017-01-21 10:57:38,True,True
+2017-01-21T10:59:19,Looks like Spider-man is lost in the jungle,2,0,simon629DK,wwjtdOqTmrA,0.0,2017-01-21 10:59:19,True,True
+2017-01-21T11:04:52,Z for Zooloo(not for zombies)...,0,0,Χρήστος Τσούρμας,wwjtdOqTmrA,0.0,2017-01-21 11:04:52,True,True
+2017-01-21T11:07:45,My god I haven't seen Ian McDirmic for a decade.,0,0,Victor Ferger,wwjtdOqTmrA,0.0,2017-01-21 11:07:45,True,True
+2017-01-21T11:08:04,I thought Zed was dead?,0,0,chattigre,wwjtdOqTmrA,-0.2,2017-01-21 11:08:04,True,True
+2017-01-21T11:09:37,Watch Top 5 Websites To Download Movies On My Channel.Now You Will Not Have Any Problem In Downloading Movies.,0,0,Tech Redux,wwjtdOqTmrA,0.5,2017-01-21 11:09:37,True,True
+2017-01-21T11:24:41,the lost city of z gokus return anyone else? just me oh crapbaskets,2,0,alex johansson,wwjtdOqTmrA,0.0,2017-01-21 11:24:41,True,True
+2017-01-21T11:28:52,"Damn it Barry, Spider-Man has a maustache now..",29,0,zangif tang,wwjtdOqTmrA,0.0,2017-01-21 11:28:52,True,True
+2017-01-21T11:29:12,Indiana Jones meets Tomb Raider,12,1,Ruben Kemp,wwjtdOqTmrA,0.0,2017-01-21 11:29:12,True,True
+2017-01-21T12:03:21,This is like a modern badass interpretation of El Dorado.,228,8,Brett Troeger,wwjtdOqTmrA,0.2,2017-01-21 12:03:21,True,True
+2017-01-21T12:09:13,looks great !,0,0,NicolasGeorges,wwjtdOqTmrA,1.0,2017-01-21 12:09:13,True,True
+2017-01-21T12:18:38,Everyone who thought that was Brad Pitt and a sequel to world war Z like this comment,1,0,Bardan Sitaula,wwjtdOqTmrA,0.0,2017-01-21 12:18:38,True,True
+2017-01-21T12:22:23,Wankers...,0,0,battu tulu,wwjtdOqTmrA,0.0,2017-01-21 12:22:23,True,True
+2017-01-21T12:33:17,Who else thought that Z is for zombies ...,0,0,styleavig,wwjtdOqTmrA,0.0,2017-01-21 12:33:17,True,True
+2017-01-21T12:48:22,So this is where Jax Teller went,0,0,Jarred Clements,wwjtdOqTmrA,0.0,2017-01-21 12:48:22,True,True
+2017-01-21T13:35:04,From all the comments all I see is how everyone talking about world war z lol aha,0,0,DOMO30056441,wwjtdOqTmrA,0.8,2017-01-21 13:35:04,True,True
+2017-01-21T13:41:20,I think we can all agree that this is a missleading title of the film,0,0,MrArbeter,wwjtdOqTmrA,0.0,2017-01-21 13:41:20,True,True
+2017-01-21T13:53:38,performance pleasant investment clean pillow pitcher medium base.,0,0,Benjamin Atkinson,wwjtdOqTmrA,0.10000000000000002,2017-01-21 13:53:38,True,True
+2017-01-21T14:03:15,where are the zombies? what the hell,0,0,Sir Monkey,wwjtdOqTmrA,0.0,2017-01-21 14:03:15,True,True
+2017-01-21T14:05:20,They need to do a Congo remake,0,0,T Bone,wwjtdOqTmrA,0.0,2017-01-21 14:05:20,True,True
+2017-01-21T14:06:44,Good ol' Emperor sounding creepy.,0,0,Tommaso Genovesi,wwjtdOqTmrA,0.09999999999999998,2017-01-21 14:06:44,True,True
+2017-01-21T14:09:20,"Come on Charlie Hunnam be a Green Arrow to the DCEU , and make a cameo for The Batman movie",8,1,YOLO,wwjtdOqTmrA,-0.2,2017-01-21 14:09:20,True,True
+2017-01-21T14:13:58,tom Holland need to be worried about spider-man,0,0,Chris Drake,wwjtdOqTmrA,0.0,2017-01-21 14:13:58,True,True
+2017-01-21T15:19:38,"Once Jax Teller, always Jax Teller.  Sorry.",1,1,Angie Barr,wwjtdOqTmrA,-0.5,2017-01-21 15:19:38,True,True
+2017-01-21T15:27:25,Where's Brad Pitt?,0,0,Judge Dredd,wwjtdOqTmrA,0.0,2017-01-21 15:27:25,True,True
+2017-01-21T15:31:44,Who is the heath ledger brad Pitt knock off?,71,14,Joshua Osborne,wwjtdOqTmrA,0.0,2017-01-21 15:31:44,True,True
+2017-01-21T15:55:15,really carzy tho i taugth its was word war z ...Download the baby boss full Move now >>>>>>>>>>>>>>>>>>>>> https://goo.gl/UObosI,0,0,Love Doctor,wwjtdOqTmrA,0.275,2017-01-21 15:55:15,True,True
+2017-01-21T16:04:42,shit i really thought it was a prequel for WWZ fuck😢,1,0,AA 15,wwjtdOqTmrA,0.0,2017-01-21 16:04:42,True,True
+2017-01-21T16:25:12,"It is ZED, not Z, you stupid heathens!!!!!!!!!!!!!!!!!!!!!",0,0,Vikas Kashyap,wwjtdOqTmrA,-1.0,2017-01-21 16:25:12,True,True
+2017-01-21T16:39:33,Is that Rhett from good mythical morning,0,0,Alex Paredes,wwjtdOqTmrA,0.7,2017-01-21 16:39:33,True,True
+2017-01-21T16:47:11,"Amazing trailer, if the movie is half as good as this trailer, ill be a happy man",0,0,DhDeadMan,wwjtdOqTmrA,0.2866666666666667,2017-01-21 16:47:11,True,True
+2017-01-21T16:54:32,How can you find it if it was never lost? lol. More like find it kill the civilisation and steal their resources!,13,0,The Alke Effect,wwjtdOqTmrA,0.7125,2017-01-21 16:54:32,True,True
+2017-01-21T16:57:38,who else thought it was a sequel to world war z????,1,0,Marvel Hunter,wwjtdOqTmrA,0.0,2017-01-21 16:57:38,True,True
+2017-01-21T17:07:08,"wow charlie hunnam, aka oliver queen, aka Green Arrow looks great here.",0,0,CM D,wwjtdOqTmrA,0.23333333333333336,2017-01-21 17:07:08,True,True
+2017-01-21T17:34:23,"Hard to imagine ""Jax Teller"" portraying a Brit. But then again, Charlie Hunnam did do well in two other movies I saw him in...",0,0,Walter S.,wwjtdOqTmrA,-0.20833333333333334,2017-01-21 17:34:23,True,True
+2017-01-21T17:39:35,He always will be known as Jackie Boy,0,0,UnSaveWorld,wwjtdOqTmrA,0.0,2017-01-21 17:39:35,True,True
+2017-01-21T18:16:06,I'm definitely not watching this!!!,0,0,Farhan Ibrahim,wwjtdOqTmrA,0.0,2017-01-21 18:16:06,True,True
+2017-01-21T18:37:14,Spoiler he rides a motor cycle into a semi at the end.,0,0,rayzer,wwjtdOqTmrA,0.0,2017-01-21 18:37:14,True,True
+2017-01-21T18:48:39,Hey random person scrolling down the comments.. Have a nice day... From a similar youtuber..,0,0,Faze coc,wwjtdOqTmrA,-0.013888888888888895,2017-01-21 18:48:39,True,True
+2017-01-21T19:03:03,jax teller after life,1,0,Loggan,wwjtdOqTmrA,0.0,2017-01-21 19:03:03,True,True
+2017-01-21T19:07:10,Jackie boyyy,0,0,Night King,wwjtdOqTmrA,0.0,2017-01-21 19:07:10,True,True
+2017-01-21T19:12:17,he plays jax in every movie he does,0,0,Julian Morgan,wwjtdOqTmrA,0.0,2017-01-21 19:12:17,True,True
+2017-01-21T20:00:48,Was really hoping this was a trailer to World War Z 2. World War Z has to be the best Zombie movie ever made!,1,0,Julian Del Taco,wwjtdOqTmrA,0.6,2017-01-21 20:00:48,True,True
+2017-01-21T20:35:06,This film has a 90% score on Rotten Tomatoes and a 79 on Metacritic so get hype!,17,0,Jakob Rogers,wwjtdOqTmrA,0.0,2017-01-21 20:35:06,True,True
+2017-01-21T22:23:35,Mayham to the aztecs.,0,0,Catalin 1911,wwjtdOqTmrA,0.0,2017-01-21 22:23:35,True,True
+2017-01-21T22:27:45,Rockefeller,0,0,Smooth Operator,wwjtdOqTmrA,0.0,2017-01-21 22:27:45,True,True
+2017-01-21T23:15:43,"I thought it was a zombie movie trrailer, heu",0,0,Riyan Aldila,wwjtdOqTmrA,0.0,2017-01-21 23:15:43,True,True
+2017-01-21T23:21:39,is this Base in the discovery of Machu Picchu??,0,0,Sebastie Cortes,wwjtdOqTmrA,-0.8,2017-01-21 23:21:39,True,True
+2017-01-21T23:38:17,I clicked cause i saw jax teller,1,0,Nancy 8,wwjtdOqTmrA,0.0,2017-01-21 23:38:17,True,True
+2017-01-21T23:41:00,Charlie Hunnam is becoming Brad Pitt.,0,0,My Name Is Boomer,wwjtdOqTmrA,0.45,2017-01-21 23:41:00,True,True
+2017-01-22T00:47:24,where was the zombies????,0,0,ff eater,wwjtdOqTmrA,0.0,2017-01-22 00:47:24,True,True
+2017-01-22T00:56:04,cringe,0,0,Rodimus Prime,wwjtdOqTmrA,0.0,2017-01-22 00:56:04,True,True
+2017-01-22T01:11:05,Jax teller is Rhodes?,0,0,Wangchuk,wwjtdOqTmrA,0.0,2017-01-22 01:11:05,True,True
+2017-01-22T03:04:30,"Let's mess with a civilisation that wants nothing to do with us, just for the sake of restoring your make believe honor. (I'm not hating on the movie, simply the fact that people were actually that genuinely stupid)",282,17,Y U MAD?,wwjtdOqTmrA,-0.15499999999999997,2017-01-22 03:04:30,True,True
+2017-01-22T04:08:40,"They find the Z-City and that's why we have world world Z. There you go, we know who to blame.",0,0,Adam S,wwjtdOqTmrA,0.0,2017-01-22 04:08:40,True,True
+2017-01-22T04:34:35,Doesn't this remind anyone of the book heart of darkness?? (Plus I thought it was a prequel to world war z at first too!!),2,0,Kelly Bartig,wwjtdOqTmrA,0.390625,2017-01-22 04:34:35,True,True
+2017-01-22T05:00:04,Zed? must be Canadian,0,0,Dont-be Evil,wwjtdOqTmrA,0.0,2017-01-22 05:00:04,True,True
+2017-01-22T05:50:43,There's not enough Spiderman jokes in the comments,0,0,Elijah 19,wwjtdOqTmrA,0.0,2017-01-22 05:50:43,True,True
+2017-01-22T07:45:35,ok a true story . I am watching it !🤘,0,0,Danish Sunasra,wwjtdOqTmrA,0.46875,2017-01-22 07:45:35,True,True
+2017-01-22T08:46:16,I thought it was a sequel to the Mysterious Island,0,0,stephanie marriot,wwjtdOqTmrA,0.0,2017-01-22 08:46:16,True,True
+2017-01-22T09:08:26,Looks like jacks went travelling!,0,0,Baggeh 81,wwjtdOqTmrA,0.0,2017-01-22 09:08:26,True,True
+2017-01-22T09:21:57,"*We must find a city. To which we believe was uninhabitable. We must claim this land and call it America. First we must find a land, so they can plow our fields and do manual labor. A place far from the reach of Western man. I believe this place to be called Africa. With these two together. We shall fight many wars and create a powerful Nation on countless corpses.*  *The Council goes crazy over my brand spanking Idea*  Pretty much what this movie is lol. USA started off as the Lost City of Z lol",0,2,Mind Yours,wwjtdOqTmrA,0.23636363636363636,2017-01-22 09:21:57,True,True
+2017-01-22T10:32:50,too much Sam Crow :D,0,0,Frank Snr,wwjtdOqTmrA,0.6,2017-01-22 10:32:50,True,True
+2017-01-22T11:37:42,Zimbabwe ?,0,0,Rezki Bawono,wwjtdOqTmrA,0.0,2017-01-22 11:37:42,True,True
+2017-01-22T12:56:12,When did he leave the motor club?,0,0,Shar Murt,wwjtdOqTmrA,0.0,2017-01-22 12:56:12,True,True
+2017-01-22T13:48:36,movie looks shit,3,0,Jacobus Stefanus van der Vyver,wwjtdOqTmrA,-0.2,2017-01-22 13:48:36,True,True
+2017-01-22T14:05:53,i thought there was a monster or what but it human attack,0,0,senyumieee,wwjtdOqTmrA,0.0,2017-01-22 14:05:53,True,True
+2017-01-22T14:35:17,Are you threatening me master Jedi?,0,0,Joshua Graciale,wwjtdOqTmrA,0.0,2017-01-22 14:35:17,True,True
+2017-01-22T15:28:10,This movie will bomb worse then nagasaki,0,0,Puffymar Lazoop,wwjtdOqTmrA,-0.4,2017-01-22 15:28:10,True,True
+2017-01-22T15:58:58,Lo hermoso que es Charlie Hunnam...,1,0,Agus Contreras,wwjtdOqTmrA,0.0,2017-01-22 15:58:58,True,True
+2017-01-22T15:59:30,Darth Sidious!,0,0,Ekin Çelikten,wwjtdOqTmrA,0.0,2017-01-22 15:59:30,True,True
+2017-01-22T16:08:47,You had me at Charlie Hunnam.,0,0,Christopher Wadsworth,wwjtdOqTmrA,0.0,2017-01-22 16:08:47,True,True
+2017-01-22T16:47:21,so Jax left SAMCRO to become a British colonialist?,0,0,Hussein Madax Biidar,wwjtdOqTmrA,0.0,2017-01-22 16:47:21,True,True
+2017-01-22T17:17:47,The comment section here is irrelevant. This looks impressive.,201,1,Girija Shankar Nayak,wwjtdOqTmrA,0.25,2017-01-22 17:17:47,True,True
+2017-01-22T17:29:01,thought it was maybe something to do with World Z xddd,0,0,Xve PvP,wwjtdOqTmrA,0.0,2017-01-22 17:29:01,True,True
+2017-01-22T18:53:12,thumbnail looked like Brad Pitt I thought it was a sequel of world war z,0,1,Epic Panther,wwjtdOqTmrA,0.0,2017-01-22 18:53:12,True,True
+2017-01-22T19:05:16,Sheev?,1,0,reb1138,wwjtdOqTmrA,0.0,2017-01-22 19:05:16,True,True
+2017-01-22T19:36:13,-Jax Teller_2008-2014_R.I.P.-,0,0,θητα Πυ,wwjtdOqTmrA,0.0,2017-01-22 19:36:13,True,True
+2017-01-22T19:53:22,where is brad pitt and zombies,0,0,Blah Bam,wwjtdOqTmrA,0.0,2017-01-22 19:53:22,True,True
+2017-01-22T19:53:52,FINALLY. They pronounce 'Z' correctly.,91,2,highdough,wwjtdOqTmrA,0.0,2017-01-22 19:53:52,True,True
+2017-01-22T19:59:57,Is that Robert Pattinson?,0,0,Sine Ceraa,wwjtdOqTmrA,0.0,2017-01-22 19:59:57,True,True
+2017-01-22T20:17:50,Ain't no World war Z ?,0,0,Ch Chand Tanha,wwjtdOqTmrA,0.0,2017-01-22 20:17:50,True,True
+2017-01-22T21:12:23,"""We must find it""  more like  We must wipe it",0,0,Hamid Farhat,wwjtdOqTmrA,0.5,2017-01-22 21:12:23,True,True
+2017-01-22T21:22:47,Plot twist: he was one lsd the whole time...,1,1,Sasha Smith,wwjtdOqTmrA,0.2,2017-01-22 21:22:47,True,True
+2017-01-22T21:43:39,"Congo, city of Zenge",1,0,DBZaniack247,wwjtdOqTmrA,0.0,2017-01-22 21:43:39,True,True
+2017-01-22T21:55:43,The lost city of Zombies The lost city of Zeus The lost city of Zanakard ( FFX) The lost city of ( Dragonball ) Z The lost city of ( Pokemon ) Z,0,0,Cloud VII,wwjtdOqTmrA,0.0,2017-01-22 21:55:43,True,True
+2017-01-22T23:19:00,"lol, the producers of this film must be proud of so many views but many (myself included) thought this had to do with world war z. they should change the title to something less awesome sounding",0,0,chaseinyourface87,wwjtdOqTmrA,0.5722222222222223,2017-01-22 23:19:00,True,True
+2017-01-23T00:31:09,S.O.A <3,0,0,Dipietro drawing,wwjtdOqTmrA,1.0,2017-01-23 00:31:09,True,True
+2017-01-23T02:27:55,wait where da zombies at xc,0,0,Ray Enriquez,wwjtdOqTmrA,0.0,2017-01-23 02:27:55,True,True
+2017-01-23T04:25:08,Tanis calls,0,0,Joshua Roberts,wwjtdOqTmrA,0.0,2017-01-23 04:25:08,True,True
+2017-01-23T05:19:13,Based on what exactly?,0,1,Dai 大,wwjtdOqTmrA,0.25,2017-01-23 05:19:13,True,True
+2017-01-23T05:52:41,it looks really good !!,0,0,**Mr Light**,wwjtdOqTmrA,1.0,2017-01-23 05:52:41,True,True
+2017-01-23T06:08:41,What is this? Another white man trying to nobelise other races tale?,3,0,Aashish Khakha,wwjtdOqTmrA,-0.0625,2017-01-23 06:08:41,True,True
+2017-01-23T06:50:56,"When you click on the video because the guy in the thumbnail looks like Charlie Hunnam, and it turns out to be Charlie Hunnam :p",0,0,Daniel Witt,wwjtdOqTmrA,0.75,2017-01-23 06:50:56,True,True
+2017-01-23T06:57:02,"James Gray is one of the best filmmakers on the planet. This is for those interested in Aguirre Wrath of God, Apocalypse Now and those that have read the book of the same title.",1,1,Bill Craske,wwjtdOqTmrA,0.4166666666666667,2017-01-23 06:57:02,True,True
+2017-01-23T08:42:13,can't wait to see this...not for anything but just so i can stared at the gorgeous charlie hunnan for 2 hrs lol,0,0,Maixao Lee,wwjtdOqTmrA,0.75,2017-01-23 08:42:13,True,True
+2017-01-23T10:19:23,"my eyes rolled to the back of my head when the palm reading lady said ""it is your destiny""",53,3,Jackytori,wwjtdOqTmrA,0.0,2017-01-23 10:19:23,True,True
+2017-01-23T10:39:12,Where the hell is Brad Pitt?,1,0,A,wwjtdOqTmrA,0.0,2017-01-23 10:39:12,True,True
+2017-01-23T10:58:24,what the hell is jax teller doing looking for a city?,2,0,Redbeans & Rich,wwjtdOqTmrA,0.0,2017-01-23 10:58:24,True,True
+2017-01-23T11:41:45,Charlie looks so much like brad pitt!!,24,1,Nymul Ahmed,wwjtdOqTmrA,0.3125,2017-01-23 11:41:45,True,True
+2017-01-23T12:52:04,Cool!!!,0,0,Irpiniamount Cinema,wwjtdOqTmrA,0.68359375,2017-01-23 12:52:04,True,True
+2017-01-23T14:20:18,i though this was a new zombie movie BOY WAS I WRONG! LMFAO,0,0,CharmCitysKing,wwjtdOqTmrA,-0.24431818181818182,2017-01-23 14:20:18,True,True
+2017-01-23T14:36:11,My family did an Escape The Room based on this story...,0,0,Kelli Buzzini,wwjtdOqTmrA,0.0,2017-01-23 14:36:11,True,True
+2017-01-23T16:52:02,WTF?! What the hell is this? I honestly don't get this trailer and the storyline.,0,0,crazyforzs,wwjtdOqTmrA,-0.012500000000000011,2017-01-23 16:52:02,True,True
+2017-01-23T17:15:25,Dammit i thought this was a second world war z,0,0,Alec Fortin,wwjtdOqTmrA,0.0,2017-01-23 17:15:25,True,True
+2017-01-23T20:47:59,what's this about?,0,0,STEVE P,wwjtdOqTmrA,0.0,2017-01-23 20:47:59,True,True
+2017-01-23T22:34:30,They'll be a anglo/american type soccer/football conflict over it being pronounced Zed or Zee.,0,0,hazbutler,wwjtdOqTmrA,0.0,2017-01-23 22:34:30,True,True
+2017-01-23T22:59:26,Jax,0,0,Faust Smith,wwjtdOqTmrA,0.0,2017-01-23 22:59:26,True,True
+2017-01-23T23:20:12,o boi... that greed of one people.,0,0,don fox,wwjtdOqTmrA,0.0,2017-01-23 23:20:12,True,True
+2017-01-23T23:27:11,JACKS IS THAT YOU,0,0,TRIGUND,wwjtdOqTmrA,0.0,2017-01-23 23:27:11,True,True
+2017-01-24T00:30:55,Emperor poopitine and Spooder-man,0,0,Elite dragon 786,wwjtdOqTmrA,0.0,2017-01-24 00:30:55,True,True
+2017-01-24T00:39:54,Why dose it look like they put a pair of sunglasses over the lens? It looks so dark. I mean come on. It's not working for DC. Why try it for this crap movie?,0,0,Pmr358,wwjtdOqTmrA,-0.4208333333333334,2017-01-24 00:39:54,True,True
+2017-01-24T01:09:47,I have never seen this trailer,0,0,Digimac Digital,wwjtdOqTmrA,0.0,2017-01-24 01:09:47,True,True
+2017-01-24T01:26:40,meh,0,0,Sektion9,wwjtdOqTmrA,0.0,2017-01-24 01:26:40,True,True
+2017-01-24T01:30:54,"An tamil movie(one of indian movie industry) called ""Aayirathil Oruvan (2010 film)"" have the  same story line which is used in this movie, one of the best movie in indian cinima, if u guys watch that movie you will get surprise, the movie with good CG and music, they handled surprise very very well, if u watch this movie you will understand history about tamil people, also available  with subtitle,                                                                   https://www.google.co.in/search?q=aayirathil+oruvan&oq=aayirathil+oruvan&aqs=chrome..69i57.504j0j7&sourceid=chrome&ie=UTF-8#q=aayirathil+oruvan+full+movie+with+english+subtitles",0,0,KARTHICKNIVETHANRAJA S,wwjtdOqTmrA,0.472,2017-01-24 01:30:54,True,True
+2017-01-24T01:47:26,Jax Teller never died. He went to look for The Lost City of Z.,4,0,Fawaz Ahmed,wwjtdOqTmrA,0.0,2017-01-24 01:47:26,True,True
+2017-01-24T02:59:25,"am I the only one who hates the little ""preview"" at the beginning? Ruins the preview for me",82,1,Kyle Willis,wwjtdOqTmrA,-0.1125,2017-01-24 02:59:25,True,True
+2017-01-24T03:07:39,"Probably not going to watch this, I can't lie. Seems like a drag of a film.",0,0,That's Rich,wwjtdOqTmrA,-0.1,2017-01-24 03:07:39,True,True
+2017-01-24T04:24:06,Where's the bikes?,0,0,Matias Araneda,wwjtdOqTmrA,0.0,2017-01-24 04:24:06,True,True
+2017-01-24T04:39:08,"I love the idea of adventure into the unknown, shame there's nowhere else you can just set off into in the world anymore.",0,0,Derp McDerpson,wwjtdOqTmrA,0.2,2017-01-24 04:39:08,True,True
+2017-01-24T04:48:27,zORRO?,0,0,snight01,wwjtdOqTmrA,0.0,2017-01-24 04:48:27,True,True
+2017-01-24T04:49:51,"The acting feels solid, the cinematography, brilliant. This could turn out to be pretty good...BUT I'll never know until I watch it. Some of the more awful movies have great trailers.",0,0,Levar Mitchell,wwjtdOqTmrA,0.20714285714285713,2017-01-24 04:49:51,True,True
+2017-01-24T04:53:56,I'm not sure why people were  so easily mislead into thinking this was a sequel to World War Z...as if no other movie or genre can use the letter Z in it... It just has to be related to that zombie movie.,0,0,Levar Mitchell,wwjtdOqTmrA,0.06145833333333334,2017-01-24 04:53:56,True,True
+2017-01-24T05:22:40,why did I come here thinking this was a Disney movie😂😂,0,0,Benzedrine,wwjtdOqTmrA,0.0,2017-01-24 05:22:40,True,True
+2017-01-24T07:44:38,Material when teaspoon map volume match north.,0,0,Sophia Barker,wwjtdOqTmrA,0.0,2017-01-24 07:44:38,True,True
+2017-01-24T08:17:40,Percy Fawcett that's what this movies about. he spend his whole life obsessed to find the lost city! you should read his biography. I feel sad for his wife and his sons. I won't spoil it for you.,2,0,Colin Smart,wwjtdOqTmrA,-0.30833333333333335,2017-01-24 08:17:40,True,True
+2017-01-24T14:10:06,It's another DESTINY crap!!!,0,0,suman dawadi,wwjtdOqTmrA,-1.0,2017-01-24 14:10:06,True,True
+2017-01-24T14:38:34,Am i the only one in here thought this was a Zombie Movie?,0,0,Dedy Prajakirana,wwjtdOqTmrA,0.0,2017-01-24 14:38:34,True,True
+2017-01-24T15:50:37,Who would want a lost city with zombies running around it? He's going to need more ammo.,0,0,benjovi55,wwjtdOqTmrA,0.5,2017-01-24 15:50:37,True,True
+2017-01-24T16:14:18,his accent came a long way since green street hooligans,0,0,hamsh 1504,wwjtdOqTmrA,-0.125,2017-01-24 16:14:18,True,True
+2017-01-24T16:21:17,Loved the book.  Can't wait to see this movie.,0,0,123benny4,wwjtdOqTmrA,0.7,2017-01-24 16:21:17,True,True
+2017-01-24T16:35:12,Didn't see any zombies,0,0,Virender Singh,wwjtdOqTmrA,0.0,2017-01-24 16:35:12,True,True
+2017-01-24T19:08:17,Does anyone know the name of the music playing in this trailer?,0,0,Michael Victory,wwjtdOqTmrA,0.0,2017-01-24 19:08:17,True,True
+2017-01-24T19:47:34,this was my summer 2016 book.  looking forward to it.,0,0,syrac carys,wwjtdOqTmrA,0.0,2017-01-24 19:47:34,True,True
+2017-01-24T19:58:57,Ah shit Palpatine,0,0,Lukia Bl,wwjtdOqTmrA,-0.2,2017-01-24 19:58:57,True,True
+2017-01-24T21:22:21,Percy Fawcett,0,0,Kevin Kilgore,wwjtdOqTmrA,0.0,2017-01-24 21:22:21,True,True
+2017-01-24T21:55:27,jax teller,0,0,Birmzyx,wwjtdOqTmrA,0.0,2017-01-24 21:55:27,True,True
+2017-01-24T22:35:48,May not be a sequel to World War Z but it's a really good movie (saw it at the Film Society of Lincoln Center). I definitely recommend it!,0,0,Isabella Adina,wwjtdOqTmrA,0.19999999999999998,2017-01-24 22:35:48,True,True
+2017-01-24T23:42:28,One of the few trailers that didn't spoil the entire film.,0,0,Sam,wwjtdOqTmrA,-0.1,2017-01-24 23:42:28,True,True
+2017-01-25T04:48:47,This is like the human version of Up,0,0,Mayra Be pech,wwjtdOqTmrA,0.0,2017-01-25 04:48:47,True,True
+2017-01-25T07:20:33,is he supposed to be Christopher Columbus,0,0,jeleah swan,wwjtdOqTmrA,0.0,2017-01-25 07:20:33,True,True
+2017-01-25T16:22:42,the thumbnail looks like brad pitt... and heres me thinking its www 2 ffs.... want that film so bad...,0,1,billa381,wwjtdOqTmrA,-0.6999999999999998,2017-01-25 16:22:42,True,True
+2017-01-25T16:53:32,"Everyone's saying they clicked on it because of World War Z. I was like, ""Damn. A Heath Ledger movie???""",0,0,J Wavy,wwjtdOqTmrA,0.0,2017-01-25 16:53:32,True,True
+2017-01-25T20:31:43,"I too thought this would be some World War Z knock-off. This actually looks like a legit movie, though.",0,0,Logan Cox,wwjtdOqTmrA,0.0,2017-01-25 20:31:43,True,True
+2017-01-25T22:13:04,I love this trailer.,0,0,cill521,wwjtdOqTmrA,0.5,2017-01-25 22:13:04,True,True
+2017-01-26T01:29:10,is this about machu picchu?,0,0,cebass879,wwjtdOqTmrA,0.0,2017-01-26 01:29:10,True,True
+2017-01-26T02:11:35,"""You know what you seek, it is your destiny"".....aw man not this destiny and prophecy shit again",0,0,Nauman Khan,wwjtdOqTmrA,-0.2,2017-01-26 02:11:35,True,True
+2017-01-26T02:23:08,They took my son!,0,0,Gh0ast,wwjtdOqTmrA,0.0,2017-01-26 02:23:08,True,True
+2017-01-26T04:07:33,"Good to see the Sith are expanding. Otherwise, an excellent book.",0,0,Paul Hunt,wwjtdOqTmrA,0.85,2017-01-26 04:07:33,True,True
+2017-01-26T16:16:50,DARTH SIDIOUS,0,0,Russell Jones,wwjtdOqTmrA,0.0,2017-01-26 16:16:50,True,True
+2017-01-26T18:28:40,I think a zombie,0,0,그릴스베어,wwjtdOqTmrA,0.0,2017-01-26 18:28:40,True,True
+2017-01-26T20:07:02,So y'all gonna kill a bunch of Natives so you can find a stupid lost city. lol,27,3,Lala,wwjtdOqTmrA,5.551115123125783e-17,2017-01-26 20:07:02,True,True
+2017-01-26T21:19:55,reminds me of indiana jones,0,0,K,wwjtdOqTmrA,0.0,2017-01-26 21:19:55,True,True
+2017-01-26T23:37:19,PLOT TWIST : NOBODY SURVIVES,0,0,Alijamaru,wwjtdOqTmrA,0.0,2017-01-26 23:37:19,True,True
+2017-01-27T11:08:55,I come from Peru. If you haven't looked at the trailer on the map it says Bolivia and Peru.,0,0,MR REASON,wwjtdOqTmrA,0.0,2017-01-27 11:08:55,True,True
+2017-01-27T15:18:36,Mr. Homolka found it first!,0,0,Dusan Stosic,wwjtdOqTmrA,0.3125,2017-01-27 15:18:36,True,True
+2017-01-27T15:22:56,Where are the zombies ja?,0,0,Marc L,wwjtdOqTmrA,0.0,2017-01-27 15:22:56,True,True
+2017-01-27T20:34:31,About time the Americans learned it's pronounced zed.,17,1,Awol Peace,wwjtdOqTmrA,0.0,2017-01-27 20:34:31,True,True
+2017-01-28T04:04:32,nothing to do with zombie??,0,0,JY Kim,wwjtdOqTmrA,0.0,2017-01-28 04:04:32,True,True
+2017-01-28T09:10:26,Spoilers: Colonel Fawcett never finds Z and vanishes off the face of the earth.,0,0,Dracorex13,wwjtdOqTmrA,0.0,2017-01-28 09:10:26,True,True
+2017-01-28T15:49:04,lol I thought this was a trailer about zombies in the congo haha,0,0,Jayworks Productions,wwjtdOqTmrA,0.5,2017-01-28 15:49:04,True,True
+2017-01-28T17:59:55,Thought it was Brad Pitt...,0,0,Luiza Gabriela Alvez,wwjtdOqTmrA,0.0,2017-01-28 17:59:55,True,True
+2017-01-29T00:35:43,ITs NOT ME,0,0,ZLAKO ZILLA,wwjtdOqTmrA,0.0,2017-01-29 00:35:43,True,True
+2017-01-30T02:15:32,Robert Pattinson can't even make the main starring list names anymore.,0,0,Robert M,wwjtdOqTmrA,0.16666666666666666,2017-01-30 02:15:32,True,True
+2017-01-30T04:46:34,its not a lost city if people are already there smh.,0,0,Jedidah Naava-Baht Israel,wwjtdOqTmrA,0.0,2017-01-30 04:46:34,True,True
+2017-01-30T06:01:48,Is this supposed to be a prequel to the Congo movie??,0,0,MsFireflygurl,wwjtdOqTmrA,0.0,2017-01-30 06:01:48,True,True
+2017-01-30T20:53:26,Charlie Hunnam liked this kid since green street,0,0,Jack Daniel,wwjtdOqTmrA,0.19999999999999998,2017-01-30 20:53:26,True,True
+2017-01-31T14:08:46,if there is a secret civilization somewhere in earth - lets leave it alone and dont ruin it:),0,0,me and me,wwjtdOqTmrA,0.04999999999999999,2017-01-31 14:08:46,True,True
+2017-02-01T05:31:44,ok am i the only one that clicked this because i thought it was Brad Pitt and this was World War Z 2 smh damnit,0,0,optimuscrimesnyc,wwjtdOqTmrA,0.25,2017-02-01 05:31:44,True,True
+2017-02-01T06:17:45,why no zombies?,0,0,LXXXV,wwjtdOqTmrA,0.0,2017-02-01 06:17:45,True,True
+2017-02-01T14:12:19,"so, where are the zombie?",0,0,Michele M. Ferrario,wwjtdOqTmrA,0.0,2017-02-01 14:12:19,True,True
+2017-02-01T14:44:20,"Is it only me that got reminded of MontBlanc Noland's flashback from Sky Island arc from One Piece, while watching this trailer?",0,0,IndianTelephone,wwjtdOqTmrA,0.0,2017-02-01 14:44:20,True,True
+2017-02-01T20:58:07,So it's about white people going to others lands in hope to steal their resources.,0,0,ToFester,wwjtdOqTmrA,0.0,2017-02-01 20:58:07,True,True
+2017-02-02T02:25:50,The book was great.....Col. Percy Fawcett.,0,0,Robert Kennedy,wwjtdOqTmrA,0.0,2017-02-02 02:25:50,True,True
+2017-02-02T11:51:21,zzzzzzzz,0,0,Mick Begley,wwjtdOqTmrA,0.0,2017-02-02 11:51:21,True,True
+2017-02-03T07:56:44,Like si irás a verla porque sale Robert Pattinson,0,0,Paola Paola,wwjtdOqTmrA,0.0,2017-02-03 07:56:44,True,True
+2017-02-03T17:23:07,1:12 Rhett from Good Mythical Morning makes a cameo! X),0,0,Team Epic Force,wwjtdOqTmrA,0.875,2017-02-03 17:23:07,True,True
+2017-02-04T00:09:00,*z for zombies !?*,0,0,Johnny,wwjtdOqTmrA,0.0,2017-02-04 00:09:00,True,True
+2017-02-04T00:10:33,this is why you dont shoot digital..looks cheaaap,0,0,Shan Tv,wwjtdOqTmrA,0.0,2017-02-04 00:10:33,True,True
+2017-02-04T18:20:48,I've got chills at the end,0,0,M. Armand,wwjtdOqTmrA,0.0,2017-02-04 18:20:48,True,True
+2017-02-04T18:55:43,"Actually a prequel to sons of anarch, JT's quest for fine columbian",0,0,Alistair McLean,wwjtdOqTmrA,0.20833333333333334,2017-02-04 18:55:43,True,True
+2017-02-04T19:59:34,This is the story of Percy Fawcett?,5,0,Zoltán Varga,wwjtdOqTmrA,0.0,2017-02-04 19:59:34,True,True
+2017-02-05T01:36:17,"Charlie, my boy. I will watch anything with you.",0,0,Griffith Johnson,wwjtdOqTmrA,0.0,2017-02-05 01:36:17,True,True
+2017-02-05T07:19:49,Is that paul walker brother's? Same face like him..,0,0,Muhammadnur Izman,wwjtdOqTmrA,0.0,2017-02-05 07:19:49,True,True
+2017-02-05T09:10:00,Zed or Zay?,0,0,stillbornalien,wwjtdOqTmrA,0.0,2017-02-05 09:10:00,True,True
+2017-02-05T17:53:52,"I thought Charlie Hunnam was gonna be a superstar after Sons of Anarchy. And he wasn't.   Then I thought Charlie Hunnam was gonna be a superstar after Pacific Rim. And he wasn't.  With this and the new Guy Ritchie movie, hopefully it's finally happening.",1,0,MightyManotaur22,wwjtdOqTmrA,0.06818181818181818,2017-02-05 17:53:52,True,True
+2017-02-05T19:54:17,i though it was lost city of zombies,0,0,Memes Ki Mata,wwjtdOqTmrA,0.0,2017-02-05 19:54:17,True,True
+2017-02-06T03:11:25,Man...I got moded. I thought this was World War Z Part 1.5 LOL,0,0,Reuben,wwjtdOqTmrA,0.8,2017-02-06 03:11:25,True,True
+2017-02-06T06:42:32,That speech at the end though. Looks great!,0,0,TjTravels,wwjtdOqTmrA,1.0,2017-02-06 06:42:32,True,True
+2017-02-06T07:42:11,So what was that? Trailer of a trailer?,0,0,Zubayer Ahmed,wwjtdOqTmrA,0.0,2017-02-06 07:42:11,True,True
+2017-02-06T12:15:46,The found town of A is better.,0,0,Dan,wwjtdOqTmrA,0.5,2017-02-06 12:15:46,True,True
+2017-02-06T13:34:11,Uncharted,0,0,SoBanked-,wwjtdOqTmrA,0.0,2017-02-06 13:34:11,True,True
+2017-02-06T14:06:54,i'm only here for tom holland with a mustache,0,0,ella irene,wwjtdOqTmrA,0.0,2017-02-06 14:06:54,True,True
+2017-02-07T20:45:05,Admiral Byrd's story of polar hollow Earth adventure would have been a good movie..,0,0,Magnibus,wwjtdOqTmrA,0.1722222222222222,2017-02-07 20:45:05,True,True
+2017-02-07T23:52:18,I can't be the only one who thought the main guy was Heath ledger.....,0,0,billyk1996,wwjtdOqTmrA,0.08333333333333333,2017-02-07 23:52:18,True,True
+2017-02-08T00:25:27,damn was waiting for the Zombies,0,0,Lookfishlamp,wwjtdOqTmrA,0.0,2017-02-08 00:25:27,True,True
+2017-02-09T20:22:07,this looks good!,0,0,FlashakaViolet,wwjtdOqTmrA,0.875,2017-02-09 20:22:07,True,True
+2017-02-09T22:05:17,"Here's me thinking this is a zombie movie until I see ""Based on a true story""",0,0,Gabriel Curle,wwjtdOqTmrA,0.35,2017-02-09 22:05:17,True,True
+2017-02-13T21:32:23,No zombie metropolis ?,0,0,chris kingston,wwjtdOqTmrA,0.0,2017-02-13 21:32:23,True,True
+2017-02-15T10:19:13,And it a zombie in sight...phew.,0,0,Andrew Young,wwjtdOqTmrA,0.0,2017-02-15 10:19:13,True,True
+2017-02-15T13:32:37,This is actually a real history that happens in the beginning of the 20th century in the brazilian amazon jungle. This man never came back from this adventure. Some says that Fawcett's history inspired Indiana Jones,1,0,Taciano Canassa,wwjtdOqTmrA,0.06666666666666667,2017-02-15 13:32:37,True,True
+2017-02-18T06:58:18,Looks really good !,0,0,krazy bzs,wwjtdOqTmrA,0.875,2017-02-18 06:58:18,True,True
+2017-02-18T10:43:47,Where's the Zombies?,0,0,Midnight_Sun,wwjtdOqTmrA,0.0,2017-02-18 10:43:47,True,True
+2017-02-18T15:36:49,Aww I missed rob,0,0,Shirin Akther,wwjtdOqTmrA,0.3,2017-02-18 15:36:49,True,True
+2017-02-18T23:24:46,lol i thought this was world war z 2 XD,0,0,Sr1,wwjtdOqTmrA,0.8,2017-02-18 23:24:46,True,True
+2017-02-19T02:47:42,Don't know how to name your movie? Just throw a few Zs in there...,0,0,Iceberg 233,wwjtdOqTmrA,-0.2,2017-02-19 02:47:42,True,True
+2017-02-19T02:48:47,I wonder if City of X and Y will be the sequels...,0,0,Iceberg 233,wwjtdOqTmrA,0.0,2017-02-19 02:48:47,True,True
+2017-02-19T05:12:09,cannibals?,0,0,Matthew King,wwjtdOqTmrA,0.0,2017-02-19 05:12:09,True,True
+2017-02-19T05:59:39,Clicked cuz I thought Heath Ledger was resurrected,0,0,HauntedHeathen,wwjtdOqTmrA,0.0,2017-02-19 05:59:39,True,True
+2017-02-19T06:27:22,Jax Teller exploring cities after leaving SAMCRO,0,0,Dawood Chaudary,wwjtdOqTmrA,0.0,2017-02-19 06:27:22,True,True
+2017-02-19T18:59:06,And were is Robert Pattinson?😿,0,0,Lu _ingames,wwjtdOqTmrA,0.0,2017-02-19 18:59:06,True,True
+2017-02-19T20:54:14,"Since most of the comments seem more to do with WWZ than this actual movie, wouldn't it be great if there was a zombie film set in the 19th century (not on the camp/awful level of 'Pride and Zombies though) -say like ' The Revenant' meet' WWZ'? There must be a screenwriter out there who could come up with something good.",0,0,GlareBox,wwjtdOqTmrA,0.5,2017-02-19 20:54:14,True,True
+2017-02-21T23:27:42,I thought Z meant zombies,0,0,EXACTLY,wwjtdOqTmrA,0.0,2017-02-21 23:27:42,True,True
+2017-02-22T13:37:52,Has anyone seen the movie and can tell me if its good or not? Would appreciate it without spoilers ;),0,0,RemusGT,wwjtdOqTmrA,0.475,2017-02-22 13:37:52,True,True
+2017-02-22T20:26:00,rip off of the prestige.  but what aren't most ideas other than rip offs.   that's what makes TRUE NEW IDEAS..........pure miracles,0,2,Chris Whited,wwjtdOqTmrA,0.21534090909090908,2017-02-22 20:26:00,True,True
+2017-03-01T18:57:36,1:11 is that you Rhett,0,0,thawsin,wwjtdOqTmrA,0.0,2017-03-01 18:57:36,True,True
+2017-03-02T05:23:44,Prophetic old hermit-lady and cautioning hillbilly. Seems like a pretty standard adventure.,0,0,Hollow Wall,wwjtdOqTmrA,0.11666666666666665,2017-03-02 05:23:44,True,True
+2017-03-02T08:00:53,Oh I thought this was a zombie movie........ still looks good though,0,0,XxFighter4000xX F4ME,wwjtdOqTmrA,0.7,2017-03-02 08:00:53,True,True
+2017-03-04T14:36:59,1:34 No Visas?,1,0,Joks iZantos,wwjtdOqTmrA,0.0,2017-03-04 14:36:59,True,True
+2017-03-04T17:19:06,This is going to be absolutely sterling.,0,0,EtchedInStone,wwjtdOqTmrA,0.2,2017-03-04 17:19:06,True,True
+2017-03-05T09:56:00,"I was high on weed in the cinema when I saw this trailer and I honestly thought this movie was going to be loosely based about Christopher Columbus ""discovering"" America and wiping out the Native Americans... ",0,0,Martyn Duncan,wwjtdOqTmrA,0.22769230769230772,2017-03-05 09:56:00,True,True
+2017-03-09T20:15:26,Nope I clicked on this because I haven't seen Robert Pattinson since twilight,0,0,Alexis Gavey,wwjtdOqTmrA,0.0,2017-03-09 20:15:26,True,True
+2017-03-10T16:43:55,1:20 I see my 5th grade teacher dancing,0,0,penny and fishy,wwjtdOqTmrA,0.0,2017-03-10 16:43:55,True,True
+2017-03-11T12:15:45,damn i thought this was a zombie movie,0,0,Dark Beats Nation,wwjtdOqTmrA,0.0,2017-03-11 12:15:45,True,True
+2017-03-11T21:12:04,sesame cake,0,0,Jonny Tee,wwjtdOqTmrA,0.0,2017-03-11 21:12:04,True,True
+2017-03-17T14:47:56,"Tum sub beghairat ho aur paghal bhi, khoto 😂😂",0,0,Mustafa Javed,wwjtdOqTmrA,0.0,2017-03-17 14:47:56,True,True
+2017-03-19T10:45:13,omg same brad pitt haha,0,0,Crazy Wheels,wwjtdOqTmrA,0.1,2017-03-19 10:45:13,True,True
+2017-03-19T13:19:59,Moustache,0,0,Termiduck,wwjtdOqTmrA,0.0,2017-03-19 13:19:59,True,True
+2017-03-23T18:16:53,Spider man have a moustache,0,0,Sultimatum,wwjtdOqTmrA,0.0,2017-03-23 18:16:53,True,True
+2017-03-23T23:19:11,fingers crossed my G Jax wins an Oscar,0,0,Simon Taps,wwjtdOqTmrA,0.3,2017-03-23 23:19:11,True,True
+2017-03-24T14:59:04,cool,0,0,Jonathan Clark,wwjtdOqTmrA,0.35,2017-03-24 14:59:04,True,True
+2017-03-25T16:14:18,free fore,0,0,AW-Podarki Hurtownia Upominków,wwjtdOqTmrA,0.4,2017-03-25 16:14:18,True,True
+2017-03-26T15:26:03,robert pattinson perfect,0,0,Song joong Ki,wwjtdOqTmrA,1.0,2017-03-26 15:26:03,True,True
+2017-03-27T18:23:23,*Spoiler        Mayans die in the end,3,1,SagnolTheGangster,wwjtdOqTmrA,0.0,2017-03-27 18:23:23,True,True
+2017-03-27T18:49:16,Bo-ring!,0,0,moncorp1 Inc,wwjtdOqTmrA,0.0,2017-03-27 18:49:16,True,True
+2017-03-29T23:21:44,1:01 UNLIMITED POWAAAAAAH Motherfuckers!!!!,0,0,Alucard BloodyVampire,wwjtdOqTmrA,0.0,2017-03-29 23:21:44,True,True
+2017-03-30T13:20:02,We need more of these sort of movies back on the screens!,0,0,Atanas Tanevski,wwjtdOqTmrA,0.25,2017-03-30 13:20:02,True,True
+2017-03-31T11:33:18,Looks great .he's passionate for some more great then he's control is intriguing to which in this movie.,2,0,Oni Chi,wwjtdOqTmrA,0.4699999999999999,2017-03-31 11:33:18,True,True
+2017-04-02T19:37:41,When you put Z in a title it directly looks good,0,0,Lascar Animations,wwjtdOqTmrA,0.39999999999999997,2017-04-02 19:37:41,True,True
+2017-04-02T20:15:44,"the white man always tryna find and ""discover"" something.",0,0,shabzana shabzana,wwjtdOqTmrA,0.0,2017-04-02 20:15:44,True,True
+2017-04-03T01:40:12,it was a good book.,0,0,joey juleff,wwjtdOqTmrA,0.7,2017-04-03 01:40:12,True,True
+2017-04-03T10:42:34,Seek and destroy!,0,0,Kate Weglowska,wwjtdOqTmrA,-0.25,2017-04-03 10:42:34,True,True
+2017-04-04T00:53:37,"Lol, more like ""Lost City of Sheev"" amirite?",0,0,cfh94,wwjtdOqTmrA,0.65,2017-04-04 00:53:37,True,True
+2017-04-04T23:00:27,what does Z stand for ?,0,0,Ola Nordmann,wwjtdOqTmrA,0.0,2017-04-04 23:00:27,True,True
+2017-04-05T20:48:05,As Mexican-American is it okay to tell the white people complaining about white people to stfu?,0,0,Alex Vazquez,wwjtdOqTmrA,0.16666666666666666,2017-04-05 20:48:05,True,True
+2017-04-08T18:41:41,I thought that he is Brad Pitt and that it has something to do with the World War Z seguel. But he is not Brad Pitt and it has nothing to do with the World War Z seguel,1,0,Kongkos,wwjtdOqTmrA,0.0,2017-04-08 18:41:41,False,True
+2017-04-08T22:49:38,The guy that plays Spider-Man homecoming is there,2,3,David1k,wwjtdOqTmrA,0.0,2017-04-08 22:49:38,False,True
+2017-04-09T10:04:12,good movie,8,0,loren bohay,wwjtdOqTmrA,0.7,2017-04-09 10:04:12,False,True
+2017-04-10T08:24:38,I'm just here for tom .,3,0,oli,wwjtdOqTmrA,0.0,2017-04-10 08:24:38,False,True
+2017-04-10T15:01:48,"Non-White and savage go hand in hand. The only exception to the rule being Japan, of course.",2,1,Glory To Europa,wwjtdOqTmrA,0.0,2017-04-10 15:01:48,False,True
+2017-04-11T02:10:55,Truly an amazing movie!! just watched a Prescreening at a film festival... so many emotions!!💕,1,1,Lion Rose Music,wwjtdOqTmrA,0.71875,2017-04-11 02:10:55,False,True
+2017-04-11T03:44:42,Christoph waltz would be good in this,0,0,Carson Jones,wwjtdOqTmrA,0.7,2017-04-11 03:44:42,False,True
+2017-04-11T03:52:26,"Oh god there's gonna be a controversy to call it ""City of Zee"" or ""City of Zed""",0,0,Jake Dather,wwjtdOqTmrA,0.0,2017-04-11 03:52:26,False,True
+2017-04-11T05:44:06,"83 on Metacritic. Funny, I expected this to suck. Guess I should see it.",0,0,Sandman99,wwjtdOqTmrA,0.075,2017-04-11 05:44:06,False,True
+2017-04-11T15:05:49,WOW BLESS THE GOOD WHITE,0,0,Cosmo Theory,wwjtdOqTmrA,0.26666666666666666,2017-04-11 15:05:49,False,True
+2017-04-12T05:44:44,"Shame, it's not movie about zombies.",1,3,Outer Fun,wwjtdOqTmrA,0.0,2017-04-12 05:44:44,False,True
+2017-04-12T23:42:44,the first quote was from The prestige 😎,1,3,the legendary kong,wwjtdOqTmrA,0.25,2017-04-12 23:42:44,False,True
+2017-04-13T15:54:32,Its not the continue of World War Z :*(,2,2,Martin Gomez,wwjtdOqTmrA,0.0,2017-04-13 15:54:32,False,True
+2017-04-13T16:35:30,he was really bad in pacific rim. seems better here,2,0,Shivangi Singh,wwjtdOqTmrA,-0.09999999999999992,2017-04-13 16:35:30,False,True
+2017-04-14T09:57:16,I thought this was a sequel to World War Z. hahah,0,0,Chester B.,wwjtdOqTmrA,0.0,2017-04-14 09:57:16,False,True
+2017-04-14T11:53:15,I came here for Robert Pattinson,0,0,trix of the genie in a bottle,wwjtdOqTmrA,0.0,2017-04-14 11:53:15,False,True
+2017-04-14T16:32:51,Half the people here thought this was the next world war Z movie 😂😂,0,0,Shahek,wwjtdOqTmrA,-0.08333333333333333,2017-04-14 16:32:51,False,True
+2017-04-14T21:17:29,charlie hunnam is the new brad pitt,0,0,Viviana lópez rodriguez,wwjtdOqTmrA,0.13636363636363635,2017-04-14 21:17:29,False,True
+2017-04-15T12:13:59,The Lost City of ZZZ  Why must we find it - who cares?,2,0,Nick Donnelly,wwjtdOqTmrA,0.0,2017-04-15 12:13:59,False,True
+2017-04-16T07:35:17,😎,0,0,juan pablo Figueredo,wwjtdOqTmrA,0.0,2017-04-16 07:35:17,False,True
+2017-04-19T03:01:37,Did anyone notice Robert Pattinson tho???!,0,0,erika robinson,wwjtdOqTmrA,0.0,2017-04-19 03:01:37,False,True
+2017-04-19T03:41:33,where are the zombies?,0,0,jpab,wwjtdOqTmrA,0.0,2017-04-19 03:41:33,False,True
+2017-04-20T23:06:17,"Just started reading this book, movie should be fantastic",0,0,snoochshepard,wwjtdOqTmrA,0.4,2017-04-20 23:06:17,False,True
+2017-04-21T16:06:24,"Oh, The Lost City of ZED, why didn't they say so?",0,0,Mr. ShyRyHud,wwjtdOqTmrA,0.0,2017-04-21 16:06:24,False,True
+2017-04-22T01:45:45,I didn't know The Senate was in this!,0,0,Ben Tomera,wwjtdOqTmrA,0.0,2017-04-22 01:45:45,False,True
+2017-04-22T07:23:42,so this basically romanticizing the idea of colonizers?,0,0,Leena,wwjtdOqTmrA,0.0,2017-04-22 07:23:42,False,True
+2017-04-22T17:49:12,Thought this was a zombie movie...my bad😧,0,0,Streggea Studios,wwjtdOqTmrA,0.0,2017-04-22 17:49:12,False,True
+2017-04-22T21:33:35,I thought this is zombie movie with a title but ....,0,0,Jimmy L,wwjtdOqTmrA,0.0,2017-04-22 21:33:35,False,True
+2017-04-23T06:56:00,Meh.......,0,0,John Rice,wwjtdOqTmrA,0.0,2017-04-23 06:56:00,False,True
+2017-04-23T22:54:39,Palpatine!,0,0,CH,wwjtdOqTmrA,0.0,2017-04-23 22:54:39,False,True
+2017-04-24T07:02:27,But where are the zombies though?,0,0,lizislove13,wwjtdOqTmrA,0.0,2017-04-24 07:02:27,False,True
+2017-04-24T10:29:10,damn!! Z is not for Zombie :P,0,0,jeffy Nielsen,wwjtdOqTmrA,0.75,2017-04-24 10:29:10,False,True
+2017-04-25T13:16:47,So Tarzan will not be in this?,0,0,Officer Zarius,wwjtdOqTmrA,0.0,2017-04-25 13:16:47,False,True
+2017-04-26T14:10:02,Staring: Ian Mcdiarmid,0,0,Kistler Clipz,wwjtdOqTmrA,0.0,2017-04-26 14:10:02,False,True
+2017-04-28T22:00:04,"I watched it it's sucks, really don't watch it",0,1,Wzlrd Ili,wwjtdOqTmrA,-0.04999999999999999,2017-04-28 22:00:04,False,True
+2017-04-29T03:19:31,"Sienna Miller was especially strong in this!  I posted a review comparing this film with the bestselling book that it's based off of. A solid effort, but I think the movie tried to cram in a bit too much content.",0,0,Brittany Reads,wwjtdOqTmrA,0.39999999999999997,2017-04-29 03:19:31,False,True
+2017-04-29T11:16:35,"i love how people blame an entire race of white people.  Yet they fail to realise that if africa was more civilised and advanced than europe,  well then africa would colonise europe.  Its not about your skin color its about advancement",0,0,Kārlis Bērziņs,wwjtdOqTmrA,0.15,2017-04-29 11:16:35,False,True
+2017-04-29T17:59:32,What is it rated?,0,0,Fret Nation,wwjtdOqTmrA,0.0,2017-04-29 17:59:32,False,True
+2017-04-30T02:49:45,Not enough zombies,0,0,AnarchyStockers,wwjtdOqTmrA,0.0,2017-04-30 02:49:45,False,True
+2017-04-30T03:30:11,It's not very good actually if you watched,0,0,Wzlrd Ili,wwjtdOqTmrA,-0.13461538461538458,2017-04-30 03:30:11,False,True
+2017-04-30T04:13:49,is this better than Indiana Jones? i do not see too much action.,0,0,Roger Borroel,wwjtdOqTmrA,0.3,2017-04-30 04:13:49,False,True
+2017-04-30T09:48:23,"I saw the movie then saw the trailer. this movie wanted a good editor. Needed a good editor. This movie turned from the man's Journey into his son's Journey at the end. And when his father let him down in his own son's eyes, the movie lost itself and died .  This trailer editor deserves an Oscar, because he told a beautiful story.",0,0,Ted Wilson,wwjtdOqTmrA,0.5388888888888889,2017-04-30 09:48:23,False,True
+2017-04-30T12:43:01,"For those wondering this movie was amazing, one of the best in a while",2,0,Elijah Lawrence,wwjtdOqTmrA,0.8,2017-04-30 12:43:01,False,True
+2017-04-30T18:49:18,"So, this is prequel to World War Z?",0,0,gagnashdiak x,wwjtdOqTmrA,0.0,2017-04-30 18:49:18,False,True
+2017-05-01T01:08:47,"All the people watching from the US are like, ""what the hell is zed?!""",0,0,me2525,wwjtdOqTmrA,0.0,2017-05-01 01:08:47,False,True
+2017-05-01T01:21:05,What is this Uncharted?,0,0,iLeaf,wwjtdOqTmrA,0.0,2017-05-01 01:21:05,False,True
+2017-05-01T21:15:59,"This movie fucking sucks, you never even get to see the ""hidden Civilization"" do NOT see this movie it is 2 an a Half hours of disappointment",0,1,Abe Feuerstein,wwjtdOqTmrA,-0.30833333333333335,2017-05-01 21:15:59,False,True
+2017-05-01T22:05:47,"<slams table> ""POTS AND PANS, POTS AND PANS, POTS AND PANS!!"" -Some fat British bloke. Point is, go see this movie - IT'S AWESOME!",0,0,Joaquin G.,wwjtdOqTmrA,0.5,2017-05-01 22:05:47,False,True
+2017-05-02T03:34:09,The Lost Pacific Rim actor     Wtf is he doing there,0,0,Silver Chief Gaming,wwjtdOqTmrA,-0.5,2017-05-02 03:34:09,False,True
+2017-05-03T04:19:59,Waardeloze film..! met open einde.. een echte afrader... pffff 2 uur van m'n leven weg gegooid..!,0,0,Marc Over,wwjtdOqTmrA,0.0,2017-05-03 04:19:59,False,True
+2017-05-05T16:25:48,thought it was gonna be about Zombies lol,0,0,JosephTheCastle,wwjtdOqTmrA,0.8,2017-05-05 16:25:48,False,True
+2017-05-06T05:57:52,I hope that Z doesn't stand for zombies. I don't want to see any more fuckin zombie movies.,0,1,Steven Serial,wwjtdOqTmrA,0.5,2017-05-06 05:57:52,False,True
+2017-05-07T17:23:33,when did Cedric grow a beard?,4,0,mack,wwjtdOqTmrA,0.0,2017-05-07 17:23:33,False,True
+2017-05-08T06:43:24,"Let me guess, the natives don't welcome him.",0,0,edgar gonzalez,wwjtdOqTmrA,0.8,2017-05-08 06:43:24,False,True
+2017-05-08T13:02:08,"OMG this movie was Horrible, I was so disappointed. #hrs of my life I will never get back. it had such potential",0,0,Joshua Miller,wwjtdOqTmrA,-0.35,2017-05-08 13:02:08,False,True
+2017-05-09T22:29:49,is this worth watching?,0,0,Dariuxee,wwjtdOqTmrA,0.3,2017-05-09 22:29:49,False,True
+2017-05-14T18:06:56,so we're not going to talk about how much he looks like Brad Pitt in the tumbnail?,0,0,bicooo1,wwjtdOqTmrA,0.2,2017-05-14 18:06:56,False,True
+2017-05-19T18:51:31,"I just watched this movie in the theatre. Based on the trailer I was expecting more. I never heard about Faucett before. I found the movie long and not dynamic. But its a biography after all and not a fiction movie. Also based on a book, and I found the books adaptations not very interesting in general. Anyway, if I would read about Faucett in the internet prior watching the movie i think i would enjoy it more.",0,0,SuperNashum,wwjtdOqTmrA,0.15096153846153848,2017-05-19 18:51:31,False,True
+2017-05-20T14:34:48,Read the book based on which this movie is made. The best seller.,0,0,GD,wwjtdOqTmrA,1.0,2017-05-20 14:34:48,False,True
+2017-05-22T19:54:01,"I still need to finish this book, it's an Interesting first hand account of an explorer in the Amazon. I never even saw this movie being advertised. I wish I had.",0,0,DangerDan,wwjtdOqTmrA,0.375,2017-05-22 19:54:01,False,True
+2017-05-22T19:54:11,"I still need to finish this book, it's an Interesting first hand account of an explorer in the Amazon. I never even saw this movie being advertised. I wish I had.",0,0,DangerDan,wwjtdOqTmrA,0.375,2017-05-22 19:54:11,False,True
+2017-05-23T04:20:39,English movies also fine,0,0,Giri Girisha Hp,wwjtdOqTmrA,0.20833333333333334,2017-05-23 04:20:39,False,True
+2017-05-23T05:29:55,I was suuuper lifted when I saw this I thought I was on the expedition with the rest of the travelers. The constraints of time and space did not exist for those couple hours. Plus Charlie Hunnam is so very yum. 10/10 would recommend,1,0,Kamille Scipio,wwjtdOqTmrA,0.2,2017-05-23 05:29:55,False,True
+2017-05-26T19:33:46,The trailer gave me multiple goosebumps.,0,0,Sanchit Varma,wwjtdOqTmrA,0.0,2017-05-26 19:33:46,False,True
+2017-05-27T21:23:04,"Is this gonna be another flop for Hunnam? Like King Arthur? Coz it on theaters at the time when there's also Wonder Woman and Pirates of Caribbean.. Hope not, poor Hunnam..",0,0,idris musa,wwjtdOqTmrA,0.2,2017-05-27 21:23:04,False,True
+2017-05-27T23:52:43,the earth is ours,0,0,just have fun,wwjtdOqTmrA,0.0,2017-05-27 23:52:43,False,True
+2017-05-29T17:17:00,I thought it had to do with zombies,0,0,Fresh Waffles,wwjtdOqTmrA,0.0,2017-05-29 17:17:00,False,True
+2017-05-31T05:00:34,Do they find it? So ambitious.,0,0,Alfian Hopper,wwjtdOqTmrA,0.25,2017-05-31 05:00:34,False,True
+2017-06-02T23:36:55,watch it..,1,0,Altar Seni,wwjtdOqTmrA,0.0,2017-06-02 23:36:55,False,True
+2017-06-03T17:47:25,syang skalii..akhirnya gk tau mreka dimna..msh hdup atau mninggal..suka film nya ..cuma yaahh..kalo akhirnya,0,0,incezz Tnjaya wijaya,wwjtdOqTmrA,0.0,2017-06-03 17:47:25,False,True
+2017-06-08T21:12:02,"the king, the vampire,  and the latex hero  damn this movie them all !!!",0,0,Amien Fadhillah,wwjtdOqTmrA,0.0,2017-06-08 21:12:02,False,True
+2017-06-10T04:52:11,I just watched the movie.. And I loved it!!,0,0,Beluga Whale,wwjtdOqTmrA,1.0,2017-06-10 04:52:11,False,True
+2017-06-10T05:40:51,This movie > king arthur,2,0,Ali Zoraiz Hassan,wwjtdOqTmrA,0.0,2017-06-10 05:40:51,False,True
+2017-06-11T23:57:36,"Where is this movie? I haven't seen it being played in any theatres where i live, i cant find if anywhere online so can someone tell me where to find this movie",0,0,Alex Del Socorro,wwjtdOqTmrA,0.13636363636363635,2017-06-11 23:57:36,False,True
+2017-06-12T15:04:24,"It's one thing to find something and another concept to conquest, colonise and destroy it.",1,3,kp,wwjtdOqTmrA,-0.2,2017-06-12 15:04:24,False,True
+2017-06-13T03:52:54,OMG!!!! i love Charlie Hunnan 😍,1,0,Tamara Torres,wwjtdOqTmrA,0.5,2017-06-13 03:52:54,False,True
+2017-06-14T14:46:37,Nice trailer.,0,0,Michael Cobbs,wwjtdOqTmrA,0.6,2017-06-14 14:46:37,False,True
+2017-06-22T01:00:29,Wasn't Percy Fawcett in his late 50s on his last expedition to South America... not exactly the most accurate portrayal.,3,0,mnemos,wwjtdOqTmrA,0.09500000000000001,2017-06-22 01:00:29,False,True
+2017-06-24T06:08:15,Audiomachine :D,0,0,mohammed jama,wwjtdOqTmrA,1.0,2017-06-24 06:08:15,False,True
+2017-06-26T15:08:36,"A king, a vampire and spiderman all teaming up in one movie, pretty interesting",562,10,Dino Jnr,wwjtdOqTmrA,0.375,2017-06-26 15:08:36,False,True
+2017-06-27T12:54:14,"*From the producers of 12 years a slave...pfft.* Still waiting on the 1400 years a slave,  i'd settle for any accurate depiction of a smaller window in time known as 'The Ottoman Empire',  through movies documentarys schools & universitys we're taught of the bloodshed during the Christian Crusades, yet what is never spoke of are the far larger islamic crusades the beleaguered Christians/non muslim nations were responding to,  I know ...truth .facts & reality are all unfashionable in these masochistic times of raising all cultures while simultaneously shitting on anything remotely complimentary to western history/culture.  A history left untaught are hard lessons not learnt.",0,0,Boony,wwjtdOqTmrA,0.05648148148148148,2017-06-27 12:54:14,False,True
+2017-06-27T16:38:39,is there black guy die first,1,0,abrahem mr,wwjtdOqTmrA,0.04166666666666667,2017-06-27 16:38:39,False,True
+2017-06-27T19:54:39,"Charlie Hunnam is in every movie in 2017, good for him.",0,0,ramuh2003,wwjtdOqTmrA,0.7,2017-06-27 19:54:39,False,True
+2017-06-27T20:41:05,At first I thought it was a remake of Congo lol,0,0,Elijah Allen,wwjtdOqTmrA,0.525,2017-06-27 20:41:05,False,True
+2017-06-27T21:31:40,"damn it !!! he will always be jax teller, it always reminds us",0,0,Ibrahim Khan,wwjtdOqTmrA,0.0,2017-06-27 21:31:40,False,True
+2017-06-27T22:34:57,i went from watching king author to this good movies :),0,0,eddiezamora1986,wwjtdOqTmrA,0.6,2017-06-27 22:34:57,False,True
+2017-06-28T00:36:05,Jax is looking awfully good for a man who was last seen disappearing under the wheels of a Mack truck. He definitely dodged a bullet with Fifty Shades of Mundane.,0,0,Arthur Watts,wwjtdOqTmrA,0.13333333333333333,2017-06-28 00:36:05,False,True
+2017-06-28T03:13:30,charles matthew reminds me of heath ledger 😭,0,0,abiri abdullah,wwjtdOqTmrA,0.0,2017-06-28 03:13:30,False,True
+2017-06-28T04:57:13,yass,0,0,THANE MITHRA,wwjtdOqTmrA,0.0,2017-06-28 04:57:13,False,True
+2017-06-28T05:58:59,1:19 worst CGI ever in a movie wtf!?,0,0,RCorbzz,wwjtdOqTmrA,-0.8125,2017-06-28 05:58:59,False,True
+2017-06-28T10:51:52,Shit film.,0,0,Haydn Po,wwjtdOqTmrA,-0.2,2017-06-28 10:51:52,False,True
+2017-06-28T10:58:42,tell me everything you know about wakanda?,0,0,charles poliquit,wwjtdOqTmrA,0.0,2017-06-28 10:58:42,False,True
+2017-06-28T13:01:11,looks not so impressive,0,0,Arun Sudheesan,wwjtdOqTmrA,1.0,2017-06-28 13:01:11,False,True
+2017-06-28T13:34:09,thought it'd be a zombie movie,0,0,k g,wwjtdOqTmrA,0.0,2017-06-28 13:34:09,False,True
+2017-06-28T18:12:27,sam crow,0,0,Mrjacques91,wwjtdOqTmrA,0.0,2017-06-28 18:12:27,False,True
+2017-06-28T20:40:21,mmm. mmy my destiny?,0,0,ayesha nasiruddin,wwjtdOqTmrA,0.0,2017-06-28 20:40:21,False,True
+2017-06-28T23:23:10,yay the great white man finds people that didn't wanna be bothered,1,1,Memphis. Methods,wwjtdOqTmrA,0.4,2017-06-28 23:23:10,False,True
+2017-06-29T03:43:44,"When you thought of ""Z"" for Zombie . Then it said ""based on true story""",1,0,ashfi risyad,wwjtdOqTmrA,0.35,2017-06-29 03:43:44,False,True
+2017-06-29T10:42:52,Before the Zombies.,0,0,ROSCOEV,wwjtdOqTmrA,0.0,2017-06-29 10:42:52,False,True
+2017-06-29T12:44:58,It is your destiny to steal the heritage from all lost civilizations and bring its valued possessions to London where they can be displayed for profit.,129,13,Hemera,wwjtdOqTmrA,0.0,2017-06-29 12:44:58,False,True
+2017-06-29T15:06:54,Typical whites .. Invading others lands and making chaos,16,2,PhyKo Phy,wwjtdOqTmrA,-0.16666666666666666,2017-06-29 15:06:54,False,True
+2017-06-29T15:21:14,"I like a lot of other people tought this was going to be a movie about zombies, it was a nice surprise, this looks way more interesting.",0,0,mayitorocks,wwjtdOqTmrA,0.36875,2017-06-29 15:21:14,False,True
+2017-06-29T17:14:07,BORING,0,0,Tom Schmitt,wwjtdOqTmrA,-1.0,2017-06-29 17:14:07,False,True
+2017-06-30T00:52:45,I don't think the natives wanted to be found.,0,0,We Are The Remnant,wwjtdOqTmrA,0.0,2017-06-30 00:52:45,False,True
+2017-06-30T03:58:17,Why is this movie flopped?,0,0,Jamil Khan,wwjtdOqTmrA,0.0,2017-06-30 03:58:17,False,True
+2017-06-30T04:15:14,Filmed in Colombia <3,0,1,billieshears04,wwjtdOqTmrA,1.0,2017-06-30 04:15:14,False,True
+2017-06-30T04:17:39,lamest show ever dont waste ur time or money watching the crap shoot,0,0,Johnny9,wwjtdOqTmrA,-0.5,2017-06-30 04:17:39,False,True
+2017-06-30T06:19:35,i thought this was about zombies im disappointed now v.v,0,0,Abyss,wwjtdOqTmrA,-0.75,2017-06-30 06:19:35,False,True
+2017-06-30T16:26:25,Zed it's on showbox,0,0,Natural 1,wwjtdOqTmrA,0.0,2017-06-30 16:26:25,False,True
+2017-06-30T17:56:09,I love zombie movies,0,0,Han Jeon,wwjtdOqTmrA,0.5,2017-06-30 17:56:09,False,True
+2017-06-30T22:37:47,This movie is really good! He went on a 20+ years mission! That's fuckin insane!,1,0,Mdot,wwjtdOqTmrA,0.0,2017-06-30 22:37:47,False,True
+2017-07-01T00:39:50,Tom Hardyyy,0,0,Hmm Hmm,wwjtdOqTmrA,0.0,2017-07-01 00:39:50,False,True
+2017-07-01T02:39:08,This trailer is a LIE!,0,0,Murtumans,wwjtdOqTmrA,0.0,2017-07-01 02:39:08,False,True
+2017-07-01T05:01:56,"King Arthur, forget about the city, your people need you!",0,0,MarcMich-El,wwjtdOqTmrA,0.0,2017-07-01 05:01:56,False,True
+2017-07-01T06:39:36,I honestly thought that was Brat Pitt,0,0,Butterfly,wwjtdOqTmrA,0.6,2017-07-01 06:39:36,False,True
+2017-07-01T18:46:48,"I got click bait by the letter Z...Anyways the city is call ""El Dorado"" the myth of the hiding city in South America.",0,1,Thunder Kat,wwjtdOqTmrA,0.0,2017-07-01 18:46:48,False,True
+2017-07-01T21:06:54,"El Dorado is in Colombia, not Brazil. #fakenews",0,0,heroinhero69,wwjtdOqTmrA,0.0,2017-07-01 21:06:54,False,True
+2017-07-01T22:01:44,Great movie lol. Ending was kinda unexpected,0,0,Average Alien,wwjtdOqTmrA,0.5666666666666668,2017-07-01 22:01:44,False,True
+2017-07-02T05:22:52,Ummm this is something that I'm seeing before. A country that trying to conquer a civilization that didn't want to be conquer,0,0,grilindi Rivera,wwjtdOqTmrA,0.0,2017-07-02 05:22:52,False,True
+2017-07-02T05:24:26,A civilization that was living under their own rules but no the white man has to show up and crash everything,0,0,grilindi Rivera,wwjtdOqTmrA,0.3,2017-07-02 05:24:26,False,True
+2017-07-02T11:29:47,"Piss off with zombies, honestly 😂",0,0,Liz Harley,wwjtdOqTmrA,0.6,2017-07-02 11:29:47,False,True
+2017-07-02T12:54:57,Looks alright!,0,0,Cookie Dude,wwjtdOqTmrA,0.0,2017-07-02 12:54:57,False,True
+2017-07-02T14:36:30,"all most fell asleep watching the preview. ..lol...boring movie...boring subject...another superhero white guy movie...""PASS""!",0,0,Steve Cobblestone,wwjtdOqTmrA,0.25,2017-07-02 14:36:30,False,True
+2017-07-02T15:09:08,+ SOuthAfrican structures!,0,0,sky1976ful,wwjtdOqTmrA,0.0,2017-07-02 15:09:08,False,True
+2017-07-02T18:53:51,Some crappy nosense with no meanning . An idiot finds a stupid lost city and after all his troubles he feels proud . Yea so much meaning so much mystery for sure gonna see it (not)...,1,0,John C,wwjtdOqTmrA,0.016666666666666653,2017-07-02 18:53:51,False,True
+2017-07-02T19:46:45,"Fake movie, no Z's",0,0,Oliver S,wwjtdOqTmrA,-0.5,2017-07-02 19:46:45,False,True
+2017-07-03T03:37:31,"Another ""IT IS YOUR DESTINY"" movie...ugghh",0,0,Ajay Kumar,wwjtdOqTmrA,0.0,2017-07-03 03:37:31,False,True
+2017-07-03T04:23:58,"Charlie isn't a movie star, he's a tv actor and won't bang the biz. At least the story sounds interesting",0,0,bullwinkle moose,wwjtdOqTmrA,0.1,2017-07-03 04:23:58,False,True
+2017-07-03T05:30:05,if it was full of zombies this might have made money at the box office,0,0,Brandon Reed,wwjtdOqTmrA,0.35,2017-07-03 05:30:05,False,True
+2017-07-03T07:01:55,"lets find an innocent civilization n raid them for their natural resources n other selfish reasons..n lets call it giving ""freedom"".....",0,0,Ambar Khan,wwjtdOqTmrA,-0.0062500000000000056,2017-07-03 07:01:55,False,True
+2017-07-03T16:11:01,"Goosebumps. My first time seeing the trailer and finding out that there's a movie. This story always fascinated me. I put it up there with the legend of ""Agartha"" and advanced ancient technology, advanced societies around still today on/in Earth, and possibly on the moon too.",0,0,Frank 9000,wwjtdOqTmrA,0.2625,2017-07-03 16:11:01,False,True
+2017-07-03T16:14:12,Hopefully the movie is good; gonna watch it here at work. And he better find Z at the end of the movie!,0,0,Frank 9000,wwjtdOqTmrA,0.6625,2017-07-03 16:14:12,False,True
+2017-07-03T17:05:46,Now all the inhabitants of that civilization is dead ...thanks white man,0,0,reginald56000,wwjtdOqTmrA,-0.1,2017-07-03 17:05:46,False,True
+2017-07-03T22:14:51,"I will take ""An alBum Cover"" for $800 Alex""",0,0,art23ncsu,wwjtdOqTmrA,0.0,2017-07-03 22:14:51,False,True
+2017-07-03T22:32:34,I ❤️ You Jax!!!,0,0,3 Musketeers,wwjtdOqTmrA,0.0,2017-07-03 22:32:34,False,True
+2017-07-04T01:23:58,i wasnt expecting to see Spider-Man in this movie... i really wanted to see the lost city tough,1,0,FelixBlue4,wwjtdOqTmrA,-0.09444444444444444,2017-07-04 01:23:58,False,True
+2017-07-04T16:02:49,Short story told they died trying to find it.............................................................................,0,0,NickTheFruitboy,wwjtdOqTmrA,0.0,2017-07-04 16:02:49,False,True
+2017-07-04T19:26:10,The way it was going I was actually expecting dinosaurs,0,0,J Double C,wwjtdOqTmrA,0.0,2017-07-04 19:26:10,False,True
+2017-07-05T03:20:54,was a portuguese that finded the world xD vasco da gama,0,0,Renato Rocha,wwjtdOqTmrA,0.0,2017-07-05 03:20:54,False,True
+2017-07-05T22:31:32,"this movie is truly a masterpiece ... great story, great plots                (SPOILER ALERT)                 too bad it got a sad end",0,1,uhate ulame,wwjtdOqTmrA,0.10000000000000006,2017-07-05 22:31:32,False,True
+2017-07-06T14:13:19,"Good day everyone, I just watched this movie and am amazingly stunning a film, the incredibly beautiful classic is worth watching and, this year's award winning Oscar ...👍👍",1,0,Taj Badalamanabad,wwjtdOqTmrA,0.5027777777777777,2017-07-06 14:13:19,False,True
+2017-07-06T18:46:35,Worth it?,0,0,Moonlightgirlful,wwjtdOqTmrA,0.3,2017-07-06 18:46:35,False,True
+2017-07-06T21:19:28,"Still wondering what does "" City of Z "" means ?",0,0,Ahmed Alnemer,wwjtdOqTmrA,0.0,2017-07-06 21:19:28,False,True
+2017-07-06T22:10:40,*Tom Holland with a moustache*  0:03 IT'S SOOO WEEEEEIRRRD!! WTF,0,0,ROSS,wwjtdOqTmrA,-0.5,2017-07-06 22:10:40,False,True
+2017-07-07T09:49:46,"should've waited for satellite, but nooooo it'll be fun they said",0,0,Can you help me find Ben Simmons’ Jumper,wwjtdOqTmrA,0.3,2017-07-07 09:49:46,False,True
+2017-07-07T13:47:02,old style adventure movie.  Looks good!,0,0,aaron Eduardo,wwjtdOqTmrA,0.4875,2017-07-07 13:47:02,False,True
+2017-07-07T20:30:37,These hunters can shoot fast moving rodents but cant hit people close range slowly going down the river....,0,0,Leopold,wwjtdOqTmrA,-0.08518518518518521,2017-07-07 20:30:37,False,True
+2017-07-08T00:13:13,so is it the lost city of z or the lost city of zed,0,2,Baker's Bread,wwjtdOqTmrA,0.0,2017-07-08 00:13:13,False,True
+2017-07-08T00:15:55,the Z stands for Zanaris,0,0,nubserver,wwjtdOqTmrA,0.0,2017-07-08 00:15:55,False,True
+2017-07-08T15:38:54,ROBERT PATTINSON! OMG he looks so old :(,0,0,Arinda A Raras,wwjtdOqTmrA,-0.325,2017-07-08 15:38:54,False,True
+2017-07-09T01:33:49,looks so boring,0,0,Mahmoud Ashour,wwjtdOqTmrA,-1.0,2017-07-09 01:33:49,False,True
+2017-07-09T04:15:50,"Aw yes! let's find it and destroy it. Because that's what THESE PEOPLE do. Or claim it as their own. Either way, they'll be destroying something, it's in their nature.",0,0,GOD,wwjtdOqTmrA,0.06666666666666665,2017-07-09 04:15:50,False,True
+2017-07-09T04:48:32,Underrated biopic movie >_<,1,0,Try Hard,wwjtdOqTmrA,0.0,2017-07-09 04:48:32,False,True
+2017-07-10T12:32:24,I Loved the atmosphere.,0,0,Abdellah Najime,wwjtdOqTmrA,0.7,2017-07-10 12:32:24,False,True
+2017-07-10T13:10:19,what is pedro parker doing here,0,0,hendra tedihardjo,wwjtdOqTmrA,0.0,2017-07-10 13:10:19,False,True
+2017-07-10T15:26:33,when trailer is better than the movie,0,0,Fahmi Fazlur,wwjtdOqTmrA,0.5,2017-07-10 15:26:33,False,True
+2017-07-10T18:07:54,well I watched it.... I was expected some Zombies or gosths or some misterious scary things...but nothing.... I am sorry but when it's finished I felt I just wasted 2 hours 20 minutes of my life.....very bad ending......,0,0,Anna H,wwjtdOqTmrA,-0.4,2017-07-10 18:07:54,False,True
+2017-07-11T08:08:06,Knock knock  Whose there?     They don't actually find the city but it remains a mystery Spoiler alert,0,0,Joseph Stalin,wwjtdOqTmrA,0.0,2017-07-11 08:08:06,False,True
+2017-07-11T11:19:46,it looks awesome,0,0,louise Taylor-brown,wwjtdOqTmrA,1.0,2017-07-11 11:19:46,False,True
+2017-07-11T14:24:02,tom holland 😊,8,0,Khawla Brh,wwjtdOqTmrA,0.0,2017-07-11 14:24:02,False,True
+2017-07-12T17:01:40,dumb movie...should be renamed the lost city of zzzzzz...,0,0,alexandru vrabie,wwjtdOqTmrA,-0.375,2017-07-12 17:01:40,False,True
+2017-07-12T17:53:04,now i know not to watch it.. thanks lol,0,0,Mike,wwjtdOqTmrA,0.5,2017-07-12 17:53:04,False,True
+2017-07-13T00:41:41,"Spectacular cinematography, hammy acting. That's my impression based on the trailer anyway. I'll give it the benefit and watch the whole movie eventually.",0,0,Solitaria Nihilista,wwjtdOqTmrA,0.26666666666666666,2017-07-13 00:41:41,False,False
+2017-07-13T02:21:45,sucks when the kill him at the end.,0,0,F G,wwjtdOqTmrA,-0.3,2017-07-13 02:21:45,False,False
+2017-07-13T18:01:16,If you just stop thinking about Charlie hunnam in SOA! And watch this movie and really understand the true story and history behind the movie it's great!!!!!! I love it. I had to watch it twice to get it hehehe.,0,0,Yikesss23,wwjtdOqTmrA,0.32999999999999996,2017-07-13 18:01:16,False,False
+2017-07-13T20:50:02,"The movie wasn't perfect , but which one is ? Some lousy script writing,not all that good acting and still leaves you with unanswered questions, but the cinematography was amazing. I found it artistic and kind of spiritually inspiring , for that reason most of the people would find this movie boring but I really enjoyed it.",0,1,MrSlowburn,wwjtdOqTmrA,0.2611111111111111,2017-07-13 20:50:02,False,False
+2017-07-14T10:41:47,0:57 martin henery? 1 shot kill,1,0,IIAlbertII,wwjtdOqTmrA,0.0,2017-07-14 10:41:47,False,False
+2017-07-14T11:41:49,"Why is it called ""Lost City of Z"" If there is no zombies in it?!",0,1,Nebeski lav,wwjtdOqTmrA,0.0,2017-07-14 11:41:49,False,False
+2017-07-14T11:44:05,I thought it was second part of World war Z.,0,0,Nebeski lav,wwjtdOqTmrA,0.0,2017-07-14 11:44:05,False,False
+2017-07-14T12:27:26,deserves to watch?,0,0,Joe Swanson,wwjtdOqTmrA,0.0,2017-07-14 12:27:26,False,False
+2017-07-14T19:58:26,mi papa ayudo con los carros para transportar a los de la pelicula,0,0,lfcedenoc,wwjtdOqTmrA,0.0,2017-07-14 19:58:26,False,False
+2017-07-15T02:14:37,tom holland yeee its a spider man!!!!,3,0,TapForMagic,wwjtdOqTmrA,0.0,2017-07-15 02:14:37,False,False
+2017-07-15T09:22:19,Haven't  watched this yet...but I wonder is it another one of those.. white men going  and destroying a native land again....,0,0,Stag C,wwjtdOqTmrA,-0.1,2017-07-15 09:22:19,False,False
+2017-07-15T14:39:25,Kinda anti climax this movie...,0,0,maximanimo,wwjtdOqTmrA,0.0,2017-07-15 14:39:25,False,False
+2017-07-15T17:06:26,"Plot Twist: They were looking for the wrong city, and ironically it was named A.",0,1,Muzamal Sheikh,wwjtdOqTmrA,-0.5,2017-07-15 17:06:26,False,False
+2017-07-15T20:27:02,The worst ending i have ever seen in a movie. This movie is no where near as exciting as the trailer showed. Its a long boring drag 80% of the movie is people sitting around a table talking....,1,1,Louis Perez,wwjtdOqTmrA,-0.2916666666666667,2017-07-15 20:27:02,False,False
+2017-07-16T13:57:57,I watched this movie and its waist of your time... You will find out at the ending that you just lost 2h of your life...,1,0,Kroovy Bubblegum,wwjtdOqTmrA,0.0,2017-07-16 13:57:57,False,False
+2017-07-16T18:51:36,Ragnar always finds his way :v,0,0,Giovanni Rodriguez Higuita,wwjtdOqTmrA,0.0,2017-07-16 18:51:36,False,False
+2017-07-16T23:43:06,W,0,0,Timothy Jaz,wwjtdOqTmrA,0.0,2017-07-16 23:43:06,False,False
+2017-07-17T19:34:19,amburger wooshtis back in the south pole,1,0,WizardsMonsters PiratesDemons,wwjtdOqTmrA,0.0,2017-07-17 19:34:19,False,False
+2017-07-19T12:15:43,at 0:01 is that Tom Holland?,0,0,Team Sophie,wwjtdOqTmrA,0.0,2017-07-19 12:15:43,False,False
+2017-07-19T12:52:54,"What I want, and have been waiting for decades, is a good movie with the only theme of pure adventure!! You know those tombs/temples in _Indiana Jones?_ Just like that, all the movie! Or most of the original _Tomb Raider_ video games... They weren't capable of doing proper adventure even with the _Tomb Raider_ movies!",0,0,Sergi Medina,wwjtdOqTmrA,0.31336096938775515,2017-07-19 12:52:54,False,False
+2017-07-19T15:27:58,Thought this was gonna be a horrer movie,1,0,Make Money,wwjtdOqTmrA,0.0,2017-07-19 15:27:58,False,False
+2017-07-19T18:39:29,This guy is some kind of alternative for Pity Brad ? Is that how hollywood thinks ?,0,0,Kanta Rion,wwjtdOqTmrA,0.25,2017-07-19 18:39:29,False,False
+2017-07-20T00:17:54,but...why? why track down ppl who obviously don't wanna be found? what are you gonna do? what's the point? leave them alone! =/,0,1,Danny Cam,wwjtdOqTmrA,-0.30185185185185187,2017-07-20 00:17:54,False,False
+2017-07-21T00:07:16,Glorifying forceful entry.  And then they complain about multiculturalism.  They started it first you know.,0,0,Diane Winchester,wwjtdOqTmrA,0.25,2017-07-21 00:07:16,False,False
+2017-07-21T00:58:24,First Arthur and now this shit,0,0,A man has no name,wwjtdOqTmrA,0.024999999999999994,2017-07-21 00:58:24,False,False
+2017-07-21T16:43:58,"I just watched it: another good idea ruined by politically correct, liberal, feminist and anti-racist propaganda.",1,0,Loyal To None,wwjtdOqTmrA,0.19999999999999998,2017-07-21 16:43:58,False,False
+2017-07-22T09:26:39,anyone listening it in 2015?,0,0,Dobre Alexandru,wwjtdOqTmrA,0.0,2017-07-22 09:26:39,False,False
+2017-07-22T12:41:04,Dont get me wrong this film looks pretty and that but why is every film these days always really over done in the colour correction department? Whatever happened to proper photography in films where the lighting was created by the cinematographer and or waiting for the right time of day to capture what you wanted. Films look so unnatural these days and are over colourful or have an emphasis on one type of colour...usually orange.,0,0,ULTRAWIDE,wwjtdOqTmrA,0.04714285714285714,2017-07-22 12:41:04,False,False
+2017-07-23T08:42:24,Aye..that's SPIDERMAN!,0,0,Kadisha Stalling,wwjtdOqTmrA,0.0,2017-07-23 08:42:24,False,False
+2017-07-25T19:50:49,wtf  Edward with beard. iuuuw ! :O,1,0,The Rolling Dior,wwjtdOqTmrA,-0.2875,2017-07-25 19:50:49,False,False
+2017-07-26T20:44:24,"Very good movie starring Charlie Hunnam, Tom Holland (II), Robert Pattinson and Sienna Miller.     Great cast!",0,0,Tom Markel,wwjtdOqTmrA,0.955,2017-07-26 20:44:24,False,False
+2017-07-27T00:42:58,Where are the bikes ?,1,0,SinnerManS,wwjtdOqTmrA,0.0,2017-07-27 00:42:58,False,False
+2017-07-28T05:48:55,I really like this movie of Tarzan I recommended 😊😆😉,0,0,Take IT !!!,wwjtdOqTmrA,0.2,2017-07-28 05:48:55,False,False
+2017-07-30T13:23:27,Looked great...it was good...,0,0,akita is my name nerding is my game,wwjtdOqTmrA,0.7,2017-07-30 13:23:27,False,False
+2017-08-01T20:55:30,The World is FLAT! Research it!,0,0,Love on Earth,wwjtdOqTmrA,-0.0390625,2017-08-01 20:55:30,False,False
+2017-08-01T23:19:42,Y los zombies ;v?,0,0,Trolweri 239,wwjtdOqTmrA,0.0,2017-08-01 23:19:42,False,False
+2017-08-02T18:36:01,I thought it was a zombie movie,0,0,Diablo,wwjtdOqTmrA,0.0,2017-08-02 18:36:01,False,False
+2017-08-04T06:36:23,This movie rocked -  it started a little slow but definitely picked up . its worthy of time no doubt - i liked a lot.,0,0,VNV Girl,wwjtdOqTmrA,0.08916666666666664,2017-08-04 06:36:23,False,False
+2017-08-04T11:50:10,Lost City of ZEE sounds better than Lost City of ZED...,0,0,Jebadiah Jackson,wwjtdOqTmrA,0.5,2017-08-04 11:50:10,False,False
+2017-08-04T16:30:06,i can't believe this movie is actually a damn tearjerker.. :'(,2,0,Mamski,wwjtdOqTmrA,-0.5,2017-08-04 16:30:06,False,False
+2017-08-04T23:29:12,I'm really only here for tom holland.,6,1,faith,wwjtdOqTmrA,0.0,2017-08-04 23:29:12,False,False
+2017-08-04T23:30:24,At 1:27 i screamed cause of tom holland,4,0,faith,wwjtdOqTmrA,0.0,2017-08-04 23:30:24,False,False
+2017-08-05T16:49:06,why is this so dark... i hardly cant see anything lol,0,1,DRC 85,wwjtdOqTmrA,0.11944444444444446,2017-08-05 16:49:06,False,False
+2017-08-05T17:25:55,"I personally admire the approach and that realistic, borderline gritty craft of the film, but it did not work as a whole and it ended being very dry, half baked and tiresome film in which you are anticipating something to happen to blow you away , but in the end it never does. This felt like I was watching someone's biography in a video form, but without chills or any intriguing adventure elements. While it had  good performances and semi interesting plot, film never picks up the pace and only becomes repetitive , tiresome and unfocused mess of a movie. 2.5/5",1,1,M Family,wwjtdOqTmrA,-0.014111111111111114,2017-08-05 17:25:55,False,False
+2017-08-05T18:31:33,"Really good film. Enjoyed it a lot. I guess I missed it in the theaters because I thought it was a zombie movie.  Should have just called it the ""Lost City of Zed"".",0,0,Neil M,wwjtdOqTmrA,0.6,2017-08-05 18:31:33,False,False
+2017-08-05T23:33:59,White people Columbusing a whole lost civilization. amazing.,0,0,Camille Spencer,wwjtdOqTmrA,0.26666666666666666,2017-08-05 23:33:59,False,False
+2017-08-08T01:05:26,Is they really need to make this movie too yellowish?!,1,0,Sawa3eQ FekR,wwjtdOqTmrA,0.25,2017-08-08 01:05:26,False,False
+2017-08-09T22:50:20,its a pretty good movie  anyways if you like music plz give my chann' a glance thank you!,1,0,WeirdWorld,wwjtdOqTmrA,0.5625,2017-08-09 22:50:20,False,False
+2017-08-10T13:53:38,The lost city of England,0,0,Cor,wwjtdOqTmrA,0.0,2017-08-10 13:53:38,False,False
+2017-08-11T19:01:18,WE MUST FIND ZED,0,0,Gunji,wwjtdOqTmrA,0.0,2017-08-11 19:01:18,False,False
+2017-08-13T19:53:07,Oh wow I thought it was a second part to world war z ;(,0,0,Mentally Misunderstood,wwjtdOqTmrA,0.05,2017-08-13 19:53:07,False,False
+2017-08-14T13:58:56,"Meh, I am only gonna watch it for tom holland 😑",32,4,cristi perez,wwjtdOqTmrA,0.0,2017-08-14 13:58:56,False,False
+2017-08-15T10:38:44,This movie is boring..... just wasted 2 nd half hours .,1,0,Asif Khan,wwjtdOqTmrA,-0.45555555555555555,2017-08-15 10:38:44,False,False
+2017-08-18T03:34:26,"TOM, TOM, TOM, TOM, TOM",2,0,Cj Dunn,wwjtdOqTmrA,0.0,2017-08-18 03:34:26,False,False
+2017-08-18T20:29:49,"Actually, heartbreaking",0,0,MJ B,wwjtdOqTmrA,0.0,2017-08-18 20:29:49,False,False
+2017-08-18T20:30:33,807 people have no idea about life,0,0,MJ B,wwjtdOqTmrA,0.0,2017-08-18 20:30:33,False,False
+2017-08-19T18:40:52,no zombies,0,0,musical maddness,wwjtdOqTmrA,0.0,2017-08-19 18:40:52,False,False
+2017-08-20T16:09:22,This movie is a 3 hour long clickbait!,0,0,Magiel Lourens,wwjtdOqTmrA,-0.0625,2017-08-20 16:09:22,False,False
+2017-08-26T09:33:10,they never let us see the city,0,0,meijer4you,wwjtdOqTmrA,0.0,2017-08-26 09:33:10,False,False
+2017-08-27T22:30:27,"Jax, please go back to ""Sons Of Anarchy "" we missed you!",0,0,Ivan Petrov,wwjtdOqTmrA,0.0,2017-08-27 22:30:27,False,False
+2017-08-29T06:05:56,this was a very terrible movie. Incredibly boring and waste of time.,2,0,Stevo Canuck,wwjtdOqTmrA,-0.7333333333333334,2017-08-29 06:05:56,False,False
+2017-08-30T05:31:07,Badass! Keep it up,0,0,Ninja Tips,wwjtdOqTmrA,0.0,2017-08-30 05:31:07,False,False
+2017-09-02T15:35:28,Hope this turns out to be a whole heart of darkness take,0,0,Nova OP,wwjtdOqTmrA,0.2,2017-09-02 15:35:28,False,False
+2017-09-09T01:29:50,0:35 Of course there's an Audiomachine track in this.,0,0,Tyler Gates,wwjtdOqTmrA,0.0,2017-09-09 01:29:50,False,False
+2017-09-09T04:47:37,This movie is bad. Just wasted my time watching it.,1,0,Kacem,wwjtdOqTmrA,-0.44999999999999996,2017-09-09 04:47:37,False,False
+2017-09-09T12:00:11,"This was a terribly boring movie, just a collection of scenes and dialogues seen in countless other movies, nothing basically happens what a waste of time.",1,0,Lavalambtron,wwjtdOqTmrA,-0.33125,2017-09-09 12:00:11,False,False
+2017-09-12T09:05:23,new trailer for The Lost City of Z,0,0,Krista Stein,wwjtdOqTmrA,0.13636363636363635,2017-09-12 09:05:23,False,False
+2017-09-19T21:36:44,is this about macchu picchu?,0,0,pug the pug!!,wwjtdOqTmrA,0.0,2017-09-19 21:36:44,False,False
+2017-09-21T08:26:04,"White man travels overseas to distant lands: ""Glorious music plays in the background, he's a hero and a pride to his race, he's an explorer finding ""lost things"", and he saves the ""dumb natives"" who didn't even know they needed him until he arrived.  Later, more white men arrive and wipe out the natives, claiming that land and all the natural resources in it actually belong to them because of ""Lebensraum"", and some character in a book that may or may not be real said so"" Brown man travels across a border on the same continent: ""Bad, very bad.  How dare he!  He should've stayed home to fight to the death for his land, like the pilgrims did (cough), instead of moving in hopes of finding work""",0,0,Dusk Dawg,wwjtdOqTmrA,-0.11458333333333331,2017-09-21 08:26:04,False,False
+2017-09-23T23:20:44,jackson is my dude but hes basically the same character in every movie,0,0,Cris,wwjtdOqTmrA,0.0,2017-09-23 23:20:44,False,False
+2017-09-25T23:29:06,looks really good,0,0,Tim Fraser,wwjtdOqTmrA,0.7,2017-09-25 23:29:06,False,False
+2017-09-28T05:24:11,I honestly haven't seen a trailer for a movie that has drawn me in like this in sooo long! The music for the trailer is perfect!!!,0,0,Tim Fraser,wwjtdOqTmrA,0.5125000000000001,2017-09-28 05:24:11,False,False
+2017-10-01T18:33:39,This trailer is a lie.,1,0,Ico,wwjtdOqTmrA,0.0,2017-10-01 18:33:39,False,False
+2017-10-02T12:50:31,I thought it was WWZ 2,0,0,Bùi Việt,wwjtdOqTmrA,0.0,2017-10-02 12:50:31,False,False
+2017-10-02T12:51:52,I thought that guy was Brad Pitt,0,0,Bùi Việt,wwjtdOqTmrA,0.0,2017-10-02 12:51:52,False,False
+2017-10-02T16:37:21,Most.lame movie off 2017,0,0,Tyop Krop,wwjtdOqTmrA,0.0,2017-10-02 16:37:21,False,False
+2017-10-03T19:36:46,any good this??,0,0,kurčina,wwjtdOqTmrA,0.7,2017-10-03 19:36:46,False,False
+2017-10-07T01:12:41,"Lots of comments, but none of them say if this movie is any good.",0,2,erosr1,wwjtdOqTmrA,0.7,2017-10-07 01:12:41,False,False
+2017-10-09T04:04:08,This was a nice change of pace from the usual crap that Hollywood comes out  with. People said it was boring but if you have a wild heart for adventure and love history this movie  was great to watch! It pretty much was a good recount of the actual events. You never truly know if Fawcett did find the city or not. Maybe he did and didnt want to come back maybe he died maybe the Brits didnt like the idea of a civilization that was older and well functional or not as savage as they made them out to be. Enjoyed watching this,2,0,_TheBringerOfRain_,wwjtdOqTmrA,0.14047619047619048,2017-10-09 04:04:08,False,False
+2017-10-09T22:52:22,"Wow, the MC really expanded their business.",0,0,KenoxProductions,wwjtdOqTmrA,0.15000000000000002,2017-10-09 22:52:22,False,False
+2017-10-10T11:33:26,"Hello, Can someone Help me in a proper utorrent link i can download the movie? thank you",0,0,Melhem Wetwet,wwjtdOqTmrA,0.0,2017-10-10 11:33:26,False,False
+2017-10-14T17:53:21,Tom holland 😫👏🏼,10,0,Kiyanah I,wwjtdOqTmrA,0.0,2017-10-14 17:53:21,False,False
+2017-10-17T07:46:38,Ok so this movie was boring,0,0,jesse,wwjtdOqTmrA,-0.25,2017-10-17 07:46:38,False,False
+2017-10-17T07:52:44,Ok why is it that incredibly boring movies get such positive reviews from critics but entertaining movies worth watching aren’t ever good enough for them,0,0,jesse,wwjtdOqTmrA,0.1534090909090909,2017-10-17 07:52:44,False,False
+2017-10-23T19:18:12,So the emperor has returned ? God... I always knew he had found the way to immortality...,0,0,Guillaume Dubois,wwjtdOqTmrA,0.0,2017-10-23 19:18:12,False,False
+2017-10-24T15:52:17,What happened to the giant snake encounter?,0,0,Veerendra Mc Coon,wwjtdOqTmrA,0.0,2017-10-24 15:52:17,False,False
+2017-11-06T16:25:24,"so how was the movie, any thoughts",0,0,Norbu,wwjtdOqTmrA,0.0,2017-11-06 16:25:24,False,False
+2017-11-17T21:40:06,Very good movie and a fascinating story of a real person. Wow!,0,0,kirschakos,wwjtdOqTmrA,0.48374999999999996,2017-11-17 21:40:06,False,False
+2017-11-21T07:04:16,This movie was pure evil...it was boring as hell you kept watching it waiting for something to happen (nothing happens) and you get the shittiest ending ever. It was a waste of life for sure. SPOILER:   The movie never shows the lost city so don't watch it if you are waiting for that.,0,0,Katie S,wwjtdOqTmrA,-0.12142857142857144,2017-11-21 07:04:16,False,False
+2017-11-28T22:21:25,Came for Tom Holland...saw him for 2 seconds. Still the happiest person for this little bean ❤,111,5,Baek's cucumber :o,wwjtdOqTmrA,-0.1875,2017-11-28 22:21:25,False,False
+2017-12-14T00:57:59,based on true story...but ...read more about Helena Bławatsky...creepy person....if u think about WW2,0,0,Rafał Urbankowski,wwjtdOqTmrA,0.425,2017-12-14 00:57:59,False,False
+2017-12-19T14:55:22,I regret Watching this movie,0,0,obed cuffy,wwjtdOqTmrA,0.0,2017-12-19 14:55:22,False,False
+2017-12-21T15:13:29,And here's the reveal...,0,0,The Moonchin King,wwjtdOqTmrA,0.0,2017-12-21 15:13:29,False,False
+2017-12-22T21:35:20,Absolute shite of a movie as the englishmen would say,0,0,Aditya Patil,wwjtdOqTmrA,0.2,2017-12-22 21:35:20,False,False
+2017-12-28T10:35:17,"This was a very amazing story, it makes me wonder even more about places we've never been or seen. like the ocen or space.",0,0,Nikky Shaub,wwjtdOqTmrA,0.6400000000000001,2017-12-28 10:35:17,False,False
+2017-12-30T02:15:04,Lost city of YEEE,0,0,B J,wwjtdOqTmrA,0.0,2017-12-30 02:15:04,False,False
+2017-12-31T20:06:28,White liberal pro Asian racism in Hollywood says Egypt can't be black in the cinema but saying that Mongol nomadic tribes without a written language that invaded South America built all those structures that date back to days before them.  It was the Olmecs and the Aztecs who were originally black people.,0,0,Joanna Fr,wwjtdOqTmrA,-0.06666666666666667,2017-12-31 20:06:28,False,False
+2018-01-10T19:01:57,¿Robert Pattinson?!! WOW this movie Is so Good 😍😍😘😉,0,0,Marcy Jaeden Pattinson,wwjtdOqTmrA,0.39999999999999997,2018-01-10 19:01:57,False,False
+2018-01-11T09:49:35,"If you are going to watch it because of Tom Holland, don't. He gets 2 minutes of screen at the end and the whole movie is kinda boring. Is not bad, I just boring.",0,4,LucasArg,wwjtdOqTmrA,-0.36250000000000004,2018-01-11 09:49:35,False,False
+2018-01-20T12:31:40,Fantastic film. Deserves a lot more attention.,0,0,Moviesmusicme,wwjtdOqTmrA,0.45,2018-01-20 12:31:40,False,False
+2018-01-24T17:01:12,I've never understood why they hire actors who don't speak with the native accent of the character they're playing. 99 Times out of 100 the accent is horrible.,0,4,Judas Iscariot,wwjtdOqTmrA,-1.0,2018-01-24 17:01:12,False,False
+2018-01-28T01:00:31,I just watched this movie. It sucked. It manages to even make the good scenes drag on and on until you just want them to move the frick on. It would have been better as a docu-drama instead of this. It needed a narrator to help fill in ALL THE DEAD SILENCE. Everything is just so melodramatic and serious all the time.   I had more fun explaining to my family how historically accurate it was. I was an anthro minor in college so I knew plenty about the subject,0,0,fangorn23,wwjtdOqTmrA,0.15500000000000003,2018-01-28 01:00:31,False,False
+2018-01-28T18:14:57,مدينة صهيون المفقودة 👎👎👎👎👎,1,0,hassan talb,wwjtdOqTmrA,0.0,2018-01-28 18:14:57,False,False
+2018-01-30T03:14:28,"Charlie Hunnam looks like the product of a Brad Pitt/Heath Ledger love affair.  The most beautiful man in Hollywood!!! Amazing actor too, of course.",0,0,darkphoenixjg,wwjtdOqTmrA,0.65,2018-01-30 03:14:28,False,False
+2018-02-03T01:35:22,"no homo, Charlie's ass is nice.",0,0,Red dead Zed 1876,wwjtdOqTmrA,0.6,2018-02-03 01:35:22,False,False
+2018-02-03T17:18:27,"Amazing how Hollywood can take such a great story and turn it into 2 hours of bad editing, bad acting and long boring unimportant scenes.    This movie sucked .",0,0,Harry Carrey,wwjtdOqTmrA,-0.1611111111111111,2018-02-03 17:18:27,False,False
+2018-02-04T16:20:52,What a lovely film. Was looking forward to finally watch this and it did not disappoint. Even loved Robert Pattison's character. Also wanted to punch teeth in from Angus Macfadyens character..  Can anyone recommend other sort of exploration of uknown lands kinda film.,0,0,Tomi Valkonen,wwjtdOqTmrA,0.26875,2018-02-04 16:20:52,False,False
+2018-02-10T17:41:14,"The white (Asian) supremacy upholding liberal.  Yes, the nomadic Mongol tribes that invaded South America, a people without a written language, and whose main occupation was hunting, invasion and war, built these structures because we all know that warring nomads have the lifestyle to develop high technology.",0,0,Naomi Jenner,wwjtdOqTmrA,0.08166666666666667,2018-02-10 17:41:14,False,False
+2018-02-10T17:43:40,"Western academic fraud is owed to white liberals who fear a black planet as much as the honest white supremacists do.  Hence their constant call for South American invasion to keep the US the right color.  Why such a film as this could be made thereby erasing the legacy of The Olmec and the black Chinese, the Xi.  They're builders of pyramids and monuments across the world.  The Incas and the Aztecs were black people before they were wiped out by the Hibaru of India and Asia.",0,0,Naomi Jenner,wwjtdOqTmrA,0.04183673469387755,2018-02-10 17:43:40,False,False
+2018-02-13T13:29:57,I mean why would you fuck with an untouched civilization?   Just... why? They're happy by themselves.,0,0,Christian Windfield Escalante,wwjtdOqTmrA,0.029166666666666674,2018-02-13 13:29:57,False,False
+2018-02-18T06:07:54,"Theres some magic in this film. I dont know if the magic is good or bad, if it aludes to our wrong instincts but it will certainly light something all men want",0,0,burns83,wwjtdOqTmrA,0.15,2018-02-18 06:07:54,False,False
+2018-02-23T21:47:36,Oh jax teller..,0,0,NFA,wwjtdOqTmrA,0.0,2018-02-23 21:47:36,False,False
+2018-02-24T16:40:06,Who came for tom holland,922,38,Z7 20,wwjtdOqTmrA,0.0,2018-02-24 16:40:06,False,False
+2018-03-06T20:24:55,I think this is a zombie's film😂,0,0,TheThe10,wwjtdOqTmrA,0.0,2018-03-06 20:24:55,False,False
+2018-03-09T23:17:19,"if u wanna put a Z, u need to put some Zombies...",0,0,Reychill 91,wwjtdOqTmrA,0.0,2018-03-09 23:17:19,False,False
+2018-03-20T00:40:41,"dont let the trailer fool you, this is no action movie. not too boring but not the action that trailer is suggesting.",0,0,SD129,wwjtdOqTmrA,-0.3166666666666667,2018-03-20 00:40:41,False,False
+2018-03-22T15:17:03,This is based on my late late uncle .carnt beleive it,0,0,Sam Fawcett,wwjtdOqTmrA,-0.3,2018-03-22 15:17:03,False,False
+2018-03-31T10:07:42,"please disregard all the smart arses below, this is an incredible film with a fantastic soundtrack. so there.",0,0,duncan w craig,wwjtdOqTmrA,0.5047619047619047,2018-03-31 10:07:42,False,False
+2018-04-01T18:43:58,I got this,0,0,Samuel Gonzalez,wwjtdOqTmrA,0.0,2018-04-01 18:43:58,False,False
+2018-04-06T00:05:10,Spiderman was in this movie,1,0,Hithoot 15,wwjtdOqTmrA,0.0,2018-04-06 00:05:10,False,False
+2018-04-10T01:45:31,what about the droid attack on the wookies?,0,0,Jesse Frere,wwjtdOqTmrA,0.0,2018-04-10 01:45:31,False,False
+2018-04-14T06:50:38,TOM HOLLAND?,5,0,kate,wwjtdOqTmrA,0.0,2018-04-14 06:50:38,False,False
+2018-04-22T21:41:41,thats what im talking about,0,0,EclipZe Muzik,wwjtdOqTmrA,0.0,2018-04-22 21:41:41,False,False
+2018-04-25T20:46:43,TOM HOLLAND,4,0,Starfallmidnight Oof,wwjtdOqTmrA,0.0,2018-04-25 20:46:43,False,False
+2018-04-30T10:33:20,"If you are popping into Torquay, Devon, UK anytime they have a great presentation of artifacts from Percy Fawcett's travels in the local Museum, inluding his diaries, Mauser gun, theodolite, compass and general kit. What a guy. It is believed the Character of Indiana Jones was based on this guy.",1,0,Ruth Cormack,wwjtdOqTmrA,0.2833333333333334,2018-04-30 10:33:20,False,False
+2018-05-07T07:42:14,"i've been watching this movie, a great story about history",0,0,Chesturia,wwjtdOqTmrA,0.8,2018-05-07 07:42:14,False,False
+2018-05-12T21:23:51,"Not gonna lie, I was laughing so hard when I saw Tom Holland with a mustache whoops-",3,0,frappuccinae,wwjtdOqTmrA,-0.2916666666666667,2018-05-12 21:23:51,False,False
+2018-05-15T03:05:55,"I came for Tom Holland, where is he?",3,1,Aylen Valdez,wwjtdOqTmrA,0.0,2018-05-15 03:05:55,False,False
+2018-05-16T13:04:01,the start of colonization,0,0,august yu,wwjtdOqTmrA,0.0,2018-05-16 13:04:01,False,False
+2018-05-17T04:54:33,it's not a lost city if someone found it!,0,0,kidlat1968,wwjtdOqTmrA,0.0,2018-05-17 04:54:33,False,False
+2018-05-17T22:42:47,Esse trailer é animal!,0,0,Harrison Fau.,wwjtdOqTmrA,0.0,2018-05-17 22:42:47,False,False
+2018-05-24T06:44:58,I AM THE SENATE!,0,0,E Productions,wwjtdOqTmrA,0.0,2018-05-24 06:44:58,False,False
+2018-06-02T13:01:20,There was Tom Holland,6,0,The Morning Clay H,wwjtdOqTmrA,0.0,2018-06-02 13:01:20,False,False
+2018-06-02T21:23:13,The worst movie I've ever seen..,0,0,Erik Tin,wwjtdOqTmrA,-1.0,2018-06-02 21:23:13,False,False
+2018-06-14T06:23:56,Free on Netflix,0,0,Harley Underwood,wwjtdOqTmrA,0.4,2018-06-14 06:23:56,False,False
+2018-06-15T21:23:09,Jeez not even Dinosaur's,0,0,Curi0u50ne,wwjtdOqTmrA,0.0,2018-06-15 21:23:09,False,False
+2018-06-22T17:06:56,Anyone know what tone they do in this film?,0,0,yodha andhika,wwjtdOqTmrA,0.0,2018-06-22 17:06:56,False,False
+2018-06-26T19:09:19,This film was boring asf. But I liked the adventure :),0,0,Golden Squatch,wwjtdOqTmrA,0.033333333333333326,2018-06-26 19:09:19,False,False
+2018-06-30T19:04:49,am i the only one here for Tom Holland?,5,3,Aarthy S,wwjtdOqTmrA,0.0,2018-06-30 19:04:49,False,False
+2018-07-08T06:10:08,Who all only came here cuz Tom hollan is in the movie,1,2,Jocelynn,wwjtdOqTmrA,0.0,2018-07-08 06:10:08,False,False
+2018-07-11T01:18:56,Oh so its not a zombie movie?,0,0,Jouse Martinez,wwjtdOqTmrA,0.0,2018-07-11 01:18:56,False,False
+2018-07-13T06:43:57,"WOOOOOOW!!! The history of colonel Percy ""blood and guts"" Fawcett is deeply passionate for me. Is amazing and  crazy go into the Brazil tropical jungle.",0,0,Saint Denis,wwjtdOqTmrA,-0.016666666666666646,2018-07-13 06:43:57,False,False
+2018-07-13T11:01:28,TOM HOLLAND😍,0,0,eleamrsk_,wwjtdOqTmrA,0.0,2018-07-13 11:01:28,False,False
+2018-07-15T22:23:56,Am i the only one who watche this for tom holland,0,1,Stanley__ __3,wwjtdOqTmrA,0.0,2018-07-15 22:23:56,False,False
+2018-07-21T20:05:27,FILM ABSOLUMENT MERDIQUE ! je déconseille vivement,0,0,Santino Delarte,wwjtdOqTmrA,0.0,2018-07-21 20:05:27,False,False
+2018-07-31T13:19:12,Anyone know that the guy from spider man homecoming is in there?,0,1,Samuel Grecu,wwjtdOqTmrA,0.0,2018-07-31 13:19:12,False,False
+2018-08-05T15:15:29,Best movie in 2018 even thought it was released in 2016,0,0,Sol Ti,wwjtdOqTmrA,1.0,2018-08-05 15:15:29,False,False
+2018-08-07T05:48:08,At fist you might think this is a movie that takes place in the distant past in a far way land. Then shortly into the film you realize it's actually a movie about how much feminist bullshit can be shoved down your throat via bad acting.,0,0,Never Gonnatell,wwjtdOqTmrA,-0.10061728395061727,2018-08-07 05:48:08,False,False
+2018-08-08T14:37:10,Not bad apart for SJW and Feminism bullshit. Typical Hollywood.,0,0,Francesco B.,wwjtdOqTmrA,0.09166666666666663,2018-08-08 14:37:10,False,False
+2018-08-10T02:58:48,Tom be looking like a snack,0,0,jamie,wwjtdOqTmrA,0.0,2018-08-10 02:58:48,False,False
+2018-08-13T04:59:17,هل اجد حرف عرربي,0,0,الله أكبر,wwjtdOqTmrA,0.0,2018-08-13 04:59:17,False,False
+2018-08-14T12:16:32,1:36 its peter parker,0,0,heinne winandha,wwjtdOqTmrA,0.0,2018-08-14 12:16:32,False,False
+2018-08-16T15:53:04,Tom haland is in the movie from spider man homecoming anyone knew that,0,0,Samuel Grecu,wwjtdOqTmrA,0.0,2018-08-16 15:53:04,False,False
+2018-08-21T11:21:17,seriously you all? all I can see here  is world war Z and zombie bullshit< have any of you seen the movie? why dont yall tell people if itsd worth it or not instead of rambling about zombies gosh!,0,1,Look at that bird,wwjtdOqTmrA,0.020833333333333343,2018-08-21 11:21:17,False,False
+2018-08-22T10:44:05,I watch this with my white friend......half way of the movie he touch my hand....wtf bro,0,0,IIAlbertII,wwjtdOqTmrA,0.0,2018-08-22 10:44:05,False,False
+2018-08-23T05:31:47,One of the most boring movie I have ever wasted my money to watch.,0,1,J S,wwjtdOqTmrA,-0.2333333333333333,2018-08-23 05:31:47,False,False
+2018-09-10T14:06:03,movie hindi  karo,0,0,vipul thakor,wwjtdOqTmrA,0.0,2018-09-10 14:06:03,False,False
+2018-09-10T14:15:42,Z was Fawcetts code for the city of gold...Eldorado,0,0,Finley Lyons,wwjtdOqTmrA,0.0,2018-09-10 14:15:42,False,False
+2018-09-21T10:29:55,"This movie disappointed me. The premise was interesting but the poor writing ruined it. Production value was great,though.",0,2,Tia Aaron,wwjtdOqTmrA,-0.21666666666666667,2018-09-21 10:29:55,False,False
+2018-09-22T09:19:17,i wanna see it,0,0,Lucy Grant,wwjtdOqTmrA,0.0,2018-09-22 09:19:17,False,False
+2018-09-25T01:26:42,Amazed at all the uneducated comments from those who know nothing of history and thought the Z meant Zombies. By the title alone i knew what  the entire story was about before watching the trailer. I've known since 6th grade. So glad i was educated in the 70s and 80s when World History was taught from 2nd grade thru 12th grade. Zombies??? LOL millenials=zombies. Pathetic,0,0,Christopher Phillips,wwjtdOqTmrA,0.06000000000000001,2018-09-25 01:26:42,False,False
+2018-10-04T16:31:40,I fricking love Charlie Hunnam AND tom holland. OOOF THIS IS GOLD,1,0,xX Anime Xx,wwjtdOqTmrA,0.5,2018-10-04 16:31:40,False,False
+2018-10-10T14:47:24,This looks boring,0,0,WalkOnAlwaysBelieve,wwjtdOqTmrA,-1.0,2018-10-10 14:47:24,False,False
+2018-10-27T07:00:14,1:37 you’re welcome,0,0,franky Davalos,wwjtdOqTmrA,0.8,2018-10-27 07:00:14,False,False
+2018-11-04T03:26:30,"I was like, oh what's this movie about? *watches trailer* Oh, I've already watched this movie ages ago! 😂",2,0,Lilly McDowell,wwjtdOqTmrA,0.0,2018-11-04 03:26:30,False,False
+2018-11-11T04:08:01,the soundtrack of this trailer is maad ill son!!!,0,0,2TECH4YALL,wwjtdOqTmrA,-0.9765625,2018-11-11 04:08:01,False,False
+2018-11-21T23:33:02,Who came from Joe Rogan podcast ? haha,320,15,austin kenny,wwjtdOqTmrA,0.2,2018-11-21 23:33:02,False,False
+2018-11-22T00:45:07,kek americans really hate wypipo,0,0,Crunchsnap,wwjtdOqTmrA,-0.8,2018-11-22 00:45:07,False,False
+2018-11-22T04:26:11,"You know how much strength it would take to stop an arrow flying at you, by holding up a book with one hand? Best case scenario, it hits the book and smacks him in the face",0,0,chknpotpie my3favoritethings,wwjtdOqTmrA,0.6,2018-11-22 04:26:11,False,False
+2018-11-22T13:48:13,Joe Rogan sent me here,0,0,Rich Gaming,wwjtdOqTmrA,0.0,2018-11-22 13:48:13,False,False
+2018-11-22T17:17:14,Here because of Joe Rogan.,1,0,Ricardo Rodriguez,wwjtdOqTmrA,0.0,2018-11-22 17:17:14,False,False
+2018-11-23T08:34:04,Joe Rogan brought me here,0,0,Jason Voorhees,wwjtdOqTmrA,0.0,2018-11-23 08:34:04,False,False
+2018-11-23T10:58:35,jackie boy,0,0,infamous_,wwjtdOqTmrA,0.0,2018-11-23 10:58:35,False,False
+2018-11-23T14:40:07,The best movie ever,0,0,king louis 14,wwjtdOqTmrA,1.0,2018-11-23 14:40:07,False,False
+2018-11-24T09:01:18,"1:01 A surprise to be sure, but a welcome one",0,0,Carlos BK,wwjtdOqTmrA,0.65,2018-11-24 09:01:18,False,False
+2018-11-26T18:04:19,I wish he would go to Sentinel Island.  This movie would be over in three minutes......lol,1,0,cturner049,wwjtdOqTmrA,0.0,2018-11-26 18:04:19,False,False
+2018-12-02T04:40:54,Who came for Tom Holland 😂😍,1,0,Melissa luv,wwjtdOqTmrA,0.0,2018-12-02 04:40:54,False,False
+2018-12-07T06:32:51,Great movie underrated...love it,1,0,kalos kariolis,wwjtdOqTmrA,0.8,2018-12-07 06:32:51,False,False
+2018-12-11T16:31:00,I saw it on Tom Hollands Instagram and now I'm here,1,0,AestheticMemezz,wwjtdOqTmrA,0.0,2018-12-11 16:31:00,False,False
+2018-12-17T21:54:57,"Z is pronounced Zeeee not zed,  It just sounds unnatural to pronounce Z as zed",0,0,Inayet Hadi,wwjtdOqTmrA,0.0,2018-12-17 21:54:57,False,False
+2018-12-23T00:52:24,one pieceoo story anyone,0,0,bapho met,wwjtdOqTmrA,0.0,2018-12-23 00:52:24,False,False
+2018-12-30T17:57:07,Tom with moustache?! Jaja wow,0,0,Gema Morales,wwjtdOqTmrA,0.1,2018-12-30 17:57:07,False,False
+2019-01-03T20:10:49,Who only came for Tom Holland?,0,0,Hadley Williams,wwjtdOqTmrA,0.0,2019-01-03 20:10:49,False,False
+2019-01-04T09:23:07,I just watched this movie cause of Tom Holland. Who else did???,0,0,TheBlackWidow 5,wwjtdOqTmrA,0.0,2019-01-04 09:23:07,False,False
+2019-01-06T16:00:02,57gg,0,0,45555555 555555555,wwjtdOqTmrA,0.0,2019-01-06 16:00:02,False,False
+2019-01-28T19:04:33,Hooligan spiderman and vampire hahaahahahahhaa,0,0,Sysizipticesp Symbef,wwjtdOqTmrA,0.0,2019-01-28 19:04:33,False,False
+2019-01-31T05:55:47,"My god his was a slow moving, boring movie. Can’t even believe Pitt, Holland and Pattinson were involved. Also, wth glorify a man who led his son into murder?  Why do developed countries want to intrude?  He was no hero.",0,0,Amazing Supergirl,wwjtdOqTmrA,-0.39999999999999997,2019-01-31 05:55:47,False,False
+2019-02-04T11:47:43,Truly a great film. Solid direction and fine performances throughout combined with Darius Khondjis subtly beautiful cinematography and thoughtprovoking emotional content makes this one a unique gem. Highly recommended.,0,0,Henri Marttila,wwjtdOqTmrA,0.3716666666666667,2019-02-04 11:47:43,False,False
+2019-02-08T11:45:02,Here just for Tom Holland.,1,0,Leipz 404,wwjtdOqTmrA,0.0,2019-02-08 11:45:02,False,False
+2019-02-08T14:58:20,peter what are you doing here? you have homework!,0,0,Wellit'sElle,wwjtdOqTmrA,0.0,2019-02-08 14:58:20,False,False
+2019-02-14T20:33:03,Who else came for Tom❤️😂,2,0,Radio.Meddows *ilovetomholland3000*,wwjtdOqTmrA,0.0,2019-02-14 20:33:03,False,False
+2019-02-16T19:03:09,*well open google earth and find it for free*,0,0,RAJ,wwjtdOqTmrA,0.2,2019-02-16 19:03:09,False,False
+2019-02-17T20:42:09,Dislikes explain why,0,0,Omar,wwjtdOqTmrA,0.0,2019-02-17 20:42:09,False,False
+2019-03-16T16:06:00,King Arthur 👑,0,0,justice is served,wwjtdOqTmrA,0.0,2019-03-16 16:06:00,False,False
+2019-03-16T16:42:41,I came here for Ian McDiarmid !!!,0,0,Derp Serious,wwjtdOqTmrA,0.0,2019-03-16 16:42:41,False,False
+2019-03-28T21:25:48,I always read the comments before I watch I a film to see if it sounds any good. No help from anybody here whatsoever. From what I read nobody here has actually seen it!,0,0,Johnny Jabsco,wwjtdOqTmrA,0.35,2019-03-28 21:25:48,False,False
+2019-04-05T15:51:42,The Everchase is calling.,0,0,Mammon,wwjtdOqTmrA,0.0,2019-04-05 15:51:42,False,False
+2019-04-08T14:24:17,Complete waste of time...rubbish...where is the City of Z...what did they find & why can't / didn't we see it.....so were they initiated into the tribe or boiled alive in the end?!?!!? Charlie Hunnam was just as awful in this (...what felt like a three year trek through the amazon jungle itself!) ..as he was in Arthur of the sword... slow and ambling style.....can't hear half of whatever he mumbles (an unforgivable crime for movie makers!!!) pedestrian and painful...but no doubt he is being groomed for 007 ?!?!? ....both terrible films drifting here there and everywhere.... CGI gone mad for Arthur & Z just didn't deliver.......,0,0,Gary Perkins,wwjtdOqTmrA,-0.4172892252604167,2019-04-08 14:24:17,False,False
+2019-04-09T23:33:00,which womans voice is at the start of the trailer il paypal anyone who can tellme 10 pound i neeed to know so bad,0,0,Big long Snake,wwjtdOqTmrA,-0.6999999999999998,2019-04-09 23:33:00,False,False
+2019-04-29T00:16:55,Such an underrated and amazing movie.,3,0,mate53,wwjtdOqTmrA,0.30000000000000004,2019-04-29 00:16:55,False,False
+2019-05-04T16:01:00,ppl making assumptions by watching less than 2 minute clip is just STUPID. when actually the movie is about discovering an ancient city and its relics rather than invading a civilization... thats the whole point of the movie and 90% of the comments are missing it completely. 😂😂,0,0,da a,wwjtdOqTmrA,-0.14444444444444443,2019-05-04 16:01:00,False,False
+2019-05-14T04:22:28,Who came from actually knowing history 💁‍♀️,1,2,Overworked CNA,wwjtdOqTmrA,0.0,2019-05-14 04:22:28,False,False
+2019-05-14T16:03:08,who came here after JUNGLE ????,0,0,Fiqi pz,wwjtdOqTmrA,0.0,2019-05-14 16:03:08,False,False
+2019-05-18T06:09:08,Who came for robert pattinson wb casting for batman,164,2,Suka Suki,wwjtdOqTmrA,0.0,2019-05-18 06:09:08,False,False
+2019-05-18T12:07:46,I'm here because of the new Batman.,56,0,ZeppelinAdventures25,wwjtdOqTmrA,0.13636363636363635,2019-05-18 12:07:46,False,False
+2019-05-18T16:22:56,Who came here for Robert Pattinson as the new Batman?,1,0,Blitzenius Nazri,wwjtdOqTmrA,0.13636363636363635,2019-05-18 16:22:56,False,False
+2019-05-22T20:37:55,everyone here is either here for tom holland or for pattinson after the batman announcement hjkdfsd,0,0,Gabby Velasquez,wwjtdOqTmrA,0.0,2019-05-22 20:37:55,False,False
+2019-05-23T12:58:59,I came for Robert. I didnt even realize he stared here omg,2,0,Augustė Pauliūtė,wwjtdOqTmrA,0.0,2019-05-23 12:58:59,False,False
+2019-06-04T01:55:04,i thought it was about zombies :U,0,0,Sock' SucKeR!,wwjtdOqTmrA,0.0,2019-06-04 01:55:04,False,False
+2019-06-04T10:17:24,Was this a good movie anybody? Lol,0,0,Matt Fairfield,wwjtdOqTmrA,0.75,2019-06-04 10:17:24,False,False
+2019-06-10T15:09:34,TANGLED EARTH,0,0,Sergio Ochoa,wwjtdOqTmrA,0.0,2019-06-10 15:09:34,False,False
+2019-06-15T08:01:43,I loved this movie so much,1,0,F L E U R,wwjtdOqTmrA,0.44999999999999996,2019-06-15 08:01:43,False,False
+2019-06-17T12:09:45,IT IS THERE!!!!  Google maps: an i a joke to you,0,1,Italian Cat,wwjtdOqTmrA,0.0,2019-06-17 12:09:45,False,False
+2019-06-20T04:04:52,"So, stop me if you’ve heard this one before...  A King, a Vampire and a Spider-Man enter a Lost City..........",2,1,sp33dingbullet,wwjtdOqTmrA,0.0,2019-06-20 04:04:52,False,False
+2019-06-21T00:03:29,Name of the music ?,0,0,Henri H,wwjtdOqTmrA,0.0,2019-06-21 00:03:29,False,False
+2019-07-01T01:16:28,Music ?,0,0,Henri H,wwjtdOqTmrA,0.0,2019-07-01 01:16:28,False,False
+2019-07-02T04:11:41,who came for tom holland,0,0,Khadijah Stewart,wwjtdOqTmrA,0.0,2019-07-02 04:11:41,False,False
+2019-07-11T09:06:55,I come from Far from home,0,0,ທ້າວ ບິນລີ້ ກິ່ງສະດາ,wwjtdOqTmrA,0.1,2019-07-11 09:06:55,False,False
+2019-07-24T15:02:46,"I came from Tom McCarthy's ""Weird Disappearances"" book",0,0,Don Pham,wwjtdOqTmrA,-0.5,2019-07-24 15:02:46,False,False
+2019-07-27T08:22:59,Me,0,0,trash gang,wwjtdOqTmrA,0.0,2019-07-27 08:22:59,False,False
+2019-08-04T00:16:19,Wait a minute is that my baby boi TOM!!!,1,0,Jocelyn Smith,wwjtdOqTmrA,0.0,2019-08-04 00:16:19,False,False
+2019-08-19T19:20:29,Top kk 😂👌👌,0,0,Tuca,wwjtdOqTmrA,0.5,2019-08-19 19:20:29,False,False
+2019-08-22T20:56:05,Who came for Charlie hunnam,0,0,Win Win,wwjtdOqTmrA,0.0,2019-08-22 20:56:05,False,False
+2019-08-26T13:24:13,spider-man and batman together in a movie!,1,0,siddhant raizada,wwjtdOqTmrA,0.0,2019-08-26 13:24:13,False,False
+2019-08-28T00:58:03,so this movie is about a guy finding a undiscovered tribe and bringing them into the modern world. so he's the bad guy,2,0,TheAllSeeingEye,wwjtdOqTmrA,-0.24999999999999992,2019-08-28 00:58:03,False,False
+2019-08-28T09:03:37,awesome movie based on true historical events. the most underrated film.,0,0,Anish Bhattacharya,wwjtdOqTmrA,0.4625,2019-08-28 09:03:37,False,False
+2019-08-28T10:26:28,I’d really want to have a pair of glasses like the ones that Robert Pattinson sports on Lost City of Z. I have searched everywhere and by now I still don’t know the model nor brand.,0,0,TMA 1,wwjtdOqTmrA,0.2,2019-08-28 10:26:28,False,False
+2019-09-01T10:57:45,Americans be like Zee?,0,0,Jason Umbrellabird,wwjtdOqTmrA,0.0,2019-09-01 10:57:45,False,False
+2019-09-02T16:15:41,Who came for Tom Holland?,0,0,Altea Xx,wwjtdOqTmrA,0.0,2019-09-02 16:15:41,False,False
+2019-09-28T17:59:27,"When you could pack your trunks, guns and everything, go to explore the furthest reaches of Earth and not find a single McDonald's.",2,0,chapiit08,wwjtdOqTmrA,-0.07142857142857142,2019-09-28 17:59:27,False,False
+2019-10-03T22:31:53,Obsolete oddity sent me here,0,0,clara clown,wwjtdOqTmrA,0.0,2019-10-03 22:31:53,False,False
+2019-10-06T03:47:32,robert!!! tom!!!!,0,0,CheckOutBTSgroup,wwjtdOqTmrA,0.0,2019-10-06 03:47:32,False,False
+2019-10-06T19:24:16,A stirring trailer. A film that few know of and yet among the most powerful.,0,0,EtchedInStone,wwjtdOqTmrA,0.19999999999999998,2019-10-06 19:24:16,False,False
+2019-10-23T22:23:40,"Lost City Of Z..zzzzzzzzz🛌 !! Another ""glossy pic"" of the jungle! Bastarized & a shiny film for all the ""luvvies"" out there..!!!",0,0,Kenneth Thompson,wwjtdOqTmrA,0.0,2019-10-23 22:23:40,False,False
+2019-11-06T02:44:22,Who else came from joe rogans podcast?,0,0,Ramon Miguel,wwjtdOqTmrA,0.0,2019-11-06 02:44:22,False,False
+2019-11-06T09:35:14,That time Spiderman met Batman and Green Arrow,0,0,jojo olegario,wwjtdOqTmrA,-0.2,2019-11-06 09:35:14,False,False
+2019-11-10T01:24:30,"The natives in both Americas should've killed all explorers instead of welcoming them, they wouldn't have been mass murdered if they have done that , may their souls rest in peace 💔",0,0,Ms. Z,wwjtdOqTmrA,-0.2,2019-11-10 01:24:30,False,False
+2019-11-17T00:00:08,I am the way the truth and the life no one comes to the Father but by me Jesus said. And that faith comes by hearing and hearing by the Word of God. We must be willing to turn from sin and self to receive Jesus forgiveness. And to know and live out his teachings. Fall in love with the Word of God ❤️📖🙂NKJV,1,0,Jeff Brigman,wwjtdOqTmrA,0.29545454545454547,2019-11-17 00:00:08,False,False
+2019-11-21T18:37:42,Amazing movie,0,0,Le Cri,wwjtdOqTmrA,0.6000000000000001,2019-11-21 18:37:42,False,False
+2019-12-09T15:56:17,Lost city of zzzzzzzzzz😪,0,0,PerrySport,wwjtdOqTmrA,0.0,2019-12-09 15:56:17,False,False
+2019-12-26T05:39:12,CHARLIE HUNNAM,0,0,Oluwabamikale Ogunbor,wwjtdOqTmrA,0.0,2019-12-26 05:39:12,False,False
+2020-01-03T14:21:14,1:02 Palpatine,1,0,Eli Marcos,wwjtdOqTmrA,0.0,2020-01-03 14:21:14,False,False
+2020-01-21T21:15:06,I came through the rabbit hole via Joe Rogan. ...... about 15 clicks ago,0,0,Rod Friesen,wwjtdOqTmrA,0.0,2020-01-21 21:15:06,False,False
+2020-01-22T18:05:03,"who wantet to type y for youtube, but didnt realize that their keyboard was set in english and pressed z",1,0,Bobi das Warzenschwein,wwjtdOqTmrA,0.0,2020-01-22 18:05:03,False,False
+2020-01-23T04:09:53,This comment section sucks balls.,1,1,Lewis Carter,wwjtdOqTmrA,-0.3,2020-01-23 04:09:53,False,False
+2020-01-24T06:09:02,He and his son become food for the natives sometime some time after their disappearance.  End of Story!  The journey there was quite something though.,0,1,De Evolve,wwjtdOqTmrA,0.0,2020-01-24 06:09:02,False,False
+2020-02-04T02:59:39,I came here for The Senate,0,0,Kyle Leasure,wwjtdOqTmrA,0.0,2020-02-04 02:59:39,False,False
+2020-02-06T10:32:55,"Cerritane apa se lur, wonge londo kabeh sing komen😅",0,0,Aka Berbagi,wwjtdOqTmrA,0.0,2020-02-06 10:32:55,False,False
+2020-02-10T04:15:00,Amazon made a movie about Amazonia.,0,0,Carr Rexx,wwjtdOqTmrA,0.0,2020-02-10 04:15:00,False,False
+2020-03-02T02:56:27,Vind het noh!,0,0,J Chr G,wwjtdOqTmrA,0.0,2020-03-02 02:56:27,False,False
+2020-03-03T21:32:26,Sad ending,0,0,Romana loveee,wwjtdOqTmrA,-0.5,2020-03-03 21:32:26,False,False
+2020-03-07T19:18:13,If you call your movie Lost City of Z it better have zombies in it >.<,0,0,Ty Bey,wwjtdOqTmrA,0.5,2020-03-07 19:18:13,False,False
+2020-03-14T15:40:58,Lost city of z full based on amzon jungle  in  golden amd dilver house  real story,0,0,DurgaDJ manKumar,wwjtdOqTmrA,0.28333333333333327,2020-03-14 15:40:58,False,False
+2020-03-20T03:17:52,🔥🔥Who watching in 2020🔥🔥,0,0,kaptan singh chahar,wwjtdOqTmrA,0.0,2020-03-20 03:17:52,False,False
+2020-03-28T01:33:16,True story he is my great great grandfather and I'm going back,2,1,Grant Burton,wwjtdOqTmrA,0.4875,2020-03-28 01:33:16,False,False
+2020-04-01T07:05:14,SO NOBODY IS HYPED UP ABOUT JAX TELLER BEING ALIVE AFTER THAT SEMI TRUCK?   Every other comment is about Tom Holland or Robert. It’s about the president of SOA,0,0,eazy macoroni,wwjtdOqTmrA,-0.012499999999999997,2020-04-01 07:05:14,False,False
+2020-04-04T10:56:17,I am the PARLAMENT!!,0,0,Bill Blackknee,wwjtdOqTmrA,0.0,2020-04-04 10:56:17,False,False
+2020-04-04T19:03:33,This trailer is darker and mysterious than the other one. Well done. P.S. The film is a masterpiece.,1,0,Antonio Valdespino,wwjtdOqTmrA,-0.0625,2020-04-04 19:03:33,False,False
+2020-04-09T17:34:02,Just like what the did in Africa,0,0,Rex Neto,wwjtdOqTmrA,0.0,2020-04-09 17:34:02,False,False
+2020-04-11T13:56:32,Praise god for England and st George! This is the English Faustian spirit at its greatest,0,0,Patrick Fleming,wwjtdOqTmrA,0.5,2020-04-11 13:56:32,False,False
+2020-04-11T16:47:42,This was a baaaaaaaadddd movie....,0,0,PASCAL Peters,wwjtdOqTmrA,0.0,2020-04-11 16:47:42,False,False
+2020-04-13T16:21:50,"Maybe this is just me, but I would like to tell you all my experience watching this movie: It was 1 a.m., and I was on the fence whether or not to watch one more movie. I was very impulsive in choosing this movie because the only criteria was to have Tom Holland in it. I didn’t watch the trailer, just pressed play. Fast forward TWO HOURS AND A HALF. I was watching the last scene with the words popping up desperately trying to read them with my bleary vision and extremely tired body. After the movie ended I probably sat there for five minutes staring in the dark left only with anger, dismay, and frustration. I believe I started to laugh hysterically. To this day, I am adamant that this was the worst f***ing movie I ever watched and it left me soulless and depressed. I only feel worse for the people who payed money to watch it in theaters.",3,3,Csilagh,wwjtdOqTmrA,-0.16403508771929826,2020-04-13 16:21:50,False,False
+2020-04-27T06:14:19,I Just came for Charlie Hunnam 🤤,2,0,Vanessa PA,wwjtdOqTmrA,0.0,2020-04-27 06:14:19,False,False
+2020-05-09T21:36:08,The best part is that it's on YouTube for free.,0,0,J D,wwjtdOqTmrA,0.7,2020-05-09 21:36:08,False,False
+2020-05-17T05:14:36,A good name for the movement to find this lost city would be the “Lima Project”.,1,0,Albert Nash,wwjtdOqTmrA,0.7,2020-05-17 05:14:36,False,False
+2020-05-18T01:00:48,I've yet to hear a review on this movie. Has anyone seen it? Is it good?  It seems to be one of those weird movies where you expect it to have an interesting adventurous plot but it turns into some dramatic and emotional mindfuck.,0,0,Bored.In.California,wwjtdOqTmrA,0.12777777777777777,2020-05-18 01:00:48,False,False
+2020-05-20T02:35:07,Good movie,0,0,AF Noorzai,wwjtdOqTmrA,0.7,2020-05-20 02:35:07,False,False
+2020-05-21T11:49:32,This movie is so good!!,1,0,P P,wwjtdOqTmrA,1.0,2020-05-21 11:49:32,False,False
+2020-05-23T02:04:56,So we got a Billionaire vampire wizard who dresses up as a bat at night teaming up with a legendary king who rides bikes and robots; and a high school kid with spider-like abilities and has a hobby of treasure hunting. Definitely interesting.,0,0,Jabid21,wwjtdOqTmrA,0.5533333333333333,2020-05-23 02:04:56,False,False
+2020-05-26T21:21:13,Thought of world war z,0,0,Malik Abdul Rafay,wwjtdOqTmrA,0.0,2020-05-26 21:21:13,False,False
+2020-05-27T20:33:49,Two words - Robert Pattinson ❤,0,0,M. K.,wwjtdOqTmrA,0.0,2020-05-27 20:33:49,False,False
+2020-06-03T23:31:29,Came here for Batman,1,0,Arian Rahman,wwjtdOqTmrA,0.0,2020-06-03 23:31:29,False,False

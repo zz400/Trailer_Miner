@@ -1,0 +1,343 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2017-05-29T18:03:17,"James Bond? Dude, what's happened to you?",260,16,Mangoesification,-mYYQu7cGAI,0.0,2017-05-29 18:03:17,True,True
+2017-05-29T18:26:11,Daniel Craig gonna overshadow them all.,590,6,Mohan Kumar,-mYYQu7cGAI,0.0,2017-05-29 18:26:11,True,True
+2017-05-29T19:02:10,This looks really good!,61,1,"Tony, The Stark",-mYYQu7cGAI,0.875,2017-05-29 19:02:10,True,True
+2017-05-29T19:39:51,adam is so ugly,0,1,kiki,-mYYQu7cGAI,-0.7,2017-05-29 19:39:51,True,True
+2017-05-29T20:47:32,lol bond's voice sounded really goofy,94,1,Recker Ray,-mYYQu7cGAI,0.65,2017-05-29 20:47:32,True,True
+2017-05-29T22:37:51,is that kylo ren??,3,1,Iori Yagami,-mYYQu7cGAI,0.0,2017-05-29 22:37:51,True,True
+2017-05-30T01:34:01,Sebastian Stan! Awesome!,13,0,KJ,-mYYQu7cGAI,1.0,2017-05-30 01:34:01,True,True
+2017-05-30T02:58:10,James Bond is undercover as a Trump voter,231,18,Diego Candia,-mYYQu7cGAI,0.0,2017-05-30 02:58:10,True,True
+2017-05-30T02:58:36,Where is wolverine?,12,2,Rakib Rahman,-mYYQu7cGAI,0.0,2017-05-30 02:58:36,True,True
+2017-05-30T02:59:35,Daniel Craig look HILARIOUS!!!!!!! Amazing actor!!!,76,4,Romel Alencastro,-mYYQu7cGAI,1.0,2017-05-30 02:59:35,True,True
+2017-05-30T03:14:32,Did james bond hit his head somewhere?,11,0,Rahul Vinod,-mYYQu7cGAI,0.0,2017-05-30 03:14:32,True,True
+2017-05-30T03:58:29,Craig's accent is killing me.,165,2,John Shull,-mYYQu7cGAI,0.0,2017-05-30 03:58:29,True,True
+2017-05-30T06:17:41,Finally a Kylo ren origin story :P,69,0,Raw,-mYYQu7cGAI,0.375,2017-05-30 06:17:41,True,True
+2017-05-30T06:37:28,"Kylo Ren, James Bond and WInter Soldier? I'm sold.",428,10,paladinluke37,-mYYQu7cGAI,0.0,2017-05-30 06:37:28,True,True
+2017-05-30T07:04:49,i expected SRK and got KRK in return,0,0,Rated PG,-mYYQu7cGAI,-0.1,2017-05-30 07:04:49,True,True
+2017-05-30T09:05:08,james blond,316,4,Rids T,-mYYQu7cGAI,0.0,2017-05-30 09:05:08,True,True
+2017-05-30T10:03:26,"Daniel Craig, and not a sign of posh-ness in that hillbilly accent.  So convincing that I didn't even recognize him until the halfway point.",122,6,Novikov_Principle,-mYYQu7cGAI,0.5,2017-05-30 10:03:26,True,True
+2017-05-30T11:16:50,make a bond movie with that accent,1,0,Hao Liu,-mYYQu7cGAI,0.0,2017-05-30 11:16:50,True,True
+2017-05-30T13:54:17,this look interesting,0,0,x x,-mYYQu7cGAI,0.5,2017-05-30 13:54:17,True,True
+2017-05-30T14:49:24,This is a great movie. I wish only Kate Holms wasn't in it.,3,2,Efi P,-mYYQu7cGAI,0.4,2017-05-30 14:49:24,True,True
+2017-05-30T14:51:56,Jerry! What are you doing there?,17,2,Yong-Hao Tan,-mYYQu7cGAI,0.0,2017-05-30 14:51:56,True,True
+2017-05-30T14:59:27,Like James Bond gone wasted! 🤣🤣🤣🤣,0,0,MissMia Perry,-mYYQu7cGAI,-0.25,2017-05-30 14:59:27,True,True
+2017-05-30T19:47:02,"Kylo quit the First Order, James Bond went in really deep undercover, and Bucky became a race car driver",0,0,SaltiRedbat,-mYYQu7cGAI,0.125,2017-05-30 19:47:02,True,True
+2017-05-31T04:49:12,daniel craig   is 007 hillbilly great,0,0,Joe Hall,-mYYQu7cGAI,0.8,2017-05-31 04:49:12,True,True
+2017-05-31T05:18:15,"Magic Mike, Kylo Ren and James Bond what can go wrong? 😁",0,0,Kid Peligro,-mYYQu7cGAI,0.0,2017-05-31 05:18:15,True,True
+2017-05-31T06:20:38,Daniel craig!!!....LOL..... can't wait to watch...,0,0,Superficial,-mYYQu7cGAI,0.0,2017-05-31 06:20:38,True,True
+2017-05-31T07:33:57,Adam Driver is rising so fast.....what did he do?,0,0,ohmytin,-mYYQu7cGAI,0.0,2017-05-31 07:33:57,True,True
+2017-05-31T09:05:24,1:44 da fuck?,0,0,Nicolas Vera,-mYYQu7cGAI,-0.4,2017-05-31 09:05:24,True,True
+2017-05-31T09:22:11,The blond guy looks like James Bond!,0,0,Emmett McGourty,-mYYQu7cGAI,0.0,2017-05-31 09:22:11,True,True
+2017-05-31T11:15:34,"For gods sake, keep this idiot out of government",0,0,Rich,-mYYQu7cGAI,-0.8,2017-05-31 11:15:34,True,True
+2017-05-31T13:13:56,looking old there 007,0,0,scooperman,-mYYQu7cGAI,0.1,2017-05-31 13:13:56,True,True
+2017-05-31T22:21:01,007 really let himself go...,1,0,KaijuComics,-mYYQu7cGAI,0.2,2017-05-31 22:21:01,True,True
+2017-06-01T05:22:47,not gonna lie i started to watch this to laugh at how dumb it prob was gonna be but now i actually wanna see it lol,0,0,Roman Alexander,-mYYQu7cGAI,0.18125000000000002,2017-06-01 05:22:47,True,True
+2017-06-01T08:09:15,double old 7,0,0,Curly Winston,-mYYQu7cGAI,0.05,2017-06-01 08:09:15,True,True
+2017-06-01T09:56:21,Craig rocks! Chameleon.,0,0,Magdalena Jabłońska,-mYYQu7cGAI,0.0,2017-06-01 09:56:21,True,True
+2017-06-01T10:03:03,Craig's American accent.. lol,0,0,Imran Becks,-mYYQu7cGAI,0.4,2017-06-01 10:03:03,True,True
+2017-06-01T13:41:35,I'ts like a bunch of Joe Dirt family there,0,0,yoga asix,-mYYQu7cGAI,0.0,2017-06-01 13:41:35,True,True
+2017-06-01T19:44:05,Omg Daniel Craig with short blond hair😅😂😜💕 Adam Driver😍💪💖,0,0,Animidala,-mYYQu7cGAI,0.0,2017-06-01 19:44:05,True,True
+2017-06-01T20:09:11,"You're in too deep, Mr. Bond",0,0,It's BeeRay,-mYYQu7cGAI,0.0,2017-06-01 20:09:11,True,True
+2017-06-02T00:16:32,"My name is Blonde, James Blonde. I know, i'll show my way out.",0,0,Mark Hill,-mYYQu7cGAI,0.0,2017-06-02 00:16:32,True,True
+2017-06-02T00:29:42,"And there's goes Tatum again, fucking up the movie from the start... pass",0,0,robslifting4life,-mYYQu7cGAI,-0.6,2017-06-02 00:29:42,True,True
+2017-06-02T02:26:17,"Buckey, James Bond & Kylo Ren... Heck yeah, I'm in!!!",8,0,Tito Abumere,-mYYQu7cGAI,0.0,2017-06-02 02:26:17,True,True
+2017-06-02T03:03:11,"I'm a simple man, I see Adam Driver and I hit 'dislike'.",0,0,IloveBaklava,-mYYQu7cGAI,0.0,2017-06-02 03:03:11,True,True
+2017-06-02T07:19:56,"This movie is so american, it stops the climate change. Hell yeah!",0,0,TheDollmaker28,-mYYQu7cGAI,0.0,2017-06-02 07:19:56,True,True
+2017-06-02T20:56:38,Oh James... retirement didn't sit too well with you did it?,0,0,Ali Butt,-mYYQu7cGAI,0.0,2017-06-02 20:56:38,True,True
+2017-06-02T22:03:06,James Bond. Kylo ren and magic mike. Looks interesting.,0,0,big mo,-mYYQu7cGAI,0.5,2017-06-02 22:03:06,True,True
+2017-06-02T22:55:15,Whitest Movie Ever.,0,0,GoldenGamer,-mYYQu7cGAI,0.0,2017-06-02 22:55:15,True,True
+2017-06-02T23:34:23,He gave up 007 for this!!!!!!,0,0,Chewy,-mYYQu7cGAI,0.0,2017-06-02 23:34:23,True,True
+2017-06-03T04:20:59,0:10  DAMMIT JERRY,1,0,Dot,-mYYQu7cGAI,0.0,2017-06-03 04:20:59,True,True
+2017-06-04T10:55:40,"This was supposed to be funny, right? First movie with Craig that I really not hoping to see.",0,0,Jacek Brzezowski,-mYYQu7cGAI,0.17142857142857143,2017-06-04 10:55:40,True,True
+2017-06-04T13:30:57,Daniel Craige has gone insane. Stay like this Daniel.,0,0,Mattia Tralli,-mYYQu7cGAI,-1.0,2017-06-04 13:30:57,True,True
+2017-06-04T14:24:14,I SAID NO PEEKIN,0,0,Gonkosan Roberto,-mYYQu7cGAI,0.0,2017-06-04 14:24:14,True,True
+2017-06-04T16:12:29,"""All the twitters, I know 'em!""",0,0,BadmashFactory,-mYYQu7cGAI,0.0,2017-06-04 16:12:29,True,True
+2017-06-04T16:29:08,"james bond,kylo ren,magic mike",0,0,Tony Stark,-mYYQu7cGAI,0.0,2017-06-04 16:29:08,True,True
+2017-06-04T17:38:02,Nope,0,0,Miles Rowland,-mYYQu7cGAI,0.0,2017-06-04 17:38:02,True,True
+2017-06-04T20:00:54,Did Bond bump his muh'fucking head and got lost in his secret identity...?,0,0,Toni Kavorkias,-mYYQu7cGAI,-0.5,2017-06-04 20:00:54,True,True
+2017-06-04T21:28:18,Magic Mike meets James Bond meets Kylo Ren!,0,0,Cinematteo Productions,-mYYQu7cGAI,0.625,2017-06-04 21:28:18,True,True
+2017-06-04T22:34:47,If 007 was a Villian :,0,0,Will,-mYYQu7cGAI,0.0,2017-06-04 22:34:47,True,True
+2017-06-05T00:05:15,1:01 That must be Donald Trump when he was young!,0,0,Deez Nuts,-mYYQu7cGAI,0.125,2017-06-05 00:05:15,True,True
+2017-06-05T00:50:47,Daniel Craig looks ridiculous,0,0,Brian Weaver,-mYYQu7cGAI,-0.3333333333333333,2017-06-05 00:50:47,True,True
+2017-06-05T01:10:06,Heya mate ! ! ! Fuck chart It looks for me like  truly  good job help  ..,0,0,Adam Lecomte,-mYYQu7cGAI,0.14999999999999997,2017-06-05 01:10:06,True,True
+2017-06-05T02:47:15,James Bond: Southern Accent Edition,0,0,da96103,-mYYQu7cGAI,0.0,2017-06-05 02:47:15,True,True
+2017-06-05T02:49:28,1:48 Daniels woke up and not killed by David?,0,0,da96103,-mYYQu7cGAI,0.1,2017-06-05 02:49:28,True,True
+2017-06-05T06:29:57,Who would've thunk that someday Katie Holmes is gonna be a part of this cast while Tom Cruise does The fucking Mummy?!,0,0,Akshaya Karanth,-mYYQu7cGAI,-0.75,2017-06-05 06:29:57,True,True
+2017-06-05T07:51:49,"when James bond, kylo ren , and Jeff became broke af",0,0,Zig Paulzz,-mYYQu7cGAI,0.0,2017-06-05 07:51:49,True,True
+2017-06-05T09:24:41,Two brothers.. In a van and then a meteor hit!,38,3,J-March,-mYYQu7cGAI,0.0,2017-06-05 09:24:41,True,True
+2017-06-05T09:39:55,it's just two brothers.,0,0,noeleonification,-mYYQu7cGAI,0.0,2017-06-05 09:39:55,True,True
+2017-06-05T14:10:45,The Force is with them. The dark side of force.,0,0,thefridgeman,-mYYQu7cGAI,-0.15,2017-06-05 14:10:45,True,True
+2017-06-05T14:48:47,Craig failing with the accent on a gigantic level.,0,0,Somer Tayyareci,-mYYQu7cGAI,0.0,2017-06-05 14:48:47,True,True
+2017-06-05T14:53:53,Whitexplotation. Can we make that a word?,0,0,Algoreus,-mYYQu7cGAI,0.0,2017-06-05 14:53:53,True,True
+2017-06-05T15:24:48,i'm here for it good casting minus Katie Holmes and  from the trailer it seems fun and enjoyable,0,0,TheSquad4life,-mYYQu7cGAI,0.35,2017-06-05 15:24:48,True,True
+2017-06-05T15:41:17,Man! whats the budget for this?!,0,0,Karl,-mYYQu7cGAI,0.0,2017-06-05 15:41:17,True,True
+2017-06-05T16:00:01,great another wanna be bad ass doing tricks with his guns smh these british actors are really getting annoying 😣😝😖,0,0,Jesus Hernandez,-mYYQu7cGAI,-0.09999999999999996,2017-06-05 16:00:01,True,True
+2017-06-05T16:32:28,1:01 Scotty P ?,0,0,John,-mYYQu7cGAI,0.0,2017-06-05 16:32:28,True,True
+2017-06-05T16:33:53,So...Logan isn't in this at all??,0,0,Ironman 5000,-mYYQu7cGAI,0.0,2017-06-05 16:33:53,True,True
+2017-06-05T16:38:13,How did the same two people have sex and one time Channing Tatum came out and the other time Adam Driver came out?,0,0,sloucho84,-mYYQu7cGAI,-0.0625,2017-06-05 16:38:13,True,True
+2017-06-05T16:39:50,"Srsly, Craig looks like Steve McQueen !",2,0,MrsHotChocolatet,-mYYQu7cGAI,0.0,2017-06-05 16:39:50,True,True
+2017-06-05T17:01:44,"So, Kylo Ren's lost a hand too huh?? :P",4,1,Vimal Adhithan,-mYYQu7cGAI,0.75,2017-06-05 17:01:44,True,True
+2017-06-05T17:17:10,oh bang Bang - looks like some great fun : ),0,0,missVmilne,-mYYQu7cGAI,0.5333333333333333,2017-06-05 17:17:10,True,True
+2017-06-05T17:59:06,77 people peeked,0,0,Mister O’Hern,-mYYQu7cGAI,0.0,2017-06-05 17:59:06,True,True
+2017-06-05T18:34:39,Straight consistently proper much function dinner painful pride.,0,0,Ilyes David,-mYYQu7cGAI,-0.07499999999999998,2017-06-05 18:34:39,True,True
+2017-06-05T18:38:00,shit-accent-off,0,0,dean robinson,-mYYQu7cGAI,0.0,2017-06-05 18:38:00,True,True
+2017-06-05T18:45:15,That accent. HELL NAWWW...,0,0,KungFuBlob,-mYYQu7cGAI,0.0,2017-06-05 18:45:15,True,True
+2017-06-05T19:27:32,whoa nice acting by Craig lol,0,0,Vinstinctify,-mYYQu7cGAI,0.4666666666666666,2017-06-05 19:27:32,True,True
+2017-06-05T21:26:03,That looks dumb.,0,0,Micah Woodward,-mYYQu7cGAI,-0.375,2017-06-05 21:26:03,True,True
+2017-06-05T21:44:13,dis luks laik fan,0,0,Alejandro Gallardo,-mYYQu7cGAI,0.0,2017-06-05 21:44:13,True,True
+2017-06-05T21:45:09,who else is spooked by Daniel Craigs gone accent?,6,0,FISHnFRIES,-mYYQu7cGAI,0.0,2017-06-05 21:45:09,True,True
+2017-06-05T21:50:32,only by watching the trailer I can say that it's an excellent performance by Craig .,0,0,AnnuNanno,-mYYQu7cGAI,0.5,2017-06-05 21:50:32,True,True
+2017-06-06T02:12:53,Million dollar baby is really retired from dead in this,0,0,being indifference,-mYYQu7cGAI,0.0,2017-06-06 02:12:53,True,True
+2017-06-06T04:03:46,Looks great,0,0,ReturnOfJackDawson,-mYYQu7cGAI,0.8,2017-06-06 04:03:46,True,True
+2017-06-06T07:56:48,"haha wow, looks fun, don't know bout them accents though :P",0,0,Zack Basson,-mYYQu7cGAI,0.3375,2017-06-06 07:56:48,True,True
+2017-06-06T08:06:22,Daniel Craig is fucking awesome! HIs comedy timing is perfect lol,0,0,RiddleWinter,-mYYQu7cGAI,0.9333333333333332,2017-06-06 08:06:22,True,True
+2017-06-06T09:02:00,Jean Paul Gaultier on steroids!!! why not...,0,0,D Dc,-mYYQu7cGAI,0.0,2017-06-06 09:02:00,True,True
+2017-06-06T09:21:50,James Bond looks like Duke Nukem,0,0,Prrey S.,-mYYQu7cGAI,0.0,2017-06-06 09:21:50,True,True
+2017-06-06T10:40:53,Daniel Craig really fucked up this film.,0,0,EdoHDpro,-mYYQu7cGAI,-0.6,2017-06-06 10:40:53,True,True
+2017-06-06T14:21:35,"why is there comedy in the title, where were the jokes",0,0,Axtmoerder,-mYYQu7cGAI,0.0,2017-06-06 14:21:35,True,True
+2017-06-06T14:38:20,"geeeee this looks bad, Daniel Craig wrong movie to have integrity this is a paycheck",0,0,warmwarn,-mYYQu7cGAI,-0.5999999999999999,2017-06-06 14:38:20,True,True
+2017-06-06T15:19:15,"Wait, Kylo Ren lost his arm in ""The Force Awakens""?",0,0,Johannes Julius,-mYYQu7cGAI,0.0,2017-06-06 15:19:15,True,True
+2017-06-06T15:31:19,This looks ok. Though the dipshit hammy southern accents are distracting.,0,0,bfshinn,-mYYQu7cGAI,0.25,2017-06-06 15:31:19,True,True
+2017-06-06T15:44:54,daniel craig completely transformed him self for this xD,0,0,Rhys Hall,-mYYQu7cGAI,0.1,2017-06-06 15:44:54,True,True
+2017-06-06T15:44:58,That thumbnail looked like a GTA 5 cut scene,0,0,Ryan Young,-mYYQu7cGAI,0.0,2017-06-06 15:44:58,True,True
+2017-06-06T16:03:28,You see his face but it doesn't sound anything like him!,0,0,immortaljanus,-mYYQu7cGAI,0.5,2017-06-06 16:03:28,True,True
+2017-06-06T16:22:56,That cast tho!,0,0,sdfg dfg,-mYYQu7cGAI,0.0,2017-06-06 16:22:56,True,True
+2017-06-06T17:22:52,I might actually watch this,0,0,max power,-mYYQu7cGAI,0.0,2017-06-06 17:22:52,True,True
+2017-06-06T17:35:35,You lost me on Seth Macfarlane.,0,0,Luis Carlos Alvarez Rebaza,-mYYQu7cGAI,0.0,2017-06-06 17:35:35,True,True
+2017-06-06T21:21:45,I said NO PEEKING,0,0,Airborne,-mYYQu7cGAI,0.0,2017-06-06 21:21:45,True,True
+2017-06-06T21:36:13,lol interesting,0,0,Seb B,-mYYQu7cGAI,0.65,2017-06-06 21:36:13,True,True
+2017-06-06T22:18:03,Daniel Craig really showing his range here. Talented guy!,0,0,MGSBigBoss77,-mYYQu7cGAI,0.5375,2017-06-06 22:18:03,True,True
+2017-06-07T01:03:07,all the twitters,0,0,Brandon Balkissoon,-mYYQu7cGAI,0.0,2017-06-07 01:03:07,True,True
+2017-06-07T01:54:42,DC is awesome. congratulations katie holmes for escaping tom cruise!,0,0,ghetto engine,-mYYQu7cGAI,1.0,2017-06-07 01:54:42,True,True
+2017-06-07T02:19:49,Blond. James Blond.,3,0,fцику мцику,-mYYQu7cGAI,0.0,2017-06-07 02:19:49,True,True
+2017-06-07T02:45:00,movie is going to flop,0,0,Naveen Silva,-mYYQu7cGAI,0.0,2017-06-07 02:45:00,True,True
+2017-06-07T03:10:09,i'm happy to see Hilary mother effin Swank!!!,0,1,Goodfella_ Gabe,-mYYQu7cGAI,1.0,2017-06-07 03:10:09,True,True
+2017-06-07T04:15:21,what is this directors obsession with channing tatum. jesus christ.,0,0,JBML007,-mYYQu7cGAI,0.0,2017-06-07 04:15:21,True,True
+2017-06-07T06:03:01,Coen bros,0,0,Vile Fiend,-mYYQu7cGAI,0.0,2017-06-07 06:03:01,True,True
+2017-06-07T06:06:48,i thought this is gonna be the sequel to that Logan movie 😂,1,0,deni sherlock,-mYYQu7cGAI,0.0,2017-06-07 06:06:48,True,True
+2017-06-07T08:51:46,Did Donald Trump direct this movie?,0,0,Matt Maki,-mYYQu7cGAI,0.1,2017-06-07 08:51:46,True,True
+2017-06-07T11:37:59,James Bond got insane after M's death,75,1,ZestAther,-mYYQu7cGAI,-1.0,2017-06-07 11:37:59,True,True
+2017-06-07T12:05:42,Looks great!,0,0,John Hooper,-mYYQu7cGAI,1.0,2017-06-07 12:05:42,True,True
+2017-06-07T12:31:44,Craig looks really good in this.,1,0,High Thoughts,-mYYQu7cGAI,0.7,2017-06-07 12:31:44,True,True
+2017-06-07T13:39:13,HIS NAME IS JEFF,0,0,Happy User,-mYYQu7cGAI,0.0,2017-06-07 13:39:13,True,True
+2017-06-07T14:28:30,i cannot take Daniel Craig seriously! LOL after all the James Bond and British accents,0,0,Charlie Tango,-mYYQu7cGAI,0.4,2017-06-07 14:28:30,True,True
+2017-06-07T19:32:26,хуйня с геями,0,0,Себастьян Перейро,-mYYQu7cGAI,0.0,2017-06-07 19:32:26,True,True
+2017-06-07T19:44:16,Tanya Branning from Eastenders at 2:03,0,0,"Alan ""The Lad"" Barnes",-mYYQu7cGAI,0.0,2017-06-07 19:44:16,True,True
+2017-06-07T21:55:24,This film looks good and Daniel Graik looks sick in it but he shouldn't have had American accent he should have stock with he's English accent that would have made the film much funnier,0,0,Michael Duke,-mYYQu7cGAI,0.03714285714285713,2017-06-07 21:55:24,True,True
+2017-06-07T22:22:19,NASCAR's 11?,0,0,TrueSake,-mYYQu7cGAI,0.0,2017-06-07 22:22:19,True,True
+2017-06-07T23:04:14,I don't think I would be advertising that I directed oceans 12 and certainly not 13... yikes,0,0,John Spry,-mYYQu7cGAI,-0.10714285714285714,2017-06-07 23:04:14,True,True
+2017-06-08T00:55:26,I will defiantly see this! Unlike how I will definitely not see Hillary Clinton become president!,0,0,Evan Harris,-mYYQu7cGAI,0.0,2017-06-08 00:55:26,True,True
+2017-06-08T01:37:07,Daniel Craig Cable in Deadpool 2 Right now |:,0,0,Laurelion o' Thaliondor,-mYYQu7cGAI,0.2857142857142857,2017-06-08 01:37:07,True,True
+2017-06-08T03:24:45,"so, finally danial craig gets a movie beside james bond",21,5,Life know Everything,-mYYQu7cGAI,0.0,2017-06-08 03:24:45,True,True
+2017-06-08T04:44:56,Where the hell Laura ?!,0,0,Laura Pillsforall,-mYYQu7cGAI,0.0,2017-06-08 04:44:56,True,True
+2017-06-08T06:47:53,0:38 sounds like blake shelton but he's not in the cast :o,0,0,Paul Schierl,-mYYQu7cGAI,0.05,2017-06-08 06:47:53,True,True
+2017-06-08T09:55:26,"I am about to get naked so no peeking. I said no peeking , Daniel Craig is gonna make my piss my pants in this movir",0,0,marlon hiwat,-mYYQu7cGAI,0.0,2017-06-08 09:55:26,True,True
+2017-06-08T11:10:33,Farcry 5 trailer here looks really awsome,0,0,priit mölder,-mYYQu7cGAI,0.2,2017-06-08 11:10:33,True,True
+2017-06-08T13:46:09,why do daniel look like the singer from rammstein lol,0,0,Briefcase Joe,-mYYQu7cGAI,0.8,2017-06-08 13:46:09,True,True
+2017-06-08T14:29:25,Yeeehaaaw Bond!!!,1,0,Fernando Sánchez Sánchez,-mYYQu7cGAI,0.0,2017-06-08 14:29:25,True,True
+2017-06-08T15:04:44,2:00 oh hey,0,0,Random Jane,-mYYQu7cGAI,0.0,2017-06-08 15:04:44,True,True
+2017-06-08T17:55:54,looks shit.,1,0,thebatman1019,-mYYQu7cGAI,-0.2,2017-06-08 17:55:54,True,True
+2017-06-08T18:15:01,How is no one saying anything about Gary/Gerrie/Jerry!?,0,0,Mitchell Christy,-mYYQu7cGAI,0.0,2017-06-08 18:15:01,True,True
+2017-06-09T01:28:12,"What an unfortunate choice of words... The same year as ""Logan"", man...",0,0,EpisódioUM,-mYYQu7cGAI,-0.25,2017-06-09 01:28:12,True,True
+2017-06-09T02:43:28,Change the title LOGAN was not lucky... it was a very sad and moving story.... #Logan,2,0,Leman,-mYYQu7cGAI,-0.4083333333333333,2017-06-09 02:43:28,True,True
+2017-06-09T04:57:22,Yes!!!  Can't wait!,0,0,j k,-mYYQu7cGAI,0.0,2017-06-09 04:57:22,True,True
+2017-06-09T06:13:59,These accents are terrible.,0,0,marijumanji,-mYYQu7cGAI,-1.0,2017-06-09 06:13:59,True,True
+2017-06-09T09:25:51,I thought it was Ninja from The Antwoord..,1,0,miloshsh,-mYYQu7cGAI,0.0,2017-06-09 09:25:51,True,True
+2017-06-09T09:34:21,Oh this is gonna be good)),0,0,Стас Швед,-mYYQu7cGAI,0.7,2017-06-09 09:34:21,True,True
+2017-06-09T09:35:51,Everything about this movie looks awesome! Craig nails that accent,0,0,genkisensei,-mYYQu7cGAI,1.0,2017-06-09 09:35:51,True,True
+2017-06-09T11:29:24,James Bond's secretly recording a new movie,0,0,Bryan Fox,-mYYQu7cGAI,-0.13181818181818183,2017-06-09 11:29:24,True,True
+2017-06-09T12:10:59,"This is gonna be a really fun movie, has a Quentin Tarantino/Edgar Wright feel to it.",0,0,Jeremy Clarkson,-mYYQu7cGAI,0.3,2017-06-09 12:10:59,True,True
+2017-06-09T13:06:28,How low budget is this film?,0,0,Derek Navarro,-mYYQu7cGAI,0.0,2017-06-09 13:06:28,True,True
+2017-06-09T14:48:48,James BLONDE . . . . . . . . get it?,0,0,BezBez,-mYYQu7cGAI,0.0,2017-06-09 14:48:48,True,True
+2017-06-09T15:34:54,this is going to be a big failure at the box office,0,0,Octavio M. V. Oneto,-mYYQu7cGAI,-0.15833333333333335,2017-06-09 15:34:54,True,True
+2017-06-09T16:09:36,Earn back disaster guudhh teen no light suffering attack.,0,0,Constance Marchal,-mYYQu7cGAI,-0.06666666666666667,2017-06-09 16:09:36,True,True
+2017-06-09T16:30:47,looks great,0,0,Sp246,-mYYQu7cGAI,0.8,2017-06-09 16:30:47,True,True
+2017-06-09T17:18:28,Only thing this trailer was missing was a Bald Eagle,0,0,TJCS,-mYYQu7cGAI,-0.1,2017-06-09 17:18:28,True,True
+2017-06-09T19:11:41,you lost me at the coke 600 is the biggest race of the year lmao,0,0,Josh,-mYYQu7cGAI,0.6,2017-06-09 19:11:41,True,True
+2017-06-09T19:23:02,This movie looks awesome!,0,0,EB,-mYYQu7cGAI,1.0,2017-06-09 19:23:02,True,True
+2017-06-09T22:35:12,OH MY GOD,0,0,Adam Cole,-mYYQu7cGAI,0.0,2017-06-09 22:35:12,True,True
+2017-06-09T22:46:41,Daniel Craig should play a bond villain,0,0,Rajiv Makhanlal,-mYYQu7cGAI,0.0,2017-06-09 22:46:41,True,True
+2017-06-09T23:48:49,lol what an odd bunch....hope it works out,0,0,ir4kk,-mYYQu7cGAI,0.3166666666666667,2017-06-09 23:48:49,True,True
+2017-06-10T01:21:05,This looks awesome!,0,0,LPguy26,-mYYQu7cGAI,1.0,2017-06-10 01:21:05,True,True
+2017-06-10T01:47:48,Casting looks horrendous. And the southern accents really need work.,0,0,dukenukemgamer,-mYYQu7cGAI,0.1,2017-06-10 01:47:48,True,True
+2017-06-10T01:56:35,Trump Voters: The Movie brought to you by the New York Theatre Company.,0,0,degaulle30,-mYYQu7cGAI,0.13636363636363635,2017-06-10 01:56:35,True,True
+2017-06-10T02:52:59,the moment he open his mouth hahahahahahahahaha,0,0,Ed Kho,-mYYQu7cGAI,0.0,2017-06-10 02:52:59,True,True
+2017-06-10T05:28:45,i'd like to see a movie of american/british actors playing an aussie accent characters. fook ye mate.,0,0,Dare David,-mYYQu7cGAI,0.0,2017-06-10 05:28:45,True,True
+2017-06-10T20:50:30,damn it's nice to see Daniel Craig smile.,0,0,Techtonic Tips,-mYYQu7cGAI,0.44999999999999996,2017-06-10 20:50:30,True,True
+2017-06-10T21:11:24,awkward movie name right after we seen Logan :DDD,0,0,Nostalgic memories,-mYYQu7cGAI,-0.15714285714285714,2017-06-10 21:11:24,True,True
+2017-06-11T06:46:31,"a ren Knight , a winter soldier , a stripper and James Bond go in a bar...",0,0,Luca Vaeni Mihalache,-mYYQu7cGAI,0.0,2017-06-11 06:46:31,True,True
+2017-06-11T08:38:11,Seth MacFarlane? Family Guy Seth MacFarlane??!?!,0,0,Speedy Gunz,-mYYQu7cGAI,0.0,2017-06-11 08:38:11,True,True
+2017-06-11T09:06:48,All the twitters I know em,0,0,Jordinho Charles,-mYYQu7cGAI,0.0,2017-06-11 09:06:48,True,True
+2017-06-11T10:16:38,";,( I could never be poor and stupid enough for this movie..",0,0,Soup R. Mann,-mYYQu7cGAI,-0.39999999999999997,2017-06-11 10:16:38,True,True
+2017-06-11T10:22:45,"Cool, I like Channing Tatum, fun to see ""Kylo Ren"" do fun part and James Bond on this...it´s gonna be som f.....WTF!!! SETH MACFARLANE?!....Give me this movie....now!!! xD",0,0,Womtek,-mYYQu7cGAI,0.5499999999999999,2017-06-11 10:22:45,True,True
+2017-06-12T03:12:52,Daniel Craig  is gonna be epic in thia movie lmao.,0,0,rocawill23,-mYYQu7cGAI,0.35,2017-06-12 03:12:52,True,True
+2017-06-12T05:12:53,Finally a real funny movie i can watch this year.,0,0,Benjamin Trif,-mYYQu7cGAI,0.375,2017-06-12 05:12:53,True,True
+2017-06-12T17:51:59,FINALLY A GOOD MOVIE,0,0,Rynleik,-mYYQu7cGAI,0.7,2017-06-12 17:51:59,True,True
+2017-06-12T19:55:06,Looks weird seeing Daniel Craig in deep South accent,0,0,Al S,-mYYQu7cGAI,-0.25,2017-06-12 19:55:06,True,True
+2017-06-13T01:52:50,I want to watch it now,0,0,shawn walker,-mYYQu7cGAI,0.0,2017-06-13 01:52:50,True,True
+2017-06-13T02:24:51,LOGAN IS DEAD! GET OVER IT!,0,0,Chujowy Pomysł,-mYYQu7cGAI,-0.3125,2017-06-13 02:24:51,True,True
+2017-06-13T04:26:32,Looks funny as hell but if he denied doing a bond film for this then I'll just have to kill myself,0,0,johnalbo100,-mYYQu7cGAI,0.25,2017-06-13 04:26:32,True,True
+2017-06-13T20:13:55,So weird to hear Daniel Craig talk with an American accent...,0,0,Blue Collar Power,-mYYQu7cGAI,-0.25,2017-06-13 20:13:55,True,True
+2017-06-14T08:35:58,بخور,0,0,Danial Abu Hasan,-mYYQu7cGAI,0.0,2017-06-14 08:35:58,True,True
+2017-06-14T17:24:39,Wolverine 3 no bacon,0,0,Kang The Creator,-mYYQu7cGAI,0.0,2017-06-14 17:24:39,True,True
+2017-06-14T20:23:13,Is this a competiton for worst southern accent?,1,0,johnty fiveofive,-mYYQu7cGAI,-0.5,2017-06-14 20:23:13,True,True
+2017-06-14T22:53:09,WTF?,0,0,Pablo,-mYYQu7cGAI,-0.5,2017-06-14 22:53:09,True,True
+2017-06-15T00:49:40,I wanna watch it when it will be released ?,0,0,TheBengacz,-mYYQu7cGAI,0.0,2017-06-15 00:49:40,True,True
+2017-06-15T06:42:28,"jerry, the guy from 21 jump street, kylo ren, and james bond plan to steal some money",0,0,hvf26,-mYYQu7cGAI,0.0,2017-06-15 06:42:28,True,True
+2017-06-15T06:44:10,craig looks like a character from hitman blood money in this,0,0,hvf26,-mYYQu7cGAI,0.0,2017-06-15 06:44:10,True,True
+2017-06-15T13:33:09,Here i was thinking james bond was a classy guy,0,0,sillyz 59,-mYYQu7cGAI,0.1,2017-06-15 13:33:09,True,True
+2017-06-15T13:51:20,I thought Daniel Craig was English?,1,2,FoodforThought,-mYYQu7cGAI,0.0,2017-06-15 13:51:20,True,True
+2017-06-15T17:11:29,Daniel rocks again ...,0,0,Arbaaz Malik,-mYYQu7cGAI,0.0,2017-06-15 17:11:29,True,True
+2017-06-15T19:24:27,Afro-Ninja at 2:06,1,0,David Lofton,-mYYQu7cGAI,0.0,2017-06-15 19:24:27,True,True
+2017-06-16T01:27:50,yes! another heist movie! finally!,0,0,TXR Bullet,-mYYQu7cGAI,0.0,2017-06-16 01:27:50,True,True
+2017-06-16T01:38:11,Seems like Bond didn't recover so we'll from his last relapse after M's death,2,0,Olin Scharm,-mYYQu7cGAI,0.0,2017-06-16 01:38:11,True,True
+2017-06-16T04:57:24,"Yep, going to go see this.",0,0,xerox7142,-mYYQu7cGAI,0.0,2017-06-16 04:57:24,True,True
+2017-06-16T05:10:40,Will I ever be able to take James Bond seriously after this...,0,0,Kenny N,-mYYQu7cGAI,0.08333333333333334,2017-06-16 05:10:40,True,True
+2017-06-16T10:58:41,WHY MI6 WHY ??????????!!!!!!!!!!!!!!!!!!!,0,0,Sigiman,-mYYQu7cGAI,0.0,2017-06-16 10:58:41,True,True
+2017-06-16T21:36:58,how did they get Hillary Swank and Daniel Craig to be in this abortion of a movie ? that will go right to redbox  i hate nascar. maybe it will be ok. no Stroker Ace though haha,0,0,Jason West,-mYYQu7cGAI,0.046428571428571416,2017-06-16 21:36:58,True,True
+2017-06-16T22:16:20,"*The Names Blonde, Camp Blonde*",0,0,Aslan Khedira Diego,-mYYQu7cGAI,0.0,2017-06-16 22:16:20,True,True
+2017-06-16T23:31:34,"Daniel Craig, Channing Tatum is good but i dont like adam driver you may switch roles with tom hardy - channing tatum , i like to see both in same movie looks like bros serious and soft",0,0,S,-mYYQu7cGAI,0.11666666666666667,2017-06-16 23:31:34,True,True
+2017-06-17T02:27:33,Logan is not quite lucky dude,0,0,Dave Hardy,-mYYQu7cGAI,0.3333333333333333,2017-06-17 02:27:33,True,True
+2017-06-18T12:45:33,Daniel Craig's southern accent needs a bit of work,0,0,Homie Heist,-mYYQu7cGAI,0.0,2017-06-18 12:45:33,True,True
+2017-06-18T14:45:04,My name a Bond,0,0,Mulch Diggums,-mYYQu7cGAI,0.0,2017-06-18 14:45:04,True,True
+2017-06-18T14:48:58,I. CANT. WAIT!!!,0,0,Joe Healy,-mYYQu7cGAI,0.0,2017-06-18 14:48:58,True,True
+2017-06-18T16:52:45,This looks incredible. Hope it turns out well,1,0,SeaJayB,-mYYQu7cGAI,0.9,2017-06-18 16:52:45,True,True
+2017-06-19T03:58:12,"Wow, not a good look for Daniel Craig. Guess he really wanted to do something totally different.",0,0,T Ly,-mYYQu7cGAI,-0.01249999999999999,2017-06-19 03:58:12,True,True
+2017-06-19T06:01:35,Kylo Ren,0,0,Nightwing.,-mYYQu7cGAI,0.0,2017-06-19 06:01:35,True,True
+2017-06-19T07:13:36,This is going to be a bad movie.,0,0,Anicodeaufo 59,-mYYQu7cGAI,-0.6999999999999998,2017-06-19 07:13:36,True,True
+2017-06-19T11:42:16,I don't think most people will get past Craig's lousy accent.,0,0,Sancho G,-mYYQu7cGAI,-0.08333333333333333,2017-06-19 11:42:16,True,True
+2017-06-19T15:25:05,Is this the best movie ever made?,0,0,Josh w,-mYYQu7cGAI,1.0,2017-06-19 15:25:05,True,True
+2017-06-19T19:11:51,This look entertaining .,0,0,Daniel Green,-mYYQu7cGAI,0.5,2017-06-19 19:11:51,True,True
+2017-06-19T19:55:02,I can't stand Adam Driver,0,0,Subscribe to this channel for literally no reason,-mYYQu7cGAI,0.0,2017-06-19 19:55:02,True,True
+2017-06-20T11:44:14,"Wtf is is Magic Mike, Kylo Ren, Peter Griffin, Winter Soldier and fucking James Bond doing? Is this going to be good?",0,0,waste25sec,-mYYQu7cGAI,0.024999999999999994,2017-06-20 11:44:14,True,True
+2017-06-20T17:13:36,James Blond meets Talladega Nights,0,0,James D,-mYYQu7cGAI,0.0,2017-06-20 17:13:36,True,True
+2017-06-20T17:18:37,kylo ren and jeff,0,0,Anthony Bartolo,-mYYQu7cGAI,0.0,2017-06-20 17:18:37,True,True
+2017-06-21T02:54:52,daniel stimulating that hillbilly accent hahahahha,0,0,Αλεχιοσ ξομμυνιστ Βρεακερ,-mYYQu7cGAI,0.0,2017-06-21 02:54:52,True,True
+2017-06-21T12:54:04,I look at all the comments and I realize you are all blind. Bear with me and realize you guys are hypnotized. Search YouTube for Walmart and illuminati and those videos for open your mind,0,0,noneyour business,-mYYQu7cGAI,-0.25,2017-06-21 12:54:04,True,True
+2017-06-21T21:40:11,00Apalachia.,0,0,Court Beall,-mYYQu7cGAI,0.0,2017-06-21 21:40:11,True,True
+2017-06-22T07:31:54,Personally I think whichever actor plays James Bond during his tenor with the franchise should stick to it exclusively.,1,0,Polpiv4tifish,-mYYQu7cGAI,0.0,2017-06-22 07:31:54,True,True
+2017-06-22T10:41:40,It feels like Daniel Crais is trying too hard to prove he can do more than James Bond.,0,0,Andrea Diagbouga,-mYYQu7cGAI,0.10416666666666666,2017-06-22 10:41:40,True,True
+2017-06-22T14:09:48,kylo ren will soon lose his arm too,0,0,WindChimes,-mYYQu7cGAI,0.0,2017-06-22 14:09:48,True,True
+2017-06-23T05:12:39,"Why does it say: ""Introducing Daniel Craig""?",0,0,supahtyp,-mYYQu7cGAI,0.0,2017-06-23 05:12:39,True,True
+2017-06-23T06:29:35,KYLO.... KILO BOND,0,0,Juan Rodriguez,-mYYQu7cGAI,0.0,2017-06-23 06:29:35,True,True
+2017-06-23T19:51:37,Blue's Brother's Talledegda Nights Mash up,0,0,Roy Staggers,-mYYQu7cGAI,0.0,2017-06-23 19:51:37,True,True
+2017-06-24T04:34:00,*LOGAN LUCKY* starring...  - Magic Mike - Kylo Ren - James Bond - The Winter Soldier - Peter Griffin,0,0,Ethan Samau,-mYYQu7cGAI,0.41666666666666663,2017-06-24 04:34:00,True,True
+2017-06-24T04:37:06,"HAHAHAHA OMG Daniel Craigs voice in this, nice to see him doing a comedy",0,0,felicia niessen,-mYYQu7cGAI,0.4,2017-06-24 04:37:06,True,True
+2017-06-24T14:11:51,KKona the movie,0,0,TheChunkeyNinja,-mYYQu7cGAI,0.0,2017-06-24 14:11:51,True,True
+2017-06-24T18:37:34,"I'm a simple man. I see Daniel Craig on the thumbnail, I click the video.",0,0,shanmukha boora,-mYYQu7cGAI,0.0,2017-06-24 18:37:34,True,True
+2017-06-24T19:31:34,What kind of Kylo Ren is this?,0,0,Charlie Turner,-mYYQu7cGAI,0.6,2017-06-24 19:31:34,True,True
+2017-06-24T22:21:12,shouldve gotten shia,0,0,Leslie Zani,-mYYQu7cGAI,0.0,2017-06-24 22:21:12,True,True
+2017-06-24T23:01:09,Daniel Craig needs more roles like this one!,0,0,TouchTheSky,-mYYQu7cGAI,0.625,2017-06-24 23:01:09,True,True
+2017-06-25T15:28:49,Daniel Craig sold it for me.,0,0,Jonathan Sowards,-mYYQu7cGAI,0.0,2017-06-25 15:28:49,True,True
+2017-06-25T18:05:28,"Maybe I've been programmed, but why do i think their accent sounds under educated? (Hill billy like) is that patriotic? Sorry if I'm offensive, its a serous question.",0,0,taimer 86,-mYYQu7cGAI,-0.5,2017-06-25 18:05:28,True,True
+2017-06-26T04:36:15,"Yeah yeah Kylo, James Bond, and Winter Soldier. No one else cares about Jerry Gergich??",0,0,James Bean,-mYYQu7cGAI,0.0,2017-06-26 04:36:15,True,True
+2017-06-27T02:07:17,Wow They must be brain dead is they think I'm going to go watch this shit,0,0,H-,-mYYQu7cGAI,-0.10000000000000002,2017-06-27 02:07:17,True,True
+2017-06-27T02:22:59,didn't even make me crack a smile. bunch of dramatic  talent wasted on some slap stick shit. mel brooks is rolling over,0,0,J. Shmoe,-mYYQu7cGAI,-0.13333333333333333,2017-06-27 02:22:59,True,True
+2017-06-27T02:37:54,Daniel Craig? Say no more,0,0,christian Long,-mYYQu7cGAI,-0.25,2017-06-27 02:37:54,True,True
+2017-06-27T06:50:14,im in,0,0,Echo omni,-mYYQu7cGAI,0.0,2017-06-27 06:50:14,True,True
+2017-06-27T21:24:26,"""I said no peakin!""   That shit had me rollin",0,0,Hippo Ivory,-mYYQu7cGAI,-0.2,2017-06-27 21:24:26,True,True
+2017-06-28T06:22:35,bloody hell james bond laughing giggly..!,0,0,chicken hat,-mYYQu7cGAI,-1.0,2017-06-28 06:22:35,True,True
+2017-06-28T17:20:09,Who else thought this was somehow related to the Logan movie? Also what's Kylo Ren doing here?,1,0,Love Hate,-mYYQu7cGAI,0.0,2017-06-28 17:20:09,True,True
+2017-06-28T23:04:32,I was sold when I saw Seth McFarlane,0,0,larshoneytoast33,-mYYQu7cGAI,0.0,2017-06-28 23:04:32,True,True
+2017-06-29T02:43:22,I remember when I hated Channing Tatum. Then 21 Jump Street happened. Now I'm happy to see him in movies.,0,0,snagglewolf,-mYYQu7cGAI,-0.04999999999999999,2017-06-29 02:43:22,True,True
+2017-06-29T16:22:35,Is this the new Grand Theft Auto trailer?,0,0,Son Göki,-mYYQu7cGAI,0.3181818181818182,2017-06-29 16:22:35,True,True
+2017-06-29T23:16:53,this movie is low for craig,0,0,TUBE DUD,-mYYQu7cGAI,0.0,2017-06-29 23:16:53,True,True
+2017-06-30T04:38:17,"wow, is that Daniel Craig?",0,0,Boring Trader,-mYYQu7cGAI,0.1,2017-06-30 04:38:17,True,True
+2017-06-30T07:56:59,Gran actuación del rubio de los morancos.,2,0,Hoodie Boogie,-mYYQu7cGAI,0.0,2017-06-30 07:56:59,True,True
+2017-06-30T14:51:30,accents were god awful,0,0,mablib412,-mYYQu7cGAI,-1.0,2017-06-30 14:51:30,True,True
+2017-06-30T15:16:49,this looks like a Tarantino's,0,0,Taha Mebtoul,-mYYQu7cGAI,0.0,2017-06-30 15:16:49,True,True
+2017-06-30T16:05:37,wtf i couldnt say that it was Daniel^^ but this looks damn fun... im in!,0,0,Hanibaltherogue,-mYYQu7cGAI,-0.0625,2017-06-30 16:05:37,True,True
+2017-06-30T16:08:01,great performance by Hugh Jackman!,0,0,Mark Airwind,-mYYQu7cGAI,1.0,2017-06-30 16:08:01,True,True
+2017-06-30T18:26:04,is this hollywoods attempt to appeal to the middle class after trumps victory,0,0,Michael Stewart,-mYYQu7cGAI,0.0,2017-06-30 18:26:04,True,True
+2017-06-30T21:46:14,I'm not sure what's going on here,0,0,Jesus Bueno,-mYYQu7cGAI,-0.25,2017-06-30 21:46:14,True,True
+2017-07-01T00:08:49,"i think the trailer honestly isnt that great, but the movie should be fine",0,0,Anxiety Ebriety,-mYYQu7cGAI,0.6055555555555555,2017-07-01 00:08:49,True,True
+2017-07-01T01:06:10,!,1,0,Zachary Taylor,-mYYQu7cGAI,0.0,2017-07-01 01:06:10,True,True
+2017-07-01T06:06:04,This looks good - love all the actors!,0,0,J Smith,-mYYQu7cGAI,0.6625,2017-07-01 06:06:04,True,True
+2017-07-01T09:51:29,unfortunately it's not a Shane Black movie...,0,0,MK Ultra,-mYYQu7cGAI,0.04166666666666667,2017-07-01 09:51:29,True,True
+2017-07-01T09:53:54,Poor and stupid.,0,0,nvl571,-mYYQu7cGAI,-0.6,2017-07-01 09:53:54,True,True
+2017-07-01T10:03:27,kylo ren and magic mike,0,0,Burak Kivanc,-mYYQu7cGAI,0.5,2017-07-01 10:03:27,True,True
+2017-07-01T12:38:35,"""Oh this is gonna be good...""",0,0,nikos spanos,-mYYQu7cGAI,0.7,2017-07-01 12:38:35,True,True
+2017-07-02T04:12:56,....Oh my god ....Daniels just awesome! LOL!!!,0,0,B-MAN,-mYYQu7cGAI,1.0,2017-07-02 04:12:56,True,True
+2017-07-02T08:56:28,"James Bond, Jenko and Kylo Ren teaming up??? This is gonna be GOOD!!!!",1,0,TheSovietSnail,-mYYQu7cGAI,1.0,2017-07-02 08:56:28,True,True
+2017-07-02T20:28:13,Craig looks like Mayhem Miller in this,0,0,denis1110,-mYYQu7cGAI,0.0,2017-07-02 20:28:13,True,True
+2017-07-02T21:59:03,That voice coming out of Daniel Craig is just too uncanny,0,0,neyo509,-mYYQu7cGAI,0.0,2017-07-02 21:59:03,True,True
+2017-07-03T00:31:56,"I feel like this was written with normal voices in mind and then a producer said "" Gimme some-a them Southern accents people laugh at"".",0,0,John Smith,-mYYQu7cGAI,0.15,2017-07-03 00:31:56,True,True
+2017-07-03T01:07:33,nope,0,0,Samir Dubois,-mYYQu7cGAI,0.0,2017-07-03 01:07:33,True,True
+2017-07-03T10:45:26,Craig looks awesome,0,0,Altair Ibn La-Ahad,-mYYQu7cGAI,1.0,2017-07-03 10:45:26,True,True
+2017-07-03T11:28:17,If what happen to Raoul Silva happened to 007 this would be him.,0,0,Agressive Pigeon,-mYYQu7cGAI,0.0,2017-07-03 11:28:17,True,True
+2017-07-03T17:28:26,what happened to james bond?,0,0,Unknown X,-mYYQu7cGAI,0.0,2017-07-03 17:28:26,True,True
+2017-07-03T21:40:42,thank god for the Coen brothers,0,0,Kevin Beattie,-mYYQu7cGAI,0.0,2017-07-03 21:40:42,True,True
+2017-07-03T23:07:14,interested until I saw seth macfarlane in it. Won't support that pos idiot.,0,0,Mystery Science Gaming 3000,-mYYQu7cGAI,-0.275,2017-07-03 23:07:14,True,True
+2017-07-04T01:54:50,"what happened to kylo's arm...oh...nevermind, darth vader and luke also lost their arm, don't be so sad kylo",0,0,Napalm Man,-mYYQu7cGAI,-0.5,2017-07-04 01:54:50,True,True
+2017-07-04T02:37:41,"I can't tell if Daniel Craig is trying his Oscar worthy best to act as a hillybilly, or he's taking the piss big time.",0,0,ACMA61,-mYYQu7cGAI,0.4444444444444444,2017-07-04 02:37:41,True,True
+2017-07-04T11:29:06,really awsome BTW Duke Nukem the movie ft Daniel Craig,0,0,nvt nvt,-mYYQu7cGAI,0.2,2017-07-04 11:29:06,True,True
+2017-07-04T14:02:12,Shit I though this is the next Wolverine movie,1,0,Vu Nguyen,-mYYQu7cGAI,-0.1,2017-07-04 14:02:12,True,True
+2017-07-04T21:41:04,"Expected Daniel Craig to sing Hyper, Hyper...",0,0,Lars Gallwitz,-mYYQu7cGAI,-0.1,2017-07-04 21:41:04,True,True
+2017-07-05T01:18:53,"This movie is gonna flop. It never fails how Hollywood will pack a movie movie full big name actors, but give the movie a shitty plot and terrible dialog",0,0,Pat C,-mYYQu7cGAI,-0.1,2017-07-05 01:18:53,True,True
+2017-07-05T21:13:03,So Kylo Ren gets a hand cut off? :) #prophecyofthecutoff?,0,0,André Sternberg,-mYYQu7cGAI,0.5,2017-07-05 21:13:03,True,True
+2017-07-06T19:03:07,1:02 Is that one of Trevor's from GTA V friends?,0,0,Rytis K.,-mYYQu7cGAI,0.0,2017-07-06 19:03:07,True,True
+2017-07-07T01:13:34,They're Making a left turn!!!!!!!,0,0,Miriton Delihasani,-mYYQu7cGAI,0.0,2017-07-07 01:13:34,True,True
+2017-07-07T06:19:51,from the thumbnail i thought that was Joe Montana,0,0,Dan Niven,-mYYQu7cGAI,0.0,2017-07-07 06:19:51,True,True
+2017-07-07T14:06:40,Can't tell if it's a bad trailer or bad movie,0,0,Jason Wood,-mYYQu7cGAI,-0.6999999999999998,2017-07-07 14:06:40,True,True
+2017-07-08T12:15:51,WTF happened to Katie Holmes?,0,0,ibex33,-mYYQu7cGAI,-0.5,2017-07-08 12:15:51,True,True
+2017-07-08T15:17:54,What part was supposed to make me laugh? BOMB,0,0,Hey There,-mYYQu7cGAI,0.3,2017-07-08 15:17:54,True,True
+2017-07-08T16:20:14,That is massively stupid!,0,0,Black Lightyear,-mYYQu7cGAI,-0.9999999999999999,2017-07-08 16:20:14,True,True
+2017-07-08T16:29:04,เขาไม่รู้สึกกันเลยหรือยังไงว่านักแสดงที่เลือกมาแสดงมันแย่โครตๆ มันทำให้เหล้าหอมๆไม่มีรสชาต ไม่รู้สงครามเรื่องนี้จะจบเมื่อไหร่ หวังว่าเสร็จเลือกตั้งจะไม่มีเรื่องบ่น,0,0,นายสุรัตน์ พัฒนเพ็ญ,-mYYQu7cGAI,0.0,2017-07-08 16:29:04,True,True
+2017-07-08T17:05:00,"James Bond, Kylo Ren, and Jeff.",0,0,fattydingdongs,-mYYQu7cGAI,0.0,2017-07-08 17:05:00,True,True
+2017-07-08T18:58:25,Incredibly excited to see Daniel Craig in this one.,0,0,Shayne Cahill,-mYYQu7cGAI,0.375,2017-07-08 18:58:25,True,True
+2017-07-11T14:38:35,James Bond couldn't handle the bullshit @ MI6 anymore?,0,0,Alexander Wolle,-mYYQu7cGAI,0.0,2017-07-11 14:38:35,True,True
+2017-07-12T21:34:44,"I'm telling you, if this isn't Daniel Craig's way to show Warner Bros, that he can be a Frank Gorshin-esque Riddler (come to Reality)  to meet up with Ben Affleck's Batman in the next Solo Movie......  Then We need to get Kevin Smith to talk up this idea, PRONTO..........",0,0,Kapt Blasto,-mYYQu7cGAI,0.0,2017-07-12 21:34:44,True,True
+2017-07-13T22:30:53,"Potentially good movie, really weak trailer.",0,0,whosniffedme,-mYYQu7cGAI,0.16249999999999998,2017-07-13 22:30:53,True,True
+2017-07-14T21:04:33,"Man those accents are so forced, this is gonna be sad.",0,0,Mike Hunt,-mYYQu7cGAI,-0.4,2017-07-14 21:04:33,True,True
+2017-07-15T05:10:11,Looks awesome!,0,0,Jordan Kidd,-mYYQu7cGAI,1.0,2017-07-15 05:10:11,True,True
+2017-07-15T07:47:54,be better without the women...,0,0,5starcomment,-mYYQu7cGAI,0.5,2017-07-15 07:47:54,True,True
+2017-07-16T02:30:31,...Daniel?,0,0,Awesomanous,-mYYQu7cGAI,0.0,2017-07-16 02:30:31,True,True
+2017-07-17T02:18:30,Daniel Craig is an underrated/underutilized actor and there is a 90% chance that I a going to like this movie.,0,0,IHMadeThis,-mYYQu7cGAI,0.0,2017-07-17 02:18:30,True,True
+2017-07-18T00:46:39,Kylo Ren aaaand his name is Jeff in da hood yo!,0,0,Nitrogen Narcosis,-mYYQu7cGAI,0.0,2017-07-18 00:46:39,True,True
+2017-07-19T15:08:12,daniel craig sounds simply amazing in this role XD i did not even imagine he could do comedy,0,0,w wyborn,-mYYQu7cGAI,0.6000000000000001,2017-07-19 15:08:12,True,True
+2017-07-20T04:14:53,Daniel Craig's american accent is laughable,0,1,Rajendra Nadarajan,-mYYQu7cGAI,-0.25,2017-07-20 04:14:53,True,True
+2017-07-20T18:29:36,I said no peeking!,0,0,Hello,-mYYQu7cGAI,0.0,2017-07-20 18:29:36,True,True
+2017-07-20T20:00:26,"I hate Channing Tatum, but I'm going to give this movie a chance.",0,0,José Neto,-mYYQu7cGAI,-0.8,2017-07-20 20:00:26,True,True
+2017-07-21T06:49:03,"Wait, I didn't expect us to get a sequel to Logan this soon.",0,0,Jack Napier,-mYYQu7cGAI,0.0,2017-07-21 06:49:03,True,True
+2017-07-22T19:59:41,da fuck happened to katie homes she look like an old woman now,0,0,Execute order 66,-mYYQu7cGAI,-0.15000000000000002,2017-07-22 19:59:41,True,True
+2017-07-24T15:20:25,Does southern accents make me cringe.,0,0,shawn lowery,-mYYQu7cGAI,0.0,2017-07-24 15:20:25,True,True
+2017-07-27T09:39:29,can't wait till I see Riley Keough on the big screen again,0,0,Tareqdoc,-mYYQu7cGAI,0.0,2017-07-27 09:39:29,True,True
+2017-07-30T08:01:19,"Tom Hiddleston can't date Taylor Swift if he wants to be bond but Daniel Craig can do this 😢  fyi I'm not anti Daniel Craig I love him and this film looks fun but I am pro Tom Hiddleston for next bond, just venting anger 😂😂",0,0,Callum McDougall,-mYYQu7cGAI,0.06000000000000001,2017-07-30 08:01:19,True,True
+2017-08-05T17:30:04,cart isolate as fantasy round gathering suffer controversy off only,0,0,adam thomas,-mYYQu7cGAI,-0.1,2017-08-05 17:30:04,True,True
+2017-08-05T19:30:17,it's like Bad Lip Reading made this trailer,2,0,Piotr Michałowski,-mYYQu7cGAI,-0.6999999999999998,2017-08-05 19:30:17,True,True
+2017-08-06T13:01:30,quite owner watch tool beam educate tape simply baseball oversee next lead.,0,0,gabriel sauer,-mYYQu7cGAI,0.0,2017-08-06 13:01:30,True,True
+2017-08-08T02:37:59,Lmfao Daniel Craig was never meant to be Bond and frankly he was mediocre at best as Bond but this shit looks perfect.,0,0,Bearded Patriot,-mYYQu7cGAI,0.325,2017-08-08 02:37:59,True,True
+2017-08-12T04:30:16,Adam Driver as a Driver :v,0,0,Rafa Perazza,-mYYQu7cGAI,0.0,2017-08-12 04:30:16,False,True
+2017-08-18T03:22:16,Craig...must...get...OSCAR,0,0,Shauna Nelson,-mYYQu7cGAI,0.0,2017-08-18 03:22:16,False,True
+2017-08-18T03:23:56,Ah sud new paekin!,0,0,Shauna Nelson,-mYYQu7cGAI,0.17045454545454544,2017-08-18 03:23:56,False,True
+2017-08-20T02:55:06,Since when did James Bond become a cross of Forest Gump and Jim Varney?,0,0,boldsign,-mYYQu7cGAI,0.0,2017-08-20 02:55:06,False,True
+2017-08-22T05:53:00,Daniel Craig is really a good actor,0,0,burns83,-mYYQu7cGAI,0.7,2017-08-22 05:53:00,False,True
+2017-08-22T05:53:37,James Blond,0,0,burns83,-mYYQu7cGAI,0.0,2017-08-22 05:53:37,False,True
+2017-08-24T17:55:34,INTRODUCING DANIEL FUCKING CRAAAAAAAAIG,0,0,Eros Swan,-mYYQu7cGAI,-0.6,2017-08-24 17:55:34,False,True
+2017-08-25T02:12:08,Don't peek....I'm naked. :P,0,0,Michael Fang,-mYYQu7cGAI,0.375,2017-08-25 02:12:08,False,True
+2017-09-02T08:47:39,This will be a hoot a must see and I'm from the south!,0,0,Robyn Heavner,-mYYQu7cGAI,0.0,2017-09-02 08:47:39,False,True
+2017-09-04T16:25:50,Mediocre. Trying too hard to be funny. Could have been a good action movie.,0,0,Unity,-mYYQu7cGAI,0.05166666666666664,2017-09-04 16:25:50,False,True
+2017-09-06T20:13:12,Watch free online full mvie first here : https://www.freecinemamovies.online/logan-lucky-2017-watch-free-online-full-movie/,0,0,cristofer cristofer,-mYYQu7cGAI,0.3333333333333333,2017-09-06 20:13:12,False,True
+2017-09-12T16:32:44,lol the ad was the trailer for the same movie but in german xD,0,0,Viktor Cruise,-mYYQu7cGAI,0.26666666666666666,2017-09-12 16:32:44,False,True
+2017-09-17T16:47:14,2:20,0,0,tae smellsbad,-mYYQu7cGAI,0.0,2017-09-17 16:47:14,False,True
+2017-09-27T22:41:11,crair looks like a dick in that.....looks great,0,0,AZURE official,-mYYQu7cGAI,0.8,2017-09-27 22:41:11,False,True
+2017-10-08T23:23:31,"Good Lord up in heaven, Katie Holmes is luscious!",0,0,Ucmh,-mYYQu7cGAI,0.875,2017-10-08 23:23:31,False,True
+2017-10-13T11:19:49,Gawdamit that shtupid southern accent !!,0,0,Mahmoud El Arch,-mYYQu7cGAI,0.0,2017-10-13 11:19:49,False,True
+2017-10-16T08:51:32,All da twitters.. I know em..   Im gunna watch this just because of that one line lmao,0,0,Hearing Visions,-mYYQu7cGAI,0.6,2017-10-16 08:51:32,False,True
+2017-10-22T18:37:09,looks ACE,0,0,Darry,-mYYQu7cGAI,0.0,2017-10-22 18:37:09,False,True
+2017-10-24T01:15:31,finally we can see the talents of craig,1,0,Ege Erdem,-mYYQu7cGAI,0.0,2017-10-24 01:15:31,False,True
+2017-11-15T16:10:50,"Coca Cola 600 XD sad enough that i have to ask, but is this a joke or does there really exist an offical car-race in the usa with that name??",0,0,KillKenny09,-mYYQu7cGAI,-0.09999999999999999,2017-11-15 16:10:50,False,True
+2017-11-19T11:50:11,super crapo shit,0,0,SKYFALL,-mYYQu7cGAI,0.06666666666666665,2017-11-19 11:50:11,False,False
+2017-11-20T07:11:27,"Kylo Ren, Ted, Winter Soldier, Magic Mike and James Bond",0,0,Metro City Ninja,-mYYQu7cGAI,0.5,2017-11-20 07:11:27,False,False
+2017-12-04T18:24:35,he looks like hes having a gas,0,0,DOUGLAS HOTCHKISS,-mYYQu7cGAI,0.0,2017-12-04 18:24:35,False,False
+2017-12-08T07:37:23,"While others movies seem to be great based on the trailers. The movies themselves are complete garbage. This movie had a terrible trailer, but was a surprisingly great movie.",0,0,TheTjomegasparks,-mYYQu7cGAI,0.17500000000000002,2017-12-08 07:37:23,False,False
+2017-12-13T12:16:32,what happen to 007,0,0,Uno Kram,-mYYQu7cGAI,0.0,2017-12-13 12:16:32,False,False
+2018-01-24T20:49:35,"Tried watching this, I thought it sucked...stupid",0,0,Brian Jones,-mYYQu7cGAI,0.0,2018-01-24 20:49:35,False,False
+2018-02-25T21:01:55,Best movie of 2017,1,0,Spec D,-mYYQu7cGAI,1.0,2018-02-25 21:01:55,False,False
+2018-03-14T21:23:24,Szar film,1,0,Alex Kovács,-mYYQu7cGAI,0.0,2018-03-14 21:23:24,False,False
+2018-08-09T09:15:36,"Lover, lover of this kind of movies. Nice actors. Lovelly story. 14:0",1,0,Egle Davidsoniene,-mYYQu7cGAI,0.6,2018-08-09 09:15:36,False,False
+2019-04-16T08:34:16,Whoa didn't expected suave James bond actor playing as someone below James bond as a mad looking thug!,0,0,Steve,-mYYQu7cGAI,-0.440625,2019-04-16 08:34:16,False,False
+2019-12-16T01:50:45,"WOW, what a cast!",0,0,Lisa Lotwin,-mYYQu7cGAI,0.125,2019-12-16 01:50:45,False,False
+2020-02-03T20:30:40,007 after Spectre,0,0,SuperNicko Harris,-mYYQu7cGAI,0.0,2020-02-03 20:30:40,False,False
+2020-03-09T22:07:41,"Nice movie, great cast, interesting plot, Mr. Craig's acting is ... amazing. 3 out of 5 stars.",0,0,Fútbol Total,-mYYQu7cGAI,0.5,2020-03-09 22:07:41,False,False
+2020-03-16T23:43:56,"The name is Blonde, James Blonde.",0,0,Oakus Lodgus,-mYYQu7cGAI,0.0,2020-03-16 23:43:56,False,False

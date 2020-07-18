@@ -1,0 +1,790 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2015-04-17T17:34:42,hallo,0,0,29chinois,3ViVPRWRRmk,0.0,2015-04-17 17:34:42,True,True
+2015-04-17T17:36:49,Cool!,4,0,Phoenix CZ,3ViVPRWRRmk,0.4375,2015-04-17 17:36:49,True,True
+2015-04-17T17:48:04,5th like,0,0,Zarar naseem,3ViVPRWRRmk,0.0,2015-04-17 17:48:04,True,True
+2015-04-17T17:48:05,Hello pls react ,0,0,Mirjam Kamphorst,3ViVPRWRRmk,0.0,2015-04-17 17:48:05,True,True
+2015-04-17T17:48:25,Looks boring,1,5,sairah,3ViVPRWRRmk,-1.0,2015-04-17 17:48:25,True,True
+2015-04-17T17:48:27,This movie is DOPE,1,0,Mirjam Kamphorst,3ViVPRWRRmk,0.0,2015-04-17 17:48:27,True,True
+2015-04-17T18:09:21,Ok this is some fresh shit! Can't wait for this.,2,0,Aleksandar Kospenda,3ViVPRWRRmk,0.18333333333333335,2015-04-17 18:09:21,True,True
+2015-04-17T18:11:17,Song?,0,0,elvisbautista1,3ViVPRWRRmk,0.0,2015-04-17 18:11:17,True,True
+2015-04-17T18:11:35,"Wow! A$AP Rocky and Vince (?, 1:42) in a movie? Sooo thrilled.  Can't wait till i see this hoodnigga going big big. You know whats good a$ap.  Stay NYC.",15,2,jodawgsup,3ViVPRWRRmk,0.285,2015-04-17 18:11:35,True,True
+2015-04-17T18:13:56,Looks Dope. ;),472,8,ℓαυяιєOG,3ViVPRWRRmk,0.25,2015-04-17 18:13:56,True,True
+2015-04-17T18:14:17,costumes / styling looks like the best thing in this piece of sfilm,1,0,Luke Burnette,3ViVPRWRRmk,1.0,2015-04-17 18:14:17,True,True
+2015-04-17T18:17:19,I am so ready for this movie,2,0,Sammy Mwase,3ViVPRWRRmk,0.2,2015-04-17 18:17:19,True,True
+2015-04-17T18:23:03,the main black person actor guy human person looks cute,0,0,Lucas Dunham,3ViVPRWRRmk,0.125,2015-04-17 18:23:03,True,True
+2015-04-17T18:30:01,it looks wiggity wiggity wiggity whack,0,0,Carlos Gallon,3ViVPRWRRmk,0.0,2015-04-17 18:30:01,True,True
+2015-04-17T18:31:24,"So clean, but soo poor.",0,0,This Is Google,3ViVPRWRRmk,-0.016666666666666663,2015-04-17 18:31:24,True,True
+2015-04-17T18:33:45,Everybody be servin' looks in this movie! I LIVE! Can't wait!,45,17,Angelina Bob,3ViVPRWRRmk,0.2130681818181818,2015-04-17 18:33:45,True,True
+2015-04-17T18:39:03,This film looks dope!,4,0,TriHard cmonBruh,3ViVPRWRRmk,0.0,2015-04-17 18:39:03,True,True
+2015-04-17T18:39:31,This kid looks like a youn Morris Chestnut.,82,4,Top5NoQuestions,3ViVPRWRRmk,0.0,2015-04-17 18:39:31,True,True
+2015-04-17T18:41:08,Looks like a pretty cool movie I will have to check it out,18,0,Slaughda Radio LLC,3ViVPRWRRmk,0.3,2015-04-17 18:41:08,True,True
+2015-04-17T18:41:44,Isn't that the dude from Cartoon Network?,20,6,Billybiscuits13,3ViVPRWRRmk,0.0,2015-04-17 18:41:44,True,True
+2015-04-17T18:44:41,It's nice to see Zero in another movie!,1,0,MichealPercy Jackson,3ViVPRWRRmk,0.75,2015-04-17 18:44:41,True,True
+2015-04-17T18:45:32,tyler the creator should have play the  main character,0,0,shawn gibson,3ViVPRWRRmk,0.16666666666666666,2015-04-17 18:45:32,True,True
+2015-04-17T18:46:31,Seems legit :P ,2,0,NinHawk,3ViVPRWRRmk,0.75,2015-04-17 18:46:31,True,True
+2015-04-17T18:50:55,This looks great and it got my boy from workaholics so I gots to watch this ,0,1,T Man,3ViVPRWRRmk,0.8,2015-04-17 18:50:55,True,True
+2015-04-17T19:00:49,Can't wait <3,0,0,Titxnium-_-,3ViVPRWRRmk,1.0,2015-04-17 19:00:49,True,True
+2015-04-17T19:05:57,Always Strive And Prosper Rocky,1,0,Mu Mo,3ViVPRWRRmk,0.0,2015-04-17 19:05:57,True,True
+2015-04-17T19:06:09,"Lol, this is fantasy movie? would there be dragons?",0,1,kravar,3ViVPRWRRmk,0.8,2015-04-17 19:06:09,True,True
+2015-04-17T19:07:29,Thrash movie trailer showed everything. ,0,0,TrumpCorp.,3ViVPRWRRmk,0.0,2015-04-17 19:07:29,True,True
+2015-04-17T19:12:01,The trailer started good and then it turn into an mtv film. Only retards like these kind of movies.,0,2,MrPornogoregrinder,3ViVPRWRRmk,0.09999999999999998,2015-04-17 19:12:01,True,True
+2015-04-17T19:18:44,0:20 song?,0,1,Joel Lerner,3ViVPRWRRmk,0.0,2015-04-17 19:18:44,True,True
+2015-04-17T19:20:28,racist slap reflex is from get hard,35,4,Senso Rieskin,3ViVPRWRRmk,-0.2916666666666667,2015-04-17 19:20:28,True,True
+2015-04-17T19:22:09,This looks so good ,34,0,King Keifer,3ViVPRWRRmk,0.7,2015-04-17 19:22:09,True,True
+2015-04-17T19:42:57,HAHAHAHA Vince Staples my man lmao ,0,0,Cozy Boy Borna,3ViVPRWRRmk,0.4,2015-04-17 19:42:57,True,True
+2015-04-17T19:44:31,Oh I so want to see this movie,4,0,stephen white,3ViVPRWRRmk,0.0,2015-04-17 19:44:31,True,True
+2015-04-17T19:52:49,"7,9/10",0,0,Sven,3ViVPRWRRmk,0.0,2015-04-17 19:52:49,True,True
+2015-04-17T20:00:52,"This movie looks pretty ""DOPE""!!! :)",2,0,Dpro Boss,3ViVPRWRRmk,0.494140625,2015-04-17 20:00:52,True,True
+2015-04-17T20:02:10,Looks decent enought to watch it on putlocker a yer after i comes out,0,0,HelloItsMe,3ViVPRWRRmk,0.16666666666666666,2015-04-17 20:02:10,True,True
+2015-04-17T20:03:03,Whats the name of the song around the 00:20 mark? ,0,0,bazzkii,3ViVPRWRRmk,0.0,2015-04-17 20:03:03,True,True
+2015-04-17T20:04:33,A$ap Rocky. ,23,0,Donyea Mosley,3ViVPRWRRmk,0.0,2015-04-17 20:04:33,True,True
+2015-04-17T20:09:34,Shits pretty dope!,2,0,kabtastick,3ViVPRWRRmk,0.3125,2015-04-17 20:09:34,True,True
+2015-04-17T20:29:50,Gotta see this sht,1,0,rasta samauri,3ViVPRWRRmk,0.0,2015-04-17 20:29:50,True,True
+2015-04-17T20:35:28,It's the guy from grand Budapest,151,6,jonno,3ViVPRWRRmk,0.5,2015-04-17 20:35:28,True,True
+2015-04-17T20:39:13,Is that A$AP Rocky?,0,0,Dante Briones,3ViVPRWRRmk,0.0,2015-04-17 20:39:13,True,True
+2015-04-17T20:42:42,"😂😂My boy Vince Staples llf in this joint, movie might be 65hunnid degrees ",2,0,Tyrone Biggums aka Duke,3ViVPRWRRmk,0.0,2015-04-17 20:42:42,True,True
+2015-04-17T20:48:23,This movie's dope maaaaaan,0,0,Boogster Su,3ViVPRWRRmk,0.0,2015-04-17 20:48:23,True,True
+2015-04-17T20:49:18,😂😂Huge coincidence that dude wearin blue suede 3s at 01:39 and vince staples is in the movie too lol ,0,0,Tyrone Biggums aka Duke,3ViVPRWRRmk,0.4,2015-04-17 20:49:18,True,True
+2015-04-17T21:08:39,This movie is going to be Dope.,2,0,Jameel Scott,3ViVPRWRRmk,0.0,2015-04-17 21:08:39,True,True
+2015-04-17T21:11:10,Kiersey Clemons is beautiful!,6,0,Simeon Washington,3ViVPRWRRmk,1.0,2015-04-17 21:11:10,True,True
+2015-04-17T21:27:46,"ah so many ""dope"" jokes...",1,0,CPBCAL,3ViVPRWRRmk,0.5,2015-04-17 21:27:46,True,True
+2015-04-17T21:33:16,its like i am seeing and hearing young don cheadle. i am glad they are spinning black people stereotypes comedy style,0,0,BatmanFANizationReborn,3ViVPRWRRmk,0.14444444444444446,2015-04-17 21:33:16,True,True
+2015-04-17T21:40:46,I've been waiting for this movie to be released since forever!,0,0,Davila Doll,3ViVPRWRRmk,0.0,2015-04-17 21:40:46,True,True
+2015-04-17T21:48:09,Garbage,0,0,boh0555,3ViVPRWRRmk,0.0,2015-04-17 21:48:09,True,True
+2015-04-17T22:17:46,"Well, that looks incredibly stupid.",0,0,JonO387,3ViVPRWRRmk,-0.7999999999999999,2015-04-17 22:17:46,True,True
+2015-04-17T22:17:59,OOOOOOOH SHIIIIIIIT ASAP ROOOOOOOOCKY!!!!!!!!!,0,0,Austin123p0rk,3ViVPRWRRmk,0.0,2015-04-17 22:17:59,True,True
+2015-04-17T22:37:02,Zoe Kravitz will forever have me slain with her looks oh my godddd,2,0,Ethan Ani,3ViVPRWRRmk,0.0,2015-04-17 22:37:02,True,True
+2015-04-17T22:43:44,This feels like a black version of Good Will Haunting,0,0,StoneyYoniHour,3ViVPRWRRmk,0.26666666666666666,2015-04-17 22:43:44,True,True
+2015-04-17T22:57:26,Great to finally see a full trailer of what this movie is about. We are definitely on board.,0,0,Pierre Films,3ViVPRWRRmk,0.2875,2015-04-17 22:57:26,True,True
+2015-04-17T23:24:41,trailer looks legit,0,0,mercadojglb,3ViVPRWRRmk,0.0,2015-04-17 23:24:41,True,True
+2015-04-17T23:32:49,Did he say suspect at 1:30 ? TF,0,0,martin v,3ViVPRWRRmk,0.0,2015-04-17 23:32:49,True,True
+2015-04-18T00:06:07,Vince Staples and A$AP Rocky,0,0,LxA Fante,3ViVPRWRRmk,0.0,2015-04-18 00:06:07,True,True
+2015-04-18T00:13:19,Looks fun.,0,0,jamauln1,3ViVPRWRRmk,0.3,2015-04-18 00:13:19,True,True
+2015-04-18T00:42:54,brotha got the cross colours on hahaha,0,0,Marcus Drew,3ViVPRWRRmk,0.1,2015-04-18 00:42:54,True,True
+2015-04-18T01:04:54,Shit Looks Wack!!,0,0,BruffDaddy,3ViVPRWRRmk,-0.3125,2015-04-18 01:04:54,True,True
+2015-04-18T01:40:14,I wish zoe kravitz would just go away..,2,5,zeekmorris,3ViVPRWRRmk,0.0,2015-04-18 01:40:14,True,True
+2015-04-18T02:20:16,"What is that name of the girl that says ""You play with me, my little boy from the hood?"" At 1:44 she looks like a darker Jennifer Lawrence.",8,4,Sean Stanley,3ViVPRWRRmk,-0.1875,2015-04-18 02:20:16,True,True
+2015-04-18T02:27:42,Looks fun,0,0,Jalen Livingston,3ViVPRWRRmk,0.3,2015-04-18 02:27:42,True,True
+2015-04-18T02:46:14,omg it looks so goood,0,0,Dirlon Mercy,3ViVPRWRRmk,0.0,2015-04-18 02:46:14,True,True
+2015-04-18T02:59:10,Damn that trailer was DOPE,0,0,Josh Spicer,3ViVPRWRRmk,0.0,2015-04-18 02:59:10,True,True
+2015-04-18T03:58:54,Zoe Kravitz looks amazing :3,3,0,Kristovsky,3ViVPRWRRmk,0.55,2015-04-18 03:58:54,True,True
+2015-04-18T04:05:49,Some idiot felt nostalgic and made a movie about the irrelevant past depicting it'd era too strongly for its time like they always do,0,0,XY ZW,3ViVPRWRRmk,-0.3233333333333333,2015-04-18 04:05:49,True,True
+2015-04-18T04:20:04,pretty excited about this one,0,0,Daily Dose of Lynz,3ViVPRWRRmk,0.3125,2015-04-18 04:20:04,True,True
+2015-04-18T05:22:52,chanel iman (asap rocky's ex) in a movie with asap rocky........,0,0,Bolteboy76,3ViVPRWRRmk,0.0,2015-04-18 05:22:52,True,True
+2015-04-18T07:11:34,This trailer is just confusing....,0,0,Dre Ray,3ViVPRWRRmk,-0.3,2015-04-18 07:11:34,True,True
+2015-04-18T07:16:17,I was ready to trash this but I was hasty I need to see this movie! ,0,0,Nikita Love,3ViVPRWRRmk,0.25,2015-04-18 07:16:17,True,True
+2015-04-18T07:20:30,What year is this movie set in the 90s?,12,13,janirwin16,3ViVPRWRRmk,0.0,2015-04-18 07:20:30,True,True
+2015-04-18T07:22:55,Song?,0,0,TheBurgundyRobot,3ViVPRWRRmk,0.0,2015-04-18 07:22:55,True,True
+2015-04-18T07:44:08,HYPED!,0,0,YounginCarter,3ViVPRWRRmk,0.0,2015-04-18 07:44:08,True,True
+2015-04-18T07:51:34,The trailer looks dope...,0,0,Epic Mayur,3ViVPRWRRmk,0.0,2015-04-18 07:51:34,True,True
+2015-04-18T08:28:29,blake!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! wish ders and adam could be in this movie,0,0,dum dumii,3ViVPRWRRmk,0.0,2015-04-18 08:28:29,True,True
+2015-04-18T11:57:23,Looks DOPE!,0,0,Film Gob,3ViVPRWRRmk,0.0,2015-04-18 11:57:23,True,True
+2015-04-18T12:16:38,Dope ok... Everything nice...,0,0,Racheal Brown,3ViVPRWRRmk,0.55,2015-04-18 12:16:38,True,True
+2015-04-18T12:23:27,*DOPE* as nice or *DOPE* as drug?,0,0,Ben G,3ViVPRWRRmk,0.6,2015-04-18 12:23:27,True,True
+2015-04-18T12:29:15,That nigga's name look Nigerian...Bet he wasn't born there ,4,16,Adekunbi salako,3ViVPRWRRmk,0.0,2015-04-18 12:29:15,True,True
+2015-04-18T14:01:22,Defoe gonna see this,0,0,Mr Yeboah,3ViVPRWRRmk,0.0,2015-04-18 14:01:22,True,True
+2015-04-18T14:09:55,Wait wait wait... wait wait wait WAIT!!!!! So that movie is about geeks who hate life and they turn popular because by some mysteries they ended up dealing drugs and now they are cool? Superb movie for the teenagers... for real.,7,5,Diadlo,3ViVPRWRRmk,0.26999999999999996,2015-04-18 14:09:55,True,True
+2015-04-18T14:27:00,i just saw this cuase i thought that was tosin abasi,0,0,bbtucci,3ViVPRWRRmk,0.0,2015-04-18 14:27:00,True,True
+2015-04-18T14:27:39,yo asap rocky funny asf lol slippery slope,0,0,Asap Jersey,3ViVPRWRRmk,0.525,2015-04-18 14:27:39,True,True
+2015-04-18T15:05:35,What a dope ,0,0,John,3ViVPRWRRmk,0.0,2015-04-18 15:05:35,True,True
+2015-04-18T15:52:49,Check this awesome soundtrack of DOPE in our channel!,0,0,Walking Hawking,3ViVPRWRRmk,1.0,2015-04-18 15:52:49,True,True
+2015-04-18T16:02:31,O shit I saw Vince Staples,0,0,Luis Torres,3ViVPRWRRmk,-0.2,2015-04-18 16:02:31,True,True
+2015-04-18T16:04:35,Is that the kid from _Grand Budhapest_?,0,0,Mau Jo,3ViVPRWRRmk,0.5,2015-04-18 16:04:35,True,True
+2015-04-18T16:44:44,Lowkey though. I'm more hyped for this than the avengers. Anyone saw the fire red 3's ? :D,0,0,nessy,3ViVPRWRRmk,0.5,2015-04-18 16:44:44,True,True
+2015-04-18T18:26:53,Could this be another (*Pun Intended) Dope hood movie????,0,0,Sean STROMAN,3ViVPRWRRmk,0.0,2015-04-18 18:26:53,True,True
+2015-04-18T19:33:40,Yes. But. Where is Forest Whitaker?,0,2,Pj Perez,3ViVPRWRRmk,0.0,2015-04-18 19:33:40,True,True
+2015-04-18T19:57:33,Looks like sum shit out of a 9th grade hipsters mind,0,0,BodgyHeats666,3ViVPRWRRmk,-0.2,2015-04-18 19:57:33,True,True
+2015-04-18T22:03:11,Name of soundtrack?,0,0,Aaron Sanchez,3ViVPRWRRmk,0.0,2015-04-18 22:03:11,True,True
+2015-04-19T00:09:11,Zoë Kravitz 😍😍😍,0,0,Ayo Ilesanmi,3ViVPRWRRmk,0.0,2015-04-19 00:09:11,True,True
+2015-04-19T00:28:59,Nope,2,2,Justwatch121,3ViVPRWRRmk,0.0,2015-04-19 00:28:59,True,True
+2015-04-19T00:29:12,looks sooo good great cast.,0,0,asdfghjkl9260,3ViVPRWRRmk,0.75,2015-04-19 00:29:12,True,True
+2015-04-19T00:33:04,Sure I'll go see it looks good,0,0,Fooly,3ViVPRWRRmk,0.6,2015-04-19 00:33:04,True,True
+2015-04-19T02:04:02,definitely going to see this when it drops. LOOKS DOPE,0,0,MrMaximum91,3ViVPRWRRmk,0.0,2015-04-19 02:04:02,True,True
+2015-04-19T13:10:35,Vince Staples,0,0,EDP,3ViVPRWRRmk,0.0,2015-04-19 13:10:35,True,True
+2015-04-19T13:35:16,Who likes it like this post if u do 😊,0,0,Zach Martin,3ViVPRWRRmk,0.0,2015-04-19 13:35:16,True,True
+2015-04-19T13:52:39,This movie is just oozing with personality.,0,0,Pixelated Dreams,3ViVPRWRRmk,0.0,2015-04-19 13:52:39,True,True
+2015-04-19T17:58:09,This looks.......... DOPE!!!,0,0,Jordan Cann,3ViVPRWRRmk,0.0,2015-04-19 17:58:09,True,True
+2015-04-19T21:33:04,It's a Black Version of Fast times at Rigemont High .The 1980s Movie With Sean Penn ,0,0,Esmond Lucan,3ViVPRWRRmk,0.06444444444444446,2015-04-19 21:33:04,True,True
+2015-04-20T00:34:10,Its that one kid from that show on Cartoon Network,0,0,Kumo_Black,3ViVPRWRRmk,0.0,2015-04-20 00:34:10,True,True
+2015-04-20T02:09:36,illuminati,0,0,Oz X,3ViVPRWRRmk,0.0,2015-04-20 02:09:36,True,True
+2015-04-20T04:12:21,A$AP Rocky is in it and Shameik Moore and I forgot the rest of their names.And I wanna see this Really Dope movie really bad bro,0,0,Super Master,3ViVPRWRRmk,-0.24999999999999992,2015-04-20 04:12:21,True,True
+2015-04-20T06:07:24,AAA$$$$$$$AAAAAAAPPPP,0,0,Jared hamilton,3ViVPRWRRmk,0.0,2015-04-20 06:07:24,True,True
+2015-04-20T07:00:20,this makes black people look even more bad.,6,52,Helen James,3ViVPRWRRmk,-0.12222222222222216,2015-04-20 07:00:20,True,True
+2015-04-20T10:20:07,"Really looks entertaining. IF i get to go the movies, i will watch this as well",0,0,bradlie1,3ViVPRWRRmk,0.35,2015-04-20 10:20:07,True,True
+2015-04-20T11:10:03,the music sounds horrible,0,0,INVO,3ViVPRWRRmk,-1.0,2015-04-20 11:10:03,True,True
+2015-04-20T11:12:40,what's the song?? not kendrick but the second one???? ,0,0,alice carrick-smith,3ViVPRWRRmk,0.0,2015-04-20 11:12:40,True,True
+2015-04-20T12:14:19,The girl blookinlikebrunomars,1,0,Jaimie Douglas,3ViVPRWRRmk,0.0,2015-04-20 12:14:19,True,True
+2015-04-20T16:54:48,14% African made me literally lmao & that makes me want to watch this film so I'll definitely go to the cinema when it releases,4,0,Ian Samuel,3ViVPRWRRmk,0.19999999999999998,2015-04-20 16:54:48,True,True
+2015-04-20T17:32:09,THIS looks good!,0,0,Ron Smith,3ViVPRWRRmk,0.875,2015-04-20 17:32:09,True,True
+2015-04-20T19:15:08,And now all the hipsters gonna flip out ,0,0,TheEdwardCC,3ViVPRWRRmk,0.0,2015-04-20 19:15:08,True,True
+2015-04-20T22:20:44,Hahaha,0,0,Lil_monte Morton02,3ViVPRWRRmk,0.2,2015-04-20 22:20:44,True,True
+2015-04-20T23:25:24,Is it supposed to be the 90's?,0,0,trap sam,3ViVPRWRRmk,0.0,2015-04-20 23:25:24,True,True
+2015-04-21T04:14:32,Zoe looks like her mom as she did in the 90's. Same long ass braids. I wonder if that's homage to her in a sense.,2,0,Rebel Scout,3ViVPRWRRmk,-0.025,2015-04-21 04:14:32,True,True
+2015-04-21T11:01:13, What's the track at 0:57? It's bugging me I don't remember ,0,0,Louierugby,3ViVPRWRRmk,0.0,2015-04-21 11:01:13,True,True
+2015-04-21T11:29:48,Please dont be as corny as it looks,1,0,Blvcksuit,3ViVPRWRRmk,0.0,2015-04-21 11:29:48,True,True
+2015-04-21T18:39:36,asap looool,0,0,Lewi Boome,3ViVPRWRRmk,0.0,2015-04-21 18:39:36,True,True
+2015-04-21T19:04:58,"OMG i wanna see this movie so bad, and i love its aesthetics !!",0,0,Anuarita M,3ViVPRWRRmk,0.04062500000000008,2015-04-21 19:04:58,True,True
+2015-04-22T00:52:31,impoverished minorities selling drugs to get into college. oh wait A$AP Rocky??? damn that makes me overlook everything this movie is about because a rapper is in it!,0,0,Jay Florence,3ViVPRWRRmk,0.0,2015-04-22 00:52:31,True,True
+2015-04-22T07:35:06,Lmfao! I have to see this.,0,0,noir.,3ViVPRWRRmk,0.0,2015-04-22 07:35:06,True,True
+2015-04-22T19:35:04,"Lol! Was that ""Slippery slope"" guy Vince Staples!?!?",0,0,Christian mccaig,3ViVPRWRRmk,1.0,2015-04-22 19:35:04,True,True
+2015-04-22T21:36:30,"OH, so the title is very literal.",1,0,smjai477,3ViVPRWRRmk,0.2,2015-04-22 21:36:30,True,True
+2015-04-23T00:20:33,Shit that movie is going to be dope,0,0,Jeffrey Mbelu,3ViVPRWRRmk,-0.2,2015-04-23 00:20:33,True,True
+2015-04-23T00:22:23,LOL @ the ending,0,0,johnosahon,3ViVPRWRRmk,0.8,2015-04-23 00:22:23,True,True
+2015-04-23T00:37:56,I dig it!,0,0,swishpronoob,3ViVPRWRRmk,0.0,2015-04-23 00:37:56,True,True
+2015-04-23T01:26:34,Ok I def want to see this ,0,0,Zana Lindsey,3ViVPRWRRmk,0.5,2015-04-23 01:26:34,True,True
+2015-04-23T06:17:21,2nd Song: Watch The Duck - Poppin' Off,0,0,fullmetalfriday,3ViVPRWRRmk,0.0,2015-04-23 06:17:21,True,True
+2015-04-23T06:29:19,Lol this looks kinda bomb....but where's quincy at?,0,0,Na'imah,3ViVPRWRRmk,0.8,2015-04-23 06:29:19,True,True
+2015-04-23T14:09:20,Who's that Bruno Mars looking kid HOLY SHIT HE'S A SHE?!?! Damn. I thought it was a guy for a sure.,0,0,TheMixu92,3ViVPRWRRmk,0.09375,2015-04-23 14:09:20,True,True
+2015-04-23T16:10:06,looks insulting,1,0,Nate watson,3ViVPRWRRmk,-1.0,2015-04-23 16:10:06,True,True
+2015-04-23T19:53:16,Jiggy niqqa... Dope shit,0,0,don ace,3ViVPRWRRmk,-0.2,2015-04-23 19:53:16,True,True
+2015-04-24T01:54:39,Whats the song that starts at 1:20?,0,0,Tracee Whatshername,3ViVPRWRRmk,0.0,2015-04-24 01:54:39,True,True
+2015-04-24T02:28:58,My high school!! ,0,0,taalicitlaalic29,3ViVPRWRRmk,0.25,2015-04-24 02:28:58,True,True
+2015-04-24T05:55:36,ASAP ROCKY??? FTW,0,0,Triple Threat Sports,3ViVPRWRRmk,0.0,2015-04-24 05:55:36,True,True
+2015-04-24T17:00:37,"this looks like a wierd, alternate version of 21",0,0,Mr Rizaz,3ViVPRWRRmk,0.0,2015-04-24 17:00:37,True,True
+2015-04-24T19:43:51,Omg Zoe Kravitz bae 😍,1,0,Danny B,3ViVPRWRRmk,0.0,2015-04-24 19:43:51,True,True
+2015-04-24T23:02:12,"Holy shit, a decent looingk film about black people that's not trying to trigger white guilt?  I'm down.",0,0,brushedlawyer99,3ViVPRWRRmk,-0.07111111111111112,2015-04-24 23:02:12,True,True
+2015-04-25T02:33:56,"Finally a non stereotypical movie about black ppl that shows a different perspective, add in Lisa Bonet and A$ap Rocky... I can't wait. ",0,0,Noble Vendetta,3ViVPRWRRmk,-0.16666666666666666,2015-04-25 02:33:56,True,True
+2015-04-25T07:28:31,"A future ""dom digs"".﻿",0,0,Arempy 58,3ViVPRWRRmk,0.0,2015-04-25 07:28:31,True,True
+2015-04-25T14:26:30,"This looks terrible.  Why do they continue to put money into movies like this?  Nevermind, I know why..",16,10,Danny Truth Magnified,3ViVPRWRRmk,-1.0,2015-04-25 14:26:30,True,True
+2015-04-25T19:50:02,Theres going to be sooo many white people in the theater seeing this,0,0,Bronson Mantooth,3ViVPRWRRmk,0.25,2015-04-25 19:50:02,True,True
+2015-04-26T04:51:34,Sundance received this pretty well.,0,0,VULCAN1135,3ViVPRWRRmk,0.25,2015-04-26 04:51:34,True,True
+2015-04-26T19:03:42,Where is tyga,0,0,TeflonDon,3ViVPRWRRmk,0.0,2015-04-26 19:03:42,True,True
+2015-04-27T00:29:18,I need to know the song in 1:36,0,0,Thomas S.,3ViVPRWRRmk,0.0,2015-04-27 00:29:18,True,True
+2015-04-27T05:55:26,"""Unless you got some boobies"" ",0,0,lilmagic55,3ViVPRWRRmk,0.0,2015-04-27 05:55:26,True,True
+2015-04-27T11:54:23,looks actually good!!,0,0,Aswin A,3ViVPRWRRmk,1.0,2015-04-27 11:54:23,True,True
+2015-04-27T13:20:56,Where are all the good screenwriters and directors? Can we please get a good movie this year? ,0,1,Summa summa time,3ViVPRWRRmk,0.7,2015-04-27 13:20:56,True,True
+2015-04-27T22:06:41,This looks..........dope,0,0,Stephen Marriott,3ViVPRWRRmk,0.0,2015-04-27 22:06:41,True,True
+2015-04-28T00:54:16,sigh* Que in the racist comments.,1,0,Angela,3ViVPRWRRmk,0.0,2015-04-28 00:54:16,True,True
+2015-04-28T02:12:28,seriously! this movie looks bomb AF!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! cant wait!,6,0,Briana Mia,3ViVPRWRRmk,-1.0,2015-04-28 02:12:28,True,True
+2015-04-28T04:35:01,"No they did not have that white boy try to say the ""NWord"". LOL!",0,0,HiroJa Shibe's Reviews,3ViVPRWRRmk,0.5,2015-04-28 04:35:01,True,True
+2015-04-28T22:20:51,What is the name of the last song that's played.,0,0,Alvin Johnson,3ViVPRWRRmk,0.0,2015-04-28 22:20:51,True,True
+2015-04-29T20:24:09,What song is playing in 56 secs after she tells him she'll go if he go?,0,0,Tiffany B,3ViVPRWRRmk,0.0,2015-04-29 20:24:09,True,True
+2015-04-30T17:53:53,I can't stop watching this trailer. Dat ending 😂,0,0,Piringo LaHardee,3ViVPRWRRmk,0.0,2015-04-30 17:53:53,True,True
+2015-04-30T17:59:58,0:33 looks like the girl from Eye candy!!!,0,0,leon george,3ViVPRWRRmk,0.0,2015-04-30 17:59:58,True,True
+2015-04-30T20:28:23,A$VP is reason why lot of ppl gona watch thiz,53,14,Patrik,3ViVPRWRRmk,0.0,2015-04-30 20:28:23,True,True
+2015-04-30T21:55:48,staring DON CHEADLE,0,0,Travis Niles,3ViVPRWRRmk,0.0,2015-04-30 21:55:48,True,True
+2015-05-01T00:09:02,Blacks can't be geeks. Everyone knows that black people are always cool. ,0,0,Tidus44,3ViVPRWRRmk,0.09166666666666666,2015-05-01 00:09:02,True,True
+2015-05-01T14:25:23,I've watched this trailer so many times finally a modern day movie with relatable teenagers in the black community  ✊🏿✊🏾🙌🏿🙌🏾 YASSSS #dope,2,0,Bianca Blu,3ViVPRWRRmk,0.17777777777777778,2015-05-01 14:25:23,True,True
+2015-05-01T15:43:56,"Wow, @ 0:39 Zoë Kravitz looks straight up like her mom did in High Fidelity. Also lolz when they said to sell the drugs to the white people at Coachella. Sheesh that festival has gone down hill since 2007. It's just a fashion, celebrity even now.",0,0,creekandseminole,3ViVPRWRRmk,0.0608888888888889,2015-05-01 15:43:56,True,True
+2015-05-02T09:39:25,Not yo typical Inglewood/South Central flix but I fucks wit it...,0,0,ManIAK ManImAKing,3ViVPRWRRmk,-0.08333333333333333,2015-05-02 09:39:25,True,True
+2015-05-02T19:55:10,She looks like alicia keys,0,0,tiny,3ViVPRWRRmk,0.0,2015-05-02 19:55:10,True,True
+2015-05-02T23:14:49,ACTUALLY looks funny!,0,0,Hellen Njagi,3ViVPRWRRmk,0.15625,2015-05-02 23:14:49,True,True
+2015-05-03T07:48:55,"Most was filmed in my home city holly shit !!, i saw them film but i got scared to ask for a part 😕",0,0,Mauricio Navarrete,3ViVPRWRRmk,0.09375,2015-05-03 07:48:55,True,True
+2015-05-03T07:58:01,is that Sinbad at 1:35?,0,0,Charles Thompson,3ViVPRWRRmk,0.0,2015-05-03 07:58:01,True,True
+2015-05-03T17:59:41,Looks mad ill,0,0,largepanda,3ViVPRWRRmk,-0.5625,2015-05-03 17:59:41,True,True
+2015-05-03T19:26:07,Reflex my a@#. More like race card platinum JK,0,0,marcuskif,3ViVPRWRRmk,0.5,2015-05-03 19:26:07,True,True
+2015-05-05T02:22:46,"One of those movies that makes the ""movies to watch while high"" lists of the inter-webs.",0,0,Rob,3ViVPRWRRmk,0.16,2015-05-05 02:22:46,True,True
+2015-05-06T02:19:36,Childish Gambino should of played the main character ,3,2,Yaj Hernandez,3ViVPRWRRmk,-0.016666666666666677,2015-05-06 02:19:36,True,True
+2015-05-06T17:01:51,"Violence or drugs always finds a way into the movies about black people, that reaches a whiter audience. How lovely.",16,13,LyleDeYounges,3ViVPRWRRmk,0.16666666666666669,2015-05-06 17:01:51,True,True
+2015-05-06T20:59:04,This looks so dope! Yeah I'm too white to get away with saying that...,0,0,jessica galati,3ViVPRWRRmk,0.0,2015-05-06 20:59:04,True,True
+2015-05-06T22:14:34,the donut !,0,0,fairy x,3ViVPRWRRmk,0.0,2015-05-06 22:14:34,True,True
+2015-05-07T01:01:53,"The people complaining about this movie , ""showing black people as drug dealers"" This movie is kinda the direst opposite. There ARE black drug dealers in this movie . BUT there is  also black  and POC nerd, kids, who love 90's music and clothes and are in a punk band.  They are basicallyTheir all aspiring to go to top tier colleges and the main character has ""almost perfect SAT scores"".  The movie is like here is a , tongue in cheek story young adult shenanigan story with a cliche plot and anti-stereotypical main characters.   It reads to me like 30 minutes or less kind of movie where everything is light, funny and low key ridiculous with some truth bombs thrown in . So maybe we should pause before we cry it down. Just my take.",5,0,QueenMotherSoucouyant,3ViVPRWRRmk,0.13830409356725143,2015-05-07 01:01:53,True,True
+2015-05-07T19:30:12,Kap g!!!,0,0,Malilah Ming-Yue,3ViVPRWRRmk,0.0,2015-05-07 19:30:12,True,True
+2015-05-08T16:54:05,syd tha kid!,0,1,charito garcia,3ViVPRWRRmk,0.0,2015-05-08 16:54:05,True,True
+2015-05-09T03:23:41,"Shameik Moore, the 90s, A$AP Rocky, VINCE STAPLES! I'M SHITTING BRICKS ON THE OTHER SIDE OF THIS COMMENT!!",2,1,David Fontenot,3ViVPRWRRmk,-0.1953125,2015-05-09 03:23:41,True,True
+2015-05-09T10:51:18,I seeing it Vince staples and ASAP Rocky the top 2 rising rappers and it looks funny I will see it!,0,0,nick salguero,3ViVPRWRRmk,0.40625,2015-05-09 10:51:18,True,True
+2015-05-09T13:29:09,This looks hilarious.﻿,2,0,Kyle Owens,3ViVPRWRRmk,0.0,2015-05-09 13:29:09,True,True
+2015-05-09T19:41:15,Was that vince staples ,0,0,Mondra Hawkins,3ViVPRWRRmk,0.0,2015-05-09 19:41:15,True,True
+2015-05-10T00:34:39,"This looks funnier and way better than every existential teen movie released in the past few years about white kids in the suburbs. But I bet it's not going to make as much money as John Green's Paper Towns. A bit sad isn't it, I just hope the production company distributing it doesn't change the film, it should at least be allowed to retain it's quality.",2,0,James Bond,3ViVPRWRRmk,-0.08333333333333333,2015-05-10 00:34:39,True,True
+2015-05-10T00:59:43,i love keirsey clemmons and meak !! i love this movie already,1,0,Nesha Jermon,3ViVPRWRRmk,0.640625,2015-05-10 00:59:43,True,True
+2015-05-10T05:02:23,Does anyone know any websites I can find 90's abstract print button ups.? ,0,0,AfroGamer2476,3ViVPRWRRmk,0.0,2015-05-10 05:02:23,True,True
+2015-05-10T05:40:28,"Kiersey Clemons, for those of you wondering who that ridiculously cute tom boy who flashed her tits was.",5,0,Syrus7sk,3ViVPRWRRmk,0.5,2015-05-10 05:40:28,True,True
+2015-05-10T07:37:54,"This isn't one of those charismatic/lame dynamics kids emphasize so heavily in school is it? Its always that nerd amongst the cool kids thing. When I was in school and somebody tried to fit me in a category, I would always say, ""it doesn't matter if you are a lame or cool, black or white. In the end, we all end up in the ground and converted into worm shit"".  And that's when you hear silence and see heads lower ladies and gentlemen.  But I'll watch this movie anyway.",0,0,Dig Thug,3ViVPRWRRmk,0.004166666666666669,2015-05-10 07:37:54,True,True
+2015-05-11T01:05:48,"Actually people TRY to dress like this in today's fashion. This might trigger enough people to make this style stay permanently for a while after this movie drops lol. But for real, this movie is going to be awesome&hilarious. Can't Wait!",0,0,Shiney McShine,3ViVPRWRRmk,0.2625,2015-05-11 01:05:48,True,True
+2015-05-11T16:15:52,Awww a bunch ah cuties in a dumb high school movie... Just how i like it.... His shirts were DOPE tho!!,0,0,NoOrdinaryGirl,3ViVPRWRRmk,0.09166666666666667,2015-05-11 16:15:52,True,True
+2015-05-11T23:54:30,1:44 who is she?,1,1,Isaiah Hughes,3ViVPRWRRmk,0.0,2015-05-11 23:54:30,True,True
+2015-05-12T04:14:44,0:57  Jhene Aiko?,0,0,Lucky,3ViVPRWRRmk,0.0,2015-05-12 04:14:44,True,True
+2015-05-12T17:24:57,Zoe Kravitz looks sweef afff in this,1,0,MarcSpectorTV,3ViVPRWRRmk,0.0,2015-05-12 17:24:57,True,True
+2015-05-12T18:43:07,Is that girl Syd That Kid from Odd Future?,0,0,ThaRockNSlow,3ViVPRWRRmk,-0.08333333333333333,2015-05-12 18:43:07,True,True
+2015-05-14T15:29:32,they filmed this at grant highschool ,0,0,Jesse Felipe,3ViVPRWRRmk,0.0,2015-05-14 15:29:32,True,True
+2015-05-14T22:26:12,Sony?,0,0,Eric Charles,3ViVPRWRRmk,0.0,2015-05-14 22:26:12,True,True
+2015-05-15T07:40:57,"Commercial totally caught me off guard.. Most is legit stuff, but they just show the nice part with filters and a totally different nice school.. ",0,0,Juan Ayala,3ViVPRWRRmk,0.2833333333333334,2015-05-15 07:40:57,True,True
+2015-05-15T11:00:24,Can you dig it?,0,0,ROZELL TALKS,3ViVPRWRRmk,0.0,2015-05-15 11:00:24,True,True
+2015-05-15T11:14:08,This shit look weak and I from inglewood ,0,0,INGLEWOOD CRIPS,3ViVPRWRRmk,-0.2875,2015-05-15 11:14:08,True,True
+2015-05-15T20:05:09,This looks like dope. We'll be supporting this film. More please.,0,0,Tira M,3ViVPRWRRmk,0.375,2015-05-15 20:05:09,True,True
+2015-05-16T15:06:42,And yet again no dark skin black women in a black movie however there are loads of black males. I smell the hypocrisy and I'm sure that a black male made this movie.,10,4,Peachez Foreveer,3ViVPRWRRmk,-0.013095238095238085,2015-05-16 15:06:42,True,True
+2015-05-16T21:40:59,VINCE STAPLES IS IN THIS MOVIE!?,0,0,Seek Benji,3ViVPRWRRmk,0.0,2015-05-16 21:40:59,True,True
+2015-05-17T16:52:02,this movie looks like it's going to suck.,0,0,Velse 9,3ViVPRWRRmk,0.0,2015-05-17 16:52:02,True,True
+2015-05-18T04:27:33,"Syd the kyd, asap rocky, Casey veggies, Vince staples, and that white guy hangs out with odd future a lot .. This movie is gunna be good",0,0,jadeboy08,3ViVPRWRRmk,0.13333333333333333,2015-05-18 04:27:33,True,True
+2015-05-18T10:35:09,was that vince staples?,0,0,Natasha J.,3ViVPRWRRmk,0.0,2015-05-18 10:35:09,True,True
+2015-05-18T10:37:08,"bruhhhhh casey veggies, vince staples, asap rocky and his ex, this gonna be LITTTTT! ",1,0,Natasha J.,3ViVPRWRRmk,0.0,2015-05-18 10:37:08,True,True
+2015-05-21T17:29:04,wait when you find out the white dude at the end of the trailer is a 30 year old man lol,2,0,looneyshadow1,3ViVPRWRRmk,0.3,2015-05-21 17:29:04,True,True
+2015-05-21T22:21:29,Loooool this looks dope ,0,0,Jessica Malange,3ViVPRWRRmk,0.0,2015-05-21 22:21:29,True,True
+2015-05-22T00:43:41,Yo Vince staples,0,0,Quinzie Rankines,3ViVPRWRRmk,0.0,2015-05-22 00:43:41,True,True
+2015-05-22T03:11:33,Vine staples 👌👌👌,0,0,Uriyal,3ViVPRWRRmk,0.0,2015-05-22 03:11:33,True,True
+2015-05-22T04:52:34,I didn't know Vince Staples was that short,0,0,Robert Di Nero,3ViVPRWRRmk,0.0,2015-05-22 04:52:34,True,True
+2015-05-22T11:02:12,Because I'm 14% African LOL 😂😂,0,0,Kingfadedz,3ViVPRWRRmk,0.4,2015-05-22 11:02:12,True,True
+2015-05-22T11:22:32,Vince Staples👀,0,0,SeanJohn Don,3ViVPRWRRmk,0.0,2015-05-22 11:22:32,True,True
+2015-05-23T03:36:20,"Lol ""It was a reflex"" cant wait 2 c dis movie",0,0,Sydney Hunt,3ViVPRWRRmk,0.8,2015-05-23 03:36:20,True,True
+2015-05-24T07:49:41,"FINALLY FOUND THE SONG! its by kendrick lamar and its called ""i""",0,0,no,3ViVPRWRRmk,0.0,2015-05-24 07:49:41,True,True
+2015-05-25T09:32:37,What's the sing from 1:30 called,0,0,DROPPED81,3ViVPRWRRmk,0.0,2015-05-25 09:32:37,True,True
+2015-05-25T09:32:58,Song*,0,0,DROPPED81,3ViVPRWRRmk,0.0,2015-05-25 09:32:58,True,True
+2015-05-25T14:35:12,"Another black movie that doesn't have ""black"" actresses. Just like in the 90's, ALL girls passed the paper bag test. Looks like we still haven't progressed much.",9,43,shojogrl,3ViVPRWRRmk,-0.04444444444444443,2015-05-25 14:35:12,True,True
+2015-05-26T00:38:28,Tyga shouldnt be around all dem minors,0,0,Streak Yoma,3ViVPRWRRmk,0.0,2015-05-26 00:38:28,True,True
+2015-05-26T03:47:36,Doesn't look like a bad movie. I'd like to see this. :D Looks funny. ,0,0,Lucas Gates,3ViVPRWRRmk,0.18333333333333338,2015-05-26 03:47:36,True,True
+2015-05-26T19:18:55,Bagocrap!,0,0,Preston Swooper,3ViVPRWRRmk,0.0,2015-05-26 19:18:55,True,True
+2015-05-27T02:43:11,He's from incredible Crüe ,0,0,Angel Deadman,3ViVPRWRRmk,0.9,2015-05-27 02:43:11,True,True
+2015-05-27T03:40:42,Have to see this movie😂😂,0,0,Audrey Wilkerson,3ViVPRWRRmk,0.0,2015-05-27 03:40:42,True,True
+2015-05-27T11:08:23,The music 1:35 please ? ^^,0,0,James nitro,3ViVPRWRRmk,0.0,2015-05-27 11:08:23,True,True
+2015-05-27T18:00:46,A$AP Rocky tho,0,0,Noah DeJesus,3ViVPRWRRmk,0.0,2015-05-27 18:00:46,True,True
+2015-05-28T05:02:51,Does this take place in the 80's? ,0,0,Miadaskate,3ViVPRWRRmk,0.0,2015-05-28 05:02:51,True,True
+2015-05-28T20:09:01,To be honest I'm only gunna see this movie because A$AP is in it  ,0,0,AlexTheGreat696,3ViVPRWRRmk,0.3,2015-05-28 20:09:01,True,True
+2015-05-30T17:11:16,Kiersey Clemons makes anything look good with her fine self damn,53,3,Not Really Interested,3ViVPRWRRmk,0.5583333333333333,2015-05-30 17:11:16,True,True
+2015-05-30T20:10:35,Like if youre here from covet fashion lol,1,0,IlsuLara,3ViVPRWRRmk,0.8,2015-05-30 20:10:35,True,True
+2015-05-30T22:47:16,Who else came from Covet Fashion?,0,0,Angelica Johnson,3ViVPRWRRmk,0.0,2015-05-30 22:47:16,True,True
+2015-05-30T23:19:14,Anyone else here because of Covet Fashion?,0,0,xolivelovelaugh61913,3ViVPRWRRmk,0.0,2015-05-30 23:19:14,True,True
+2015-05-31T04:34:49,the school reminds  me of Poly,0,0,Steven Neal,3ViVPRWRRmk,0.0,2015-05-31 04:34:49,True,True
+2015-05-31T07:35:05,"SOME GOOFY ASS MOVIE  ASAP rocky is just as GEEKY as the guy starring in this movie , GEEK THUGS  is what Asap rocky is weird",1,0,Freedom of Speech,3ViVPRWRRmk,0.0,2015-05-31 07:35:05,True,True
+2015-05-31T08:54:48,I really cannot wait to watch this ,0,0,Owlpen-Treasure,3ViVPRWRRmk,0.2,2015-05-31 08:54:48,True,True
+2015-06-01T02:37:40,"I can't wait to see this, I'm mos def gonna support it. Glad to see black positive films and not some guy dressed up as a drag degrading his own people.",0,1,SlickWilly,3ViVPRWRRmk,0.2121212121212121,2015-06-01 02:37:40,True,True
+2015-06-01T10:28:06,Is this filmed where zeke and luther was filmed?,0,0,Suds x,3ViVPRWRRmk,0.0,2015-06-01 10:28:06,True,True
+2015-06-01T19:48:39,18 more days!!,0,0,Armelle Brown,3ViVPRWRRmk,0.78125,2015-06-01 19:48:39,True,True
+2015-06-01T20:07:38,When day does this movie come out? ,0,1,Tayana,3ViVPRWRRmk,0.0,2015-06-01 20:07:38,True,True
+2015-06-01T20:08:02,*what*,0,0,Tayana,3ViVPRWRRmk,0.0,2015-06-01 20:08:02,True,True
+2015-06-02T05:35:45,Aye isnt that Zero?,0,0,nelson kamau,3ViVPRWRRmk,0.0,2015-06-02 05:35:45,True,True
+2015-06-02T10:05:10,I can't tell if this film is set in the 80's or in the present day,0,0,Dead&Gone,3ViVPRWRRmk,0.0,2015-06-02 10:05:10,True,True
+2015-06-02T11:54:44,There is a scene in this trailer where the white guy asks why he cannot say the N word but the 'blacks people' can. It should be duly noted that when 'blacks people' say that word they ARE BEING RACIST. Your a racist when you use that word when your a black person. All the white guy had to do was every time the black person said that call them a racist. If I were the writer of this film I would have written the scene like that.,1,2,Dillon McDyver,3ViVPRWRRmk,-0.08333333333333333,2015-06-02 11:54:44,True,True
+2015-06-02T16:31:47,What year is this movie based on,0,0,Devin Peirce,3ViVPRWRRmk,0.0,2015-06-02 16:31:47,True,True
+2015-06-02T22:39:25,What's the song at 1:00,0,0,Ziaire Dejesus,3ViVPRWRRmk,0.0,2015-06-02 22:39:25,True,True
+2015-06-03T04:23:03,More hollywood instilling harmful stereotypes. But the nice music and celebrity cameos will make you feel differently :P,1,5,california 123,3ViVPRWRRmk,0.4625,2015-06-03 04:23:03,True,True
+2015-06-03T05:56:37,Did I miss forest whitaker or was he not in the trailer?,1,1,Chris M,3ViVPRWRRmk,0.0,2015-06-03 05:56:37,True,True
+2015-06-03T07:09:10,This looks depressing,0,0,diesel101raw,3ViVPRWRRmk,-0.6,2015-06-03 07:09:10,True,True
+2015-06-03T07:11:56,i wanna see this :D,1,0,be water my amigo,3ViVPRWRRmk,1.0,2015-06-03 07:11:56,True,True
+2015-06-03T13:32:49,Man this moive  going to be something special  they nail it on the head with this,0,0,christian6455,3ViVPRWRRmk,0.35714285714285715,2015-06-03 13:32:49,True,True
+2015-06-03T16:39:03,Though this movie seems like its gonna be fun to watch i still am dissapointed in the fact that this is another teen movie centered around drugs and liquor because i thought it wouldve been deeper than that,12,10,KooL D,3ViVPRWRRmk,0.15,2015-06-03 16:39:03,True,True
+2015-06-03T22:56:44,90s hip hop band geek? Wtf? Kids try toomuch nowadays. Leave the 90s where they are with us the 30 year olds. Ya fuckin wierdos!,4,3,Frances Trevino,3ViVPRWRRmk,-0.625,2015-06-03 22:56:44,True,True
+2015-06-04T17:46:34,This looks just as over-pretentious as every other 15-20 year old walking around right now. Im usually down for anything Zoe Kravitz does but idk about this one. Dont think Ill be able to stand the lame wannabes for too long. Wheres Spike Lee when you need him?!,2,0,Paige Scott,3ViVPRWRRmk,-0.057167658730158735,2015-06-04 17:46:34,True,True
+2015-06-05T04:13:08,I love it it reminds me of the movie school dance  😍😘😋😄,1,0,Maladdia Williams,3ViVPRWRRmk,0.5,2015-06-05 04:13:08,True,True
+2015-06-05T04:22:45,What's the song called that says OK then the dubstep plays ,0,0,Tristan Bates,3ViVPRWRRmk,0.5,2015-06-05 04:22:45,True,True
+2015-06-05T05:15:33,Song that starts at 0:56?,0,0,Will Cohagan,3ViVPRWRRmk,0.0,2015-06-05 05:15:33,True,True
+2015-06-05T11:58:04,That light skinned girl can dress I think she's supposed to act gay idk ,0,0,_HelloKitty Cuteness,3ViVPRWRRmk,0.4083333333333333,2015-06-05 11:58:04,True,True
+2015-06-05T13:22:07,I high five asap rocky and ferge,0,0,Sean Colgan,3ViVPRWRRmk,0.16,2015-06-05 13:22:07,True,True
+2015-06-05T17:57:58, Is that syd ? ,0,0,Trayvon Byrd,3ViVPRWRRmk,0.0,2015-06-05 17:57:58,True,True
+2015-06-06T02:03:15,"I actually kind of like his 80s / 90s dressing style, it looks DOPE and different than what everybody else is copping, from what I saw nothing but wierd designed button downs, tucked in his pants looks sooo cool to me idk why ",1,0,Rico Suave,3ViVPRWRRmk,0.31666666666666665,2015-06-06 02:03:15,True,True
+2015-06-06T02:16:29,I don't know how to feel about this movie.,0,0,Raumiction,3ViVPRWRRmk,0.0,2015-06-06 02:16:29,True,True
+2015-06-06T17:07:23,Is this movie suppose to take place in the 90's? ,1,4,TFtusave,3ViVPRWRRmk,0.0,2015-06-06 17:07:23,True,True
+2015-06-07T01:21:56,It's time to wake and Blake! #Workaholics ,0,0,ninjaamber - Amber Wendt,3ViVPRWRRmk,0.0,2015-06-07 01:21:56,True,True
+2015-06-07T02:56:21,blake Anderson vince staples asap rocky pharrel on the soundtrack damn,0,1,mack polk,3ViVPRWRRmk,0.0,2015-06-07 02:56:21,True,True
+2015-06-07T12:12:44,I can't believe Ghost Dog is the narrator.,0,0,das it mane,3ViVPRWRRmk,0.0,2015-06-07 12:12:44,True,True
+2015-06-07T16:28:19, Awesome on my birthday,0,0,Asap Straight,3ViVPRWRRmk,1.0,2015-06-07 16:28:19,True,True
+2015-06-08T01:51:03,1:53 lol,0,0,Shaqo Fall,3ViVPRWRRmk,0.8,2015-06-08 01:51:03,True,True
+2015-06-08T02:47:58,At least someone besides Jeremy Shada got a career out of Incredible Crew :p,0,0,Eric M,3ViVPRWRRmk,0.45,2015-06-08 02:47:58,True,True
+2015-06-08T03:48:37,Have to see this. 😂😂,0,0,ＰＲＩＮＣＥ ＴＡＥ,3ViVPRWRRmk,0.0,2015-06-08 03:48:37,True,True
+2015-06-08T03:49:58,IS THAT JHENE AIKO?,0,0,ＰＲＩＮＣＥ ＴＡＥ,3ViVPRWRRmk,0.0,2015-06-08 03:49:58,True,True
+2015-06-08T04:59:46,"From the makers of ""The Wackness"" comes ""Dope"".",0,0,AF Twice,3ViVPRWRRmk,0.0,2015-06-08 04:59:46,True,True
+2015-06-08T06:15:05,Another fucked up teen movie! ..for the fucked up teen youth....!!!,0,0,StRaPS 818,3ViVPRWRRmk,-0.3,2015-06-08 06:15:05,True,True
+2015-06-08T07:20:52,is this going to be A black version of revenge of the nerds?,0,1,Henny B!,3ViVPRWRRmk,-0.16666666666666666,2015-06-08 07:20:52,True,True
+2015-06-08T15:59:29,What's the song that plays in the background?,1,0,Khaya Osborne,3ViVPRWRRmk,0.0,2015-06-08 15:59:29,True,True
+2015-06-09T01:51:03,1:46 is that pharrell and wizard khalifa,0,0,GunnarCien,3ViVPRWRRmk,0.0,2015-06-09 01:51:03,True,True
+2015-06-09T03:55:48,"Great another movie about black people selling drugs. But don't worry, acting ""white"" will save him from perdition, ad acting ""black"" will damn him. Thanks Hollywood. I will be glad when you are all burning in hell. ",24,30,Eddy Brix,3ViVPRWRRmk,0.14583333333333334,2015-06-09 03:55:48,True,True
+2015-06-09T17:06:02,This looks good and Bella funny I'm gonna check this out :),0,0,Ange Journals,3ViVPRWRRmk,0.48333333333333334,2015-06-09 17:06:02,True,True
+2015-06-09T18:07:18, I love that hunger games was the ad,0,0,Mia Jane,3ViVPRWRRmk,0.5,2015-06-09 18:07:18,True,True
+2015-06-09T21:52:33,Whats the song at 1:36,0,0,Pryce Allen Hesse,3ViVPRWRRmk,0.0,2015-06-09 21:52:33,True,True
+2015-06-09T22:12:49,SONG??????????,0,0,kaamzs,3ViVPRWRRmk,0.0,2015-06-09 22:12:49,True,True
+2015-06-10T17:58:19,1:53 lol ,0,0,Aces_ Casper,3ViVPRWRRmk,0.8,2015-06-10 17:58:19,True,True
+2015-06-10T18:24:03,OMG Yass I can't wait to see this Dope movie… beautiful cast of people and interesting story line...,0,0,Jazz_I_am25,3ViVPRWRRmk,0.675,2015-06-10 18:24:03,True,True
+2015-06-10T20:24:11,What song,0,0,The Bazics,3ViVPRWRRmk,0.0,2015-06-10 20:24:11,True,True
+2015-06-10T22:24:48,When did Iman Shumpert start acting?,0,0,Eli Pan,3ViVPRWRRmk,0.0,2015-06-10 22:24:48,True,True
+2015-06-11T01:36:22,"Most of these comments are truly stupid. There are tons of ""white"" movies revolved around drugs and partying that attract a younger audience AND it's seen as cool by the majority of the public, but make the focus on people of color, most specifically black people, and you have an ocean of racist remarks. This happens all the damn time and it's sad. It's really is.",1,1,Bex Alva,3ViVPRWRRmk,0.008333333333333342,2015-06-11 01:36:22,True,True
+2015-06-11T02:18:06,Can't wait for this movie to come out!! I'm all about it 💖,0,0,Brianna Evans,3ViVPRWRRmk,0.0,2015-06-11 02:18:06,True,True
+2015-06-11T07:49:07,This is a black version of Superbad quite obviously...,0,0,Bgirl291,3ViVPRWRRmk,-0.08333333333333333,2015-06-11 07:49:07,True,True
+2015-06-11T21:50:39,this movie is so DOPE,0,0,POLO,3ViVPRWRRmk,0.0,2015-06-11 21:50:39,True,True
+2015-06-12T14:50:39,U got me with the A$AP GANG,0,0,Victor Sanchez,3ViVPRWRRmk,0.0,2015-06-12 14:50:39,False,True
+2015-06-12T15:33:54,this looks fukin horrible,0,0,The Final Door,3ViVPRWRRmk,-1.0,2015-06-12 15:33:54,False,True
+2015-06-12T22:56:13,Commercial for DOPE plays before commercial for DOPE. Not seeing this movie out of spite.,0,0,Nick Post,3ViVPRWRRmk,0.0,2015-06-12 22:56:13,False,True
+2015-06-13T10:19:19,This is the stupidest movie ever made. It does not have any since. ,2,1,Jim Reyes,3ViVPRWRRmk,0.0,2015-06-13 10:19:19,False,True
+2015-06-13T11:04:57,Screw this goddamn commercial. Most annoying crap. This is a b grade summer movie at best. Basically badass with black kids.,0,0,Nick Post,3ViVPRWRRmk,-0.04444444444444445,2015-06-13 11:04:57,False,True
+2015-06-13T15:01:30,Looks Dope,0,0,Brody Mack,3ViVPRWRRmk,0.0,2015-06-13 15:01:30,False,True
+2015-06-14T14:25:39,"Wow, the black girl HAS to be light skinned... (I'm light skinned myself, but I'm sick of the media thinking the only good black people are light skinned). ",7,1,Stagetail,3ViVPRWRRmk,0.10582010582010583,2015-06-14 14:25:39,False,True
+2015-06-14T21:52:18,I can't wait for this movie to come out,0,0,patrisha jackson,3ViVPRWRRmk,0.0,2015-06-14 21:52:18,False,True
+2015-06-14T22:38:03,There gonna put this in the theatres??lol,0,0,Chad Tarvin,3ViVPRWRRmk,0.0,2015-06-14 22:38:03,False,True
+2015-06-15T16:18:11,Dope,0,0,xenomorph warrior 2,3ViVPRWRRmk,0.0,2015-06-15 16:18:11,False,True
+2015-06-17T00:18:34,Bull1trc I peeped you in the movie 😂😂😂😉,0,0,T. Dot,3ViVPRWRRmk,0.0,2015-06-17 00:18:34,False,True
+2015-06-17T00:38:48,"I wanna see it so baddd, all my fave actors/actresses 😭😭😭",0,0,Kayla Potato,3ViVPRWRRmk,0.0,2015-06-17 00:38:48,False,True
+2015-06-17T00:56:32,Looks dope.,0,0,tart green,3ViVPRWRRmk,0.0,2015-06-17 00:56:32,False,True
+2015-06-17T01:08:32,Sad,0,0,David Carson,3ViVPRWRRmk,-0.5,2015-06-17 01:08:32,False,True
+2015-06-17T06:22:19,They made some parts in willis,0,0,Jasmine Perez,3ViVPRWRRmk,0.0,2015-06-17 06:22:19,False,True
+2015-06-17T17:43:16,Movie seems cool but I don't see the story behind it.,0,0,derik johnson,3ViVPRWRRmk,-0.025000000000000022,2015-06-17 17:43:16,False,True
+2015-06-17T18:14:47,"The cinematography looks great, but the plot looks ridiculous. And that audio mixing for the trailer made my head hurt. ""We...DON'T...(know)...ANYTHING...about...(drugs)""",0,0,Patrick Hebdon,3ViVPRWRRmk,0.23333333333333336,2015-06-17 18:14:47,False,True
+2015-06-17T19:07:53,OMG Kingbach is in the movie he at the drung party,0,0,Legendary : McDucky Games,3ViVPRWRRmk,0.0,2015-06-17 19:07:53,False,True
+2015-06-18T20:14:23,if anyone knows if you can buy his camo backpack can you reply to me with a link it would be very much appreciated,0,0,Jay Dee,3ViVPRWRRmk,0.2,2015-06-18 20:14:23,False,True
+2015-06-19T11:26:15,#ASAPROCKY in this movie this is a must watch movie for me ,0,0,Daniel Brebnor,3ViVPRWRRmk,0.0,2015-06-19 11:26:15,False,True
+2015-06-19T18:29:45,ASAP ROCKY!?!? Watching,0,0,Tj J,3ViVPRWRRmk,0.0,2015-06-19 18:29:45,False,True
+2015-06-19T18:34:31,Can I just be the odd ball here and say that this movie looks awesome? ,0,0,Jay Young,3ViVPRWRRmk,0.4166666666666667,2015-06-19 18:34:31,False,True
+2015-06-19T21:38:19,Seeing this shit with my squad soon,0,0,zh2,3ViVPRWRRmk,-0.2,2015-06-19 21:38:19,False,True
+2015-06-19T21:47:56,It was good saw it today.it was too funny.and i loved the music.,0,0,Andyh Poigv,3ViVPRWRRmk,0.7,2015-06-19 21:47:56,False,True
+2015-06-20T06:48:28,Saw the movie about half way and almost everyone left lol,0,0,alex perez,3ViVPRWRRmk,0.21111111111111114,2015-06-20 06:48:28,False,True
+2015-06-20T09:36:34,They stole that last part from get hard.. and they both stole it from another movie.,0,0,NotJesus,3ViVPRWRRmk,-0.14583333333333334,2015-06-20 09:36:34,False,True
+2015-06-20T10:29:41,This is gonna be good,0,0,Kendall,3ViVPRWRRmk,0.7,2015-06-20 10:29:41,False,True
+2015-06-20T10:30:07,"The guy who plays the main character Shamiek Moore, looks like he could be Asap Rocky's twin!",0,0,IWantMyVisionBack,3ViVPRWRRmk,0.20833333333333331,2015-06-20 10:30:07,False,True
+2015-06-20T10:40:20,"Out of all the great characters Forest Whittaker has played, it's surprising how he'd direct a movie like this.",0,0,IWantMyVisionBack,3ViVPRWRRmk,0.5333333333333333,2015-06-20 10:40:20,False,True
+2015-06-20T10:40:32,666 comments ILLUMINATI CONFIRMED.,0,0,IWantMyVisionBack,3ViVPRWRRmk,0.4,2015-06-20 10:40:32,False,True
+2015-06-20T10:41:56,Them throwing in the fact that they are forced to sell hardcore drugs for some gang bangers threw me off. Actually looked like it had potential but then became the exact copy of a lot of movies we've already seen in the past.  And I can't believe that girl flashed her breasts in the movie. Wasn't too long ago where she was a Disney actress.,0,0,IWantMyVisionBack,3ViVPRWRRmk,-0.05833333333333334,2015-06-20 10:41:56,False,True
+2015-06-21T01:15:49,Pause at 2:04,0,0,Shane B.,3ViVPRWRRmk,0.0,2015-06-21 01:15:49,False,True
+2015-06-21T03:00:35,Does anyone know where j can watch this movie other than a theatre? Like iTunes or something. ,0,0,james,3ViVPRWRRmk,-0.125,2015-06-21 03:00:35,False,True
+2015-06-21T07:15:32,This was one of the best movies I have seen in awhile ,1,0,ChronicRaging,3ViVPRWRRmk,1.0,2015-06-21 07:15:32,False,True
+2015-06-21T19:02:30,They made a movie about my life!!!!  O_O,0,0,Bashir Shirk,3ViVPRWRRmk,0.05,2015-06-21 19:02:30,False,True
+2015-06-21T19:50:15,I instantly liked this when I heard I as the soundtrack,0,0,Marco Meme,3ViVPRWRRmk,0.6,2015-06-21 19:50:15,False,True
+2015-06-22T02:21:03,Does anyone know the reggae song that was playing in the movie when Nakia and Malcom were studying?,0,0,AintThatHundo,3ViVPRWRRmk,0.0,2015-06-22 02:21:03,False,True
+2015-06-22T05:50:07,Go see it. .. The movie was sick ,1,0,Justin Love,3ViVPRWRRmk,-0.7142857142857143,2015-06-22 05:50:07,False,True
+2015-06-22T09:08:49,The unnecessary racial stereotyping will be strong in this movie.,0,1,Ctrl H,3ViVPRWRRmk,0.016666666666666635,2015-06-22 09:08:49,False,True
+2015-06-22T11:25:57,The only good thing about this film is the soundtrack.,0,0,repo136,3ViVPRWRRmk,0.35,2015-06-22 11:25:57,False,True
+2015-06-22T13:01:45,People should really go see the movie instead of assuming that the movie is showing black teens in a bad light. It really has a positive message overall,0,0,Jasmine,3ViVPRWRRmk,0.022943722943722968,2015-06-22 13:01:45,False,True
+2015-06-22T14:57:42,is it plus 18 ?,0,0,abdullah ali,3ViVPRWRRmk,0.0,2015-06-22 14:57:42,False,True
+2015-06-22T18:41:58,nobody watching that corny shit,0,0,___,3ViVPRWRRmk,-0.2,2015-06-22 18:41:58,False,True
+2015-06-22T20:32:40,Do you want to hear the F word and N word said about 150 times each? Then this movie is for you. :(,0,0,Patrick Calvert,3ViVPRWRRmk,-0.75,2015-06-22 20:32:40,False,True
+2015-06-22T20:54:50,Were is kap g 😱😱😱😱😠😰😱😨😨😨😨😡😡😡😡😡😡,0,0,caroline coronado's world,3ViVPRWRRmk,0.0,2015-06-22 20:54:50,False,True
+2015-06-22T23:04:27,if i could watch this movie again i would,0,0,Del P,3ViVPRWRRmk,0.0,2015-06-22 23:04:27,False,True
+2015-06-23T05:49:12,TOO BAD DOM GETS ARRESTED AND MALCOM GETS THE GIRL AND GETS INTO HARVARD😂,2,0,taco truck,3ViVPRWRRmk,-0.6999999999999998,2015-06-23 05:49:12,False,True
+2015-06-23T18:49:50,where can I see this???,0,0,Alba Falch,3ViVPRWRRmk,0.0,2015-06-23 18:49:50,False,True
+2015-06-24T03:00:49,I had watched the movie it was a 👍 great 🎥movie,0,0,paris lorquet,3ViVPRWRRmk,0.8,2015-06-24 03:00:49,False,True
+2015-06-24T03:13:43,Good movie,0,0,TheUnionRepublic,3ViVPRWRRmk,0.7,2015-06-24 03:13:43,False,True
+2015-06-24T03:21:58,"This shit is not racist, its a great movie and if you would go see it and see the end of it you would see there's actually a point trying to be made, stop bitching about the fact that it's black people in a movie about selling drugs. (mild spoiler) They actually had to learn from a white guy so STFU AND STOP TRYING TO MAKE EVERYTHING RACIAL",1,0,Kozmic Beats,3ViVPRWRRmk,0.10952380952380955,2015-06-24 03:21:58,False,True
+2015-06-24T07:20:17,i just watched this. it was ok but chanel iman has the smallest nipples in the world,0,0,TomatoOtters,3ViVPRWRRmk,0.5,2015-06-24 07:20:17,False,True
+2015-06-24T22:13:40,Is that A$AP Rocky?,0,0,Ishbu101,3ViVPRWRRmk,0.0,2015-06-24 22:13:40,False,True
+2015-06-24T22:31:49,The kid gets drugs snuck into his bag without him knowing then is told to sell them or he and his family will be killed. How is that perpetuating stereotypes of black teens or glorifying anything? How about yall actually watch the movie before you criticize it ,0,0,Demetri J,3ViVPRWRRmk,-0.12222222222222223,2015-06-24 22:31:49,False,True
+2015-06-25T14:07:51,14% African ancestry.com ...... ha ha ha ha,10,0,Dony S.,3ViVPRWRRmk,0.0,2015-06-25 14:07:51,False,True
+2015-06-25T22:21:55,uhh....that lead is a GREAT actor.,0,0,hello,3ViVPRWRRmk,0.8,2015-06-25 22:21:55,False,True
+2015-06-26T05:54:31,All and all it was a damn good movie I highly suggest that you go see it. :) I give it 4/5 stars,0,0,quianna cue,3ViVPRWRRmk,0.4533333333333333,2015-06-26 05:54:31,False,True
+2015-06-27T08:51:36,This movie was amazing. ,0,0,Michael Castro,3ViVPRWRRmk,0.6000000000000001,2015-06-27 08:51:36,False,True
+2015-06-27T17:58:25,this looks really cute,0,0,Foxxy Furends,3ViVPRWRRmk,0.5,2015-06-27 17:58:25,False,True
+2015-06-28T14:12:26,This movie was awesome ,0,0,The wrestling Geek,3ViVPRWRRmk,1.0,2015-06-28 14:12:26,False,True
+2015-06-28T17:03:55,Cuz im 14% african haha,0,0,Barbie Brooks,3ViVPRWRRmk,0.1,2015-06-28 17:03:55,False,True
+2015-06-28T17:27:34,"Just came back from seeing the movie and though it had some good underlying messages in it, the message was consumed by the action and swiftness of them selling the drugs.  Also the romance between the main character and the character Zoe Kravitz played is cliche and has been over played time and time again.",0,0,IWantMyVisionBack,3ViVPRWRRmk,0.24166666666666664,2015-06-28 17:27:34,False,True
+2015-06-28T17:38:27,"Chanel Iman is naked in this movie, I was actually quite surprised by that.  Does anyone know if she has ever done any frontal nude shoots in the past?",0,0,IWantMyVisionBack,3ViVPRWRRmk,-0.0375,2015-06-28 17:38:27,False,True
+2015-06-28T18:34:13,Song at 0:55?,0,0,Norman Reeves,3ViVPRWRRmk,0.0,2015-06-28 18:34:13,False,True
+2015-06-29T03:05:27,"DOPE, Awsome seen it today, great message.",0,0,Jamaal Fullwood,3ViVPRWRRmk,0.8,2015-06-29 03:05:27,False,True
+2015-06-29T03:46:44,CAN YOU DIG IT??!!!,0,0,N Slater,3ViVPRWRRmk,0.0,2015-06-29 03:46:44,False,True
+2015-06-29T04:51:50,"This is a really good movie, the trailer does not do it justice.",0,0,Amber,3ViVPRWRRmk,0.7,2015-06-29 04:51:50,False,True
+2015-06-29T21:38:46,Just seen this movie today it exceeded my expectations I had a feeling it was gonna be good but it was better than good it was great :) and I love the story it told amazing movie thumbs up :),3,0,Ange Journals,3ViVPRWRRmk,0.6000000000000001,2015-06-29 21:38:46,False,True
+2015-06-29T22:49:31,Boobies,0,0,harry_hawkins69,3ViVPRWRRmk,0.0,2015-06-29 22:49:31,False,True
+2015-06-30T02:31:07,how amazing becuase im kinda one,0,0,xxxBabyKing,3ViVPRWRRmk,0.6000000000000001,2015-06-30 02:31:07,False,True
+2015-06-30T04:15:08,Saw this movie this past week and let me tell you its A+. Whatever rating it gets besides a 9/10+ is a lie.......,1,0,MacTechnAE,3ViVPRWRRmk,-0.25,2015-06-30 04:15:08,False,True
+2015-06-30T12:49:13,"It's was a cool movie,i notice there was no dark skin black girls in the hood ",0,0,kingisback LJK,3ViVPRWRRmk,0.0861111111111111,2015-06-30 12:49:13,False,True
+2015-06-30T19:27:50,Seen it. Very good movie. ,0,0,RainUponMe,3ViVPRWRRmk,0.9099999999999999,2015-06-30 19:27:50,False,True
+2015-06-30T20:51:38,This is one star studded movie,0,0,Nick Yacoviello,3ViVPRWRRmk,0.0,2015-06-30 20:51:38,False,True
+2015-07-01T00:10:32,Where can i watch this movie online,0,0,Grand Wiz,3ViVPRWRRmk,0.0,2015-07-01 00:10:32,False,True
+2015-07-01T06:47:19,Yawnn  ,0,0,SunKissNicole,3ViVPRWRRmk,0.0,2015-07-01 06:47:19,False,True
+2015-07-01T16:57:04,"This was actually a good movie. I figured that it would look controversial due to how the trailer viewed the movie, but I loved it because it really has a good story and execution of the idea was very smart and creative. Seriously, once it's in Redbox, Netflix, or whatever else, give it a try.",1,0,KiDuriTang,3ViVPRWRRmk,0.3522486772486772,2015-07-01 16:57:04,False,True
+2015-07-01T21:29:24,Was that a freakin GIRL the whole time??,99,8,MVD_D0GG,3ViVPRWRRmk,0.2,2015-07-01 21:29:24,False,True
+2015-07-02T14:53:39,#LONGLIVEA$AP,0,0,TonyGames,3ViVPRWRRmk,0.0,2015-07-02 14:53:39,False,True
+2015-07-03T05:13:28,"Lol so it okay for Mexicans to say the ""N"" word since they're 14% African.",0,1,AngloLatino,3ViVPRWRRmk,0.43333333333333335,2015-07-03 05:13:28,False,True
+2015-07-03T05:17:17,feels forced... :/,0,0,KilluaXGodspeed X,3ViVPRWRRmk,-0.275,2015-07-03 05:17:17,False,True
+2015-07-03T08:19:05,I watched it the movie is good look at its ratings also,1,0,English Wit,3ViVPRWRRmk,0.7,2015-07-03 08:19:05,False,True
+2015-07-03T13:43:36,Great movie with comedy and message!!!,0,0,Lucresia Mabien,3ViVPRWRRmk,1.0,2015-07-03 13:43:36,False,True
+2015-07-04T13:32:25,it was dope man....,0,0,nazrul naz,3ViVPRWRRmk,0.0,2015-07-04 13:32:25,False,True
+2015-07-05T14:04:06,so thats what nerds of the hood look like,0,0,Cedrick,3ViVPRWRRmk,0.0,2015-07-05 14:04:06,False,True
+2015-07-05T15:54:02,Wwde,0,0,Alexis Streeter,3ViVPRWRRmk,0.0,2015-07-05 15:54:02,False,True
+2015-07-06T02:22:01,This was a good movie ,0,0,Pablo Guzman,3ViVPRWRRmk,0.7,2015-07-06 02:22:01,False,True
+2015-07-06T03:07:20,Blake! Workaholics,0,0,El Joe Show Super Show Show,3ViVPRWRRmk,0.0,2015-07-06 03:07:20,False,True
+2015-07-07T20:43:14,Saw the movie ..LOVE IT .. Deeper  Meaning .. the nay sayers don't be fooled .. serious message behind  events that go on in the movie .. You will be suprised.. I was .. Forest and Zoe .and Actors and Crew .. you all put in the work .. Very good! I recommend it for all ages ..,2,0,charles cooper,3ViVPRWRRmk,0.08888888888888886,2015-07-07 20:43:14,False,True
+2015-07-07T22:11:40,"The drugs involved an insane amount of conflict in the movie, but if you really paid attention to it you'd know that it's not about blacks selling drugs or anything stereotypical tbh, I'm not sure how to describe it except how it's mainly _different_, which may be a key to understanding whatever the main points are.",0,0,Brynite,3ViVPRWRRmk,-0.1976190476190476,2015-07-07 22:11:40,False,True
+2015-07-08T04:24:33,This was a good movie funny as hell,1,0,breezy,3ViVPRWRRmk,0.475,2015-07-08 04:24:33,False,True
+2015-07-09T19:49:32,A$ap rocky ,0,0,paulette 2457,3ViVPRWRRmk,0.0,2015-07-09 19:49:32,False,True
+2015-07-10T08:00:13,That girl who acts as the lesbian girl is FINE yo ,0,0,Jeremiah Manuel,3ViVPRWRRmk,0.4166666666666667,2015-07-10 08:00:13,False,True
+2015-07-10T09:42:34,"a movie about drugs, and black people being the new genre of heroes.. i think ive seen this movie before.",0,0,reign zeravla,3ViVPRWRRmk,-0.015151515151515152,2015-07-10 09:42:34,False,True
+2015-07-10T22:53:34,Can someone explain the ending?,0,0,Aliyah Kyle,3ViVPRWRRmk,0.0,2015-07-10 22:53:34,False,True
+2015-07-11T00:16:43,this movie looks dope          see what i did there,0,0,Its Neto,3ViVPRWRRmk,0.0,2015-07-11 00:16:43,False,True
+2015-07-11T01:54:03,"anyone feel like they can relate to this movie? I saw it for the first time today, it was great",0,0,PLEASANT VALLEY,3ViVPRWRRmk,0.525,2015-07-11 01:54:03,False,True
+2015-07-11T02:18:48,i like this movie. can't wait to see it.,0,0,ktb_almightyy GOAT,3ViVPRWRRmk,0.0,2015-07-11 02:18:48,False,True
+2015-07-11T05:53:15,Great movie,0,0,T Savage,3ViVPRWRRmk,0.8,2015-07-11 05:53:15,False,True
+2015-07-12T00:06:43,I just saw this today awesome,19,2,Tehya Luvs U!,3ViVPRWRRmk,1.0,2015-07-12 00:06:43,False,True
+2015-07-12T12:27:43,That movie went hard ,0,0,Young Jadoe,3ViVPRWRRmk,-0.2916666666666667,2015-07-12 12:27:43,False,True
+2015-07-12T21:01:48,"""All you need is a laptop, some talent and a track"" WOW I have been producing for 3 years now and I wish it was true. It takes so much more to achieve what you want. I really wanna see this movie because Zac is in it and he is a cool guy. But the movie seems like a total F YOU to every single EDM producer and DJ out there.",0,0,Rakeen A. Rahman,3ViVPRWRRmk,0.20408163265306123,2015-07-12 21:01:48,False,True
+2015-07-13T01:47:27,Best movie eva must watch,0,0,Wayne,3ViVPRWRRmk,1.0,2015-07-13 01:47:27,False,True
+2015-07-13T01:50:07,Movie was funny and the girl in it was fine as hell.<3,0,0,Rune A.,3ViVPRWRRmk,0.33333333333333337,2015-07-13 01:50:07,False,True
+2015-07-14T15:27:00,another wack ass teen cliche flick,0,0,Pedro Vinhas,3ViVPRWRRmk,0.0,2015-07-14 15:27:00,False,True
+2015-07-14T15:31:09,STRAIGHT OUTTA COMPTON is more interesting and realistic than this bullshit,0,0,Pedro Vinhas,3ViVPRWRRmk,0.3416666666666667,2015-07-14 15:31:09,False,True
+2015-07-15T12:26:32,Where can I watch it online for free?,1,19,Diego,3ViVPRWRRmk,0.4,2015-07-15 12:26:32,False,True
+2015-07-16T16:06:07,This movie is amazing!,0,0,Kori Nicole Barnes,3ViVPRWRRmk,0.7500000000000001,2015-07-16 16:06:07,False,True
+2015-07-17T19:38:29,"He said ""White people"" which is fine by me, but if anyone said ""black people"" he'd be declared as a racist and burned on a stake.",0,0,Tod ToD,3ViVPRWRRmk,0.08333333333333333,2015-07-17 19:38:29,False,True
+2015-07-19T13:38:28,I heard this was some good shit. Definitely gonna check it out.,0,0,Jae Kaitch,3ViVPRWRRmk,0.16666666666666666,2015-07-19 13:38:28,False,True
+2015-07-20T08:46:56,"""Your my ni-""  *slaps him* *laughing* ""it was a reflex!""😂😂😂   This is seriously like my favorite movie now. I'm in love with it and the ending is awesome. And I gotta girl crush on Diggy lol ❤️😂",2,0,Dajah Nelson,3ViVPRWRRmk,0.49333333333333335,2015-07-20 08:46:56,False,True
+2015-07-20T20:51:58,Haha looks like a funny movie!! Thanks for providing the trailer footage guys! :),0,0,"rtcmanga - JDM, Nismo & more Fridays from Japan!",3ViVPRWRRmk,0.33515625,2015-07-20 20:51:58,False,True
+2015-07-25T17:33:13,Where can I watch this at online,0,0,Albert Castillo,3ViVPRWRRmk,0.0,2015-07-25 17:33:13,False,True
+2015-07-27T16:59:08,"When I watched this movie, my brother called it Satan´s movie. He read the description and I agreed with him, it was making me sleepy and I wanted to leave but Malcolm´s message at the end left me…..wowed.  now I actually want to watch it again",2,0,OneandonlyAngie,3ViVPRWRRmk,0.0,2015-07-27 16:59:08,False,True
+2015-07-29T07:01:28,"THIS MOVIE IS GREAT I MEAN AWESOME FUNNY LOTS OF TWISTS AND TURNS ACTORS ARE ALL GREAT ITS GOT THAT FARRIS BUELER TOUCH WITH NARRATION 5 OUT OF 5 IT STARS BLACK ACTORS BUT IS NOT A SO CALLED ""BLACK MOVIE"" IE TYLER PARRY",0,0,Clifton Spence,3ViVPRWRRmk,0.31488095238095243,2015-07-29 07:01:28,False,True
+2015-07-30T12:52:16,This movie looks... dope. *breathing heavy as autism intensifies*,0,0,Ded,3ViVPRWRRmk,-0.2,2015-07-30 12:52:16,False,True
+2015-07-31T06:54:51,Was ASAP ROCKY in here?,0,0,tacoman686,3ViVPRWRRmk,0.0,2015-07-31 06:54:51,False,True
+2015-07-31T08:39:04,The movie was mwuah,0,0,DonnieDoezoe,3ViVPRWRRmk,0.0,2015-07-31 08:39:04,False,True
+2015-08-01T11:26:02,1.06 the moviemakers proboly getting xtra money because there showing symbolism in it everyone knows you dont Need to take you're own clothes to the set so it was put on by the moviemakers but its normal this time In my opinion its Just satan worship I would neva wear that shit not for money not for fame People do what you want to do but know that jah lives Rasta,0,0,Rasta Dread,3ViVPRWRRmk,0.18333333333333335,2015-08-01 11:26:02,False,True
+2015-08-02T17:14:11,This movie was wack af,1,0,Edel Jaramillo,3ViVPRWRRmk,0.0,2015-08-02 17:14:11,False,True
+2015-08-03T02:52:00,Favorite part is im the end,0,0,Sith,3ViVPRWRRmk,0.5,2015-08-03 02:52:00,False,True
+2015-08-04T09:57:26,I'm not sure if Pharrel actually did that much with this movie,0,0,Morgan Freeman,3ViVPRWRRmk,-0.016666666666666663,2015-08-04 09:57:26,False,True
+2015-08-05T02:21:29,ASAP Rocky is the next 2pac at acting,1,0,King,3ViVPRWRRmk,0.0,2015-08-05 02:21:29,False,True
+2015-08-08T11:00:56,big krit that you,0,0,awsomedude1229,3ViVPRWRRmk,0.0,2015-08-08 11:00:56,False,True
+2015-08-08T23:25:49,where can i see this online without it being recorded in a theater with a potato.,0,0,Marius Ophus,3ViVPRWRRmk,0.0,2015-08-08 23:25:49,False,True
+2015-08-09T23:17:13,Where is tyga,1,0,Derya Coskun,3ViVPRWRRmk,0.0,2015-08-09 23:17:13,False,True
+2015-08-10T05:21:18,..the thing i notice is the Zoë Kravitz is in this o.o,0,0,jassy b,3ViVPRWRRmk,0.05,2015-08-10 05:21:18,False,True
+2015-08-19T00:11:54,Honestly didn't know Wilfried Zaha had turned to acting.,90,2,NewarkWilder,3ViVPRWRRmk,0.3,2015-08-19 00:11:54,False,True
+2015-08-19T11:46:26,you're all my niii,11,1,Im streaming od,3ViVPRWRRmk,0.0,2015-08-19 11:46:26,False,True
+2015-08-22T17:27:04,how did you guys get to see this movie? online? theaters?,0,0,Stephen,3ViVPRWRRmk,0.0,2015-08-22 17:27:04,False,True
+2015-08-23T18:35:35,Who life is this based on ?,0,0,Mallcollm Smit,3ViVPRWRRmk,0.0,2015-08-23 18:35:35,False,True
+2015-08-27T06:23:27,"Hey Becky g is from englewood, so yah nothing good came out of there ",0,0,Ty De Sa,3ViVPRWRRmk,0.7,2015-08-27 06:23:27,False,True
+2015-08-28T16:19:48,in german?,0,0,Mr AE86,3ViVPRWRRmk,0.0,2015-08-28 16:19:48,False,True
+2015-08-29T22:19:26,Dope vs. Straight outta Compton,1,0,Jordan Reed,3ViVPRWRRmk,0.2,2015-08-29 22:19:26,False,True
+2015-08-30T19:42:16,"Been out the scene for a minute, this what the kids be like now?",0,0,Slang Yung,3ViVPRWRRmk,0.0,2015-08-30 19:42:16,False,True
+2015-09-01T22:08:06,I love this movie XD  When he says that he's 14% African lmaoo kills me every time 😂😂😂😂,5,0,Don't Trust.,3ViVPRWRRmk,0.25,2015-09-01 22:08:06,False,True
+2015-09-02T20:30:25,Any1 no the name of the song in the club that goes ok don't piss me off,1,0,krischester07,3ViVPRWRRmk,0.5,2015-09-02 20:30:25,False,True
+2015-09-08T19:08:51,The chick is pretty cute,0,0,Ed S.,3ViVPRWRRmk,0.375,2015-09-08 19:08:51,False,True
+2015-09-09T06:37:09,i see people saying movies are shit when they judge it by its trailer,0,0,awoodenbrain100,3ViVPRWRRmk,-0.2,2015-09-09 06:37:09,False,True
+2015-09-12T07:25:49,ummmm....where's Forest?,0,0,26Passions,3ViVPRWRRmk,0.0,2015-09-12 07:25:49,False,True
+2015-09-14T00:54:36,I love myself!,0,0,Ashanti Nyongo,3ViVPRWRRmk,0.625,2015-09-14 00:54:36,False,True
+2015-09-14T20:01:29,streaming of this movie ?,0,0,Damola Arasanmi,3ViVPRWRRmk,0.0,2015-09-14 20:01:29,False,True
+2015-09-25T00:29:07,good movie,0,0,moonpie,3ViVPRWRRmk,0.7,2015-09-25 00:29:07,False,False
+2015-09-27T01:34:28,I watched this movie because of shemaeik Moore. He played in a show called incredible crew he is a good actor,0,0,KING 〽,3ViVPRWRRmk,0.8,2015-09-27 01:34:28,False,False
+2015-09-30T17:53:58,good movie.,0,0,jack jacksson,3ViVPRWRRmk,0.7,2015-09-30 17:53:58,False,False
+2015-10-01T23:30:22,A great movie :) Loved it,0,0,Aswad,3ViVPRWRRmk,0.6666666666666666,2015-10-01 23:30:22,False,False
+2015-10-02T02:14:36,"I just saw it,it is so dope,everyone should watch it👍🏼",2,0,Adriatikit Zeqiraj,3ViVPRWRRmk,0.0,2015-10-02 02:14:36,False,False
+2015-10-02T18:49:54,it's fuckin dope,0,0,Samu !,3ViVPRWRRmk,0.0,2015-10-02 18:49:54,False,False
+2015-10-02T20:58:59,Kap g?,0,0,TuzT,3ViVPRWRRmk,0.0,2015-10-02 20:58:59,False,False
+2015-10-04T11:15:59,"when black people make movies, not one white person in the movie lmfao.... speaking of racism....",8,6,karam Yousif,3ViVPRWRRmk,-0.08333333333333333,2015-10-04 11:15:59,False,False
+2015-10-04T20:05:56,Dope movie <3,0,0,Milton Palmares,3ViVPRWRRmk,1.0,2015-10-04 20:05:56,False,False
+2015-10-04T20:51:21,smartphone in the 90ts hhhhhh,0,0,Nader Hannachi,3ViVPRWRRmk,0.0,2015-10-04 20:51:21,False,False
+2015-10-06T11:19:13,"Hey, do you know what time it is? TIME TO WATCH A MOOOOVIEE! I watch my movies in 3 TO THE D, BABY. YEAH!  WOOOOOAH. NO NO NO NO NOWOOOOOAH.",0,0,Julio Medina,3ViVPRWRRmk,0.0,2015-10-06 11:19:13,False,False
+2015-10-06T11:19:18,"Hey, do you know what time it is? TIME TO WATCH A MOOOOVIEE! I watch my movies in 3 TO THE D, BABY. YEAH!  WOOOOOAH. NO NO NO NO NOWOOOOOAH.",0,0,Julio Medina,3ViVPRWRRmk,0.0,2015-10-06 11:19:18,False,False
+2015-10-07T12:17:25,ok where was Forest Whitaker in this?,0,2,csyd22,3ViVPRWRRmk,0.5,2015-10-07 12:17:25,False,False
+2015-10-08T19:44:05,90's hair,0,0,leo,3ViVPRWRRmk,0.0,2015-10-08 19:44:05,False,False
+2015-10-09T11:35:15,finished watching. sick movie should of gone a bit longer,0,0,CP,3ViVPRWRRmk,-0.7142857142857143,2015-10-09 11:35:15,False,False
+2015-10-09T18:42:12,i wath this movie today on popcorn time so great movie and tyga is in,0,0,Seven Lee,3ViVPRWRRmk,0.8,2015-10-09 18:42:12,False,False
+2015-10-10T04:37:06,I LOVE that they brought back the character Stacey from the movie The Wood to be in this movie as the same character.,0,0,William Delfera,3ViVPRWRRmk,0.16666666666666666,2015-10-10 04:37:06,False,False
+2015-10-11T20:42:42,Fantastic film.,0,0,TruthCode,3ViVPRWRRmk,0.4,2015-10-11 20:42:42,False,False
+2015-10-11T21:45:44,"Isnt the term ''Dope'', for heroin? But in this movie its about ''Molly'' AKA ''Ecstasy'' AKA ''MDMA'' ? . . . . . . . . . I KNOW I AM NOT FUN AT PARTIES.... XD",0,0,Lazar,3ViVPRWRRmk,-0.15,2015-10-11 21:45:44,False,False
+2015-10-12T02:32:15,we need a sequal,4,0,Musaka Sadi,3ViVPRWRRmk,0.0,2015-10-12 02:32:15,False,False
+2015-10-12T08:28:59,lol i thought was pogba,0,0,Wan Don,3ViVPRWRRmk,0.8,2015-10-12 08:28:59,False,False
+2015-10-12T13:02:34,#SODMG,0,0,MAZZAS FC,3ViVPRWRRmk,0.0,2015-10-12 13:02:34,False,False
+2015-10-13T02:19:25,"What about Inglewood, California...thats my hometown!",4,0,Yahshay Elkanan Yisrael,3ViVPRWRRmk,0.0,2015-10-13 02:19:25,False,False
+2015-10-13T02:43:47,Where's Quincy?,0,0,Eimy Bracho,3ViVPRWRRmk,0.0,2015-10-13 02:43:47,False,False
+2015-10-13T10:44:07,what is the name of that duubstep song at 0;56,1,0,randy totten,3ViVPRWRRmk,0.0,2015-10-13 10:44:07,False,False
+2015-10-14T03:24:59,The Yify squad is here!!,211,10,Chris Tian,3ViVPRWRRmk,0.0,2015-10-14 03:24:59,False,False
+2015-10-14T04:14:09,lame,1,0,Gary W-l-o-t,3ViVPRWRRmk,-0.5,2015-10-14 04:14:09,False,False
+2015-10-14T13:15:12,SPOILER: Can somebody name the song when Malcolm go dance with Nakia in Dom's party?,6,3,Pedro Luz,3ViVPRWRRmk,0.0,2015-10-14 13:15:12,False,False
+2015-10-14T17:52:13,crazy my old high school has been in many music videos and movies and all the times I've been in that school I have never seen a celeberty btw Gilbert Arenas and two members from system of a down when to that high school. grant high school is the name of the school,0,0,cris castillo,3ViVPRWRRmk,0.04634920634920635,2015-10-14 17:52:13,False,False
+2015-10-14T21:48:14,"I pity the fools who bashed the trailer and didn't see the movie. It's Dope, no pun intended.",250,0,Xainfinen,3ViVPRWRRmk,-0.1,2015-10-14 21:48:14,False,False
+2015-10-15T00:30:18,"Don't forget to leaf a like,.......Hisssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss🐸🐍🐊🐲🐸🐍🐊🐲🐉🐸🐍🐊🐲🐉🐢🐸🐍🐊🐲🐉",1,0,Canyon Estrada,3ViVPRWRRmk,0.0,2015-10-15 00:30:18,False,False
+2015-10-15T03:03:10,Music?,0,0,Gilbert Luna,3ViVPRWRRmk,0.0,2015-10-15 03:03:10,False,False
+2015-10-15T06:56:51,"Black Nerd White Thug  So, Nerd automatically means white, and Thug automatically means black.",1,0,Banks,3ViVPRWRRmk,-0.08333333333333333,2015-10-15 06:56:51,False,False
+2015-10-15T13:23:28,Shit was awesome......,2,0,Sammie Modeste,3ViVPRWRRmk,0.4,2015-10-15 13:23:28,False,False
+2015-10-15T18:03:09,This movie was soo good,0,0,Anas Btr ❼,3ViVPRWRRmk,0.7,2015-10-15 18:03:09,False,False
+2015-10-15T19:12:30,"I can't trust the reviews on IMDB, because black people like everything with black people in it, well it is downloaded so I'll give it a lash.",0,0,Kai Campbell,3ViVPRWRRmk,-0.16666666666666666,2015-10-15 19:12:30,False,False
+2015-10-16T22:42:23,Here come the Buzzfeed Social Justice Warriors in the comments...,3,2,OK,3ViVPRWRRmk,0.03333333333333333,2015-10-16 22:42:23,False,False
+2015-10-17T00:25:07,what is the song was played in these trailer?pleaseee,0,0,john lawrance,3ViVPRWRRmk,0.0,2015-10-17 00:25:07,False,False
+2015-10-17T01:03:25,dope movie. after watching this movie i can see why Asap Rocky and Chanel Iman broke up...,0,0,Talis,3ViVPRWRRmk,0.0,2015-10-17 01:03:25,False,False
+2015-10-17T02:01:36,I,0,0,Juvas Lima ಠ ͜ʖ ಠ,3ViVPRWRRmk,0.0,2015-10-17 02:01:36,False,False
+2015-10-17T03:08:53,this movie was filmed at my school.,0,0,SoCuteAri,3ViVPRWRRmk,0.0,2015-10-17 03:08:53,False,False
+2015-10-17T06:09:26,Aye ain't the main character the guy from childish gambino's firefly music video??,0,0,Unknown,3ViVPRWRRmk,-0.016666666666666677,2015-10-17 06:09:26,False,False
+2015-10-17T18:59:15,just pirated it and loved it!! great movie.  Geeks unite!!,0,0,NAK4MA PSY,3ViVPRWRRmk,1.0,2015-10-17 18:59:15,False,False
+2015-10-17T23:43:02,asap rocky is dope asf,1,1,Jesus Martinez,3ViVPRWRRmk,0.0,2015-10-17 23:43:02,False,False
+2015-10-18T05:42:19,What's the song that's playing at the party I remember hearing on the radio a few years back,1,0,CashAcquirer,3ViVPRWRRmk,-0.1,2015-10-18 05:42:19,False,False
+2015-10-18T11:34:52,Anybody else noticed that illuminati pyramid with an point at 2:03 before that D letter was written?,0,0,Skadi Sejdo,3ViVPRWRRmk,0.0,2015-10-18 11:34:52,False,False
+2015-10-18T13:37:32,one word..#Dope..!!,0,0,Jubilant Mathews,3ViVPRWRRmk,0.0,2015-10-18 13:37:32,False,False
+2015-10-22T05:36:05,"I want Tyler and Taco to be the main characters Taco, Tyler and Syd tha kid",14,2,Tim,3ViVPRWRRmk,0.16666666666666666,2015-10-22 05:36:05,False,False
+2015-10-22T23:06:27,was alright,0,0,dogsitter68,3ViVPRWRRmk,0.0,2015-10-22 23:06:27,False,False
+2015-10-23T19:12:14,Can anybody tell me what's the name of the song @56 seconds? PLEASE,1,0,Patrice Delley,3ViVPRWRRmk,0.0,2015-10-23 19:12:14,False,False
+2015-10-25T21:31:44,Fcking awesome movie.,0,0,LordRezord,3ViVPRWRRmk,1.0,2015-10-25 21:31:44,False,False
+2015-10-27T00:29:07,"No pun intended, but this movie was dope",0,0,swinggcat,3ViVPRWRRmk,0.0,2015-10-27 00:29:07,False,False
+2015-10-27T00:38:16,I love this movie,0,0,Isaiah Salazar,3ViVPRWRRmk,0.5,2015-10-27 00:38:16,False,False
+2015-10-27T15:03:36,nam of apps ??,0,0,esseddik dadi,3ViVPRWRRmk,0.0,2015-10-27 15:03:36,False,False
+2015-10-29T23:44:21,have one song when he dance with girl...    what the name of song?,0,0,Naaná,3ViVPRWRRmk,0.0,2015-10-29 23:44:21,False,False
+2015-10-30T01:32:45,good movie,0,0,Summer Sunshine,3ViVPRWRRmk,0.7,2015-10-30 01:32:45,False,False
+2015-10-30T10:05:45,Anybody know the song at 0:17 ?,0,0,Dinuka Malith,3ViVPRWRRmk,0.0,2015-10-30 10:05:45,False,False
+2015-10-31T22:40:51,10/10,0,0,uziseraphim,3ViVPRWRRmk,0.0,2015-10-31 22:40:51,False,False
+2015-11-02T19:40:24,dinuka song is i,0,0,MBOYA OBONYO,3ViVPRWRRmk,0.0,2015-11-02 19:40:24,False,False
+2015-11-02T20:12:38,are there more films like this?,0,0,NisHH,3ViVPRWRRmk,0.5,2015-11-02 20:12:38,False,False
+2015-11-03T23:11:56,one of the surprise of the year ... that movie was actually pretty good tbh,1,0,ytlmdg,3ViVPRWRRmk,0.475,2015-11-03 23:11:56,False,False
+2015-11-04T04:54:19,BLAKEEEEE <3 I gotta watch now.,0,0,Ashley Renee,3ViVPRWRRmk,1.0,2015-11-04 04:54:19,False,False
+2015-11-05T10:31:06,я обожаю этот фильм теперь,0,0,Miloki I,3ViVPRWRRmk,0.0,2015-11-05 10:31:06,False,False
+2015-11-07T19:16:43,Word up!,0,0,The Kanka Sorz,3ViVPRWRRmk,0.0,2015-11-07 19:16:43,False,False
+2015-11-07T23:29:30,That black kid looks like that kid from incredable crew,0,1,Cynthia,3ViVPRWRRmk,-0.16666666666666666,2015-11-07 23:29:30,False,False
+2015-11-12T20:26:17,last part killed it,0,0,kokingsclan2,3ViVPRWRRmk,-0.1,2015-11-12 20:26:17,False,False
+2015-11-14T01:34:00,A positive black movie doesn't make any money.  $18m total.  Compare with all the violent black movies.  What did Compton do:  $200m.,173,34,fooloof,3ViVPRWRRmk,-0.1812121212121212,2015-11-14 01:34:00,False,False
+2015-11-15T09:35:02,"I thought this movie was going to be comdey, little do I know it gets REALLY intense at times where I'm at the edge of my seat scared shitless.",0,0,3000marco1,3ViVPRWRRmk,0.0062500000000000056,2015-11-15 09:35:02,False,False
+2015-11-16T04:14:27,this was probably the best movie 2015 has ever seen,11,0,Daniel Fountain,3ViVPRWRRmk,1.0,2015-11-16 04:14:27,False,False
+2015-11-17T13:43:53,what was the song in the film when the shooting was,0,0,Richuks kiablo,3ViVPRWRRmk,0.0,2015-11-17 13:43:53,False,False
+2015-11-18T21:54:58,INGLEWOOD CA CITY OF CHAMPIONS. COMPTON SOUTH CENTRAL AND INGLEWOOD!,0,0,Alvz422,3ViVPRWRRmk,0.0,2015-11-18 21:54:58,False,False
+2015-11-19T14:14:59,I surprisingly enjoyed this movie 👍🏻,0,0,TheSanjay1910,3ViVPRWRRmk,0.5,2015-11-19 14:14:59,False,False
+2015-11-24T00:15:06,"This movie really good tbh, nothing like you expect it",597,17,Mikeyyismyloverr,3ViVPRWRRmk,0.7,2015-11-24 00:15:06,False,False
+2015-11-24T15:59:25,any suggestion of good movie?,0,2,Wan Annisa,3ViVPRWRRmk,0.7,2015-11-24 15:59:25,False,False
+2015-11-27T20:13:13,0:40 song,0,0,Ovidiu Baila,3ViVPRWRRmk,0.0,2015-11-27 20:13:13,False,False
+2015-11-27T23:13:10,Malcolm was from Incredible Crew,2,1,Jim Ross,3ViVPRWRRmk,0.9,2015-11-27 23:13:10,False,False
+2015-11-29T00:39:09,Am I the only one who thinks that shameik moore looks alot like Asap rocky?,78,10,Jeremy S,3ViVPRWRRmk,0.0,2015-11-29 00:39:09,False,False
+2015-11-30T01:39:53,SÓ EU DE BR AQUI ? FILME MAIS FODA DESSE ANO,5,2,Reddy Br7,3ViVPRWRRmk,0.0,2015-11-30 01:39:53,False,False
+2015-11-30T06:16:03,One of the best movies ever,0,0,schellhase2,3ViVPRWRRmk,1.0,2015-11-30 06:16:03,False,False
+2015-11-30T12:10:04,this movie is great lol,0,0,Name,3ViVPRWRRmk,0.8,2015-11-30 12:10:04,False,False
+2015-12-02T22:32:10,what's the name of the girl with them friend of the black guy,0,0,Dbsj Zgznd,3ViVPRWRRmk,-0.16666666666666666,2015-12-02 22:32:10,False,False
+2015-12-06T19:49:43,whats the song at 1-13-20 in the movie,0,0,varun shah,3ViVPRWRRmk,0.0,2015-12-06 19:49:43,False,False
+2015-12-06T20:02:06,plz let me know cuz i m super curious for that song..😆😆,0,0,varun shah,3ViVPRWRRmk,0.11666666666666665,2015-12-06 20:02:06,False,False
+2015-12-06T20:09:16,lol I was just searching for a musicvideo called dope by bts and I ended up here XD,0,0,birb means bird,3ViVPRWRRmk,0.8,2015-12-06 20:09:16,False,False
+2015-12-06T20:47:14,Lol I searched up dope -bts and this came up😂,0,0,Cindy Guo,3ViVPRWRRmk,0.8,2015-12-06 20:47:14,False,False
+2015-12-07T05:48:55,this movie is cool,0,0,Karol Sosa,3ViVPRWRRmk,0.35,2015-12-07 05:48:55,False,False
+2015-12-08T10:45:55,i watched this film,0,0,KELViiN,3ViVPRWRRmk,0.0,2015-12-08 10:45:55,False,False
+2015-12-09T22:34:28,good movie!,0,0,SuS. GAMING,3ViVPRWRRmk,0.875,2015-12-09 22:34:28,False,False
+2015-12-11T10:08:56,Song 1:36 please !!!,0,0,J3igBIG,3ViVPRWRRmk,0.0,2015-12-11 10:08:56,False,False
+2015-12-12T00:30:20,Asap Rocky <3,0,0,God Damn,3ViVPRWRRmk,1.0,2015-12-12 00:30:20,False,False
+2015-12-12T04:53:07,This movie was way better than i expected it to be,3,0,izaiaz12,3ViVPRWRRmk,0.2,2015-12-12 04:53:07,False,False
+2015-12-13T02:00:59,This was amazing with a good message behind it,0,0,tay x,3ViVPRWRRmk,0.3,2015-12-13 02:00:59,False,False
+2015-12-16T15:43:48,Fun fact: Inglewood has a higher black population than any other city in Cali (yes even Compton),1,0,Buridoughboy,3ViVPRWRRmk,0.06458333333333335,2015-12-16 15:43:48,False,False
+2015-12-19T05:28:26,Thats a movie the one wold like to watch,0,0,abed alhamwe,3ViVPRWRRmk,0.0,2015-12-19 05:28:26,False,False
+2015-12-19T19:12:06,saw it its good,0,0,DWT,3ViVPRWRRmk,0.7,2015-12-19 19:12:06,False,False
+2015-12-20T23:30:31,AXXO Squad is here!!!,0,0,Garrett Mckean,3ViVPRWRRmk,0.0,2015-12-20 23:30:31,False,False
+2015-12-21T20:58:54,Is anybody can tell me where find the jacket who is wearing by the girl at 1:50?,0,0,The White Wolf,3ViVPRWRRmk,0.0,2015-12-21 20:58:54,False,False
+2015-12-22T03:20:26,what's the song at 0:57,0,0,Kelly Bello,3ViVPRWRRmk,0.0,2015-12-22 03:20:26,False,False
+2015-12-23T08:42:51,Really good movie,0,0,fatima ampaware,3ViVPRWRRmk,0.7,2015-12-23 08:42:51,False,False
+2015-12-30T16:23:58,Denzel curry?,0,0,Where's my money,3ViVPRWRRmk,0.0,2015-12-30 16:23:58,False,False
+2016-01-05T22:41:10,What's the High School name from that ???,0,0,Tony Ryad,3ViVPRWRRmk,0.16,2016-01-05 22:41:10,False,False
+2016-01-05T23:44:17,ugly,0,0,najib lalai,3ViVPRWRRmk,-0.7,2016-01-05 23:44:17,False,False
+2016-01-05T23:44:35,ugly movie,1,0,najib lalai,3ViVPRWRRmk,-0.7,2016-01-05 23:44:35,False,False
+2016-01-06T15:55:47,Cool,0,0,survivor life,3ViVPRWRRmk,0.35,2016-01-06 15:55:47,False,False
+2016-01-07T09:22:19,Alguém aí Me Manda a Playlist completa?,0,0,Vitor Alves,3ViVPRWRRmk,0.0,2016-01-07 09:22:19,False,False
+2016-01-16T10:11:07,This movie is so good it gave me cancer. We also can forget the fact that it gave me a huge erection.,0,0,Cuan,3ViVPRWRRmk,0.55,2016-01-16 10:11:07,False,False
+2016-01-17T20:21:04,the ending when he read his essay to Harvard.... OMG that was powerful,574,12,Black Magic,3ViVPRWRRmk,0.3,2016-01-17 20:21:04,False,False
+2016-01-19T15:36:03,corniest movie ever made,3,2,tyler eric,3ViVPRWRRmk,0.0,2016-01-19 15:36:03,False,False
+2016-01-22T15:40:58,"just say the word , ""you're my niii ..."" *slap* 😂😂😂",30,0,Sakura,3ViVPRWRRmk,0.0,2016-01-22 15:40:58,False,False
+2016-01-31T08:33:19,is that syd the kid?,0,0,Kaiden,3ViVPRWRRmk,0.0,2016-01-31 08:33:19,False,False
+2016-02-02T00:19:46,this movie was surprisingly good asf,47,0,Speedstar Ken,3ViVPRWRRmk,0.7,2016-02-02 00:19:46,False,False
+2016-02-05T10:04:20,Already waiting for the second part :D,0,0,eldoka na wolno,3ViVPRWRRmk,0.5,2016-02-05 10:04:20,False,False
+2016-02-06T06:58:48,what is the song?,0,0,Ronnie Samonte,3ViVPRWRRmk,0.0,2016-02-06 06:58:48,False,False
+2016-02-09T18:59:02,"2009: the year of trash 2010: the year of trash again 2011: the year of dancing 2012: the year of YouTube fame 2013: the year of twerking 2014: the year of selfie (and comeback) 2015: the year of Los Angeles 2016: the year of death﻿ (and YouTube disappointment, New York City)﻿",0,3,Brayan Argandona Florentino,3ViVPRWRRmk,-0.2318181818181818,2016-02-09 18:59:02,False,False
+2016-02-13T04:14:22,"surprisingly good movie, when I had first seen the trailer I thought it looked stupid but it was a actually good",2,0,Jessica j,3ViVPRWRRmk,0.2125,2016-02-13 04:14:22,False,False
+2016-02-13T07:50:41,if this is what yams died for..prayers😭,0,0,Toxic To view,3ViVPRWRRmk,0.0,2016-02-13 07:50:41,False,False
+2016-02-13T16:11:48,Loved his band's music in the movie but Pharrell was behind that sound so I can see why it sounded so damn good...IF ONLY HE MADE THAT MUSIC FOR HIMSELF!!,0,0,The Rxckstar,3ViVPRWRRmk,0.175,2016-02-13 16:11:48,False,False
+2016-02-13T16:19:06,Personally I believe if they put Blake Anderson in the trailer it woulda gotten more love because Blake is the coolest white friend ever hahs,0,0,The Rxckstar,3ViVPRWRRmk,0.25,2016-02-13 16:19:06,False,False
+2016-02-13T16:31:46,I saw this last night and loved it,94,7,Taliyah Johnson,3ViVPRWRRmk,0.35,2016-02-13 16:31:46,False,False
+2016-02-14T16:47:31,That movie was fire to be honest really underrated,56,0,Random,3ViVPRWRRmk,0.4,2016-02-14 16:47:31,False,False
+2016-02-14T20:31:42,badass movie,0,0,Ernest Carranza,3ViVPRWRRmk,0.0,2016-02-14 20:31:42,False,False
+2016-02-15T00:44:27,Malcolm looks like NiQz,0,0,Veaze NC - @Veazed,3ViVPRWRRmk,0.0,2016-02-15 00:44:27,False,False
+2016-02-15T01:39:46,you can actually drive on Molly you dont go that crazy just drink a whole lot of water,2,0,Amanda Florez,3ViVPRWRRmk,-0.13333333333333333,2016-02-15 01:39:46,False,False
+2016-02-15T06:25:11,This is the realist movie ever man I wish drug dealing was that easy,0,0,Mauricio Sanchez,3ViVPRWRRmk,0.43333333333333335,2016-02-15 06:25:11,False,False
+2016-02-15T23:33:58,watching this right now ..love it so far,0,0,Kenny Markail,3ViVPRWRRmk,0.19285714285714284,2016-02-15 23:33:58,False,False
+2016-02-16T00:11:59,I JUST WANNA KNO IF HE MADE IT IN HARVARD,0,4,Kellee M,3ViVPRWRRmk,0.0,2016-02-16 00:11:59,False,False
+2016-02-17T10:14:24,what a dumb ass ending,1,0,LA_GALLADA_RUIZ,3ViVPRWRRmk,-0.375,2016-02-17 10:14:24,False,False
+2016-02-18T13:37:39,Great movie!,0,0,Lupita Montoya,3ViVPRWRRmk,1.0,2016-02-18 13:37:39,False,False
+2016-02-18T18:26:30,"In all honesty, this film is absolutely brilliant, my second favorite film of 2015. It's one of the smartest comedies ever made when tackling the genre and the subject matter and has some of the best modern film making in decades. It's truly a damn shame that the academy did not recognize this beautiful film, it should've been nominated for several oscars.",88,3,Hip to be square,3ViVPRWRRmk,0.4104166666666667,2016-02-18 18:26:30,False,False
+2016-02-19T00:24:29,I haven't seen this yet,0,0,Charles Smith,3ViVPRWRRmk,0.0,2016-02-19 00:24:29,False,False
+2016-02-19T00:28:43,is it funny,0,0,Charles Smith,3ViVPRWRRmk,0.25,2016-02-19 00:28:43,False,False
+2016-02-19T01:44:15,i love this movie,2,0,Josh Gentry,3ViVPRWRRmk,0.5,2016-02-19 01:44:15,False,False
+2016-02-19T02:16:19,One of the best films I've seen in a looooong time.,478,5,Beauty Effulgent,3ViVPRWRRmk,1.0,2016-02-19 02:16:19,False,False
+2016-02-20T07:23:16,"This movie hit me hard, I grew up in the suburbs where gang violence was a problem, dealt with it since I was a kid, and got picked on.   To me the most powerful scene in the entire movie was when the blood dude got the money bag and malcolm held a gun to the blood. You can see the pain and sadness in the blood dudes face as if ""Damn... i'm sorry for what i've done"" as if he did not know the real Malcolm. He didn't know what Malcolm went through, and finally the blood dude finally understood.. He felt sad, but at the same time he knew at that moment he wouldn't be able treat Malcolm the same ever again.",193,10,Tony Nguyen,3ViVPRWRRmk,0.01736111111111111,2016-02-20 07:23:16,False,False
+2016-02-20T23:45:43,Just saw this movie it's great.,0,0,Mr. White,3ViVPRWRRmk,0.8,2016-02-20 23:45:43,False,False
+2016-02-21T08:58:12,"Lol i love that kelly from the wood is in this movie as a school security guard. Its definitely him too due to it being the same neighborhood, same name, same tattoos, and the same director as the wood. At least we know that he didnt end up dead. That was awesome.",1,1,Nike Raikage,3ViVPRWRRmk,0.15227272727272728,2016-02-21 08:58:12,False,False
+2016-02-21T22:35:46,That was dope,0,0,Mari Arrazola,3ViVPRWRRmk,0.0,2016-02-21 22:35:46,False,False
+2016-02-22T06:04:01,"this l;oops like shit, acting looks terrible",0,1,poopmcscoopface,3ViVPRWRRmk,-0.39999999999999997,2016-02-22 06:04:01,False,False
+2016-02-22T16:48:57,This movie inspires me,0,0,SMBShippuden4,3ViVPRWRRmk,0.0,2016-02-22 16:48:57,False,False
+2016-02-22T21:44:26,MOVIE OF THE YEAR? YES!!,0,0,Trey Robinson,3ViVPRWRRmk,0.0,2016-02-22 21:44:26,False,False
+2016-02-22T23:40:13,Asap Rocky ...... Illuminati confirmed,0,0,DiZzySpiNningcLockSynDroMe,3ViVPRWRRmk,0.4,2016-02-22 23:40:13,False,False
+2016-02-23T10:54:51,"This movie is an absolute masterpiece. The storywriting, the acting, the music,... All of it. It's original, enthralling, and worldclass. If this trailer got you somewhat interested i highly recommend watching it, you will not be disappointed.",1,0,Frankske Verstraeten,3ViVPRWRRmk,0.03916666666666666,2016-02-23 10:54:51,False,False
+2016-02-23T20:43:25,Is that the bell boy from Grand Budapest Hotel?!,0,0,Ethan Fischer,3ViVPRWRRmk,0.625,2016-02-23 20:43:25,False,False
+2016-02-24T03:31:39,I sew the movie it was so good,0,0,Yvonne Chanda,3ViVPRWRRmk,0.7,2016-02-24 03:31:39,False,False
+2016-02-24T03:54:52,Any hip hop heads out there you will love this movie. It has a 90s vibe to it and a lot of 90s rap in the movie.,1,3,Jay_em2,3ViVPRWRRmk,0.5,2016-02-24 03:54:52,False,False
+2016-02-25T02:52:31,great great great great great great movie powerful. when he pull that gun out an said please give me the bag. I stop. an said that's what happens when you keep running up on people thinking you can whoop em. sooner or later that Got Damn it will come out,0,0,Cosmos the hustle man,3ViVPRWRRmk,0.6375,2016-02-25 02:52:31,False,False
+2016-02-25T02:53:05,an don't cry foul when you get poped,0,0,Cosmos the hustle man,3ViVPRWRRmk,0.0,2016-02-25 02:53:05,False,False
+2016-02-25T04:42:29,"Like most trailers, this doesn't capture the energy and mood of the story.  Such a creative movie!  Pretty terrible trailer.",0,0,reverse_halo,3ViVPRWRRmk,0.075,2016-02-25 04:42:29,False,False
+2016-02-27T05:04:05,i see why they hurried and took it out the theaters.great fuckin movie,0,0,Stebbie J,3ViVPRWRRmk,0.0,2016-02-27 05:04:05,False,False
+2016-02-27T18:39:44,i just watched this and it was so good,0,0,ella,3ViVPRWRRmk,0.7,2016-02-27 18:39:44,False,False
+2016-02-27T20:02:24,"""i"" 😍😍❤",0,0,Abhiram Gollapudi,3ViVPRWRRmk,0.0,2016-02-27 20:02:24,False,False
+2016-02-28T05:26:57,Pretty good movie 8/10,0,0,Leah benjamin,3ViVPRWRRmk,0.475,2016-02-28 05:26:57,False,False
+2016-02-28T23:44:43,if the Oreo band in this movie was real I would be a fanboy tbh,0,0,John Ramirez,3ViVPRWRRmk,0.2,2016-02-28 23:44:43,False,False
+2016-02-29T07:56:52,This trailer made the movie seem a lot funnier. Don't get me wrong it was still good just not as good as the trailer portrayed,1,0,Airstrike354,3ViVPRWRRmk,0.3,2016-02-29 07:56:52,False,False
+2016-02-29T08:42:07,that move should  be on the oscars somewere but sadly no one care,0,0,Dhoom Hussen,3ViVPRWRRmk,0.25,2016-02-29 08:42:07,False,False
+2016-03-01T01:20:39,"Best movie I've seen in a long time, deserved an Oscar nod in my opinion.",20,0,centralscrutinizer66,3ViVPRWRRmk,0.475,2016-03-01 01:20:39,False,False
+2016-03-02T21:42:56,This movie is great!...,0,0,Rafik Reseize,3ViVPRWRRmk,1.0,2016-03-02 21:42:56,False,False
+2016-03-05T06:48:07,Forest Walker,0,0,Forest Walker,3ViVPRWRRmk,0.0,2016-03-05 06:48:07,False,False
+2016-03-07T13:33:19,"Hey Guys, remember the security guard, Stacey. Well that's the same character who was in The Wood (1999)He even says ""You ask him about Stacey, and see whats what around this muthafucka"", he was a blood. Dope and The Wood are in the same universe. Crazy to me. I don't think any movie has ever done that.",0,0,Boo Boo,3ViVPRWRRmk,-0.19999999999999998,2016-03-07 13:33:19,False,False
+2016-03-07T13:43:35,"EVERYONE! Go watch The Wood on Netflix and then watch Dope on there up to the security scene. You'll see how these two movies connect. I mean ACTUALLY connect. Its crazy. Dope doesn't really take place in 2015, it takes place in the early 2000's, you'll see how ;)",0,1,Boo Boo,3ViVPRWRRmk,-0.06041666666666665,2016-03-07 13:43:35,False,False
+2016-03-09T06:01:15,this movie was dope af!,0,0,Raquel Moralez,3ViVPRWRRmk,0.0,2016-03-09 06:01:15,False,False
+2016-03-11T19:18:45,So I finally watched this movie last night and to my surprise it was a great movie.,0,0,DD LL,3ViVPRWRRmk,0.26666666666666666,2016-03-11 19:18:45,False,False
+2016-03-12T22:42:08,"This movie is one of the best movies, I couldn't stop watching it",0,0,Alika Franklin,3ViVPRWRRmk,1.0,2016-03-12 22:42:08,False,False
+2016-03-13T07:38:37,this movie was DOPE,0,0,Joshua Thach,3ViVPRWRRmk,0.0,2016-03-13 07:38:37,False,False
+2016-03-13T09:20:53,"Powerful message, executed perfectly. Filmmaking at it's finest!",0,0,Kevin McArdle,3ViVPRWRRmk,0.65,2016-03-13 09:20:53,False,False
+2016-03-13T15:12:31,bruh best moive  it dope fr,0,0,Ashley Mathews,3ViVPRWRRmk,1.0,2016-03-13 15:12:31,False,False
+2016-03-14T03:14:29,"Really good movie. Go watch it on Netflix. But first, I NEED TO PEE!! Only people who watched the movie would get it.",518,20,AM,3ViVPRWRRmk,0.36354166666666665,2016-03-14 03:14:29,False,False
+2016-03-14T06:46:45,did anyone notice that the mom was the bus driver,1,1,{Taya },3ViVPRWRRmk,0.0,2016-03-14 06:46:45,False,False
+2016-03-15T11:47:08,This is an amazing movie😍,0,0,M H,3ViVPRWRRmk,0.6000000000000001,2016-03-15 11:47:08,False,False
+2016-03-15T16:46:03,this movie is dope,0,0,Javier Vences,3ViVPRWRRmk,0.0,2016-03-15 16:46:03,False,False
+2016-03-17T06:02:22,yo.... they better make a dope 2 like fr,0,0,4bidden love,3ViVPRWRRmk,0.5,2016-03-17 06:02:22,False,False
+2016-03-17T19:37:47,Is that ASAP Rocky,0,0,Rico.Riveraa,3ViVPRWRRmk,0.0,2016-03-17 19:37:47,False,False
+2016-03-17T20:22:24,Such a great movie every bit is well done and performed,0,0,Mister Humbug,3ViVPRWRRmk,0.4,2016-03-17 20:22:24,False,False
+2016-03-19T17:46:20,This movie is great,0,0,Arctic TrapZ,3ViVPRWRRmk,0.8,2016-03-19 17:46:20,False,False
+2016-03-19T19:13:44,only reason I'm gonna watch this is cause A$AP ROCKY is in it,0,0,makeupbyoliviaa,3ViVPRWRRmk,0.0,2016-03-19 19:13:44,False,False
+2016-03-23T02:00:44,It's so good a dope dealer going to Harvard sick!,0,0,Dylan,3ViVPRWRRmk,-0.09642857142857147,2016-03-23 02:00:44,False,False
+2016-03-24T00:05:55,this movie was amazing. it was hilarious and it had a kind of deep meaning to it. definitely unexpected,0,0,its amanda,3ViVPRWRRmk,0.36000000000000004,2016-03-24 00:05:55,False,False
+2016-03-25T21:01:43,This movie was epic !! 👌🏽 Loved everything about it!,1,0,Diana Milan,3ViVPRWRRmk,0.515625,2016-03-25 21:01:43,False,False
+2016-03-27T14:56:49,"""Because I'm 14% African, Ancestry.com"" 😂😂",0,0,Cherukara Charger,3ViVPRWRRmk,0.0,2016-03-27 14:56:49,False,False
+2016-03-28T02:29:16,"For real, this is my first comment after watching a movie. And believe me, I watch a lot.  But this movie is dope af!!! Love the underneath message in this movie. Absolutely a must see. But I gotta pee right now!!! #DOPEviewersgetthis",4,0,ROTZOOI,3ViVPRWRRmk,0.38926339285714284,2016-03-28 02:29:16,False,False
+2016-03-28T21:58:28,gayest movie ever...  I gave it a shot. . but nope..  supergay,0,0,XOLOSBOY666999,3ViVPRWRRmk,0.0,2016-03-28 21:58:28,False,False
+2016-03-28T22:01:09,gayest movie ever...  I gave it a shot. . but nope..  supergay,0,0,XOLOSBOY666999,3ViVPRWRRmk,0.0,2016-03-28 22:01:09,False,False
+2016-03-28T23:49:42,"Soon as I saw Vince Staples, kinda flipped wit excitement.",2,0,KhamaronSteve,3ViVPRWRRmk,0.0,2016-03-28 23:49:42,False,False
+2016-03-29T04:14:42,Nigga....I said it and in white,0,0,heavenonearth,3ViVPRWRRmk,0.0,2016-03-29 04:14:42,False,False
+2016-03-29T18:06:56,I LOVE THIS MOVIE,5,0,flora mustamandi,3ViVPRWRRmk,0.5,2016-03-29 18:06:56,False,False
+2016-03-30T04:48:35,Actually liked the first part. But the whole second half of the movie was just uhhhh,0,0,rodelo,3ViVPRWRRmk,0.1766666666666667,2016-03-30 04:48:35,False,False
+2016-04-01T14:28:38,man this movie is just so bad. nothing in it who would make it a ''must be seen'' movie. just sucking cock and tryna be cool like ''how high''.,0,0,AmazZinGxZ,3ViVPRWRRmk,-0.06333333333333328,2016-04-01 14:28:38,False,False
+2016-04-01T23:04:00,omg i loved this movie i wanna watch it agaaaain!!!,0,0,angelina c,3ViVPRWRRmk,1.0,2016-04-01 23:04:00,False,False
+2016-04-02T07:58:12,Vince staples was hilarious in this,0,1,Devin Fuller,3ViVPRWRRmk,0.5,2016-04-02 07:58:12,False,False
+2016-04-02T09:34:33,song at 0.56?,0,0,Stefan Jargic,3ViVPRWRRmk,0.0,2016-04-02 09:34:33,False,False
+2016-04-04T19:19:41,This movie sux,0,4,presetts,3ViVPRWRRmk,0.0,2016-04-04 19:19:41,False,False
+2016-04-05T13:26:21,"really great movie, tackles the social stigma of living in a low income neighborhood and to not judge a book by its cover",11,0,ian,3ViVPRWRRmk,0.2777777777777778,2016-04-05 13:26:21,False,False
+2016-04-08T10:13:16,Is Tyga was shot in this movie?,0,1,3fanxyz,3ViVPRWRRmk,0.0,2016-04-08 10:13:16,False,False
+2016-04-08T21:32:11,I LOVE THIS MOVIE  best movie ever!,0,0,Malcolm Tyler,3ViVPRWRRmk,0.75,2016-04-08 21:32:11,False,False
+2016-04-10T04:02:55,I just finished watching this. It's amazing.❤️,0,0,The Mysties,3ViVPRWRRmk,0.0,2016-04-10 04:02:55,False,False
+2016-04-12T15:49:10,GUNZANDGRAMZ,0,0,Russb hunger games,3ViVPRWRRmk,0.0,2016-04-12 15:49:10,False,False
+2016-04-13T17:28:38,ugh tyga will never make it 5 minutes past being introduced in a movie,0,0,Old Crackhead,3ViVPRWRRmk,-0.25,2016-04-13 17:28:38,False,False
+2016-04-14T17:38:14,"This movie was decent, I thought we was gonna get more old school vibes like juice or boyz in the hood twist.",0,0,Michael Dunnom,3ViVPRWRRmk,0.25555555555555554,2016-04-14 17:38:14,False,False
+2016-04-22T22:13:17,That gun scene  was really emotional. It showed he didn't want to pick up the gun. Really disheartening....,0,0,Sae E,3ViVPRWRRmk,0.1,2016-04-22 22:13:17,False,False
+2016-04-24T02:04:14,I've watched this movie about 3 times cause it's literally the story of my life... does anyone a movie similar to this one?,2,0,Youssef Mikha Fady Mina,3ViVPRWRRmk,0.0,2016-04-24 02:04:14,False,False
+2016-04-24T07:26:34,i remember mc hammer from this movie....,0,0,Hanzel Bryan Enriquez,3ViVPRWRRmk,0.0,2016-04-24 07:26:34,False,False
+2016-04-24T08:17:03,can someone write names of songs from Dom's party?,0,0,Stefan Jargic,3ViVPRWRRmk,0.0,2016-04-24 08:17:03,False,False
+2016-04-27T23:33:16,so good,0,0,aureat,3ViVPRWRRmk,0.7,2016-04-27 23:33:16,False,False
+2016-04-28T23:42:35,tyga had the shortest role in history besides chris brown in stomp the yard 😂😂😂😂😂😂,0,1,Raymond Rowland,3ViVPRWRRmk,0.0,2016-04-28 23:42:35,False,False
+2016-05-02T19:50:05,Is the girl syd the kyd,0,1,Jashton,3ViVPRWRRmk,0.0,2016-05-02 19:50:05,False,False
+2016-05-07T11:33:03,Awesome movie 👌👏👏👏,0,0,Shmokey,3ViVPRWRRmk,1.0,2016-05-07 11:33:03,False,False
+2016-05-08T07:29:36,i loved this movie it made me so nostalgic for the 90's and there were so many great nerd jokes without feeling forced,23,0,grkpektis,3ViVPRWRRmk,0.24,2016-05-08 07:29:36,False,False
+2016-05-10T01:47:46,This movie was...dare i say...DOPE,1,0,King in the North,3ViVPRWRRmk,0.0,2016-05-10 01:47:46,False,False
+2016-05-13T04:08:15,i love the mexican that is always wearing a bucket hats,0,0,melissa,3ViVPRWRRmk,0.25,2016-05-13 04:08:15,False,False
+2016-05-13T05:10:04,no lie this movie is legit ..the ending was nice af,0,0,Crazy Clouds,3ViVPRWRRmk,0.6,2016-05-13 05:10:04,False,False
+2016-05-19T04:10:36,"This was an AMAZING movie! So much flavor and intelligence mixed together not just on the screen, but in the production as well! *spoiler alert* Definitely loved the part where Malcom holds the gun up, and also the Harvard Video!",0,0,jeyzcia,3ViVPRWRRmk,0.45625000000000004,2016-05-19 04:10:36,False,False
+2016-05-20T23:53:52,I hate movies like this. Bringing up ol'skool shit and mixing it with modern day shit. And how the 70's n 80's were mixed in to modern day shit like the movie chiraq.,0,0,chibangin007,3ViVPRWRRmk,-0.14285714285714285,2016-05-20 23:53:52,False,False
+2016-05-23T07:00:28,this movie was dope,0,1,2Pac4Life,3ViVPRWRRmk,0.0,2016-05-23 07:00:28,False,False
+2016-05-26T22:15:35,dope is dope,0,0,sidetrack hack,3ViVPRWRRmk,0.0,2016-05-26 22:15:35,False,False
+2016-05-31T05:35:59,It was almost like a movie version of Breaking Bad except with high school students and a strong play on the troubles of black youth,0,0,Basomic,3ViVPRWRRmk,-0.0683333333333333,2016-05-31 05:35:59,False,False
+2016-06-02T20:18:34,can't wait for Rick Famuyiwa to direct The Flash movie!,0,0,Jason Li,3ViVPRWRRmk,0.125,2016-06-02 20:18:34,False,False
+2016-06-03T07:27:27,Such a great movie. just finished it. God how i wan to marry zoe kravitz.,0,0,TXM3000,3ViVPRWRRmk,0.20000000000000004,2016-06-03 07:27:27,False,False
+2016-06-04T02:48:59,this movie was an extreme disappointment! (I read about it on Netflix and it had so much potential. The plot and ending are very poor.,0,0,I'm that Gringo,3ViVPRWRRmk,-0.34875,2016-06-04 02:48:59,False,False
+2016-06-04T20:08:31,Amazing film just want to watch it again :(,0,0,kelsey Smith,3ViVPRWRRmk,-0.07499999999999996,2016-06-04 20:08:31,False,False
+2016-06-05T23:10:42,Amazing movie,0,0,Nelly The King,3ViVPRWRRmk,0.6000000000000001,2016-06-05 23:10:42,False,False
+2016-06-05T23:34:46,Honestly one of the best films I've ever seen. Wow! like just did not expect it to be the way it was,4,0,TheRib09,3ViVPRWRRmk,0.5750000000000001,2016-06-05 23:34:46,False,False
+2016-06-06T17:15:51,Damn i watched this last year and didn't realise that was ASAP Rocky!!,0,0,Ben Dover,3ViVPRWRRmk,0.0,2016-06-06 17:15:51,False,False
+2016-06-08T19:45:50,*Nice movie creating animosity towards whites.*,1,1,Sam,3ViVPRWRRmk,0.6,2016-06-08 19:45:50,False,False
+2016-06-09T03:59:28,"they were in a band, there was drugs, guns, gangs, a DJ, nude, college. It had something for everyone!..how cute.. lame ass movie",0,0,presetts,3ViVPRWRRmk,0.0,2016-06-09 03:59:28,False,False
+2016-06-09T04:01:56,How am I supposed to eat my pound cake,36,1,Sonny,3ViVPRWRRmk,0.0,2016-06-09 04:01:56,False,False
+2016-06-09T16:08:12,"they were in a band, he was a ""nerd"", there was drugs, gangs, guns, a DJ, nude, had something for everyone!.. how cute.. two thumbs way down",0,0,presetts,3ViVPRWRRmk,0.17222222222222222,2016-06-09 16:08:12,False,False
+2016-06-09T19:12:50,best movie I've ever seen,0,0,Woshua314,3ViVPRWRRmk,1.0,2016-06-09 19:12:50,False,False
+2016-06-14T09:07:02,This Movie Was DOPE!,0,0,ΚΛΈΦΤΗΣ,3ViVPRWRRmk,0.0,2016-06-14 09:07:02,False,False
+2016-06-15T18:51:05,Best movie ever,0,0,Jasmin K,3ViVPRWRRmk,1.0,2016-06-15 18:51:05,False,False
+2016-06-17T19:58:41,Best movie I ever saw,0,0,Jack Mault,3ViVPRWRRmk,1.0,2016-06-17 19:58:41,False,False
+2016-06-20T13:33:54,Trashy trailer but a great movie,17,0,Nelly The King,3ViVPRWRRmk,0.8,2016-06-20 13:33:54,False,False
+2016-06-23T06:05:32,They need to make a part 2 of the Dope Movie ASAP!! I wanna know what happens next!!!,35,3,iTzWarfareHD,3ViVPRWRRmk,0.0,2016-06-23 06:05:32,False,False
+2016-06-24T03:34:11,No one I know has seen this movie. Wtf?,0,0,centralscrutinizer66,3ViVPRWRRmk,-0.5,2016-06-24 03:34:11,False,False
+2016-06-26T11:02:50,Dope and straight outta Compton were the best movies of 2015 in my opinion,0,0,Dj Fresh Beats 100,3ViVPRWRRmk,0.6,2016-06-26 11:02:50,False,False
+2016-06-27T11:11:57,"Guys I need help finding a song from this movie. Near the end when he's waiting for the the girl at prom there's a song playing and I want to know the name of it, do you guys have any clue ); ?",0,0,SkaterJames760,3ViVPRWRRmk,0.1,2016-06-27 11:11:57,False,False
+2016-06-30T13:09:47,"yo i swea, DOPE IS MY MF'N MOVIE no lie i watch it soooo many times",0,0,502 Zyiii,3ViVPRWRRmk,0.5,2016-06-30 13:09:47,False,False
+2016-06-30T15:22:06,this is dope,0,0,lil L,3ViVPRWRRmk,0.0,2016-06-30 15:22:06,False,False
+2016-07-01T21:01:07,Great film. I loved it,0,0,Suraj Pendyala,3ViVPRWRRmk,0.75,2016-07-01 21:01:07,False,False
+2016-07-05T04:59:48,When we gonna have dope 2 😜,0,0,Malcolm Tyler,3ViVPRWRRmk,0.0,2016-07-05 04:59:48,False,False
+2016-07-06T08:31:09,Kendrick Lamar - i,0,0,clapthony claptano,3ViVPRWRRmk,0.0,2016-07-06 08:31:09,False,False
+2016-07-06T16:04:11,Go to Netflix and you can watch this  I'm on Netflix to much lol Chicken...chicken,0,0,CanManStan Que,3ViVPRWRRmk,0.8,2016-07-06 16:04:11,False,False
+2016-07-09T14:43:12,favorite movie tbh,0,0,60 inch lacefront wig,3ViVPRWRRmk,0.5,2016-07-09 14:43:12,False,False
+2016-07-10T14:27:27,Great film,0,0,Mr Henderson,3ViVPRWRRmk,0.8,2016-07-10 14:27:27,False,False
+2016-07-12T16:29:50,Awesome film,0,0,Gianish Babajee,3ViVPRWRRmk,1.0,2016-07-12 16:29:50,False,False
+2016-07-12T18:22:15,Highly recommend this.,0,0,ArnoldsK,3ViVPRWRRmk,0.16,2016-07-12 18:22:15,False,False
+2016-07-13T23:33:25,Who was the bully that tried to take his shoes??? He looks familiar but idk his name help,0,1,Supreme Killa,3ViVPRWRRmk,0.375,2016-07-13 23:33:25,False,False
+2016-07-22T17:14:18,"I think the the word ""trailer"" turned into a synonym for synopsis",0,0,Kubilay Keser,3ViVPRWRRmk,0.0,2016-07-22 17:14:18,False,False
+2016-07-26T09:46:10,Are there any similar movies like this movie ?,2,4,Osman Hadgo,3ViVPRWRRmk,0.0,2016-07-26 09:46:10,False,False
+2016-07-26T16:12:41,This movie is so good bruh,0,0,London Fried Pigeon,3ViVPRWRRmk,0.7,2016-07-26 16:12:41,False,False
+2016-08-15T21:24:15,better than straight outta compton,0,0,thumbs down,3ViVPRWRRmk,0.35,2016-08-15 21:24:15,False,False
+2016-08-23T20:53:22,Yoooo any movie that is 50% like this one?,0,1,Leart Ramadani,3ViVPRWRRmk,0.0,2016-08-23 20:53:22,False,False
+2016-08-27T15:51:23,in my opinion one of the greatest movies of this generation. absolutely a different take on other hood movies.,0,0,Boxing View,3ViVPRWRRmk,0.2916666666666667,2016-08-27 15:51:23,False,False
+2016-08-28T04:52:00,"A BRILLIANT MOVIE... TEACHING OUR YOUNG TEENAGERS TO HAVE SEX AND DO DRUGS.. BUT ITS ALLL GOOOOD. THATS WHATS GOOD.. . DO DRUGS, HAVE SEX AND DROP OUT..",0,0,portraitphenomenon,3ViVPRWRRmk,0.5666666666666667,2016-08-28 04:52:00,False,False
+2016-08-28T18:05:12,the slap is the highlight of that trailer :))))),0,0,K Thomas,3ViVPRWRRmk,0.5,2016-08-28 18:05:12,False,False
+2016-08-30T06:02:02,dj shaolin,0,0,Mr BlepBlopBlup,3ViVPRWRRmk,0.0,2016-08-30 06:02:02,False,False
+2016-09-03T17:03:44,Such a DOPE movie! thoroughly enjoyed!!! :),0,0,Carmelita Dos Ramos,3ViVPRWRRmk,0.4921875,2016-09-03 17:03:44,False,False
+2016-09-06T15:10:14,Diggy is a fox,0,0,Joel Embiid's official burner account,3ViVPRWRRmk,0.0,2016-09-06 15:10:14,False,False
+2016-09-09T09:11:57,This movie is dope,0,0,Harold,3ViVPRWRRmk,0.0,2016-09-09 09:11:57,False,False
+2016-09-09T13:31:49,Anyone else from fung bros,0,0,Luca Leggo,3ViVPRWRRmk,0.0,2016-09-09 13:31:49,False,False
+2016-09-13T14:17:04,Pretty good movie.. Bitcoin really is the future of money. If you are interested in making easy bitcoin send me a message. You wont regret it,0,0,Astro City Pyro,3ViVPRWRRmk,0.3055555555555555,2016-09-13 14:17:04,False,False
+2016-09-22T22:30:12,"as your reading this comment, I'm Watching it on Netflix...again",0,0,Dr Pepper,3ViVPRWRRmk,0.0,2016-09-22 22:30:12,False,False
+2016-09-23T11:38:51,this movie looks dope!,0,1,Miķelis Baltruks,3ViVPRWRRmk,0.0,2016-09-23 11:38:51,False,False
+2016-10-10T02:16:23,Put subtitles on I'm dying!!!!😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆😆,0,0,Wrath of the Ancients,3ViVPRWRRmk,0.0,2016-10-10 02:16:23,False,False
+2016-10-16T22:33:09,i watched this movie more than 20 times lol,0,0,eastmadefreeze,3ViVPRWRRmk,0.65,2016-10-16 22:33:09,False,False
+2016-10-26T00:51:59,FAVORITE MOVIE EVER,0,0,Kate Books,3ViVPRWRRmk,0.5,2016-10-26 00:51:59,False,False
+2016-10-30T10:50:11,Damn thas how I wish i was with 90s hip hop.,2,0,Ra Ra,3ViVPRWRRmk,0.0,2016-10-30 10:50:11,False,False
+2016-11-09T00:35:31,I NEED TO SEE THIS IT LOOKS SO GOOD,1,1,sodachloride,3ViVPRWRRmk,0.7,2016-11-09 00:35:31,False,False
+2016-11-16T04:20:58,this movie was amazing,0,0,one punch fan 69,3ViVPRWRRmk,0.6000000000000001,2016-11-16 04:20:58,False,False
+2016-11-19T23:49:06,I always heard this was a good movie but decided to watch it on a slow day at work...movie is fire. I thought it was a phony ass 90's movie but they're just geeks who like the 90's style...this movie is official,4,0,jill scottman,3ViVPRWRRmk,0.19999999999999996,2016-11-19 23:49:06,False,False
+2016-11-26T15:09:48,I jack of to this movie,0,0,Rodolfo Alcocer,3ViVPRWRRmk,0.0,2016-11-26 15:09:48,False,False
+2016-12-17T21:40:23,"Just watched it, 10/10. #ASAP",0,0,Dennis Fucking Wilson,3ViVPRWRRmk,0.0,2016-12-17 21:40:23,False,False
+2017-01-11T08:14:46,whats a Slippery Slope,0,0,Evan Reed,3ViVPRWRRmk,0.0,2017-01-11 08:14:46,False,False
+2017-01-21T23:09:28,i am here for A$AP  Rocky,0,0,AlexSamios,3ViVPRWRRmk,0.0,2017-01-21 23:09:28,False,False
+2017-01-26T03:51:36,This is the greatest movie ever in my opinion👍,1,0,Ben Meyer,3ViVPRWRRmk,1.0,2017-01-26 03:51:36,False,False
+2017-01-26T23:15:54,I started watching this and after a couple minutes I turned it off. A couple months later I can really find anything to watch so I try watching this again and watched the whole thing. Holy shit is this movie good. I regret turning it off the first time,1,0,danner,3ViVPRWRRmk,0.19166666666666665,2017-01-26 23:15:54,False,False
+2017-01-27T11:32:10,Im here cause of VOY §,0,0,Akagami shanks,3ViVPRWRRmk,0.0,2017-01-27 11:32:10,False,False
+2017-01-28T23:51:05,My favorite movie ❤,0,0,Amaya Thomas,3ViVPRWRRmk,0.5,2017-01-28 23:51:05,False,False
+2017-02-05T23:39:04,1:09 guys help for i dont know english ? what do u mean here 1:09 ? shut the fu up right?,0,0,Doganays,3ViVPRWRRmk,-0.008928571428571433,2017-02-05 23:39:04,False,False
+2017-02-07T20:21:37,this movie is too good,1,0,Pawan Kashyap,3ViVPRWRRmk,0.7,2017-02-07 20:21:37,False,False
+2017-02-09T03:46:33,a really Dope movie.so so excellent! 👏,0,0,Jdjdjd Popo,3ViVPRWRRmk,0.6,2017-02-09 03:46:33,False,False
+2017-02-12T01:43:47,im glad they had kendricks i song in the backbround,0,0,ella no te ama,3ViVPRWRRmk,0.5,2017-02-12 01:43:47,False,False
+2017-02-13T15:33:23,yeha.....why cant i say the N word....when you can......whatz up with that dude....,1,0,Ganji Raja,3ViVPRWRRmk,0.0,2017-02-13 15:33:23,False,False
+2017-02-16T17:23:45,This movie seems dope AF!,0,1,Son Goku,3ViVPRWRRmk,0.0,2017-02-16 17:23:45,False,False
+2017-03-18T19:53:34,anyone else think that the three kids were disable planets?,0,0,Ashton Argento,3ViVPRWRRmk,0.0,2017-03-18 19:53:34,False,False
+2017-03-18T20:30:27,Watched this movie 9 times. This movie made me a 90s hiphop geek,0,0,Disguised Cheetah,3ViVPRWRRmk,0.0,2017-03-18 20:30:27,False,False
+2017-04-11T04:35:30,I like the haircut!,0,0,Alaina Landon,3ViVPRWRRmk,0.0,2017-04-11 04:35:30,False,False
+2017-04-12T17:44:56,This movie deserved an Oscar.,0,0,Gross,3ViVPRWRRmk,0.0,2017-04-12 17:44:56,False,False
+2017-04-19T03:13:32,SHAOLIN FANTASTICS A BAD MOTHERRRR FFFFF,0,0,goofy goober,3ViVPRWRRmk,-0.6999999999999998,2017-04-19 03:13:32,False,False
+2017-04-22T22:47:16,this is the wood of this generation,0,0,Marcell Johnson,3ViVPRWRRmk,0.0,2017-04-22 22:47:16,False,False
+2017-04-30T22:35:20,It's the MorningSide high school,0,0,PutActu,3ViVPRWRRmk,0.16,2017-04-30 22:35:20,False,False
+2017-05-05T19:24:42,Still My Favorite Movie,0,0,90sHip HopGeek,3ViVPRWRRmk,0.5,2017-05-05 19:24:42,False,False
+2017-05-11T12:07:35,ayo that chick digity fine as fuk love this movie its fire yo 100,0,0,Hector bossman,3ViVPRWRRmk,0.45833333333333337,2017-05-11 12:07:35,False,False
+2017-05-13T17:37:15,this movie was so good like I was not expecting this,0,0,Zartavious Lee,3ViVPRWRRmk,0.7,2017-05-13 17:37:15,False,False
+2017-05-16T23:21:05,Gta5 meets superbad,0,0,New Order of Alexandria,3ViVPRWRRmk,0.0,2017-05-16 23:21:05,False,False
+2017-05-20T19:57:06,"After watching the get down, it's weird seeing him w/out a beard🤔😂",0,0,Xiaolin Fantastic,3ViVPRWRRmk,-0.3277777777777778,2017-05-20 19:57:06,False,False
+2017-06-23T03:54:17,"A$ap Rocky, Kap G and Tyga in this",0,0,Alan Lozoya,3ViVPRWRRmk,0.0,2017-06-23 03:54:17,False,False
+2017-07-01T17:02:35,is Malcom ASAP's younger bro or wuh?,0,0,Boeta K,3ViVPRWRRmk,0.0,2017-07-01 17:02:35,False,False
+2017-07-07T11:17:14,Don't Use God Or Jesus Name In Vain Thank You,0,0,Fernando Torres,3ViVPRWRRmk,0.0,2017-07-07 11:17:14,False,False
+2017-07-08T09:19:07,dope two I would love to see it,0,0,EAT PUSSY DIE YOUNG,3ViVPRWRRmk,0.5,2017-07-08 09:19:07,False,False
+2017-07-10T07:09:38,Ok I see you,0,0,phillyflyboy,3ViVPRWRRmk,0.5,2017-07-10 07:09:38,False,False
+2017-07-24T14:43:46,This Girl from the movie looks like Bruno mars,0,0,Ricardo Kluis,3ViVPRWRRmk,0.0,2017-07-24 14:43:46,False,False
+2017-08-25T20:57:15,damn this movie was a trip,0,0,Emir Abdullah,3ViVPRWRRmk,0.0,2017-08-25 20:57:15,False,False
+2017-10-28T18:34:25,DOPE I watched and I tuck in love the movie,2,0,FANTAX GAMER,3ViVPRWRRmk,0.5,2017-10-28 18:34:25,False,False
+2017-12-03T03:33:30,Am I the only one who found out about Bitcoin from this movie? And wanted to buy but had no idea or balls on how,0,0,supras7,3ViVPRWRRmk,0.0,2017-12-03 03:33:30,False,False
+2017-12-06T01:13:31,I honestly like this movie,0,0,_Sausageman _,3ViVPRWRRmk,0.6,2017-12-06 01:13:31,False,False
+2017-12-25T05:48:58,best movie hands down,0,0,塁寿Ruisu,3ViVPRWRRmk,0.4222222222222222,2017-12-25 05:48:58,False,False
+2018-01-16T11:31:29,Alguien puede decirme el nombre de esta serie y si está en Netflix?,0,0,Franco Peralta,3ViVPRWRRmk,0.0,2018-01-16 11:31:29,False,False
+2018-01-19T00:56:17,"Only saw this recently, people should watch this if they haven't already.",1,0,Jamal Tyrone,3ViVPRWRRmk,0.0,2018-01-19 00:56:17,False,False
+2018-02-01T06:39:56,"Dope informal a drug taken illegally for recreational purposes, especially cannabis. ""police arrested a protester for smoking dope"" synonyms: drugs, narcotics, addictive drugs, recreational drugs, illegal drugs; More 2. informal a stupid person. ""though he wasn't an intellectual giant, he was no dope either""",0,0,BWAH Games!!!!,3ViVPRWRRmk,-0.12499999999999997,2018-02-01 06:39:56,False,False
+2018-02-10T04:13:44,"Aye, Kendrick Lamar",0,0,Guacamole Obama,3ViVPRWRRmk,0.0,2018-02-10 04:13:44,False,False
+2018-02-28T00:40:04,What songs are these?,0,0,God of worms,3ViVPRWRRmk,0.0,2018-02-28 00:40:04,False,False
+2018-04-15T18:32:02,WE NEED MORE MOVIES LIKE THIS,2,0,Eduardo jr Vasquez,3ViVPRWRRmk,0.5,2018-04-15 18:32:02,False,False
+2018-04-20T20:16:18,It was dope movie. But after watching that Trailer wasn't good enough...,0,0,YUNSUP,3ViVPRWRRmk,0.35,2018-04-20 20:16:18,False,False
+2018-05-18T22:47:05,Jay rock,0,0,Jaden Jackson,3ViVPRWRRmk,0.0,2018-05-18 22:47:05,False,False
+2018-08-30T21:09:16,i wanna watch this movie can any one give me a link or something .. i can't found it n Netflix !,0,0,siwar sayari,3ViVPRWRRmk,0.0,2018-08-30 21:09:16,False,False
+2018-09-02T14:39:53,Pound cake 😂😂,0,0,c ronaldo _GOD,3ViVPRWRRmk,0.0,2018-09-02 14:39:53,False,False
+2018-09-06T10:00:43,Ridiculously funny fresh original!,0,0,xpez,3ViVPRWRRmk,0.33958333333333335,2018-09-06 10:00:43,False,False
+2018-09-14T15:43:17,This movie is awesome!,0,0,J B,3ViVPRWRRmk,1.0,2018-09-14 15:43:17,False,False
+2018-09-15T17:29:21,Can someone suggest any other movies like this ???,0,1,ANJALI PGMEDICA,3ViVPRWRRmk,-0.125,2018-09-15 17:29:21,False,False
+2018-09-19T15:02:24,one of the best movies i have ever seen,0,0,elliot morgan,3ViVPRWRRmk,1.0,2018-09-19 15:02:24,False,False
+2018-10-14T22:57:34,Is this worth watching?,0,1,Maryam7862010,3ViVPRWRRmk,0.3,2018-10-14 22:57:34,False,False
+2018-12-02T18:02:05,Mnogo gotin film :),0,0,Йоана Иванова,3ViVPRWRRmk,0.5,2018-12-02 18:02:05,False,False
+2018-12-14T00:09:40,Lil durk in the thumbnail,1,0,BasicZ 223,3ViVPRWRRmk,0.0,2018-12-14 00:09:40,False,False
+2018-12-29T21:41:30,Miles Morales you've come a long way!,1,0,Dariush Asadi,3ViVPRWRRmk,-0.0625,2018-12-29 21:41:30,False,False
+2018-12-31T00:24:43,I don't know if I love this or hate this,0,0,Michele Zampillo,3ViVPRWRRmk,-0.15000000000000002,2018-12-31 00:24:43,False,False
+2019-01-04T19:19:50,Watching this because of A$AP right? good.  watch the film too..he killed it!,0,0,right spyder,3ViVPRWRRmk,0.24523809523809523,2019-01-04 19:19:50,False,False
+2019-01-25T01:47:31,Oh yeah yeah yeah,0,0,Franciscoagoat,3ViVPRWRRmk,0.0,2019-01-25 01:47:31,False,False
+2019-02-19T06:25:36,0:25 is that ASAP Rocky ?,0,0,Pratham Dhawan,3ViVPRWRRmk,0.0,2019-02-19 06:25:36,False,False
+2019-02-21T22:41:31,Man I feel like Donald Glover should have been in this movie as an uncle or something,0,1,recklezz _child,3ViVPRWRRmk,0.0,2019-02-21 22:41:31,False,False
+2019-03-24T00:48:50,Reminds me of on my block,0,0,sugar and spice,3ViVPRWRRmk,0.0,2019-03-24 00:48:50,False,False
+2019-05-19T18:23:03,This and The Wood are uo there with some of my fave coming of age movies.and same director,0,0,Eric Thornhill,3ViVPRWRRmk,0.0,2019-05-19 18:23:03,False,False
+2019-06-08T23:19:48,DOPPPPPPPPPPPPPPPPPPPPPPE,1,0,Tionna Fountain,3ViVPRWRRmk,0.0,2019-06-08 23:19:48,False,False
+2019-06-17T19:19:38,"""I love you dad"" ""That's a copy!""",1,0,Parodist,3ViVPRWRRmk,0.625,2019-06-17 19:19:38,False,False
+2019-06-19T02:47:39,"Didn’t even notice the transphobic joke, when I originally watched the film. I still love the movie, but that’s a real shame",1,0,Qwerty,3ViVPRWRRmk,0.35833333333333334,2019-06-19 02:47:39,False,False
+2019-07-05T06:41:41,The Girl boy looks like a god damn Bruno mars,0,1,LIL CRZY MUSIC,3ViVPRWRRmk,0.0,2019-07-05 06:41:41,False,False
+2019-07-11T16:37:51,Y_ck ASAP Rocky... But this looks *dope* though... _See what I did there??_ 😜,0,0,Ms. R,3ViVPRWRRmk,0.0,2019-07-11 16:37:51,False,False
+2019-07-19T07:53:20,Didn't even realise Rocky was here... anyway FREE ROCKY,0,1,Richard Lee,3ViVPRWRRmk,0.4,2019-07-19 07:53:20,False,False
+2019-07-30T21:55:13,Is this real ?,0,1,Mike,3ViVPRWRRmk,0.2,2019-07-30 21:55:13,False,False
+2019-08-11T13:07:20,Goog don depo 💥💪💢,0,0,Cliford Dessalines,3ViVPRWRRmk,0.0,2019-08-11 13:07:20,False,False
+2019-08-11T19:45:02,No dark-skinned women in this movie. They made sure all the ladies passed the “brown paper bag” test.,1,0,Oridginale24,3ViVPRWRRmk,0.5,2019-08-11 19:45:02,False,False
+2019-09-03T19:39:21,This trailer doesn't do the movie justice. It's much better than it looks here.,1,0,whateverlolawants,3ViVPRWRRmk,0.5,2019-09-03 19:39:21,False,False
+2019-10-04T01:53:45,0:18 Where's Tony?,0,0,The Truth,3ViVPRWRRmk,0.0,2019-10-04 01:53:45,False,False
+2019-10-09T00:52:23,"0:41, that's Angel Grove High from Power Rangers! LMAO",1,0,Sam Keller,3ViVPRWRRmk,0.4,2019-10-09 00:52:23,False,False
+2019-10-18T10:01:22,"This movie was amazing,i don't know how many times i've watched it",0,0,Cecile Mugenga,3ViVPRWRRmk,0.5,2019-10-18 10:01:22,False,False
+2019-10-20T08:45:22,Long Beach Griffy!,0,0,rachna satish,3ViVPRWRRmk,-0.0625,2019-10-20 08:45:22,False,False
+2019-11-09T07:12:32,LMFAO THIS YALL RAEKWON ON WU TANG ON HULU LMFAO. I CANT,0,0,NOISE,3ViVPRWRRmk,0.0,2019-11-09 07:12:32,False,False
+2019-12-09T14:13:05,0.20 İron man’s place,0,0,Ali Yıldırım,3ViVPRWRRmk,0.0,2019-12-09 14:13:05,False,False
+2019-12-11T19:48:18,"drug dealers are monsters - they are not humans anymore. those sub-animal monsters shoot be shot on sight. they should be shot with their own weapons and the money the stole from our society they don't belong to anymore should be given to the victims of the heartless monsters. those monster should be buried in the sea, food for fishes.",0,0,Forrest Gump,3ViVPRWRRmk,0.6,2019-12-11 19:48:18,False,False
+2019-12-14T22:20:50,This film is savagely underrated 😔,0,0,nestlecronch,3ViVPRWRRmk,0.0,2019-12-14 22:20:50,False,False
+2020-01-30T17:46:44,"Damn, thank you for this movie. It introduced me to Bitcoin! I've been in it since 2015",1,0,Blujay188,3ViVPRWRRmk,0.0,2020-01-30 17:46:44,False,False
+2020-03-12T16:43:55,I’ll be watching this again,0,0,IWatchWeirdVideos,3ViVPRWRRmk,0.0,2020-03-12 16:43:55,False,False
+2020-03-28T06:25:02,This the story of how tyler the creator was created🔥🔥🔥🤔,1,0,çřïs,3ViVPRWRRmk,0.0,2020-03-28 06:25:02,False,False
+2020-03-29T00:20:46,"About to watch this gem again, its been a while. such a good movie bro",0,0,Sherlie Saint Louis,3ViVPRWRRmk,0.35,2020-03-29 00:20:46,False,False
+2020-04-06T13:00:53,where do i watch this i tried netflix but they took it down,1,0,vieda z.,3ViVPRWRRmk,-0.15555555555555559,2020-04-06 13:00:53,False,False
+2020-05-04T15:39:42,Movie sucks,0,0,Michael Waterfor,3ViVPRWRRmk,-0.3,2020-05-04 15:39:42,False,False
+2020-05-28T11:04:22,IKLAN RISE OF KINGDOM CEM MEMEKKK,0,0,Calvin R,3ViVPRWRRmk,0.0,2020-05-28 11:04:22,False,False
+2020-06-11T03:04:08,"i personally don’t really like this movie. there’s not like a main thing that’s wrong with it, but like little things like the dudes haircut that annoys me. i only liked the speech at the end.",0,0,CB19,3ViVPRWRRmk,0.039880952380952385,2020-06-11 03:04:08,False,False

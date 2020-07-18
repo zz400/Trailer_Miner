@@ -1,0 +1,617 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2015-10-30T00:21:21,First,0,0,Joe Schmoe,L6vBnnryIug,0.25,2015-10-30 00:21:21,True,True
+2015-10-30T00:22:45,what a stupid idea for a movie,6,3,Jasem A,L6vBnnryIug,-0.7999999999999999,2015-10-30 00:22:45,True,True
+2015-10-30T00:24:08,I am first trust me those other comments are fake,0,2,ron bragin,L6vBnnryIug,-0.125,2015-10-30 00:24:08,True,True
+2015-10-30T00:25:24,Wow wow wow I will not watch this one,1,1,Raymundo Gapan,L6vBnnryIug,0.10000000000000002,2015-10-30 00:25:24,True,True
+2015-10-30T00:25:39,I like this Doris lady,508,4,coffee x,L6vBnnryIug,0.0,2015-10-30 00:25:39,True,True
+2015-10-30T00:29:43,7th,0,0,Daniel Vasquez,L6vBnnryIug,0.0,2015-10-30 00:29:43,True,True
+2015-10-30T00:36:52,I was waiting for the prequel to My Name is Slim Shady 😀,0,0,Yoshi,L6vBnnryIug,-0.25,2015-10-30 00:36:52,True,True
+2015-10-30T00:38:43,jajaja,0,0,Jack Gómez,L6vBnnryIug,0.0,2015-10-30 00:38:43,True,True
+2015-10-30T00:39:05,My mom <<<<< Sally Field. I would mom her so quick.,1,2,Invidious TV,L6vBnnryIug,0.3333333333333333,2015-10-30 00:39:05,True,True
+2015-10-30T00:39:34,"This ""senior Ugly Betty"" story makes no sense at all. But what can I do? I love Sally Field, so I will probably watch it.",29,2,Cat Lessons,L6vBnnryIug,-0.09999999999999998,2015-10-30 00:39:34,True,True
+2015-10-30T00:40:01,no,0,0,Logan Boice,L6vBnnryIug,0.0,2015-10-30 00:40:01,True,True
+2015-10-30T00:43:21,"Everyone and their potatoes are thing this, lets get this out in the open:  *Will they bone?*",0,0,Viet Lee,L6vBnnryIug,0.0,2015-10-30 00:43:21,True,True
+2015-10-30T00:43:30,Its Schmidt!,3,0,Zaid Haque,L6vBnnryIug,0.0,2015-10-30 00:43:30,True,True
+2015-10-30T00:49:01,ew,0,0,The World Critic and gamer,L6vBnnryIug,0.0,2015-10-30 00:49:01,True,True
+2015-10-30T00:50:14,and when its an older guy and a younger girl hes a perv,259,40,RandomGamerCory,L6vBnnryIug,0.08333333333333333,2015-10-30 00:50:14,True,True
+2015-10-30T00:51:36,Yo!! Its Aunt May,36,0,Spideylife,L6vBnnryIug,0.0,2015-10-30 00:51:36,True,True
+2015-10-30T00:51:41,can't wait,0,0,erin freaks,L6vBnnryIug,0.0,2015-10-30 00:51:41,True,True
+2015-10-30T00:51:51,THIS IS SO CUTE I'M IN LOVE 😍,2,0,Helen Odhiambo,L6vBnnryIug,0.5,2015-10-30 00:51:51,True,True
+2015-10-30T00:54:12,My name is Jeff,0,0,Some Random Bryan,L6vBnnryIug,0.0,2015-10-30 00:54:12,True,True
+2015-10-30T00:55:07,I must see it,86,2,Cily hair stylist,L6vBnnryIug,0.0,2015-10-30 00:55:07,True,True
+2015-10-30T00:57:42,This is veeeery weird. But it's ok if you watch it.,0,0,AscendedLove,L6vBnnryIug,0.0,2015-10-30 00:57:42,True,True
+2015-10-30T01:00:19,good,0,0,Kamal Lotfy,L6vBnnryIug,0.7,2015-10-30 01:00:19,True,True
+2015-10-30T01:00:42,"It looks cute, but Sally Field is too cool to play someone so ""unhip"".",194,1,Nola Chick,L6vBnnryIug,0.425,2015-10-30 01:00:42,True,True
+2015-10-30T01:02:07,hi my name is cicka cicka slim shady,0,0,Connor Franklin,L6vBnnryIug,-0.25,2015-10-30 01:02:07,True,True
+2015-10-30T01:12:17,best trailer,1,0,Jude Choizy,L6vBnnryIug,1.0,2015-10-30 01:12:17,True,True
+2015-10-30T01:12:43,Cougs,0,0,Thelilchurro!,L6vBnnryIug,0.0,2015-10-30 01:12:43,True,True
+2015-10-30T01:13:50,Wtf this is weird..,0,0,Martian_,L6vBnnryIug,-0.5,2015-10-30 01:13:50,True,True
+2015-10-30T01:14:21,"No, you are not Doris. You are Aunt May.",3,0,Estivel Garcia,L6vBnnryIug,0.0,2015-10-30 01:14:21,True,True
+2015-10-30T01:20:48,i want to see it!!!,0,0,witney :3,L6vBnnryIug,0.0,2015-10-30 01:20:48,True,True
+2015-10-30T01:24:35,Max Greenfield is everywhere now.,27,0,Kimtothekizzo,L6vBnnryIug,0.0,2015-10-30 01:24:35,True,True
+2015-10-30T01:26:43,this looks brilliant!,0,0,Kate Hu,L6vBnnryIug,1.0,2015-10-30 01:26:43,True,True
+2015-10-30T01:34:36,Schmidt what the actual- wHERE IS CECE,0,0,Addie,L6vBnnryIug,0.0,2015-10-30 01:34:36,True,True
+2015-10-30T01:44:46,bleachers!,0,0,Jayden Miller,L6vBnnryIug,0.0,2015-10-30 01:44:46,True,True
+2015-10-30T01:54:27,"He is gay,end.",0,0,Mr. Manbat,L6vBnnryIug,0.0,2015-10-30 01:54:27,True,True
+2015-10-30T01:55:47,is that anna at 1:18???,0,0,Kaleb Collins,L6vBnnryIug,0.0,2015-10-30 01:55:47,True,True
+2015-10-30T02:16:13,Sally Field is the best thing in Amazing Spiderman 2.,12,0,Vader...You Seek Vader!,L6vBnnryIug,0.8,2015-10-30 02:16:13,True,True
+2015-10-30T02:36:08,this movie looks awful,1,0,Blaise Evora,L6vBnnryIug,-1.0,2015-10-30 02:36:08,True,True
+2015-10-30T02:37:07,"more like ""cougars the movie""",0,0,edpetres,L6vBnnryIug,0.5,2015-10-30 02:37:07,True,True
+2015-10-30T02:38:28,Lol Anna Akana wouldn't be shit if it wasn't for Ray William Johnson,1,0,Yell0wCubix,L6vBnnryIug,0.30000000000000004,2015-10-30 02:38:28,True,True
+2015-10-30T02:39:15,so..... its a movie about a cougar...,0,0,edpetres,L6vBnnryIug,0.0,2015-10-30 02:39:15,True,True
+2015-10-30T02:40:24,Did I saw Anna Akana (I don't know If I wrote the name right) in the minute 1:18 ?!,116,5,Victor Bethen,L6vBnnryIug,0.3571428571428571,2015-10-30 02:40:24,True,True
+2015-10-30T02:41:45,ANNA AKANA heyy,1,0,Thomas Nguyen,L6vBnnryIug,0.0,2015-10-30 02:41:45,True,True
+2015-10-30T02:47:50,Yeeeeeeeeeeeeeeeeees,0,0,Jose Santiago,L6vBnnryIug,0.0,2015-10-30 02:47:50,True,True
+2015-10-30T03:00:42,"if it werent because of steel magnolias, i wouldnt be waiting for this movie to come out. love her af",2,1,Gani Santos,L6vBnnryIug,0.5,2015-10-30 03:00:42,True,True
+2015-10-30T03:03:30,I've been waiting months for this trailer!!! ,4,0,Dale,L6vBnnryIug,0.0,2015-10-30 03:03:30,True,True
+2015-10-30T03:23:47,I like to watch this movie.😊👍,1,1,Jc Juego,L6vBnnryIug,0.0,2015-10-30 03:23:47,True,True
+2015-10-30T03:24:13,as long as they don't do a remake with an urban upbeat hip hop dancing that sometimes turns into a martial arts 50 shades of grey sequel then I will totally partake in the seeing of this fine feature film,0,0,PODFUN,L6vBnnryIug,0.05277777777777778,2015-10-30 03:24:13,True,True
+2015-10-30T03:33:55,Hello my name is JON CENAAAAAAAAAAAAAAAA,0,0,Roogster,L6vBnnryIug,0.0,2015-10-30 03:33:55,True,True
+2015-10-30T03:42:26,I would.  No effort on her part either.,0,0,Matt Hendon,L6vBnnryIug,0.0,2015-10-30 03:42:26,True,True
+2015-10-30T04:17:36,1:17 ANNA AKANA!!!!! she's the only reason I'm gonna watch this movie,2,1,Noor Fadl,L6vBnnryIug,0.0,2015-10-30 04:17:36,True,True
+2015-10-30T04:38:25,WHAT THE HELL?,1,0,Jole Aron,L6vBnnryIug,0.0,2015-10-30 04:38:25,True,True
+2015-10-30T04:44:52,what a lucky grandmother! i have to watch this!,0,0,Anindhita Putry Novira,L6vBnnryIug,0.5208333333333333,2015-10-30 04:44:52,True,True
+2015-10-30T05:33:08,Anna akana !!!!!,0,0,Maisara Annuar,L6vBnnryIug,0.0,2015-10-30 05:33:08,True,True
+2015-10-30T06:16:43,Talk about BeachBlanketBingo!!! Gidget looking good...,1,0,PRiMiTiVE FORM,L6vBnnryIug,0.7,2015-10-30 06:16:43,True,True
+2015-10-30T06:20:35,"I love anything Michael Showalter does,  so i'm definitely going to be checking this out",3,0,PowerGlove79,L6vBnnryIug,0.25,2015-10-30 06:20:35,True,True
+2015-10-30T06:21:15,This looks amazing!,0,1,JASON ROBERTS,L6vBnnryIug,0.7500000000000001,2015-10-30 06:21:15,True,True
+2015-10-30T06:33:30,WHAT IS THAT SONG? I CAN'T FIND IT ANYWHERE,6,2,Senthil Kumaran,L6vBnnryIug,0.0,2015-10-30 06:33:30,True,True
+2015-10-30T08:09:52,Hello this looks shit,0,0,Stage Jax||Founder & Owner,L6vBnnryIug,-0.2,2015-10-30 08:09:52,True,True
+2015-10-30T08:38:22,"Sally Field, Schmidt from New Girl AND the guy who made Wet Hot American Summer? I'm in.",1,0,President Yomama,L6vBnnryIug,0.0715909090909091,2015-10-30 08:38:22,True,True
+2015-10-30T09:26:00,OMG IS THAT ANNA AKANA,0,0,Saeed Jalal,L6vBnnryIug,0.0,2015-10-30 09:26:00,True,True
+2015-10-30T09:55:16,jack antonoff <3,0,0,Lucas Dunham,L6vBnnryIug,1.0,2015-10-30 09:55:16,True,True
+2015-10-30T10:43:37,"Plot twist, Doris is the Addiction Demon.",0,0,D Kuds,L6vBnnryIug,0.0,2015-10-30 10:43:37,True,True
+2015-10-30T10:52:28,"Hello, My Name is Jeff",258,6,the viper life HQ,L6vBnnryIug,0.0,2015-10-30 10:52:28,True,True
+2015-10-30T12:24:18,sounds like some really good bullshit,0,0,CrazyKellerassel,L6vBnnryIug,0.7,2015-10-30 12:24:18,True,True
+2015-10-30T12:52:04,"Hello, My Name Is May",0,0,Marcy Webb,L6vBnnryIug,0.0,2015-10-30 12:52:04,True,True
+2015-10-30T12:58:36,YO ANNA AKANA!!!,0,0,apoxapex,L6vBnnryIug,0.0,2015-10-30 12:58:36,True,True
+2015-10-30T14:22:09,Mama?,0,0,DEEZ GUYZ,L6vBnnryIug,0.0,2015-10-30 14:22:09,True,True
+2015-10-30T14:54:23,Looks funny but creepy,0,0,Andrew Clancy,L6vBnnryIug,-0.125,2015-10-30 14:54:23,True,True
+2015-10-30T14:58:41,"Not my usual type of movie, but Sally...ohh Sally...such a sweetheart, i'll check this out for sure, looks fun.",2,0,Retro PAT,L6vBnnryIug,0.18333333333333335,2015-10-30 14:58:41,True,True
+2015-10-30T15:46:31,i love how anna akana is in it :3,0,0,Anna,L6vBnnryIug,0.5,2015-10-30 15:46:31,True,True
+2015-10-30T16:02:19,HI MY NAME IS...WOAH? MY NAME IS... WHO? MY NAME IS .......TSCICKETSCHIKE BORIS,0,1,FlavioDelVVVID Daily,L6vBnnryIug,0.0,2015-10-30 16:02:19,True,True
+2015-10-30T16:35:59,You know that feeling you get in you're butt when you feel uncomfortable?? I felt that watching this trailer.,0,0,Joseph Charles Halpin,L6vBnnryIug,-0.5,2015-10-30 16:35:59,True,True
+2015-10-30T16:46:58,Ooh Sally Field and Max Greenfield that's an interesting  combination but I like it !,4,0,JustUs,L6vBnnryIug,0.625,2015-10-30 16:46:58,True,True
+2015-10-30T17:01:35,0:47 - LOL:ed so hard! Sally Field rules.,6,0,MariaVosa,L6vBnnryIug,-0.36458333333333337,2015-10-30 17:01:35,True,True
+2015-10-30T17:17:47,SCHMIDT!,0,0,Joshua Moses,L6vBnnryIug,0.0,2015-10-30 17:17:47,True,True
+2015-10-30T17:44:56,WTF,0,0,BarcelonaDude6,L6vBnnryIug,-0.5,2015-10-30 17:44:56,True,True
+2015-10-30T17:52:31,nah,0,0,Josh,L6vBnnryIug,0.0,2015-10-30 17:52:31,True,True
+2015-10-30T18:23:04,Adele brought me here,0,0,SomethingRandom,L6vBnnryIug,0.0,2015-10-30 18:23:04,True,True
+2015-10-30T19:16:28,Doris is breathing life into me....,3,0,Dan B.,L6vBnnryIug,0.0,2015-10-30 19:16:28,True,True
+2015-10-30T19:50:46,GIDGET 2015!!!,0,0,1Southsideplaya,L6vBnnryIug,0.0,2015-10-30 19:50:46,True,True
+2015-10-30T20:20:31,"Yes, go Sally~!",2,0,Emilia Ramos,L6vBnnryIug,0.0,2015-10-30 20:20:31,True,True
+2015-10-30T21:27:08,"Hello, My Name Is Jooohn Ceenaaa!!",0,0,Elefthesis,L6vBnnryIug,0.0,2015-10-30 21:27:08,True,True
+2015-10-31T00:05:24,When Your name is Doris too 😂 bruh,3,0,Doris Paniagua,L6vBnnryIug,0.0,2015-10-31 00:05:24,True,True
+2015-10-31T00:22:03,"Who else got here after searching Adele's ""hello""??",0,0,Bradley Harris,L6vBnnryIug,0.0,2015-10-31 00:22:03,True,True
+2015-10-31T01:11:37,I LOVE SALLY,5,0,Sabrina R,L6vBnnryIug,0.5,2015-10-31 01:11:37,True,True
+2015-10-31T01:30:53,hahahaaa so comedy,1,0,joel,L6vBnnryIug,0.0,2015-10-31 01:30:53,True,True
+2015-10-31T04:35:51,Awesome,1,0,Michael,L6vBnnryIug,1.0,2015-10-31 04:35:51,True,True
+2015-10-31T05:24:02,"This looks delightful and as excited as I am about Sally Field, I gasped when I saw Tyne Daly.  I love it already!",5,0,mcgarrygirl 78,L6vBnnryIug,0.6666666666666666,2015-10-31 05:24:02,True,True
+2015-10-31T09:01:07,Hey I saw Nichols from oitnb!,0,0,Eda Selin,L6vBnnryIug,0.0,2015-10-31 09:01:07,True,True
+2015-10-31T10:46:35,if this is the outlook on all women named doris I'm excited to grow old,2,1,Doris H,L6vBnnryIug,0.2375,2015-10-31 10:46:35,True,True
+2015-10-31T11:03:20,doris issss too old,0,0,KaStarGaming,L6vBnnryIug,0.1,2015-10-31 11:03:20,True,True
+2015-10-31T11:22:14,OMG ANNA AKANA,0,0,akpopgirlsthoughts,L6vBnnryIug,0.0,2015-10-31 11:22:14,True,True
+2015-10-31T11:34:06,I was actually looking for Adele's new song,0,0,Issie,L6vBnnryIug,0.06818181818181818,2015-10-31 11:34:06,True,True
+2015-10-31T14:47:50,moze li neko da mi da  link gde moze da se gleda film sa prevodom?,0,0,Marija Radosevic,L6vBnnryIug,0.0,2015-10-31 14:47:50,True,True
+2015-10-31T16:34:06,Omg   When Iu was Young I Had Sex With a Woman like her was great.,0,0,BIBLIOTECA COSMICA,L6vBnnryIug,0.45,2015-10-31 16:34:06,True,True
+2015-10-31T18:39:40,Field's still has the cute charm,1,0,Luke Youngman,L6vBnnryIug,0.5,2015-10-31 18:39:40,True,True
+2015-10-31T21:20:06,look really nice jejej,0,0,Luis Alejandro Pastrana Gallegos,L6vBnnryIug,0.6,2015-10-31 21:20:06,True,True
+2015-10-31T21:39:59,Reminds me of Harold and Maude,0,0,Yasmin Dovodova,L6vBnnryIug,0.0,2015-10-31 21:39:59,True,True
+2015-10-31T23:02:29,Gross.,0,0,Boat,L6vBnnryIug,0.0,2015-10-31 23:02:29,True,True
+2015-11-01T05:32:40,Wait...I laughed twice during this trailer. This never happens to me! And I think I smiled the whole time too.,1,0,urockit2011,L6vBnnryIug,0.5583333333333333,2015-11-01 05:32:40,True,True
+2015-11-01T09:32:37,1:16 everybody! Who know this song??,0,0,Fai Kanyarat,L6vBnnryIug,0.0,2015-11-01 09:32:37,True,True
+2015-11-01T13:23:51,He'll turn out to be gay.,0,0,Aerrowflex,L6vBnnryIug,0.4166666666666667,2015-11-01 13:23:51,True,True
+2015-11-01T13:38:31,Slightly creepy.,0,1,dirkbogarde44,L6vBnnryIug,-0.5,2015-11-01 13:38:31,True,True
+2015-11-01T14:09:17,The first time I saw her on the side of the road in her wedding gown I KNEW she was a keeper.  ;)  I can't wait to see this.,2,0,JB beatle,L6vBnnryIug,0.25,2015-11-01 14:09:17,True,True
+2015-11-01T16:04:12,sally field never lets me down all her movies,2,0,APPLE Job,L6vBnnryIug,-0.15555555555555559,2015-11-01 16:04:12,True,True
+2015-11-01T16:43:06,yay max greenfield!! hes gonna b a star,0,0,julia caitlin,L6vBnnryIug,0.0,2015-11-01 16:43:06,True,True
+2015-11-01T23:46:36,Lol. I love it. ^·^,1,0,JDGamingPR,L6vBnnryIug,0.65,2015-11-01 23:46:36,True,True
+2015-11-02T23:08:51,"Sally is so, cute :)",1,0,Muhammad Aamir,L6vBnnryIug,0.5,2015-11-02 23:08:51,True,True
+2015-11-03T06:32:16,ANNA,0,0,waste_daisy,L6vBnnryIug,0.0,2015-11-03 06:32:16,True,True
+2015-11-03T10:18:46,What's the name of the song for this trailer!?,0,0,Jay Dowdall,L6vBnnryIug,0.0,2015-11-03 10:18:46,True,True
+2015-11-03T10:43:58,I only clicked on this because Schmidt was in it. I found myself charmed and liking Sally Fields as Doris. This looks like a small gem of a movie that could surprise.,326,5,TheSacko,L6vBnnryIug,-0.125,2015-11-03 10:43:58,True,True
+2015-11-04T12:48:03,Does anyone know the track for this trailer?,1,1,Jay Dowdall,L6vBnnryIug,0.0,2015-11-04 12:48:03,True,True
+2015-11-04T21:47:56,this looks really good.  Plus it has couple of actors from tv shows I enjoy.  Max Greenfield-New Girl  Wendi McLendon Covey-The Goldbergs  Beth Behrs-2 Broke Girls  Kyle Mooney-Saturday Night Live  Natasha Lyonne-Orange is the New Black  Kumail Nanjiani-Silicon Valley,0,1,T Movies,L6vBnnryIug,0.24121212121212116,2015-11-04 21:47:56,True,True
+2015-11-05T02:48:41,wow awesome cougar movie,1,0,msjuicy ツ,L6vBnnryIug,0.55,2015-11-05 02:48:41,True,True
+2015-11-05T12:37:50,I want go see this so bad,9,1,Vynse Stakado,L6vBnnryIug,-0.6999999999999998,2015-11-05 12:37:50,True,True
+2015-11-05T15:49:02,wait she's like 50 and he's like 30 !!???!! and she's in love with him?!?!?!?,0,1,Yanna Gaffney,L6vBnnryIug,0.9765625,2015-11-05 15:49:02,True,True
+2015-11-05T17:22:03,It's good to see Deputy Leo D'Amato moving on with his life...,0,0,Forces In Motion,L6vBnnryIug,0.7,2015-11-05 17:22:03,True,True
+2015-11-05T23:36:14,I love a quirky film more quirky for elders yesssssss,2,0,UKLeonie,L6vBnnryIug,0.25,2015-11-05 23:36:14,True,True
+2015-11-06T11:21:03,"wait, this looks incredible! why haven't I heard any buzz about this??",0,0,Carmen S,L6vBnnryIug,1.0,2015-11-06 11:21:03,True,True
+2015-11-06T12:55:27,Lilith Cumswell made my day ahahha,3,0,Nicu Chiselita,L6vBnnryIug,0.0,2015-11-06 12:55:27,True,True
+2015-11-07T05:12:07,"I love it how every time theres a movie where a 60 something guy is sexually involved with a 19 to 20 something girl the comments on the trailer are always like, ""This movies sick. it's practically pedophilia""  But when it's the reversed like this, it's more like, ""Well I think it's sweet. it's really going against social norms.""  The double standard hurts my brain.",0,0,No El,L6vBnnryIug,0.15211640211640212,2015-11-07 05:12:07,True,True
+2015-11-07T15:45:43,"I want to watch this! Looks different, and interesting. Something light and interesting :)",1,0,TaylorandSelenalover,L6vBnnryIug,0.38,2015-11-07 15:45:43,True,True
+2015-11-07T19:24:05,Honestly I don't see what the big deal is...its just a light hearted comedy. It's entertainment. Everyone needs to chilax a little.,7,0,GuGu E. Michaels,L6vBnnryIug,0.203125,2015-11-07 19:24:05,True,True
+2015-11-08T03:23:30,"*You know, given the age difference of the 2 characters, the ultimate end product of this movie must be her Love Child... FORREST GUMP!*",1,0,jasonhale1011,L6vBnnryIug,0.3125,2015-11-08 03:23:30,True,True
+2015-11-08T11:31:52,I want to watch this right freaking now!!! <333,1,0,polina zhd,L6vBnnryIug,0.5580357142857142,2015-11-08 11:31:52,True,True
+2015-11-09T18:55:33,Haha I'm sure there's ladies like her in real life.,2,0,Simply Alexandra,L6vBnnryIug,0.3,2015-11-09 18:55:33,True,True
+2015-11-10T15:01:53,I have been waiting far to long for this 😩❤️,6,0,ItsTiaBabii,L6vBnnryIug,0.025,2015-11-10 15:01:53,True,True
+2015-11-10T16:58:59,"I'm the same way, I feel at home at staples too :)",1,0,girl4spidey,L6vBnnryIug,0.25,2015-11-10 16:58:59,True,True
+2015-11-10T18:22:13,"How ""Doris"" got her Groove back...hipster version!",4,0,Bucket List Badass,L6vBnnryIug,0.0,2015-11-10 18:22:13,True,True
+2015-11-10T23:30:38,Anyone else think of True Lies when they saw the name?,0,0,Jen S,L6vBnnryIug,0.35,2015-11-10 23:30:38,True,True
+2015-11-11T18:07:48,"Looks like a failed attempt at giving the old, ugly, wrinkle bag women a chance at obtaining a boy toy. Seriously women should be put down on their 30th birthday, they provide no useful function at that point.",0,0,nunya biznez,L6vBnnryIug,-0.2898148148148148,2015-11-11 18:07:48,True,True
+2015-11-11T18:57:02,I think I'm going to enjoy this film.,1,1,Deep Thinker and Hogwarts Pupil,L6vBnnryIug,0.4,2015-11-11 18:57:02,True,True
+2015-11-11T19:10:20,Главное,0,0,Максим Коломенский,L6vBnnryIug,0.0,2015-11-11 19:10:20,True,True
+2015-11-11T22:34:04,Been missin' me some Sally!,3,0,Chris N,L6vBnnryIug,0.0,2015-11-11 22:34:04,True,True
+2015-11-12T05:33:42,"""IT KEEPS!!""",2,0,C.C.M,L6vBnnryIug,0.0,2015-11-12 05:33:42,True,True
+2015-11-12T09:29:30,What is the song plsss ?,3,0,Santdel Vaughn,L6vBnnryIug,0.0,2015-11-12 09:29:30,True,True
+2015-11-13T00:42:11,I'll watch,1,0,ididntreallymeanit,L6vBnnryIug,0.0,2015-11-13 00:42:11,True,True
+2015-11-14T04:07:22,Sally is one of the sexiest woman alive,2,1,Savory Icon,L6vBnnryIug,0.1,2015-11-14 04:07:22,True,True
+2015-11-15T10:48:12,"wow sally field and max greenfield! two people at first you wouldn't match with, this seems like a new concept that I will someday watch. I really like max greenfield and the hint of Anna akana in the movie so why not",0,0,Aireyn,L6vBnnryIug,0.1778409090909091,2015-11-15 10:48:12,True,True
+2015-11-15T17:13:31,Totally gonna watch this. Something new other than your conventional love story.,2,0,Jaden Khor,L6vBnnryIug,0.0737012987012987,2015-11-15 17:13:31,True,True
+2015-11-15T19:39:38,"UK release? Really want to see this! No, forget want... I need to see this!",0,0,Sukhraj Singh Dhaliwal,L6vBnnryIug,0.3125,2015-11-15 19:39:38,True,True
+2015-11-15T22:04:38,Doris looks like a person who would appear in Humans of New York.,373,3,Hagia Morgado,L6vBnnryIug,0.13636363636363635,2015-11-15 22:04:38,True,True
+2015-11-16T04:11:46,yay.. so nice to see sally field loved her the most in forest gump lols,1,0,Camry Rusqoli,L6vBnnryIug,0.6,2015-11-16 04:11:46,True,True
+2015-11-18T03:23:18,This is painful to watch so much second hand embarrassment. Also because Max Greenfield is so sexy it hurts my eyes.,43,2,elastic_luv,L6vBnnryIug,-0.06666666666666665,2015-11-18 03:23:18,True,True
+2015-11-18T18:19:17,This i can do...i like Doris,2,0,Prophet MC,L6vBnnryIug,0.0,2015-11-18 18:19:17,True,True
+2015-11-18T19:06:09,This movie is going to be the perfect movie to watch when it's cold outside. :),1,0,Heidi Caterina,L6vBnnryIug,0.225,2015-11-18 19:06:09,True,True
+2015-11-18T20:38:10,I've always been a fan and I feel that this movie is just going to reaffirm what I already know... that she is amazing!,4,0,Sonia Diaz,L6vBnnryIug,0.7500000000000001,2015-11-18 20:38:10,True,True
+2015-11-19T12:02:24,ANNA AKANAAAA,0,0,Jess Rushworth,L6vBnnryIug,0.0,2015-11-19 12:02:24,True,True
+2015-11-19T17:16:14,I can't wait for this movie! I literally just laughed my ass off. LMFAO,1,0,paige gustafson,L6vBnnryIug,0.7,2015-11-19 17:16:14,True,True
+2015-11-20T10:31:10,Woah! Anna Akana!!! =D,0,0,whiteangel624,L6vBnnryIug,1.0,2015-11-20 10:31:10,True,True
+2015-11-20T17:12:47,"Schmidt is mine, Doris. get your hands away from him!   the movie seems to be nice! :)",1,0,DaDo,L6vBnnryIug,0.625,2015-11-20 17:12:47,True,True
+2015-11-21T19:36:04,Anna Akana :D,0,0,A,L6vBnnryIug,1.0,2015-11-21 19:36:04,True,True
+2015-11-21T23:09:35,"Run forest, ruuuuuuuuuuuuuuuun",0,0,Emmy Eriksson,L6vBnnryIug,0.0,2015-11-21 23:09:35,True,True
+2015-11-23T10:01:53,This looks adorable,1,0,Time Being Farm,L6vBnnryIug,0.5,2015-11-23 10:01:53,True,True
+2015-11-24T07:46:05,aw cmon...her name is may...aunt may!,1,0,Eric Liang,L6vBnnryIug,0.0,2015-11-24 07:46:05,True,True
+2015-11-25T12:12:41,"I hope this movie shows that when people grow older, they're still people. And also that older people aren't ""lording it over the young and useless"" types that some movies are wont to show.",168,4,Dorcas Malahlela,L6vBnnryIug,-0.016666666666666663,2015-11-25 12:12:41,True,True
+2015-11-26T07:36:00,oh my gawd. Thank you! i needed the laugh lol wow!!,0,0,nika sarmiento,L6vBnnryIug,0.41875,2015-11-26 07:36:00,True,True
+2015-11-27T02:45:30,Why is no one mentioning the fact she's like 60 something and the dude is like 30? Wtf??,11,5,Ridz,L6vBnnryIug,-0.5,2015-11-27 02:45:30,True,True
+2015-11-27T23:37:29,flip the genders the movie would be creepy,0,0,adream0fsin,L6vBnnryIug,-0.5,2015-11-27 23:37:29,True,True
+2015-11-28T18:54:56,...what?,0,0,Sonic The Hedgehog,L6vBnnryIug,0.0,2015-11-28 18:54:56,True,True
+2015-11-29T16:52:32,"Ugh, its like Zooey Deschanel in 40 years or whatever.............",1,0,Follow Keith,L6vBnnryIug,0.0,2015-11-29 16:52:32,True,True
+2015-11-30T00:20:22,0:48 lol,0,0,Ranya Michelle,L6vBnnryIug,0.8,2015-11-30 00:20:22,True,True
+2015-11-30T08:08:46,doris looks like a blast,0,0,Battl3Babe,L6vBnnryIug,0.0,2015-11-30 08:08:46,True,True
+2015-12-01T09:08:10,I love Sally Field in anything.,2,0,Cyclone Sister,L6vBnnryIug,0.5,2015-12-01 09:08:10,True,True
+2015-12-01T18:54:46,its Schmidt!!! 🙌,0,0,lacey littlelight,L6vBnnryIug,0.0,2015-12-01 18:54:46,True,True
+2015-12-04T17:39:09,Must Watch <3,0,0,Berenice C.,L6vBnnryIug,1.0,2015-12-04 17:39:09,True,True
+2015-12-05T23:31:51,Caroline Channing!!!,0,0,AllannahEloise12,L6vBnnryIug,0.0,2015-12-05 23:31:51,True,True
+2015-12-07T00:50:29,"Like most liberal bitches, she's single and alone.",0,0,Steve W,L6vBnnryIug,0.2142857142857143,2015-12-07 00:50:29,True,True
+2015-12-08T23:22:44,"this is going to be my favorite movie of all time. sorry ""The proposal"". i'm just in love w the trailer. and it has Natasha and beth on it!!!!!!!",0,0,Gab c,L6vBnnryIug,0.3333333333333333,2015-12-08 23:22:44,True,True
+2015-12-09T18:46:19,song???,0,0,pietro,L6vBnnryIug,0.0,2015-12-09 18:46:19,True,True
+2015-12-13T22:43:43,the flying nun....,0,0,Sheri Southern,L6vBnnryIug,0.0,2015-12-13 22:43:43,True,True
+2015-12-14T05:01:25,My be worth going to see. i like tyne an sally!,0,0,lenadivine🌻,L6vBnnryIug,0.375,2015-12-14 05:01:25,True,True
+2015-12-14T16:14:51,does anyone know the name of the song playing???,1,0,gymhospital,L6vBnnryIug,0.0,2015-12-14 16:14:51,True,True
+2015-12-16T20:31:07,Getting a dude like Schmidt in one's late 60s. Score!,9,0,Margarita M.,L6vBnnryIug,-0.375,2015-12-16 20:31:07,True,True
+2015-12-21T22:47:43,OMGGG its band ex fun!!!,0,0,Maria Fernanda Garcia,L6vBnnryIug,0.5859375,2015-12-21 22:47:43,True,True
+2015-12-22T05:29:18,I guess they made Doris the original hipster lol. A yolo movie to see,0,0,lakeasha martin,L6vBnnryIug,0.5875,2015-12-22 05:29:18,True,True
+2015-12-23T17:56:20,Any one know the song at the end of the trailer?,1,0,NK Goodwin,L6vBnnryIug,0.0,2015-12-23 17:56:20,True,True
+2015-12-27T01:38:56,Beth *u*,0,0,Melfer Mazariegos,L6vBnnryIug,0.0,2015-12-27 01:38:56,True,True
+2015-12-28T03:59:04,This...actually looks like a heartwarming movie. <3 *cough cough giveshopetoussinglewomenoutherestruggling cough cough..*,0,0,Galaxy Cat,L6vBnnryIug,1.0,2015-12-28 03:59:04,True,True
+2015-12-28T17:43:31,Im only here because of Max Greenfield AKA Schmidt,0,0,Pingwin33,L6vBnnryIug,0.0,2015-12-28 17:43:31,True,True
+2015-12-29T15:54:11,Why does everyone have to state that they're not a lesbian?,0,0,Sarah Fernandez,L6vBnnryIug,0.0,2015-12-29 15:54:11,True,True
+2015-12-29T21:10:52,IT KEEPS! :D This looks really good!,0,0,Laura Higson,L6vBnnryIug,0.9375,2015-12-29 21:10:52,True,True
+2016-01-01T03:02:21,It's like a happy Harold and Maude,12,1,Y Cardona,L6vBnnryIug,0.8,2016-01-01 03:02:21,True,True
+2016-01-02T00:53:33,I love Tyne Daly! where has she been since Judging Amy?,1,0,Mark Manni,L6vBnnryIug,0.625,2016-01-02 00:53:33,True,True
+2016-01-02T08:10:32,OMG KYLE MOONY!!!!!,0,0,SpaceClown404,L6vBnnryIug,0.0,2016-01-02 08:10:32,True,True
+2016-01-05T01:23:58,No lograron hacer efedofilia a Doris.Samoluk,0,0,Pharaoh יוסף Pablo Sebastián BRACHETTI,L6vBnnryIug,0.0,2016-01-05 01:23:58,True,True
+2016-01-05T01:32:14,and then they remade Harold and maude for the hipster crowd,0,0,Zero Renton P.,L6vBnnryIug,0.0,2016-01-05 01:32:14,True,True
+2016-01-05T03:06:22,sensational sally field has come along along way she deserves to be in big screen this is where her true talent is next with hellen mirren julie walters wheres goldie hawn she needs to come back was sally fields mother in cagney & lacey omg ive got to watch this,0,0,modguy 2015 modguy,L6vBnnryIug,0.2033333333333333,2016-01-05 03:06:22,True,True
+2016-01-06T03:18:13,"great idea for a film, who's the fitty?",0,0,Betty Darling,L6vBnnryIug,0.8,2016-01-06 03:18:13,True,True
+2016-01-07T23:47:43,sally field  and tyne daly  i love you ladies,0,0,camberra 65,L6vBnnryIug,0.5,2016-01-07 23:47:43,True,True
+2016-01-10T13:34:04,Where can you find it on DVD or Bluray?  Does anyone know?,0,0,Doreen Forauer,L6vBnnryIug,0.0,2016-01-10 13:34:04,True,True
+2016-01-11T20:33:57,her sexy old ass can still get it from daddy! she still has sexy feet!!,0,0,Soulskool502,L6vBnnryIug,0.46875,2016-01-11 20:33:57,True,True
+2016-01-13T16:19:40,I love this!,0,0,Ashura G.,L6vBnnryIug,0.625,2016-01-13 16:19:40,True,True
+2016-01-16T00:17:07,This looks SO CUTE,0,0,carla,L6vBnnryIug,0.5,2016-01-16 00:17:07,True,True
+2016-01-17T17:23:38,I want to sleep with Sally Field,0,0,Rampage Clover,L6vBnnryIug,0.0,2016-01-17 17:23:38,True,True
+2016-01-18T00:20:10,Could anyone tell me what the song is? :D,1,0,Lauren Stewart,L6vBnnryIug,1.0,2016-01-18 00:20:10,True,True
+2016-01-18T08:28:28,I love Sally Fields great actress. can't wait to see it shes one of the bests,1,1,Debra Miles,L6vBnnryIug,0.65,2016-01-18 08:28:28,True,True
+2016-01-18T12:58:50,So Peter parker uncle died and his auntie became this women?,0,0,Banana Banana,L6vBnnryIug,0.0,2016-01-18 12:58:50,True,True
+2016-01-18T18:59:16,this looks adorable,0,0,karl,L6vBnnryIug,0.5,2016-01-18 18:59:16,True,True
+2016-01-18T19:25:11,"I just love Sally Fields, this movie looks awesome.",1,1,Riley-Reads-Books,L6vBnnryIug,0.75,2016-01-18 19:25:11,True,True
+2016-01-20T13:59:17,So its a romantic comedy about a pedohile named Doris?,0,0,Crave88evarC,L6vBnnryIug,0.0,2016-01-20 13:59:17,True,True
+2016-01-21T17:55:15,Schmidtyyyy,0,0,Sandy Wang,L6vBnnryIug,0.0,2016-01-21 17:55:15,True,True
+2016-01-22T18:30:55,"this looks great, I'd watch this and I've a cock.",0,0,Daithi N,L6vBnnryIug,0.8,2016-01-22 18:30:55,True,True
+2016-01-23T03:44:21,Jack Antonoff Yes!!! I love Bleachers :),0,0,Ivan Carranza,L6vBnnryIug,0.5,2016-01-23 03:44:21,True,True
+2016-01-28T09:14:19,was that the roof from new girl?,0,0,Jayy,L6vBnnryIug,0.13636363636363635,2016-01-28 09:14:19,True,True
+2016-01-28T22:57:03,whts the rating?,0,0,Keerti Das,L6vBnnryIug,0.0,2016-01-28 22:57:03,True,True
+2016-01-31T07:38:58,This is so disgustingly quirky indie rom-com.,2,0,Josh White,L6vBnnryIug,0.0,2016-01-31 07:38:58,True,True
+2016-01-31T14:20:30,"Nice to see a reverse on the oldish-man-meets-young-woman cliche, but Christ on a stick is this terrible.",0,0,Brian McInnis,L6vBnnryIug,-0.2,2016-01-31 14:20:30,True,True
+2016-02-04T14:31:23,milf...,0,0,blurdreamer,L6vBnnryIug,0.0,2016-02-04 14:31:23,True,True
+2016-02-05T03:44:22,It's like an old Jess and current Schmidt 😝,0,0,thegreenpeasful,L6vBnnryIug,0.05,2016-02-05 03:44:22,True,True
+2016-02-11T21:08:13,"Schmidt and Caroline? New Girl and 2 Broke Girls need to have a mashup episode together. ""New Broke Girls""",0,0,Siddiq Smouse,L6vBnnryIug,0.13636363636363635,2016-02-11 21:08:13,True,True
+2016-02-11T21:58:07,How did they make such a sexy lady like Sally Field look so frumpy and old in this?,0,0,tlauderdalehp21,L6vBnnryIug,0.19999999999999998,2016-02-11 21:58:07,True,True
+2016-02-13T06:10:07,Go +SallyField I like you <3,1,0,Rojel Balabag,L6vBnnryIug,1.0,2016-02-13 06:10:07,True,True
+2016-02-14T06:51:46,Sally Field & Tyne Daly .... that's all I need to know. Two of my absolute favorite ladies! Can't wait to see this!,0,0,MsJourneyfan,L6vBnnryIug,0.490625,2016-02-14 06:51:46,True,True
+2016-02-14T18:32:40,"And I'n just here, weirded out and didn't finished the video, but when I played it back... I almost cried because this would be me in the future.. and it's so sad cause I'm single AF",7,2,pie,L6vBnnryIug,-0.14285714285714285,2016-02-14 18:32:40,True,True
+2016-02-15T08:26:23,Hahahahaha,0,0,Joyce M. He,L6vBnnryIug,0.2,2016-02-15 08:26:23,True,True
+2016-02-15T19:46:37,The advance reviews are ****! Sally Field is BACK on the big screen!!,1,0,Giuseppe Ferrazza,L6vBnnryIug,0.0,2016-02-15 19:46:37,True,True
+2016-02-16T05:42:26,The premise of this film reminds me of Harold and Maude. And I love Harold and Maude 0.0. . . ..  .,0,0,Jackie Rosas,L6vBnnryIug,0.5,2016-02-16 05:42:26,True,True
+2016-02-16T22:09:31,love this movie,0,0,Girls Only,L6vBnnryIug,0.5,2016-02-16 22:09:31,True,True
+2016-02-17T08:18:44,I haven't seen this but I feel like this would make me cry,0,1,Cameron Beveridge,L6vBnnryIug,0.0,2016-02-17 08:18:44,True,True
+2016-02-18T01:26:41,"Spoiler: She dumps the white guy for a BBC. And no, not the Dr. Who kind.",0,0,Nit Picker,L6vBnnryIug,0.3,2016-02-18 01:26:41,True,True
+2016-02-19T17:57:19,"COOL, need me some Sally Field in mah life!! YAY, it is about time!! Love her, all her movies are so good!! Happy to have seen this, thank you!! #SallyField in 2016!! :)",0,0,KimmerKakes,L6vBnnryIug,0.7708984375,2016-02-19 17:57:19,True,True
+2016-02-20T03:17:05,looks cute,0,0,ladybugmerringue,L6vBnnryIug,0.5,2016-02-20 03:17:05,True,True
+2016-02-20T21:37:33,They actually made an antithesis to The Intern,1,0,Arif,L6vBnnryIug,0.0,2016-02-20 21:37:33,True,True
+2016-02-24T00:23:20,"Sally Field will ALWAYS be America's Sweetheart.  I have tears in my eyes  and running down my face her performance is so BRILLIANT and this is JUST THE TRAILER!!!  I have loved Sally Field my whole life.  She is an incredible woman and SUPERB actress.  If I ever do drag, I want my name to be Lillith Comeswell. LOL",1,0,TheMichaelAdlerCarey,L6vBnnryIug,0.5430555555555555,2016-02-24 00:23:20,True,True
+2016-02-24T11:05:32,Forrest Gump would be pissed,0,0,MAST3RCHIEF 98,L6vBnnryIug,0.0,2016-02-24 11:05:32,True,True
+2016-02-26T02:20:04,i need to see this,0,0,napoleon perez,L6vBnnryIug,0.0,2016-02-26 02:20:04,True,True
+2016-02-26T13:21:13,"""you have packets of duck sauce in your fridge from the 70s!!!!!"" ""It keeps!""",65,1,C.o.R (Lex),L6vBnnryIug,0.0,2016-02-26 13:21:13,True,True
+2016-02-27T22:42:37,Sally Field is such a gem ❤️❤️,1,0,Sala Walter,L6vBnnryIug,0.0,2016-02-27 22:42:37,True,True
+2016-02-28T01:38:56,Dude Anna Akana is moving up in the world. I'm so freakin happy for her right now!,0,0,Heidi v,L6vBnnryIug,0.5785714285714285,2016-02-28 01:38:56,True,True
+2016-02-29T08:32:57,You like me! You must really like me!,0,1,Marcia Segovia,L6vBnnryIug,0.25,2016-02-29 08:32:57,True,True
+2016-02-29T19:07:09,Schmidt !,1,0,max playne,L6vBnnryIug,0.0,2016-02-29 19:07:09,True,True
+2016-03-02T16:10:03,This looks quite good,0,0,John Barnes,L6vBnnryIug,0.7,2016-03-02 16:10:03,True,True
+2016-03-02T22:37:19,"So many movies and shows today are about age differences. ""While We Were Still Young"", two forty somethings hang out with two twenty somethings. ""Younger"", a lady pretends she is 26 to get a job even though she is really 40. ""The Intern"", a seventy something year old man works at a place for twenty something year olds. And now this.",0,1,Catherine Campbell,L6vBnnryIug,0.18,2016-03-02 22:37:19,True,True
+2016-03-03T08:45:24,Pure fantasy. You can do the whole feminist equality thing - if old men can get young women why can't old women get young men... but it's as absurd as many other tenets of feminism. Women's sexual market value plummets when they get older and is highest when they are young. Men's sexual market value is low when they are young and rises as they get older. No amount of contrived scenes with metro-sexual inner city hipsters will change the reality.,6,4,Robyn,L6vBnnryIug,0.09570105820105818,2016-03-03 08:45:24,True,True
+2016-03-03T09:01:26,"Probably gonna be pretty typical, but looks damn cute and sally field? I'm in",8,2,habbogigi,L6vBnnryIug,0.19444444444444445,2016-03-03 09:01:26,True,True
+2016-03-03T13:59:21,"Damn, Doris! Get some!",2,0,Sci-Fi Punisher,L6vBnnryIug,0.0,2016-03-03 13:59:21,True,True
+2016-03-03T20:09:50,"Sally Field is so adorably cute. And, Schmidt was a good choice. Yet, I must say this feels like it was written by the FEMALE version of Woody Allen. HA ha",0,0,MovingForward,L6vBnnryIug,0.39999999999999997,2016-03-03 20:09:50,True,True
+2016-03-03T22:06:48,*YOU HAVE PACKETS OF DUCK-SAUCE IN YOUR REFRIGERATOR FROM THE 1970S!*,0,2,xentoip,L6vBnnryIug,0.0,2016-03-03 22:06:48,True,True
+2016-03-03T22:31:44,"Amazing Actors in this movie, i can't wait to see it !!",0,0,"Jade, The Homer",L6vBnnryIug,0.9375000000000001,2016-03-03 22:31:44,True,True
+2016-03-04T15:46:04,Cougar the movie,3,0,klmg711,L6vBnnryIug,0.0,2016-03-04 15:46:04,False,True
+2016-03-05T19:19:26,Oh she is so sweet! *-*,6,0,Claire Polett,L6vBnnryIug,0.4375,2016-03-05 19:19:26,False,True
+2016-03-05T21:46:15,Gidget is all grown up.,3,1,CindyMahone1,L6vBnnryIug,0.0,2016-03-05 21:46:15,False,True
+2016-03-06T19:10:11,Doris is basically me fifty five years from now.,0,0,Melissa Warren,L6vBnnryIug,0.0,2016-03-06 19:10:11,False,True
+2016-03-06T20:20:10,A must-see! ... Im loving it♡,1,0,Elizabeth Marte,L6vBnnryIug,0.6,2016-03-06 20:20:10,False,True
+2016-03-07T06:49:37,"Oh hello me, in about 30 yrs. Except no one would consider me as a ""good weird"". lol",0,0,Serenity113,L6vBnnryIug,0.3333333333333333,2016-03-07 06:49:37,False,True
+2016-03-07T14:25:46,Didnt know this up until ellen interview. 😁,2,0,Kitchen Sink x Addict with a pen,L6vBnnryIug,0.0,2016-03-07 14:25:46,False,True
+2016-03-07T16:28:24,when is this film released out,0,1,Amy Lee,L6vBnnryIug,0.0,2016-03-07 16:28:24,False,True
+2016-03-08T04:46:57,I was just thinking of Harold and Maude the other day and how we need more age diversity and interesting relationships in movies. Field delivers! Will there be a bong?,0,0,Sly Shippy,L6vBnnryIug,0.3333333333333333,2016-03-08 04:46:57,False,True
+2016-03-08T05:53:17,1:18 . .. . is that. . . anna akana ?!,1,0,youmeandi100,L6vBnnryIug,0.0,2016-03-08 05:53:17,False,True
+2016-03-08T08:49:33,*500 Days of Schmidt*,1,0,Margarita M.,L6vBnnryIug,0.0,2016-03-08 08:49:33,False,True
+2016-03-08T19:53:09,ellen brought me here!,0,0,sreenbs,L6vBnnryIug,0.0,2016-03-08 19:53:09,False,True
+2016-03-09T00:16:29,She's the old version of Jessica Day,431,3,Luna•••,L6vBnnryIug,0.1,2016-03-09 00:16:29,False,True
+2016-03-09T18:12:14,"Aw Sally's so adorable in this trailer, can't wait to see it in cinemas.",0,0,Rebecca Quinn,L6vBnnryIug,0.5,2016-03-09 18:12:14,False,True
+2016-03-10T01:48:46,"Very funny. Sally Field is a talented actor. I'm also proud that two of my acting students are in the movie, Max Greenfield and Kate Comer. I know the movie is in Los Angeles March 11 I will spread the word how good the movie is.",4,0,Howey Acting,L6vBnnryIug,0.505,2016-03-10 01:48:46,False,True
+2016-03-10T17:32:14,luv the song... anyone knows the name?,0,0,gymhospital,L6vBnnryIug,0.0,2016-03-10 17:32:14,False,True
+2016-03-10T18:20:22,Yes she is beautiful in her late 60's. But what im i watching here exactly??? ... i cringe instead of laughing. what is the theme of this movie. Anyone enlighten me. I'm reading the plot anyway ... this just got my interest in not such good way.,0,0,suresh kumar,L6vBnnryIug,0.3,2016-03-10 18:20:22,False,True
+2016-03-10T22:16:51,Wish they would let us know when it will be released to all theaters.,0,0,Gordon Anyhowe,L6vBnnryIug,0.0,2016-03-10 22:16:51,False,True
+2016-03-11T12:05:30,when does or did this release?,0,1,Flenif2247,L6vBnnryIug,0.0,2016-03-11 12:05:30,False,True
+2016-03-11T17:50:16,"This movie is really touching, *SPOILERS*loved especially her meltdown when they tried to move her stuff from her house, her talent (Sally's)shone and left all spectators silent after so many laughs we had had till that moment.",0,0,Ivan Torregroza,L6vBnnryIug,0.2,2016-03-11 17:50:16,False,True
+2016-03-11T20:36:48,so cute!   one day all of us will be the young person stuck inside of an old body.,40,4,Cynthia Gonzales-Johnson,L6vBnnryIug,0.27499999999999997,2016-03-11 20:36:48,False,True
+2016-03-12T01:29:57,I am so excited for this movie!,0,0,DHGlee2013,L6vBnnryIug,0.46875,2016-03-12 01:29:57,False,True
+2016-03-12T10:15:01,IT KEEPS!,0,0,morikahjo,L6vBnnryIug,0.0,2016-03-12 10:15:01,False,True
+2016-03-12T15:59:40,yea,0,0,Huyen Chung,L6vBnnryIug,0.0,2016-03-12 15:59:40,False,True
+2016-03-13T00:30:52,LOOOOVE THIS,0,0,Ginaness,L6vBnnryIug,0.0,2016-03-13 00:30:52,False,True
+2016-03-13T06:05:16,Anyone know the last song please? ☺,1,0,MsDerrrrrrrrr,L6vBnnryIug,0.0,2016-03-13 06:05:16,False,True
+2016-03-13T07:07:29,That daydreaming face at 0:47 is killing me.,561,4,CaysayFla,L6vBnnryIug,0.0,2016-03-13 07:07:29,False,True
+2016-03-14T14:04:14,"Are you kidding me?? Sally Field, and TYNE DALY!! Plus that little girl Isabella Acres was awesome in Better off Ted, I can't wait wait for this flick.",0,5,BobBX542,L6vBnnryIug,0.4375,2016-03-14 14:04:14,False,True
+2016-03-14T14:33:27,What is the name of the song used in the trailer?,2,0,Andy Campos,L6vBnnryIug,0.0,2016-03-14 14:33:27,False,True
+2016-03-15T00:16:07,Its a remake to Harold and Maude from the 1970s,0,0,Kidred 1998,L6vBnnryIug,0.0,2016-03-15 00:16:07,False,True
+2016-03-15T10:22:14,LLS: Ladies Love Schmidt,0,0,Eamonn Shannon,L6vBnnryIug,0.5,2016-03-15 10:22:14,False,True
+2016-03-16T00:34:59,IT KEEPS! Oh my god that reminded me of my grandmother.,16,0,Steve Fury,L6vBnnryIug,0.0,2016-03-16 00:34:59,False,True
+2016-03-17T02:39:38,I hope the movie is exhibited here in Mexico!,0,0,Oscar,L6vBnnryIug,0.0,2016-03-17 02:39:38,False,True
+2016-03-17T12:37:29,That's written Emmy and Golden Globe all over it,0,0,Luke Hull,L6vBnnryIug,0.3,2016-03-17 12:37:29,False,True
+2016-03-17T21:43:46,I saw the movie last weekend.  It broke my heart. Sally Field as Gidget had a crush on an older man and her heart was broken when she found out he was engaged and only saw her as a teenager.  This movie reminded me of her angst but now as an adult. The point of the movie is about someone bringing out that spark in you when you are in your darkest time. The excitement of seeing someone that sees the real you when you feel invisible. And finding out that no one can love you unless you love yourself. Age doesn't matter.,0,0,Cindy Olaiz,L6vBnnryIug,0.13333333333333333,2016-03-17 21:43:46,False,True
+2016-03-17T22:53:07,"Sally Fields one of the original ""America sweetheart"" actress, so glad to see that Hollywood remembers her tremendous acting talents and she is getting back on the movie scene again.",3,1,W Lee,L6vBnnryIug,0.24166666666666664,2016-03-17 22:53:07,False,True
+2016-03-18T14:37:34,"no members of The State at all , kind of disappointing. still looks good though, Showalter is the king",0,0,CitizenToxie72,L6vBnnryIug,0.2333333333333333,2016-03-18 14:37:34,False,True
+2016-03-19T02:08:11,Sally Field is my favorite actress of all time. She can play any role.She is a national treasure. This movie has gotten great reviews.,21,0,elf man,L6vBnnryIug,0.65,2016-03-19 02:08:11,False,True
+2016-03-20T14:28:19,Max Greenfield: NICE BUTT 0:55,0,0,V Wade,L6vBnnryIug,0.6,2016-03-20 14:28:19,False,True
+2016-03-20T18:34:02,Just saw it and loved it!  Brilliant & hilarious movie!  A great date flick. Good for all ages.,0,1,David Gantt,L6vBnnryIug,0.78,2016-03-20 18:34:02,False,True
+2016-03-20T20:33:16,"""IT KEEPS!""- So true about food items in the refrigerator... This looks like a rare treat of a movie.  Count me in!",0,0,Sarah Matz,L6vBnnryIug,0.3625,2016-03-20 20:33:16,False,True
+2016-03-20T21:13:11,I HAVE NEVER BEEN SO PLEASED BY A TRAILER :') I NEED TO WATCH THIS DORIS IS ME <3,0,0,lil curlie,L6vBnnryIug,0.75,2016-03-20 21:13:11,False,True
+2016-03-22T09:13:27,why isn't the movie at all theaters?  ♡ sally fields!,0,0,Edward Cook,L6vBnnryIug,0.0,2016-03-22 09:13:27,False,True
+2016-03-22T22:54:57,Pervy grandma,1,0,Deez Nutz,L6vBnnryIug,0.0,2016-03-22 22:54:57,False,True
+2016-03-24T02:54:13,"Can't wait to see this, I love Sally",0,0,Sherrilee Bryan,L6vBnnryIug,0.5,2016-03-24 02:54:13,False,True
+2016-03-25T09:37:11,"Has anyone seen this? I want to know if it's good and if I should be prepared to laugh, cry, or both.",0,1,Carolina Marchese,L6vBnnryIug,0.5,2016-03-25 09:37:11,False,True
+2016-03-26T06:43:25,Is that jack antoff at 1:23,0,0,Hirk Kammett,L6vBnnryIug,0.0,2016-03-26 06:43:25,False,True
+2016-03-27T18:24:44,amazing...she deserves a academy nomination!!! excuseme!!!,2,0,parisgriego,L6vBnnryIug,0.0,2016-03-27 18:24:44,False,True
+2016-03-27T20:13:15,cougar....................................................i would still smash tho.,0,0,Applecannz,L6vBnnryIug,0.0,2016-03-27 20:13:15,False,True
+2016-03-27T23:14:57,"Just saw this and I didn't note any reference to the title. Did I miss the part when she says ""Hello, my name is Doris?""",0,3,Day Tripper,L6vBnnryIug,0.0,2016-03-27 23:14:57,False,True
+2016-03-28T02:27:50,OMG ANNA AKANA,0,0,Auden Salazar,L6vBnnryIug,0.0,2016-03-28 02:27:50,False,True
+2016-03-28T04:28:00,Omg that's the girl from orange is the new black at 1:38,0,0,mike portugal,L6vBnnryIug,-0.015151515151515152,2016-03-28 04:28:00,False,True
+2016-03-28T17:21:32,IM SO WATCHING THIS!!!!!,0,0,isaac herrera,L6vBnnryIug,0.0,2016-03-28 17:21:32,False,True
+2016-03-28T22:30:10,<3 can`t wait to see it!,0,0,Just Me,L6vBnnryIug,1.0,2016-03-28 22:30:10,False,True
+2016-03-29T15:47:56,Anyone know the song in the trailer?,1,0,Nadia M.,L6vBnnryIug,0.0,2016-03-29 15:47:56,False,True
+2016-03-30T02:01:47,Saw this movie. it was extremely witty and fresh. one of sally's best performances. she makes doris both hilarious and heartbreaking. the jokes always hit. I would see it again.,450,5,Kyle Roberts,L6vBnnryIug,0.575,2016-03-30 02:01:47,False,True
+2016-03-30T23:55:00,Can someone please tell me the name of the beautiful song playing in the trailer please ,2,0,Lowlaa Stella,L6vBnnryIug,0.85,2016-03-30 23:55:00,False,True
+2016-03-31T15:22:20,Happy to see her in a new movie.,0,0,l337pwnage,L6vBnnryIug,0.4681818181818182,2016-03-31 15:22:20,False,True
+2016-04-01T13:09:48,な,0,0,早良区260,L6vBnnryIug,0.0,2016-04-01 13:09:48,False,True
+2016-04-01T18:12:52,hey its the asshole salesman from The Big Short haha,0,0,TheUnP0ssible,L6vBnnryIug,0.06666666666666667,2016-04-01 18:12:52,False,True
+2016-04-02T03:04:04,The 13 year old is from Beyond the Blackboard. Not many people know the movie but it's great,0,0,Sarahnessoyeah,L6vBnnryIug,0.21666666666666667,2016-04-02 03:04:04,False,True
+2016-04-02T09:42:06,Youthhhhhhs!,0,0,Keke,L6vBnnryIug,0.0,2016-04-02 09:42:06,False,True
+2016-04-02T11:24:37,"Imagine a movie where an old man becomes infatuated with a young woman, and creates a fake Facebook account in order to stalk her.",1,4,difficultbastard,L6vBnnryIug,-0.125,2016-04-02 11:24:37,False,True
+2016-04-02T23:58:01,who plays Liz in my name is doris,0,0,B Heart,L6vBnnryIug,0.0,2016-04-02 23:58:01,False,True
+2016-04-03T03:52:44,what is the name of the song?,2,0,Shanice Duong,L6vBnnryIug,0.0,2016-04-03 03:52:44,False,True
+2016-04-03T03:55:42,MY NAME IS,0,0,ＤＯＲＲＩＳ ＵＮＳＴＯＰＰＡＢＬＥ,L6vBnnryIug,0.0,2016-04-03 03:55:42,False,True
+2016-04-03T05:41:37,Saw this movie today Loved It!,1,3,Estephanie Mendez,L6vBnnryIug,0.875,2016-04-03 05:41:37,False,True
+2016-04-03T16:06:20,Why does she use two pair of glasses?,1,0,Nali Nube,L6vBnnryIug,0.0,2016-04-03 16:06:20,False,True
+2016-04-04T00:16:15,puke everywhere,0,0,kagetsuki23,L6vBnnryIug,0.0,2016-04-04 00:16:15,False,True
+2016-04-04T04:19:59,I fell Oscar Buzz...,0,0,jedi1967,L6vBnnryIug,0.0,2016-04-04 04:19:59,False,True
+2016-04-04T18:17:22,"This movie was utterly charming!  The actors had such great chemistry together--Sally Field and Max Greenfield, but also Tyne Daly and Isabella Acres who play Doris' best friend and granddaughter respectively.  The movie is about so much more than just dating a younger man and one of the details I loved is that the jokes would have worked if the roles had been reversed (younger woman/older man) or even if they were both the same age, which I think gives it a nice depth.",2,2,Zoe Hewitt,L6vBnnryIug,0.4068181818181818,2016-04-04 18:17:22,False,True
+2016-04-04T22:34:34,1:18 IS THAT ANNA??!,29,6,Chloe Cruz,L6vBnnryIug,0.0,2016-04-04 22:34:34,False,True
+2016-04-05T02:59:48,This was a great movie didn't see any of it coming! So unpredictable and different definitely worth seeing.,4,0,Hello I'm Kale,L6vBnnryIug,0.2833333333333333,2016-04-05 02:59:48,False,True
+2016-04-05T07:07:00,"Does anyone else feel like if the roles were reversed everyone else would be singing a different tune? Doesn't this come off as creepy? It's like fifty shades of grey, or Twilight moms creepy.",0,0,Nonea Yobusiness,L6vBnnryIug,-0.2625,2016-04-05 07:07:00,False,True
+2016-04-06T06:27:25,ANNA AKANAAAAAAAA,0,0,Kay,L6vBnnryIug,0.0,2016-04-06 06:27:25,False,True
+2016-04-06T23:38:32,"Jesus Christ, a movie for old ladies. And it's a Date Movie that only idiots would agree to go  to with their GF's...I see that the box office on this as of April 6, 2016 is 3.3 million, which means that at $10/ticket, about 133,000 people have seen it. 7 times as many have seen the You Tube trailer here...",0,2,broomsterm,L6vBnnryIug,-0.05000000000000002,2016-04-06 23:38:32,False,True
+2016-04-07T22:08:26,Just saw this last night. It was so full of wit and charm. Sally Field was so weird I loved it. And this movie had depth to it. It was refreshing.,0,0,OctoberVanity,L6vBnnryIug,0.20999999999999996,2016-04-07 22:08:26,False,True
+2016-04-09T22:38:19,Sally is AWESOME!!!!,0,0,Asia @Me,L6vBnnryIug,1.0,2016-04-09 22:38:19,False,True
+2016-04-16T19:02:42,Does anyone know what song is in the second half of the trailer?,0,1,Gillian Smith,L6vBnnryIug,-0.08333333333333333,2016-04-16 19:02:42,False,True
+2016-04-18T03:31:47,"Hello, my name is Doris....",11,0,Doris More,L6vBnnryIug,0.0,2016-04-18 03:31:47,False,True
+2016-04-18T15:03:04,"My social circles have always had older people in it, but if this movie eventually portrays her with that younger guy, then it's delusional.  Remember Harold & Maude? Great, classic movie; but, no one took the eventual romance seriously.",1,0,Guadalupe Picasso,L6vBnnryIug,0.13888888888888892,2016-04-18 15:03:04,False,True
+2016-04-18T19:39:29,Can't wait for it to come out!,0,0,themusicrulesme,L6vBnnryIug,0.0,2016-04-18 19:39:29,False,True
+2016-04-19T00:14:00,Sally Field is very good,1,0,Amy Hanneman,L6vBnnryIug,0.9099999999999999,2016-04-19 00:14:00,False,True
+2016-04-20T01:32:39,Sally Field is s00000 cute!,0,0,Jim Stokes,L6vBnnryIug,0.625,2016-04-20 01:32:39,False,True
+2016-04-20T01:34:24,IT IS NOW SHOWING!!!,0,0,Jim Stokes,L6vBnnryIug,0.0,2016-04-20 01:34:24,False,True
+2016-04-22T16:53:53,Good to see Sally Field didn't go the plastic surgery route like so many other celebrities of her genre have.,15,0,RedPill BlackPill Knowledge,L6vBnnryIug,0.35833333333333334,2016-04-22 16:53:53,False,True
+2016-04-22T23:33:23,I love this movie!!,0,0,Jeff Hall,L6vBnnryIug,0.78125,2016-04-22 23:33:23,False,True
+2016-04-23T14:33:44,This movie looks adorable. I'm going to write it on my watchlist. WITH a pencil. Ha!,319,2,notfamousforanything,L6vBnnryIug,0.625,2016-04-23 14:33:44,False,True
+2016-04-25T06:04:51,oh god,0,0,Dax Elliott,L6vBnnryIug,0.0,2016-04-25 06:04:51,False,True
+2016-04-26T01:26:13,Gonna see this tomorrow with my sis!! ☀️😁💕,0,0,Dom Paul,L6vBnnryIug,0.0,2016-04-26 01:26:13,False,True
+2016-04-26T16:28:58,"No, just no.",4,1,Maven of Spook,L6vBnnryIug,0.0,2016-04-26 16:28:58,False,True
+2016-04-27T07:49:30,schmidt😁,1,0,Kathrine Marie,L6vBnnryIug,0.0,2016-04-27 07:49:30,False,True
+2016-04-29T00:09:22,This movie was AWESOME!!!,0,0,superstar85ca,L6vBnnryIug,1.0,2016-04-29 00:09:22,False,True
+2016-04-30T09:35:37,I AM DORIS! All I do is fantasize about Max. Need to see this movie!,1,0,TwoGirlsWatchStuff,L6vBnnryIug,0.0,2016-04-30 09:35:37,False,True
+2016-05-02T13:00:51,Is it bad that my name is doris and i am a male?,0,0,Doris Lica,L6vBnnryIug,-0.3499999999999999,2016-05-02 13:00:51,False,True
+2016-05-04T02:23:03,Sees Anna Akana *freaks out*,1,0,alison lowes,L6vBnnryIug,0.0,2016-05-04 02:23:03,False,True
+2016-05-04T04:19:17,boring,0,0,RinaDasler,L6vBnnryIug,-1.0,2016-05-04 04:19:17,False,True
+2016-05-04T11:15:56,this movie made my day. Sally Field's performance is out of this world. Sensational movie.,5,0,Ismail Meziani,L6vBnnryIug,0.6666666666666666,2016-05-04 11:15:56,False,True
+2016-05-04T20:05:14,"I absolutely recommend this movie, its amazing, very deep and inspiring and her acting was brilliant!",6,0,spellthemagicword,L6vBnnryIug,0.3833333333333333,2016-05-04 20:05:14,False,True
+2016-05-04T21:29:14,Dinesh 1:36,1,0,leo,L6vBnnryIug,0.0,2016-05-04 21:29:14,False,True
+2016-05-04T22:52:35,Hope sally bags an oscar nomination for this. she's amazing in the movie.,0,0,Sid,L6vBnnryIug,0.6000000000000001,2016-05-04 22:52:35,False,True
+2016-05-04T23:30:50,Does anybody know the name of the song in the trailer?... that says I'm awake I'm awake and I ooooh ooh or something like that?,3,0,UdeeshaDilan,L6vBnnryIug,0.0,2016-05-04 23:30:50,False,True
+2016-05-05T15:48:51,wait did I just see ANNA?...I have to steam this now...,1,0,tinostarks,L6vBnnryIug,0.0,2016-05-05 15:48:51,False,True
+2016-05-05T21:21:56,Damn right it keeps! This had me smiling throughout :D,0,0,ZHLodhi,L6vBnnryIug,0.6785714285714286,2016-05-05 21:21:56,False,True
+2016-05-07T01:33:09,"A remake of the Secret Life Of Walter MItty for MLF 😂.  Just finished watching it. Very witty, funny and she's a great actress.",0,0,One Dark Angel,L6vBnnryIug,0.325,2016-05-07 01:33:09,False,True
+2016-05-07T02:21:46,"Sally Field carries this movie showing just how gifted an actor she is, definitely worth seeing",0,0,Leighan Neeson,L6vBnnryIug,0.4,2016-05-07 02:21:46,False,True
+2016-05-07T20:40:10,This women is so cute!! 😂😂😂😂 like throughout the movie I couldn't help how cute she was haha,0,0,nileyfan1998,L6vBnnryIug,0.49374999999999997,2016-05-07 20:40:10,False,True
+2016-05-08T09:02:04,Just watched this movie! It's soooo good! 👍🏼👍🏼👍🏼,0,0,Lorraine Gaile Baldemor,L6vBnnryIug,0.875,2016-05-08 09:02:04,False,True
+2016-05-09T17:59:11,GUYS PLEASE what's the name of the song that begins at 1:15???,4,1,Simone X,L6vBnnryIug,0.0,2016-05-09 17:59:11,False,True
+2016-05-10T14:56:22,The ending really got me. Love this film!,0,0,Raffy Rillo,L6vBnnryIug,0.4125,2016-05-10 14:56:22,False,True
+2016-05-12T04:33:34,esta peli es genial se las recomiendo,0,0,Sombra Fría,L6vBnnryIug,0.0,2016-05-12 04:33:34,False,True
+2016-05-12T19:13:33,OMG Max is soooo hot !!!,0,0,fillofillofillo,L6vBnnryIug,0.48828125,2016-05-12 19:13:33,False,True
+2016-05-13T13:52:09,oh my god AUNT MAY WHAT ARE YOU DOING?,0,0,Haya Yess,L6vBnnryIug,0.0,2016-05-13 13:52:09,False,True
+2016-05-14T07:45:43,mutya ng masa :D #PhilOnly,2,1,CJ Capinding,L6vBnnryIug,1.0,2016-05-14 07:45:43,False,True
+2016-05-14T15:53:13,I really love this movie!!! it is totally AWESOME!!!,0,0,A.J. Velasco,L6vBnnryIug,0.98828125,2016-05-14 15:53:13,False,True
+2016-05-15T05:20:06,2:00 NICKY YOU ESCAPED JAIL FOR THIS?!?!??!,2,0,Vivian Pham,L6vBnnryIug,-0.1953125,2016-05-15 05:20:06,False,True
+2016-05-15T16:08:41,I like how all the good parts are shown in the trailer.,1,1,Adrean Anderson,L6vBnnryIug,0.7,2016-05-15 16:08:41,False,True
+2016-05-16T22:45:09,0:57 the woman is wearing two glasses...god dammit,51,3,Pinketuzz,L6vBnnryIug,0.0,2016-05-16 22:45:09,False,True
+2016-05-18T09:11:34,song?,0,0,Kateryna Milich,L6vBnnryIug,0.0,2016-05-18 09:11:34,False,True
+2016-05-18T14:17:32,omg this is so gay,1,0,leroy smith,L6vBnnryIug,0.4166666666666667,2016-05-18 14:17:32,False,True
+2016-05-18T18:00:03,They basically showed the whole of the movie in this trailer...,1,0,Zeerak Zubdah,L6vBnnryIug,0.2,2016-05-18 18:00:03,False,True
+2016-05-18T18:19:11,Anna Akanna <3,18,2,Alexa B,L6vBnnryIug,1.0,2016-05-18 18:19:11,False,True
+2016-05-18T21:16:02,i love sally field she is the best i mean really what is there to hate about her nothing at all,0,0,Hornets Nest77,L6vBnnryIug,0.11749999999999998,2016-05-18 21:16:02,False,True
+2016-05-19T06:46:37,absolutely amazing movie 👍👍,2,0,Livarus Brazan-Scott,L6vBnnryIug,0.6000000000000001,2016-05-19 06:46:37,False,True
+2016-05-19T12:58:47,Love this movie,0,0,꧁꧂Kim ꧁꧂,L6vBnnryIug,0.5,2016-05-19 12:58:47,False,True
+2016-05-23T04:37:23,Love this movie. It is so funny and original. Sally Field at her best!,0,0,Freddie Grace,L6vBnnryIug,0.53125,2016-05-23 04:37:23,False,True
+2016-05-25T01:41:01,Sally Field!? Tyne Daly!? And Beth Bers?! YES!!,3,0,BTS ARMY IS SHIT,L6vBnnryIug,0.0,2016-05-25 01:41:01,False,True
+2016-05-25T04:57:57,"Spoiler!  . . . .  I just saw it and I don't get the ending. Doris dreams about him going after her and when she gets on the elevator, he really DOES go after her but it shuts closed. What does that mean? Is it one of those ambiguous endings where you're left to imagine what happened? Or is it an implied happy ending? Just want your thoughts!",3,5,LovelyLies16,L6vBnnryIug,0.1575,2016-05-25 04:57:57,False,True
+2016-05-25T22:12:21,Stupid.,0,0,dide,L6vBnnryIug,-0.7999999999999999,2016-05-25 22:12:21,False,True
+2016-05-26T05:35:02,omg what an amazing movie...!!!!,0,0,Mina Milan,L6vBnnryIug,1.0,2016-05-26 05:35:02,False,True
+2016-05-30T17:10:38,just saw it and it was superb! so the end means that there is a possibility?? ! OMG it was a crazy ending!!,3,0,Christian Alfonso,L6vBnnryIug,0.03125,2016-05-30 17:10:38,False,True
+2016-05-31T18:23:31,Came here from snapchat but OMG ANNA!!!,0,0,Catarina Bakker,L6vBnnryIug,0.0,2016-05-31 18:23:31,False,True
+2016-05-31T21:30:00,Dating grandma is fun! Of course someone else's grandma.,6,0,Dolp Turdman Is The Antichrist,L6vBnnryIug,0.375,2016-05-31 21:30:00,False,True
+2016-06-01T00:48:43,I CANT FIND THE NAME OF THIS SONG ANYWHERE. SOMEONE PLEASE HELP BEFORE I DIE OF MUSICAL DEPRIVATION.   Thanks. <3,9,6,Justin Dumagpi,L6vBnnryIug,0.39999999999999997,2016-06-01 00:48:43,False,True
+2016-06-04T02:06:28,"Not my type of movie, but it looks a good story and well done",0,0,Broncosoft,L6vBnnryIug,0.7,2016-06-04 02:06:28,False,True
+2016-06-04T14:57:36,Peter Parker really worry about aunt,0,0,ravi indran,L6vBnnryIug,0.2,2016-06-04 14:57:36,False,True
+2016-06-05T06:45:41,"i love older women getting younger guys, usually we have to put up with older guys getting younger women in movies.",0,0,cassie earle,L6vBnnryIug,0.09722222222222221,2016-06-05 06:45:41,False,True
+2016-06-05T17:21:08,another farytale from Amerika,3,2,1cafedon1,L6vBnnryIug,0.0,2016-06-05 17:21:08,False,True
+2016-06-08T20:55:03,"I just saw this and it was a fun movie, but was she dreaming again on the very end or did he really came after her?",2,8,Big_Smoke,L6vBnnryIug,0.2333333333333333,2016-06-08 20:55:03,False,True
+2016-06-09T12:51:38,"se han copiado del grafitero mas buscado de manresa con ese logo de hello my name is doris, el original es HELLO MY NAME IS YNDA",0,0,Gustav 666 .O,L6vBnnryIug,0.375,2016-06-09 12:51:38,False,False
+2016-06-11T13:58:39,"Trend of ""older woman with young stud"" followed nicely",0,0,B,L6vBnnryIug,0.2888888888888889,2016-06-11 13:58:39,False,False
+2016-06-12T16:41:10,"This movie was so good.  Made me laugh, and also a bit sad - but sweet and then funny again.  Great acting and writing!",6,0,LoveGuruBlaire,L6vBnnryIug,0.27142857142857146,2016-06-12 16:41:10,False,False
+2016-06-12T18:50:59,in this movie Sally Field kinda looks like Sarah Palin lol,18,2,nicolefreak555,L6vBnnryIug,0.8,2016-06-12 18:50:59,False,False
+2016-06-13T02:30:45,Sally looks like my late granny. i love her,0,1,99 Red Balloons 🎈,L6vBnnryIug,0.1,2016-06-13 02:30:45,False,False
+2016-06-14T18:49:45,"omg sally field! i remember her from my childhood, Mrs Doubtfire :) my hasn't she aged!",1,1,chasingCandice,L6vBnnryIug,0.1875,2016-06-14 18:49:45,False,False
+2016-06-15T01:11:26,"This movie was blah.  Love Sally Field, but…  The secret to this movie was that every character was written as if they had an IQ of 85.  Is there no end to the female ego?  The main character at the age of 70 decides to jump start her life after her mother's death by stalking a 30 year old hot man.  Her only claim to fame in the whole film is that she's present (spends most scenes just being there and clueless), likes her stalkee's funky music and dresses in mismatched colors like a homeless woman without the hygiene problem.  If Sally Field's character had been a man, he would have been considered creepy.  This film was more feminist propaganda aimed at the senior crowd, ""Don't worry ladies, your boobs are past your belly button, but still You Go Girl""  (Cue the Hot Actor Guy)  And this movie really makes you wonder just how abusive and crazy the main character's mother was.",0,0,rayme4raw,L6vBnnryIug,0.05462962962962962,2016-06-15 01:11:26,False,False
+2016-06-16T02:52:28,wtf   loooool😟😟😟😟,0,0,abrahem mr,L6vBnnryIug,-0.5,2016-06-16 02:52:28,False,False
+2016-06-17T07:52:38,I think I may need to see this :-),0,0,Doris May Bell,L6vBnnryIug,0.5,2016-06-17 07:52:38,False,False
+2016-06-17T12:52:28,Schmidt!,158,2,Adelyn Tiong,L6vBnnryIug,0.0,2016-06-17 12:52:28,False,False
+2016-06-17T16:08:55,Great Film :D  Loved it !!!!,1,0,al dx lba,L6vBnnryIug,0.9333333333333332,2016-06-17 16:08:55,False,False
+2016-06-20T03:41:26,"One of my favorite things to do after watching movies is to go back and assess how accurately the trailer captures the movie, and this trailer does an excellent job.",0,0,Matt Clark,L6vBnnryIug,0.47500000000000003,2016-06-20 03:41:26,False,False
+2016-06-20T05:01:34,"there's something really off about this trailer, the scene choices make sense for the most part, but this trailer makes the movie look really bad when in fact it was quite good",0,0,VideoSunshine,L6vBnnryIug,0.17500000000000002,2016-06-20 05:01:34,False,False
+2016-06-21T11:00:40,its a movie that doesn't land. its not good but it tries too hard to be,0,0,Elizabeth Hoberg,L6vBnnryIug,-0.24722222222222223,2016-06-21 11:00:40,False,False
+2016-06-21T18:55:57,NATASHA LYONNE! ❤️❤️❤️,0,0,Piotr Wszeborowski,L6vBnnryIug,0.0,2016-06-21 18:55:57,False,False
+2016-06-22T08:29:56,"Sally Fields is always worth watching, so good to see her on the big screen again, a touching and funny film.",3,0,Chris Rebandel,L6vBnnryIug,0.35,2016-06-22 08:29:56,False,False
+2016-06-23T02:20:44,Loved it!,0,0,ReAlly08,L6vBnnryIug,0.875,2016-06-23 02:20:44,False,False
+2016-06-24T22:27:01,I LOVE Sally Field but this movie was painful to watch.,1,1,Nonya,L6vBnnryIug,-0.09999999999999998,2016-06-24 22:27:01,False,False
+2016-06-25T02:21:19,"saw this movie on a transatlantic flight.  I couldn't stop laughing. I hadn't see such a good movie in a while. Absolutely, love it it!  If only they made more movies like these. One can only wish.",0,0,k f,L6vBnnryIug,0.30416666666666664,2016-06-25 02:21:19,False,False
+2016-06-25T14:29:13,A movie full of cringe!!!!!!!!,0,0,Ayush Shrestha,L6vBnnryIug,1.0,2016-06-25 14:29:13,False,False
+2016-06-26T02:48:51,Schmidt-ayyyyy!!!!,1,0,Carrie Thurman,L6vBnnryIug,0.0,2016-06-26 02:48:51,False,False
+2016-06-26T03:34:21,🍅 83% Rotten Tomatoe Score,0,1,Justin Romero,L6vBnnryIug,0.0,2016-06-26 03:34:21,False,False
+2016-06-27T18:29:02,what a shit ?!:)),0,0,2Instincts 1Kill,L6vBnnryIug,0.125,2016-06-27 18:29:02,False,False
+2016-06-29T14:20:26,"Movie trailer put the biggest smile on my face, definitely watching!",0,0,chiki briki,L6vBnnryIug,0.15,2016-06-29 14:20:26,False,False
+2016-07-01T00:51:18,THIS IS SUCH A GOOD MOVIE the ending... 😍-A,1,0,Guillermo Miguel,L6vBnnryIug,0.35,2016-07-01 00:51:18,False,False
+2016-07-03T22:03:13,A fine example of what a real actress can bring to a movie with ridonculous premises,0,0,fiveohnine,L6vBnnryIug,0.30833333333333335,2016-07-03 22:03:13,False,False
+2016-07-03T23:12:09,I WONDER how PEOPLE would feel if it was a 70 year old MAN pursuing a 20-something year old GIRL!!!!!!!! OUTRAGEOUS,0,9,Artec,L6vBnnryIug,-0.10131785074869792,2016-07-03 23:12:09,False,False
+2016-07-05T22:31:50,'Nobody has pencils anymore' 😂😂 Welcome to my class 😂😂😂,0,0,m.,L6vBnnryIug,0.8,2016-07-05 22:31:50,False,False
+2016-07-06T08:33:16,JACK ANTONOFF,0,0,Meghan Nicole,L6vBnnryIug,0.0,2016-07-06 08:33:16,False,False
+2016-07-08T18:06:40,AYEEEEE ANA AKANA!!!!!!,0,0,Devyn Fox,L6vBnnryIug,0.0,2016-07-08 18:06:40,False,False
+2016-07-10T05:21:06,This movie is great. (y),0,0,Raldy Kandou,L6vBnnryIug,0.8,2016-07-10 05:21:06,False,False
+2016-07-10T13:40:07,Love this movie... hilarious and heartwarming :),1,0,justathoughtaway,L6vBnnryIug,0.5,2016-07-10 13:40:07,False,False
+2016-07-11T03:48:52,i just found my favorite movie,0,0,Celimar Delgado,L6vBnnryIug,0.5,2016-07-11 03:48:52,False,False
+2016-07-13T19:04:07,"I saw this movie on the plane yesterday on my flight from Rome, Italy to Chicago via United Airlines but I fell  asleep. I really wanted to see it again.",0,0,Sarah Plain and Tall,L6vBnnryIug,0.2,2016-07-13 19:04:07,False,False
+2016-07-17T05:55:37,"I loved this movie! It was a pleasant surprise, the ending was my favorite part, I didn't want it to end",0,0,LySandra Grace,L6vBnnryIug,0.7027777777777778,2016-07-17 05:55:37,False,False
+2016-07-21T00:21:12,If anyone knows what it's like to be a single woman in her late 60s living in New York it's Michael Showalter,3,0,thetramp123,L6vBnnryIug,-0.07835497835497836,2016-07-21 00:21:12,False,False
+2016-07-21T16:04:50,someone know the name of the song   use on this trailer please,0,0,Marvin Ballenger,L6vBnnryIug,0.0,2016-07-21 16:04:50,False,False
+2016-07-23T23:44:24,beth behrs!,0,0,ahmad rizky,L6vBnnryIug,0.0,2016-07-23 23:44:24,False,False
+2016-07-25T05:22:43,watched it. It was so great.,0,0,TwenWaen,L6vBnnryIug,0.8,2016-07-25 05:22:43,False,False
+2016-07-25T16:47:47,le falta para buena comedia,0,0,helena romero,L6vBnnryIug,0.0,2016-07-25 16:47:47,False,False
+2016-07-27T13:12:23,Waiting for Soundtrack! When is it coming out???,0,0,shirk069,L6vBnnryIug,0.0,2016-07-27 13:12:23,False,False
+2016-07-29T06:08:09,Watching this now! It looks so good! 😉,0,0,Alexander Baker,L6vBnnryIug,0.875,2016-07-29 06:08:09,False,False
+2016-07-30T03:53:15,I NEED TO WATCH THIS!!!!,0,1,Luigi and April,L6vBnnryIug,0.0,2016-07-30 03:53:15,False,False
+2016-07-31T03:40:05,Loved it!! At the end this is what matters: move on! Ket things go...,1,0,Li Sev,L6vBnnryIug,1.0,2016-07-31 03:40:05,False,False
+2016-08-02T23:34:49,"Sally filds es una actriz adorable y con respecto a la trama, quien no ha tenido alguna experiencia sexual o amorosa con alguien mayor o mas joven.",0,0,Romelia De Roma,L6vBnnryIug,0.5,2016-08-02 23:34:49,False,False
+2016-08-04T18:05:02,I feel like that in staples too,0,0,Fernando Matehuala,L6vBnnryIug,0.0,2016-08-04 18:05:02,False,False
+2016-08-05T13:03:47,I hate Doris's younger brother.,0,0,Merida 19,L6vBnnryIug,-0.4,2016-08-05 13:03:47,False,False
+2016-08-06T12:22:39,"I saw this on my flight from Doha -Venice yedterday.  What a blast!  I was laughing so hard that I embarrassed myself.  This DORIS is so cute, funny, fresh and innocent.  I plan to watch it again.",0,0,Azay Deelay,L6vBnnryIug,0.25166666666666665,2016-08-06 12:22:39,False,False
+2016-08-07T02:18:15,"Saw it last night, it was excellent.  The only disappointing thing was that she didn't tell his girlfriend how she faked some other woman supposedly having it off with him on Facebook.  (That doesn't give anything away for those who haven't seen it.)  Maybe it was inferred that if his girlfriend believed what she read on Facebook then she wasn't worth persevering with.  Great expose of Facebook though, so many fake Profiles on there, including my deceased partner.",1,1,forestsoceansmusic,L6vBnnryIug,0.1527777777777778,2016-08-07 02:18:15,False,False
+2016-08-08T07:07:55,"Just watched it and cried a river over its ending. Poor Doris, i feel your pain. Miracle never happens to us!!!",0,0,Toothless & Tiger,L6vBnnryIug,-0.78125,2016-08-08 07:07:55,False,False
+2016-08-14T17:28:18,what is it rated,0,0,Juan Bravo,L6vBnnryIug,0.0,2016-08-14 17:28:18,False,False
+2016-08-14T23:03:01,"Gosh, this movie was so amazing! Wish all movies were just like this! Sally, I truly love you!",4,0,Pim Bijlsma,L6vBnnryIug,0.78125,2016-08-14 23:03:01,False,False
+2016-08-23T15:14:38,"Love Sally Field, loved the movie. It was great to see her back starring in her own role.",1,0,kristine barkowski,L6vBnnryIug,0.52,2016-08-23 15:14:38,False,False
+2016-08-26T22:35:56,I loved this movie!,0,0,Dustin,L6vBnnryIug,0.875,2016-08-26 22:35:56,False,False
+2016-08-27T09:53:01,้Hello Schmidty,0,0,Umawan Laiprasert,L6vBnnryIug,0.0,2016-08-27 09:53:01,False,False
+2016-08-28T13:53:21,"Young girls date grandpas all the time, finally a reverse story",610,17,Steff R.,L6vBnnryIug,0.05,2016-08-28 13:53:21,False,False
+2016-08-29T20:04:09,sexiest daydream EVER 😍,53,0,shae mae,L6vBnnryIug,0.0,2016-08-29 20:04:09,False,False
+2016-08-31T17:04:06,"if it was a old guy trying to get the attention of a young female coworker, it would be a little creepy",1,4,somemysteriousguy,L6vBnnryIug,-0.0975,2016-08-31 17:04:06,False,False
+2016-09-02T15:02:26,this actually looks good,0,0,DonJuanDingDong,L6vBnnryIug,0.35,2016-09-02 15:02:26,False,False
+2016-09-02T20:52:01,Gish it looks so good,0,0,jedden12,L6vBnnryIug,0.7,2016-09-02 20:52:01,False,False
+2016-09-02T20:52:08,*gosh,0,0,jedden12,L6vBnnryIug,0.0,2016-09-02 20:52:08,False,False
+2016-09-03T00:17:46,Just saw this movie And it was amazing. Really well acted And also very funny and kind of romantic at the same time. I recommend it,0,0,Aurora Donnaloia,L6vBnnryIug,0.28750000000000003,2016-09-03 00:17:46,False,False
+2016-09-05T14:37:48,"imo , i really disliked doris as a character. Not the actress, the character. Though shes really nice and compassionate , having taken care of her mother , she was really selfish. Like she thought the world would abide to her and always be on her side. No she needed to know reality. It was really selfish of her to break brooklyn and john up and how she felt no shame. Thank god John and doris never dated , she didn't deserve anything.",1,1,Jerome Tan,L6vBnnryIug,-0.15000000000000002,2016-09-05 14:37:48,False,False
+2016-09-11T16:50:33,"My mom was with someone 27 years her junior until she died, no one gave them 5 years, they celebrated their 20th anniversary the night before she died. Glad to see this is getting some social treatment. Love knows few boundaries.",52,2,Iris Crain,L6vBnnryIug,0.19722222222222222,2016-09-11 16:50:33,False,False
+2016-09-24T16:43:09,song's name?!?!?!?!?!?!?!!? Pls!!,0,0,pietro,L6vBnnryIug,0.0,2016-09-24 16:43:09,False,False
+2016-09-30T15:48:15,I need to see this!,0,0,Ivy Ruonakoski,L6vBnnryIug,0.0,2016-09-30 15:48:15,False,False
+2016-10-09T09:39:23,"Loved it! Watching for third time as I type- interesting characters - especially brother in law. Tyne Daly fantastic, and of course- Sally Fields is so talented",2,2,Kamini Singh,L6vBnnryIug,0.4124999999999999,2016-10-09 09:39:23,False,False
+2016-10-15T00:21:40,"Help, my name is NINOOOO",0,0,Jack Lawson,L6vBnnryIug,0.0,2016-10-15 00:21:40,False,False
+2016-10-26T22:42:01,"The correct name would be ""Hello this is NINOOOO!!!!!""",0,1,The Nameguy,L6vBnnryIug,0.0,2016-10-26 22:42:01,False,False
+2016-11-01T03:28:23,For the love of GOD tell me what the song title is.. it's been months and I cannot find it,1,1,I can't think of a good name,L6vBnnryIug,0.5,2016-11-01 03:28:23,False,False
+2016-11-06T07:30:02,what's the title of the ending score?,1,2,adiksadiatabs,L6vBnnryIug,0.0,2016-11-06 07:30:02,False,False
+2016-11-17T20:40:43,"Hello, My names NINOOO!!!",0,0,Cool Story Bro,L6vBnnryIug,0.0,2016-11-17 20:40:43,False,False
+2016-12-02T02:11:41,Caroline Channing,5,0,MI.X.KO,L6vBnnryIug,0.0,2016-12-02 02:11:41,False,False
+2016-12-03T07:57:27,I'm laughing so hard at the name Lilith Cumswell. Glad to see the name Lilith is trending! It's underrated for sure!,4,2,Lilith Louise,L6vBnnryIug,0.3194444444444444,2016-12-03 07:57:27,False,False
+2016-12-08T06:57:38,It's that Caroline,1,0,vadjula wakaru,L6vBnnryIug,0.0,2016-12-08 06:57:38,False,False
+2016-12-29T03:27:11,thanks to show the entire movie in this 2.30 mn trailer.,1,0,cokaaa8689,L6vBnnryIug,0.1,2016-12-29 03:27:11,False,False
+2016-12-29T17:11:18,70 year old Sally Field 37 year old Max Greenfield  The reality of the premise sets in and you just want to throw up.,0,0,Fred,L6vBnnryIug,0.1,2016-12-29 17:11:18,False,False
+2017-01-02T12:45:35,"😂😂😂 funny, yet Hot!🔥😍",1,0,Eady Elias,L6vBnnryIug,0.25,2017-01-02 12:45:35,False,False
+2017-01-05T18:08:52,Lilith Cumswell.,0,0,Austin Full,L6vBnnryIug,0.0,2017-01-05 18:08:52,False,False
+2017-01-23T21:41:57,"Schimidt from ""New Girl"".... loved!",1,0,Trika0103,L6vBnnryIug,0.5056818181818181,2017-01-23 21:41:57,False,False
+2017-02-04T15:41:39,"Wow first movie I saw that an cute, adorable little lady whos way older dateing a young man.   very different I like that.😊☺",1,0,Melissa Fierros,L6vBnnryIug,0.17864583333333336,2017-02-04 15:41:39,False,False
+2017-02-04T15:43:48,Is it any good? Suitable for years 9+ ?,0,0,Elle Jones,L6vBnnryIug,0.625,2017-02-04 15:43:48,False,False
+2017-02-14T03:15:48,Sally Field's last acting performance ;(,0,0,Gemsicle,L6vBnnryIug,0.0,2017-02-14 03:15:48,False,False
+2017-02-15T04:39:37,Schmidt is so Schmidt even in this movie,0,0,SL,L6vBnnryIug,0.0,2017-02-15 04:39:37,False,False
+2017-03-12T13:13:24,This is such a sad movie. Let me find myself a lover and not to die lonely...Loneliness can kill,0,0,Male Isac,L6vBnnryIug,-0.25,2017-03-12 13:13:24,False,False
+2017-03-21T17:36:39,Such a good film,1,0,Chris Zajac,L6vBnnryIug,0.35,2017-03-21 17:36:39,False,False
+2017-04-15T22:27:33,this looks delightful,0,0,Mackenzie Hall,L6vBnnryIug,1.0,2017-04-15 22:27:33,False,False
+2017-04-18T03:18:38,"I never realized how disgusting the the image of a older woman and younger man was until I saw this movie.  But hack, if there are those out there that can make it work ...",0,0,Pain_Is_Good,L6vBnnryIug,-0.2777777777777778,2017-04-18 03:18:38,False,False
+2017-04-19T03:30:33,What music name?,0,1,Tayapa L. Jianwapee,L6vBnnryIug,0.0,2017-04-19 03:30:33,False,False
+2017-04-28T23:29:14,Sally field was so irresistibly adorable in this movie,0,0,Terri g,L6vBnnryIug,0.5,2017-04-28 23:29:14,False,False
+2017-05-04T02:32:50,""" I feel that way in Staples . . .""  Lmbo!",0,0,Crystal Sims,L6vBnnryIug,0.0,2017-05-04 02:32:50,False,False
+2017-05-04T18:58:16,"Watching this right now, please don't let this end sad.",0,0,Ash C,L6vBnnryIug,-0.10714285714285715,2017-05-04 18:58:16,False,False
+2017-05-06T21:47:09,"I really hated this movie.  I think that Sally Field was trying too hard to be ""Gidget"" again.  The only reason I watched it was because the funeral scene was filmed at my church.",1,3,Allison Corona,L6vBnnryIug,-0.3972222222222222,2017-05-06 21:47:09,False,False
+2017-05-08T03:39:48,This was so so so good!!!,0,0,Linzer,L6vBnnryIug,1.0,2017-05-08 03:39:48,False,False
+2017-05-09T14:55:37,Wow. What an incredible journey from the Flying Nun to Doris !!! Sally Field  is the girl :),0,0,Marcos Hering,L6vBnnryIug,0.5333333333333333,2017-05-09 14:55:37,False,False
+2017-05-11T11:18:54,film yang bagus sekali..,0,0,Davit 1988,L6vBnnryIug,0.0,2017-05-11 11:18:54,False,False
+2017-06-02T23:38:20,Welcome back Sally Field - We've missed you!!! ♥,2,0,Pip,L6vBnnryIug,0.6,2017-06-02 23:38:20,False,False
+2017-06-04T01:43:33,i love Sally feild shes awsome but is nobody else kind of grossed out by the age he is sooo young,0,0,Melinda Gonzales,L6vBnnryIug,0.4000000000000001,2017-06-04 01:43:33,False,False
+2017-06-10T03:13:42,"I like his movie already. Reminds me of ""Something's Gotta Give"" with Keanu Reeves.  ""Women over 50 are as effed a demographic as you can get."" ",0,0,Winds of March Journey/Perry tribute band,L6vBnnryIug,0.0,2017-06-10 03:13:42,False,False
+2017-06-10T14:52:04,"Wait til after the credits, there's a cute photo in there. I got this copy from the library on DVD. Sometimes, they have downloads and audio books. ",0,0,Winds of March Journey/Perry tribute band,L6vBnnryIug,0.5,2017-06-10 14:52:04,False,False
+2017-06-22T13:50:41,Only saw this movie last night on Amazon prime. I've been meaning to see it for a long time but never actually got to see it 'til yesterday.  I really enjoyed Sally as Doris. That dude is also quite good.,1,0,B W,L6vBnnryIug,0.19166666666666665,2017-06-22 13:50:41,False,False
+2017-06-30T17:48:31,That's me to a T. I'd'a gone for Doris. Sally Field is STILL hot. I don't care what anybody says. Most of my ex's are her age today anyway.,1,0,Zachary Thax,L6vBnnryIug,0.375,2017-06-30 17:48:31,False,False
+2017-07-03T10:01:29,This movie was so cute! Sally was amazing in this movie,0,0,Junicorn,L6vBnnryIug,0.6125,2017-07-03 10:01:29,False,False
+2017-07-04T11:52:57,Oooh boy... I hope I meet my Schmidt in the elevator like this.. soooo hot,0,0,BeautyLilyaa,L6vBnnryIug,0.25,2017-07-04 11:52:57,False,False
+2017-07-17T23:35:50,"Oh My Gosh,  I love, love, love this movie. Sally Field has outdone herself. She IS DORIS Miller. It's been 4 days and I've seen it three times and still find places to crack up and be moved. Love you Sally!!!!",0,0,JL D,L6vBnnryIug,0.625,2017-07-17 23:35:50,False,False
+2017-08-14T04:09:23,Sally Field is still beautiful. I would take seventy year old Sally over thirty year old one broke girl  any day.,0,0,Wolverine Pete,L6vBnnryIug,0.35000000000000003,2017-08-14 04:09:23,False,False
+2017-08-17T16:55:50,Smokey and the Bandit,0,0,Alucard Hellsing,L6vBnnryIug,0.0,2017-08-17 16:55:50,False,False
+2017-08-25T09:53:31,"Me, 32 years old from now..",0,0,Mastura Hamzah,L6vBnnryIug,0.1,2017-08-25 09:53:31,False,False
+2017-08-26T01:58:04,Aunt May?,0,0,Peter Parker,L6vBnnryIug,0.0,2017-08-26 01:58:04,False,False
+2017-09-02T19:40:28,"But when it's opposite genders, it's pedophilia.",0,1,F l o r a,L6vBnnryIug,0.0,2017-09-02 19:40:28,False,False
+2017-11-08T09:34:16,1:30 any bleachers fans?! Far right,0,0,Ruby L.A,L6vBnnryIug,0.19285714285714284,2017-11-08 09:34:16,False,False
+2017-11-19T06:36:46,One of the most underrated movies!,0,0,Grace Blessington,L6vBnnryIug,0.625,2017-11-19 06:36:46,False,False
+2017-11-23T13:39:27,Teehee,0,0,Creepy StoryGuy,L6vBnnryIug,0.0,2017-11-23 13:39:27,False,False
+2017-12-02T21:55:02,I watched this on an aeroplane on the way to Florida 😂 So funny and cute,1,0,Green,L6vBnnryIug,0.375,2017-12-02 21:55:02,False,False
+2017-12-16T13:16:05,I saw this movie and I loved it but I didnt understand the ending,0,1,Ramya Patil,L6vBnnryIug,0.7,2017-12-16 13:16:05,False,False
+2018-01-01T22:44:36,I love this mvoie so,0,0,Emma Stanczak,L6vBnnryIug,0.5,2018-01-01 22:44:36,False,False
+2018-01-03T08:30:53,hello aunt may,0,0,angel la,L6vBnnryIug,0.0,2018-01-03 08:30:53,False,False
+2018-01-24T07:32:17,So sweet...,0,0,Alicia Koshy,L6vBnnryIug,0.35,2018-01-24 07:32:17,False,False
+2018-01-27T18:15:55,This movie was soooo dope I watched it twice!!,0,0,Sammae,L6vBnnryIug,0.0,2018-01-27 18:15:55,False,False
+2018-01-29T18:45:03,I actually enjoyed this movie! It was so funny and cute. <3 <3 <3,0,0,pompomgirl21 seraphina,L6vBnnryIug,0.7291666666666666,2018-01-29 18:45:03,False,False
+2018-02-13T20:04:27,IS THAT ANNA AKANA,0,0,Gabriela Moekoe,L6vBnnryIug,0.0,2018-02-13 20:04:27,False,False
+2018-02-13T22:16:35,01:16 music?,0,0,Meda Ukradena,L6vBnnryIug,0.0,2018-02-13 22:16:35,False,False
+2018-02-14T09:48:12,Forrest Gump Mother 😂,1,0,Harkees Hirvad,L6vBnnryIug,0.0,2018-02-14 09:48:12,False,False
+2018-02-14T16:17:01,Is this movie good,0,0,Miss Tunney,L6vBnnryIug,0.7,2018-02-14 16:17:01,False,False
+2018-02-15T01:43:47,Instadan geldim yerimi aliyim 😂,0,0,Sultan Isik,L6vBnnryIug,0.0,2018-02-15 01:43:47,False,False
+2018-02-16T10:45:43,That’s Max Greenfield 😱😱😱,0,0,bhavna krishna,L6vBnnryIug,0.0,2018-02-16 10:45:43,False,False
+2018-02-18T06:25:17,lilith comeswell hahahaha,0,0,ternitamas,L6vBnnryIug,0.2,2018-02-18 06:25:17,False,False
+2018-02-19T14:48:40,I actually wanna watch this lol I'm smiling,0,0,Y Z,L6vBnnryIug,0.4,2018-02-19 14:48:40,False,False
+2018-02-20T13:42:19,Extraordinary  movie  !,0,0,Eleni Kara,L6vBnnryIug,0.41666666666666663,2018-02-20 13:42:19,False,False
+2018-02-21T08:45:52,Jack Antonoff??,0,0,Ajit Gurung,L6vBnnryIug,0.0,2018-02-21 08:45:52,False,False
+2018-03-03T17:58:49,disgusting pedo-movie,0,0,György Klutsik,L6vBnnryIug,-1.0,2018-03-03 17:58:49,False,False
+2018-03-03T20:46:33,this is cute i must admit😣😚,0,0,Miche.,L6vBnnryIug,0.5,2018-03-03 20:46:33,False,False
+2018-03-08T07:54:10,"سخيف )""",0,0,saif Alshamy,L6vBnnryIug,0.0,2018-03-08 07:54:10,False,False
+2018-03-10T00:06:56,to anyone who saw the movie do u know what happend in the end?cause I didn't really understand it,2,1,RositaKrasniqi_,L6vBnnryIug,0.2,2018-03-10 00:06:56,False,False
+2018-04-04T12:31:04,I can’t wait to watch this movie.,0,0,jannelle dear,L6vBnnryIug,0.0,2018-04-04 12:31:04,False,False
+2018-04-29T04:25:54,SALLY FIELDS NOO,0,0,Dani,L6vBnnryIug,0.0,2018-04-29 04:25:54,False,False
+2018-04-29T06:08:53,The ending sucks,1,0,Toniazja Jordan,L6vBnnryIug,-0.3,2018-04-29 06:08:53,False,False
+2018-05-16T13:18:28,cringe,0,0,Tachickoma,L6vBnnryIug,0.0,2018-05-16 13:18:28,False,False
+2018-06-27T03:38:39,sal essentially plays the same goofball in every film,0,0,Sancler Santander,L6vBnnryIug,0.0,2018-06-27 03:38:39,False,False
+2018-07-03T22:28:30,"Alright , i now finish watching the movie ... this movie sucks... there is no end in the movie... And i felt uncomfortable watching this ... 50 year old lady and 26 years old top handsome boy. Does it make sense ... and them both are kissing ...",1,0,ejkdbtsghrn -,L6vBnnryIug,0.06666666666666665,2018-07-03 22:28:30,False,False
+2018-07-15T05:09:43,i was disappointed,0,0,chrisbotron,L6vBnnryIug,-0.75,2018-07-15 05:09:43,False,False
+2018-07-25T21:24:49,Seems very good to watch!! Very quirky,0,0,Dakota Rain,L6vBnnryIug,0.5,2018-07-25 21:24:49,False,False
+2018-08-15T01:47:51,Schmmmmmmmmmmmmmmmmidt!!!!!,0,0,David Zhang,L6vBnnryIug,0.0,2018-08-15 01:47:51,False,False
+2018-08-28T09:28:53,So super cuteee,0,0,neha ghag,L6vBnnryIug,0.3333333333333333,2018-08-28 09:28:53,False,False
+2018-09-04T23:08:28,Sally is AWESOME...eternally 7,0,0,Dex Wolfe,L6vBnnryIug,0.0,2018-09-04 23:08:28,False,False
+2018-09-21T14:46:44,This is insane 💩💩💩,0,0,Natete Faith Gasana,L6vBnnryIug,-1.0,2018-09-21 14:46:44,False,False
+2018-09-23T17:35:30,Good movie but too much lgbt this lgbt that...,0,0,Chris Walker,L6vBnnryIug,0.44999999999999996,2018-09-23 17:35:30,False,False
+2018-10-18T01:58:00,I'm gonna literally grow up to be Doris,0,0,Lawrence Fernandez,L6vBnnryIug,0.0,2018-10-18 01:58:00,False,False
+2018-10-25T06:13:26,This seems so funny,0,0,Jennifer H.,L6vBnnryIug,0.25,2018-10-25 06:13:26,False,False
+2018-10-26T18:30:08,She kinda looks like Sarah Palin in this movie,0,0,D G,L6vBnnryIug,0.0,2018-10-26 18:30:08,False,False
+2018-11-04T17:45:37,"""IT KEEPS""",0,0,Brooke Schwartz,L6vBnnryIug,0.0,2018-11-04 17:45:37,False,False
+2018-11-13T08:23:31,The woman playing Sally Field's mom does'nt look old enough to be her mom...And I have no intention to watch this movie.. I find the scenario very gross ...,0,1,Ginette Boudreau,L6vBnnryIug,0.03333333333333333,2018-11-13 08:23:31,False,False
+2018-11-26T17:00:33,"Interesting that the overall opinion of this film is pretty high. I thought it was terrible. I thought the performances were cliche and trite, and Sally Field's acting skills severely under used. I turned it off at the night club concert scene. Enough was enough.",0,0,SeeburgMusic,L6vBnnryIug,-0.011249999999999996,2018-11-26 17:00:33,False,False
+2018-12-19T03:22:50,I honestly know someone that reminds me of Dorris in real life,0,0,Mike Moyer,L6vBnnryIug,0.4,2018-12-19 03:22:50,False,False
+2019-01-22T20:10:41,the bleachers are in the movie!cool!,0,0,kyle patrick maducdoc,L6vBnnryIug,0.0,2019-01-22 20:10:41,False,False
+2019-01-28T11:26:57,Just saw this movie.... It was  A. M. A. Z. I. N. G.......omg... I screamed so hard at the ending!!!!!! 😭😭😭😭😭,0,0,Marvel Girl,L6vBnnryIug,-1.0,2019-01-28 11:26:57,False,False
+2019-02-10T18:15:22,It KEEPS,0,0,Siân Lester,L6vBnnryIug,0.0,2019-02-10 18:15:22,False,False
+2019-02-12T20:40:03,Cumswell thats good,0,0,thatgamingguysean,L6vBnnryIug,0.7,2019-02-12 20:40:03,False,False
+2019-02-22T18:55:41,Remember this is Forest Gump mom!,0,0,Lucas Tengzelius,L6vBnnryIug,0.0,2019-02-22 18:55:41,False,False
+2019-02-25T20:53:02,Imagine the genders reversed. I wonder how many people would like it now,0,1,Thenice Animation,L6vBnnryIug,0.5,2019-02-25 20:53:02,False,False
+2019-02-25T20:54:11,SHE CAN BE HIS MOTHER WTF,0,0,Thenice Animation,L6vBnnryIug,-0.5,2019-02-25 20:54:11,False,False
+2019-03-01T22:28:55,This movie is amaezine  ! ive waatchedd it 398 timmes this mouth!!,1,0,Gabriel Steiner,L6vBnnryIug,0.0,2019-03-01 22:28:55,False,False
+2019-03-01T22:29:51,likke god this movee isgode,0,0,Gabriel Steiner,L6vBnnryIug,0.0,2019-03-01 22:29:51,False,False
+2019-03-04T18:34:42,I Love that movie beacause is so beautiful 💖😍,1,0,jaquemora ala milla,L6vBnnryIug,0.675,2019-03-04 18:34:42,False,False
+2019-03-08T06:12:04,Hello my name is meey😁,0,0,emme 21,L6vBnnryIug,0.0,2019-03-08 06:12:04,False,False
+2019-03-10T19:00:12,imagine the genders reverse 😂,0,0,katherine,L6vBnnryIug,0.0,2019-03-10 19:00:12,False,False
+2019-03-17T20:57:45,aww this was a really cute movie just got done watching really liked this movie the characters were great,0,0,Lizzy Watkins,L6vBnnryIug,0.55,2019-03-17 20:57:45,False,False
+2019-03-28T19:58:10,2019??,0,0,Tiana Morgan,L6vBnnryIug,0.0,2019-03-28 19:58:10,False,False
+2019-03-31T00:17:16,song in 1:15??,0,0,Праскам Чашите,L6vBnnryIug,0.0,2019-03-31 00:17:16,False,False
+2019-04-02T21:39:53,Would've been a whole lot better if her name was Nino.,0,0,HotS Li Li,L6vBnnryIug,0.35,2019-04-02 21:39:53,False,False
+2019-04-19T02:20:50,I seen two people that who played in two different Spider-Man movie Sally and that lady from the beginning of Spider-Man homecoming,0,0,Nikowa Cofer,L6vBnnryIug,0.0,2019-04-19 02:20:50,False,False
+2019-05-04T05:21:02,This is what happens when you kill Uncle Ben and re-reboot Spiderman.,1,0,drfdwf,L6vBnnryIug,0.0,2019-05-04 05:21:02,False,False
+2019-05-26T00:55:42,Pervy grandma,0,0,Deez Nutz,L6vBnnryIug,0.0,2019-05-26 00:55:42,False,False
+2019-05-29T17:36:32,A good Movie!  I wouldn't have recognized Sister Bertrille if I didn't know it was Her! Time sure has went by!,1,5,BETTERWORLD SGT0589,L6vBnnryIug,0.8125,2019-05-29 17:36:32,False,False
+2019-06-04T01:52:18,Hello my name is Doris movie,0,0,Anderson Santucci,L6vBnnryIug,0.0,2019-06-04 01:52:18,False,False
+2019-06-08T19:45:10,Office crushes are like ugh😂,0,0,Esther Oanda,L6vBnnryIug,0.0,2019-06-08 19:45:10,False,False
+2019-07-06T23:23:27,Sally Fields was such a cougar 🐆,0,0,Koral Davis,L6vBnnryIug,0.0,2019-07-06 23:23:27,False,False
+2019-07-09T07:49:05,"2015 - No 2016- Nope 2017-Not yet 2018-No, not yet  2019-Now's the perfect time",4,0,Youneecorn Cream,L6vBnnryIug,1.0,2019-07-09 07:49:05,False,False
+2019-07-11T03:53:27,Maldita sea 🙃 yo soy Doris :v  identificada al 1000%,0,0,Karin Ledesma Bravo,L6vBnnryIug,0.0,2019-07-11 03:53:27,False,False
+2019-07-24T01:11:00,What a beauty. She was 68 years old when she made this. I fell in love with Gidget when I was 13 and still love Sally.,2,0,Alan Brown,L6vBnnryIug,0.3666666666666667,2019-07-24 01:11:00,False,False
+2019-08-05T15:12:27,Is she the secretary of president in independence day ....,0,0,Yaamini kp,L6vBnnryIug,0.0,2019-08-05 15:12:27,False,False
+2019-08-08T01:57:14,"I rented this film, then couldn't bear it. Turned it off after 15 minutes. I found it disturbing, disgusting and awful. No thanks.",0,0,Ellen Spear,L6vBnnryIug,-0.65,2019-08-08 01:57:14,False,False
+2019-08-11T20:00:20,When i grow up i hope I'm Doris,0,0,Susie English,L6vBnnryIug,0.0,2019-08-11 20:00:20,False,False
+2019-08-30T03:28:48,"Why does ""LGBT,"" have to be in everything?",4,2,James Wallace,L6vBnnryIug,0.0,2019-08-30 03:28:48,False,False
+2019-08-31T02:28:22,So this popped up in my feed and guess what I'm doing now yup I'm gonna go watch the movie the trailer was fantabulous imagine what the movie will be like,0,1,Puppymcpupsters,L6vBnnryIug,0.0,2019-08-31 02:28:22,False,False
+2019-08-31T22:43:15,Tyne Daly looks great!,0,0,mria621,L6vBnnryIug,1.0,2019-08-31 22:43:15,False,False
+2019-09-02T03:57:36,God dammit Schmidt,0,0,Klutch 0bTaiNNN,L6vBnnryIug,0.0,2019-09-02 03:57:36,False,False
+2019-09-02T23:02:49,Looking forward to this movie,0,0,Rosaria Pellegrini,L6vBnnryIug,0.0,2019-09-02 23:02:49,False,False
+2019-09-03T00:27:08,Dumb,0,0,Timmy tim,L6vBnnryIug,-0.375,2019-09-03 00:27:08,False,False
+2019-09-03T01:07:33,I need to watch this movie.,1,1,Choden Namgay,L6vBnnryIug,0.0,2019-09-03 01:07:33,False,False
+2019-09-03T10:18:55,i am watching this trailer in 2019 end.....such shame,2,0,अम्मु महाराष्ट्र,L6vBnnryIug,0.0,2019-09-03 10:18:55,False,False
+2019-09-03T14:53:17,Sally Field can do whatever she wants because she's Sally Field.  Yes we STILL really like her.,2,0,Corehaven22,L6vBnnryIug,0.2,2019-09-03 14:53:17,False,False
+2019-09-03T20:05:25,"Love a story about an aging woman finding a way to continue living life, but the whole age gap is JUST as gross even if you flip the gender. Not sorry.",2,1,Lewis Edwards,L6vBnnryIug,0.2375,2019-09-03 20:05:25,False,False
+2019-09-04T01:30:12,I don't know why a trailer from 2015 is in my recommended but I'm just rolling with it,3,0,Apple,L6vBnnryIug,0.0,2019-09-04 01:30:12,False,False
+2019-09-04T17:32:29,2015 SAME YEAR MY ONE OF MY MISSING CHILDREN WAS BORN.  REMEMBER HIRO TOBIAS.  Please make sure we get trafficked or hijacked before we get to be together again.,0,0,Nancy Dee Beam,L6vBnnryIug,0.09999999999999999,2019-09-04 17:32:29,False,False
+2019-09-04T22:16:00,🤣🤣🤣🤣im 53 years old.,0,0,sandy m,L6vBnnryIug,0.1,2019-09-04 22:16:00,False,False
+2019-09-05T02:05:47,I can hear Kylie a tiny bit 😂,1,0,James Hudson,L6vBnnryIug,0.0,2019-09-05 02:05:47,False,False
+2019-09-05T15:25:11,Hello my name is Sally Field and I need money....,0,0,Kriegtime101,L6vBnnryIug,0.0,2019-09-05 15:25:11,False,False
+2019-09-05T22:45:37,Stop.,0,0,I’m A doggo,L6vBnnryIug,0.0,2019-09-05 22:45:37,False,False
+2019-09-06T01:11:05,This looks so cute!,0,0,Adaptive Discourse,L6vBnnryIug,0.625,2019-09-06 01:11:05,False,False
+2019-09-06T11:15:13,"This movie was funny, exciting and very moving.  I definitely recommend it!!!",0,0,Joy Gill,L6vBnnryIug,0.1875,2019-09-06 11:15:13,False,False
+2019-09-06T17:06:34,Wow what an insipid pile.,0,0,Liam,L6vBnnryIug,0.1,2019-09-06 17:06:34,False,False
+2019-09-06T17:07:02,This movie is so embarrassing that you stop enjoying it half-way through,3,1,Frosted Graves,L6vBnnryIug,0.5,2019-09-06 17:07:02,False,False
+2019-09-07T15:24:15,This is weird. No go,0,0,DutchKing,L6vBnnryIug,-0.5,2019-09-07 15:24:15,False,False
+2019-09-07T19:07:14,"Hello, my name is brisa. Jaja hablo español.",0,0,benja el feo,L6vBnnryIug,0.0,2019-09-07 19:07:14,False,False
+2019-09-08T13:29:33,Why am i just getting recommended this now? In 2019?!😂😂,4,0,King kong Haribo,L6vBnnryIug,0.0,2019-09-08 13:29:33,False,False
+2019-09-08T17:56:31,I SPOT MY GIRL ANNA AKANA!!,0,0,t1me_ k1tten,L6vBnnryIug,0.0,2019-09-08 17:56:31,False,False
+2019-09-10T18:51:32,this is literally that fake movie from the office where jack black dates a girls grandma,0,0,Your Dad,L6vBnnryIug,-0.3333333333333333,2019-09-10 18:51:32,False,False
+2019-09-12T05:24:15,"Literally thought this was a new and upcoming movie and I was so excited, then I read the comments from 3 years ago. Thanks for recommending this me now, though, YouTube. #2019",1,0,Avocado Toast,L6vBnnryIug,0.23712121212121215,2019-09-12 05:24:15,False,False
+2019-09-13T20:27:44,The movie looks OK but Sally Field and Tyne Daly look great in it.,1,2,FloraWest,L6vBnnryIug,0.65,2019-09-13 20:27:44,False,False
+2019-09-14T04:13:47,IT. KEEPS!,0,0,StephenHeartASMR,L6vBnnryIug,0.0,2019-09-14 04:13:47,False,False
+2019-09-14T07:54:49,Thought this movie was new and I had to wait for it. But its from 2015 and I cannot say if I like or dislike that fact haha,1,0,DS Vinia,L6vBnnryIug,0.16818181818181818,2019-09-14 07:54:49,False,False
+2019-09-15T10:28:30,okay why is she so cute like       ELDERS ARE CUTE IM NOT WEIRD,2,0,John Gucci,L6vBnnryIug,0.4375,2019-09-15 10:28:30,False,False
+2019-09-15T16:33:42,"Idk big age differences weird me out, no matter who the older person is",0,0,Emily Delamar,L6vBnnryIug,-0.11111111111111112,2019-09-15 16:33:42,False,False
+2019-09-16T04:19:34,Duck Sauce?,0,0,Saaduddin Ansari,L6vBnnryIug,0.0,2019-09-16 04:19:34,False,False
+2019-09-17T05:33:55,This is adorable!!!,0,0,Maahum Waheed,L6vBnnryIug,0.9765625,2019-09-17 05:33:55,False,False
+2019-09-17T05:42:08,Aunt May found a new Ben,0,0,WILL.E,L6vBnnryIug,0.13636363636363635,2019-09-17 05:42:08,False,False
+2019-09-17T17:13:19,"Sally Field,  a cutie then-a cutie now.",0,0,Cyclone Sister,L6vBnnryIug,0.0,2019-09-17 17:13:19,False,False
+2019-09-22T11:44:26,Doris finds her groove 😌,1,0,Fatima,L6vBnnryIug,0.0,2019-09-22 11:44:26,False,False
+2019-09-25T13:58:34,"The fact this was filmed in two weeks! Makes my appreciate this movie, yes I’m a movie geek",0,0,DEYA,L6vBnnryIug,0.0,2019-09-25 13:58:34,False,False
+2019-09-26T03:17:00,Was that an Anna Akana I saw????,0,0,Isabel Jones,L6vBnnryIug,0.0,2019-09-26 03:17:00,False,False
+2019-09-27T10:20:53,It's good to see Tyne Daly. She is such a great and underrated actress.,0,0,Mehdy SERAICHE,L6vBnnryIug,0.5,2019-09-27 10:20:53,False,False
+2019-09-27T23:37:03,"I take one look at Sally Field and realize how beautiful the process of aging is. Every line on her face is gorgeous. If I were a man, and younger, I'd date her. I hope she never gets a facelift or plastic surgery. Her full acceptance of her age makes her more youthful.",0,0,Suneye Intuition,L6vBnnryIug,0.48,2019-09-27 23:37:03,False,False
+2019-10-02T22:09:18,I would watch this movie,0,0,ymarrero23,L6vBnnryIug,0.0,2019-10-02 22:09:18,False,False
+2019-10-12T01:51:08,Who's watching 2019,0,0,ahmed yousif,L6vBnnryIug,0.0,2019-10-12 01:51:08,False,False
+2020-01-03T15:01:32,This movie was amazing!!!! 😂 Underrated lmao,0,0,nileyfan1998,L6vBnnryIug,0.8,2020-01-03 15:01:32,False,False
+2020-01-04T07:06:53,Grew up with mrs.doutfire,0,0,Goldy Loxs,L6vBnnryIug,0.0,2020-01-04 07:06:53,False,False
+2020-02-05T22:34:17,LOVED this movie! The part where they come into HER house and try to sort through her belongings was so sad - her performance during that scene was spectacular!,0,0,Kayleigh C,L6vBnnryIug,0.375,2020-02-05 22:34:17,False,False
+2020-02-09T14:17:36,Lovveeeee This Movie!!!,0,0,Dina Levock,L6vBnnryIug,0.0,2020-02-09 14:17:36,False,False
+2020-02-18T21:32:47,My FAVORITE thing about My Name is Doris is the friendship Doris has with Roz (played by Tyne Daly) I HOPE & PRAY I have a friend like her when I’m older.,0,0,Ben Schaeffer,L6vBnnryIug,0.3333333333333333,2020-02-18 21:32:47,False,False
+2020-02-21T11:34:54,супер фильм !,0,0,Светлана Секонд-Хенд,L6vBnnryIug,0.0,2020-02-21 11:34:54,False,False
+2020-03-04T15:06:46,I just cringed a little but I love it!! Hahaha,0,0,Sarah DO,L6vBnnryIug,0.26458333333333334,2020-03-04 15:06:46,False,False
+2020-04-01T02:03:04,what is the meaning of the ending? anyone knows > please tell me is they becoming together or not?,1,0,hosam hasan,L6vBnnryIug,0.45,2020-04-01 02:03:04,False,False
+2020-04-25T03:29:44,Not Good !!!!!,1,2,Zac Varg,L6vBnnryIug,-0.5,2020-04-25 03:29:44,False,False
+2020-04-28T00:33:30,This was a great movie another thumbs up for Sally Fields,0,0,lady bug,L6vBnnryIug,0.8,2020-04-28 00:33:30,False,False
+2020-05-03T03:37:31,To time academy awards 🙌🙌🙌,0,0,Vivrean Wrer,L6vBnnryIug,0.0,2020-05-03 03:37:31,False,False
+2020-05-27T01:13:01,After watching New Girl I cant look at him like another dude. He is and will always be Schmitt for me,0,0,Maria Jose Gomez,L6vBnnryIug,0.13636363636363635,2020-05-27 01:13:01,False,False

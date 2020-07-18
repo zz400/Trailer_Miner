@@ -1,0 +1,325 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2015-12-17T06:07:47,with I'm actually first I think,0,0,Guadalupe Cordova,CATCSEoeG_c,0.25,2015-12-17 06:07:47,True,True
+2015-12-17T06:08:01,woah I'm actually first I think,0,0,Guadalupe Cordova,CATCSEoeG_c,0.25,2015-12-17 06:08:01,True,True
+2015-12-17T06:09:44,Totally recognized his voice from just watching Kingsman,425,7,CuriouslyAshley,CATCSEoeG_c,0.0,2015-12-17 06:09:44,True,True
+2015-12-17T06:10:35,wanna see this,0,0,Patradiablo,CATCSEoeG_c,0.0,2015-12-17 06:10:35,True,True
+2015-12-17T06:13:14,he was the worst jumper during the olympics,1,3,TheAndredal,CATCSEoeG_c,-1.0,2015-12-17 06:13:14,True,True
+2015-12-17T06:13:19,Yay an underdog feel good movie...  Gross.,0,0,Lachy Conway,CATCSEoeG_c,0.35,2015-12-17 06:13:19,True,True
+2015-12-17T06:13:33,Anyone getting Forest Gump references to certain parts of this trailer?,18,0,Twelve K,CATCSEoeG_c,0.21428571428571427,2015-12-17 06:13:33,True,True
+2015-12-17T06:14:49,eggsy jokes inbound,75,3,Shark Team,CATCSEoeG_c,0.0,2015-12-17 06:14:49,True,True
+2015-12-17T06:15:56,Cool runnings!,1,0,Buttface,CATCSEoeG_c,0.4375,2015-12-17 06:15:56,True,True
+2015-12-17T06:16:29,eggsy?,0,0,Hilman,CATCSEoeG_c,0.0,2015-12-17 06:16:29,True,True
+2015-12-17T06:20:48,"looks interesting, definitely watching this",0,0,TragicFX,CATCSEoeG_c,0.25,2015-12-17 06:20:48,True,True
+2015-12-17T06:21:50,was that the music from cloud atlas? at the last part?,0,0,firul amry,CATCSEoeG_c,0.0,2015-12-17 06:21:50,True,True
+2015-12-17T06:22:46,It will be a nice movie,0,0,Chris Pavón,CATCSEoeG_c,0.6,2015-12-17 06:22:46,True,True
+2015-12-17T06:22:55,annnnd thank you for watching the movie,0,0,Miko Baker,CATCSEoeG_c,0.0,2015-12-17 06:22:55,True,True
+2015-12-17T06:25:44,Very excited for this film for some reason,0,0,Blake Lewis,CATCSEoeG_c,0.48750000000000004,2015-12-17 06:25:44,True,True
+2015-12-17T06:27:19,"Looks alright, just wish this trailer hadn't of just told me the whole movie.",40,6,MrMannthony,CATCSEoeG_c,0.2,2015-12-17 06:27:19,True,True
+2015-12-17T06:27:38,Shakira kills Kylo Ren,1,4,Jorge Brito,CATCSEoeG_c,0.0,2015-12-17 06:27:38,True,True
+2015-12-17T06:30:16,i just saw the entire movie in that trailer...that saved me a few bucks...thanks hollywood and your feel good movies,1,0,pactedesfous,CATCSEoeG_c,0.16666666666666666,2015-12-17 06:30:16,True,True
+2015-12-17T06:32:55,meh...,0,0,Z zz,CATCSEoeG_c,0.0,2015-12-17 06:32:55,True,True
+2015-12-17T06:33:56,Is that the same meeting room they used to shoot Kingsman?,0,0,Izyan Ismail,CATCSEoeG_c,0.0,2015-12-17 06:33:56,True,True
+2015-12-17T06:34:06,Thanks for the movie. Ate a popcorn.,26,0,Rejoy Panakkal,CATCSEoeG_c,0.2,2015-12-17 06:34:06,True,True
+2015-12-17T06:34:45,"I haven't watched a single Star Wars movie, but ima tell you that there are spoilers below",0,0,iUpLevel,CATCSEoeG_c,-0.07142857142857142,2015-12-17 06:34:45,True,True
+2015-12-17T06:41:47,looks alright,0,0,Duca Moris,CATCSEoeG_c,0.0,2015-12-17 06:41:47,True,True
+2015-12-17T06:43:14,yes yes yes my kind of movie 👍👍👍👍👍,1,0,maxx1mus1041,CATCSEoeG_c,0.6,2015-12-17 06:43:14,True,True
+2015-12-17T06:45:39,I understand Canada Olympic Park (where the ski jumping takes place at the Calgary Olympics) isn't the best for shooting a movie but I do hope they shoot the movie in certain parts of Calgary.,0,0,Steven Neufeld,CATCSEoeG_c,0.6071428571428571,2015-12-17 06:45:39,True,True
+2015-12-17T06:46:01,This movie will really bomb. Nobody cares about ski jumping or this whole premise.,0,4,chicagocubs10601,CATCSEoeG_c,0.2,2015-12-17 06:46:01,True,True
+2015-12-17T06:47:40,"Again, showed way too much of the movie.",0,2,Mr. Bodymassagemachine,CATCSEoeG_c,0.2,2015-12-17 06:47:40,True,True
+2015-12-17T06:51:41,What an emotional roller coaster!,0,0,Wachtraum Animation,CATCSEoeG_c,0.0,2015-12-17 06:51:41,True,True
+2015-12-17T06:55:35,Did I Just Watch The Whole Movie Lmaooo,1,1,S L A V G H T E R S E A S O N,CATCSEoeG_c,0.2,2015-12-17 06:55:35,True,True
+2015-12-17T06:56:29,It's cool runnings it's pretty much the same story almost,0,1,LORDE OWS THE KING,CATCSEoeG_c,0.2,2015-12-17 06:56:29,True,True
+2015-12-17T06:58:55,Awesome! Now I don't even need to see the movie!  So nice of them to put the whole thing online.,0,2,novademon,CATCSEoeG_c,0.6,2015-12-17 06:58:55,True,True
+2015-12-17T07:02:01,But this guy is a joke. He`s considered to be the worst ski jumper in the history of this sport.,5,5,beny195,CATCSEoeG_c,-1.0,2015-12-17 07:02:01,True,True
+2015-12-17T07:02:17,"plot twist: at the third arc eddie broke his leg, go home, and suicide. the end.",0,0,Ferdy Hoshigaki Tube,CATCSEoeG_c,0.0,2015-12-17 07:02:17,True,True
+2015-12-17T07:11:36,han solo dies,0,0,Johnnyboy2yl,CATCSEoeG_c,0.0,2015-12-17 07:11:36,True,True
+2015-12-17T07:13:22,Han Solo dies,0,0,Brian Soesbergen,CATCSEoeG_c,0.0,2015-12-17 07:13:22,True,True
+2015-12-17T07:15:33,looking forward to this,0,0,A Wild Nathan,CATCSEoeG_c,0.0,2015-12-17 07:15:33,True,True
+2015-12-17T07:26:19,"Wow, this actually looks good.",45,0,The Amazing Lucas,CATCSEoeG_c,0.26666666666666666,2015-12-17 07:26:19,True,True
+2015-12-17T07:26:43,"So it's just like ""Cool Runnings"" then",13,5,NinjaSpartan316,CATCSEoeG_c,0.35,2015-12-17 07:26:43,True,True
+2015-12-17T07:29:30,Looks like Bubbles from Trailer Park Boys,0,0,John Brower,CATCSEoeG_c,0.0,2015-12-17 07:29:30,True,True
+2015-12-17T07:30:24,"so same sorta plot as kingsman, start when younger, finds a cool mentor, the nerdier ski version instead of cool spy version",42,8,Zed,CATCSEoeG_c,0.175,2015-12-17 07:30:24,True,True
+2015-12-17T07:32:05,Eggsy became Eddy?,0,1,Tetsu Hoshi,CATCSEoeG_c,0.0,2015-12-17 07:32:05,True,True
+2015-12-17T07:33:17,Eggsy,0,0,No1s Perfxct,CATCSEoeG_c,0.0,2015-12-17 07:33:17,True,True
+2015-12-17T07:35:48,Eggsy the eagle?,140,0,Aakash Kalaria,CATCSEoeG_c,0.0,2015-12-17 07:35:48,True,True
+2015-12-17T07:37:36,run forest run.. Lol,1,0,Freda Naredo,CATCSEoeG_c,0.8,2015-12-17 07:37:36,True,True
+2015-12-17T07:42:03,Dang... I'm surprised this looks great.,0,0,Jole Aron,CATCSEoeG_c,0.45,2015-12-17 07:42:03,True,True
+2015-12-17T07:49:58,Kingsman x Forrest Gump x Cool Runnings,9,0,Jixelsquad,CATCSEoeG_c,0.35,2015-12-17 07:49:58,True,True
+2015-12-17T07:51:07,And just sometimes you have to look in one way leaving every things behind you in order to pioroty..,0,0,Erwa Osman,CATCSEoeG_c,-0.4,2015-12-17 07:51:07,True,True
+2015-12-17T07:54:25,"OMG on my birthday, it's good",0,0,Cao Sơn Đoàn Phạm,CATCSEoeG_c,0.7,2015-12-17 07:54:25,True,True
+2015-12-17T08:01:37,Eggsy?,0,0,Sabrina R,CATCSEoeG_c,0.0,2015-12-17 08:01:37,True,True
+2015-12-17T08:01:40,So cheesy!,0,0,GrandiaKnight,CATCSEoeG_c,-0.625,2015-12-17 08:01:40,True,True
+2015-12-17T08:05:36,Kylo den kills Han solo,0,0,Briarwood Puffin,CATCSEoeG_c,0.0,2015-12-17 08:05:36,True,True
+2015-12-17T08:15:03,Was that a trailer or the movie,0,0,jetting along,CATCSEoeG_c,0.0,2015-12-17 08:15:03,True,True
+2015-12-17T08:19:20,the hell happened to eggsy,0,0,Ayanna Dominguez,CATCSEoeG_c,0.0,2015-12-17 08:19:20,True,True
+2015-12-17T08:22:45,...I like it.,156,1,ChainSaw0751,CATCSEoeG_c,0.0,2015-12-17 08:22:45,True,True
+2015-12-17T08:26:07,"i see it's a Marv Production, i expect a good movie :)",0,0,goodial,CATCSEoeG_c,0.6,2015-12-17 08:26:07,True,True
+2015-12-17T08:41:04,Cool! another trailer that gives away the best parts of the movie.,0,2,Thijs R,CATCSEoeG_c,0.71875,2015-12-17 08:41:04,True,True
+2015-12-17T08:53:41,Aww. This looks really good.,0,0,lastofmykind8,CATCSEoeG_c,0.7,2015-12-17 08:53:41,True,True
+2015-12-17T09:05:08,"For a movie about skiing, I actually wouldn't mind seeing this.",306,5,Metaphysical Resonance,CATCSEoeG_c,0.0,2015-12-17 09:05:08,True,True
+2015-12-17T09:08:38,Wow that was a great movie!,0,0,Manny Sinclair,CATCSEoeG_c,0.55,2015-12-17 09:08:38,True,True
+2015-12-17T09:09:49,The wolverine on skiis? Never thought I'd see the day,0,1,Morgan Boyd,CATCSEoeG_c,0.0,2015-12-17 09:09:49,True,True
+2015-12-17T09:10:10,"lol put the subtitles on  all the people thought I should give up smokes , weed  lol",0,0,Monika Sharma,CATCSEoeG_c,0.8,2015-12-17 09:10:10,True,True
+2015-12-17T09:10:28,New trailers dropping faster than my GPA.,0,0,Live Motivated,CATCSEoeG_c,0.13636363636363635,2015-12-17 09:10:28,True,True
+2015-12-17T09:15:25,Why does this exist?,0,1,Content Aware Phil,CATCSEoeG_c,0.0,2015-12-17 09:15:25,True,True
+2015-12-17T09:53:21,Good short film.,0,0,Nikhilesh karnik,CATCSEoeG_c,0.35,2015-12-17 09:53:21,True,True
+2015-12-17T10:01:48,another trailer that made me not need to watch the film,1,0,John Ray Ng,CATCSEoeG_c,0.0,2015-12-17 10:01:48,True,True
+2015-12-17T10:05:01,Awh why do Americans get it in February and we get it in April? I'd happily swap around Captain America coming out in Britain before America for this,44,17,Luca #56,CATCSEoeG_c,0.8,2015-12-17 10:05:01,True,True
+2015-12-17T10:06:08,"Also guys look for the version uploaded to JoBlo Movie Trailers, the British trailer for me at least has some funnier moments.",0,0,Luca #56,CATCSEoeG_c,-0.15,2015-12-17 10:06:08,True,True
+2015-12-17T10:12:07,"this is total crap, nobody jumped the V style at that moment",0,0,krpan martin,CATCSEoeG_c,-0.4,2015-12-17 10:12:07,True,True
+2015-12-17T10:13:58,cool runnings ?,0,0,jordandan96,CATCSEoeG_c,0.35,2015-12-17 10:13:58,True,True
+2015-12-17T10:35:07,Is this a true life story,0,1,Heero Abdulai,CATCSEoeG_c,0.35,2015-12-17 10:35:07,True,True
+2015-12-17T10:41:00,I was in that crowd! :D,7,0,erifetim,CATCSEoeG_c,1.0,2015-12-17 10:41:00,True,True
+2015-12-17T10:48:18,Cheesefest.,0,0,RolyPoly,CATCSEoeG_c,0.0,2015-12-17 10:48:18,True,True
+2015-12-17T10:53:56,...i thought u might need this... T.T,0,0,Mr. Firman Md Omar,CATCSEoeG_c,0.0,2015-12-17 10:53:56,True,True
+2015-12-17T10:56:24,"His mother were the best and with that u can achieve anything, anything in the world.",2,0,Yanuar anto,CATCSEoeG_c,1.0,2015-12-17 10:56:24,True,True
+2015-12-17T10:57:53,"my dad loved eddie eagle :) he made the olumpics fun, because he sucked balls",0,0,tobbilini,CATCSEoeG_c,0.5,2015-12-17 10:57:53,True,True
+2015-12-17T10:58:05,Count me in,0,0,ds37,CATCSEoeG_c,0.0,2015-12-17 10:58:05,True,True
+2015-12-17T11:37:27,"Nice, but the best ski jumping is Andy Goldberger. Ever. :)",0,0,Biktop,CATCSEoeG_c,0.7000000000000001,2015-12-17 11:37:27,True,True
+2015-12-17T12:08:45,isnt that eggsy?,0,0,shubham tewari,CATCSEoeG_c,0.0,2015-12-17 12:08:45,True,True
+2015-12-17T12:13:44,Looks good but now I know the whole movie.,0,1,shouldntyoubecooking,CATCSEoeG_c,0.44999999999999996,2015-12-17 12:13:44,True,True
+2015-12-17T12:14:16,thanks for showing the whole plot of movie for free........thanks guys,0,1,Ash bro,CATCSEoeG_c,0.2,2015-12-17 12:14:16,True,True
+2015-12-17T12:15:43,"Suomen lippu näkyvissä, torilla tavataan!",0,0,stefanfrojdman,CATCSEoeG_c,0.0,2015-12-17 12:15:43,True,True
+2015-12-17T12:15:49,I think I know the whole plot of the movie now. But I will watch this in theater for sure.,0,1,Marlon Cañas,CATCSEoeG_c,0.35,2015-12-17 12:15:49,True,True
+2015-12-17T12:16:31,Taron Egerton rising star,0,0,Fraser Wingate,CATCSEoeG_c,0.0,2015-12-17 12:16:31,True,True
+2015-12-17T12:25:23,I got goosebumps when he  enters the stadium and  people cheers for him,1,0,Adnan Ahmed,CATCSEoeG_c,0.0,2015-12-17 12:25:23,True,True
+2015-12-17T13:12:46,"This trailer made me tear up and sent chills down my spine, this is going to be a good one",3,0,LeGiT_mCsLiCk,CATCSEoeG_c,0.2722222222222222,2015-12-17 13:12:46,True,True
+2015-12-17T13:14:33,My boy Taron!,1,0,William Eleazar,CATCSEoeG_c,0.0,2015-12-17 13:14:33,True,True
+2015-12-17T13:21:13,My Biscuits!,0,0,BlakeMcTavishe,CATCSEoeG_c,0.0,2015-12-17 13:21:13,True,True
+2015-12-17T13:27:51,"I got sick looking at that twat along with everyone else decades ago,,,I still wake up in a cold sweat with his awful crime against music pop song playing in my head....",0,0,JOOGAL1111,CATCSEoeG_c,-0.7714285714285714,2015-12-17 13:27:51,True,True
+2015-12-17T13:40:19,Is it a true story?,0,1,Halldór högni,CATCSEoeG_c,0.35,2015-12-17 13:40:19,True,True
+2015-12-17T13:52:07,Wowerz,0,0,James,CATCSEoeG_c,0.0,2015-12-17 13:52:07,True,True
+2015-12-17T14:02:51,harry potter with no magic crosses over to forest gump goes to the olympus,0,0,Diezl Logic,CATCSEoeG_c,-0.25,2015-12-17 14:02:51,True,True
+2015-12-17T14:09:04,Finally a movie about Ski Jumping! 8),0,0,SkyPhoenixX1 ~ Channel 1 ☆ Dance & Trance Treasures ☆,CATCSEoeG_c,0.25,2015-12-17 14:09:04,True,True
+2015-12-17T14:15:52,Cool Running vibes,0,0,Hamza Pool,CATCSEoeG_c,0.35,2015-12-17 14:15:52,True,True
+2015-12-17T14:17:50,"i like these 2 minute movies, this one was very emotional hum hum",0,0,João Henrique Lemos,CATCSEoeG_c,0.0,2015-12-17 14:17:50,True,True
+2015-12-17T14:26:19,whats the music towards the end?,0,0,Soumojit Mukherjee,CATCSEoeG_c,0.0,2015-12-17 14:26:19,True,True
+2015-12-17T14:36:09,Eggsy the Eagle ^_^,0,0,Ashish Randive,CATCSEoeG_c,0.0,2015-12-17 14:36:09,True,True
+2015-12-17T14:36:44,1:11 is where you shoulda stopped the trailer because after that it basically spoils the whole movie trust me,39,11,Tyler G,CATCSEoeG_c,0.2,2015-12-17 14:36:44,True,True
+2015-12-17T14:37:53,so cool.,0,0,Codey Lee,CATCSEoeG_c,0.35,2015-12-17 14:37:53,True,True
+2015-12-17T14:51:47,Good to see the him.  But Eddie feels too much like a cartoon.,0,0,shinlenox,CATCSEoeG_c,0.44999999999999996,2015-12-17 14:51:47,True,True
+2015-12-17T15:02:02,"Another movie of Hugh Jackman being a professional in that sport, teaching how to be a professional...",0,0,Daneidys Morales,CATCSEoeG_c,0.1,2015-12-17 15:02:02,True,True
+2015-12-17T15:10:31,No idea why i get the feeling of excitement from this,0,0,Saeed Khan,CATCSEoeG_c,0.0,2015-12-17 15:10:31,True,True
+2015-12-17T15:19:38,What... a film about Eddie... this'll be gud.,0,0,Jon Baxter,CATCSEoeG_c,0.0,2015-12-17 15:19:38,True,True
+2015-12-17T15:24:18,That's Ubba from the last kingdom,2,1,Jon Baxter,CATCSEoeG_c,0.0,2015-12-17 15:24:18,True,True
+2015-12-17T15:25:34,"Wow, Wolverine with the kid I want to eventually replace him as Wolverine. NICE!",9,0,THE-GAME-CHANGERS,CATCSEoeG_c,0.425,2015-12-17 15:25:34,True,True
+2015-12-17T15:32:38,"I loved Taron in kingsman and that is enough for me to watch this movie, but I'm looking more forward to deadpool in February",2,0,Kidohx,CATCSEoeG_c,0.39999999999999997,2015-12-17 15:32:38,True,True
+2015-12-17T15:35:31,Good movie,0,0,Matthew Domingue,CATCSEoeG_c,0.7,2015-12-17 15:35:31,True,True
+2015-12-17T16:01:30,christopher walken?  I'm in.,0,0,Brandon Rodriguez,CATCSEoeG_c,0.0,2015-12-17 16:01:30,True,True
+2015-12-17T16:03:22,The version of this trailer on the LionsgateUK YouTube page is a better edit - funnier with less shameless  tugging on the heart strings.,4,1,Freya Rello,CATCSEoeG_c,0.16666666666666669,2015-12-17 16:03:22,True,True
+2015-12-17T16:07:30,spoiler* he makes the jump,0,0,Nihal Vinodan,CATCSEoeG_c,0.0,2015-12-17 16:07:30,True,True
+2015-12-17T16:09:33,"Wasn't this guy the worse ski jumper  ever? He finished dead last at the Olympics and got attention because of the fact he was terrible. The IOC even implemented a rule to make it harder for people to make it to the Olympics because of him. So, I guess he contributes to olympic sports in a way.  With that said, this film could be interesting.",2,0,CarlHH777,CATCSEoeG_c,-0.20000000000000004,2015-12-17 16:09:33,True,True
+2015-12-17T16:16:20,"I barely know a single athlete's name. I know Eddie the Eagle. And I'm not even British Fly Eddie, fly",0,0,MariaVosa,CATCSEoeG_c,0.3157142857142857,2015-12-17 16:16:20,True,True
+2015-12-17T16:22:02,"Oh wow. I was wondering if I'd ever see him again or if he was just a one character type but, after seeing this trailer I hope to see more of him in the future.",102,4,frankie jay ponds,CATCSEoeG_c,0.19999999999999998,2015-12-17 16:22:02,True,True
+2015-12-17T16:54:31,Thats it i watched the movie wtf,0,0,SilentxD ᴴᴰ,CATCSEoeG_c,-0.5,2015-12-17 16:54:31,True,True
+2015-12-17T16:58:55,this is going to be something really big :-),0,0,amit tiwari,CATCSEoeG_c,0.25,2015-12-17 16:58:55,True,True
+2015-12-17T17:00:38,This trailer just really made me realize how crazy the world is for actually making this a sport lol,0,0,Eysan,CATCSEoeG_c,0.10000000000000002,2015-12-17 17:00:38,True,True
+2015-12-17T17:00:47,I remember seeing him jump in real life. Eddie is the reason why I watch ski jumping,1,0,Randy F,CATCSEoeG_c,0.2,2015-12-17 17:00:47,True,True
+2015-12-17T17:02:08,awww...was hoping for ed belfour auto-doc-movie.,0,0,Er Ber,CATCSEoeG_c,0.0,2015-12-17 17:02:08,True,True
+2015-12-17T17:26:39,"so.... Cool Runnings with skis, less black people, and no John Candy... Interesting",0,1,Ben Lapham,CATCSEoeG_c,0.12916666666666665,2015-12-17 17:26:39,True,True
+2015-12-17T17:31:03,thank you for the whole movie,1,0,Fandy Diadline,CATCSEoeG_c,0.2,2015-12-17 17:31:03,True,True
+2015-12-17T17:32:59,What song is that at :58? Sounds like Fall Out Boy to me.,0,1,David A.,CATCSEoeG_c,0.0,2015-12-17 17:32:59,True,True
+2015-12-17T17:40:55,What's the name of the second song? The one towards the end....,0,0,Rocke Killingan,CATCSEoeG_c,0.0,2015-12-17 17:40:55,True,True
+2015-12-17T17:47:09,is he going to the special Olympics?,1,0,Nacho Libre,CATCSEoeG_c,0.35714285714285715,2015-12-17 17:47:09,True,True
+2015-12-17T18:17:44,did I spot Christopher Walkin,2,1,MUSIC MAGIC,CATCSEoeG_c,0.0,2015-12-17 18:17:44,True,True
+2015-12-17T18:31:30,"Getting a very 'cool runnings' vibe from this, except not as funny xD",0,1,Jordan Duvall,CATCSEoeG_c,0.3525,2015-12-17 18:31:30,True,True
+2015-12-17T18:40:04,Eddie the eagerton,0,0,Meanwall,CATCSEoeG_c,0.0,2015-12-17 18:40:04,True,True
+2015-12-17T18:56:41,Thanks for showing me the whole movie here,1,0,NIPUN CHAWLA,CATCSEoeG_c,0.2,2015-12-17 18:56:41,True,True
+2015-12-17T19:05:43,Was it a dare to make this movie?,0,0,Saud Dowaihy,CATCSEoeG_c,0.0,2015-12-17 19:05:43,True,True
+2015-12-17T19:11:25,"what s gonna be next, a movie about eric the eel?",0,0,fracture333,CATCSEoeG_c,0.0,2015-12-17 19:11:25,True,True
+2015-12-17T19:16:00,Stan darsh,0,0,Pulse,CATCSEoeG_c,0.0,2015-12-17 19:16:00,True,True
+2015-12-17T19:30:11,and once again the whole story was in that trailer ...,0,0,Josh Duncan,CATCSEoeG_c,0.2,2015-12-17 19:30:11,True,True
+2015-12-17T20:33:02,I don't usually get emotional but this movie got me.,3,0,Egist Diko,CATCSEoeG_c,-0.125,2015-12-17 20:33:02,True,True
+2015-12-17T22:09:28,"You know the worst part about ""true story"" movies, if you go to wikipedia, you pretty much ruin the whole thing",0,0,Corey Boyd,CATCSEoeG_c,0.0,2015-12-17 22:09:28,True,True
+2015-12-17T22:13:44,So a shittier Cool Runnings?,0,0,E plato,CATCSEoeG_c,0.35,2015-12-17 22:13:44,True,True
+2015-12-17T22:58:01,lol random Christopher Walken at the end,0,0,Clean Living,CATCSEoeG_c,0.15000000000000002,2015-12-17 22:58:01,True,True
+2015-12-17T23:09:58,was that Christopher walken???,0,2,doom7ish,CATCSEoeG_c,0.0,2015-12-17 23:09:58,True,True
+2015-12-17T23:38:07,eddie eagle as in the NRA gun safety mascot?,0,1,King Cricket,CATCSEoeG_c,0.0,2015-12-17 23:38:07,True,True
+2015-12-18T01:05:12,My favorite Christmas song is Last Christmas.,0,0,LifeasJoulene,CATCSEoeG_c,0.25,2015-12-18 01:05:12,True,True
+2015-12-18T01:40:39,"cool running, minus the humour. Still looks quite good though",0,0,Lucad,CATCSEoeG_c,0.31666666666666665,2015-12-18 01:40:39,True,True
+2015-12-18T01:46:55,This doesn't look bad,0,0,Ty Fire,CATCSEoeG_c,-0.6999999999999998,2015-12-18 01:46:55,True,True
+2015-12-18T01:47:51,Why is Wolverine in this,0,0,Ty Fire,CATCSEoeG_c,0.0,2015-12-18 01:47:51,True,True
+2015-12-18T03:32:29,tak... a nasi filmowcy dobrego filmu o naszym Adasiu w życiu nie nakręcą...,0,0,smis84,CATCSEoeG_c,0.0,2015-12-18 03:32:29,True,True
+2015-12-18T03:58:20,"I can't believe people think this trailer gave away everything like BvS. This is a true story, we already know the ending. This was a great trailer and made me want to see the movie. Some people are just not that bright.",0,1,Akdlzmf Akxls,CATCSEoeG_c,0.6166666666666667,2015-12-18 03:58:20,True,True
+2015-12-18T07:19:18,Ah Calgary.,0,0,UnderDeepDown,CATCSEoeG_c,0.0,2015-12-18 07:19:18,True,True
+2015-12-18T09:11:25,"i thought it's just an inspirational movie, and when i search on google i find out that  Eddie "" The Eagle "" Edwards is real... nice i will watch this movie....sorry for bad english.. ^_^",3,0,Just Aloise,CATCSEoeG_c,0.12,2015-12-18 09:11:25,True,True
+2015-12-18T09:34:18,this looks better than any of those  comic book films combined.,0,0,MUSIC MAGIC,CATCSEoeG_c,0.375,2015-12-18 09:34:18,True,True
+2015-12-18T14:40:28,The next sport is sex.,0,0,Dafaa,CATCSEoeG_c,0.0,2015-12-18 14:40:28,True,True
+2015-12-18T16:47:39,nice!,1,0,Satyajit Mukherjee,CATCSEoeG_c,0.75,2015-12-18 16:47:39,True,True
+2015-12-18T18:35:51,"""I got an idea for a movie about a disabled child who becomes a Ski Jumping Olympian... and Christopher Walken will be in it"" ""Are you takin a fookin piss?""",0,1,Vittorio Fabregas,CATCSEoeG_c,-0.2,2015-12-18 18:35:51,True,True
+2015-12-18T18:49:05,Can't wait for this.,0,0,78vintages,CATCSEoeG_c,0.0,2015-12-18 18:49:05,True,True
+2015-12-18T19:35:27,Thanks for showing the whole movie,0,1,m.sanch,CATCSEoeG_c,0.2,2015-12-18 19:35:27,True,True
+2015-12-18T21:29:07,Taron egerton for Han Solo,0,0,LAZEDOUT,CATCSEoeG_c,0.0,2015-12-18 21:29:07,True,True
+2015-12-18T23:03:10,i loved him since kingsmen which is the second best movie in 2015 the first is the hunger games mocking jay pt 2,0,0,Gemini Land,CATCSEoeG_c,0.4875,2015-12-18 23:03:10,True,True
+2015-12-18T23:03:36,i loved him since kingsmen which is the second best movie in 2015 the first is the hunger games mocking jay pt 2,1,0,Gemini Land,CATCSEoeG_c,0.4875,2015-12-18 23:03:36,True,True
+2015-12-19T01:08:04,Looks awesome!,0,0,Jay Limo,CATCSEoeG_c,1.0,2015-12-19 01:08:04,True,True
+2015-12-19T01:33:39,This trailer is basically a 2 and half minute movie: everything there is to see is in this trailer.,0,0,Hai Bo,CATCSEoeG_c,-0.16666666666666666,2015-12-19 01:33:39,True,True
+2015-12-19T03:42:25,Eggsiiiii now as eddiiiiiii all the best bro,0,0,Prasanna Vaseeharan,CATCSEoeG_c,1.0,2015-12-19 03:42:25,True,True
+2015-12-19T05:03:48,I feel like Hugh Jackman will be great for this movie.,0,0,Bobhig The Onion Wizard,CATCSEoeG_c,0.8,2015-12-19 05:03:48,True,True
+2015-12-19T05:23:53,well i thought rupert grint was the eagle! guess i was wrong..,2,0,Sarah Cochica,CATCSEoeG_c,-0.5,2015-12-19 05:23:53,True,True
+2015-12-19T06:53:05,I'm pretty sure Eggsy is in a new mission here xD,14,0,Sam Ash,CATCSEoeG_c,0.29545454545454547,2015-12-19 06:53:05,True,True
+2015-12-19T07:37:50,"do all movie makers use the same color grading technicians, the colors always look weird in all movies now, the reds look marone and blues look aqua, lots of poo color lighting and lots and lots of cold blue thru out the entire film, every single movie for the last 5 years.",0,0,"GAME OVER ""WE HAVE EVERY PIXEL COVERED""",CATCSEoeG_c,-0.1673469387755102,2015-12-19 07:37:50,True,True
+2015-12-19T11:20:16,Taron Egerton is like a penguin. So cute.,0,0,tymira,CATCSEoeG_c,0.5,2015-12-19 11:20:16,True,True
+2015-12-19T13:16:42,I don't know how anyone can watch their kid to do this sport. I'd be terrified to see someone I love doing this. It is so very dangerous!,0,0,Jada,CATCSEoeG_c,-0.23750000000000004,2015-12-19 13:16:42,True,True
+2015-12-19T15:07:12,i cried ...just watching the trailer...,0,0,Alessandra sampó,CATCSEoeG_c,0.0,2015-12-19 15:07:12,True,True
+2015-12-19T17:55:25,Wait.....was that Christopher Walken cameo? I'm in if it was.,0,0,Your Wife's Son,CATCSEoeG_c,0.0,2015-12-19 17:55:25,True,True
+2015-12-20T00:37:39,Hugh Jackman is John Candy in Cool Runnings 2.,2,0,Bigga Numba 6,CATCSEoeG_c,0.35,2015-12-20 00:37:39,True,True
+2015-12-20T02:21:26,Having experienced this the first time around when he was on our TV screens I am a bit shocked this film has happend and I actually want to see it now! He was seen as a joke but he stood tall and did anyway and we cheered him on at the time :),0,0,RetroJay1974,CATCSEoeG_c,0.17,2015-12-20 02:21:26,True,True
+2015-12-20T09:00:55,OMG I want to see that movie!!!! 😍😍😍😍😍,0,0,Séverine Godet,CATCSEoeG_c,0.0,2015-12-20 09:00:55,True,True
+2015-12-20T11:25:26,"Wow this will be so much fun.... you know he ends up last, right? :)",0,0,Vlad Cirus,CATCSEoeG_c,0.23714285714285716,2015-12-20 11:25:26,True,True
+2015-12-20T17:19:37,2:17 then a random christopher walken appears,4,0,PIFFWATTS,CATCSEoeG_c,-0.5,2015-12-20 17:19:37,True,True
+2015-12-20T22:29:02,UBBA!,0,0,Thiago Ribeiro,CATCSEoeG_c,0.0,2015-12-20 22:29:02,True,True
+2015-12-22T18:22:59,More like Eggsy the Eagle.,2,0,dfdedsdcd,CATCSEoeG_c,0.5,2015-12-22 18:22:59,True,True
+2015-12-23T04:30:53,Not getting watched by me. No way.,0,0,John Kimmel,CATCSEoeG_c,0.0,2015-12-23 04:30:53,True,True
+2015-12-24T15:32:00,eegsy!!!!!!,5,0,Pramit Chatterjee,CATCSEoeG_c,0.0,2015-12-24 15:32:00,True,True
+2015-12-24T17:12:25,Taron Egerton with Hugh Jackman. I'm in.,27,0,LukeFouyer,CATCSEoeG_c,0.0,2015-12-24 17:12:25,True,True
+2015-12-26T07:39:21,This one for Walken!!!,0,0,SomberBomber,CATCSEoeG_c,0.0,2015-12-26 07:39:21,True,True
+2015-12-26T17:23:33,What happened with Rupert Grint playing Eddie? Wasn't he cast for it at some point?,0,0,Gernald,CATCSEoeG_c,0.0,2015-12-26 17:23:33,True,True
+2015-12-26T22:49:46,I cried watching the trailer.,1,0,Selma Baemedi,CATCSEoeG_c,0.0,2015-12-26 22:49:46,True,True
+2015-12-27T01:16:45,Eddie is the Rocky to many who don't give up.,0,0,CANUCK METAL HEAD,CATCSEoeG_c,0.5,2015-12-27 01:16:45,True,True
+2015-12-28T21:46:40,its a british Cool Runnings,0,0,M.C.M,CATCSEoeG_c,0.175,2015-12-28 21:46:40,True,True
+2015-12-29T18:08:44,Eggsy is that you?,0,0,Azman Faris,CATCSEoeG_c,0.0,2015-12-29 18:08:44,True,True
+2015-12-31T15:16:49,Egerton is enough but when Hugh came out... its differently wow.,0,0,James Charles Uy,CATCSEoeG_c,0.05,2015-12-31 15:16:49,True,True
+2016-01-01T06:01:27,"So this is a British version of ""Cool Runnings""?",3,3,Hector Devora,CATCSEoeG_c,0.175,2016-01-01 06:01:27,True,True
+2016-01-01T09:13:46,Eggsy looks like Ed Sheeran here.,0,0,Mingyu Meanie,CATCSEoeG_c,0.0,2016-01-01 09:13:46,True,True
+2016-01-02T10:57:02,I'm gonna watch this film for Taron Egerton and I'm not ashamed to say so.,111,2,Kale Vang,CATCSEoeG_c,0.0,2016-01-02 10:57:02,True,True
+2016-01-02T20:39:36,Eggsy what are u doing  here ?,0,0,Mas Khairany,CATCSEoeG_c,0.0,2016-01-02 20:39:36,True,True
+2016-01-05T18:06:23,the worst ski jumper ever but also the must fantastic sportsmen in the world !! He have promote the real olympic spirit !! looking forward to see that movie.,2,1,Sebastian Hoppe,CATCSEoeG_c,-0.020833333333333332,2016-01-05 18:06:23,True,True
+2016-01-05T23:24:23,"When the mom said ""your going to need this"" the second time, I got chills",1,0,Max Walter,CATCSEoeG_c,0.0,2016-01-05 23:24:23,True,True
+2016-01-06T19:49:04,The end of the trailer nearly made me cry can't wait to see this,0,0,Cap lock productions,CATCSEoeG_c,0.1,2016-01-06 19:49:04,True,True
+2016-01-06T21:40:06,Thank you for showing the whole movie!,0,1,Adrian Romero,CATCSEoeG_c,0.25,2016-01-06 21:40:06,True,True
+2016-01-07T15:25:32,The guy from kingsman!!,0,0,Jasmine Addun,CATCSEoeG_c,0.0,2016-01-07 15:25:32,True,True
+2016-01-07T22:35:21,love it,0,0,Christopher Evans,CATCSEoeG_c,0.5,2016-01-07 22:35:21,True,True
+2016-01-09T04:23:56,"Damn, never thought I'd say it before watching this, but they sold me.  Eggerton is gonna blow up soon.",0,0,Vestigo,CATCSEoeG_c,0.0,2016-01-09 04:23:56,True,True
+2016-01-09T07:00:10,"I'm not ashamed to admit that I was bawling by the end of this trailer when I went to see Joy today in theaters. It was uncontrollable, I was trying so hard to be quiet as tears streamed down my face I almost suffocated.",0,0,Timothy Robert,CATCSEoeG_c,0.08819444444444444,2016-01-09 07:00:10,True,True
+2016-01-14T11:27:06,Yes an actual movie !!,0,0,Action Scott,CATCSEoeG_c,0.0,2016-01-14 11:27:06,True,True
+2016-01-24T18:52:43,"I'm not saying it looks bad, I'm just saying it looks like literally the entire plot from beginning to end was shown in this trailer. Even the callback with the lunchbox.",0,1,Aj Hampton,CATCSEoeG_c,-0.3499999999999999,2016-01-24 18:52:43,True,True
+2016-01-25T14:10:15,KIngsman 2: The Prequel,0,0,Iman Firdaus,CATCSEoeG_c,0.0,2016-01-25 14:10:15,True,True
+2016-01-25T14:11:05,"Before Eggsy, there's Eddie.",0,0,Iman Firdaus,CATCSEoeG_c,0.0,2016-01-25 14:11:05,True,True
+2016-01-26T16:19:13,"Love Taron, such a cutie!",0,0,centigradz,CATCSEoeG_c,0.25,2016-01-26 16:19:13,True,True
+2016-01-28T05:37:42,"Oh look, Logan's back.",0,0,Charles Xavier,CATCSEoeG_c,0.0,2016-01-28 05:37:42,True,True
+2016-01-28T13:41:11,This looks great!,0,0,RetroSFG,CATCSEoeG_c,1.0,2016-01-28 13:41:11,True,True
+2016-01-28T18:10:04,"I just love the way he talks. So endearing. Totally would watch this not only because of taron, but the story looks warm and very nice.",0,0,pystacyo,CATCSEoeG_c,0.39666666666666667,2016-01-28 18:10:04,True,True
+2016-01-29T21:57:02,I love the fact that he is really serious about becoming a good actor. And seeing him in movies like this is a good sign that he is well on his way! Rooting for this guy 100%!,1,0,Aisha,CATCSEoeG_c,0.46333333333333326,2016-01-29 21:57:02,True,True
+2016-02-01T20:37:15,"My brother has the middle name Edward named after Eddy the Eagle, true story.",3,0,Jh5578,CATCSEoeG_c,0.175,2016-02-01 20:37:15,True,True
+2016-02-03T01:37:02,this is going to be a GREAT feel good movie.  just fly.,0,0,Leslie Stockton,CATCSEoeG_c,0.7666666666666666,2016-02-03 01:37:02,True,True
+2016-02-03T02:49:24,Taron looks like a nerd in them glasses,1,0,Jordan Simms,CATCSEoeG_c,0.0,2016-02-03 02:49:24,True,True
+2016-02-06T01:34:13,This movie looks freaking amazing,0,0,Kys_Jesus,CATCSEoeG_c,0.6000000000000001,2016-02-06 01:34:13,True,True
+2016-02-07T03:54:34,strange movie for Hugh Jackman to be in.,0,2,Thomas Drowry,CATCSEoeG_c,-0.05,2016-02-07 03:54:34,True,True
+2016-02-07T15:43:53,This is going to marathon really well with Cool Runnings,3,0,Brynn Bettin,CATCSEoeG_c,0.275,2016-02-07 15:43:53,True,True
+2016-02-08T00:14:02,Reminds me of the days where Eddie Edwards won hearts across Europe.  I'm really looking forward to see this.,6,0,Gerald Kitzmüller,CATCSEoeG_c,0.2,2016-02-08 00:14:02,True,True
+2016-02-08T04:48:24,"Does Britain have an inexhaustible supply of plucky fellows from the wrong side of the tracks who did the impossible?   I'm looking at you, Billy Elliot, Manchester United, etc.",0,0,Andrew Smith,CATCSEoeG_c,-0.5833333333333333,2016-02-08 04:48:24,True,True
+2016-02-08T18:24:02,Hi Eggsy,0,0,Bryanna Turnbough,CATCSEoeG_c,0.0,2016-02-08 18:24:02,True,True
+2016-02-10T05:09:15,I actually live in Calgary so I want to watch this. Alberta gets very little representation in movies.,4,1,Samuel Samuel,CATCSEoeG_c,-0.053693181818181834,2016-02-10 05:09:15,True,True
+2016-02-12T05:58:46,"so no point in watching the movie now, the trailer showed the whole thing",0,1,Ron dog,CATCSEoeG_c,0.2,2016-02-12 05:58:46,True,True
+2016-02-14T20:29:22,I predict this will be the British Cool Runnings!!!,1,0,MJ,CATCSEoeG_c,0.341796875,2016-02-14 20:29:22,True,True
+2016-02-15T00:56:42,What's this song? The one the trailer ends on ?,0,0,Dan Smith,CATCSEoeG_c,0.0,2016-02-15 00:56:42,True,True
+2016-02-15T10:35:03,I am over excited about this. Looking forward to it!!,0,0,Mariaelena Biliato,CATCSEoeG_c,0.5859375,2016-02-15 10:35:03,True,True
+2016-02-15T20:01:30,Taaaron <3,0,0,Sara A.,CATCSEoeG_c,1.0,2016-02-15 20:01:30,True,True
+2016-02-17T05:31:06,Hey wolvy i know u were a champion but he doesnt have regenerative powers !,0,0,Mr White i,CATCSEoeG_c,0.0,2016-02-17 05:31:06,True,True
+2016-02-17T08:30:46,I got goosebumps watching this is remember the jump live and everyone watched because they thought he would crash. inspiration the Eagle,0,0,Dj👤CRANIUM👤DRUM N BASS UK🧟‍♂️,CATCSEoeG_c,0.13636363636363635,2016-02-17 08:30:46,True,True
+2016-02-17T22:18:40,actual Eddie is a plasterer now 😂😂,0,0,Alice Fawcett,CATCSEoeG_c,0.0,2016-02-17 22:18:40,True,True
+2016-02-18T04:13:45,Eggy the Eagle?,9,0,Karen Scott,CATCSEoeG_c,0.0,2016-02-18 04:13:45,True,True
+2016-02-18T08:43:37,Why is ed sheeran in this movie,1,0,luuvnich,CATCSEoeG_c,0.0,2016-02-18 08:43:37,True,True
+2016-02-19T02:54:15,Fly Eddie! Fly!,0,1,hithisisscottysun,CATCSEoeG_c,1.0,2016-02-19 02:54:15,False,True
+2016-02-19T16:11:54,Whats the name of the song? at @0:52??,2,1,Juan A Diaz,CATCSEoeG_c,0.0,2016-02-19 16:11:54,False,True
+2016-02-24T22:17:40,definitely going to see this for sure!,0,0,SWEET VICTORY,CATCSEoeG_c,0.3125,2016-02-24 22:17:40,False,True
+2016-02-25T02:56:03,The feels 😭,0,0,SuperPerfect10,CATCSEoeG_c,0.0,2016-02-25 02:56:03,False,True
+2016-02-25T12:24:27,sort of reminds me of the Korean movie...,0,0,JiSo,CATCSEoeG_c,0.0,2016-02-25 12:24:27,False,True
+2016-02-25T16:37:58,Walken!!,0,0,thebard4,CATCSEoeG_c,0.0,2016-02-25 16:37:58,False,True
+2016-02-26T21:13:19,Awesome  Calgary !!,0,0,Darktrooooper,CATCSEoeG_c,1.0,2016-02-26 21:13:19,False,True
+2016-02-27T11:18:23,eggsy: manners maketh man,0,0,Samuel Park,CATCSEoeG_c,0.0,2016-02-27 11:18:23,False,True
+2016-03-10T14:01:44,"""You're a disgrace to the sport"" ""Good""",8,0,Danna Cottrell,CATCSEoeG_c,0.7,2016-03-10 14:01:44,False,True
+2016-03-16T18:33:33,good,0,0,John Roberts,CATCSEoeG_c,0.7,2016-03-16 18:33:33,False,True
+2016-03-19T11:00:44,Do I hear ride?,0,0,Charlie Harmer,CATCSEoeG_c,0.0,2016-03-19 11:00:44,False,True
+2016-03-19T17:08:11,good,0,0,Katrina Mason,CATCSEoeG_c,0.7,2016-03-19 17:08:11,False,True
+2016-03-19T17:08:28,good  taron,0,1,Katrina Mason,CATCSEoeG_c,0.7,2016-03-19 17:08:28,False,True
+2016-03-21T02:29:36,Eggie the eagle,0,0,Kyle Lucien,CATCSEoeG_c,0.0,2016-03-21 02:29:36,False,True
+2016-03-22T00:16:37,does anyone know the song in the latter half of the trailer,0,0,Melanie .Looman,CATCSEoeG_c,-0.08333333333333333,2016-03-22 00:16:37,False,True
+2016-03-22T14:04:08,"I am only going to watch this movie for the following reasons  1. I've watched kingsman a billion times I have fallen in love with eggsy.  literally, I love him. 2. bc of the storyline  3. again, because ""eggsy"" is in it and he was so hot in Kingsman and he was swag af I love him",0,0,roisin2510,CATCSEoeG_c,0.2916666666666667,2016-03-22 14:04:08,False,True
+2016-03-25T13:39:59,WHO DOES THE SONG WHEN HE KEEPS CRASHING???,0,1,Charles Dias,CATCSEoeG_c,0.0,2016-03-25 13:39:59,False,True
+2016-03-25T19:35:47,"Hall and Oates - you make my dreams come true. Name of the song, I think",0,0,Vikash Bisnauthsingh,CATCSEoeG_c,0.35,2016-03-25 19:35:47,False,True
+2016-03-28T22:35:47,Eddie the Eagle was great he was a true sportsman. they were a guy called john from port glasgow the spitting image of Eddie the Eagle poor john the  moaning git lol was called Eddie from then on. the kids used to shout at John Eddie Eddie and the Eagle at him every were he went john drank Babycham and martini in the same glass lol,0,0,John Mclean,CATCSEoeG_c,0.3916666666666666,2016-03-28 22:35:47,False,True
+2016-03-29T19:12:47,I can't wait to watch this tomorrow,0,0,The Charloobian,CATCSEoeG_c,0.0,2016-03-29 19:12:47,False,True
+2016-04-03T09:46:53,Love 2 see it,0,0,Princessgem B,CATCSEoeG_c,0.5,2016-04-03 09:46:53,False,True
+2016-04-04T14:57:58,"Bit confused generally, and by trailer with mobile phone ringtone ski crash! No one had mobiles then except yuppies with brick phones? Was crap trailer! In cinema 15 seconds! This trailer is good! Film was really good! Didn't know his story! Superman died!",1,0,SOUPRUN01,CATCSEoeG_c,0.10750000000000001,2016-04-04 14:57:58,False,True
+2016-04-06T21:33:27,Normally i find these kind of movies boring but it actually looks good,0,0,Umar Zaman,CATCSEoeG_c,0.09,2016-04-06 21:33:27,False,True
+2016-04-07T10:07:55,Song?,0,0,Jason Hardridge,CATCSEoeG_c,0.0,2016-04-07 10:07:55,False,True
+2016-04-07T13:02:13,A modern day cool runnings.,0,0,Chris Spencer,CATCSEoeG_c,0.275,2016-04-07 13:02:13,False,True
+2016-04-07T16:32:15,It is great,0,0,Ben Pearse,CATCSEoeG_c,0.8,2016-04-07 16:32:15,False,True
+2016-04-13T07:42:57,"I thought this looked terrible. I was wrong. Amazing story, well acted and very inspiring. Worth going to see.",15,0,wayne morris,CATCSEoeG_c,0.01000000000000002,2016-04-13 07:42:57,False,True
+2016-04-16T20:33:42,I remember watching Eddie when I was a kid. Seen this movie today. Excellent feel good movie. I thoroughly recommend it and wonder if it will inspire any other British kids to try and beat Eddies British record!,0,0,Roger Ramjet,CATCSEoeG_c,0.315,2016-04-16 20:33:42,False,True
+2016-04-17T13:45:47,Looks heartwarming and funny gonna see it,1,0,Omni,CATCSEoeG_c,0.25,2016-04-17 13:45:47,False,True
+2016-04-23T01:45:55,so cool vid seeing it today,0,0,Doozy DJC,CATCSEoeG_c,0.35,2016-04-23 01:45:55,False,True
+2016-05-10T16:44:34,What's the song called near the end the funny 1,0,0,ScRuBlOrD,CATCSEoeG_c,0.175,2016-05-10 16:44:34,False,True
+2016-05-28T14:49:14,Goosebumps,0,0,Anton snow,CATCSEoeG_c,0.0,2016-05-28 14:49:14,False,False
+2016-06-05T15:25:11,Honestly I felt sorry for Eddie while watching this movie but when he succeeds giving his country his all best I genuinely gave a huge smile. One really good underdog movie.,1,1,Zach Obad-Mathis,CATCSEoeG_c,0.44999999999999996,2016-06-05 15:25:11,False,False
+2016-06-14T01:44:02,"a very simplistic story, with a HUGE HEART... some times we dont need a sophisticate one... only a story told with basic feelings: do what you heart tell you...  another movie like this? WARRIOR  watch it",2,0,leONBRAVE,CATCSEoeG_c,-0.062499999999999986,2016-06-14 01:44:02,False,False
+2016-06-14T18:13:16,Wonderful movie  My best actor hugh jackman. .,0,0,Amit Puri,CATCSEoeG_c,1.0,2016-06-14 18:13:16,False,False
+2016-06-15T20:10:17,Awesome film!,0,0,ryan bautista,CATCSEoeG_c,1.0,2016-06-15 20:10:17,False,False
+2016-08-18T07:35:22,what is the music that starts playing when the montage starts,2,0,Cosmic Undead,CATCSEoeG_c,0.0,2016-08-18 07:35:22,False,False
+2016-08-19T15:51:11,Eggsy the Eagle,1,0,Mattey,CATCSEoeG_c,0.0,2016-08-19 15:51:11,False,False
+2016-09-02T13:51:15,When can it be shown in the phils.?,1,0,evieramosi,CATCSEoeG_c,0.0,2016-09-02 13:51:15,False,False
+2016-09-10T22:37:14,I watched the movie it was brilliant,4,0,TS TOOTIE,CATCSEoeG_c,0.9,2016-09-10 22:37:14,False,False
+2016-09-21T16:04:39,Hell yeah!  Eddie has deserved a movie about him for *so* long!  He is the very essence of a British Hero!,3,0,The Batman,CATCSEoeG_c,0.04583333333333334,2016-09-21 16:04:39,False,False
+2016-10-06T03:35:20,I didn't know what to expect but this was a really great movie.,0,0,James Hostick,CATCSEoeG_c,0.8,2016-10-06 03:35:20,False,False
+2016-10-06T06:02:28,What's the song at 1:14,0,1,Ryan Avery,CATCSEoeG_c,0.0,2016-10-06 06:02:28,False,False
+2016-10-06T06:48:12,Such a good movie,0,0,Daniel Johnson,CATCSEoeG_c,0.35,2016-10-06 06:48:12,False,False
+2016-10-12T21:16:51,"1.09 in The video, what is The name of The song?",0,0,Scott Johnny Helgemo Aune,CATCSEoeG_c,0.0,2016-10-12 21:16:51,False,False
+2016-11-06T01:14:57,So similar to cool runnings,0,0,Ben Tuckley,CATCSEoeG_c,0.175,2016-11-06 01:14:57,False,False
+2016-11-10T14:57:40,Kind of like...Cool Runnings XD,1,0,Dj2anime,CATCSEoeG_c,0.6,2016-11-10 14:57:40,False,False
+2016-11-10T22:35:35,whats the song,0,0,Braeden,CATCSEoeG_c,0.0,2016-11-10 22:35:35,False,False
+2016-11-13T12:43:29,Hugh Jackman is loveable..,0,0,Bora Bora,CATCSEoeG_c,0.0,2016-11-13 12:43:29,False,False
+2016-12-14T02:27:28,Such a good movie.....like this if you seen it and loved it,80,1,Will,CATCSEoeG_c,0.4666666666666666,2016-12-14 02:27:28,False,False
+2016-12-26T01:23:33,Incredible movie! You go eddie!,1,0,Poppy Gilks,CATCSEoeG_c,1.0,2016-12-26 01:23:33,False,False
+2016-12-31T06:11:14,i hate eagles,1,0,Sony Ericsson,CATCSEoeG_c,-0.8,2016-12-31 06:11:14,False,False
+2017-01-08T21:29:34,I saw it in cinemas and I love the sexual bit,0,0,HollyElise,CATCSEoeG_c,0.5,2017-01-08 21:29:34,False,False
+2017-02-25T12:21:10,Should have been called Eggsy the Eagle,10,0,OrwinBeane,CATCSEoeG_c,0.0,2017-02-25 12:21:10,False,False
+2017-03-16T11:15:04,"It's been a year, and I still wanna watch this. ;-;",0,0,g g,CATCSEoeG_c,0.0,2017-03-16 11:15:04,False,False
+2017-03-19T23:33:01,84 people came first.,1,0,Daniel Thompson,CATCSEoeG_c,0.25,2017-03-19 23:33:01,False,False
+2017-04-01T18:28:50,Great story.,0,0,Bob .Grant,CATCSEoeG_c,0.8,2017-04-01 18:28:50,False,False
+2017-05-23T05:45:08,fuch you,0,0,Dao Khien,CATCSEoeG_c,0.0,2017-05-23 05:45:08,False,False
+2017-06-13T06:20:03,I saw the real Eddie The Eagle talk today and he said he loved the movie so much. I have to watch it now.,2,0,Tom The Fish,CATCSEoeG_c,0.36666666666666664,2017-06-13 06:20:03,False,False
+2017-08-20T03:19:21,Freaking watched the trailer a long time ago and I didn't know the actor Taron Egerton till I watched Kingsman secret service and now I'm probably gonna watch this next,0,0,Sarrha Bayani,CATCSEoeG_c,-0.15,2017-08-20 03:19:21,False,False
+2017-10-04T14:49:20,I started tearing up lmao,0,0,I Am Angel,CATCSEoeG_c,0.6,2017-10-04 14:49:20,False,False
+2017-10-05T15:18:57,Am I the only one who got chills from this trailer? Btw the movie is amazing and so inspirational. Taron and Hugh are of course incredible.,0,0,Asha Overstreet,CATCSEoeG_c,0.5,2017-10-05 15:18:57,False,False
+2017-10-13T15:57:44,"The trailer made me cry, how am I going to do in the actual movie?",0,0,Dani Muza,CATCSEoeG_c,0.0,2017-10-13 15:57:44,False,False
+2017-11-14T22:57:40,Eggsy being taught by the Wolverine,1,0,unused not in use,CATCSEoeG_c,0.0,2017-11-14 22:57:40,False,False
+2017-12-17T13:20:10,Is there a name for the song at the very start,0,0,Dougie Campbell,CATCSEoeG_c,0.2,2017-12-17 13:20:10,False,False
+2018-01-01T16:09:00,0:29 what's the song,0,0,bobby Ratcliffe,CATCSEoeG_c,0.0,2018-01-01 16:09:00,False,False
+2018-02-17T05:59:36,just saw the whole movie in the trailer,0,0,crispypicklechips,CATCSEoeG_c,0.2,2018-02-17 05:59:36,False,False
+2018-03-10T12:54:37,"One of the BEST MOVIES, I have seen",1,0,Jenni Drew,CATCSEoeG_c,1.0,2018-03-10 12:54:37,False,False
+2018-05-04T00:27:35,If you haven't seen this yet.... WHAT are you waiting for? Watch!,0,0,sparkers70,CATCSEoeG_c,0.0,2018-05-04 00:27:35,False,False
+2018-07-04T13:39:59,"Saw the greatest showman, knew I recognised Hugh Jackman from somewhere and then finally realise that it was from this movie! What a legend!",0,0,Eliza Moylan,CATCSEoeG_c,0.5,2018-07-04 13:39:59,False,False
+2018-11-17T16:06:05,80% of comments: EGGSY 15% of comments: HUGH JACKMAN 5% of comments: I really dont care,1,0,Montage Madness,CATCSEoeG_c,0.2,2018-11-17 16:06:05,False,False
+2018-12-03T15:42:52,Hope they makers at least broke even.,0,0,LoLzZ85,CATCSEoeG_c,-0.3,2018-12-03 15:42:52,False,False
+2018-12-11T21:17:37,Eddie knocked my dad out of the Olympics using money true story,0,0,Saskia lbbh,CATCSEoeG_c,0.35,2018-12-11 21:17:37,False,False
+2018-12-23T18:54:54,What is the last music name please? if someone know,0,0,WeirdCrepe,CATCSEoeG_c,0.0,2018-12-23 18:54:54,False,False
+2018-12-28T22:59:17,When you mention winter olympics ski people only remember one man. Eddie the eagle,0,0,Antonio Farina,CATCSEoeG_c,0.0,2018-12-28 22:59:17,False,False
+2019-02-19T22:50:07,"Eddie the Eagle.....love the trailer....love the movie as i saw it on the big screen and  it on my personal favorite films of all time, get goosebumps every time  i seen this trailer",0,0,silvio bentivoglio,CATCSEoeG_c,0.16666666666666666,2019-02-19 22:50:07,False,False
+2019-04-02T01:08:03,We want Egssy back in the third seasin of Kingsman,0,0,No Limit,CATCSEoeG_c,0.0,2019-04-02 01:08:03,False,False
+2019-04-05T11:32:31,Can people stop commenting about kingsman that’s disrespectful to Eddie   Watch this movie it’s fantastic,9,0,TomMatthews,CATCSEoeG_c,0.4,2019-04-05 11:32:31,False,False
+2019-04-13T09:13:53,There’ll never be a Winter Olympics like the one in 1988. Eddie and the Jamaican bobsleigh team.,1,0,Storm Hawk,CATCSEoeG_c,0.0,2019-04-13 09:13:53,False,False
+2019-05-27T18:18:53,Taron is one talented actor and his brilliant in Rocketman but do love him as Eggsie,0,0,tracey chandler,CATCSEoeG_c,0.7000000000000001,2019-05-27 18:18:53,False,False
+2019-06-04T20:45:06,I'm a fan of Elton John and tarragon Egerton I love tarragon edgertons movies so good,1,4,Ruby Ronkay,CATCSEoeG_c,0.6,2019-06-04 20:45:06,False,False
+2019-06-07T01:24:08,Who’s here after Rocketman,0,0,Megan Garrett,CATCSEoeG_c,0.0,2019-06-07 01:24:08,False,False
+2019-06-12T17:42:56,This is one of the saddest movies I’ve ever seen and it’s not even supposed to be that sad,4,0,Patrick,CATCSEoeG_c,-0.5,2019-06-12 17:42:56,False,False
+2019-06-13T22:38:58,Rocketman...,1,0,Jason Lee,CATCSEoeG_c,0.0,2019-06-13 22:38:58,False,False
+2019-06-17T20:32:29,Elton?,1,0,Pauline Peep. J K S N.,CATCSEoeG_c,0.0,2019-06-17 20:32:29,False,False
+2019-06-30T14:43:01,1:10 song?,0,0,Pame Mejia,CATCSEoeG_c,0.0,2019-06-30 14:43:01,False,False
+2019-07-13T15:31:40,Such an underrated movie,0,0,Zach Obad-Mathis,CATCSEoeG_c,0.0,2019-07-13 15:31:40,False,False
+2019-07-24T08:16:43,"The ""WOLVERINE"" see what I did there",1,0,Kong David,CATCSEoeG_c,0.0,2019-07-24 08:16:43,False,False
+2019-08-22T01:12:00,Another cool runnings then?,1,0,Leman Russ,CATCSEoeG_c,0.35,2019-08-22 01:12:00,False,False
+2019-09-21T18:12:48,eddie the eagle is one of those champions who doesn't get in the record books because he's in the wrong sport,0,0,Nasir Uddin,CATCSEoeG_c,-0.5,2019-09-21 18:12:48,False,False
+2019-09-26T02:44:21,Thanks. :),0,0,Madona Donadio,CATCSEoeG_c,0.35,2019-09-26 02:44:21,False,False
+2019-12-04T04:29:09,Can someone share the link for the bgm ?,0,0,rajnish tiwari,CATCSEoeG_c,0.0,2019-12-04 04:29:09,False,False
+2019-12-19T07:16:04,Best motivational movie in my life,0,0,Amit Chauhan,CATCSEoeG_c,1.0,2019-12-19 07:16:04,False,False
+2019-12-19T07:17:05,I like it...... ❤,0,0,Amit Chauhan,CATCSEoeG_c,0.0,2019-12-19 07:17:05,False,False
+2019-12-29T22:02:56,Just seen this movie and what a surprise watch it was absolutely brilliant,0,0,Snooker World,CATCSEoeG_c,0.9,2019-12-29 22:02:56,False,False
+2020-01-06T21:42:44,this is my fav movie and it will always be,0,0,Gabriella Mejia,CATCSEoeG_c,0.0,2020-01-06 21:42:44,False,False
+2020-01-13T16:37:34,0:23 *your teacher when you wear nikes into school*,1,0,BFB Four,CATCSEoeG_c,0.0,2020-01-13 16:37:34,False,False
+2020-01-17T17:40:02,I know this movie because my Match Teacher he seid about this and I think is amazing this movie,0,0,Mony Idk,CATCSEoeG_c,0.6000000000000001,2020-01-17 17:40:02,False,False
+2020-01-22T09:19:23,It’s an amazingly inspirational story and he truly is a remarkable person. The sheer determination to become something you dreamed as a child even with all the hate and barriers placed before him he overcame them all. This man embodies all the qualities that made the British punch way above their weight.,0,0,Skelter,CATCSEoeG_c,0.075,2020-01-22 09:19:23,False,False
+2020-03-07T22:05:11,"What a great movie, we need more Eddies :)",0,0,House Of Baboshka,CATCSEoeG_c,0.6,2020-03-07 22:05:11,False,False
+2020-05-04T00:31:42,I only watched last night. He had brass ones the size of coconuts.,0,0,Newshound,CATCSEoeG_c,0.0,2020-05-04 00:31:42,False,False
+2020-05-04T16:44:46,This was a really good film and such an inspiration!,0,0,Alfie Fletcher,CATCSEoeG_c,0.35,2020-05-04 16:44:46,False,False

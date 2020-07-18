@@ -1,0 +1,366 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2017-01-20T18:00:56,FIRST COMMENT!,0,0,Prasanna Narayan,0rgEzpE93so,0.3125,2017-01-20 18:00:56,True,True
+2017-01-20T18:03:28,second !!,0,0,ArrifleX 1337,0rgEzpE93so,0.0,2017-01-20 18:03:28,True,True
+2017-01-20T18:13:40,wasn't this a little Netflix movie?,1,0,TEK,0rgEzpE93so,-0.1875,2017-01-20 18:13:40,True,True
+2017-01-20T18:20:47,"I knew this was gonna be dramatic, the moment i saw a white girl click...",115,4,OlDbOy,0rgEzpE93so,-0.21666666666666665,2017-01-20 18:20:47,True,True
+2017-01-20T18:29:23,PREMATURE,4,0,Jonathan Tsan,0rgEzpE93so,0.0,2017-01-20 18:29:23,True,True
+2017-01-20T18:38:55,cute beautyful grls,0,0,Akshay Raina,0rgEzpE93so,0.5,2017-01-20 18:38:55,True,True
+2017-01-20T18:42:12,Who's the chick from the thumbnail,2,1,TrainerRubyCheah,0rgEzpE93so,0.0,2017-01-20 18:42:12,True,True
+2017-01-20T18:52:39,"wonder how much it will be similar to premature..... that was a comedy, it will be a  little dark.",0,0,Rajdeep Karmakar,0rgEzpE93so,-0.034374999999999996,2017-01-20 18:52:39,True,True
+2017-01-20T19:02:55,actually there is an egyptain movie which is the same or close story but a guy instead it called 1000 mabrouk,0,3,Basma Samih,0rgEzpE93so,0.0,2017-01-20 19:02:55,True,True
+2017-01-20T19:07:12,the trailer spoills the whole movie :(,1,5,∞Friday∞,0rgEzpE93so,-0.275,2017-01-20 19:07:12,True,True
+2017-01-20T19:13:08,Groundhog day,1,0,SoPiPz,0rgEzpE93so,0.0,2017-01-20 19:13:08,True,True
+2017-01-20T19:16:28,this is based of a book.,0,0,Livia Tate,0rgEzpE93so,0.0,2017-01-20 19:16:28,True,True
+2017-01-20T19:17:11,"Nice spoiler. I mean, ""trailer""",3,3,Jonatan Coto Funes,0rgEzpE93so,0.14375,2017-01-20 19:17:11,True,True
+2017-01-20T19:39:49,Sequel to Groundhog Day?? Where's Bill Murray?,38,0,T Dawg,0rgEzpE93so,0.0,2017-01-20 19:39:49,True,True
+2017-01-20T19:56:39,This feels like the plot to the Life is Strange the game.,8,1,David Friberg,0rgEzpE93so,-0.225,2017-01-20 19:56:39,True,True
+2017-01-20T20:07:54,Who read the book?!,957,57,Queen Rayani,0rgEzpE93so,0.0,2017-01-20 20:07:54,True,True
+2017-01-20T20:29:09,Its looking nice.,0,0,LegendGameR,0rgEzpE93so,0.6,2017-01-20 20:29:09,True,True
+2017-01-20T20:34:26,Yes yes yes!!!😂😂😍😍😍,0,0,Catherine P.,0rgEzpE93so,0.0,2017-01-20 20:34:26,True,True
+2017-01-20T21:22:45,its like the vampire diaries when bonnie and damon were stuck in time,180,10,melani.mekovec,0rgEzpE93so,0.0,2017-01-20 21:22:45,True,True
+2017-01-20T21:30:53,Reliving the same day until she learns an importamt lesson .Hmmm? I think i've seen that plot line.,3,1,Rose Smith,0rgEzpE93so,0.0,2017-01-20 21:30:53,True,True
+2017-01-20T21:34:09,edge of tomorrow,1,0,Alan Burke,0rgEzpE93so,0.0,2017-01-20 21:34:09,True,True
+2017-01-20T21:48:21,could anyone tell me the name of the song from 00:06-00:25? Please? :),12,3,Rati Gzirishvili,0rgEzpE93so,0.5,2017-01-20 21:48:21,True,True
+2017-01-20T21:50:49,Groundhog Day 2017 edition,27,0,alxM3,0rgEzpE93so,0.0,2017-01-20 21:50:49,True,True
+2017-01-20T22:28:37,15 seconds in and I see kian I'm definitely watching this,6,0,Marsha Nakibinge,0rgEzpE93so,0.0,2017-01-20 22:28:37,True,True
+2017-01-20T22:48:30,"its so refreshing to see a unique story, that has never been done before.",292,12,Luis,0rgEzpE93so,0.4375,2017-01-20 22:48:30,True,True
+2017-01-20T23:28:38,soo... ground hog day?,0,0,Derek Sharman,0rgEzpE93so,0.0,2017-01-20 23:28:38,True,True
+2017-01-20T23:43:39,Teenage Groundhog Day,0,0,Ironsights85,0rgEzpE93so,0.0,2017-01-20 23:43:39,True,True
+2017-01-21T00:47:06,OMG I read the book when I was like 16 it's about time the make the movie. It's one of my favourite books,13,2,Thamie Mnyanda,0rgEzpE93so,0.0,2017-01-21 00:47:06,True,True
+2017-01-21T01:48:39,its look better than The Vampires academy !! :),0,0,jessica labelle,0rgEzpE93so,0.640625,2017-01-21 01:48:39,True,True
+2017-01-21T02:13:31,Groundhog Day with teenagers,0,0,totallyflippedout,0rgEzpE93so,0.0,2017-01-21 02:13:31,True,True
+2017-01-21T03:42:31,ground hog day/edge of tomorrow -the awesome +teen drama,2,0,Facehugger89,0rgEzpE93so,0.5,2017-01-21 03:42:31,True,True
+2017-01-21T04:16:01,this looks awesome,0,0,ching le yang,0rgEzpE93so,1.0,2017-01-21 04:16:01,True,True
+2017-01-21T04:20:39,"show almost all the freaking ending! very smart 😡 I like the book, hope the movie don't change the history and the tone",0,2,Yasmin Carli,0rgEzpE93so,0.2785714285714286,2017-01-21 04:20:39,True,True
+2017-01-21T04:20:44,shiiet.. she should just stay home.,148,2,Lance Cruz,0rgEzpE93so,0.0,2017-01-21 04:20:44,True,True
+2017-01-21T04:24:07,copied from an indian movie,0,0,Shubhankar Biswas,0rgEzpE93so,0.0,2017-01-21 04:24:07,True,True
+2017-01-21T05:38:44,she's no bill murray,0,0,W,0rgEzpE93so,0.0,2017-01-21 05:38:44,True,True
+2017-01-21T05:54:40,LOL Hollywood cannot make any original movies anymore.  This is a waanna be Groundhogs Day.,0,0,OhhhhReallyNow,0rgEzpE93so,0.5875,2017-01-21 05:54:40,True,True
+2017-01-21T05:57:27,A teen drama ground hog day.?. I'll stick with the original,0,0,Thomas The Great,0rgEzpE93so,0.1875,2017-01-21 05:57:27,True,True
+2017-01-21T06:11:55,"This movie looks like these movies.  1. Bill Murray's ""Groundhog day"" 2. Jake Gyllenhaal's ""Donnie Darko"" 3. Aston Kutcher's"" Butterfly Effect""  4.Tom Cruise's ""Edge Of Tomorrow""",304,38,REDcelestialOMEGA,0rgEzpE93so,0.0,2017-01-21 06:11:55,True,True
+2017-01-21T06:59:19,groundhog day without the laughs...epic fail,0,0,TheBrabon1,0rgEzpE93so,-0.5,2017-01-21 06:59:19,True,True
+2017-01-21T07:37:32,That thumbnail looked a lot like young Rachel McAdams.,13,0,Michael Jackson,0rgEzpE93so,0.1,2017-01-21 07:37:32,True,True
+2017-01-21T07:38:47,https://heavyeditorial.files.wordpress.com/2016/02/screen-shot-2016-02-01-at-2-45-40-pm.jpg?quality=65&strip=all&w=780,0,0,jim page,0rgEzpE93so,0.0,2017-01-21 07:38:47,True,True
+2017-01-21T07:50:15,This reminds me of an episode of  supernatural (when it's Tuesday and Dean dies and then it's again Tuesday)😂,0,0,Joe Doum.,0rgEzpE93so,0.16666666666666666,2017-01-21 07:50:15,True,True
+2017-01-21T08:05:34,This looks like a better version of age of Adeline,0,0,Little bits of life,0rgEzpE93so,0.5,2017-01-21 08:05:34,True,True
+2017-01-21T09:10:51,"İts same just like the ""Edge Of Tomorrow"" i'm soo exciting to see this",3,0,Levent Aksakal,0rgEzpE93so,0.15,2017-01-21 09:10:51,True,True
+2017-01-21T09:45:59,Groundhog day part 2,0,0,dude pacific,0rgEzpE93so,0.0,2017-01-21 09:45:59,True,True
+2017-01-21T09:58:14,this is basically groundhog day for tweens.,0,0,Adi Vinit,0rgEzpE93so,0.0,2017-01-21 09:58:14,True,True
+2017-01-21T10:11:23,this year's Groundhog Day movie...I think we get a movie with this exact plot every two years. lol,0,0,Christopher Johnson,0rgEzpE93so,0.525,2017-01-21 10:11:23,True,True
+2017-01-21T10:18:33,Life is Strange adaption would've been better,0,1,Junkie161,0rgEzpE93so,0.225,2017-01-21 10:18:33,True,True
+2017-01-21T10:35:29,"I seen this movie with Bill Murray, and this doesn't look as funny",116,19,KELLSONIC,0rgEzpE93so,0.25,2017-01-21 10:35:29,True,True
+2017-01-21T11:06:50,Live action Re:Zero? Shit yeah.,0,1,Johnathon Coco,0rgEzpE93so,0.012121212121212116,2017-01-21 11:06:50,True,True
+2017-01-21T11:38:52,"This movie tryna compete against Logan?! Oh, oh, no ho oh.",0,0,SMILE!!!,0rgEzpE93so,0.0,2017-01-21 11:38:52,True,True
+2017-01-21T12:33:10,Nobody here saw the movie 'blood punch'?!!!....,0,0,rahul surendran,0rgEzpE93so,0.0,2017-01-21 12:33:10,True,True
+2017-01-21T12:52:31,some groundhog day/50 first dates shit :p,9,1,Sid Is Bored,0rgEzpE93so,0.26666666666666666,2017-01-21 12:52:31,True,True
+2017-01-21T13:03:20,The book is great and I hope the movie will be too,0,2,Elizabeth P,0rgEzpE93so,0.8,2017-01-21 13:03:20,True,True
+2017-01-21T14:16:33,Omg I just realized that it's inspired by a book I had read quite a few years ago! So happy it finally turned into a movie❤Amazing messages for life !!!,0,0,Marina Christofi,0rgEzpE93so,0.18333333333333335,2017-01-21 14:16:33,True,True
+2017-01-21T15:18:42,Thank you I dont need  to watch the movie anymore....its all summed up in this 2 mins trailer....,0,0,T Y,0rgEzpE93so,0.0,2017-01-21 15:18:42,True,True
+2017-01-21T15:56:08,"Soooo, it's Edge of Tomorrow turned into a love story?",0,0,Ibrahim Tastekin,0rgEzpE93so,0.5,2017-01-21 15:56:08,True,True
+2017-01-21T16:24:44,what's the name of the song?,1,1,gaurav singh,0rgEzpE93so,0.0,2017-01-21 16:24:44,True,True
+2017-01-21T16:59:35,"But, the big question is...... Is it Tuesday?",499,18,Cocoa Girl,0rgEzpE93so,0.0,2017-01-21 16:59:35,True,True
+2017-01-21T17:09:42,Dammit i fell into another clickbait! Now i need to go to xvideos. com and watch some hot blonde girls,0,0,Rick Sanchez,0rgEzpE93so,0.125,2017-01-21 17:09:42,True,True
+2017-01-21T17:14:55,Re:Zero?,0,0,Air JR,0rgEzpE93so,0.0,2017-01-21 17:14:55,True,True
+2017-01-21T17:16:16,so this bad stereotype of a white girl is trapped in the same day and she escapes by not being a stereotype of a white girl?,0,0,jaybles cashews,0rgEzpE93so,-0.18,2017-01-21 17:16:16,True,True
+2017-01-21T17:18:38,Let me down gently -La Roux,0,0,Maria Cervera,0rgEzpE93so,0.022222222222222213,2017-01-21 17:18:38,True,True
+2017-01-21T17:26:50,Dormamu! I have come to bargain !,1,0,Ayudh Kumar Gupta,0rgEzpE93so,0.0,2017-01-21 17:26:50,True,True
+2017-01-21T17:26:52,sounds like re-zero,0,0,avinash kumbhakar,0rgEzpE93so,0.0,2017-01-21 17:26:52,True,True
+2017-01-21T17:44:17,reminds me of that funny stargate sg-1 episode,0,0,Jonas dreinulldreieins,0rgEzpE93so,0.25,2017-01-21 17:44:17,True,True
+2017-01-21T18:03:01,bite za dusto - the movie,0,0,i'm_not_a_Kappa,0rgEzpE93so,0.0,2017-01-21 18:03:01,True,True
+2017-01-21T18:28:20,This is like edge of tommorow all over again,0,0,Adam R.,0rgEzpE93so,0.0,2017-01-21 18:28:20,True,True
+2017-01-21T18:52:49,So: The edge of tomorrow?,0,0,TweegyBlink,0rgEzpE93so,0.0,2017-01-21 18:52:49,True,True
+2017-01-21T19:02:55,who are you queen is that u in picture  ?,0,0,ro kenny,0rgEzpE93so,0.0,2017-01-21 19:02:55,True,True
+2017-01-21T19:26:19,This girl is in every dam movie I swear,0,0,Steezeeyy,0rgEzpE93so,0.0,2017-01-21 19:26:19,True,True
+2017-01-21T19:47:59,Halston Sage is worthy of being MJ.,6,0,Deadpool,0rgEzpE93so,0.3333333333333333,2017-01-21 19:47:59,True,True
+2017-01-21T19:48:32,Hey random person scrolling down the comments.. Have a nice day...,0,0,Faze coc,0rgEzpE93so,-0.018518518518518528,2017-01-21 19:48:32,True,True
+2017-01-21T19:59:39,just get Sam and find the trickster.,55,3,Annalena G.,0rgEzpE93so,0.0,2017-01-21 19:59:39,True,True
+2017-01-21T20:16:25,Itachi strikes again,0,0,Adiki23 gc,0rgEzpE93so,0.0,2017-01-21 20:16:25,True,True
+2017-01-21T20:19:03,Where is Zack and Cody when you need them ???,0,0,Esben Lund,0rgEzpE93so,0.0,2017-01-21 20:19:03,True,True
+2017-01-21T21:30:46,What an idiot who got to repeat life over n over again and still do it wrong. Dont get on the car and u wont be in the accident,0,0,Peculiar Lyana,0rgEzpE93so,-0.65,2017-01-21 21:30:46,True,True
+2017-01-21T23:19:23,Think that a girl,0,0,Ben Turner,0rgEzpE93so,0.0,2017-01-21 23:19:23,True,True
+2017-01-22T00:39:20,I don't get it why doesn't she just stay home and not go to the party which means she doesn't get into the car with her friends WHICH DOESNT GET HER INTO A CAR ACCIDENT BISH THINK,0,1,jessa a,0rgEzpE93so,0.0,2017-01-22 00:39:20,True,True
+2017-01-22T05:23:55,Halston Sage is perfect for this,1,0,Maria Espinoza,0rgEzpE93so,1.0,2017-01-22 05:23:55,True,True
+2017-01-22T07:18:08,What's the name of the song?,1,0,Ykaj,0rgEzpE93so,0.0,2017-01-22 07:18:08,True,True
+2017-01-22T08:45:59,WHAT IS THE SONG!!??,1,0,Chocolate Chip,0rgEzpE93so,0.0,2017-01-22 08:45:59,True,True
+2017-01-22T12:13:45,Thriller version of groundhog day,0,0,Vishwajith s Nair,0rgEzpE93so,0.0,2017-01-22 12:13:45,True,True
+2017-01-22T13:01:12,Is no one going to talk about kiam lawley here?,0,0,Nurin Atiqah,0rgEzpE93so,0.0,2017-01-22 13:01:12,True,True
+2017-01-22T15:27:13,i really like zoey deutch but this movie ain't gonna do...sorry !!,1,0,mihai Inpusket,0rgEzpE93so,0.3125,2017-01-22 15:27:13,True,True
+2017-01-22T18:39:04,name of song at 1:12,1,1,saket soni,0rgEzpE93so,0.0,2017-01-22 18:39:04,True,True
+2017-01-23T00:39:04,could anyone tell me the name of the song from 00:06-00:25? Please? :),17,7,Jean Luis Morillo,0rgEzpE93so,0.5,2017-01-23 00:39:04,True,True
+2017-01-23T11:38:39,brush quickly back release scale frankly.,0,0,Isabella Munoz,0rgEzpE93so,0.0,2017-01-23 11:38:39,True,True
+2017-01-23T20:13:46,"So, GroundHog Day?",0,0,KNobi,0rgEzpE93so,0.0,2017-01-23 20:13:46,True,True
+2017-01-24T02:10:50,"this was my favourite book for a while, i really hope its good.",0,0,Kelly Elizabeth,0rgEzpE93so,0.44999999999999996,2017-01-24 02:10:50,True,True
+2017-01-24T02:29:13,Song towards the end is Lay me down gently by La Roux,4,0,TallishBasket13,0rgEzpE93so,0.022222222222222213,2017-01-24 02:29:13,True,True
+2017-01-24T04:33:30,is that kian lawley?!,0,0,carolina rose,0rgEzpE93so,0.0,2017-01-24 04:33:30,True,True
+2017-01-24T04:48:43,ALl of these women are cute,0,0,Antonio Rios,0rgEzpE93so,0.5,2017-01-24 04:48:43,True,True
+2017-01-24T05:55:17,She sounds like Poppy,0,0,Jocelyn Tamai,0rgEzpE93so,0.0,2017-01-24 05:55:17,True,True
+2017-01-24T07:29:59,"So groundhog day but with an emotional teenage girl thats clearly not gonna take full advantage of the fact she can literally do whatever she wants without consequence...cool I guess, but I think I'll just watch groundhog day in HD.",0,0,Wezzy94,0rgEzpE93so,0.1,2017-01-24 07:29:59,True,True
+2017-01-24T08:15:06,"The book was amazing, but I'm not expecting much from this what looks like to be a low-budget movie filmed with Awesomeness TV actors... Oh well, the books are always better anyways",2,0,Madi,0rgEzpE93so,0.43333333333333335,2017-01-24 08:15:06,True,True
+2017-01-24T08:42:59,"I'm guessing she has to change the fact that they were bullying the girl at the party to redeem herself, and the twist at the end is that she actually died and it's purgatory or some shit testing her",41,5,tskwared667,0rgEzpE93so,-0.1,2017-01-24 08:42:59,True,True
+2017-01-24T08:57:29,I adore that they'll made it a move. It's one of my favourite books. But in my opinion Sam looks too innocent. The girl playing Lindsay (the blonde with the hat) reminds me more of my image I had of Sam.,2,0,Lina Lindström,0rgEzpE93so,0.3333333333333333,2017-01-24 08:57:29,True,True
+2017-01-24T11:03:37,re zero  the american movie,0,0,Duane Sui,0rgEzpE93so,0.0,2017-01-24 11:03:37,True,True
+2017-01-24T11:55:50,this reminds me of zack and cody lol,2,0,Chase,0rgEzpE93so,0.8,2017-01-24 11:55:50,True,True
+2017-01-24T13:17:23,it reminds me of tom cruise's movie lol but I forgot what the movie was...,4,4,Eliz Ann,0rgEzpE93so,0.8,2017-01-24 13:17:23,True,True
+2017-01-24T14:41:59,"Holy shit, again this type of movie. I mean, i like such type of movies, but fuck this one. It's drama/romantic edition. Hollywood will die soon if they dont stop making clones, seriously. Would better make sequel to Edge of Tomorrow, ARQ or any other good version of this type of genre not making bad, shitty clones. Fuck those producers.",1,9,rivor,0rgEzpE93so,-0.12708333333333333,2017-01-24 14:41:59,True,True
+2017-01-24T16:51:00,Song at 0:20,1,0,Don K Sound,0rgEzpE93so,0.0,2017-01-24 16:51:00,True,True
+2017-01-24T18:15:28,Groundhog day with hot chicks!!! It's gonna be LEGEND....wait for it...       DARY!!!! LEGENDARY!!!,0,0,Kai Keeper,0rgEzpE93so,1.0,2017-01-24 18:15:28,True,True
+2017-01-24T19:59:13,Is it me or is the voice at the begining remind you of poppy,0,0,Ben Palazija,0rgEzpE93so,0.0,2017-01-24 19:59:13,True,True
+2017-01-24T21:55:22,"I get that this movie's plot line isn't a new concept, but I personally think this looks really good.",11,1,shaylen sanders,0rgEzpE93so,0.27878787878787875,2017-01-24 21:55:22,True,True
+2017-01-24T22:25:30,"Oh wow, trapped in the same day, how original.",23,4,Wade,0rgEzpE93so,0.06875,2017-01-24 22:25:30,True,True
+2017-01-24T23:03:39,why does she sound like poppy,0,0,Frost & Hawker,0rgEzpE93so,0.4,2017-01-24 23:03:39,True,True
+2017-01-24T23:24:12,another version of groundhog day,0,0,Indri Iriana,0rgEzpE93so,0.0,2017-01-24 23:24:12,True,True
+2017-01-25T01:21:12,Why doesn't she just fucking drive instead of her friend who obviously can't?,0,0,linus5999,0rgEzpE93so,-0.3,2017-01-25 01:21:12,True,True
+2017-01-25T02:41:04,"Just don't fkng go. I wonder if they'll adress that or if there's a reason why she keeps doing the same thing, In Groundhog day there weren't any rules but here she seems to always repeat the same routine ending in the same accident.",0,0,Gyorkland,0rgEzpE93so,0.0,2017-01-25 02:41:04,True,True
+2017-01-25T03:31:55,Heat of the moment by Asia starts playing,0,0,ana iglesias,0rgEzpE93so,0.0,2017-01-25 03:31:55,True,True
+2017-01-25T04:53:39,so... the movie pitch was ground hog day with a teen drama/thriller theme... get more creative hollywood...,0,1,Calvin Campos,0rgEzpE93so,0.3333333333333333,2017-01-25 04:53:39,True,True
+2017-01-25T05:00:17,¡Al fin! 6 Años esperando por ver una adaptación de before i fall.  Veremos si es una buena adaptación de su libro.,0,0,Caquita Dospuntoscuatro,0rgEzpE93so,0.0,2017-01-25 05:00:17,True,True
+2017-01-25T09:22:53,"To everyone who is saying: ""oh man the storyline is such a cliché""  It might be but it's also a book adaptation of a freaking awesome book. So before you judge, read the damn book and get to know the real storyline which isn't cliché or boring at all.",0,0,ShadowFlower,0rgEzpE93so,0.04999999999999999,2017-01-25 09:22:53,True,True
+2017-01-25T12:20:58,Tired of movies like this,0,0,Odell Dias,0rgEzpE93so,-0.4,2017-01-25 12:20:58,True,True
+2017-01-25T13:57:53,ARQ  edge of tomorow  source code,0,2,the SKICE play,0rgEzpE93so,0.0,2017-01-25 13:57:53,True,True
+2017-01-25T14:18:16,Groundhog Day for teenage girls.,0,0,William Heinrich,0rgEzpE93so,0.0,2017-01-25 14:18:16,True,True
+2017-01-25T17:11:29,What is the so g name?,0,1,Agnes Rej,0rgEzpE93so,0.0,2017-01-25 17:11:29,True,True
+2017-01-26T01:44:50,name of song that starts at 0:06 PLEASE!!!!!,3,1,Aimee B,0rgEzpE93so,0.0,2017-01-26 01:44:50,True,True
+2017-01-26T01:49:42,people commenting here quickly calling it as same as other time loop movie ummm *read the fucking book*,236,4,Spooks & Books,0rgEzpE93so,-0.09791666666666667,2017-01-26 01:49:42,True,True
+2017-01-26T02:16:39,Does anyone know how to get the torrent of the film?,0,0,Pauline Lima,0rgEzpE93so,0.0,2017-01-26 02:16:39,True,True
+2017-01-26T02:17:13,alguém sabe algum link do torrent desse filme?,0,0,Pauline Lima,0rgEzpE93so,0.0,2017-01-26 02:17:13,True,True
+2017-01-26T02:53:39,"This main girl looks like a young Rose Byrne, she could totes play a younger her in a movie.",0,0,Samar Perry,0rgEzpE93so,0.21666666666666667,2017-01-26 02:53:39,True,True
+2017-01-26T08:10:26,0:55 SONG?,1,0,Feiticeira Escarlate,0rgEzpE93so,0.0,2017-01-26 08:10:26,True,True
+2017-01-26T10:57:19,whats the theme song? please,0,1,Brian D'silva,0rgEzpE93so,0.0,2017-01-26 10:57:19,True,True
+2017-01-26T15:09:09,"I've been waiting for them to turn this book into a movie for five years now. I'm so freaking excited. Yes, just like in the movie Groundhog Day she has to relive the same day. However I never cried in the movie Groundhog Day, but every single time I read the book before I fall I start crying",0,0,Destiny Walsh,0rgEzpE93so,0.025892857142857148,2017-01-26 15:09:09,True,True
+2017-01-26T21:52:29,this movie idea has already been used,1,1,tawonga munyanduri,0rgEzpE93so,0.0,2017-01-26 21:52:29,True,True
+2017-01-26T23:00:28,"So...Groundhog Day, but without the funny.",0,5,Ιερώνυμος Κόρακας,0rgEzpE93so,0.25,2017-01-26 23:00:28,True,True
+2017-01-27T01:37:43,WHAT IS THE NAME OF THE SONG IN THE BEGINNING!!!!!!,0,0,Alexandra Nazaryan,0rgEzpE93so,0.0,2017-01-27 01:37:43,True,True
+2017-01-27T02:24:30,Premonition 2007?? lol,0,0,XOTWOD,0rgEzpE93so,0.8,2017-01-27 02:24:30,True,True
+2017-01-27T04:06:03,I've been waiting for this movie for forevveeerrrrr,0,0,Hails Frank,0rgEzpE93so,0.0,2017-01-27 04:06:03,True,True
+2017-01-27T04:33:50,i prefer life is strange,0,0,Ivan Gh,0rgEzpE93so,-0.05,2017-01-27 04:33:50,True,True
+2017-01-27T04:51:33,I had no idea they were making a movie out of the book. I'm excited for it.,0,0,Mona A,0rgEzpE93so,0.375,2017-01-27 04:51:33,True,True
+2017-01-27T04:57:52,Please I'm begging you don't fuck up this up and make the movie less interesting than the book,0,0,Katie Allen,0rgEzpE93so,-0.022222222222222216,2017-01-27 04:57:52,True,True
+2017-01-27T12:18:39,song 1.10??,0,0,Ζοi Kal,0rgEzpE93so,0.0,2017-01-27 12:18:39,True,True
+2017-01-27T21:08:22,am i the only one here for Kian??<3<3 Love you Kian<3,0,0,Crazy Monkey baby,0rgEzpE93so,0.25,2017-01-27 21:08:22,True,True
+2017-01-28T01:15:12,i loved the book! I can't wait to see this!,31,2,Alannah Rodriquez,0rgEzpE93so,1.0,2017-01-28 01:15:12,True,True
+2017-01-28T03:04:44,I SAW KIANNNNNNNNNNNNNNNNNNNNNNNNNN,0,0,phan af,0rgEzpE93so,0.0,2017-01-28 03:04:44,True,True
+2017-01-28T11:07:52,read this book way back in 2015 and it made me bawl my eyes out,0,0,worldsthroughwords,0rgEzpE93so,0.0,2017-01-28 11:07:52,True,True
+2017-01-28T17:31:14,Let Me Down Gently by La Roux!!!,0,0,VadersPetPig,0rgEzpE93so,0.11753472222222221,2017-01-28 17:31:14,True,True
+2017-01-28T19:21:18,"looks good, a nice twist on groundhogs day and other time loop movies. big of the genre.",0,1,snoo333,0rgEzpE93so,0.29374999999999996,2017-01-28 19:21:18,True,True
+2017-01-29T08:51:02,"a bunch of people are all up in their feelings because this is one of those time loop movies. I don't know how the others went, but this probably won't be the same. thing especially since most time loop movies are fucking action movies. this is an angsty, teen indie movie that involves death, secrets, and a time loop. yeah, there will be similarities, but it won't be same. and since this is an adaption, those people that didn't read.the book should go see what the book was about so they dont right this off as another grounding day movie. you don't need to read the book, but just look at the synopsis, it gives way more clear detail to what the movie will be about.",49,6,Jailah Wilson,0rgEzpE93so,0.14857142857142858,2017-01-29 08:51:02,True,True
+2017-01-29T18:59:19,edge of tomorrow wannabe,0,0,jimmy krogh,0rgEzpE93so,0.0,2017-01-29 18:59:19,True,True
+2017-01-29T20:44:31,Name of the song?,0,0,Vitalijus vitalijus,0rgEzpE93so,0.0,2017-01-29 20:44:31,True,True
+2017-01-29T21:11:10,"the thing is, maya from the suite life on deck is in this movie, and there was an episode about a day that kept reoccurring",0,0,brin w,0rgEzpE93so,0.0,2017-01-29 21:11:10,True,True
+2017-01-30T02:48:40,I found the book truly spectacular and I hope the movie doesn't disappoint.,0,0,Sof W,0rgEzpE93so,0.6,2017-01-30 02:48:40,True,True
+2017-01-30T16:06:34,ima watch it just because its 2 sexy girls,0,0,Acete Gaming,0rgEzpE93so,0.5,2017-01-30 16:06:34,True,True
+2017-01-30T21:52:56,*Before I Fall* (2017) || FULLMOVIE || https://plus.google.com/+InfinityMoviesEntertainment/posts/HWgRyyGAxtP?sfc=false,2,0,Xavirieus Hans,0rgEzpE93so,0.0,2017-01-30 21:52:56,True,True
+2017-01-31T01:09:53,"I was just wondering if they would ever make this book into a movie, can't wait to see it 👌",0,0,SJ Rose,0rgEzpE93so,0.0,2017-01-31 01:09:53,True,True
+2017-01-31T07:53:14,soooo... is this more groundhog day or Gabriel Torturing the winchesters?????,0,0,Destinee Mitchell,0rgEzpE93so,0.5,2017-01-31 07:53:14,True,True
+2017-01-31T21:28:50,1:25 I bet she didn't spent the whole movie to reach here as poor Bill Murray did...,0,0,Lautaro Tessi,0rgEzpE93so,-0.10000000000000002,2017-01-31 21:28:50,True,True
+2017-01-31T22:50:50,"I wouldn't go to the party and stay home, duhhh",0,1,Jenissa Nissa,0rgEzpE93so,-0.5,2017-01-31 22:50:50,True,True
+2017-02-01T18:39:20,the book was amazing. but I already feel as if it wont be nearly up to par :( looking forward to this!,0,0,Jo Lasria,0rgEzpE93so,-0.07916666666666665,2017-02-01 18:39:20,True,True
+2017-02-02T19:37:40,PREMONITION 2? JEJE,0,0,H.EdithCast,0rgEzpE93so,0.0,2017-02-02 19:37:40,True,True
+2017-02-02T21:08:03,I read this book ages ago! So excited there is a movie <3 <3,0,0,Katja Spam Lala,0rgEzpE93so,0.7916666666666666,2017-02-02 21:08:03,True,True
+2017-02-02T22:45:22,"Groundhog Day, anyone?",0,1,DanStack16,0rgEzpE93so,0.0,2017-02-02 22:45:22,True,True
+2017-02-03T01:10:34,Does anybody know the song that starts at 0:07,2,1,Kayla Sosa,0rgEzpE93so,0.0,2017-02-03 01:10:34,True,True
+2017-02-03T17:03:44,"I remeber reading the book and googling ""before i fall movie trailer"" too see if there was a movie verision for the book.  But then i found out there wasnt and i remeber saying "" i wish they made a movie for this book""and being all sad. but now that i see that they made a movie im so HAPPPYYYY 😀😀😀",0,0,Stephani Martinez,0rgEzpE93so,-0.5,2017-02-03 17:03:44,True,True
+2017-02-03T19:22:03,I tried to Shazam it but it wouldn't work. What's the song at the start of the trailer?,0,0,Eloise Hickey,0rgEzpE93so,0.0,2017-02-03 19:22:03,True,True
+2017-02-04T02:16:07,i've read the book two years ago. Nice One❤ and found out it turns into a movie😄 Still I would love to watch,0,0,Cherie Love,0rgEzpE93so,0.55,2017-02-04 02:16:07,True,True
+2017-02-04T12:04:11,Kian Lawley?,0,0,Tahirah Chowdhury,0rgEzpE93so,0.0,2017-02-04 12:04:11,True,True
+2017-02-04T13:22:58,"Idea was stolen from The Melancholy of Haruhi Suzumiya, this is old you guys move on",0,0,Serane,0rgEzpE93so,0.1,2017-02-04 13:22:58,True,True
+2017-02-05T06:30:27,"Wow I read this book when I was in 9th grade and just thought about it a couple of months ago and re-read it again, I'm a sophomore in college now. Tonight I randomly saw they were making a movie. It honestly looks to be about the same as the movie from the trailer. I hope its good",0,0,lauren jackson,0rgEzpE93so,0.18,2017-02-05 06:30:27,True,True
+2017-02-05T13:36:08,She sounds like popy x),0,0,fouad catalonia,0rgEzpE93so,0.0,2017-02-05 13:36:08,True,True
+2017-02-05T15:29:18,I'M THE ONLY ONE WHO'S THINKING ABOUT THAT EPISODE OF THE SUITE LIFE ON DECK,0,0,szamashups,0rgEzpE93so,0.0,2017-02-05 15:29:18,True,True
+2017-02-05T18:24:55,"Yes, Groundhog day used this concept first. It's really wasn't an original idea when that movie came out. Stop bitching about this movie being too much like others. Either watch it or don't",0,0,Pineapple Juice,0rgEzpE93so,0.25625,2017-02-05 18:24:55,True,True
+2017-02-05T19:07:18,Does this remind anyone else of Life Is Strange?,3,0,drabant101,0rgEzpE93so,-0.05,2017-02-05 19:07:18,True,True
+2017-02-05T19:41:04,MUST BE THE WORK OF AN ENEMY STAND,0,0,M,0rgEzpE93so,0.0,2017-02-05 19:41:04,True,True
+2017-02-06T01:46:13,"Holy shit, it's Killer Queen's third bomb!",0,0,JJA8020,0rgEzpE93so,-0.1,2017-02-06 01:46:13,True,True
+2017-02-06T20:56:25,1:08 song?????,0,0,Dasha Crazy,0rgEzpE93so,0.0,2017-02-06 20:56:25,True,True
+2017-02-06T23:20:02,I'm reading the book,0,0,Zoe 88,0rgEzpE93so,0.0,2017-02-06 23:20:02,True,True
+2017-02-07T00:25:02,No no its fine I totally wanted to see the whole movie in the trailer.,3,0,lovescrayons101,0rgEzpE93so,0.20555555555555557,2017-02-07 00:25:02,True,True
+2017-02-07T20:42:43,hola,0,0,angel Matias,0rgEzpE93so,0.0,2017-02-07 20:42:43,True,True
+2017-02-08T15:00:31,"I just finished the book, and that was fascinating. Can't wait to watch the movie. :3",0,0,Tamas Maklari,0rgEzpE93so,0.6,2017-02-08 15:00:31,True,True
+2017-02-09T03:10:28,I thought all 4 of them were white,0,0,Kawthar Bakhach,0rgEzpE93so,0.0,2017-02-09 03:10:28,True,True
+2017-02-09T20:47:56,I need to reread this book asap,0,0,Anka Räubertochter,0rgEzpE93so,0.0,2017-02-09 20:47:56,True,True
+2017-02-09T23:53:39,I really want Lindsay to be lindsay!!,0,0,Kawthar Bakhach,0rgEzpE93so,0.3125,2017-02-09 23:53:39,True,True
+2017-02-10T03:09:27,Kiaaaaaaan!!!,0,0,Jaii_,0rgEzpE93so,0.0,2017-02-10 03:09:27,True,True
+2017-02-10T19:44:58,"omg i 've read the book like 4 times and rn I was watching trailers and as soon as I saw the plot I knew it was the same story! I am so super excited for the film, the book is one of the best books I've ever read!",2,0,Julia Leonie,0rgEzpE93so,0.4270833333333333,2017-02-10 19:44:58,True,True
+2017-02-11T01:42:02,This is basically the exact same thing as the 2007 film Premonition .....except it's a teenage perspective .... -.-,0,0,Ellé Victor,0rgEzpE93so,0.08333333333333333,2017-02-11 01:42:02,True,True
+2017-02-11T20:57:28,Is it just me but does she sound like Poppy?,0,0,Bel Cat,0rgEzpE93so,0.4,2017-02-11 20:57:28,True,True
+2017-02-12T01:12:34,This is one of these lasagne dreams.,0,0,krypt i guess?,0rgEzpE93so,0.0,2017-02-12 01:12:34,True,True
+2017-02-12T22:27:39,what is the song that starts at .06 in the trailer?,2,0,Dametreus Jackson,0rgEzpE93so,0.0,2017-02-12 22:27:39,True,True
+2017-02-13T11:42:29,what's the name of the song at the beginning (not the La Roux one),5,0,Charles Hoppe,0rgEzpE93so,0.0,2017-02-13 11:42:29,True,True
+2017-02-13T22:06:41,This is like a izanami genjustu,0,0,True DJ,0rgEzpE93so,0.0,2017-02-13 22:06:41,True,True
+2017-02-14T00:09:44,kian kian kian!!!!!!!!!!!!!!1111,0,0,Jay Anzaldua,0rgEzpE93so,0.0,2017-02-14 00:09:44,True,True
+2017-02-14T02:39:29,I hope I can finish this book before the movie comes out *0*....,0,0,Lizete Bustos,0rgEzpE93so,0.0,2017-02-14 02:39:29,True,True
+2017-02-14T07:48:39,oh that's one of my favorite songs by La Roux on the soundtrack!!!,1,0,Nancy Mae,0rgEzpE93so,0.9765625,2017-02-14 07:48:39,True,True
+2017-02-14T16:38:56,"This feels like that movie Tom Cruise was in, i forgot the name though",0,0,How To Boss,0rgEzpE93so,0.0,2017-02-14 16:38:56,True,True
+2017-02-15T03:43:04,I just realized Benjamin from the walking dead is in this,0,0,John Cena,0rgEzpE93so,-0.2,2017-02-15 03:43:04,True,True
+2017-02-15T15:36:23,Miss Peregrine be fucking with ya head,2,0,EALover,0rgEzpE93so,-0.6,2017-02-15 15:36:23,True,True
+2017-02-16T01:20:38,Omg love the book,0,0,paris 22,0rgEzpE93so,0.5,2017-02-16 01:20:38,True,True
+2017-02-16T05:35:52,Looks like it's gonna be a great movie but I still don't see why she didn't just grab the wheel or not get in the car,0,0,LordChicken,0rgEzpE93so,0.8,2017-02-16 05:35:52,True,True
+2017-02-16T18:42:01,Poppy? Is that Poppy? The Poppy?,0,0,Kelly McKenzie,0rgEzpE93so,0.0,2017-02-16 18:42:01,True,True
+2017-02-16T20:13:30,I'm so confused why did I get the trailer of this as an ad like bruh,0,0,Milky,0rgEzpE93so,-0.4,2017-02-16 20:13:30,True,True
+2017-02-18T07:13:08,what is the song?,1,0,DonkeyKongPow,0rgEzpE93so,0.0,2017-02-18 07:13:08,True,True
+2017-02-18T07:59:37,"everybody in the comment section is talking about the book and how similar the movie looks to others. But, I'm over here like KIAN LAWLEY IS IN THE FUCKEN MOVIE (00:13)",1,0,Regina Ramirez,0rgEzpE93so,0.0,2017-02-18 07:59:37,True,True
+2017-02-18T18:24:24,When the ad before the trailer is the trailer,0,0,Joshua Millard,0rgEzpE93so,0.0,2017-02-18 18:24:24,True,True
+2017-02-19T21:55:23,So basically Groundhog Day but not funny.,0,0,Justin93koch,0rgEzpE93so,-0.125,2017-02-19 21:55:23,True,True
+2017-02-20T05:09:49,Does anyone know what the main music is to this trailer is. Ant find it anywhere,1,0,Tia Heusinkveld,0rgEzpE93so,0.16666666666666666,2017-02-20 05:09:49,True,True
+2017-02-20T14:32:31,I swear I saw kian lawley,0,0,lilly patti,0rgEzpE93so,0.0,2017-02-20 14:32:31,True,True
+2017-02-21T17:23:15,Name of song from 0:06-0:26,0,1,Gabe Nabers,0rgEzpE93so,0.0,2017-02-21 17:23:15,True,True
+2017-02-21T23:01:14,what was that song at the beginning?!,0,0,Totally Lizz,0rgEzpE93so,0.0,2017-02-21 23:01:14,True,True
+2017-02-22T23:57:30,*DIEGO BONETA*,1,0,Andrea Gomez,0rgEzpE93so,0.0,2017-02-22 23:57:30,True,True
+2017-02-24T02:00:48,I NEED TO WATCH THIS NOW IT NEEDS TO COME OUT IN THEATRES,0,0,Chehak Nijjar,0rgEzpE93so,0.0,2017-02-24 02:00:48,False,True
+2017-02-24T17:54:19,"o-o that ""vampire"" person idk her name looked like my sister",0,0,Broodle,0rgEzpE93so,0.0,2017-02-24 17:54:19,False,True
+2017-02-24T23:09:54,The book was amazing!! now let's watch the movie!! Hope it is just as good. but i know it will be,0,0,Jessi Violet,0rgEzpE93so,0.85,2017-02-24 23:09:54,False,True
+2017-02-25T02:32:05,So save the bullied girl and that would change her future??? Is that what this is or is there a deeper story behind it?,0,0,nocturnallyinsane,0rgEzpE93so,-0.2,2017-02-25 02:32:05,False,True
+2017-02-26T05:21:55,Reminds me of Life Is Strange,1,0,MiniBlueMonkey,0rgEzpE93so,-0.05,2017-02-26 05:21:55,False,True
+2017-02-27T03:32:09,"Whats that song at 0:06-0:25? I'm not talking about La Roux, Don't let me down i'm talking about the very beginning of 0:06 with the techno like beat.",15,0,Andrew Brijmahal,0rgEzpE93so,0.022222222222222213,2017-02-27 03:32:09,False,True
+2017-02-27T09:07:24,WHATS THE SONG AT 1:09 !!!!!???!?,0,2,ky,0rgEzpE93so,0.0,2017-02-27 09:07:24,False,True
+2017-02-27T09:22:32,"I dont know... I love the book, but I dont like the trailer even...",0,0,Kejtý Čte,0rgEzpE93so,0.5,2017-02-27 09:22:32,False,True
+2017-02-27T21:53:12,groundhog day part 2  . the love child .,0,0,tredstone,0rgEzpE93so,0.5,2017-02-27 21:53:12,False,True
+2017-02-27T22:09:22,No no no is that kian lawley kissing her,0,0,Stella Martin,0rgEzpE93so,0.0,2017-02-27 22:09:22,False,True
+2017-02-28T03:24:53,"did anyone else get a youtube commercial of ""before i fall"" before the video???",0,0,Laura L,0rgEzpE93so,0.0,2017-02-28 03:24:53,False,True
+2017-02-28T23:12:53,Havent watched it but... is she in a coma and this is what shes dreaming in her head?,0,0,A.S,0rgEzpE93so,-0.1,2017-02-28 23:12:53,False,True
+2017-03-03T00:43:21,I just watched a commercial for Before I Fall thinking it was the actual video... but nope. Just a YouTube commercial... xD,0,0,Senja Bird,0rgEzpE93so,0.0,2017-03-03 00:43:21,False,True
+2017-03-03T03:10:41,Anyone else thinks the way she speaks while narrating sounds just like Poppy???,0,0,Agzou Cobe,0rgEzpE93so,0.0,2017-03-03 03:10:41,False,True
+2017-03-03T11:58:28,"Good movie with a good message ""carpe diem""",0,0,Xristos Kostsdimas,0rgEzpE93so,0.7,2017-03-03 11:58:28,False,True
+2017-03-03T15:19:14,Tuesday?,0,0,Meera alfalasi,0rgEzpE93so,0.0,2017-03-03 15:19:14,False,True
+2017-03-03T21:01:27,"No way this trailer reminds me of Edge of Tomorrow; LIVE, DIE, REPEAT!",0,0,Paul Leon,0rgEzpE93so,0.17045454545454544,2017-03-03 21:01:27,False,True
+2017-03-04T07:23:59,Did anyone come from jordyn jones vlog?!? 😅😂,2,1,jenny yang,0rgEzpE93so,0.0,2017-03-04 07:23:59,False,True
+2017-03-04T09:09:24,"I saw it last night, I thought it was really good! At first it felt like teeny bopper drama version of groundhog day. But it actually has a great message and makes you think!",0,0,ba55letmysoulfly,0rgEzpE93so,0.425,2017-03-04 09:09:24,False,True
+2017-03-04T15:43:18,Does anyone know the jazzy song in the beginning that is playing throughout the party,1,0,Samantha Mar,0rgEzpE93so,0.0,2017-03-04 15:43:18,False,True
+2017-03-04T16:49:50,"This trailer sucked....go watch the 2 minute, 30 second trailer from Movieclips instead.",0,0,Moses Berkowitz,0rgEzpE93so,0.0,2017-03-04 16:49:50,False,True
+2017-03-04T19:54:44,Re:Zero en 3D xDXdxD,0,0,Richy,0rgEzpE93so,0.0,2017-03-04 19:54:44,False,True
+2017-03-04T20:51:43,Anyone know the song that begins at 00:06?,2,0,Uhh Cheese,0rgEzpE93so,0.0,2017-03-04 20:51:43,False,True
+2017-03-04T21:43:15,I am seeing this movie only for Halston! Iove her,0,0,Zhongyi Ding,0rgEzpE93so,0.0,2017-03-04 21:43:15,False,True
+2017-03-05T23:26:44,There is only one solution to this problem...      Talk to Dr. Steven Strange,9,0,Marco Polo,0rgEzpE93so,-0.025,2017-03-05 23:26:44,False,True
+2017-03-06T01:59:40,Araki did it better.,0,0,André Luiz Almeida Diniz,0rgEzpE93so,0.5,2017-03-06 01:59:40,False,True
+2017-03-06T02:49:03,Some popular girl gets stuck in a time loop so she can become less of a bitch.,0,0,KL,0rgEzpE93so,0.21666666666666667,2017-03-06 02:49:03,False,True
+2017-03-06T04:11:21,I got a before I fall trailer right before this!!,0,0,Mayalin Turner,0rgEzpE93so,0.4464285714285714,2017-03-06 04:11:21,False,True
+2017-03-06T06:48:44,"want a movie where some one is stuck in one day,that one person is bill murray? ground hog day, it has bill murray and he is stuck in one day, :)",0,0,FakeCxke,0rgEzpE93so,0.5,2017-03-06 06:48:44,False,True
+2017-03-06T12:41:15,dang I want to see this so bad now,0,0,princess nerds,0rgEzpE93so,-0.6999999999999998,2017-03-06 12:41:15,False,True
+2017-03-06T18:22:19,here just for kian,0,0,Sara Accomo,0rgEzpE93so,0.0,2017-03-06 18:22:19,False,True
+2017-03-07T04:00:09,Okay so has anyone found the name of the song that plays in the very beginning???? I'm desperate!,1,0,N C,0rgEzpE93so,-0.01666666666666668,2017-03-07 04:00:09,False,True
+2017-03-09T05:15:12,I think I just heard Poppy's voice. brah.,0,0,Carmantha Carinece,0rgEzpE93so,0.0,2017-03-09 05:15:12,False,True
+2017-03-09T14:40:26,Steins;Gate was inspiration? :3,0,0,Maruf Rayhan,0rgEzpE93so,0.5,2017-03-09 14:40:26,False,True
+2017-03-10T05:17:41,I am so lost ... what date is it,0,0,Katerina Winchester,0rgEzpE93so,0.0,2017-03-10 05:17:41,False,True
+2017-03-11T00:47:11,lamee,0,0,likkeaaaabawss,0rgEzpE93so,0.0,2017-03-11 00:47:11,False,True
+2017-03-11T12:00:16,Re:Zero.,0,0,Bmo,0rgEzpE93so,0.0,2017-03-11 12:00:16,False,True
+2017-03-11T19:00:19,Is that Lacey from Paper Towns?,0,0,Autumn Peterson,0rgEzpE93so,0.0,2017-03-11 19:00:19,False,True
+2017-03-12T00:46:01,Bill Murray haven´t age a day.,0,0,luchogallardoleon,0rgEzpE93so,0.0,2017-03-12 00:46:01,False,True
+2017-03-12T16:21:40,Does anyone know the first song in this trailer? It's at :09 with the snaps,3,0,Lucy MTV,0rgEzpE93so,0.25,2017-03-12 16:21:40,False,True
+2017-03-13T19:19:52,Why not just call an uber?,0,0,Everett Fritz,0rgEzpE93so,0.0,2017-03-13 19:19:52,False,True
+2017-03-14T22:05:32,alguien sabe como se llama la canción que suena en este tráiler(?,0,0,Milena Huanca,0rgEzpE93so,0.0,2017-03-14 22:05:32,False,True
+2017-03-17T22:24:20,alguien sabe si se estrena en buenos aires(?,0,0,Milena Huanca,0rgEzpE93so,0.0,2017-03-17 22:24:20,False,True
+2017-03-22T13:42:27,"like re zero, groundhog day, edge of tomorrow",1,0,Joffrey JEDI,0rgEzpE93so,0.0,2017-03-22 13:42:27,False,True
+2017-03-23T10:20:26,song?,1,1,francinee francinee,0rgEzpE93so,0.0,2017-03-23 10:20:26,False,True
+2017-03-27T03:12:00,you sock,0,0,Evangeline Gray,0rgEzpE93so,0.0,2017-03-27 03:12:00,False,True
+2017-04-02T06:15:57,The book is amazing,0,0,Lilian Tawfik,0rgEzpE93so,0.6000000000000001,2017-04-02 06:15:57,False,True
+2017-04-02T11:58:56,nak pp pleaseee hehehehe,0,0,Adam Hamizan,0rgEzpE93so,0.0,2017-04-02 11:58:56,False,True
+2017-04-02T15:17:00,"Look, if I kissed James Franko it doesn't mean that others are worse, aghh",0,0,DonGiHot,0rgEzpE93so,-0.35625,2017-04-02 15:17:00,False,True
+2017-04-04T10:39:35,"They need to kill the main alien that has the capability to turn back the time, so she can wake up in a helicopter like nothing happened",0,0,Jesus Palacios,0rgEzpE93so,-0.02777777777777778,2017-04-04 10:39:35,False,True
+2017-04-08T23:28:30,oh god! the book was out like 2010 and you're making the movie in 2017? so late. I don't wanna watch already,0,0,Raihan A. Rahman,0rgEzpE93so,-0.3,2017-04-08 23:28:30,False,True
+2017-04-12T05:48:18,Can Someone please help me find the song in the very beginning 😩,1,0,Briana Pineda,0rgEzpE93so,0.2,2017-04-12 05:48:18,False,True
+2017-04-15T06:10:30,"Who's red and white and weird all over? Samantha Kingston!   I'm crying, I need to watch this!",0,0,Riguel Alleje,0rgEzpE93so,-0.21875,2017-04-15 06:10:30,False,True
+2017-04-15T19:08:09,Somehow I watch that type of the move already. and not just one time but at least 3 times,0,0,Valery Lavrov,0rgEzpE93so,-0.3,2017-04-15 19:08:09,False,True
+2017-04-16T07:41:29,Re:Zero kara Hajimeru Isekai Seikatsu .................. really,0,0,Ishan Patil,0rgEzpE93so,0.2,2017-04-16 07:41:29,False,True
+2017-04-16T20:47:09,i love the music more than the trailer :3,1,0,Arif k.Sani,0rgEzpE93so,0.5,2017-04-16 20:47:09,False,True
+2017-04-17T05:49:12,Groundhog  day 3.0,0,0,Jon,0rgEzpE93so,0.0,2017-04-17 05:49:12,False,True
+2017-04-17T07:13:59,cough...cough...Groundhog Day...cough...cough,0,0,Max Gumienny,0rgEzpE93so,0.0,2017-04-17 07:13:59,False,True
+2017-04-18T15:13:52,"This is a ripoff of adam sandler's movie 50 first dates, at least give him credit in the description -_-",0,0,Aj Nicko,0rgEzpE93so,-0.024999999999999994,2017-04-18 15:13:52,False,True
+2017-04-19T01:29:17,Was Groundhog Day really that long ago ?,0,0,Calvin George,0rgEzpE93so,0.07500000000000001,2017-04-19 01:29:17,False,True
+2017-04-19T14:39:35,ive seen a concept like this before.,0,0,Crazy Shekinah,0rgEzpE93so,0.0,2017-04-19 14:39:35,False,True
+2017-04-19T20:23:08,"That moment when in 1:32 you recognize a location that was used on ""the 100""",0,0,Cata Larraechea,0rgEzpE93so,0.0,2017-04-19 20:23:08,False,True
+2017-04-20T10:20:45,what is the song name at 1:30?,0,0,Ani Wiklauri,0rgEzpE93so,0.0,2017-04-20 10:20:45,False,True
+2017-04-20T17:45:14,Halston Sage 😍,0,0,René van der Gijp,0rgEzpE93so,0.0,2017-04-20 17:45:14,False,True
+2017-04-22T09:33:47,"serves them right, since they attacked that chick at the party. karma, bitches.",0,0,Aleksandra Grbic,0rgEzpE93so,0.2857142857142857,2017-04-22 09:33:47,False,True
+2017-04-26T22:28:28,is it out yet? name of second song?,0,0,Long Evenings,0rgEzpE93so,0.0,2017-04-26 22:28:28,False,True
+2017-04-29T16:26:55,tbh delirium would make a better movie,0,0,carpe noctem,0rgEzpE93so,0.5,2017-04-29 16:26:55,False,True
+2017-04-30T16:26:24,"This movie looks like Ashton Kutcher's ""The butterfly Effect "" movie meh",0,0,Yosephine,0rgEzpE93so,0.0,2017-04-30 16:26:24,False,True
+2017-05-05T23:53:47,I read the book and I know the ending but I still hope that the final change for the movie 😥,0,0,Jiselle PT,0rgEzpE93so,0.0,2017-05-05 23:53:47,False,True
+2017-05-08T13:01:28,Anyone else loving the song? 😍,0,0,Elisa Kruse,0rgEzpE93so,0.6,2017-05-08 13:01:28,False,True
+2017-05-17T11:59:56,How can someone be so cruel. Putting best house track of 2017 in a trailer (00:06-00:26) without letting people to know what this is.,3,0,444Lukas444,0rgEzpE93so,0.0,2017-05-17 11:59:56,False,True
+2017-05-18T14:56:03,Life is strange the movie,0,0,Altair Ibn-La'Ahad,0rgEzpE93so,-0.05,2017-05-18 14:56:03,False,True
+2017-05-20T17:04:56,just watched the film its beautiful defo watch,0,0,Galaxy —,0rgEzpE93so,0.85,2017-05-20 17:04:56,False,True
+2017-05-21T11:29:57,This is the most shittiest mystery movie i've ever seen. Plus wasting my time and pointless.,0,0,Mazwan Othman,0rgEzpE93so,0.125,2017-05-21 11:29:57,False,True
+2017-05-22T06:35:19,Don't waste money watching this in theaters,0,0,T Rex,0rgEzpE93so,-0.2,2017-05-22 06:35:19,False,True
+2017-05-29T11:37:48,"-Someone tell me why i bothered watching this movie?-   What a self-indulgent, prissy, fallen from a cloud with a broken ankle bitch of a main character she is. Is she supposed to be the hero? How naive one must be to think that so much awfulness should be redeemed by a suicide and a lifelong guilt trip. Firstly, i am talking about the main characters apparent nobility, who is an angel in comparison to her friends, and secondly, the victim in all of it ends up getting it worst of all, who has to live with its complete absurdity in any case.  What a truly morally skewed viewpoint this film portrays. I suppose the victim in this won't stop for a moment to think about being so wrong about someone who ridiculed her throughout her school life, wouldn't be even more messed up by that, wouldn't feel guilty for being affected by all that ridicule, and wouldn't feel even more worthless than she was already made feel? I mean Jesus, everyone is her friend, especially those that hate her. I can't find a clue! Perhaps she will get lucky and get to live long enough to enjoy the presumed demise of the other girls, and find solice in the same spite that makes her stand so tall to find a fruitful, productive and fulfilling role as one who turns the table on people who are nasty. I mean, f*** me, it might have been more humane to commit the girl to a mental institution with some hope of someone *actually* giving a sh!t.  What a fairyland fairytale fantasy film! Are you serious!? Who on any versions of Earth was this film made for? Oh yah... forget something?  *This film is a complete fantasy waiting to find a trainwreck* ( -> and again, i just don't get it... which is super helpful, right!?). 😎",0,1,- inTegrity -,0rgEzpE93so,-0.07841991341991342,2017-05-29 11:37:48,False,True
+2017-05-30T12:09:17,where's the squad who read the book?,0,0,Queen Of Bookland,0rgEzpE93so,0.0,2017-05-30 12:09:17,False,True
+2017-06-01T03:31:18,he changed my life  i loved it i cryed wen i watched it,0,0,youssef ben jerbania,0rgEzpE93so,0.7,2017-06-01 03:31:18,False,False
+2017-06-04T04:57:51,I cried,0,0,Clout Chassa,0rgEzpE93so,0.0,2017-06-04 04:57:51,False,False
+2017-06-05T00:27:47,1:07 though,1,0,Zach Rudy,0rgEzpE93so,0.0,2017-06-05 00:27:47,False,False
+2017-06-11T14:26:55,0:24 is that  inanna sarkis,0,0,ilove#aoharuride,0rgEzpE93so,0.0,2017-06-11 14:26:55,False,False
+2017-06-13T20:05:39,Look like Last of Us Ellie 😁,0,0,mujdatozc,0rgEzpE93so,0.0,2017-06-13 20:05:39,False,False
+2017-06-16T15:53:13,KIAN,0,0,Rebecca Leech,0rgEzpE93so,0.0,2017-06-16 15:53:13,False,False
+2017-06-23T00:31:51,Oh my god. I finally realized after watching the trailer third time that I have actually read the book.,0,0,Emilija Mundeciema,0rgEzpE93so,0.0,2017-06-23 00:31:51,False,False
+2017-06-23T18:43:37,OMG SHE WAS VAMPIRE ACADEMY,0,0,Jarai Sesay,0rgEzpE93so,0.0,2017-06-23 18:43:37,False,False
+2017-06-23T23:46:17,kiannnnn,0,0,Lucia A,0rgEzpE93so,0.0,2017-06-23 23:46:17,False,False
+2017-06-27T09:15:52,the movie was well but the end ....,0,0,vasilikii c,0rgEzpE93so,0.0,2017-06-27 09:15:52,False,False
+2017-06-29T10:19:57,I saw the movie she die at the end of the movie,0,0,mary ortiz,0rgEzpE93so,0.0,2017-06-29 10:19:57,False,False
+2017-07-05T22:49:34,Wait but in the book there was no truck they just tried to avoid hitting Juliet and they flipped?,0,0,ava combs,0rgEzpE93so,0.0,2017-07-05 22:49:34,False,False
+2017-07-07T00:50:30,WHERE'S THE FIRST SONG AT?!,0,0,Timothy Perez,0rgEzpE93so,0.3125,2017-07-07 00:50:30,False,False
+2017-07-10T11:53:38,"Dormammu, I've come to bargain........",0,0,H T,0rgEzpE93so,0.0,2017-07-10 11:53:38,False,False
+2017-07-13T12:23:49,AMAZING book and amazing movie I recomand it,0,0,Aleta 123,0rgEzpE93so,0.6000000000000001,2017-07-13 12:23:49,False,False
+2017-07-24T16:49:32,I came bc kian😂,0,0,Jin Lin,0rgEzpE93so,0.0,2017-07-24 16:49:32,False,False
+2017-07-27T19:01:01,Omg there are  so many movies about being trapped in one day,0,0,Mia Chloe,0rgEzpE93so,0.15,2017-07-27 19:01:01,False,False
+2017-08-04T14:12:18,i watched the whole movie and it was worth it :),0,0,Béti Na,0rgEzpE93so,0.3333333333333333,2017-08-04 14:12:18,False,False
+2017-08-14T18:31:15,"You can find the song at 0:06 at sound cloud just type in ""Miami clubhouse""",0,0,Jennifer Huynh,0rgEzpE93so,0.4,2017-08-14 18:31:15,False,False
+2017-08-15T20:07:48,"I read the book before seeing the movie, and honestly both were amazing.  Yes, the book is always better and you would understand the deeper meaning and storyline if you read the book, but that's how it is with most things.  Both made me cry - it was one of those stories that makes you step back and think about life with a different perspective",1,0,Rachel,0rgEzpE93so,0.3666666666666667,2017-08-15 20:07:48,False,False
+2017-08-19T03:48:38,I give on searching for the soundtrack at the beginning 😒😒,0,0,Christelle Raymond,0rgEzpE93so,0.0,2017-08-19 03:48:38,False,False
+2017-08-24T12:11:16,"This movie is fucking amazing, the end is just wow",0,0,sakina hitsugaya,0rgEzpE93so,0.35000000000000003,2017-08-24 12:11:16,False,False
+2017-08-24T14:11:14,oh my ass 😭😭😢,1,0,Kihyun's Nipple,0rgEzpE93so,0.0,2017-08-24 14:11:14,False,False
+2017-08-31T10:25:51,its like happy death day..,1,0,Rito D,0rgEzpE93so,0.8,2017-08-31 10:25:51,False,False
+2017-09-17T08:15:35,READ THE BOOK PEOPLE,0,0,Trust Safety,0rgEzpE93so,0.0,2017-09-17 08:15:35,False,False
+2017-10-01T19:11:10,This movie looks like Happy Death Day,4,1,doga,0rgEzpE93so,0.8,2017-10-01 19:11:10,False,False
+2017-10-15T08:15:32,Edge of Tomorrow origins story?,0,0,lolitsmatt,0rgEzpE93so,0.0,2017-10-15 08:15:32,False,False
+2017-10-16T11:28:13,Can some one explain me what is the reason or theory or science behind this infinity time loop?,1,0,Biniwale Suraj,0rgEzpE93so,-0.4,2017-10-16 11:28:13,False,False
+2017-10-27T20:44:20,"IK it's supposed to be based on a book....but hello?? GROUNDHOG DAY, EDGE OF TOMORROW, HAPPY DEATH DAY,, SOURCE CODE...etc.?",0,0,Ahmad Almaiman,0rgEzpE93so,0.8,2017-10-27 20:44:20,False,False
+2017-11-10T23:06:40,I️ actually really enjoyed this movie,0,0,Nick Hodson,0rgEzpE93so,0.5,2017-11-10 23:06:40,False,False
+2017-11-16T17:37:58,is there any girl in trouble? u can trust me😉😘,0,0,reBel XD,0rgEzpE93so,-0.2,2017-11-16 17:37:58,False,False
+2017-12-09T07:55:18,"Oh my god, the German title of this movie is so different",0,0,kiss her goodbye,0rgEzpE93so,0.0,2017-12-09 07:55:18,False,False
+2017-12-10T06:59:13,Loved the movie,0,0,Marta AR,0rgEzpE93so,0.7,2017-12-10 06:59:13,False,False
+2017-12-14T04:57:10,Dude so lucky got to kiss Zoey Deutch.. I would do anything just to kiss her lmao,0,0,Muhammad Danish,0rgEzpE93so,0.4666666666666667,2017-12-14 04:57:10,False,False
+2017-12-19T22:40:59,This is just the copy of an Egyptian movie for Ahmed Helmy,0,0,Lara Mohamed,0rgEzpE93so,0.0,2017-12-19 22:40:59,False,False
+2017-12-22T10:30:17,The ending of this was so disappointing,0,0,Nicole Vincent,0rgEzpE93so,-0.6,2017-12-22 10:30:17,False,False
+2017-12-22T14:05:34,Just another Happy Death Day,0,0,PJ,0rgEzpE93so,0.8,2017-12-22 14:05:34,False,False
+2017-12-30T18:28:20,Reminding me of Happy Death Day,0,0,Humaira Hussain,0rgEzpE93so,0.8,2017-12-30 18:28:20,False,False
+2017-12-31T13:40:33,This is HAPPY death day bro😂,0,0,lu ci,0rgEzpE93so,0.8,2017-12-31 13:40:33,False,False
+2018-01-06T23:46:49,This reminds me life is stranges,0,0,Kiddomay Princess Cherry Icecream May Eve,0rgEzpE93so,0.0,2018-01-06 23:46:49,False,False
+2018-01-07T16:06:52,le film d'appelle le dernier jour de ma vie pas AVANT QUE JE TOMBE,1,0,Aude Franck,0rgEzpE93so,0.0,2018-01-07 16:06:52,False,False
+2018-01-09T12:02:52,"I mean I read the book, and I didn’t really think Sam would look like that. Ally, Lindsay, and Elody also look different. I’m not sure I’ll watch it to be honest.              Also the actor for Kent is COMPLETELY off from description.",0,0,Emily,0rgEzpE93so,0.05625,2018-01-09 12:02:52,False,False
+2018-01-12T17:23:04,This is just a copy of happy death day,0,0,Yves Meskens,0rgEzpE93so,0.8,2018-01-12 17:23:04,False,False
+2018-01-15T12:42:08,why did they titled it before I fall?   just curious..,0,0,Angelica Odiza,0rgEzpE93so,-0.1,2018-01-15 12:42:08,False,False
+2018-01-16T08:22:47,"she is the girl who played ed sheeran's girlfriend in ""perfect"" music video  (zoey).",3,0,Hajer Alzadjali,0rgEzpE93so,1.0,2018-01-16 08:22:47,False,False
+2018-01-27T05:46:27,Really good movie I liked,0,0,tiffany martin,0rgEzpE93so,0.6499999999999999,2018-01-27 05:46:27,False,False
+2018-01-30T12:28:56,This concept has been done 80000 times,0,0,Shuffet,0rgEzpE93so,0.0,2018-01-30 12:28:56,False,False
+2018-01-31T07:52:48,Es algo parecido a feliz día de tu muerte,0,0,gimeee reynoso,0rgEzpE93so,0.0,2018-01-31 07:52:48,False,False
+2018-02-06T01:39:55,Boi this is Happy Death Day 😂,0,0,karissa turgeon,0rgEzpE93so,0.8,2018-02-06 01:39:55,False,False
+2018-02-06T19:30:49,Happy Deathday copy.,0,0,Denmark,0rgEzpE93so,0.8,2018-02-06 19:30:49,False,False
+2018-02-07T23:30:53,"There are many older movies with the same story, being trapped in the same day!",0,0,ban,0rgEzpE93so,0.09333333333333332,2018-02-07 23:30:53,False,False
+2018-02-10T14:41:22,its like happy death day?,0,0,Lydia Soemantri,0rgEzpE93so,0.8,2018-02-10 14:41:22,False,False
+2018-02-18T13:28:43,happy deathday all over,0,0,XNahoX,0rgEzpE93so,0.8,2018-02-18 13:28:43,False,False
+2018-02-23T09:43:22,THIS IS LIKE HAPPY DEATH DAY :/,0,0,xAim .-,0rgEzpE93so,0.275,2018-02-23 09:43:22,False,False
+2018-02-24T16:54:51,No talent in the actors,0,0,PerrySport,0rgEzpE93so,0.0,2018-02-24 16:54:51,False,False
+2018-03-02T14:30:29,It's like happy death day,0,0,send help,0rgEzpE93so,0.8,2018-03-02 14:30:29,False,False
+2018-03-06T11:12:15,"IT s like ""happy  dead day""",0,0,Ke345rose A,0rgEzpE93so,0.30000000000000004,2018-03-06 11:12:15,False,False
+2018-03-12T23:03:39,Loved that movie,1,0,Cerenity Houghton,0rgEzpE93so,0.7,2018-03-12 23:03:39,False,False
+2018-03-21T21:45:24,This is the girl from Juno,0,0,Nikki Nixon,0rgEzpE93so,0.0,2018-03-21 21:45:24,False,False
+2018-03-23T23:15:11,Isn't this basically the same thing as Happy death day,0,0,Bunny,0rgEzpE93so,0.4,2018-03-23 23:15:11,False,False
+2018-04-07T06:33:30,"This was an awesome movie, great plot",0,0,NotJerry Beans,0rgEzpE93so,0.9,2018-04-07 06:33:30,False,False
+2018-04-10T22:25:37,Death note we got noe,0,0,Zaniaya A,0rgEzpE93so,0.0,2018-04-10 22:25:37,False,False
+2018-05-11T18:45:57,this is like happy death day,0,0,veroni gorse,0rgEzpE93so,0.8,2018-05-11 18:45:57,False,False
+2018-05-16T23:55:43,Happy Death Day??? Is that movie a copy of this one or is it the other way around? Or is there a whole other movie which both are based off of??,0,0,Lybah Haque,0rgEzpE93so,0.1875,2018-05-16 23:55:43,False,False
+2018-06-25T07:09:24,I just noticed it’s like Happy Death Day (Like of u Agree),0,0,Rehman Gul,0rgEzpE93so,0.8,2018-06-25 07:09:24,False,False
+2018-06-25T15:19:59,RIP OF OFF HAPPY DEATH DAY,1,0,Steve Joseph,0rgEzpE93so,0.8,2018-06-25 15:19:59,False,False
+2018-07-26T21:41:03,This is the Best movie i've ever wached 😥🤩,0,0,Елица Лачкова,0rgEzpE93so,1.0,2018-07-26 21:41:03,False,False
+2018-08-02T21:19:26,She sounds like that poppy at 1:35 lmao,0,0,lana del reyc,0rgEzpE93so,0.6,2018-08-02 21:19:26,False,False
+2018-08-10T03:33:12,this movie was amazing,0,0,Isabella Duffy,0rgEzpE93so,0.6000000000000001,2018-08-10 03:33:12,False,False
+2018-08-21T15:45:24,Seem interesting,0,0,Cristina Pinteac,0rgEzpE93so,0.5,2018-08-21 15:45:24,False,False
+2018-08-22T12:52:29,The best movie ❤❤❤,0,0,Stcma Tap,0rgEzpE93so,1.0,2018-08-22 12:52:29,False,False
+2018-09-12T07:16:37,The songs are cool in this movie,0,0,L C,0rgEzpE93so,0.35,2018-09-12 07:16:37,False,False
+2018-11-27T16:24:27,"I watched the film , what a film , what a film , marvelous excellent , go watch and come back to me .",0,0,MowgleeeisLive,0rgEzpE93so,0.6666666666666666,2018-11-27 16:24:27,False,False
+2018-11-29T04:32:01,Same as happy death day,0,0,Carl Johnson,0rgEzpE93so,0.4,2018-11-29 04:32:01,False,False
+2019-01-15T02:06:39,"It may not be original, but this was actually a pretty good movie",0,0,Maddie Drew,0rgEzpE93so,0.44166666666666665,2019-01-15 02:06:39,False,False
+2019-02-14T15:48:23,just get Sam and find the trickster.,0,0,"DPRK SONG, MORANBONG BAND HD, GOOOD IDEA",0rgEzpE93so,0.0,2019-02-14 15:48:23,False,False
+2019-04-30T10:38:08,Well then it will be happy death day,0,0,fariha othy95678,0rgEzpE93so,0.8,2019-04-30 10:38:08,False,False
+2019-05-09T01:32:25,Deep really deep,0,0,Samuel Adepoju,0rgEzpE93so,0.0,2019-05-09 01:32:25,False,False
+2019-10-20T16:05:57,"this movie is AMAZING. If you’re thinking about watching it, you definitely should. It’s on Netflix.",0,0,Rubix Cube,0rgEzpE93so,0.30000000000000004,2019-10-20 16:05:57,False,False
+2019-11-01T01:32:29,Very good movie,0,0,Megan Luminais,0rgEzpE93so,0.9099999999999999,2019-11-01 01:32:29,False,False
+2020-02-13T18:28:12,"I Like the disco song "" Pennis""",0,0,Seif Blazes,0rgEzpE93so,0.0,2020-02-13 18:28:12,False,False
+2020-05-27T07:09:52,1:45 - 2:04 One of the darkest scenes I've ever seen in any trailer.,2,0,Word Unheard,0rgEzpE93so,0.0,2020-05-27 07:09:52,False,False

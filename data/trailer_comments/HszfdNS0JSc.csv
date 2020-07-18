@@ -1,0 +1,392 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2016-04-27T15:19:15,1st,0,0,Alex B,HszfdNS0JSc,0.0,2016-04-27 15:19:15,True,True
+2016-04-27T15:19:30,First,0,0,Noah Baitz,HszfdNS0JSc,0.25,2016-04-27 15:19:30,True,True
+2016-04-27T15:19:43,2nd.,0,0,Dustin Eveland,HszfdNS0JSc,0.0,2016-04-27 15:19:43,True,True
+2016-04-27T15:19:51,Poo,0,0,Micah Sinclair,HszfdNS0JSc,0.0,2016-04-27 15:19:51,True,True
+2016-04-27T15:19:59,4th,0,0,Susanna Pearl,HszfdNS0JSc,0.0,2016-04-27 15:19:59,True,True
+2016-04-27T15:24:28,Another Academy Awards slot taken this year by the great Meryl Streep !!!,38,1,Calvin Nguyen,HszfdNS0JSc,1.0,2016-04-27 15:24:28,True,True
+2016-04-27T15:25:54,Always wondered about whether they would do a movie about her. Streep is the perfect choice.,68,7,Morten Thomsen,HszfdNS0JSc,1.0,2016-04-27 15:25:54,True,True
+2016-04-27T15:26:12,This is shit,3,9,Caroline,HszfdNS0JSc,-0.2,2016-04-27 15:26:12,True,True
+2016-04-27T15:29:28,"Marguerite, 2015 w/ Catherine Frot as Marguerite aka Florence Foster Jenkins",0,1,Yzabel Braun,HszfdNS0JSc,0.0,2016-04-27 15:29:28,True,True
+2016-04-27T15:46:43,This seems to be a remake of a French movie called Marguerite! It's the exact plot! Anyone?,2,4,Cine a Todo y +,HszfdNS0JSc,0.15625,2016-04-27 15:46:43,True,True
+2016-04-27T15:48:12,im just smiling...,0,0,Kevin Jongte,HszfdNS0JSc,0.0,2016-04-27 15:48:12,True,True
+2016-04-27T15:55:15,"Well...yeah....it kinda does matter how good you are..... So was this lady like Justin Bieber, I'm seeing a lot of similarities between the two? Mostly the cant sing part",0,1,No Name,HszfdNS0JSc,0.6,2016-04-27 15:55:15,True,True
+2016-04-27T15:55:51,And the Oscar goes to...,289,12,Shershah Niazi,HszfdNS0JSc,0.0,2016-04-27 15:55:51,True,True
+2016-04-27T16:01:09,"oh my gosh!!!! at lassst FFJ's story made it to the big screen. I remember how amused I was when I first read about her. I mean, she performed at Carnegie Hall, despite singing the way she sings. such an inspirational story.",0,0,deus ex machina,HszfdNS0JSc,0.0875,2016-04-27 16:01:09,True,True
+2016-04-27T16:01:43,"*cough*OscarBait*cough*   Sorry, I have a cold, I said Oscar bait",21,0,Alextromagnetic,HszfdNS0JSc,-0.55,2016-04-27 16:01:43,True,True
+2016-04-27T16:03:04,I may be skewered for this but Meryl Streep causes me to wonder ... Who will play Caitlyn Jenner in the Bruce Jenner movie by Lifetime/Bravo?,1,3,Mark Keller,HszfdNS0JSc,0.0,2016-04-27 16:03:04,True,True
+2016-04-27T16:45:04,Didn't they just make a movie about her?,12,5,eli hauser,HszfdNS0JSc,0.0,2016-04-27 16:45:04,True,True
+2016-04-27T17:09:30,Cosmé McMoon was Mexican so why is Simon Helberg playing him??? Latest whitewashing smh,0,2,Tadeo Zavala,HszfdNS0JSc,0.25,2016-04-27 17:09:30,True,True
+2016-04-27T17:12:30,Nice job Howard 👍,12,0,White Wolf,HszfdNS0JSc,0.6,2016-04-27 17:12:30,True,True
+2016-04-27T17:17:37,😳,0,0,General Brown Teddies,HszfdNS0JSc,0.0,2016-04-27 17:17:37,True,True
+2016-04-27T17:37:10,hello wolowitz,133,0,KillMe123,HszfdNS0JSc,0.0,2016-04-27 17:37:10,True,True
+2016-04-27T18:10:58,Just hand her the oscar lol,32,0,Marvel Hasiholan,HszfdNS0JSc,0.8,2016-04-27 18:10:58,True,True
+2016-04-27T19:40:20,Is this citizen kane 2?,0,0,Brandon Schreur,HszfdNS0JSc,0.0,2016-04-27 19:40:20,True,True
+2016-04-27T19:52:51,Meryl Streep would make an amazing Mrs. Bucket (Keeping up Appearances),3,1,CearaQC,HszfdNS0JSc,0.6000000000000001,2016-04-27 19:52:51,True,True
+2016-04-27T19:58:45,"This may sound racist,I don't study history but theres quite a lot of black people in rich looking places. Is that historically correct?",0,2,Jonathan Iyere,HszfdNS0JSc,0.15208333333333335,2016-04-27 19:58:45,True,True
+2016-04-27T20:18:49,Hugh Grand became so old since i ve seen him last time,3,1,Кунг-Фу Падла,HszfdNS0JSc,0.19999999999999998,2016-04-27 20:18:49,True,True
+2016-04-27T20:21:19,Oscar bait,1,4,Walkingdog1000,HszfdNS0JSc,0.0,2016-04-27 20:21:19,True,True
+2016-04-27T20:35:49,i smell an oscar...,0,0,Harrison Edwards,HszfdNS0JSc,0.0,2016-04-27 20:35:49,True,True
+2016-04-27T20:54:58,The french version looks goos... This is a chick flick...,0,0,Gamma,HszfdNS0JSc,0.0,2016-04-27 20:54:58,True,True
+2016-04-27T22:19:32,omg...i wannnt tooo see so bad!,0,0,kim hye soo johnson,HszfdNS0JSc,-0.8749999999999998,2016-04-27 22:19:32,True,True
+2016-04-27T22:26:48,"it;s the kings speech. I'm sorry, but somebody had to say it. This is a complete rip-off of a great film. It might still be good though",0,1,Peter Skillman,HszfdNS0JSc,0.13999999999999999,2016-04-27 22:26:48,True,True
+2016-04-27T23:28:53,Approximately 4 people will see this movie,0,0,where am i,HszfdNS0JSc,-0.4,2016-04-27 23:28:53,True,True
+2016-04-27T23:48:16,We just had a movie about her on France... There is no need for another one. They will the tragic into comedy.,1,2,Clem,HszfdNS0JSc,-0.75,2016-04-27 23:48:16,True,True
+2016-04-28T00:24:42,So Wolowitz is talented as well 😂😂,7,0,Angelica Gonzales,HszfdNS0JSc,0.7,2016-04-28 00:24:42,True,True
+2016-04-28T00:39:32,I think Madame Florence needs more lessons. More lessons than heaven can provide.,3,0,da96103,HszfdNS0JSc,0.5,2016-04-28 00:39:32,True,True
+2016-04-28T00:42:04,"0:33-0:37 Meryl sings exactly like Florence, the right kind of 'bad'.",2,0,da96103,HszfdNS0JSc,0.10892857142857146,2016-04-28 00:42:04,True,True
+2016-04-28T00:42:05,From being an engineer to a pianist. Good job Howard.,1,0,Sena setunga,HszfdNS0JSc,0.7,2016-04-28 00:42:05,True,True
+2016-04-28T00:44:05,See if there's anyone smart in here. Fill in the blank. Meryl Streep can never make a good choice because she can only make ............'s choice.,0,1,da96103,HszfdNS0JSc,0.22857142857142856,2016-04-28 00:44:05,True,True
+2016-04-28T00:44:37,"Apparently, Simon Helberg played the piano in the movie and recording. Amazing!",0,0,da96103,HszfdNS0JSc,0.4000000000000001,2016-04-28 00:44:37,True,True
+2016-04-28T00:49:44,"After Carnegie Hall, Florence gave up singing and decided to be the editor of a fashion magazine.",23,4,da96103,HszfdNS0JSc,0.0,2016-04-28 00:49:44,True,True
+2016-04-28T00:51:05,Finally Hugh Grant has to take care of a lady instead of ladies taking care of him.,288,1,da96103,HszfdNS0JSc,0.0,2016-04-28 00:51:05,True,True
+2016-04-28T01:46:40,Such a beautifully sweet and uplifting movie. I want to see it.,25,0,Taylor H.,HszfdNS0JSc,0.175,2016-04-28 01:46:40,True,True
+2016-04-28T02:07:24,i hear another oscar nomination :D love meryl,265,21,Fotograma Video,HszfdNS0JSc,0.75,2016-04-28 02:07:24,True,True
+2016-04-28T02:10:00,she reminds me of Mrs. Bucket (Mrs. Bouquet),0,0,Annika Belle,HszfdNS0JSc,0.0,2016-04-28 02:10:00,True,True
+2016-04-28T03:48:46,It really intrigues me how much she changes in every role she plays. It's just beyond a good acting.,341,7,Leo MeCas,HszfdNS0JSc,0.275,2016-04-28 03:48:46,True,True
+2016-04-28T04:26:06,"Mom: ""HOWIE, YOUR DINNER'S GETTIN COLD!  Howard: NOT NOW MA, I'M SINGING!",249,1,Mark e.g. smith,HszfdNS0JSc,-0.9375,2016-04-28 04:26:06,True,True
+2016-04-28T05:09:18,I have got to see this LOL,1,0,Anínesah Rodriguez,HszfdNS0JSc,0.8,2016-04-28 05:09:18,True,True
+2016-04-28T05:41:59,Howard wolowitz is here :-D,8,0,Briony Solo,HszfdNS0JSc,1.0,2016-04-28 05:41:59,True,True
+2016-04-28T06:05:06,thanks for saving me the trouble of downloading the movie when it comes out.,0,0,echolot,HszfdNS0JSc,0.0,2016-04-28 06:05:06,True,True
+2016-04-28T11:39:05,can't wait!!!!,0,0,Paulina Karpińska,HszfdNS0JSc,0.0,2016-04-28 11:39:05,True,True
+2016-04-28T12:46:09,"this woman just need to stop making amazing films and let the others get the oscar, or at least share some more with Leo",1,0,Amy Hsu,HszfdNS0JSc,0.26666666666666666,2016-04-28 12:46:09,True,True
+2016-04-28T12:54:02,I like the movie already.,0,1,Arthur Richard,HszfdNS0JSc,0.0,2016-04-28 12:54:02,True,True
+2016-04-28T14:02:45,Can't wait 😍,0,0,Strxxp,HszfdNS0JSc,0.0,2016-04-28 14:02:45,True,True
+2016-04-28T16:47:36,Damn Meryl is pulling off some performance here,19,0,Kyle Edgecomb,HszfdNS0JSc,0.0,2016-04-28 16:47:36,True,True
+2016-04-28T18:49:56,"There's a difference between Marguerite and this- Marguerite is loosely based on Florence Foster Jenkins' life, as the character's name is different, and the story is different- this movie is a biopic, completely based off her life, details and all",0,0,EvaSofie,HszfdNS0JSc,0.0057692307692307696,2016-04-28 18:49:56,True,True
+2016-04-29T10:07:09,meryl streep is perfect ! hope she ll get the upcoming oscar,0,0,Newton 98,HszfdNS0JSc,1.0,2016-04-29 10:07:09,True,True
+2016-04-29T13:23:51,"Definitely, one of the best trailer I've seen today.",5,0,Jeff Aycocho,HszfdNS0JSc,0.5,2016-04-29 13:23:51,True,True
+2016-04-29T15:42:13,saw Meryl.... CLICKED!!,18,3,Alec Malfoy,HszfdNS0JSc,0.0,2016-04-29 15:42:13,True,True
+2016-04-29T17:33:12,I wish Hugh Laurie was cast instead of Hugh grant :( Both great actors though!,6,0,BR C,HszfdNS0JSc,0.125,2016-04-29 17:33:12,True,True
+2016-04-29T17:50:09,Genuinely the only thing I've every seen where I could ever tolerate Hugh Grant.... 😂,0,0,missblueskyelo,HszfdNS0JSc,0.2,2016-04-29 17:50:09,True,True
+2016-04-29T17:57:43,"yeah i don't care, i'm so watching this movie",121,3,HEY YO!!,HszfdNS0JSc,0.0,2016-04-29 17:57:43,True,True
+2016-04-29T19:57:58,Already smiling. Can't wait!,3,0,Megan Joelyn,HszfdNS0JSc,0.0,2016-04-29 19:57:58,True,True
+2016-04-30T00:52:55,Look who this year gets a well deserved shot on the big screen here!! (I'm not talking about Hugh Grant^^)😁,0,0,Vicky 12,HszfdNS0JSc,0.0,2016-04-30 00:52:55,True,True
+2016-04-30T04:54:39,Howard Wolowitz! where is Bernadette? haha,0,0,PrimeIdentity,HszfdNS0JSc,0.2,2016-04-30 04:54:39,True,True
+2016-04-30T05:51:05,This looks like it'll give me a fuzzy warm feeling. I haven't had that vibe from a new movie in a while.,31,1,Giselle,HszfdNS0JSc,0.36818181818181817,2016-04-30 05:51:05,True,True
+2016-04-30T08:31:12,Of course this bullshit will get nominated because white people.,0,1,BarcelonaDude6,HszfdNS0JSc,0.0,2016-04-30 08:31:12,True,True
+2016-04-30T08:43:47,omg this movie is going to be fantastic!! i cant wait to watch it!!,2,0,RUEBS LEE,HszfdNS0JSc,0.9765625,2016-04-30 08:43:47,True,True
+2016-04-30T12:46:12,Stephen Frears is known to direct great thespians in finely calibrated movies from Helen Mirren to Judi Dench.... I just know this also won't be an exception...,9,0,Sayak Choudhury,HszfdNS0JSc,0.4388888888888889,2016-04-30 12:46:12,True,True
+2016-05-01T09:18:15,"Meryl Show true hollywood star power! no actress could still play lead in a film at that ages. amazing, I want to watch it! Sally field and Meryl should do a film together, love them both!",1,0,blurdreamer,HszfdNS0JSc,0.6041666666666666,2016-05-01 09:18:15,True,True
+2016-05-01T15:03:07,howard,0,0,Ash Ketchum,HszfdNS0JSc,0.0,2016-05-01 15:03:07,True,True
+2016-05-01T15:42:42,can smell the oscar <3,3,0,littlemickey1796,HszfdNS0JSc,1.0,2016-05-01 15:42:42,True,True
+2016-05-01T15:57:31,what else can't this woman act. my god she's amazing !,7,0,alexander yong,HszfdNS0JSc,0.7500000000000001,2016-05-01 15:57:31,True,True
+2016-05-01T17:57:53,lol a late 19th century Miranda Sings xd,74,7,Gloria Chan,HszfdNS0JSc,0.25,2016-05-01 17:57:53,True,True
+2016-05-01T18:54:41,is it in theaters?,0,0,liilu8,HszfdNS0JSc,0.0,2016-05-01 18:54:41,True,True
+2016-05-02T01:33:54,And then Eve takes over her body and lights the audience on fire.,0,0,Max Holland,HszfdNS0JSc,0.0,2016-05-02 01:33:54,True,True
+2016-05-02T23:04:37,Another blow to the belief that perfection is all that really has value! 👍,2,0,C A Campbell,HszfdNS0JSc,0.25,2016-05-02 23:04:37,True,True
+2016-05-03T00:56:46,"Meryl Streep's ability to utterly transform herself, down to her voice and mannerisms, will never cease to amaze me.",616,4,PozoBlue,HszfdNS0JSc,-0.07777777777777779,2016-05-03 00:56:46,True,True
+2016-05-03T11:16:32,"Definitely in oscar for (nominations) best actress, best supporting role,best editing and costume and set design",0,0,inzam kyle,HszfdNS0JSc,0.5625,2016-05-03 11:16:32,True,True
+2016-05-03T14:39:08,I'm familiar with this true story. This should be very good!,2,0,Randall C,HszfdNS0JSc,0.5750000000000001,2016-05-03 14:39:08,True,True
+2016-05-03T17:19:24,"""People may say I can't sing,"" she said, ""but no one can ever say I didn't sing.""",429,1,Puja Sharma,HszfdNS0JSc,0.0,2016-05-03 17:19:24,True,True
+2016-05-03T18:06:39,This reminds me of a French movie which has the same storyline! rip-off?,0,2,N R,HszfdNS0JSc,-0.13333333333333333,2016-05-03 18:06:39,True,True
+2016-05-03T18:59:40,MAY BE ANOTHER OSCAR FOR MERYL!?,1,0,Eyob Workineh,HszfdNS0JSc,0.0,2016-05-03 18:59:40,True,True
+2016-05-03T19:14:49,I see another Oscar here!! :),7,0,ankur chaudhary,HszfdNS0JSc,0.5,2016-05-03 19:14:49,True,True
+2016-05-03T19:44:49,this ho has been my hero for years. this is the best,0,0,M Moriarty,HszfdNS0JSc,1.0,2016-05-03 19:44:49,True,True
+2016-05-04T15:57:25,"Free Live Sex Cam Show, Exclusive Unlimited Access:      BabeGirlsHere.BlogSpot------------------c0m",0,0,Eric Muller,HszfdNS0JSc,0.2681818181818182,2016-05-04 15:57:25,True,True
+2016-05-05T09:30:36,"Would be a remarkable, even somewhat amusing  story, were it not a tale of our modern times,  in that this has become the standard story of most talent for contemporary artists who are feted stars.",1,0,Max Marshall,HszfdNS0JSc,0.3694444444444444,2016-05-05 09:30:36,True,True
+2016-05-05T11:51:01,This is fake! Taylor Swift should play Florence..... Because Meryl can sing in real life..,23,2,Countrycowboy08,HszfdNS0JSc,-0.2125,2016-05-05 11:51:01,True,True
+2016-05-06T10:10:20,"She is so perfect,whatever she does!!! Love her!!!!",0,0,Maarit Haapa,HszfdNS0JSc,1.0,2016-05-06 10:10:20,True,True
+2016-05-06T12:17:02,"Hey, it's nice to see Howard do some serious acting. Not like he needs the cash, so it's nice to see actors acting for the love of it.",0,0,West Facing,HszfdNS0JSc,0.22777777777777777,2016-05-06 12:17:02,True,True
+2016-05-06T18:30:24,this is going to make me cry,0,0,Jirrio,HszfdNS0JSc,0.0,2016-05-06 18:30:24,True,True
+2016-05-07T12:30:33,So... Meryl being in it is enough for me to watch. She makes me cry even on the trailers <3,2,0,Joana K.,HszfdNS0JSc,0.5,2016-05-07 12:30:33,True,True
+2016-05-07T18:34:57,the manifesto of the nobody in need to be a genius,0,0,Lohengrin O,HszfdNS0JSc,0.0,2016-05-07 18:34:57,True,True
+2016-05-08T16:00:36,Idk why am i crying... 😂,0,0,Abraham Ewaldo,HszfdNS0JSc,-0.2,2016-05-08 16:00:36,True,True
+2016-05-08T18:57:37,Finally a different role for Hugh Grant that always plays the same character over and over again,37,0,Giulia Manente,HszfdNS0JSc,0.0,2016-05-08 18:57:37,True,True
+2016-05-10T15:29:30,This looks wonderful!!,0,0,Kristin Witcher,HszfdNS0JSc,1.0,2016-05-10 15:29:30,True,True
+2016-05-10T18:28:54,Does anyone know the name of the music from 1:02?,0,1,Lollex4,HszfdNS0JSc,0.0,2016-05-10 18:28:54,True,True
+2016-05-11T20:24:20,I didn't saw the French version (Marguerite) but I really want to watch this one !,0,0,Raphael,HszfdNS0JSc,0.125,2016-05-11 20:24:20,True,True
+2016-05-13T18:15:33,"At 1:25 I was sure he was going to say ""I lost my left leg at Guadalcanal, but THIS WAS WORSE!""",1,0,EmpiricalPragmatist,HszfdNS0JSc,0.0,2016-05-13 18:15:33,True,True
+2016-05-16T16:14:59,"Saw this, it's out in most of the world outside the US. Loved it! All three of the main cast were awesome. It's quite a sad movie but not without some lighter and funnier moments too. Someone will get an Oscar nod for this film but not sure it'll be Meryl. For once, her co-star (Hugh Grant) seems to be getting the critics' attention more. I'd love a supporting nod for Simon Helberg too.",0,0,AJB3,HszfdNS0JSc,0.3041666666666667,2016-05-16 16:14:59,True,True
+2016-05-16T19:54:48,I cannot wait to see this movie.,6,0,Caroline Locke,HszfdNS0JSc,0.0,2016-05-16 19:54:48,True,True
+2016-05-17T07:49:49,she looks like Future lol,0,0,Brieanna Williams,HszfdNS0JSc,0.4,2016-05-17 07:49:49,True,True
+2016-05-17T22:35:24,"Anna Russell once said that Florence Foster Jenkins had one good note in the vocal range: e above high-c. Bravo, Meryl. Only you could carry this off. We can't wait to see the film.",0,0,Kinopanorama Widescreen Preservation Association Incorporated,HszfdNS0JSc,0.2333333333333333,2016-05-17 22:35:24,True,True
+2016-05-18T23:03:46,Priceless. Another Meryl Streep powerhouse performance.,8,0,Aura Hyel,HszfdNS0JSc,1.0,2016-05-18 23:03:46,True,True
+2016-05-20T14:25:37,"I saw this today. It was funny but also very touching, especially the end",0,0,John M,HszfdNS0JSc,0.3,2016-05-20 14:25:37,True,True
+2016-05-25T03:37:29,"I'm looking forward to this one. :)  Meryl Streep is a great actress, and I love director Stephen Frears! :)",0,0,Nick Canino,HszfdNS0JSc,0.60625,2016-05-25 03:37:29,True,True
+2016-05-29T08:09:44,"Is it just me, or is Hugh Grant rapidly and disturbingly turning into Edward Fox.........just me?",0,0,Unice Fidiots,HszfdNS0JSc,-0.5,2016-05-29 08:09:44,True,True
+2016-06-02T01:03:36,"so it's not how good or skilled you are, it's how much of a special snowflake you are?",0,0,B K,HszfdNS0JSc,0.5190476190476191,2016-06-02 01:03:36,True,True
+2016-06-03T09:42:57,"i refuse to believe that is meryl streep. no, that's florence jenkins.",2,0,Zielda Winligg,HszfdNS0JSc,0.0,2016-06-03 09:42:57,True,True
+2016-06-04T00:18:00,you know who this reminds me of? yoko ono,0,0,Issachar Bacang,HszfdNS0JSc,0.0,2016-06-04 00:18:00,True,True
+2016-06-04T05:34:33,hi.  i want to share something ...  i saw this film few days ago. the film is nice..i experienced the same in my life recently....i think on Friday i catch the train to harries park while my journey i so pissed off and disturbed... you know about train everyone is busy with their cell phones... so i want to get rid of my disturbed mind and make myself happy so what i did is while i am listening to the songs at the same time i am singing... to be honest i am really bad at singing.... i am singing out loud and everyone is laughing the male and female who are sitting behind me she is laughing out loud and the male trying to stop me from singing..i know that everyone is laughing and its sound funny any way i don't care about  them but it changed my mood from some thing disgusting to happiness when i reached the station all i feel is happy by just recalling what i did in the train....   i am telling you this because when i saw this film i am laughing out loud by seeing the character and by remembering my what i did in train (i am laughing at myself as well as the character).....they are pretty much similar....,0,0,vicky micky,HszfdNS0JSc,0.12272727272727275,2016-06-04 05:34:33,True,True
+2016-06-09T21:07:25,I am SO looking forward to seeing this movie!,0,0,Gloria Cotton,HszfdNS0JSc,0.0,2016-06-09 21:07:25,True,True
+2016-06-13T15:32:52,I'm so happy for Simon Helberg! He's so talented and deserves more recognition.,343,8,WinterLucy,HszfdNS0JSc,0.7333333333333334,2016-06-13 15:32:52,True,True
+2016-06-13T18:30:18,amz,0,0,Elmer D. Andrews,HszfdNS0JSc,0.0,2016-06-13 18:30:18,True,True
+2016-06-14T10:11:57,"Wonder if this film exposes the outright ""hype"" that much of the opera world lives on?",0,0,Timothy Price,HszfdNS0JSc,0.2,2016-06-14 10:11:57,True,True
+2016-06-16T05:57:45,sigh .. hugh grant is getting old .. so am I .. time flies,0,0,Nishant Katoch,HszfdNS0JSc,0.1,2016-06-16 05:57:45,True,True
+2016-06-16T17:42:51,But that is a remake of Marguerite!! A french movie that was shown last year.,0,0,Loan TRAN-THANH,HszfdNS0JSc,0.0,2016-06-16 17:42:51,True,True
+2016-06-19T04:35:27,"Hugh Grant is 55, meanwhile Meryl Streep is 66...the ages look reversed lol",109,2,Casey Beres,HszfdNS0JSc,0.8,2016-06-19 04:35:27,True,True
+2016-06-21T15:54:09,Meryl Streep x Catherine Frot? Interesting,0,0,Thaís Gonçalves,HszfdNS0JSc,0.5,2016-06-21 15:54:09,True,True
+2016-06-23T16:32:13,Wow! Meryl Streep comes out with a movie very year & sure she'll have Oscar & Golden Globe nominations.,0,0,Rcker31BDrinkN,HszfdNS0JSc,0.28125,2016-06-23 16:32:13,True,True
+2016-06-23T17:57:10,she is a shapeshifter,0,0,lia k,HszfdNS0JSc,0.0,2016-06-23 17:57:10,True,True
+2016-06-26T18:00:46,"Meh, it will never be better than the french version, Marguerite",10,6,Manutallu,HszfdNS0JSc,0.25,2016-06-26 18:00:46,True,True
+2016-06-28T20:16:21,actors have a nice hairstyle :),0,0,Michał Pająk,HszfdNS0JSc,0.55,2016-06-28 20:16:21,True,True
+2016-06-29T04:14:40,she is so perfect 😍. THE BEST ACTRESS IN THE WHOLE WILD WORLD 👌👌,5,0,jois -.-,HszfdNS0JSc,0.5750000000000001,2016-06-29 04:14:40,True,True
+2016-07-03T16:56:54,Howard wolowiz,1,0,LS Yeung,HszfdNS0JSc,0.0,2016-07-03 16:56:54,True,True
+2016-07-05T02:13:30,"Glad Howard's not getting type cast, o wait, I mean Simon Helberg",0,0,Burbing Berries,HszfdNS0JSc,0.09375,2016-07-05 02:13:30,True,True
+2016-07-06T23:34:15,"I can't wait for this movie! I've been a FFJ fan since the early 1950's when I was introduced to her legendary voice by Maura K. Wedge-Who starred with Richard Kiley in ""Man of La Mancha"". Meryl Streep is perfect for this role.",0,0,Erin Kennedy,HszfdNS0JSc,0.7000000000000001,2016-07-06 23:34:15,True,True
+2016-07-09T01:12:31,"Maravillosa película, me divirtió, me emocionó,!!!!!! Brillan Meryl Streep y Hugh Grant!!!!",0,0,Mirta Mabels,HszfdNS0JSc,0.0,2016-07-09 01:12:31,True,True
+2016-07-09T08:41:33,This is so adorable!,0,0,Cao Sam,HszfdNS0JSc,0.625,2016-07-09 08:41:33,True,True
+2016-07-09T22:56:59,"In the middle of the 90's, David Bowie was one of the first person who  talked about Florence Foster Jenkins (in interviews), and made her story more ""popular"" and well know. This year, they discovered that her vinyl was still in Bowie's TOP 25 favourite records of all time ... Looks like ""The Man Who Fell To Earth"" felt our future. And the circle of life goes on !",21,0,The Woman With No Head,HszfdNS0JSc,0.30833333333333335,2016-07-09 22:56:59,True,True
+2016-07-11T05:03:39,"Oh my, I think Oscar is calling Meryl's Name.  But, I am not so sure the Academy will give her forth Oscar...But, we can only hope....love you Meryl!!",0,0,Benjamin Vincent,HszfdNS0JSc,0.25,2016-07-11 05:03:39,True,True
+2016-07-11T15:14:55,SOBERBIA MERYL STREEP. ADORABLE PELÍCULA. THE OSCAR GOES TO...THE BEST: MERYL.,0,0,Patricia RABBIOSI ARONA,HszfdNS0JSc,0.75,2016-07-11 15:14:55,True,True
+2016-07-15T04:13:45,So glad to see Simon Helberg working alongside a legend like Meryl Streep and a fantastic actor like Hugh Grant. I really love Simon and wanted to see him in a good film. This seems like a pretty good one. :),3,0,bhawesh bhimani,HszfdNS0JSc,0.5071428571428571,2016-07-15 04:13:45,True,True
+2016-07-16T04:51:24,"what makes Miss Streep so great is the fact that she has the unique talent to see and feel the soul of the person that she is playing...she can identify with the human condition, the human soul for what it is.  I admire such a talent...because, she shows us we are are not so different--- that-- as she once said, and I paraphrase, we have the germ of everyone inside of us.  Thank you Miss Streep....Thank you for helping us to look at ourselves with your incredible talent..your art continues to make us better human beings.  Love ya!!!",1,0,Benjamin Vincent,HszfdNS0JSc,0.35515625,2016-07-16 04:51:24,True,True
+2016-07-16T13:59:59,"There is no one like her! The Oscar it's like lollipop for such an extraordinary wonderful actress, just not enough",0,0,NACHEL,HszfdNS0JSc,0.3333333333333333,2016-07-16 13:59:59,True,True
+2016-07-17T12:45:33,A Mc Melody é a reencarnação da Florence rs,0,0,Fagner Morales,HszfdNS0JSc,0.0,2016-07-17 12:45:33,True,True
+2016-07-17T21:36:18,I. Cannot. Wait! She is one of my all time favorite people from history being portrayed by one of my all time favorite actors : ) SO EXCITED!,2,0,TheSongNinja,HszfdNS0JSc,0.4921875,2016-07-17 21:36:18,True,True
+2016-07-18T16:02:12,Reminds me of a Ravens cheerleader who was in her 40s. Her husband was a millionaire and a CEO of a large company in Baltimore.  So she was able to convince everyone she looks like a teenager. :-),0,0,Eva Sawicka,HszfdNS0JSc,0.4047619047619048,2016-07-18 16:02:12,True,True
+2016-07-19T07:59:54,"""This is what we live for, isn't it? This... moment."" I'm a singer and I totally get that. The trailer alone made me cry, I have a feeling that this movie will wreck me.",283,7,Gui Porto,HszfdNS0JSc,0.06818181818181818,2016-07-19 07:59:54,True,True
+2016-07-20T07:16:17,god bless you miss strep god bless you  a womens dream come to life amen amen.,4,0,Miss. Phyllis Renee Foster,HszfdNS0JSc,0.0,2016-07-20 07:16:17,True,True
+2016-07-20T07:39:34,Wow! I like retro style anything! I'm watching this movie!😋😋😋😋,3,0,Anamaria Rodriguez,HszfdNS0JSc,0.15625,2016-07-20 07:39:34,True,True
+2016-07-20T18:42:52,This may get Hugh Grant an Oscar Nomination and The Piano Player an Oscar Nomination Too.  Meryl Streep is next to Cate Blanchett one of The World's Greatest Acting Treasures.,27,4,laminage,HszfdNS0JSc,0.3333333333333333,2016-07-20 18:42:52,True,True
+2016-07-21T18:53:40,"so so lovely to see history and real people come together. In the USA only Miss Streep, a beautiful woman and the only woman who person has the Moxy, intelligence and personal confidence to play this character. America please stop insisting only 20 something's are ""beautiful and saleable"" there is not one coming up right now with the dignity and future of M Streep. Rich kids in L.A. you have a load of talent but no respect...respect lasts so much longer than your looks.....sadly you are so so invested in the photos snapchats twitter feed and ads you can never meet in most peoples eyes.....Respect is not based on plastic surgery, fads, shock jocks and spin doctors. Remember when you are 60 that tattoo and that ""story"" are going to look different......",2,0,Victoria Beattie,HszfdNS0JSc,0.2686224489795918,2016-07-21 18:53:40,True,True
+2016-07-25T23:22:56,"TBH, when I saw ""Howard,"" (from Big Bang Theory), I FREAKED OUT",0,0,TheDuffyLONER64,HszfdNS0JSc,0.0,2016-07-25 23:22:56,True,True
+2016-07-27T05:13:26,"vamos por otro oscar mery ,la mejor no puedo esperar mas por esta peliii",0,0,BONUS TRACK,HszfdNS0JSc,0.0,2016-07-27 05:13:26,True,True
+2016-07-30T02:42:56,Like Anne Curtis.,0,0,Krizza Hedia,HszfdNS0JSc,0.0,2016-07-30 02:42:56,True,True
+2016-07-30T12:11:04,"It's not how good you are, it's how much money you have",1,0,Arekun,HszfdNS0JSc,0.44999999999999996,2016-07-30 12:11:04,True,True
+2016-07-30T17:27:29,Thanks so very much for making this awesome movie!!! Ps. 69:30-32.,0,0,Dr. Edwconr,HszfdNS0JSc,0.48666666666666664,2016-07-30 17:27:29,True,True
+2016-08-01T18:25:46,... One of  the  Few  Films  that's  worthy of our Time & Money.,0,0,Stevie Sugano,HszfdNS0JSc,0.06666666666666665,2016-08-01 18:25:46,True,True
+2016-08-02T03:35:37,"What's up with the ""epic"" orchestral soundtrack out of central casting? Shouldn't film music take some inspiration from its subject? I would have gone with a piano score with operetta and parlour music rather than something more appropriate for ""Gettysburg.""",0,0,Thomas Busse,HszfdNS0JSc,0.18666666666666668,2016-08-02 03:35:37,True,True
+2016-08-02T04:34:12,"I saw this as a trailer before watching Ghostbusters and I was shocked at myself. I've never cried in things like these, especially a trailer. I've never related to a movie as much as this and I can't wait to see it myself :)",0,0,BeAnime xx,HszfdNS0JSc,1.1102230246251566e-17,2016-08-02 04:34:12,True,True
+2016-08-02T06:26:24,HOWARD! WHAT ARE YOU DOING HERE *Howard's mom's voice*,13,0,S B,HszfdNS0JSc,0.0,2016-08-02 06:26:24,True,True
+2016-08-02T11:12:50,"Just when we thought 'Ricky and the Flash' was the most suckass movie of all time, this shit appears.",1,0,fuzzy cordle,HszfdNS0JSc,0.15,2016-08-02 11:12:50,True,True
+2016-08-02T13:44:26,"The King's speech, but singing",0,0,Jack,HszfdNS0JSc,0.0,2016-08-02 13:44:26,True,True
+2016-08-03T12:41:28,And the oscar goes to... Simon Helberg !!!,49,1,THE .ANIMARTIN,HszfdNS0JSc,0.0,2016-08-03 12:41:28,True,True
+2016-08-05T11:31:51,O ja pierdo*e... muszę to zobaczyć....,0,0,Art. DD,HszfdNS0JSc,0.0,2016-08-05 11:31:51,False,True
+2016-08-05T16:25:15,"JC it's another one of those movies about how ""talents don't matter.""  Yeah, every voice deserves to be heard-tell that to all the struggling aspiring opera singers out there who can sing way better than FFJ, without such a privilege of being a wealthy heiress.",2,1,Luceafarul,HszfdNS0JSc,0.3333333333333333,2016-08-05 16:25:15,False,True
+2016-08-06T05:37:23,This trailer deserves an Oscar.,2,0,Joe Smith,HszfdNS0JSc,0.0,2016-08-06 05:37:23,False,True
+2016-08-06T14:52:37,Feminism empowered! yay!,0,0,Andre Batris,HszfdNS0JSc,0.0,2016-08-06 14:52:37,False,True
+2016-08-07T05:54:16,"Florence Foster Jenkins is still a better singer than a lot of performers of this generation like Katy Perry,  Nicki Minaj, Selena Gomez and the list goes on.",0,0,Angie Rivera,HszfdNS0JSc,0.5,2016-08-07 05:54:16,False,True
+2016-08-07T18:16:31,another performance streep utterly MASTERS,0,0,Anthony Assadourian,HszfdNS0JSc,0.0,2016-08-07 18:16:31,False,True
+2016-08-08T09:36:46,"The whole story including the ending, all in two minutes. Don't need to see the movie now.",0,1,david,HszfdNS0JSc,0.2,2016-08-08 09:36:46,False,True
+2016-08-08T12:09:44,4th Oscar loading...,2,0,Special Dancer,HszfdNS0JSc,0.0,2016-08-08 12:09:44,False,True
+2016-08-08T22:55:29,I just earned this movie for free. WHY!?! THIS LOOKS LIKE THE LAMEST CRAP EVER.,4,6,Bruce Wayne,HszfdNS0JSc,-0.08750000000000002,2016-08-08 22:55:29,False,True
+2016-08-09T07:09:01,Howard is in a movie,0,0,dflowers30,HszfdNS0JSc,0.0,2016-08-09 07:09:01,False,True
+2016-08-09T08:10:00,Im here for haward walawitz however you spell it,2,0,Gabriel Rocha,HszfdNS0JSc,0.0,2016-08-09 08:10:00,False,True
+2016-08-09T19:17:44,oh the overly talented Meryl Streep I love her so much I have watched all her movies and she has done equally well in all of them,0,0,Marcia Davis,HszfdNS0JSc,0.35,2016-08-09 19:17:44,False,True
+2016-08-10T16:16:17,i am so watching this movie,0,0,blacksheepink,HszfdNS0JSc,0.0,2016-08-10 16:16:17,False,True
+2016-08-10T18:07:49,I cannot wait for this movie to come out! I feel an another win coming! ;),0,0,Emina,HszfdNS0JSc,0.625,2016-08-10 18:07:49,False,True
+2016-08-11T00:17:37,"...and the Oscar goes to............somebody else! This movie looks and sounds so shallow and cliche ridden. Nope, it's not good.",0,2,Karl Lieck,HszfdNS0JSc,-0.3416666666666667,2016-08-11 00:17:37,False,True
+2016-08-11T13:03:20,"Something tells me that it was a terrible, *terrible* mistake telling my generation about Florence Foster Jenkins.  We're *already* up to our eyeballs in confidence and entitlement despite having absolutely no talent or skill to speak of.",118,18,Emiscary1,HszfdNS0JSc,-0.7000000000000001,2016-08-11 13:03:20,False,True
+2016-08-11T15:19:51,I love her.,0,0,R g,HszfdNS0JSc,0.5,2016-08-11 15:19:51,False,True
+2016-08-11T17:04:18,Double toasted brought me here,0,0,Ziad Obaid,HszfdNS0JSc,0.0,2016-08-11 17:04:18,False,True
+2016-08-11T18:37:01,"Wow, that was a great trailer! Reminds me of the 90's comedy-dramas like Mrs. Doubtfire.",0,0,Tyler Cairns,HszfdNS0JSc,0.55,2016-08-11 18:37:01,False,True
+2016-08-11T18:38:28,Stopped 1min into this movie summery because I might actually want to go see it.,0,0,Lu Tello,HszfdNS0JSc,0.0,2016-08-11 18:38:28,False,True
+2016-08-12T02:00:16,I loved this movie.  Not everyone will adore this but it will become a cult classic.,4,0,Gregory Jones,HszfdNS0JSc,0.4333333333333333,2016-08-12 02:00:16,False,True
+2016-08-13T01:40:59,Mrs. Forence Foster Jenkins lived a 'larger than life' way and certainly deserves the BIG screen! five star performances from both Meryl Streep and Hugh Grant.,2,0,Dr. Edwconr,HszfdNS0JSc,0.07142857142857142,2016-08-13 01:40:59,False,True
+2016-08-13T02:10:19,"Florence Foster Jenkins is one of my favorite figures in Pop Culture, it's about time she had wider exposure. And there's nobody better to portray her.",0,0,Harry Krinkle,HszfdNS0JSc,0.5,2016-08-13 02:10:19,False,True
+2016-08-13T03:17:53,"DOS PALABRAS: JOSE, JOSE.",0,0,Una mexicana en Mexico,HszfdNS0JSc,0.0,2016-08-13 03:17:53,False,True
+2016-08-13T08:00:01,u do know u dont need to give the whole storyline away to make a good trailer right ???????????????????????????????????????????????????????????????????????? ? ??????????? /?///,3,1,Jade Nguyen,HszfdNS0JSc,0.39523809523809517,2016-08-13 08:00:01,False,True
+2016-08-14T03:34:07,i saw this movie today.  this lady had a special guardian angel in her life.   it is a lovely and simple movie.  a very touching story.  all the actors are wonderful. The part where she plays the piano brought tears to my eyes.   Hugh Grant was absolutely wonderful.  I think Meryl had competition in this movie.  Go see it.  PS: Absolutely LOVE the crown of stars she wore.  Meryl wore it with great panache.  I hope Meryl got to keep it and wear it at every opportunity.,0,0,anastasia46,HszfdNS0JSc,0.6008928571428571,2016-08-14 03:34:07,False,True
+2016-08-14T21:44:31,"Streep and Grant are wonderful, BUT Simon steals the show !",2,0,willie mnatzakanian,HszfdNS0JSc,1.0,2016-08-14 21:44:31,False,True
+2016-08-15T00:21:40,i cant wait to see this,0,0,Felicia Mabe,HszfdNS0JSc,0.0,2016-08-15 00:21:40,False,True
+2016-08-15T01:38:43,She really does deserve every award. I saw this movie and was amazed how she was able to play the part singing such bad notes. And her performance in Julie & Julia - I grew up watching the real Julia Child Cooking program and she acted and sounded just like her - totally amazing. You may not like her but she is gifted for sure.,0,0,Stacie John,HszfdNS0JSc,0.22500000000000003,2016-08-15 01:38:43,False,True
+2016-08-15T13:59:25,Florence Foster Jenkins (2016) HD Full  Watch/Download : https://twitter.com/HDMOVIEPRODUCT/status/765178370539655170  Florence Foster Jenkins (2016) HD Full  Watch/Download : https://twitter.com/HDMOVIEPRODUCT/status/765178370539655170  Florence Foster Jenkins (2016) HD Full  Watch/Download : https://twitter.com/HDMOVIEPRODUCT/status/765178370539655170,1,0,Sakura Menez,HszfdNS0JSc,0.3499999999999999,2016-08-15 13:59:25,False,True
+2016-08-16T01:45:10,"Meryl Streep is 12 years older than Hugh, but looks 20 years younger. Must be all the over emphatic facial movements the British use to pronounce each word.",0,0,Speedy Gunz,HszfdNS0JSc,0.041666666666666664,2016-08-16 01:45:10,False,True
+2016-08-16T09:04:18,Ah there is Howard from big bang,9,4,1nice Paprikaschote,HszfdNS0JSc,0.0,2016-08-16 09:04:18,False,True
+2016-08-16T22:04:05,"My name is Florence lol,feel so happy and special for no reason😂",0,0,Florence Rivas,HszfdNS0JSc,0.5785714285714286,2016-08-16 22:04:05,False,True
+2016-08-17T06:32:56,i smell oscar nominations,2,0,Angela Tatoy,HszfdNS0JSc,0.0,2016-08-17 06:32:56,False,True
+2016-08-18T18:08:14,"A bitter sweet story, Loved it. Mr Moon stole the show.",6,0,F. Guy Glover,HszfdNS0JSc,0.31666666666666665,2016-08-18 18:08:14,False,True
+2016-08-19T08:54:31,"Before Miranda Sings, there was the incredible Florence Foster Jenkins!",84,1,Charles Lumpkin,HszfdNS0JSc,1.0,2016-08-19 08:54:31,False,True
+2016-08-20T00:40:19,This looks awfully sad. :(,0,1,Marta Bergen,HszfdNS0JSc,-0.625,2016-08-20 00:40:19,False,True
+2016-08-20T00:53:01,YES!!!,0,0,Padra Maria Herrera,HszfdNS0JSc,0.0,2016-08-20 00:53:01,False,True
+2016-08-20T01:14:33,"I want to see it. I wanted to be a singer - a whole lot, but I was never very good. I even met my husband, a drummer (long ago) going to see if his band would play along with me. Have a wonderful child but lost the husband long ago. I still love singing and my dogs like me to sing.  I have done a solo, plan to again in church but mostly because of the feelings behind it.  I think this will be a heck of a movie for me.",0,0,Leah Shirokoff,HszfdNS0JSc,0.17884615384615388,2016-08-20 01:14:33,False,True
+2016-08-20T04:46:36,Just saw the movie.  No words.  No words!,0,0,sbeallvln,HszfdNS0JSc,0.0,2016-08-20 04:46:36,False,True
+2016-08-20T21:14:59,Streep and Grant😍😍,0,0,Aish,HszfdNS0JSc,0.0,2016-08-20 21:14:59,False,True
+2016-08-23T00:20:55,"I work at a movie theatre and I'm very certain that everyone that's ever seen this movie is old enough to be my father's father lol, no offence.",0,0,Tymel Thompson,HszfdNS0JSc,0.29464285714285715,2016-08-23 00:20:55,False,True
+2016-08-23T02:00:32,"The movie didn't come close to Florence in looks at all.  They gave us a funny moving movie, but with Hyacinth Bucket from ""Keeping Up Appearances'.  I swear, I was waiting for Onslow and Daisy to show up at Carnegie Hall.",0,1,snowden67,HszfdNS0JSc,0.25,2016-08-23 02:00:32,False,True
+2016-08-24T21:28:24,A living legend. I totally love her!,0,0,Norge Santana,HszfdNS0JSc,0.625,2016-08-24 21:28:24,False,True
+2016-08-25T02:44:10,I so want to see thissss,0,0,"Invalid Name. Please, Try Again.",HszfdNS0JSc,0.0,2016-08-25 02:44:10,False,True
+2016-08-25T16:40:34,For me: Florence and the Machine 1930.,3,0,KristVladić,HszfdNS0JSc,0.0,2016-08-25 16:40:34,False,True
+2016-08-25T21:04:13,"I listen to the original Florence sing on YouTube and she sounds terrible lol but maybe this movie will give me another perspective on her. I listen to her songs for a laugh, and I feel the movie will make me feel bad.",0,0,Kelli Smith,HszfdNS0JSc,-0.044999999999999964,2016-08-25 21:04:13,False,True
+2016-08-25T22:50:00,looks like a movie for old people lol,0,0,Irish Red,HszfdNS0JSc,0.45,2016-08-25 22:50:00,False,True
+2016-08-26T05:23:08,I heard some actual 78's of her @ 1960.  I can attest to the fact that the voice in the trailer is much better than the actual Florence Foster Jenkins on those records.  I believe there are places online that have some of the actual recordings that I had heard.  That there is a movie about this amazes me but then at this stage of American culture not much amazes me anymore. :),0,0,Albert S.,HszfdNS0JSc,0.1285714285714286,2016-08-26 05:23:08,False,True
+2016-08-28T12:01:55,I saw this yesterday and I LOVED it!!,0,0,FlawlessSelMarie,HszfdNS0JSc,1.0,2016-08-28 12:01:55,False,True
+2016-08-30T16:25:21,"This is very similar to the french film ""Marguerite"", except I don't know how Jenkins did on her big performance. Marguerite however, went beyond her limits and damaged her health in her big performance.",0,1,Minh N.,HszfdNS0JSc,0.0,2016-08-30 16:25:21,False,True
+2016-08-31T15:24:38,"I can't wait to see this she seems like the Ed Wood of singers but by god you are rooting for her to win! just like you hopped Ed wouldn't make terrible horror scfi movies yet everyone of them was,some how you still want them to win!",0,0,Wilhelmina Ryan,HszfdNS0JSc,0.3333333333333333,2016-08-31 15:24:38,False,True
+2016-09-01T04:04:45,Great movie.,0,0,Violet Urdanivia,HszfdNS0JSc,0.8,2016-09-01 04:04:45,False,True
+2016-09-02T02:18:05,Reminds me a lil bit of the movie Marguerite (2015) .,0,0,guest,HszfdNS0JSc,0.0,2016-09-02 02:18:05,False,True
+2016-09-02T04:38:16,just watched this... it was simply amazing.,2,0,Hiro Matsune,HszfdNS0JSc,0.6000000000000001,2016-09-02 04:38:16,False,True
+2016-09-03T06:21:48,IM IN LOVE WITH SIMON HELBERG'S COSME MCMOON. HES SO AWKWARD BUT HANDSOME AND CUTE,0,0,"Invalid Name. Please, Try Again.",HszfdNS0JSc,0.225,2016-09-03 06:21:48,False,True
+2016-09-03T07:57:19,looks like absolute shite. stop making dog wank films.,0,1,Mark Brown,HszfdNS0JSc,0.2,2016-09-03 07:57:19,False,True
+2016-09-03T14:26:45,Loved it !!,0,0,Black Beads,HszfdNS0JSc,1.0,2016-09-03 14:26:45,False,True
+2016-09-03T19:03:00,another waste of time :p,0,0,Broncosoft,HszfdNS0JSc,0.275,2016-09-03 19:03:00,False,True
+2016-09-03T22:58:15,I am going to watch this tonight  To bad one of my least favourite things is opera and very high noises :/ Tonight will be interesting. :l,0,0,Dee-Ann Schwanke,HszfdNS0JSc,-0.10839999999999997,2016-09-03 22:58:15,False,True
+2016-09-04T15:06:49,Looks like a good movie to put on for mom :),0,0,Candi Soda,HszfdNS0JSc,0.6,2016-09-04 15:06:49,False,True
+2016-09-04T21:24:36,"We can't keep giving streep oscars but... lovely performance from Grant too.  Laughed and cried, this movie is a winner (for old people).",0,0,sunshineuk1965,HszfdNS0JSc,0.43333333333333335,2016-09-04 21:24:36,False,True
+2016-09-05T09:51:12,"I watched this movie and all the three were fantastic: Meryl, Hugh, and Simon.",0,0,modarXmodar,HszfdNS0JSc,0.4,2016-09-05 09:51:12,False,True
+2016-09-05T09:53:19,This trailer gives waaaaay too much,0,0,modarXmodar,HszfdNS0JSc,0.2,2016-09-05 09:53:19,False,True
+2016-09-05T19:39:21,"The song Florence sings while in a dream and-- with perfect voice-- at the end of the movie is so beautiful and moving.Can anyone tell me where I can hear this song.  Also, the words to the song were poetic.Everyone cast in this wonderful, heart-warming movie is a delight.",0,0,William McNeill,HszfdNS0JSc,0.9500000000000001,2016-09-05 19:39:21,False,True
+2016-09-05T20:27:10,I love Meryl Streep and I can't wait to see this film!.. but... why did they have to show the whole movie in a trailer?!... :(,0,0,Julia Bateman,HszfdNS0JSc,0.041666666666666664,2016-09-05 20:27:10,False,True
+2016-09-05T21:59:02,It's like the Kings speech  but different,0,0,broadcastneo,HszfdNS0JSc,0.0,2016-09-05 21:59:02,False,True
+2016-09-05T22:48:56,best movie ever,0,0,Raya Ass,HszfdNS0JSc,1.0,2016-09-05 22:48:56,False,True
+2016-09-06T05:00:00,"This should have been a cautionary tale about delusion, ego,  and the power of money. Apparently, it's an inspirational yarn about a delightful underdog. I guess we should all quit our day jobs because we're all exceptional? Give me a break.",0,2,The Bachelors of Music,HszfdNS0JSc,0.5166666666666666,2016-09-06 05:00:00,False,True
+2016-09-08T12:43:24,"the best movie ever! I don't know who is a genius here, Meryl or Simon Helberg. They are both so sweet and funny, I couldn't stop laughing at them both",0,0,jesa,HszfdNS0JSc,0.5333333333333333,2016-09-08 12:43:24,False,True
+2016-09-09T18:00:33,A typical display of white privilege,0,1,Abel Khonela,HszfdNS0JSc,-0.08333333333333333,2016-09-09 18:00:33,False,True
+2016-09-09T21:46:13,Hyacinth Bucket if she actually went into the music biz. haha,0,0,Margo Gadet,HszfdNS0JSc,0.1,2016-09-09 21:46:13,False,True
+2016-09-09T21:53:56,Saw it,0,0,Martin gardner,HszfdNS0JSc,0.0,2016-09-09 21:53:56,False,True
+2016-09-10T02:46:46,Please Meryl Streep stay with us forever so we may continue seeing your brilliant work,0,0,throughthelookingglass,HszfdNS0JSc,0.9,2016-09-10 02:46:46,False,True
+2016-09-10T14:07:46,"As much as I laughed to Meryl streep's voice in this movie, as much as I enjoyed watching this unique actress at one of  her greatest performances. She is simply Sensational.",8,0,Ismail Meziani,HszfdNS0JSc,0.6483333333333333,2016-09-10 14:07:46,False,True
+2016-09-11T07:00:28,somehow meryl and hugh should at least have a nominaton,0,0,Wahhab Aras Purnama,HszfdNS0JSc,-0.3,2016-09-11 07:00:28,False,True
+2016-09-11T17:59:23,"BEST MOVIE, EVERRRR!!!",0,0,Antoneta Alina,HszfdNS0JSc,1.0,2016-09-11 17:59:23,False,True
+2016-09-11T22:24:57,Es copia de una pelicula francesa ya hecha (marguerite 2015) ! Pero meryl es buenaza,0,0,Alonso Arambula,HszfdNS0JSc,0.0,2016-09-11 22:24:57,False,True
+2016-09-14T02:19:28,Is this when America was great according to Trump?,0,1,Robert Paulson,HszfdNS0JSc,0.8,2016-09-14 02:19:28,False,True
+2016-09-14T18:07:47,Perhaps it would be better if they would tell her that she can't sing,0,2,LOIZOS V,HszfdNS0JSc,0.5,2016-09-14 18:07:47,False,True
+2016-09-16T16:49:05,Wolowitz cracks me up everytime i see his face,12,0,Left Hook,HszfdNS0JSc,0.0,2016-09-16 16:49:05,False,True
+2016-09-17T18:02:20,Brilliant acting! Seriously. They made me care so much for the character Florence in this movie up to the point that seeing her mocked and laughed at made me protective of her.,40,0,jingle dot,HszfdNS0JSc,0.29333333333333333,2016-09-17 18:02:20,False,True
+2016-09-18T12:45:54,Meryl is a Genius!,3,0,SaBi NuKi,HszfdNS0JSc,0.0,2016-09-18 12:45:54,False,True
+2016-09-18T16:11:06,It's Jacob Sartorius,0,0,chloe ulrich,HszfdNS0JSc,0.0,2016-09-18 16:11:06,False,True
+2016-09-20T11:57:00,I got goosebumps after 30 seconds of this trailer...,0,0,tylerjosephisanangel,HszfdNS0JSc,0.0,2016-09-20 11:57:00,False,True
+2016-09-21T03:46:13,"I LOVE this movie!! I went to see it 4 1/2 times! It really needs to take home all the Oscars. The cast was amazing, and the soundtrack by awesome Alexandre Desplat was beautiful!!!",3,0,Spencer Frank Clayton,HszfdNS0JSc,0.7553124999999999,2016-09-21 03:46:13,False,True
+2016-09-21T03:47:39,"One of my favorite scenes is during that first concert in the film, when Augustus Corbin (David Mills) is trying so hard to stifle his laughter!!! It was hilarious and so adorable!!! <3",2,0,Spencer Frank Clayton,HszfdNS0JSc,0.44281684027777773,2016-09-21 03:47:39,False,True
+2016-09-21T12:35:01,Hugh Grant ... Oscar deserved,3,0,Adham Ahmad,HszfdNS0JSc,0.0,2016-09-21 12:35:01,False,True
+2016-09-22T17:13:55,They weren't married in real life. This irks me more than it should.,0,0,MegaAshWilliams,HszfdNS0JSc,0.31666666666666665,2016-09-22 17:13:55,False,True
+2016-09-24T12:07:44,South Park brought me here.,0,0,Henrique Oliveira,HszfdNS0JSc,0.0,2016-09-24 12:07:44,False,True
+2016-09-24T17:19:06,I saw this movie. It was okay. The acting was excellent from Meryl Streep but the movie overall was boring to me. I fell asleep during the beginning.,0,0,AMYLEETASTIC OBSESSED DIEHARD AMYLEE EV FAN!!!!,HszfdNS0JSc,0.1,2016-09-24 17:19:06,False,True
+2016-09-25T07:00:56,she remnds me of that high pitched singer called the nightingale in tintin,0,0,whostolemypants,HszfdNS0JSc,0.16,2016-09-25 07:00:56,False,True
+2016-09-25T13:24:23,Meryl is a legend !!,1,0,gabrielebaldin,HszfdNS0JSc,0.0,2016-09-25 13:24:23,False,True
+2016-09-25T17:39:04,"Just saw it, god damm was it good. No joke I was in tears at the end of it. Love it SO MUCH",61,0,JohnnyFireFlame,HszfdNS0JSc,0.4666666666666666,2016-09-25 17:39:04,False,True
+2016-09-27T05:18:54,The feels the FEEELSSSS,0,0,Zi jie Lim,HszfdNS0JSc,0.0,2016-09-27 05:18:54,False,True
+2016-09-28T00:29:11,And the oscar goes to...,1,0,Bia G D,HszfdNS0JSc,0.0,2016-09-28 00:29:11,False,True
+2016-09-28T15:02:34,"The movie was brilliant, although the trailer can be a bit misleading.",0,0,RADIN SYAH,HszfdNS0JSc,0.9,2016-09-28 15:02:34,False,True
+2016-10-12T13:19:12,I am glad to see how the ending goes ..,0,0,礼晟,HszfdNS0JSc,0.5,2016-10-12 13:19:12,False,True
+2016-10-19T03:37:55,Is this a remake of Marguerite? Seriously don't think it will live up to it,0,0,youngleandtd,HszfdNS0JSc,-0.09848484848484848,2016-10-19 03:37:55,False,True
+2016-10-27T14:40:10,the local movie theater in my town is playing this tonight and donating all proceeds to their arts center. such a noble and amazing cause. looks like a great film. how can anyone refuse Meryl?!,0,0,the dog chick,HszfdNS0JSc,0.35000000000000003,2016-10-27 14:40:10,False,True
+2016-10-28T13:37:57,one of the most beautiful movie I'd ever seen..perfect!!,0,0,alizee maree Senduu,HszfdNS0JSc,0.75,2016-10-28 13:37:57,False,True
+2016-11-03T05:44:57,Howard Wolowitz,1,0,Rick Sanchez,HszfdNS0JSc,0.0,2016-11-03 05:44:57,False,True
+2016-11-04T02:03:58,70 years from now they might make a movie about Kim Zolciack.,0,0,Jonathan Wright,HszfdNS0JSc,0.0,2016-11-04 02:03:58,False,True
+2016-11-05T04:47:58,Another OSCAR Contender! Best Picture for sure... Very inspirational...,1,0,Alvin Sebetero,HszfdNS0JSc,0.7166666666666667,2016-11-05 04:47:58,False,True
+2016-11-08T17:26:17,Who else is here just for simon helberg???,2,0,Redzer Raff,HszfdNS0JSc,0.0,2016-11-08 17:26:17,False,True
+2016-11-16T02:16:38,"As much as I love Merryl Streep, and how great she looks in this trailer, The academy needs to stop giving her oscar nods  every single year... I'm exagerating, but still, don't you think 1 is enough, let alone 3? LOL",0,1,6menonaplane,HszfdNS0JSc,0.4057142857142857,2016-11-16 02:16:38,False,False
+2016-11-24T10:26:53,One thing you can learn from this movie: Carnegie Hall is just a rental object you can buy if you just have the right amount of Dollars with you... Not much left besides...,1,1,Rinforzato,HszfdNS0JSc,0.14285714285714285,2016-11-24 10:26:53,False,False
+2016-11-25T06:51:40,"""Madame Marguerite"" anyone?",0,0,sndy ftrnn,HszfdNS0JSc,0.0,2016-11-25 06:51:40,False,False
+2016-11-25T23:10:48,I love Hugh Grant in this! He's so underrated,59,3,Christin Kolbeck,HszfdNS0JSc,0.625,2016-11-25 23:10:48,False,False
+2016-11-27T18:20:10,Did I just see the entire movie summarized?,19,2,Amici Nybråten,HszfdNS0JSc,0.0,2016-11-27 18:20:10,False,False
+2016-11-30T07:57:00,Another Oscar win for the great Meryl,0,0,The Vox,HszfdNS0JSc,0.8,2016-11-30 07:57:00,False,False
+2016-11-30T15:53:47,howard being howard,8,1,gabe_liu,HszfdNS0JSc,0.0,2016-11-30 15:53:47,False,False
+2016-12-03T05:23:16,"I respect her courage. I mean the real Foster. This actress totally did it, she is amazing without a doubt.",0,0,Judal,HszfdNS0JSc,0.12187500000000002,2016-12-03 05:23:16,False,False
+2016-12-03T18:23:15,This is the X Factor of the late 19th century,10,0,reb1138,HszfdNS0JSc,-0.3,2016-12-03 18:23:15,False,False
+2016-12-11T06:47:58,"just saw it..HILARIOUS!!!!!SOOO GOOD MOVIE!!!EXCELENTE PELICULA, VAYAN A VERLA,PORFAVOR,NO PARAS DE REIR",1,0,Van Elisabet,HszfdNS0JSc,0.7,2016-12-11 06:47:58,False,False
+2016-12-13T04:18:26,simon helberg took me here,1,0,Dian Safitri,HszfdNS0JSc,0.0,2016-12-13 04:18:26,False,False
+2016-12-16T12:01:09,"if you want to watch something of a woman who thinks that she can sing , then i would advise KEEPING UP APPEARANCES . the bucket woman rocks",0,0,dodge96neon,HszfdNS0JSc,0.0,2016-12-16 12:01:09,False,False
+2016-12-18T17:11:33,"Another film ruined by one of our least interesting ""actors."" Unreal.",0,0,Tom Lowery,HszfdNS0JSc,0.1,2016-12-18 17:11:33,False,False
+2016-12-19T16:37:17,"oh my <3 is it another oscar nomination for meryl streep! I hope so, she was magnificent, so was simon helberg, loved the movie, loved the cast, loved the acting",0,0,Yara Ayaz,HszfdNS0JSc,0.6833333333333335,2016-12-19 16:37:17,False,False
+2016-12-19T23:09:10,"Meryl Streep is truly amazing. So many actors in Hollywood can portray only a small variety of similar characters. But Meryl Streep is a chameleon, never the same person in any two given roles. Marvelous.",10,0,Maor,HszfdNS0JSc,0.2642857142857143,2016-12-19 23:09:10,False,False
+2017-01-02T01:21:18,Lovely movie!  The cars in some of the scenes are post WWII and Mrs Jenkins died in 1944.  Unlike most modern movies it did not try to teach us a moral lesson bu eletist or attempt to incite racial tension,0,0,Robert White,HszfdNS0JSc,0.33125,2017-01-02 01:21:18,False,False
+2017-01-02T10:05:42,"I love this movie. life and peoples can be cruil, but this movie is a movie of  never give up on your hopes and dreams. and too be bless with a great man that beleaves in your dreams and help you make  them come true. amen amen.",2,0,Miss. Phyllis Renee Foster,HszfdNS0JSc,0.5499999999999999,2017-01-02 10:05:42,False,False
+2017-01-03T06:20:37,Meryl Streep is such a wonderful actress.,1,0,- Blotches -,HszfdNS0JSc,0.5,2017-01-03 06:20:37,False,False
+2017-01-03T10:22:41,"""She must never see this; I'd like every copy of The Post that you have.""   And he just throws them all in the garbage. LMFAO!",0,0,zeus4867,HszfdNS0JSc,0.0,2017-01-03 10:22:41,False,False
+2017-01-04T08:41:39,Marguerite,0,0,Jesus Lestrange,HszfdNS0JSc,0.0,2017-01-04 08:41:39,False,False
+2017-01-05T07:52:19,"This movie was painful to watch. Sadly that is the reality of today. One does not need talent, one only requires the approval of the people, and their so called music is acceptable and revered.",15,3,George Bonta,HszfdNS0JSc,-0.39999999999999997,2017-01-05 07:52:19,False,False
+2017-01-05T21:27:16,"With only 11 days till January 14th the opening day of the NEW Hampton convergence we are already seeing arrivals here at our local Wal-Mart in Johnsburg, Illinois.  Of note is that their are peculiar effects upon the vendor machines such as RedBox which has dispensed an unauthorized nor paid for copy of Florence Foster Jenkins to my dad who was in it's proximity.  They say the net has now been infected with a bin-ary Yeti.  An abdominal circuit of cognitive artificial intelligence from the frigid navel of Earths Kara Sea.  Imagine a Sasquatch of hairy filaments that IF captured and studied in the lab can act as an advisor to the United Nations panel.  I spoke with Michelle, there on the sampling staff,  and together we hope to manufacture gummies of this entity, as an antidote to the frigid being.  Back home in the (fx) Kretzschmar Lab technicians have launched a program code names [Firmament 421] in hopes of isolating key to unlocking the potential of this discovery.  There are clues one can find already in place to witnessing [Firmament 421] for yourself.  Simply locate the Space Solutions Organizer near the Post IT flags and see how these multi-color banderitas act as a 'brain' to the Firmament 421 profile.  It's as IF the Hydra galaxy has magically appeared via the spectrum of Virtual Reality to whisper something from it's Crater filament mouth into the ears of those at 2100 Wilson Ave in Saint Paul Minnesota.  Following this logic one can deduce that the Leo cluster with it's sickle is at the heart of the apparitions brain.  The 'Old Mold' has 'Told' and now we plan to interrogate it with questions that mankind has postulated for centuries.",0,0,Rich Kretzschmar,HszfdNS0JSc,-0.09772727272727272,2017-01-05 21:27:16,False,False
+2017-01-09T19:32:56,Who enjoys this shit?!,0,0,VicRules666,HszfdNS0JSc,-0.25,2017-01-09 19:32:56,False,False
+2017-01-09T22:10:47,Terrible boooooring film.,1,0,Marius Fortelni,HszfdNS0JSc,-1.0,2017-01-09 22:10:47,False,False
+2017-01-11T00:55:45,"Hated this film, her career is so over.",2,2,Joy foraker,HszfdNS0JSc,-0.9,2017-01-11 00:55:45,False,False
+2017-01-11T06:33:01,Meryl Street is a bigot.,4,1,Nexus,HszfdNS0JSc,0.0,2017-01-11 06:33:01,False,False
+2017-01-11T06:43:44,"I hate that Streep used a big opportunity to throw more fuel on an already raging fire instead of striking middle-ground and trying to heal the divide.   You may not like the person but you have to be able to step back and see the bigger picture and what really matters. It's for this reason that I won't automatically boycott any movie she's in, if you do that you're falling in the same negativity trap that Meryl Streep did. If you miss a good film it's more your loss than anyone else's.  And I'm not talking about this particular film (which doesn't interest me), but in general. Be positive and you'll emerge ahead of others who aren't.",1,0,Halcyon,HszfdNS0JSc,0.18170995670995665,2017-01-11 06:43:44,False,False
+2017-01-14T07:02:41,just watched it so so so good!,0,0,nicole nance,HszfdNS0JSc,0.875,2017-01-14 07:02:41,False,False
+2017-01-18T22:18:15,"Je déteste quand les américains font des reprises des films français. Ils les détruisent, comme la reprise du film le dîner des cons",0,0,Franz Capdevila,HszfdNS0JSc,0.0,2017-01-18 22:18:15,False,False
+2017-01-18T22:27:18,Ever heard of a movie that is so bad it's good. Well in this case it's so good that is bad.Pity a talent like Simon was wasted on such a cringe offering movie.,1,0,Andrei Chete,HszfdNS0JSc,0.1,2017-01-18 22:27:18,False,False
+2017-01-19T15:32:29,BOYCOTT THIS FILM.,0,1,Basha R,HszfdNS0JSc,0.0,2017-01-19 15:32:29,False,False
+2017-01-20T16:31:14,I think I've already seen this movie .. a french version : marguerite !,0,0,RADHAMROUN,HszfdNS0JSc,0.0,2017-01-20 16:31:14,False,False
+2017-01-22T12:27:00,I enjoyed this more than la la land actually..,1,0,Dionisius Denis,HszfdNS0JSc,0.3333333333333333,2017-01-22 12:27:00,False,False
+2017-01-23T17:21:45,"this was a really good movie, u'd better give it a try",0,0,Felix K,HszfdNS0JSc,0.6,2017-01-23 17:21:45,False,False
+2017-01-24T17:15:14,"Boycott Oscars 2017. Meryl Streep, what a piece of shit!",0,2,Pete.M.,HszfdNS0JSc,-0.25,2017-01-24 17:15:14,False,False
+2017-01-24T20:47:44,So happy for Meryl! Making another Oscar nomination record!,0,0,ERIC MARTINEZ,HszfdNS0JSc,1.0,2017-01-24 20:47:44,False,False
+2017-01-25T02:36:04,The heroism of being so oblivious of your own incompetence that you can feign confidence?,0,0,Valence Videos,HszfdNS0JSc,0.6,2017-01-25 02:36:04,False,False
+2017-01-25T03:01:06,lovemeryl! hope she can win another Oscar but who cares .she is the queen anyeay,0,0,Newton 98,HszfdNS0JSc,0.8,2017-01-25 03:01:06,False,False
+2017-01-27T10:17:47,"The trailer looks good and the movie would probably be good too (kind of remind me of Ed Wood). But why made a movie about a rich talentless woman who paid her way to be a ""star"". It's like in the future they make a movie about Rebecca Black' Friday",0,0,Tran Hoang Hieu,HszfdNS0JSc,0.3680555555555556,2017-01-27 10:17:47,False,False
+2017-01-28T00:33:03,"stupid movie about a millionaire who lives in a virtual bubble this is like celebrities nowadays with their fans on the internet, likes, views, subscribers, followers etc. sad sad sad and stupid. Real talent doesnt matter anymore, fake artists rule the world along with pseudointelectuals devastating our culture roots. Meryl got a nomination just because Hollywood wants to show its middle finger to Trump",2,1,Floppy Bird,HszfdNS0JSc,-0.41999999999999993,2017-01-28 00:33:03,False,False
+2017-01-30T02:48:58,Looking forward to Oscar's 2017!,0,0,Jay Scott,HszfdNS0JSc,0.0,2017-01-30 02:48:58,False,False
+2017-01-30T09:16:44,I love Meryl streep in this film,0,0,Jean-louise Curry,HszfdNS0JSc,0.5,2017-01-30 09:16:44,False,False
+2017-02-04T17:32:47,"For my next trick, I will transform myslef into Steven Colbert.",0,0,none none,HszfdNS0JSc,0.0,2017-02-04 17:32:47,False,False
+2017-02-13T13:41:26,SO THIS MOVIE CAMES OUT THE SAME YEAR DONALD TRUMP BECOMES THE PRESIDENT OF THE UNITED STATES.......,0,0,"ONG MY GOD, i love ONGNIELHWAN",HszfdNS0JSc,0.0,2017-02-13 13:41:26,False,False
+2017-02-13T20:01:51,"I saw the movie  And it was superb And Maryl Sltreep was outstanding, she truly deserves an Oscar for this..",0,0,Arshad PC,HszfdNS0JSc,0.75,2017-02-13 20:01:51,False,False
+2017-02-14T20:22:42,That s  why we got some lady gaga now!   Horrible singers,0,0,Ines Quesada,HszfdNS0JSc,-1.0,2017-02-14 20:22:42,False,False
+2017-02-16T14:52:42,"Howard, sheldon and leonard are going somehwere lol",0,0,OfficialDjSyko,HszfdNS0JSc,0.8,2017-02-16 14:52:42,False,False
+2017-02-17T20:05:41,My 5 year old niece laughs so hard every time she sees merly sing from her  diaphragm haha merly has always bin an amazing actress,0,0,Cal Cal,HszfdNS0JSc,0.15208333333333335,2017-02-17 20:05:41,False,False
+2017-02-19T02:08:50,I didn't know they're making a movie about Selena Gomez,1,0,voltaire balagtas,HszfdNS0JSc,0.0,2017-02-19 02:08:50,False,False
+2017-02-22T11:50:56,la historia de penaldo en el fútbol xd,0,0,Steve Dredd,HszfdNS0JSc,0.0,2017-02-22 11:50:56,False,False
+2017-02-22T23:25:56,I hope someone throws a brick pie in her face at the oscars.,0,0,Pete.M.,HszfdNS0JSc,0.0,2017-02-22 23:25:56,False,False
+2017-02-23T16:11:18,"Sorry for Emma Stone, she has not chance in this race!",0,0,Antonio Duverge,HszfdNS0JSc,-0.625,2017-02-23 16:11:18,False,False
+2017-02-23T23:22:18,Natalie Portman for Jackie 😊,0,0,Iam oblivious,HszfdNS0JSc,0.0,2017-02-23 23:22:18,False,False
+2017-02-26T07:21:48,Double toasted brought me here,0,0,Ziad Obaid,HszfdNS0JSc,0.0,2017-02-26 07:21:48,False,False
+2017-02-26T22:45:32,No thanks this movie looks like one for old cat ladies,0,0,sodar smith,HszfdNS0JSc,0.0,2017-02-26 22:45:32,False,False
+2017-02-27T06:40:33,"is she a robot. what the hell is this woman. She can just turn into anything, she can even play Obama if she wants to",0,0,Thuc Nguyen,HszfdNS0JSc,0.2,2017-02-27 06:40:33,False,False
+2017-02-27T23:02:48,"What a wonderful movie, and Meryl is a goddess as always! I can't understand how she didn't receive this year's Oscar and how Simon didn't get nomination for his role? U must watch it!",1,0,Joe S,HszfdNS0JSc,1.0,2017-02-27 23:02:48,False,False
+2017-02-28T01:03:29,"I've heard about Ms. Jenkins and have listened to some of her recordings before, but I didn't expect that I'd feel this touched, as well as sad in the end, after seeing the movie. Maybe I was subconsciously thinking it was Meryl Streep (sick, suffering, etc.), but either way, what a fantastic actress who brought the role to life! #overratedmyass",0,0,archazn,HszfdNS0JSc,-0.1785714285714286,2017-02-28 01:03:29,False,False
+2017-02-28T19:17:21,"I love her and  I am proud of every work she involved but this movie is a copy of another French movie, MARGUERITE...",0,0,Caglar Kocabiyik,HszfdNS0JSc,0.43333333333333335,2017-02-28 19:17:21,False,False
+2017-03-06T01:29:37,"Its like an american version of Marguerite although the french movie is far better than this one, must admit.",0,0,Sully Vijil,HszfdNS0JSc,0.15,2017-03-06 01:29:37,False,False
+2017-03-13T19:44:22,"French version is SO much better!!!! ""Marguerite""",0,0,Joris Caunes,HszfdNS0JSc,0.5,2017-03-13 19:44:22,False,False
+2017-03-29T05:30:42,"This is a remake, the real one is called: Marguerite, is a french movie, 2015.",0,0,Manuel Alvarez,HszfdNS0JSc,0.1,2017-03-29 05:30:42,False,False
+2017-04-17T18:29:31,"I'm not eating that potato salad, gross!",0,0,F dL,HszfdNS0JSc,0.0,2017-04-17 18:29:31,False,False
+2017-04-18T10:48:12,Found this not too good but hugh was kool,0,0,amy clarke,HszfdNS0JSc,0.7,2017-04-18 10:48:12,False,False
+2017-05-29T19:43:26,"I do not like epic movies, but I take the hat for this movie and for history behind this beautiful production. Without doubt one of the most perfect films I have ever seen. I throw the hat for Mr. Mcmoon and St.clair the true heroes of this story. I really liked this movie very much. Congratulations to Meryl Streep for the beautiful role, Hugh Grant as well as Heroic Pianist Simon Helberg. -- eu nao gosto de filmes epicos, mas tiro o chapeu pra este filme e pra historia por tras desta belissima produção. sem duvida um dos filmes mais perfeitos que ja vi. tiro o chapeu pro Sr. Mcmoon e St.clair os verdadeiros herois desta historia. gostei muito muito deste filme. parabens a Meryl Streep pelo belissimo papel, Hugh Grant tambem e ao Pianista Heroi Simon Helberg.",0,0,Vini luiz,HszfdNS0JSc,0.481,2017-05-29 19:43:26,False,False
+2017-06-21T17:26:14,"any one knows about the background music, start from 1:02 to the end, using in this trailer? is it from the OST of this movie? or from others",0,0,Yiping Hsu,HszfdNS0JSc,0.0,2017-06-21 17:26:14,False,False
+2017-07-15T23:34:57,"Although St Clair wasn't a typical partner/husband, I still loved how he has always tried to protect her from any form of negativity and how he actually cared for her. As always Meryl Streep was perfect, but the biggest surprise is definitely Hugh Grant who has shown how amazing he can be and he had a certain warmth in his eyes whenever he was talking or looking at Meryl/Florence. Truly convincible.",3,0,tatjana1707,HszfdNS0JSc,0.33537414965986395,2017-07-15 23:34:57,False,False
+2017-08-02T17:10:27,Howie💖💖👎,0,0,random fox animations!,HszfdNS0JSc,0.0,2017-08-02 17:10:27,False,False
+2017-08-16T17:19:36,I can't recall the last time I laughed so hard with a movie that was supposed to be a drama,0,0,Jasmine Diva,HszfdNS0JSc,0.1361111111111111,2017-08-16 17:19:36,False,False
+2017-08-19T16:31:35,Meryl streep she is amazing actress.i love her so much.,0,0,Fuad a,HszfdNS0JSc,0.43333333333333335,2017-08-19 16:31:35,False,False
+2017-08-23T18:12:16,Hugh Grant should have won an academy award or at least an Oscar!!!,0,0,Yana,HszfdNS0JSc,-0.5859375,2017-08-23 18:12:16,False,False
+2017-09-04T14:15:54,When she died..,0,0,Metanoia,HszfdNS0JSc,0.0,2017-09-04 14:15:54,False,False
+2017-09-09T09:49:57,HOWARDDDDDDDDDDDDDDDD!,0,0,Allen Discaya,HszfdNS0JSc,0.0,2017-09-09 09:49:57,False,False
+2017-09-29T03:53:07,"Even Meryl tried to sing bad as much as she could, she still couldn't reach Florence's level.",0,0,Kiều Anh Hoàng,HszfdNS0JSc,-0.24999999999999992,2017-09-29 03:53:07,False,False
+2017-09-30T19:26:20,Cerita yg paling memboringkan.,0,0,adnil Zaff,HszfdNS0JSc,0.0,2017-09-30 19:26:20,False,False
+2017-10-11T11:07:10,"This movie was so sad! I cried! Music was the only thing that she wanted! She couldn’t even get that, at least she was happy before death..",1,0,bruh,HszfdNS0JSc,-0.0703125,2017-10-11 11:07:10,False,False
+2017-10-27T04:56:50,I watched this movie today and I liked it so much!,0,0,Julie22,HszfdNS0JSc,0.425,2017-10-27 04:56:50,False,False
+2017-10-28T15:23:01,hugh grant deserves an oscar seriously,0,0,Baven Kumar,HszfdNS0JSc,-0.3333333333333333,2017-10-28 15:23:01,False,False
+2017-10-30T17:02:20,"from Magreth Thatcher to this,",0,0,JOSEPH KABALILA,HszfdNS0JSc,0.0,2017-10-30 17:02:20,False,False
+2017-11-29T10:28:48,"its not how good you are, its how big you dream.. life can be wonderful to those who dream big.",1,0,TheRini123,HszfdNS0JSc,0.425,2017-11-29 10:28:48,False,False
+2017-12-14T07:00:45,Roscoe Jenkins,0,0,BMORE LOYAL,HszfdNS0JSc,0.0,2017-12-14 07:00:45,False,False
+2017-12-26T14:00:56,MERYL STREEEEEEEEEP,0,0,dipshit _87,HszfdNS0JSc,0.0,2017-12-26 14:00:56,False,False
+2018-02-16T02:22:18,hugh grant <3,0,0,x,HszfdNS0JSc,1.0,2018-02-16 02:22:18,False,False
+2018-02-24T15:38:05,My girlfriend and I saw this movie and enjoyed it. I told her that this was time where they could've used Simon Cowell. He would've told Florence right away without hesitation that she was awful and that made my girlfriend laugh.,0,0,Alexander Pytko,HszfdNS0JSc,0.021428571428571422,2018-02-24 15:38:05,False,False
+2018-02-24T16:55:57,Meryl CREEP! Fugly inside and out!,0,0,Dan Bertucci,HszfdNS0JSc,0.0,2018-02-24 16:55:57,False,False
+2018-03-14T22:30:05,*Just ruin the entire plot why dont you?*,1,0,M B,HszfdNS0JSc,0.0,2018-03-14 22:30:05,False,False
+2018-04-02T13:23:00,Oh hey Howard.,0,0,Michael 64,HszfdNS0JSc,0.0,2018-04-02 13:23:00,False,False
+2018-05-06T21:15:35,Go hear the real Florence Jenkins. It’s a murder for the ears!,0,0,Henri Roy,HszfdNS0JSc,0.25,2018-05-06 21:15:35,False,False
+2018-05-26T13:31:17,"Wow, I gotta say this a wonderful movie. I thought it was a comedy at first, but it evolved into so much more.",0,0,Sparkz Mentalz,HszfdNS0JSc,0.4625,2018-05-26 13:31:17,False,False
+2018-06-20T23:35:50,"it seems a little romanticised, perhaps, but just as hilarious and heartwarming as her real performances",0,0,Tasha Zalinski,HszfdNS0JSc,0.1708333333333333,2018-06-20 23:35:50,False,False
+2018-07-22T19:14:36,Is that........Simon Helberg? OMG...it's Howard Wolowitz,0,0,Haneen Azhar,HszfdNS0JSc,0.0,2018-07-22 19:14:36,False,False
+2018-08-05T19:21:56,IF HUGH GRANT WASNT SUCH A BBC STOOGE I MIGHT WATCH THIS SPASTIC CRAP...,0,0,jeremy western,HszfdNS0JSc,-0.4,2018-08-05 19:21:56,False,False
+2018-08-06T15:28:19,This is such a good movie,0,0,Pat Ilott,HszfdNS0JSc,0.35,2018-08-06 15:28:19,False,False
+2018-08-09T21:43:44,This is a stunningly sad and beautifully portrayed film by the superb Meryl Streep . How humiliated she must of felt and that last death bed song is so touching .... brilliant,0,0,Anthony Gulliver,HszfdNS0JSc,0.4583333333333333,2018-08-09 21:43:44,False,False
+2018-08-18T21:34:29,Ooh yesss please,0,0,Rodrigo. Carvajal,HszfdNS0JSc,0.0,2018-08-18 21:34:29,False,False
+2018-09-03T10:43:17,It's a really lovely film.. very touching,0,0,wagooairlines,HszfdNS0JSc,0.575,2018-09-03 10:43:17,False,False
+2018-09-28T00:52:55,Just saw this. Its now in my top 10 movies of all time. Loved it!!!,0,0,Samuel Macias,HszfdNS0JSc,0.75,2018-09-28 00:52:55,False,False
+2018-10-20T13:07:05,"*insert ""Citizen_Kane_clapping.gif"" here*",0,0,Vasilii Chebyshev,HszfdNS0JSc,0.0,2018-10-20 13:07:05,False,False
+2018-11-05T18:31:43,"As far as I know, she already divorced and inherited her father's fortune and after that she afford all her career expenses, by herself. So I think they just put a ""romantic"" touch to sell the movie.",0,0,Alfredo Pérez Barba,HszfdNS0JSc,0.05,2018-11-05 18:31:43,False,False
+2018-11-25T16:44:16,I love this woman. And this movie is a masterpiece.,0,0,Joao jr79,HszfdNS0JSc,0.5,2018-11-25 16:44:16,False,False
+2018-12-05T13:10:46,One of the BEST Love Stories...HE DID EVERYTHING POSSIBLE TO MAKE HER HAPPY...I LOVE THIS!!!...:D,0,0,CHARITY HECH,HszfdNS0JSc,0.5,2018-12-05 13:10:46,False,False
+2018-12-31T06:35:21,My grandmother is in this,0,0,OGMONDOODOO,HszfdNS0JSc,0.0,2018-12-31 06:35:21,False,False
+2019-01-01T02:32:17,"If Florence was alive today, I'd want to give her a hug.☺",0,0,A Nobody,HszfdNS0JSc,0.1,2019-01-01 02:32:17,False,False
+2019-01-01T23:18:49,TURNING TURTLE,0,0,Devin Murphy,HszfdNS0JSc,0.0,2019-01-01 23:18:49,False,False
+2019-01-11T00:28:03,Two of my favourite people.,0,0,Janet McGinn,HszfdNS0JSc,0.0,2019-01-11 00:28:03,False,False
+2019-01-13T00:24:41,talk about boring yawn...,0,0,Seda Matevosian,HszfdNS0JSc,-1.0,2019-01-13 00:24:41,False,False
+2019-02-13T15:49:54,"I have no interest in the subject matter, the singer it's about, or even these kinds of movies ..... But in this 2 minute trailer Meryl Streep has made me wanna check this movie out based off nothing but her pure acting ability. I wouldn't consider myself a huge fan but I do appreciate great talent and there's a reason she's been at the too for so long",0,0,David Ferguson,HszfdNS0JSc,0.1996031746031746,2019-02-13 15:49:54,False,False
+2019-03-03T21:03:44,People always talk about her methods but look past the emotions she puts into her characters. This movie was an absolute delight to watch because of her.,0,0,karan t,HszfdNS0JSc,-0.024999999999999994,2019-03-03 21:03:44,False,False
+2019-03-04T01:53:02,oh so they'll make a florence foster jenkins movie but they wont even bother to make a daniel johnston movie,0,0,Teddy Nortness,HszfdNS0JSc,0.0,2019-03-04 01:53:02,False,False
+2019-03-04T08:46:32,Such a beautiful movie :((,0,0,Alondra Meier,HszfdNS0JSc,0.033333333333333326,2019-03-04 08:46:32,False,False
+2019-03-15T16:52:15,"I cried so much in this, Meryl Streep is remarkable",2,0,Brandon MacKinnon,HszfdNS0JSc,0.475,2019-03-15 16:52:15,False,False
+2019-03-29T13:00:50,Rebecca 🧡🧡 omg she's beautiful!,0,0,Sabine Kaiser,HszfdNS0JSc,1.0,2019-03-29 13:00:50,False,False
+2019-04-02T20:50:52,A sweet touchong film...Spectacular performances by Meryl Streep and Hugh Grant..must watch,0,0,Vedant Vashi,HszfdNS0JSc,0.35,2019-04-02 20:50:52,False,False
+2019-05-08T05:14:53,Quieren esos malditos comerciales,0,0,hughoto,HszfdNS0JSc,0.0,2019-05-08 05:14:53,False,False
+2019-05-16T00:07:59,I love this film so much you guys😭,1,0,skinny husband,HszfdNS0JSc,0.35,2019-05-16 00:07:59,False,False
+2019-07-08T13:28:17,Nunca ri tanto. Rsrsrs,0,0,Edu Viotto,HszfdNS0JSc,0.0,2019-07-08 13:28:17,False,False
+2019-07-12T17:19:51,Am I the only one who came for Simon,0,0,AGENTKD,HszfdNS0JSc,0.0,2019-07-12 17:19:51,False,False
+2019-10-29T23:44:55,This film I loved,0,0,Candace Shirley,HszfdNS0JSc,0.7,2019-10-29 23:44:55,False,False
+2019-11-09T19:59:49,If she was resurrected how do you think she'd do on America's Got Talent?,0,0,Austin Shoemaker,HszfdNS0JSc,0.0,2019-11-09 19:59:49,False,False
+2019-11-17T12:06:10,"my favourite film player is HUGH,WITH MERLYN",0,0,Rachel Ndlovu,HszfdNS0JSc,0.0,2019-11-17 12:06:10,False,False
+2019-12-26T14:12:19,I felt worse and worse for her as I got deeper into watching the movie,0,0,sxturnx _,HszfdNS0JSc,-0.4,2019-12-26 14:12:19,False,False
+2019-12-27T00:46:25,"Waste of time, this movie. French did it better",0,0,Faluda Butt,HszfdNS0JSc,0.09999999999999999,2019-12-27 00:46:25,False,False
+2020-01-08T17:29:57,Is there any better actress than Meryl Streep? She just moved to me: I´m afraid!  One of her best performances ever!,0,0,Leo Torres,HszfdNS0JSc,0.25,2020-01-08 17:29:57,False,False
+2020-01-17T01:33:53,The '49 Olds at 2:24? She died in 1944!,0,0,Dave Givens,HszfdNS0JSc,0.0,2020-01-17 01:33:53,False,False
+2020-03-19T20:48:35,Bravo,0,0,Vaibhav Kambli,HszfdNS0JSc,0.0,2020-03-19 20:48:35,False,False
+2020-03-22T20:37:00,in the movie ther is a *women how will sing and his voice is incredible* i relly wanna find the video on ytb but i can't find :(,0,0,Faouzi Sadouki,HszfdNS0JSc,0.07500000000000001,2020-03-22 20:37:00,False,False
+2020-04-29T15:42:35,.,0,0,Gergana Kardashimova,HszfdNS0JSc,0.0,2020-04-29 15:42:35,False,False
+2020-05-07T06:26:43,the end vere seed😢😢,0,0,هدوء الانثى,HszfdNS0JSc,0.0,2020-05-07 06:26:43,False,False
+2020-05-07T06:27:42,the end vere said😢😢,1,0,هدوء الانثى,HszfdNS0JSc,0.0,2020-05-07 06:27:42,False,False
+2020-05-15T04:39:56,Camp queen,0,0,Luke Osborn,HszfdNS0JSc,0.0,2020-05-15 04:39:56,False,False
+2020-05-28T21:50:30,This movie broke my heart. Florence Foster Jenkins is my spirit animal.,0,1,Veronica Sanner,HszfdNS0JSc,0.0,2020-05-28 21:50:30,False,False
+2020-06-09T02:06:25,2:02 I swear I've heard this before! What song is this???,0,0,PatMikeVA,HszfdNS0JSc,0.0,2020-06-09 02:06:25,False,False

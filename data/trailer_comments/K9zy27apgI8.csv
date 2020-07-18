@@ -1,0 +1,383 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2016-02-08T04:34:35,I came here to be early.,0,0,SP- gaming,K9zy27apgI8,0.1,2016-02-08 04:34:35,True,True
+2016-02-08T04:34:36,2nd,0,0,Fabian Ortiz,K9zy27apgI8,0.0,2016-02-08 04:34:36,True,True
+2016-02-08T04:35:13,it's HERE,0,0,Capt. Shiloh,K9zy27apgI8,0.0,2016-02-08 04:35:13,True,True
+2016-02-08T04:35:22,first,0,0,Level Z,K9zy27apgI8,0.25,2016-02-08 04:35:22,True,True
+2016-02-08T04:35:43,Second,0,0,Umer Wasti,K9zy27apgI8,0.0,2016-02-08 04:35:43,True,True
+2016-02-08T04:35:52,Yo,0,0,Jacob,K9zy27apgI8,0.0,2016-02-08 04:35:52,True,True
+2016-02-08T04:35:58,2 coment,0,0,Thanos Diaz,K9zy27apgI8,0.0,2016-02-08 04:35:58,True,True
+2016-02-08T04:36:13,3rd,0,0,Is this a Bonfire?,K9zy27apgI8,0.0,2016-02-08 04:36:13,True,True
+2016-02-08T04:36:31,first,0,0,Austin Frey,K9zy27apgI8,0.25,2016-02-08 04:36:31,True,True
+2016-02-08T04:36:33,Keanu Reeves?,15,1,Maycon Douglas,K9zy27apgI8,0.0,2016-02-08 04:36:33,True,True
+2016-02-08T04:36:34,3rd,0,0,DeeJD,K9zy27apgI8,0.0,2016-02-08 04:36:34,True,True
+2016-02-08T04:36:39,First comment.,0,0,LALANTHA WIJERATHNE,K9zy27apgI8,0.25,2016-02-08 04:36:39,True,True
+2016-02-08T04:36:40,4th,0,0,XxNue,K9zy27apgI8,0.0,2016-02-08 04:36:40,True,True
+2016-02-08T04:37:00,fuck U first Comment,0,0,Paolo Melendez,K9zy27apgI8,-0.07500000000000001,2016-02-08 04:37:00,True,True
+2016-02-08T04:37:05,5nd,0,0,Harsh Tiwari,K9zy27apgI8,0.0,2016-02-08 04:37:05,True,True
+2016-02-08T04:37:11,Hi,0,0,TheGamer,K9zy27apgI8,0.0,2016-02-08 04:37:11,True,True
+2016-02-08T04:37:16,a 2 hour long key and peele sketch?  worth it,565,6,Mc Lovin,K9zy27apgI8,0.08333333333333333,2016-02-08 04:37:16,True,True
+2016-02-08T04:37:30,Can't wait this to come to theaters.,0,0,LALANTHA WIJERATHNE,K9zy27apgI8,0.0,2016-02-08 04:37:30,True,True
+2016-02-08T04:37:31,the next john wick2.0,1,0,Capt. Shiloh,K9zy27apgI8,0.0,2016-02-08 04:37:31,True,True
+2016-02-08T04:37:32,clicked for key and peele,0,0,Dayton Rumbold,K9zy27apgI8,0.0,2016-02-08 04:37:32,True,True
+2016-02-08T04:37:34,Yay,0,0,TrollingK1ngMaster,K9zy27apgI8,0.0,2016-02-08 04:37:34,True,True
+2016-02-08T04:37:35,First,0,0,Javier Gutierrez,K9zy27apgI8,0.25,2016-02-08 04:37:35,True,True
+2016-02-08T04:37:37,its like a parody for John wick,0,0,Bryan Zamora,K9zy27apgI8,0.0,2016-02-08 04:37:37,True,True
+2016-02-08T04:37:52,It's agent blueberry :D,0,0,Poizun Heizu,K9zy27apgI8,1.0,2016-02-08 04:37:52,True,True
+2016-02-08T04:38:11,I need to watch this movie 😂😂😂,5,0,Alexander Gonzalez,K9zy27apgI8,0.0,2016-02-08 04:38:11,True,True
+2016-02-08T04:38:14,noice,0,0,Miguelangel Ramirez,K9zy27apgI8,0.0,2016-02-08 04:38:14,True,True
+2016-02-08T04:39:10,BvS  trailer!!!!!!!!!!!!!!,0,0,Anfernee Lawrence,K9zy27apgI8,0.0,2016-02-08 04:39:10,True,True
+2016-02-08T04:39:37,"If you combine stupidity, fun, jizz, funny people and a cat.... You get this! This is gonna be awesome",0,0,Juan Perdigon,K9zy27apgI8,0.253125,2016-02-08 04:39:37,True,True
+2016-02-08T04:40:01,Mixed feelings about this one ...,0,0,Alfred Naupoto,K9zy27apgI8,0.0,2016-02-08 04:40:01,True,True
+2016-02-08T04:40:01,Perfect,0,0,Karume Salim,K9zy27apgI8,1.0,2016-02-08 04:40:01,True,True
+2016-02-08T04:40:07,keanu = key + an + u (peele),84,5,upermans,K9zy27apgI8,0.0,2016-02-08 04:40:07,True,True
+2016-02-08T04:40:19,All that to get a cat. Still gonna watch it tho looks like it's gonna be funnny af,0,0,Jada Early,K9zy27apgI8,0.0,2016-02-08 04:40:19,True,True
+2016-02-08T04:40:21,Australia says hey,0,0,SeeThroughScreen,K9zy27apgI8,0.0,2016-02-08 04:40:21,True,True
+2016-02-08T04:42:10,they going to save a cat name Keanu.,0,0,Bandwagon for Pelicans.,K9zy27apgI8,0.0,2016-02-08 04:42:10,True,True
+2016-02-08T04:42:25,ha.  the bong is missing,0,0,INK,K9zy27apgI8,-0.2,2016-02-08 04:42:25,True,True
+2016-02-08T04:42:55,but i know i aint the oly one dat noticed,0,0,INK,K9zy27apgI8,0.0,2016-02-08 04:42:55,True,True
+2016-02-08T04:42:57,00:25 yes that is the cuttest cat,0,0,Gissel V,K9zy27apgI8,0.0,2016-02-08 04:42:57,True,True
+2016-02-08T04:44:43,oh.    pg,0,0,INK,K9zy27apgI8,0.0,2016-02-08 04:44:43,True,True
+2016-02-08T04:45:36,a movie over a cat...unbelievable,283,16,Darling Mesa,K9zy27apgI8,0.0,2016-02-08 04:45:36,True,True
+2016-02-08T04:46:10,They killed their cat! Now the only thing left is revenge!,0,0,LazärheaD,K9zy27apgI8,-0.08333333333333333,2016-02-08 04:46:10,True,True
+2016-02-08T04:47:45,this is based off the pet that was killed from the movie John wick.,0,0,ihurricane7,K9zy27apgI8,-0.2,2016-02-08 04:47:45,True,True
+2016-02-08T04:48:21,Reeves,0,0,Lucas Rangel,K9zy27apgI8,0.0,2016-02-08 04:48:21,True,True
+2016-02-08T04:48:37,genius,0,0,Jonah Morris,K9zy27apgI8,0.0,2016-02-08 04:48:37,True,True
+2016-02-08T04:51:59,"Keanu, the movie that is basically a super long Key & Peele skit... I'm not complaining!!!",2,0,Matthew K.,K9zy27apgI8,0.09444444444444444,2016-02-08 04:51:59,True,True
+2016-02-08T04:52:32,"""This my shit right here... FREEDOMMMMMM""",1,0,Matthew K.,K9zy27apgI8,0.042857142857142844,2016-02-08 04:52:32,True,True
+2016-02-08T04:53:15,This kinda sounds like John Wick,314,12,Damien Khan,K9zy27apgI8,0.0,2016-02-08 04:53:15,True,True
+2016-02-08T04:55:04,if Keanu dies I'll never support. Key and Peele,20,0,Cyrus565,K9zy27apgI8,0.0,2016-02-08 04:55:04,True,True
+2016-02-08T04:55:48,It's like they turned the show into a movie!! 😝😄,1,0,Matthew Mendez,K9zy27apgI8,0.0,2016-02-08 04:55:48,True,True
+2016-02-08T05:06:54,good,0,0,Cauezin do 085,K9zy27apgI8,0.7,2016-02-08 05:06:54,True,True
+2016-02-08T05:11:37,Lol,0,0,Carlos Guevara,K9zy27apgI8,0.8,2016-02-08 05:11:37,True,True
+2016-02-08T05:14:29,Lmfao this is quality,8,0,Valkyrie 887,K9zy27apgI8,0.0,2016-02-08 05:14:29,True,True
+2016-02-08T05:16:09,That was bound to happen sooner or later,0,0,Awake At Night,K9zy27apgI8,0.0,2016-02-08 05:16:09,True,True
+2016-02-08T05:17:49,This is it. This is what my life was meant for. My destiny is to watch this.,6,0,Rachel Xue,K9zy27apgI8,0.0,2016-02-08 05:17:49,True,True
+2016-02-08T05:20:33,"Keanu dies, everyone... :'(",0,0,Betto Meira,K9zy27apgI8,-1.0,2016-02-08 05:20:33,True,True
+2016-02-08T05:22:25,danny brown,0,0,Asa Perez,K9zy27apgI8,0.0,2016-02-08 05:22:25,True,True
+2016-02-08T05:33:42,👀👀,0,0,Luiiza Liima,K9zy27apgI8,0.0,2016-02-08 05:33:42,True,True
+2016-02-08T05:51:55,If I lost my cat to these guys I would've just gotten another pet... a better pet... a dog,0,0,Ash,K9zy27apgI8,0.5,2016-02-08 05:51:55,True,True
+2016-02-08T05:54:14,many cat movies this year,0,0,Bao Pico,K9zy27apgI8,0.5,2016-02-08 05:54:14,True,True
+2016-02-08T06:16:00,Sharktank bruh lmaoo,0,0,Thugga,K9zy27apgI8,0.0,2016-02-08 06:16:00,True,True
+2016-02-08T06:30:49,look dope x),0,0,TheDoXiZ,K9zy27apgI8,0.0,2016-02-08 06:30:49,True,True
+2016-02-08T06:33:29,The screen time for Keanu the cat: max of 15 mins,17,0,Allen John,K9zy27apgI8,0.0,2016-02-08 06:33:29,True,True
+2016-02-08T06:44:52,its just a kitten lol,0,0,Preston Rhodes,K9zy27apgI8,0.8,2016-02-08 06:44:52,True,True
+2016-02-08T06:49:32,"hahahahahahah, fucking hilarious!!",0,0,jamarajonas,K9zy27apgI8,0.78125,2016-02-08 06:49:32,True,True
+2016-02-08T06:51:09,Ending; Keanu Reeves wakes up.,129,0,A Cat,K9zy27apgI8,0.0,2016-02-08 06:51:09,True,True
+2016-02-08T06:54:59,THANK YOU FOR MAKEING A KEY AND PEELE MOVIE,0,0,Junk foodwizard,K9zy27apgI8,0.0,2016-02-08 06:54:59,True,True
+2016-02-08T07:13:57,This movie is everything like their skits something weird to something crazy something out of control so that you can't handle some wild dumb shit that will make perfect sense in the end or just be nonsense just like Hollywood😅😆😂,0,0,FatmanDD1,K9zy27apgI8,-0.09583333333333333,2016-02-08 07:13:57,True,True
+2016-02-08T07:28:37,Keanu = Illuminati,0,0,Igor Borges,K9zy27apgI8,0.0,2016-02-08 07:28:37,True,True
+2016-02-08T07:29:10,can't wait for this movie,0,0,Waffle_AR15,K9zy27apgI8,0.0,2016-02-08 07:29:10,True,True
+2016-02-08T07:47:03,Ахуенный!!!!!!!!))),0,0,OCTAVETM,K9zy27apgI8,0.0,2016-02-08 07:47:03,True,True
+2016-02-08T07:47:17,action bro flick...NICE!,0,0,Les Ed,K9zy27apgI8,0.125,2016-02-08 07:47:17,True,True
+2016-02-08T08:09:28,"They thought what's better than selling a cat, to make a movie on a cat 😂😂😂",0,0,Skills,K9zy27apgI8,0.5,2016-02-08 08:09:28,True,True
+2016-02-08T08:21:15,There use to be a bong on the table in last trailer but it aight here in this one. Anyone notice?,0,0,kin.1997,K9zy27apgI8,0.0,2016-02-08 08:21:15,True,True
+2016-02-08T08:28:26,A movie about a cute ass cat? I'm in.,470,9,Thulsa Doom,K9zy27apgI8,0.5,2016-02-08 08:28:26,True,True
+2016-02-08T08:50:07,I have waited so long for this. yus yusss,0,0,Maida Lemu,K9zy27apgI8,-0.05,2016-02-08 08:50:07,True,True
+2016-02-08T09:21:55,Fucking beautiful,0,0,Joel Durrington,K9zy27apgI8,0.85,2016-02-08 09:21:55,True,True
+2016-02-08T09:37:29,Luv it 🐈🐈🐈🐈🐈,0,0,Ann Sparks,K9zy27apgI8,0.0,2016-02-08 09:37:29,True,True
+2016-02-08T10:31:17,im going to name my kid keanu,44,11,Ill Sketch IlI,K9zy27apgI8,0.0,2016-02-08 10:31:17,True,True
+2016-02-08T11:30:30,Appendix !! They take it out of you body :o Hahaha KEANU ♥,0,0,Elle McFierceson,K9zy27apgI8,0.4166666666666667,2016-02-08 11:30:30,True,True
+2016-02-08T11:36:01,Hmmm rocketjump ....,0,0,Salty Speghetti,K9zy27apgI8,0.0,2016-02-08 11:36:01,True,True
+2016-02-08T11:40:40,"Comes out on my birthday, AWESOME!!!! 😍😍",11,9,Ainsley Carter,K9zy27apgI8,1.0,2016-02-08 11:40:40,True,True
+2016-02-08T12:18:03,uhhhhh love these guys but NO,0,0,Hooper,K9zy27apgI8,0.5,2016-02-08 12:18:03,True,True
+2016-02-08T12:46:15,Gonna be a very interesting movie 😂,0,0,raijin,K9zy27apgI8,0.65,2016-02-08 12:46:15,True,True
+2016-02-08T13:00:43,#CATLIVESMATTER,275,2,Vladimir Putin,K9zy27apgI8,0.0,2016-02-08 13:00:43,True,True
+2016-02-08T13:53:30,Five nights at Freddy's,0,0,Rosman,K9zy27apgI8,0.0,2016-02-08 13:53:30,True,True
+2016-02-08T14:41:27,this movie is going to be amazing lol,0,0,Coushatta Person,K9zy27apgI8,0.7000000000000001,2016-02-08 14:41:27,True,True
+2016-02-08T15:06:53,Lmfao only they can make a movie about a cat and it be awesome I'll watch it. I loved them both since mad tv.,0,0,Marlene Alsina,K9zy27apgI8,0.26875,2016-02-08 15:06:53,True,True
+2016-02-08T15:37:46,I don't care if the movie sucks I'm still gonna watch it. they need everyone in it though. this feels like it could have Seth Rogan in it or some shit,0,0,ZenBOODA,K9zy27apgI8,-0.25,2016-02-08 15:37:46,True,True
+2016-02-08T15:56:56,wtf,0,0,MrProspec,K9zy27apgI8,-0.5,2016-02-08 15:56:56,True,True
+2016-02-08T16:02:03,kitty kat,0,1,Deadpool,K9zy27apgI8,0.0,2016-02-08 16:02:03,True,True
+2016-02-08T16:03:10,I hope it'll be on the cinemas in my country :(,0,0,Elif tekin,K9zy27apgI8,-0.75,2016-02-08 16:03:10,True,True
+2016-02-08T16:39:33,lol they've worked hard I give them props.Definitely watching this shit...high too.,0,0,Sean Ra,K9zy27apgI8,0.25416666666666665,2016-02-08 16:39:33,True,True
+2016-02-08T17:13:06,doing the most for pussy,0,0,HighUp !,K9zy27apgI8,0.5,2016-02-08 17:13:06,True,True
+2016-02-08T17:31:31,Straight to selected theaters,0,0,Pikachu #FuckingTheseWhiteGirls #BOOTYBUTTCHEEKS,K9zy27apgI8,0.2,2016-02-08 17:31:31,True,True
+2016-02-08T17:58:29,"Key and Peele just spoofed John Wick LMAO, ....where do I get tickets :-)",3,0,boxertest,K9zy27apgI8,0.3666666666666667,2016-02-08 17:58:29,True,True
+2016-02-08T18:17:11,eazy e is also in the movie hahahah,0,0,Thijs Pagie,K9zy27apgI8,0.0,2016-02-08 18:17:11,True,True
+2016-02-08T18:54:54,Who came with this ideas for movies?,0,0,Roach DoggJR,K9zy27apgI8,0.0,2016-02-08 18:54:54,True,True
+2016-02-08T19:01:08,did anyone else notice jason michel from straight outta compton tha guy that played eazy,0,0,BC Goat,K9zy27apgI8,0.2,2016-02-08 19:01:08,True,True
+2016-02-08T20:14:52,"I know what the Warner Bros did. Thy are using the same formula people use in You Tube. Add a cat, and people will buy it.",0,0,Roach DoggJR,K9zy27apgI8,0.0,2016-02-08 20:14:52,True,True
+2016-02-08T21:03:36,aka key and peele: the movie,0,0,SpookLuc,K9zy27apgI8,0.0,2016-02-08 21:03:36,True,True
+2016-02-08T21:16:15,Ok ya I like it,0,0,G-String,K9zy27apgI8,0.5,2016-02-08 21:16:15,True,True
+2016-02-08T21:31:22,Fuck this Stupidass movie,0,0,Evil Pain,K9zy27apgI8,-0.4,2016-02-08 21:31:22,True,True
+2016-02-08T22:08:31,"Friend sent me this in a link and I honestly thought it was a joke trailer till the end when it showed the date of release and everything, hahahah I can't wait",43,2,Callymash,K9zy27apgI8,0.6,2016-02-08 22:08:31,True,True
+2016-02-09T00:31:02,1:14 M-E-T-H-O-D Man,0,0,Baron Ungern,K9zy27apgI8,0.0,2016-02-09 00:31:02,True,True
+2016-02-09T03:15:39,"key & peele the type of dudes to base a movie on a cat, literally lol!",0,0,Alana Kathereenxo,K9zy27apgI8,0.06666666666666665,2016-02-09 03:15:39,True,True
+2016-02-09T03:58:04,Am I the only one who noticed the old Rock-A-Fire Explosion animatronics at 2:05?,0,0,Bella C,K9zy27apgI8,0.05,2016-02-09 03:58:04,True,True
+2016-02-09T05:00:13,Yes and more yes,0,0,Macealynn,K9zy27apgI8,0.5,2016-02-09 05:00:13,True,True
+2016-02-09T05:17:57,hey dat my name,0,0,Keyahnoo,K9zy27apgI8,0.0,2016-02-09 05:17:57,True,True
+2016-02-09T05:23:12,You're damn straight I'm gonna see this shit.,0,0,9 Starr,K9zy27apgI8,0.0,2016-02-09 05:23:12,True,True
+2016-02-09T05:24:12,iiiim Tec-Tonic.,0,0,9 Starr,K9zy27apgI8,0.0,2016-02-09 05:24:12,True,True
+2016-02-09T05:58:48,give the guys nerf guns and take out the swearing and this would be a Pg movie,0,0,Vegan._.turtle,K9zy27apgI8,0.0,2016-02-09 05:58:48,True,True
+2016-02-09T06:02:12,John Wick?,0,0,Foolish Pupil,K9zy27apgI8,0.0,2016-02-09 06:02:12,True,True
+2016-02-09T06:26:16,I am in love with the movie already!!The kitty is by the best actor!!,1,0,Frankie H.,K9zy27apgI8,0.75,2016-02-09 06:26:16,True,True
+2016-02-09T08:30:18,"That Danny Brown poster at 0:10 got me thinking..is the actor for Keanu Siren, Danny's kitten??",0,0,Michael Arredondo,K9zy27apgI8,0.0,2016-02-09 08:30:18,True,True
+2016-02-09T10:04:56,Is this real? I mean they are funny but is this really real? like going to be in theaters real..,5,3,B Martin,K9zy27apgI8,0.045312500000000006,2016-02-09 10:04:56,True,True
+2016-02-09T12:14:16,It's gonna be rated r huh,0,0,Darkchaosx70 Leader of dark clan,K9zy27apgI8,0.0,2016-02-09 12:14:16,True,True
+2016-02-09T13:07:06,This shit is going to be awesome!,0,0,Marc encore,K9zy27apgI8,0.4,2016-02-09 13:07:06,True,True
+2016-02-09T13:19:32,Sold! I'm in!,0,0,Ice48,K9zy27apgI8,0.0,2016-02-09 13:19:32,True,True
+2016-02-09T14:12:54,keanu reminds me of my kitten,0,0,No u,K9zy27apgI8,0.0,2016-02-09 14:12:54,True,True
+2016-02-09T14:15:27,I'm really hoping this movie doesn't feel like a Key & Peele sketch that goes on for too long.,0,0,Christian Cline,K9zy27apgI8,0.05000000000000001,2016-02-09 14:15:27,True,True
+2016-02-09T15:08:06,I wanna seee it for the cat as well XD,0,0,prettyboy Ian,K9zy27apgI8,0.0,2016-02-09 15:08:06,True,True
+2016-02-09T15:45:24,Is this real? Is this a real thing or are they just fucking with us? Please be real,0,0,PurifiedMadness,K9zy27apgI8,1.3877787807814457e-17,2016-02-09 15:45:24,True,True
+2016-02-09T15:49:58,whats the beat called starting at 0:40 ?,0,0,Sani,K9zy27apgI8,0.0,2016-02-09 15:49:58,True,True
+2016-02-09T15:50:37,and its more clear at 1:10,0,0,Sani,K9zy27apgI8,0.3,2016-02-09 15:50:37,True,True
+2016-02-09T16:28:44,Danny Brown Poster in the Back at :10,2,0,likenem,K9zy27apgI8,0.0,2016-02-09 16:28:44,True,True
+2016-02-09T16:56:58,Dang just watched the whole movie,0,0,jaafar kassim,K9zy27apgI8,0.2,2016-02-09 16:56:58,True,True
+2016-02-09T17:25:01,Why do I get the impression Michael Bay had something to do with this?,0,0,Unit X6-88,K9zy27apgI8,0.0,2016-02-09 17:25:01,True,True
+2016-02-09T17:28:43,"Is that cat going to start talking halfway through the movie to say something like... ""I know Cat-Fu""? Cause that's the kind of vibe I'm getting from this.",88,7,FrozenFoxy,K9zy27apgI8,0.6,2016-02-09 17:28:43,True,True
+2016-02-09T18:10:30,YESSSSSSSSSS I love!!! C:,0,0,Safa Faridi,K9zy27apgI8,0.9765625,2016-02-09 18:10:30,True,True
+2016-02-09T18:26:08,I watch   this  trailer  zellion  times   lol,0,0,Kenza,K9zy27apgI8,0.8,2016-02-09 18:26:08,True,True
+2016-02-09T18:46:18,This is real,0,0,Alex Denny,K9zy27apgI8,0.2,2016-02-09 18:46:18,True,True
+2016-02-09T18:49:38,aw the cat looked so cute as a gangster!,0,0,Totally _Galaxy,K9zy27apgI8,0.625,2016-02-09 18:49:38,True,True
+2016-02-09T20:31:41,So excited I'm crying. And also I tend to cry when I see kittens. I see no problem here.,0,0,Marisa Loves Disney,K9zy27apgI8,0.0875,2016-02-09 20:31:41,True,True
+2016-02-09T21:34:55,You could just call this movie  Taken:4,0,0,Hoodie: A1,K9zy27apgI8,0.0,2016-02-09 21:34:55,True,True
+2016-02-10T00:08:51,"NOISE, happy to see these guys in a movie together",0,0,Jaden Murphy,K9zy27apgI8,0.8,2016-02-10 00:08:51,True,True
+2016-02-10T02:18:38,I will now accurately predict this movie:  1/4 cute kitten and cute kitten accessories   1/8 Jordan tries to outdo Keegan at something and Keegan gets mad  1/8 extreme plot-twistingly weird shit  1/2 truly funny jokes  I will still absolutely see it.,0,0,Rachael Brinegar,K9zy27apgI8,0.030000000000000006,2016-02-10 02:18:38,True,True
+2016-02-10T05:33:42,Martin Luther King and Gaaaaaaaaaannnnnnnnnndddddddhhhhhiiiii,0,0,Junior Patton,K9zy27apgI8,0.0,2016-02-10 05:33:42,True,True
+2016-02-10T09:21:23,All of that just for a kitty cat LOL,0,0,Ike Reedy,K9zy27apgI8,0.8,2016-02-10 09:21:23,True,True
+2016-02-10T10:39:49,The start of the trailer annoyed me when the cup fell and then in the next shot it is still on the table...but after I watched the rest of it I don't even care any more. I'm in!,0,0,Jai N-L,K9zy27apgI8,0.075,2016-02-10 10:39:49,True,True
+2016-02-10T13:10:48,i feel bad for all these dumb ass children that have to grow up w this corny watered down trash. key and peele are lame and corny af,1,0,Robby1424 ok,K9zy27apgI8,-0.3461111111111111,2016-02-10 13:10:48,True,True
+2016-02-10T15:37:04,"I rushed as soon as i could. More,  like 25 movies.",0,0,The Rickest Rick,K9zy27apgI8,0.5,2016-02-10 15:37:04,True,True
+2016-02-10T17:59:12,key and peele movie. gotta get high to this thing... nooice nooice nooice,0,0,Prathyush Putuparambil,K9zy27apgI8,0.08,2016-02-10 17:59:12,True,True
+2016-02-10T19:54:42,there screwed,0,0,carmen montes,K9zy27apgI8,0.0,2016-02-10 19:54:42,True,True
+2016-02-10T22:32:00,"F*** whatever it is I was going to watch before this commercial, I want to watch this right here!",1,0,Vicki T,K9zy27apgI8,0.17857142857142855,2016-02-10 22:32:00,True,True
+2016-02-11T04:50:06,"Only you guys could make an awesome movie out of such a stupid premise, can't wait to watch it.",0,0,Here and Genderqueer.,K9zy27apgI8,0.05000000000000002,2016-02-11 04:50:06,True,True
+2016-02-11T08:23:38,well that escalated quickly,0,0,Soapy Foten,K9zy27apgI8,0.3333333333333333,2016-02-11 08:23:38,True,True
+2016-02-11T10:19:36,it's gone be a fun birthday,1,0,Prince Vegeta,K9zy27apgI8,0.3,2016-02-11 10:19:36,True,True
+2016-02-11T13:47:12,👍,0,0,May Sivokhin,K9zy27apgI8,0.0,2016-02-11 13:47:12,True,True
+2016-02-11T14:17:07,Ghandi and MartinLKJ,1,0,Zghal Mohammed Amine,K9zy27apgI8,0.0,2016-02-11 14:17:07,True,True
+2016-02-11T16:10:27,hey someone already leaked the BvS Final Trailer!!! you should upload it fast!,0,0,AntonDaDon,K9zy27apgI8,0.125,2016-02-11 16:10:27,True,True
+2016-02-11T16:31:08,Underrated,0,0,Kitkiat,K9zy27apgI8,0.0,2016-02-11 16:31:08,True,True
+2016-02-11T17:02:50,My cat is cuter. :T,0,0,L7vanmatre,K9zy27apgI8,0.0,2016-02-11 17:02:50,True,True
+2016-02-11T17:08:01,The greatest CAT movie ever!!!,0,0,PongZ,K9zy27apgI8,1.0,2016-02-11 17:08:01,True,True
+2016-02-11T17:52:33,Action....Cats....Hate....Warr....Cats...Awesome :O,0,0,AX AXIS Gaming,K9zy27apgI8,0.05,2016-02-11 17:52:33,True,True
+2016-02-11T17:53:07,wait... this is a real movie?? I thought that was just like a skit they did once!!!! THAT'S AWESOME!!!!,0,0,Paul Perrizo,K9zy27apgI8,0.744140625,2016-02-11 17:53:07,True,True
+2016-02-11T19:32:56,"lol thought this wasn't for real when i saw this a while back, but i guesse it is.",0,0,CallistoO,K9zy27apgI8,0.3333333333333333,2016-02-11 19:32:56,True,True
+2016-02-11T20:04:43,lmfao I would watch dis,0,0,Kaori Cuban,K9zy27apgI8,0.0,2016-02-11 20:04:43,True,True
+2016-02-11T20:55:26,"I thought this would be dumb, but I'm surprised. It looks hilarious AND it's an original idea, as most movies nowadays are sequels, remakes, or book-to-movie adaptations. I'll be looking forward to this.",0,0,TheNOPEland,K9zy27apgI8,0.22000000000000003,2016-02-11 20:55:26,True,True
+2016-02-11T21:10:07,hiliarous,0,0,only257,K9zy27apgI8,0.0,2016-02-11 21:10:07,True,True
+2016-02-11T21:33:43,are they seriouse is this seriouse like whyy??,0,0,Donica,K9zy27apgI8,0.0,2016-02-11 21:33:43,True,True
+2016-02-11T23:26:06,This looks great.,0,0,Rhett Having a Vietnam Flashback,K9zy27apgI8,0.8,2016-02-11 23:26:06,True,True
+2016-02-12T00:18:32,"I never usually like comedy movies (I love COMEDY, but most mainstream comedy films aren't my sense of humor), but Key and Peele in an overdramatic rescue mission about saving an adorable kitten named Keanu?! I am SO READY!",20,0,Wawagirl17,K9zy27apgI8,0.3333333333333333,2016-02-12 00:18:32,True,True
+2016-02-12T03:01:42,a reference of john wick. John wick=Keanu Reeves,1,0,Farid Muzaffar,K9zy27apgI8,0.0,2016-02-12 03:01:42,True,True
+2016-02-12T03:47:14,It would be fuckin priceless if Keanu Reaves appear as John Wick in this movie LOL,0,0,RookieN08,K9zy27apgI8,0.9,2016-02-12 03:47:14,True,True
+2016-02-12T05:51:15,I honestly thought this was a movie about Keaun Reeves,101,1,aergdr,K9zy27apgI8,0.6,2016-02-12 05:51:15,True,True
+2016-02-12T07:28:59,go key and peele!,0,0,iRapplexD,K9zy27apgI8,0.0,2016-02-12 07:28:59,True,True
+2016-02-12T08:09:11,I like key&peele. .. this shit seems wack as fuck. ,0,0,Raf the thinker,K9zy27apgI8,-0.30000000000000004,2016-02-12 08:09:11,True,True
+2016-02-13T00:23:57,got to see this movie looks good can't wait,0,0,Timothy M. Mbewe,K9zy27apgI8,0.7,2016-02-13 00:23:57,True,True
+2016-02-13T02:04:24,Looks HILARIOUS,0,0,Andrew Gossett,K9zy27apgI8,0.5,2016-02-13 02:04:24,True,True
+2016-02-13T06:40:52,Is this  a real movie?,1,5,Stephanie Garcia,K9zy27apgI8,0.2,2016-02-13 06:40:52,True,True
+2016-02-13T12:50:54,This movie is either going to be the funniest of the year or stupidest... But I'm so seeing it.,46,4,Andrew John Bennett,K9zy27apgI8,0.0,2016-02-13 12:50:54,True,True
+2016-02-13T13:57:54,"Staff, has a site called gokano you accumulate points and can get prizes such as an iPhone 6 , those interested have that link an adm which has 2k and give to get the iPhone , the link is http://gokano.com/ref/LzZIwqqrY97x",0,0,marcos costa,K9zy27apgI8,0.125,2016-02-13 13:57:54,True,True
+2016-02-13T14:35:13,Little catzennn! I'm soo watching this.,0,0,HeathLedgerina,K9zy27apgI8,-0.234375,2016-02-13 14:35:13,True,True
+2016-02-13T14:38:35,anybody notice the danny brown poster at 0:10 ?,0,0,gtofan4536kyric,K9zy27apgI8,0.0,2016-02-13 14:38:35,True,True
+2016-02-13T18:37:53,this is literally John Wick with a cat.,3,0,TheeMindofBlocks,K9zy27apgI8,0.0,2016-02-13 18:37:53,True,True
+2016-02-13T18:58:54,1:14 AHAHAHA,1,0,jarjarlove22,K9zy27apgI8,0.0,2016-02-13 18:58:54,True,True
+2016-02-13T21:54:27,Love the strip club sign. HPV baby.,0,0,7474jd,K9zy27apgI8,0.5,2016-02-13 21:54:27,True,True
+2016-02-13T21:58:35,I'm there!,0,0,J.,K9zy27apgI8,0.0,2016-02-13 21:58:35,True,True
+2016-02-13T23:15:57,"Key and Peele, this is the kind of movie you come up with?  A ""I lost my pet"" kind of movie?  Really?",1,2,Nate Lintz,K9zy27apgI8,0.35,2016-02-13 23:15:57,True,True
+2016-02-14T00:06:03,This looks friggen hilarious,0,0,Meskarune,K9zy27apgI8,0.5,2016-02-14 00:06:03,True,True
+2016-02-14T00:52:52,I don't know how they made me laugh at this but I might have to see it.,0,0,MrGrownman455,K9zy27apgI8,0.3,2016-02-14 00:52:52,True,True
+2016-02-14T05:35:09,about dam time for a key and peel movie:),0,0,shawn force,K9zy27apgI8,0.25,2016-02-14 05:35:09,True,True
+2016-02-14T12:15:39,"If this really is a reference to John Wick, then does this mean the cat is going to die at some point in the movie?",1,0,Paul Lee,K9zy27apgI8,-0.056249999999999994,2016-02-14 12:15:39,True,True
+2016-02-15T09:55:24,lmfao,0,0,Jesse the Lawless,K9zy27apgI8,0.0,2016-02-15 09:55:24,True,True
+2016-02-15T12:38:08,"For some odd reason, I feel like the the cute cat is gonna die.  Hope that is not gonna happen.",0,0,Mahmoud Qabazard,K9zy27apgI8,0.16666666666666669,2016-02-15 12:38:08,True,True
+2016-02-15T22:16:33,"At the end of the red band trailer, he says ""this my jam"" and in the general trailer, he says ""this my shit"". Are we being trolled?",0,0,Wutwut1n1,K9zy27apgI8,-0.049999999999999996,2016-02-15 22:16:33,True,True
+2016-02-16T23:12:36,Hi,0,0,PLNetworkCA,K9zy27apgI8,0.0,2016-02-16 23:12:36,True,True
+2016-02-17T11:39:41,ill wait for this to come on tbs,0,0,Mitzel plik,K9zy27apgI8,-0.5,2016-02-17 11:39:41,True,True
+2016-02-17T17:12:14,marvel has dead pools gay ass......Ryan Renolds.......so DC needs to make a Death Stroke movie serious and cut throat....played by ..Gerard Butler...from 300.....plz make it.....plz DC make a comeback......Deadpool is gay....and i hated it....ill never watch it again.,0,2,King David Sama,K9zy27apgI8,-0.25416666666666665,2016-02-17 17:12:14,True,True
+2016-02-19T02:53:04,Hilarious!,0,0,THEBOXINGSAMURAI KTP,K9zy27apgI8,0.625,2016-02-19 02:53:04,True,True
+2016-02-19T10:29:34,Bitch don't sell my tickets I'm watching this shit XD,0,0,E,K9zy27apgI8,-0.2,2016-02-19 10:29:34,True,True
+2016-02-19T19:40:44,From the visionary minds of Keanu & Reeves,0,0,OfficialDjSyko,K9zy27apgI8,0.0,2016-02-19 19:40:44,True,True
+2016-02-20T04:32:26,i laugh hard when he shows the cat.,0,0,Ja Ja,K9zy27apgI8,0.004166666666666652,2016-02-20 04:32:26,True,True
+2016-02-24T20:40:55,"But, there is one they fear. In their tongue he is Keanu, THE KITTEN! NYAH!",0,0,RandomQuestion,K9zy27apgI8,0.0,2016-02-24 20:40:55,True,True
+2016-02-28T21:36:07,cutie kitty : ),0,0,Stella Diamonds,K9zy27apgI8,0.5,2016-02-28 21:36:07,True,True
+2016-03-01T07:18:03,i would have just got another cat,0,0,David Moralez,K9zy27apgI8,0.0,2016-03-01 07:18:03,True,True
+2016-03-02T19:20:12,HA!,0,0,TheRebelLion96,K9zy27apgI8,0.0,2016-03-02 19:20:12,True,True
+2016-03-06T20:48:59,"I love key and peele but to be honest this movie looks like crap, I didn't even think it was funny",0,0,Benzedrine,K9zy27apgI8,0.11000000000000001,2016-03-06 20:48:59,True,True
+2016-03-06T21:13:25,Wow,0,0,NOM,K9zy27apgI8,0.1,2016-03-06 21:13:25,True,True
+2016-03-07T17:40:44,holy shit this looks AWFUL,0,0,Anthony Torres,K9zy27apgI8,-0.6,2016-03-07 17:40:44,True,True
+2016-03-08T00:36:24,Anyone else noticed the in n out cup at :24?,2,1,GOATphen Curry,K9zy27apgI8,0.0,2016-03-08 00:36:24,True,True
+2016-03-08T14:17:27,Sounds like a spoof for John Wick! And it looks awesome :D,10,0,SamRockX,K9zy27apgI8,0.625,2016-03-08 14:17:27,True,True
+2016-03-08T20:26:51,AtupC,0,0,TheDeltaWolf,K9zy27apgI8,0.0,2016-03-08 20:26:51,True,True
+2016-03-08T21:32:20,Give that cat an award!!,0,0,ZoeTheZurtle,K9zy27apgI8,0.0,2016-03-08 21:32:20,True,True
+2016-03-11T03:58:55,I got one word to say to this sofunnyhadtorewatchitfifteentimesandreplaytheendingtwentytimessoawsometenoutoften.,0,0,Redlightningwolf,K9zy27apgI8,0.0,2016-03-11 03:58:55,True,True
+2016-03-11T03:59:09,I got one word to say to this sofunnyhadtorewatchitfifteentimesandreplaytheendingtwentytimessoawsometenoutoften.,0,0,Redlightningwolf,K9zy27apgI8,0.0,2016-03-11 03:59:09,True,True
+2016-03-11T23:20:12,KEANU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0,0,Junjun,K9zy27apgI8,0.0,2016-03-11 23:20:12,True,True
+2016-03-12T04:40:36,looks good,0,0,Toja Pramatis,K9zy27apgI8,0.7,2016-03-12 04:40:36,True,True
+2016-03-12T11:06:48,looks absolute shite,0,1,cameron smith,K9zy27apgI8,0.2,2016-03-12 11:06:48,True,True
+2016-03-12T12:53:34,KITTEH......,0,0,Green Synchronize,K9zy27apgI8,0.0,2016-03-12 12:53:34,True,True
+2016-03-12T14:34:36,id watch the shit out of this,0,0,Connor Beckman,K9zy27apgI8,-0.2,2016-03-12 14:34:36,True,True
+2016-03-13T21:17:14,finally they as the main on the same movie...,2,0,amex jinn,K9zy27apgI8,0.05555555555555555,2016-03-13 21:17:14,True,True
+2016-03-14T22:39:38,im actually so ready for this,0,0,Chianti Moorman,K9zy27apgI8,0.2,2016-03-14 22:39:38,True,True
+2016-03-15T10:40:54,"HI Worner Bros Pictures, i love your channel TV & Online, I Wait continue Tom And Jerry Show 2014 2 Seasone wait. Thanks ^_^",0,0,Command Galactic,K9zy27apgI8,0.35,2016-03-15 10:40:54,True,True
+2016-03-16T14:54:37,At least there's finally something different like most movies are always about a person being the bad guy and there trying to save the person from being held hostage by the bad guy,0,0,Leon Riveira,K9zy27apgI8,-0.19999999999999996,2016-03-16 14:54:37,True,True
+2016-03-16T15:48:08,💵💵💵💵 Take my money. ..NOW!!!,1,0,eroupopper,K9zy27apgI8,0.0,2016-03-16 15:48:08,True,True
+2016-03-17T10:04:27,My NAMES SHARKTANK!!!!!!!!!!,0,0,JJ Peach,K9zy27apgI8,0.0,2016-03-17 10:04:27,True,True
+2016-03-17T22:03:53,haha love it when they do comedy with both their racial ethnicity.,0,0,Sushi,K9zy27apgI8,0.35,2016-03-17 22:03:53,True,True
+2016-03-19T01:08:48,"this is like "" dude where my car """,0,0,WavyBenz,K9zy27apgI8,0.0,2016-03-19 01:08:48,True,True
+2016-03-19T11:07:26,There isn't a black man alive that would risk his life over a cat.,6,5,Ytremz,K9zy27apgI8,-0.033333333333333326,2016-03-19 11:07:26,True,True
+2016-03-19T11:33:00,Love how this has better like:dislike ratio than the Ghostbusters (2016) trailer.,0,0,Aiden LF,K9zy27apgI8,0.5,2016-03-19 11:33:00,True,True
+2016-03-19T12:31:23,Gonna see this.,0,0,pajewa,K9zy27apgI8,0.0,2016-03-19 12:31:23,True,True
+2016-03-21T21:33:14,i love cute cays and my name is keanu like IM SO GONNA WATCH THIS MOVIE :D,0,1,Keanu,K9zy27apgI8,0.6666666666666666,2016-03-21 21:33:14,True,True
+2016-03-23T06:20:33,This cat deserves a fucking Oscar!,0,0,Mariah Mendoza,K9zy27apgI8,-0.75,2016-03-23 06:20:33,True,True
+2016-03-23T21:37:47,Keanu reeves loses pet and they lose a pet called Keanu lol,1,0,Bee's Knees,K9zy27apgI8,0.25,2016-03-23 21:37:47,True,True
+2016-03-24T04:00:33,Gnarly,0,0,Dominique Beverly,K9zy27apgI8,0.0,2016-03-24 04:00:33,True,True
+2016-03-24T14:42:55,I thought it was about the Keanu!,0,0,Amit Singh,K9zy27apgI8,0.0,2016-03-24 14:42:55,True,True
+2016-03-24T17:13:20,"""Me?  Appendix!  BLEAAUUUGGHHHH!!! They took it out of my body!""",1,1,Fisal Aman,K9zy27apgI8,0.0,2016-03-24 17:13:20,True,True
+2016-03-24T17:17:53,MY NAME IS SHARK TANK .... AWGHHHHH😭,0,0,Mrarturochava,K9zy27apgI8,0.0,2016-03-24 17:17:53,True,True
+2016-03-24T19:44:17,ha ha ha what the hell 😂,0,0,J,K9zy27apgI8,0.0,2016-03-24 19:44:17,True,True
+2016-03-24T21:09:20,#johnwick   nobody kills peele cat,0,0,NonsensicalVids,K9zy27apgI8,0.0,2016-03-24 21:09:20,True,True
+2016-03-25T02:40:36,lol 😂,0,0,willie holmes,K9zy27apgI8,0.8,2016-03-25 02:40:36,True,True
+2016-03-25T03:33:17,Sharktank,0,0,Slater OGK,K9zy27apgI8,0.0,2016-03-25 03:33:17,True,True
+2016-03-25T21:08:11,those comedy central seasons paid offf lol,0,0,jama655,K9zy27apgI8,0.4,2016-03-25 21:08:11,True,True
+2016-03-27T17:20:25,"I mean this is obviously a parody of John Wick, hence the cat's name Keanu aka Keanu Reeves. I love Key & Peel <3",8,1,Rodolfo Suarez,K9zy27apgI8,0.2375,2016-03-27 17:20:25,True,True
+2016-03-27T21:34:28,proof that cats are the best entertainment ever......and i just happen to be allergic to them FML,13,0,Oh Boy Skaw,K9zy27apgI8,1.0,2016-03-27 21:34:28,True,True
+2016-03-28T17:03:31,+Big Cheese The Rock a fire explosion in this!,1,0,Zach Mondano,K9zy27apgI8,0.0,2016-03-28 17:03:31,True,True
+2016-03-29T12:34:22,Finally people understand that loving kittens is better then neglecting pets and being an asshole. This is why I love key and Peele,0,0,alexander T,K9zy27apgI8,0.32,2016-03-29 12:34:22,True,True
+2016-03-29T16:13:15,Money in the bank!,0,0,Jimaro Morales,K9zy27apgI8,0.0,2016-03-29 16:13:15,True,True
+2016-03-29T18:49:17,"at first i thought this was a john wick spoof(hence the name) sketch from key and peele, now i wanna see this really bad",0,0,Vadim Kazakov,K9zy27apgI8,-0.14999999999999994,2016-03-29 18:49:17,True,True
+2016-03-29T20:37:52,This is not a movie. this is a sketch.,0,0,HybridFlu,K9zy27apgI8,0.0,2016-03-29 20:37:52,True,True
+2016-03-30T01:25:54,"I can't believe the cat is a better actor that Keanu Reeves.  No, I can believe it.",2,0,greyeyed123,K9zy27apgI8,0.5,2016-03-30 01:25:54,True,True
+2016-03-30T05:08:00,clearly a parody of John Wick,1,0,DJSonicWaves,K9zy27apgI8,0.10000000000000002,2016-03-30 05:08:00,True,True
+2016-03-31T02:30:33,This movie will be awesome.,0,0,The Dream,K9zy27apgI8,1.0,2016-03-31 02:30:33,True,True
+2016-03-31T02:31:31,MY NAME IS SHARKTANK!,0,0,The Dream,K9zy27apgI8,0.0,2016-03-31 02:31:31,True,True
+2016-04-01T09:53:33,This looks like kind of a weird movie lol,0,0,Pickering144,K9zy27apgI8,0.3,2016-04-01 09:53:33,True,True
+2016-04-06T01:01:01,Why a cat not a human probably to be funny the movie,0,0,Hugo Arizmendi,K9zy27apgI8,0.125,2016-04-06 01:01:01,True,True
+2016-04-06T03:25:42,1+ hour key and peele sketch.  worth it,0,0,Sampad Banerjee,K9zy27apgI8,0.15,2016-04-06 03:25:42,True,True
+2016-04-06T04:51:22,I am going to see this just to see that cat with his do rag on! Never laughed so hard in my life!,5,0,Beatrice Harris,K9zy27apgI8,-0.3572916666666667,2016-04-06 04:51:22,True,True
+2016-04-07T11:08:35,Keanu reeves is a cat?!,0,0,Luke R,K9zy27apgI8,0.0,2016-04-07 11:08:35,True,True
+2016-04-07T14:28:47,Plz guys just a cat and Hollywood said ye thia might work,0,0,sniper hits,K9zy27apgI8,0.0,2016-04-07 14:28:47,True,True
+2016-04-08T18:15:19,"Whats that ""freedom"" song called?",0,1,PH_Metal,K9zy27apgI8,0.0,2016-04-08 18:15:19,True,True
+2016-04-09T08:37:20,KEY AND PEELE!!,0,0,Aleksa Tadic,K9zy27apgI8,0.0,2016-04-09 08:37:20,True,True
+2016-04-09T14:29:51,Lol. Imma watch this,0,0,Paul Des,K9zy27apgI8,0.8,2016-04-09 14:29:51,True,True
+2016-04-09T19:37:28,Im liking this cuz im prettys sure thts the guy who played eazy-e,0,0,Nick Bermeo,K9zy27apgI8,0.5,2016-04-09 19:37:28,True,True
+2016-04-09T21:57:01,Can't see it rated R:((,0,0,Andrew Creel,K9zy27apgI8,-0.75,2016-04-09 21:57:01,True,True
+2016-04-19T02:22:03,if anything happens to the cat i'm gonna hurt somebody,36,0,th2k,K9zy27apgI8,0.0,2016-04-19 02:22:03,True,True
+2016-04-19T10:22:03,"I heard that WB was in financial trouble , I like what I've seen of K/P , so I'll go pay to see this.",2,0,Dan Ratte,K9zy27apgI8,-0.1,2016-04-19 10:22:03,True,True
+2016-04-21T02:30:24,i'm in!!!!!!,0,0,august comeon,K9zy27apgI8,0.0,2016-04-21 02:30:24,True,True
+2016-04-21T05:55:30,That's my name,0,0,Keanu John,K9zy27apgI8,0.0,2016-04-21 05:55:30,True,True
+2016-04-22T02:24:31,I think this can do well.,0,0,A Buck,K9zy27apgI8,0.0,2016-04-22 02:24:31,False,True
+2016-04-23T21:46:39,"Oh, yah! Can't go wrong about a Gangsta cat? Too cute!",0,0,Dianna Davis,K9zy27apgI8,0.0625,2016-04-23 21:46:39,False,True
+2016-04-23T23:51:57,i wonder how long casting took to find the cutest cat in the world,44,2,Cocoaben,K9zy27apgI8,-0.05,2016-04-23 23:51:57,False,True
+2016-04-24T18:51:41,I'm so gonna watch this movie,1,0,beastypie99,K9zy27apgI8,0.0,2016-04-24 18:51:41,False,True
+2016-04-25T21:58:20,THIS IS GOING TO BE THE SHIT!!!!!  LMAO 😁,4,0,Eddie O,K9zy27apgI8,-0.005175781250000011,2016-04-25 21:58:20,False,True
+2016-04-26T04:07:42,all i have to say is...that poor cat.  just no.,2,0,Miss D,K9zy27apgI8,-0.4,2016-04-26 04:07:42,False,True
+2016-04-27T00:47:22,This looks funny! :),0,0,McCain Jay,K9zy27apgI8,0.40625,2016-04-27 00:47:22,False,True
+2016-04-27T04:31:42,What is this rated ? Pg 13 or,0,1,Martin 1,K9zy27apgI8,0.0,2016-04-27 04:31:42,False,True
+2016-04-28T05:20:20,I'm there!,0,0,Energy Guru,K9zy27apgI8,0.0,2016-04-28 05:20:20,False,True
+2016-04-28T13:48:31,This is fucking stupid,0,0,ShadowDragon23,K9zy27apgI8,-0.7999999999999999,2016-04-28 13:48:31,False,True
+2016-04-28T16:23:15,cats rule!,7,0,ozzy Osborn,K9zy27apgI8,0.0,2016-04-28 16:23:15,False,True
+2016-04-28T21:47:26,what... in the name of fuck is this,2,0,Johan,K9zy27apgI8,-0.4,2016-04-28 21:47:26,False,True
+2016-04-29T07:47:36,Yassssss Bitch!,0,0,Chris Mowry,K9zy27apgI8,0.0,2016-04-29 07:47:36,False,True
+2016-04-29T15:18:19,FUCK THIS FUCKING MOVIE!!!,2,0,ShadowDragon23,K9zy27apgI8,-0.7,2016-04-29 15:18:19,False,True
+2016-04-29T21:54:20,this movie isnt in my country😢😢,0,0,Jondroid 17,K9zy27apgI8,0.0,2016-04-29 21:54:20,False,True
+2016-05-05T15:07:30,This movie sucked big time!,0,0,B Anderson,K9zy27apgI8,0.0,2016-05-05 15:07:30,False,True
+2016-05-07T03:25:36,This movie is pretty funny. Definitely a must watch.,0,0,JSJ 86,K9zy27apgI8,0.16666666666666666,2016-05-07 03:25:36,False,True
+2016-05-08T19:50:40,Two guys and a CAT AMAZING,0,0,Mark Lawrence,K9zy27apgI8,0.6000000000000001,2016-05-08 19:50:40,False,True
+2016-05-09T02:54:40,going to see this tomorrow😂👍,0,0,VANS OFF THE WALL,K9zy27apgI8,0.0,2016-05-09 02:54:40,False,True
+2016-05-11T12:20:55,*KEANU:* 2016 #full movie available now in HD version _STREAM NOW:_ https://plus.google.com/+DominicDenise/posts/AmX4VQnci1H,1,0,Varida Varda,K9zy27apgI8,0.375,2016-05-11 12:20:55,False,True
+2016-05-27T17:19:00,looks funny but wanna see it just for the George Michael music in it :),19,2,missisfreddiemercury,K9zy27apgI8,0.375,2016-05-27 17:19:00,False,True
+2016-05-29T04:36:18,yah man john wick haha,0,0,Mark Andrew Zurbano,K9zy27apgI8,0.2,2016-05-29 04:36:18,False,True
+2016-05-29T16:32:07,"6 minutes in, read Keanu Reeves makes a vocal cameo :D, love this movie",5,0,Iron Lungs,K9zy27apgI8,0.75,2016-05-29 16:32:07,False,True
+2016-06-01T10:54:48,this movie looks epic im seeing it,0,0,Jade,K9zy27apgI8,0.1,2016-06-01 10:54:48,False,True
+2016-06-02T19:00:33,"Racist atheists, opening scene is a massacre in a church filled with drugs  I pity America, I honestly pray for you, because when gods hand comes down it will crush your fucked up nation for the cesspool of shit you breed",0,1,3 Diesel,K9zy27apgI8,-0.009259259259259254,2016-06-02 19:00:33,False,True
+2016-06-07T11:34:21,Love This Movir,1,0,Manik Urk,K9zy27apgI8,0.5,2016-06-07 11:34:21,False,True
+2016-06-10T14:09:38,Keanu Is so cute,6,0,BigOofer 420,K9zy27apgI8,0.5,2016-06-10 14:09:38,False,True
+2016-06-13T00:44:57,oh my god keanu 🐱 turns in to 😎 thug life                        keanu 👏👏                                     ~~,1,0,Kali Rueda,K9zy27apgI8,0.0,2016-06-13 00:44:57,False,True
+2016-06-13T17:50:03,This is going to be soo EPIC!,0,0,Punk3rify,K9zy27apgI8,0.125,2016-06-13 17:50:03,False,True
+2016-06-16T11:53:22,"Can't wait to see it.  Bringing our four cats, too.",0,0,Happybidr,K9zy27apgI8,0.0,2016-06-16 11:53:22,False,True
+2016-06-20T23:23:28,"If your heart doesn't totally melt at 0:13, it's because you don't have one.  And hopefully it went better for these two in this film than it did in Fargo (season one).",0,0,David Gee,K9zy27apgI8,0.25,2016-06-20 23:23:28,False,True
+2016-06-21T01:29:56,It should have DMX in this movie,1,1,Leopard of Fear,K9zy27apgI8,0.0,2016-06-21 01:29:56,False,True
+2016-06-25T07:45:37,Now they should bring the show back.,0,0,Michael Garcia,K9zy27apgI8,0.0,2016-06-25 07:45:37,False,True
+2016-07-08T23:21:36,are these todays movies sorry but this film looks fucking shit the humour as well looks garbage just like every other film nowadays,0,1,Ni1784,K9zy27apgI8,-0.27499999999999997,2016-07-08 23:21:36,False,True
+2016-07-09T00:34:06,Hollywood Just ran out of Ideas,0,0,Matt Vlog,K9zy27apgI8,0.0,2016-07-09 00:34:06,False,True
+2016-07-09T16:48:36,Im gonna see this cause method man and the little cat,0,0,leo,K9zy27apgI8,-0.1875,2016-07-09 16:48:36,False,True
+2016-07-10T00:53:18,this is how black on black crime starts don't let Anna faris tear us apart........john wick the boogeyman inspired keanu....**spoiler alert** keanu reeve and method man....hilarious,0,0,VALMER LYNN,K9zy27apgI8,-0.16666666666666666,2016-07-10 00:53:18,False,True
+2016-07-10T00:59:13,key and peele show the world the deference between a AFRICAN AMERICAN.......AND A NIGGA...If this offends you watch the movie then you'll understand.,0,0,VALMER LYNN,K9zy27apgI8,0.0,2016-07-10 00:59:13,False,True
+2016-07-18T09:06:42,"saw the movie, damn funny ! :P",0,0,ZX6 RS,K9zy27apgI8,0.53125,2016-07-18 09:06:42,False,True
+2016-07-25T14:46:15,I think that might be the dumbest screenplay ever. 2 guys fighting gang over a cat.,0,1,Marcin P,K9zy27apgI8,0.0,2016-07-25 14:46:15,False,True
+2016-07-25T21:20:35,"Shit, id do same for my cat :))",0,0,Corey Mabbitt,K9zy27apgI8,0.09999999999999999,2016-07-25 21:20:35,False,True
+2016-07-31T17:05:31,"""Wazzap motherfuckers"" LMAO",0,0,Mugetsu,K9zy27apgI8,0.6,2016-07-31 17:05:31,False,False
+2016-08-05T03:53:39,I think it was funny,0,0,Dreia,K9zy27apgI8,0.25,2016-08-05 03:53:39,False,False
+2016-08-07T16:21:24,you must watch rly funny,0,0,LeLM,K9zy27apgI8,0.25,2016-08-07 16:21:24,False,False
+2016-08-08T02:35:51,I am soooooooooooooooooooooooooooooooo watching  this 😂,0,0,Tailed Beasts27,K9zy27apgI8,0.0,2016-08-08 02:35:51,False,False
+2016-08-08T14:59:49,do they have any of these trailers in caption? this looks hilarious!,0,0,Cindy,K9zy27apgI8,0.625,2016-08-08 14:59:49,False,False
+2016-08-09T19:07:46,Still better than Ghostbusters 2016,0,0,axe beard,K9zy27apgI8,0.5,2016-08-09 19:07:46,False,False
+2016-08-10T14:08:45,Well I'll give it a chance,0,0,Ni1784,K9zy27apgI8,0.0,2016-08-10 14:08:45,False,False
+2016-08-12T22:49:49,a movie about a pussy ...ON A CHAINWAAAAX,1,0,Khalid Alamin,K9zy27apgI8,0.0,2016-08-12 22:49:49,False,False
+2016-08-20T20:56:09,"You had me at ""kitten dressed as a gangster""",23,0,James Gibson,K9zy27apgI8,0.0,2016-08-20 20:56:09,False,False
+2016-08-23T04:34:03,"""Where's Jay-quellin at? No Jay-quellin here?"" ""Uh, do you mean Jacqueline?"" (Throws down clipboard)  ""Okay, so that's how it's gonna be. Y'all wanna play. Okay, then. I got my eye on you Jay-quellin.""",53,5,Heavyn Taliaferro-McClintock,K9zy27apgI8,0.1329861111111111,2016-08-23 04:34:03,False,False
+2016-08-23T05:44:21,"fucking crap movie, totally disappointed, had a beer and blunt ready to watch it and laugh ass off,,,,and just plain not funny, top worst movies ever.",1,0,YoungGun-RickyAnzley,K9zy27apgI8,-0.23616071428571428,2016-08-23 05:44:21,False,False
+2016-08-27T11:46:00,"i watched this, it was good",4,0,Luca HAMBLETON,K9zy27apgI8,0.7,2016-08-27 11:46:00,False,False
+2016-08-29T09:51:05,keanu reeves !,0,0,Bernard Paton,K9zy27apgI8,0.0,2016-08-29 09:51:05,False,False
+2016-09-13T05:47:33,This movie bombed at the box office. You should never try to change an association. Immediately you put yourself at a disadvantage. Everyone associates keanu with keanu reeves,0,0,Cake Dog,K9zy27apgI8,0.0,2016-09-13 05:47:33,False,False
+2016-09-25T21:04:16,Wait Keanu is that Cat?,1,0,Flairelle,K9zy27apgI8,0.0,2016-09-25 21:04:16,False,False
+2016-09-26T03:51:47,needs more cat,0,0,Egalitarian Ethos,K9zy27apgI8,0.5,2016-09-26 03:51:47,False,False
+2016-10-02T06:25:37,I just watched this movie.  it was bad that it was good.  I couldn't stop laughing,5,1,Chiamaka Igwe,K9zy27apgI8,5.551115123125783e-17,2016-10-02 06:25:37,False,False
+2016-10-12T17:45:16,1:10 music ???,0,0,Ash AMV's,K9zy27apgI8,0.0,2016-10-12 17:45:16,False,False
+2016-11-11T16:59:04,Ha ha ha ha ha ha ha ha ha ha ha ha.,0,0,jazzy777,K9zy27apgI8,0.0,2016-11-11 16:59:04,False,False
+2016-11-19T16:10:17,Who is here for RAE?,1,0,Skullkrane Entertainment,K9zy27apgI8,0.0,2016-11-19 16:10:17,False,False
+2017-01-06T06:11:55,"""This my jam!""",0,0,K+,K9zy27apgI8,0.0,2017-01-06 06:11:55,False,False
+2017-01-06T18:34:58,Very good movie!,0,0,Blink Sone,K9zy27apgI8,1.0,2017-01-06 18:34:58,False,False
+2017-01-25T22:46:11,my name is keanu,0,0,Super Fire 64 Kid,K9zy27apgI8,0.0,2017-01-25 22:46:11,False,False
+2017-01-31T03:30:35,cat and george michael,0,0,kalex888,K9zy27apgI8,0.0,2017-01-31 03:30:35,False,False
+2017-03-06T03:53:27,This movie is awesome  mustttt watch you guys,0,0,Nappy. goddess,K9zy27apgI8,1.0,2017-03-06 03:53:27,False,False
+2017-06-04T20:22:58,"my nwa roots tell me to say ""the nigga in the car is the caracter  EAZY-E """,0,0,felix,K9zy27apgI8,0.0,2017-06-04 20:22:58,False,False
+2017-06-24T01:10:42,0:12,0,0,okay is wonderful,K9zy27apgI8,0.0,2017-06-24 01:10:42,False,False
+2017-06-24T03:57:01,"Best film ever! Haha! Nah but seriously, this was sooo decent! I didn't know who Key and Peele were before this film and their genius plus cute kitten was just awesome! Lol!",0,0,BB Entertainment,K9zy27apgI8,0.453125,2017-06-24 03:57:01,False,False
+2017-07-03T12:25:46,i feel so sad that they used my name for a kitten,1,0,IROAM Z,K9zy27apgI8,-0.5,2017-07-03 12:25:46,False,False
+2017-07-26T14:51:44,glad to know there arent any racist comment here,1,0,Anime& Games,K9zy27apgI8,0.5,2017-07-26 14:51:44,False,False
+2017-08-07T00:31:20,Hilarious!,0,0,neo polaris,K9zy27apgI8,0.625,2017-08-07 00:31:20,False,False
+2017-08-16T14:45:26,Who else saw the rockafire explosion?,0,0,Someguy Studios,K9zy27apgI8,0.0,2017-08-16 14:45:26,False,False
+2017-08-18T23:13:34,ooo keanuuuu <3,1,0,memoli,K9zy27apgI8,1.0,2017-08-18 23:13:34,False,False
+2017-08-19T13:10:48,Keanu is an adorable little kitty. I'm a gut who loves cats and dogs.,0,0,MANIACAL METAL-HEAD,K9zy27apgI8,0.15625,2017-08-19 13:10:48,False,False
+2017-09-27T19:44:35,All Of This For a Kitten :D,0,0,Bando Baby,K9zy27apgI8,1.0,2017-09-27 19:44:35,False,False
+2017-12-30T23:11:53,i hatched this the other day annddd BITCH SHOOK!,1,0,anjolena,K9zy27apgI8,-0.15625,2017-12-30 23:11:53,False,False
+2018-01-22T10:51:29,THIS looks aiiiight. John Wick.....= nah.,0,0,Kagirion,K9zy27apgI8,0.0,2018-01-22 10:51:29,False,False
+2018-02-04T15:15:38,Meoooow,1,0,Dimitrios Desmos,K9zy27apgI8,0.0,2018-02-04 15:15:38,False,False
+2018-02-27T04:30:47,Adorei filme muito bom ação e comédia o melhor de dois mundos.,0,0,Pirata Produção,K9zy27apgI8,0.0,2018-02-27 04:30:47,False,False
+2018-03-01T18:34:03,This movie should be called Nigga Where's My Cat?,1,0,Sérgio Moura,K9zy27apgI8,0.0,2018-03-01 18:34:03,False,False
+2018-03-16T17:30:53,Shark Tank = Lavar Ball,0,0,Russell Victory,K9zy27apgI8,0.0,2018-03-16 17:30:53,False,False
+2018-03-18T15:42:03,This is the 3rd best movie I’ve ever watched in my life,1,1,awyeaah17,K9zy27apgI8,0.5,2018-03-18 15:42:03,False,False
+2018-03-20T20:53:08,super funny movie...love it!,1,0,Donna L. Carl Kuchinski,K9zy27apgI8,0.32291666666666663,2018-03-20 20:53:08,False,False
+2018-04-17T01:25:13,My name is Keanu Irving. Same name I got,2,0,God of halo600 Half of 185,K9zy27apgI8,0.0,2018-04-17 01:25:13,False,False
+2018-07-01T01:32:25,Yo me llamo Keanu!!!!,0,0,Keanu Trejo,K9zy27apgI8,0.0,2018-07-01 01:32:25,False,False
+2018-07-01T01:33:28,My name is Keanu!!!!,0,0,Keanu Trejo,K9zy27apgI8,0.0,2018-07-01 01:33:28,False,False
+2018-07-16T18:25:04,i freaking love thid movie,0,0,charlie walsh,K9zy27apgI8,0.5,2018-07-16 18:25:04,False,False
+2018-11-02T07:24:33,"1:26 the cat is cute while running :"")",10,0,X3mdain,K9zy27apgI8,0.5,2018-11-02 07:24:33,False,False
+2018-11-23T21:24:11,Is this really going to be a movie?,0,0,Monica Tovar,K9zy27apgI8,0.2,2018-11-23 21:24:11,False,False
+2019-01-06T00:52:22,👨‍💻Seen a kitty & some dudes with guns          A comedy watch this l8tr 👉🍿          💃                👍,1,0,Mark Arnott,K9zy27apgI8,0.0,2019-01-06 00:52:22,False,False
+2019-02-09T16:54:50,John wich with key and peele,0,0,CiGame,K9zy27apgI8,0.0,2019-02-09 16:54:50,False,False
+2019-03-05T04:42:11,"that bald actor has not changed 1 bit. I'm glad to see him in a funny  movie. If have a moment YouTube"" madtv gay gangsters.""",0,0,Emphasis213,K9zy27apgI8,0.3888888888888889,2019-03-05 04:42:11,False,False
+2019-03-13T16:39:57,Loved this movie...,0,0,Mercenary Mike,K9zy27apgI8,0.7,2019-03-13 16:39:57,False,False
+2019-03-25T11:31:54,"Ok, so nowadays, trailer=whole movie",0,0,Benuryu,K9zy27apgI8,0.5,2019-03-25 11:31:54,False,False
+2019-03-25T18:58:23,This was me when I rescued my kitty Chutle,0,0,Erin Gillen,K9zy27apgI8,0.0,2019-03-25 18:58:23,False,False
+2019-04-01T23:19:44,SHE LOOKS LIKE MY KITTY,0,0,belle,K9zy27apgI8,0.0,2019-04-01 23:19:44,False,False
+2019-04-01T23:22:32,I LOVE THIS HAHAHHA,0,0,belle,K9zy27apgI8,0.5,2019-04-01 23:22:32,False,False
+2019-05-01T13:00:50,I'm sold only because of the cute af kitten.,0,0,AquaticChaos,K9zy27apgI8,0.25,2019-05-01 13:00:50,False,False
+2019-05-18T01:55:56,ghetto cat,1,0,1ctf playz,K9zy27apgI8,0.0,2019-05-18 01:55:56,False,False
+2019-05-18T18:06:01,So Keanu Reeves plays the cat?,3,0,Tuner Impala,K9zy27apgI8,0.0,2019-05-18 18:06:01,False,False
+2019-06-04T08:09:47,Hi Reeves,0,0,limited,K9zy27apgI8,0.0,2019-06-04 08:09:47,False,False
+2019-06-06T03:35:58,The Title Name KEANU Is About Keanu Reeves. Lol,0,0,Ariel Malsi Real,K9zy27apgI8,0.8,2019-06-06 03:35:58,False,False
+2019-06-06T03:40:55,Kitten Please! Deja Vu.,0,0,Ariel Malsi Real,K9zy27apgI8,0.0,2019-06-06 03:40:55,False,False
+2019-06-12T06:28:30,"After watching this movie, I think Peele got inspired from this to make US.",0,0,Boy Boy,K9zy27apgI8,0.0,2019-06-12 06:28:30,False,False
+2019-06-18T01:48:10,Racist against white people,0,0,EROCK OFFICIAL MUZIC,K9zy27apgI8,0.0,2019-06-18 01:48:10,False,False
+2019-06-21T12:10:55,The title was a waste of our lord's holy name.,1,0,Walt Zamalis,K9zy27apgI8,-0.2,2019-06-21 12:10:55,False,False
+2019-08-04T03:06:16,"""Story line or nothing matters, cause we got the word Keanuu in the title, people will FLOCK to it, waiting for Reeves, but it won't happen."" ""AWR YEAH GREAT IDEA!"" Said no one.",0,0,renamix,K9zy27apgI8,1.0,2019-08-04 03:06:16,False,False
+2019-08-04T03:10:41,"HAH movie line about a famous actor getting revenge over a pet. Seriously, if you don't click dislike, your clearly promoting this sorta shit.",0,0,renamix,K9zy27apgI8,0.016666666666666677,2019-08-04 03:10:41,False,False
+2019-08-23T22:25:53,just seen this and its far better than the trailer.....  on netflix,0,0,Starlings Planet TV,K9zy27apgI8,0.3,2019-08-23 22:25:53,False,False
+2019-09-07T02:42:33,GEORGE MICHAEL,0,0,ᄌᄒᄌ,K9zy27apgI8,0.0,2019-09-07 02:42:33,False,False
+2019-10-10T18:47:12,This is John Wick but with a cat,1,0,Tuba Naaz,K9zy27apgI8,0.0,2019-10-10 18:47:12,False,False
+2019-10-14T18:25:09,Statistical fact: Your a guy in the 2010s who doesn’t street talk but talks normal and everyone thinks your gay.,0,0,Cesar Gallardo II,K9zy27apgI8,0.2833333333333333,2019-10-14 18:25:09,False,False
+2019-11-08T23:18:47,The mef.,0,0,D-Beat & Techno,K9zy27apgI8,0.0,2019-11-08 23:18:47,False,False
+2020-01-09T15:07:37,How am I just now noticing the Rock-afire Explosion cameo. It's 2020. Also never watched the movie. :(,0,0,Just George,K9zy27apgI8,-0.75,2020-01-09 15:07:37,False,False
+2020-01-18T02:53:29,Hilarious movie!,0,0,John Lincoln Hawk,K9zy27apgI8,0.625,2020-01-18 02:53:29,False,False
+2020-02-19T23:07:09,1:38 pause and you will see the rock afire explosion and 2:07 you can see wolf man and billy bob and 2nd gen fatz,0,0,Mxgo,K9zy27apgI8,0.0,2020-02-19 23:07:09,False,False
+2020-04-08T00:13:40,i never knew this movie existed until now last year i adopted a boy kitten and my brothers and i named him keanu this was a coincidence.,0,0,nuhaa naleer,K9zy27apgI8,0.0,2020-04-08 00:13:40,False,False
+2020-05-02T22:20:13,One of the best movies ever! LOVE IT!,1,0,Loco18,K9zy27apgI8,0.8125,2020-05-02 22:20:13,False,False
+2020-05-17T13:14:40,This is amaballs,0,0,Vijay Sharma,K9zy27apgI8,0.0,2020-05-17 13:14:40,False,False
+2020-06-01T01:34:29,"OMG when I was little I never realized that was key & peele, I first watched the trailer before I found out about key & peele.",0,0,Joel Carmen,K9zy27apgI8,0.015625,2020-06-01 01:34:29,False,False
+2020-06-07T07:39:26,Let's be real here: they made this movie just to have another chance to put a durag on a cat 🤣,0,0,Erica E.,K9zy27apgI8,0.2,2020-06-07 07:39:26,False,False
+2020-06-11T12:58:19,"The trailer is misleading. Contains the only good scenes.   The cat is cute, but the film is bad.",0,0,octavia moldovan,K9zy27apgI8,0.12500000000000003,2020-06-11 12:58:19,False,False

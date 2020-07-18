@@ -1,0 +1,725 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2014-06-25T08:20:55,First,0,0,Logan Howlett,DNHuK1rteF4,0.25,2014-06-25 08:20:55,True,True
+2014-06-25T08:27:59,Second,0,0,Gašper Pozderec,DNHuK1rteF4,0.0,2014-06-25 08:27:59,True,True
+2014-06-25T08:28:50,Aldo the Apache,46,0,Damjan Plamenac,DNHuK1rteF4,0.0,2014-06-25 08:28:50,True,True
+2014-06-25T08:29:13,4th,0,0,Billy,DNHuK1rteF4,0.0,2014-06-25 08:29:13,True,True
+2014-06-25T08:32:32,Looks promising ,0,0,Patradiablo,DNHuK1rteF4,0.2,2014-06-25 08:32:32,True,True
+2014-06-25T08:32:45,Btw 5th,0,0,Patradiablo,DNHuK1rteF4,0.0,2014-06-25 08:32:45,True,True
+2014-06-25T08:35:42,This is the movie where shia went crazy when they made it. He refused to shower for weeks and everyone on set disliked him.,550,28,George Costanza,DNHuK1rteF4,-0.4,2014-06-25 08:35:42,True,True
+2014-06-25T08:37:21,Another war movie,1,0,Massimo Ciceri,DNHuK1rteF4,0.0,2014-06-25 08:37:21,True,True
+2014-06-25T08:48:04,So dissappointed with this trailer!! I hope the movie isn't as bad as this trailer.,2,0,Dauz Chelat,DNHuK1rteF4,-0.6999999999999998,2014-06-25 08:48:04,True,True
+2014-06-25T08:48:14,I hated End of Watch.,0,0,sarcasuccus,DNHuK1rteF4,-0.9,2014-06-25 08:48:14,True,True
+2014-06-25T08:48:48,AAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH I CAN'T WAIT,0,0,Hakim E-Shark,DNHuK1rteF4,0.0,2014-06-25 08:48:48,True,True
+2014-06-25T08:48:57,Looks like a boring battle war movie which everyone has done already.. Nice 1.,2,0,Dafaa,DNHuK1rteF4,-0.2,2014-06-25 08:48:57,True,True
+2014-06-25T08:53:07,"I loved end of watch, like most of the cast except shia so I'm watching this in the movie theatre when it's released. ",0,0,ds37,DNHuK1rteF4,0.6,2014-06-25 08:53:07,True,True
+2014-06-25T08:54:08,"We need  WW3 just to provide new  movie material. Seriously, can we go a year without a WW2 movies",12,0,carlos mehicano,DNHuK1rteF4,-0.09848484848484848,2014-06-25 08:54:08,True,True
+2014-06-25T09:01:35,Hey! It's the movie where Shia LaBeouf went batshit repeatedly on set.,1,0,Magnus,DNHuK1rteF4,0.0,2014-06-25 09:01:35,True,True
+2014-06-25T09:02:20,Next saving private Ryan ,39,1,Matt Dammom,DNHuK1rteF4,0.0,2014-06-25 09:02:20,True,True
+2014-06-25T09:09:19,wow shit looks good,0,0,Mabbio,DNHuK1rteF4,0.19999999999999998,2014-06-25 09:09:19,True,True
+2014-06-25T09:14:10,this looks so bad,0,0,ell,DNHuK1rteF4,-0.6999999999999998,2014-06-25 09:14:10,True,True
+2014-06-25T09:17:25,propaganda for war,3,4,BongZilla Cough,DNHuK1rteF4,-0.1,2014-06-25 09:17:25,True,True
+2014-06-25T09:20:31,300 with tanks?,3,0,Kane Wheatley-Holder,DNHuK1rteF4,0.0,2014-06-25 09:20:31,True,True
+2014-06-25T09:21:32,"an american tank movie, great their going to make it look like our tanks weren't shit",0,0,Brien Irving,DNHuK1rteF4,0.20000000000000004,2014-06-25 09:21:32,True,True
+2014-06-25T09:22:41,Bootleg,0,0,Steadno,DNHuK1rteF4,-0.4,2014-06-25 09:22:41,True,True
+2014-06-25T09:23:02,5 vs 300 probably as the final battle I can't wait. ,13,1,David Outlaw,DNHuK1rteF4,0.0,2014-06-25 09:23:02,True,True
+2014-06-25T09:23:21,brad pitt wants more nazi scalps.,3,0,Brock Lesnar,DNHuK1rteF4,0.35,2014-06-25 09:23:21,True,True
+2014-06-25T09:23:46,Aldo the apache and Shane? Best team ever,2,0,Dániel Nagy,DNHuK1rteF4,1.0,2014-06-25 09:23:46,True,True
+2014-06-25T09:31:44,Where's the Bear Jew?,14,0,Ricardo Gabriel,DNHuK1rteF4,0.0,2014-06-25 09:31:44,True,True
+2014-06-25T09:32:24,another movie about ww2 well i guess the next one is about the story of another  squad of ww2 killing the germans...,0,0,Nayef AHAJJAM,DNHuK1rteF4,0.0,2014-06-25 09:32:24,True,True
+2014-06-25T09:47:41,Looks like Shia is still pretty famous.....,1,1,Eric Kats,DNHuK1rteF4,0.375,2014-06-25 09:47:41,True,True
+2014-06-25T09:55:24,"And this summer we present you - Brad Pitt, Shia LaBeouf in World Of Tanks.",8,0,gytisnau,DNHuK1rteF4,0.0,2014-06-25 09:55:24,True,True
+2014-06-25T09:55:45,Shane! ,8,0,F4TAL3FFECT,DNHuK1rteF4,0.0,2014-06-25 09:55:45,True,True
+2014-06-25T09:56:27,Oh shit the Spartans are coming!,6,0,eggo,DNHuK1rteF4,-0.25,2014-06-25 09:56:27,True,True
+2014-06-25T10:10:38,You know you are fucked when Germans are sending 300 Spartans.,78,1,Hidden driver,DNHuK1rteF4,-0.6,2014-06-25 10:10:38,True,True
+2014-06-25T10:19:10,Aww shit it's a must watch!,0,0,TheTruthBeTold,DNHuK1rteF4,0.024999999999999994,2014-06-25 10:19:10,True,True
+2014-06-25T10:23:54,Saving Private Bastard.,0,0,Benjamin Dahlerup,DNHuK1rteF4,0.0,2014-06-25 10:23:54,True,True
+2014-06-25T10:24:48,Logan Lerman is awesome!,44,0,GottaloveMuse1,DNHuK1rteF4,1.0,2014-06-25 10:24:48,True,True
+2014-06-25T10:35:31,Great Casting,0,0,berny zarate,DNHuK1rteF4,0.8,2014-06-25 10:35:31,True,True
+2014-06-25T10:38:38,YES A WAR MOVIE WITH A TANK IN IT I HAVE AN OBBSESSIN WITH TANKS SO YEA,0,0,HIGH IMPACT,DNHuK1rteF4,0.0,2014-06-25 10:38:38,True,True
+2014-06-25T10:44:36,Wait... Shia LaBeouf AND Logan Lerman in a WWII movie? That's something I never would have seen coming. ,1,0,LokaCola,DNHuK1rteF4,0.0,2014-06-25 10:44:36,True,True
+2014-06-25T10:49:49,Shia LaBeouf is a cock......not sure If i can watch this film,1,1,Mustard Tiger,DNHuK1rteF4,0.5,2014-06-25 10:49:49,True,True
+2014-06-25T10:55:16,300 vs 5? I bet some will have a nice K/D score in the end...,2,1,Slider2k,DNHuK1rteF4,0.6,2014-06-25 10:55:16,True,True
+2014-06-25T11:03:35,SHANE!!!,0,0,Peter Ping,DNHuK1rteF4,0.0,2014-06-25 11:03:35,True,True
+2014-06-25T11:07:44,02:04 nice haircut for WWII,0,0,MadeMyDay,DNHuK1rteF4,0.6,2014-06-25 11:07:44,True,True
+2014-06-25T11:23:25,"Another Fantasy Movie about WWII. I'm just waiting for someone to say: ""Release the Kraken!"" :D",188,7,mantys2k,DNHuK1rteF4,1.0,2014-06-25 11:23:25,True,True
+2014-06-25T11:23:36,Love to see Tiger I vs USA Sherman,0,0,零一,DNHuK1rteF4,0.5,2014-06-25 11:23:36,True,True
+2014-06-25T11:26:18,Shane? ,0,0,michael burch,DNHuK1rteF4,0.0,2014-06-25 11:26:18,True,True
+2014-06-25T11:27:39,war is always a dirty business but this trailer looks amazing,0,0,BatmanFANizationReborn,DNHuK1rteF4,5.551115123125783e-17,2014-06-25 11:27:39,True,True
+2014-06-25T11:33:36,"As a player of WOT, i got see this!",0,0,Surfing Lion,DNHuK1rteF4,0.0,2014-06-25 11:33:36,True,True
+2014-06-25T11:41:18,this is a bad movie,0,0,Jamal EL,DNHuK1rteF4,-0.6999999999999998,2014-06-25 11:41:18,True,True
+2014-06-25T12:03:58,"Are You Kidding Me, What A Load Of Bullshit Propaganda. If You Believe This Crap You'd Believe Anything. Looks Like It Has Good Production Values And A Good Cast But I Mean Come On, Give Us Something That Is Realistic.. ",3,3,Aussie Jok,DNHuK1rteF4,0.059027777777777755,2014-06-25 12:03:58,True,True
+2014-06-25T12:10:48,I think shia is a amazing actor just amazing but he might be a little stupid that doesn't mean he can't act ,1,0,MrThehammer171,DNHuK1rteF4,-0.019999999999999952,2014-06-25 12:10:48,True,True
+2014-06-25T12:14:27,World of Tanks: The Movie,0,0,H.P.M.R,DNHuK1rteF4,0.0,2014-06-25 12:14:27,True,True
+2014-06-25T12:23:51,more WW2 shit....,0,0,Endy Enderson,DNHuK1rteF4,0.15,2014-06-25 12:23:51,True,True
+2014-06-25T12:24:17,Am I the only one had goose bumps while watching this?,249,6,mestido,DNHuK1rteF4,0.0,2014-06-25 12:24:17,True,True
+2014-06-25T12:31:22,hey i thought shia stopped making movies what is this is shia cg ?,0,0,KoG GoK,DNHuK1rteF4,0.0,2014-06-25 12:31:22,True,True
+2014-06-25T12:35:14,Another war movie,0,0,Lord Baba,DNHuK1rteF4,0.0,2014-06-25 12:35:14,True,True
+2014-06-25T12:56:35,Has anyone made an inglorious basterds 2 joke yet?,0,0,Jarett Bonner,DNHuK1rteF4,0.0,2014-06-25 12:56:35,True,True
+2014-06-25T12:57:36,Bidness is still boomin',0,0,lolzcaption,DNHuK1rteF4,0.0,2014-06-25 12:57:36,True,True
+2014-06-25T13:13:38,An I the only one who thinks that the Shermans desperately needed bigger guns? Seriously I've heard stories where they peppered tiger tanks at close range only to get blasted apart in one shot!,15,6,1st Captain Raldoron,DNHuK1rteF4,-0.28055555555555556,2014-06-25 13:13:38,True,True
+2014-06-25T13:13:53,'Muricans good. Germans bad. Got it chief. Nice production values though. ,1,0,Brock R. B.,DNHuK1rteF4,0.20000000000000004,2014-06-25 13:13:53,True,True
+2014-06-25T13:15:26,300 The newest version of Spartans ,0,0,Saqib Muhammad Ibrahim,DNHuK1rteF4,0.0,2014-06-25 13:15:26,True,True
+2014-06-25T13:19:35,Shane!!!! Why doesn't Jon Bernthal get mentioned in the movies he's in?,304,7,TheGamer2323,DNHuK1rteF4,0.0,2014-06-25 13:19:35,True,True
+2014-06-25T13:23:06,"i was hoping to be the first commenter, but okay",0,0,ProShiv Comedy,DNHuK1rteF4,0.375,2014-06-25 13:23:06,True,True
+2014-06-25T13:30:02,This movie looks dull as f*ck.,5,1,Tyrog,DNHuK1rteF4,-0.2916666666666667,2014-06-25 13:30:02,True,True
+2014-06-25T13:36:30,MERICA MOTHER FUCKERS,0,0,BobbyG,DNHuK1rteF4,0.0,2014-06-25 13:36:30,True,True
+2014-06-25T13:56:59,"For years I've been in hunger for tank movies, I'm so watching this in cinema :)",33,0,Hopper,DNHuK1rteF4,0.5,2014-06-25 13:56:59,True,True
+2014-06-25T13:58:28,"OMG UUUH, that walking dead guy is in this! i hated him. won't be able to watch this and seeing that guy without thinking of Shan",0,0,kyri comfort,DNHuK1rteF4,-0.21666666666666665,2014-06-25 13:58:28,True,True
+2014-06-25T14:00:07,cool cast looking forward to it!,0,0,xana maniac,DNHuK1rteF4,0.4375,2014-06-25 14:00:07,True,True
+2014-06-25T14:12:43,It will probably just end like saving private ryan,0,0,Rick van Pol,DNHuK1rteF4,0.0,2014-06-25 14:12:43,True,True
+2014-06-25T14:13:04,"Brad Pitt, Jon Bernthal, Scott Eastwood, Xavier Samuel, Jason Isaacs, and Michael Pena will make the movie.  Shia LaBeouf will come to close to ruining it.",0,0,ShawnBurnes2,DNHuK1rteF4,0.0,2014-06-25 14:13:04,True,True
+2014-06-25T14:15:21,"another bullshit movie, first of all, the red tails, and now this. amies always think everybody is idiot just like themselves....",0,4,Odannel O'Connor,DNHuK1rteF4,-0.18333333333333335,2014-06-25 14:15:21,True,True
+2014-06-25T14:17:53,Sorry but it is boring,0,0,marauder15,DNHuK1rteF4,-0.75,2014-06-25 14:17:53,True,True
+2014-06-25T14:23:57,The 'stache.,4,0,Matyboi,DNHuK1rteF4,0.0,2014-06-25 14:23:57,True,True
+2014-06-25T14:32:29,Still doesn't come close to The Longest Day.,0,0,The Lacking Skoomer,DNHuK1rteF4,0.0,2014-06-25 14:32:29,True,True
+2014-06-25T14:35:02,Logan!!,0,0,Valeria I,DNHuK1rteF4,0.0,2014-06-25 14:35:02,True,True
+2014-06-25T14:48:02,Shia ,0,0,Humble narrator,DNHuK1rteF4,0.0,2014-06-25 14:48:02,True,True
+2014-06-25T14:48:22,More dirt.  More hunky men.  More cigarettes.  And...action.,0,0,Wolffenhaus Merry,DNHuK1rteF4,0.5,2014-06-25 14:48:22,True,True
+2014-06-25T14:51:58,"lol, Shia LaBeouf, SO BADASS!",1,0,FOX XII,DNHuK1rteF4,1.0,2014-06-25 14:51:58,True,True
+2014-06-25T14:51:59,Wow this looks solid  Waiting for the movie to hit theatres...!!,9,0,Vishnu Menon,DNHuK1rteF4,0.05,2014-06-25 14:51:59,True,True
+2014-06-25T14:56:02,No ice.,0,0,manuelito1233,DNHuK1rteF4,0.0,2014-06-25 14:56:02,True,True
+2014-06-25T15:01:23,"""Each and every man under my command owes me one hundred Nazi scalps. And I want my scalps. And all y'all will git me one hundred Nazi scalps, taken from the heads of one hundred dead Nazis. Or you will die tryin'.""  Oh.  Wrong movie. ",0,0,Eric Stevenson,DNHuK1rteF4,-0.35,2014-06-25 15:01:23,True,True
+2014-06-25T15:09:15,"Massive fan of End of Watch so I'll give this ago, trailer looks decent. ",1,0,92dunbar,DNHuK1rteF4,0.08333333333333333,2014-06-25 15:09:15,True,True
+2014-06-25T15:14:42,"it looks good and has potential but they've probably fucked it up anyway. No doubt brad pitt is going to be a super soldier that knows everything about war, the love interest is going to ruin the movie and then most of the facts are gonna be way off. im gonna bet that this movie is far too much of a spin-off epic exaggeration of the real history to call itself a WW2 movie, it'll probably end up as a glorified COD movie.",15,3,gyConnor98,DNHuK1rteF4,0.20333333333333337,2014-06-25 15:14:42,True,True
+2014-06-25T15:14:43,Dat Mustache,0,0,Ainz,DNHuK1rteF4,0.0,2014-06-25 15:14:43,True,True
+2014-06-25T15:50:48,"They call themselves the ""Bastards""",0,0,Jacob Garrido,DNHuK1rteF4,0.0,2014-06-25 15:50:48,True,True
+2014-06-25T15:58:41,another try hard movie,0,0,Faisal TheTenniciousteddybearr,DNHuK1rteF4,-0.2916666666666667,2014-06-25 15:58:41,True,True
+2014-06-25T16:03:15,Brad Pitt fighting Nazis once again.,0,0,John Barnes,DNHuK1rteF4,0.0,2014-06-25 16:03:15,True,True
+2014-06-25T16:07:56,Anyone know the song at 1:55 ?,0,2,Jacob DeFlitch,DNHuK1rteF4,0.0,2014-06-25 16:07:56,True,True
+2014-06-25T16:14:07,"That Sherman has week armor , wtf is it thinking fighting with a Tiger :/",0,0,Mirei,DNHuK1rteF4,-0.375,2014-06-25 16:14:07,True,True
+2014-06-25T16:20:26,When did Brad Pitt develop this weird WWII fetish?,357,9,ThePromisedWLAN,DNHuK1rteF4,-0.5,2014-06-25 16:20:26,True,True
+2014-06-25T16:22:23,What Percy doing over here..,0,0,wall lauWei,DNHuK1rteF4,0.0,2014-06-25 16:22:23,True,True
+2014-06-25T16:24:17,"Not much into war movies but this looks good, it looks like they picked a nice variety of actors.",0,0,e g,DNHuK1rteF4,0.39999999999999997,2014-06-25 16:24:17,True,True
+2014-06-25T16:32:33,Lieutenant Aldo Raine is back!,0,0,mario monzon,DNHuK1rteF4,0.0,2014-06-25 16:32:33,True,True
+2014-06-25T16:42:18,"people enough war movies, it's really getting extremely boring!!! ",0,0,unpredictablemove88,DNHuK1rteF4,-0.26666666666666666,2014-06-25 16:42:18,True,True
+2014-06-25T16:44:20,Brad Pitt is the man.,0,0,eballezza,DNHuK1rteF4,0.0,2014-06-25 16:44:20,True,True
+2014-06-25T16:46:40,My brother and dad worked on this! I am looking forward to seeing it in the cinema :),2,0,ENDOFANAGEMUSIC,DNHuK1rteF4,0.5,2014-06-25 16:46:40,True,True
+2014-06-25T17:01:26,"Shia LaBeouf in this movie ""No No No No No No No No No No No No No No No No No No No No No No No No No No No No No No No No No No No No No!""",1,2,Jason,DNHuK1rteF4,0.0,2014-06-25 17:01:26,True,True
+2014-06-25T17:08:04,"IF anyone was curious, the tank they are using is a M4A3E8 or ""Easy Eight"" Sherman. Basically just an up-armored and quicker variant of the classic M4",31,21,ISAFMobius18,DNHuK1rteF4,0.16666666666666666,2014-06-25 17:08:04,True,True
+2014-06-25T17:29:10,Woof Woof!,0,0,Lord Moriarty007,DNHuK1rteF4,0.0,2014-06-25 17:29:10,True,True
+2014-06-25T17:35:07,It's about time we had another solid World War Two movie focused on tanks. ,18,9,Puggy_,DNHuK1rteF4,0.0,2014-06-25 17:35:07,True,True
+2014-06-25T17:40:01,Is Shia Labeouf going to wear a paper bag on his head in this movie? ,0,0,Collin Taylor,DNHuK1rteF4,0.0,2014-06-25 17:40:01,True,True
+2014-06-25T17:42:14,"ahhhh...another movie from a good war, where the enemies got defeated, the opponent had a clear cut villain image and afterwards glory and victory awaited! It is even psychological, with all the crap that is now enfolding in Iraq and Afghanistan where veterans are asking themselves, what the heck all the fighting in falludscha was about in the end!",4,3,Tracchofyre,DNHuK1rteF4,-0.04375000000000001,2014-06-25 17:42:14,True,True
+2014-06-25T17:49:51,This might be a good movie Brad Pitt is a great actor. Shia and Logan might bring the movie down a notch but the fact that it's a WWII movie makes it up for me,0,0,Alex White,DNHuK1rteF4,0.44814814814814813,2014-06-25 17:49:51,True,True
+2014-06-25T17:53:37,"Brat Pit wass great in BASTERDS , think this goin to be awesome ",0,0,Михаил Петров,DNHuK1rteF4,0.9,2014-06-25 17:53:37,True,True
+2014-06-25T18:00:51,i swear that little shit logan lerman better not be oscar nominated for this,0,2,Dre5ds,DNHuK1rteF4,0.0375,2014-06-25 18:00:51,True,True
+2014-06-25T18:02:01,This will either redeem Shia LaBeouf or it will destroy both Brads and Shias image. ,3,1,Animal Liberator,DNHuK1rteF4,-0.2,2014-06-25 18:02:01,True,True
+2014-06-25T18:33:41,"пересняли ""четыре танкиста и собака"",но без собаки!!",0,0,Djon Rembo,DNHuK1rteF4,0.0,2014-06-25 18:33:41,True,True
+2014-06-25T18:37:48,Brad Pitt sure loves killing Nazis ,1,0,chaosinorderrr,DNHuK1rteF4,0.5,2014-06-25 18:37:48,True,True
+2014-06-25T18:38:17,"C'mon, Shia, don't blow it this time!",0,0,Mau Jo,DNHuK1rteF4,0.0,2014-06-25 18:38:17,True,True
+2014-06-25T18:40:13,Guys und Panzer.,0,0,3FreddyKrueger,DNHuK1rteF4,0.0,2014-06-25 18:40:13,True,True
+2014-06-25T18:46:23,"sorry, but it looks like shit...",8,4,germnbill,DNHuK1rteF4,-0.35,2014-06-25 18:46:23,True,True
+2014-06-25T18:54:11,Ours is The Fury,0,0,Tengri,DNHuK1rteF4,0.0,2014-06-25 18:54:11,True,True
+2014-06-25T18:57:00,Oh yeeeeaaaah. This looks great!,0,0,MrStickers208,DNHuK1rteF4,1.0,2014-06-25 18:57:00,True,True
+2014-06-25T19:02:17,i can smell an oscar,0,0,George Konstanse,DNHuK1rteF4,0.0,2014-06-25 19:02:17,True,True
+2014-06-25T19:15:55,NEW HUNGER GAMES TEASER,0,0,Cinema Wolf,DNHuK1rteF4,0.13636363636363635,2014-06-25 19:15:55,True,True
+2014-06-25T19:37:06,I'm afraid Shia LaBeouf will ruin the movie for me.,0,0,Ryan Hoxie,DNHuK1rteF4,-0.6,2014-06-25 19:37:06,True,True
+2014-06-25T19:37:23,so the casting for this film is phenomenal and different. i love a good war movie and this is just very intriguing. ,0,0,Briana Mia,DNHuK1rteF4,0.418,2014-06-25 19:37:23,True,True
+2014-06-25T19:39:50,"Co to ma być? Jakaś amerykańska wariacja nt. ""Czterech pancernych"" (bez psa), czy cuś? ;)",0,0,scrag83,DNHuK1rteF4,0.25,2014-06-25 19:39:50,True,True
+2014-06-25T19:48:57,Yet another fairy tale about US heroically saving the world from nazis four-fifth of whose troops were defeated by Soviet Union.,9,0,Sentinel of Silence,DNHuK1rteF4,0.0,2014-06-25 19:48:57,True,True
+2014-06-25T19:56:23,"Oh WOW, finally a movie worth going to see. ",0,0,Bobby,DNHuK1rteF4,0.13333333333333333,2014-06-25 19:56:23,True,True
+2014-06-25T19:56:27,Looks great.,0,0,AssassinGaming,DNHuK1rteF4,0.8,2014-06-25 19:56:27,True,True
+2014-06-25T20:04:50,This movie looks fantastic!,0,0,Joebor1777,DNHuK1rteF4,0.5,2014-06-25 20:04:50,True,True
+2014-06-25T20:08:20,"In WWII films, Germans were always the bad guys huh??",0,0,Lp Padilla,DNHuK1rteF4,-0.6999999999999998,2014-06-25 20:08:20,True,True
+2014-06-25T20:19:58,i sure hope yifi or Silmarillion releases a good WEBrip of this :-D,0,0,Dragon_of_Tragedy,DNHuK1rteF4,0.7333333333333334,2014-06-25 20:19:58,True,True
+2014-06-25T20:35:43,Brad Pitt has unreal super haircut.,0,0,TheBestDayEver4you,DNHuK1rteF4,0.3333333333333333,2014-06-25 20:35:43,True,True
+2014-06-25T20:39:28,Did I just witness a Sherman take a hit from a Tiger at close range and survive with no damage? Or am I just seeing shit again.,0,0,Caporegime,DNHuK1rteF4,-0.2,2014-06-25 20:39:28,True,True
+2014-06-25T20:42:14,Hope it's good!,1,7,COH2.ORG,DNHuK1rteF4,0.875,2014-06-25 20:42:14,True,True
+2014-06-25T21:27:59,Really looking forward to this one ,0,0,Zolipsist,DNHuK1rteF4,0.2,2014-06-25 21:27:59,True,True
+2014-06-25T21:28:17,David Ayer can be very hit or miss. I'm hoping this will be more of the former but I shall keep my expectations low until the film comes out. ,0,0,No Where Man,DNHuK1rteF4,0.175,2014-06-25 21:28:17,True,True
+2014-06-25T21:34:56,This movie looks awful.,0,0,Ajani Amiri,DNHuK1rteF4,-1.0,2014-06-25 21:34:56,True,True
+2014-06-25T21:37:35,Watching this only because of Brad Pitt and Logan Lerman 😍😍😍😍,0,0,Candela Lopez,DNHuK1rteF4,0.0,2014-06-25 21:37:35,True,True
+2014-06-25T21:44:16,why Shia LaBeouf .. ?? Now I am gonna download this movie ...,0,0,New AAA Super,DNHuK1rteF4,0.0,2014-06-25 21:44:16,True,True
+2014-06-25T22:22:47,Shia is not dead!!!,0,0,paulo ed machado,DNHuK1rteF4,0.1953125,2014-06-25 22:22:47,True,True
+2014-06-25T23:07:13,5 vs 300-this is Sparta?,0,0,michaelgloch,DNHuK1rteF4,0.0,2014-06-25 23:07:13,True,True
+2014-06-25T23:07:16,5 vs 300-this is Sparta?,7,0,michaelgloch,DNHuK1rteF4,0.0,2014-06-25 23:07:16,True,True
+2014-06-25T23:20:59,It might have been a decent movie if it didn't have Shia LaBeouf in it.,0,0,teccec,DNHuK1rteF4,0.16666666666666666,2014-06-25 23:20:59,True,True
+2014-06-25T23:31:45,so looking forward to this!!,0,0,Sinlo Kemp,DNHuK1rteF4,0.0,2014-06-25 23:31:45,True,True
+2014-06-26T00:23:34,Where' s bear jew?,0,0,Mikhaïl Boulgakov,DNHuK1rteF4,0.0,2014-06-26 00:23:34,True,True
+2014-06-26T00:25:10,Ehhh!!! looks okay nothing to get excited about doe.,0,0,DJ Clark,DNHuK1rteF4,0.4375,2014-06-26 00:25:10,True,True
+2014-06-26T00:45:19,"This is going to be epic! Such an abundance number of tag quotes. Fighting Nazis, getting paid 1.35$ a day. Tank crew voicing their motto in succession. ""Best Job I've ever had!"" ...Classic stuff, just classic.",0,0,David Evans,DNHuK1rteF4,0.3229166666666667,2014-06-26 00:45:19,True,True
+2014-06-26T01:34:31,This might be better than lone survivor,0,0,whatsup89100,DNHuK1rteF4,0.5,2014-06-26 01:34:31,True,True
+2014-06-26T01:38:41,Can't wait till this movie comes out!!!!,0,0,DaizOnFyre,DNHuK1rteF4,0.0,2014-06-26 01:38:41,True,True
+2014-06-26T01:42:33,Can't waet for this movai,0,0,lord-ksa999,DNHuK1rteF4,0.0,2014-06-26 01:42:33,True,True
+2014-06-26T02:50:54,Its that bald headed guy that fucked that other guy's wife in The Walking Dead so the guy that has the wife doesn't know that bald headed guy fucked his wife so the guy who fucked his wife tries to kill the guy with the wife but fails and the other guy kills him instead,0,0,Chloridrex0,DNHuK1rteF4,-0.35625,2014-06-26 02:50:54,True,True
+2014-06-26T03:06:02,Finally a tank movie. I also wish they made more good plane movies as well. ,0,0,Trevor Haley,DNHuK1rteF4,0.39999999999999997,2014-06-26 03:06:02,True,True
+2014-06-26T03:07:17,so this is the last stand after the zombies and decepticons struck earth,0,0,DaKussh,DNHuK1rteF4,0.0,2014-06-26 03:07:17,True,True
+2014-06-26T03:22:25,Ain't no way a Sherman can take on a Tiger 1 on 1. Can't be done. ,0,5,Luke William,DNHuK1rteF4,0.0,2014-06-26 03:22:25,True,True
+2014-06-26T03:49:57,What's with the audio?,0,0,Caden Burleson,DNHuK1rteF4,0.0,2014-06-26 03:49:57,True,True
+2014-06-26T04:01:21,"Nice hair cut Brad, is that military issue?",2,0,kickzo,DNHuK1rteF4,0.25,2014-06-26 04:01:21,True,True
+2014-06-26T04:11:08,is it released????????????,0,0,Rajitha Nirmal,DNHuK1rteF4,0.0,2014-06-26 04:11:08,True,True
+2014-06-26T04:31:54,Tiger vs Sherman. What's the bet in real life?,1,9,UncleJoeofAmerica,DNHuK1rteF4,0.2,2014-06-26 04:31:54,True,True
+2014-06-26T05:03:18,"wow, that's good!",0,0,Smith Alan,DNHuK1rteF4,0.4875,2014-06-26 05:03:18,True,True
+2014-06-26T05:18:59,ssgt nick fury anyone,0,0,Patrick Foo,DNHuK1rteF4,0.0,2014-06-26 05:18:59,True,True
+2014-06-26T05:21:19,Take my money.,0,0,Carl Loewenguth,DNHuK1rteF4,0.0,2014-06-26 05:21:19,True,True
+2014-06-26T05:41:59,"i'm so tired of world war 2 movies and games,but i'll watch this one last one though.lol",0,0,Carl Kearse,DNHuK1rteF4,-0.2,2014-06-26 05:41:59,True,True
+2014-06-26T05:54:10,"Great. Every video about tanks, guns, airplanes, cars, we get dorks who volunteer their information that no one except their fellow dorks give a shit about. ""oh that tank model is this"" ""oh that gun is a modified ak-shit-shooter"" ""that airplane is a boeing-poop-flyer-whateer"". Get these dorks some pussy so they'd shut up. ",1,0,shogrran,DNHuK1rteF4,0.30000000000000004,2014-06-26 05:54:10,True,True
+2014-06-26T05:58:22,they are using the M4 easy 8 and the M4 reg also the main characters tank are FireFly model 1 designed by the Americans. BUT Americans never prohibited tank design from another country so FireFly in American tank group didn't exist. only design of that tank used was from the Brits,2,0,Husky Strylight,DNHuK1rteF4,0.15,2014-06-26 05:58:22,True,True
+2014-06-26T06:15:52,"look, an other movie about 5 americans raping tons of evil, faceless german soldiers who just got out of the Marksmanship School of Stormtroopers. *yawn*",0,0,Rouvenor,DNHuK1rteF4,-0.375,2014-06-26 06:15:52,True,True
+2014-06-26T06:43:33,Wow,0,0,jacob henderson,DNHuK1rteF4,0.1,2014-06-26 06:43:33,True,True
+2014-06-26T06:45:04,this might be good,0,0,asaxander740,DNHuK1rteF4,0.7,2014-06-26 06:45:04,True,True
+2014-06-26T07:31:18,well david ayer did end of watch and lets not forget sabotage and street kings which were stupid as hell hoping this will turn out to be great like end of watch,0,0,melih narinç,DNHuK1rteF4,5.551115123125783e-17,2014-06-26 07:31:18,True,True
+2014-06-26T07:47:11,Yeah Shia. If you don't know what to do just cast one of the shittiest actors out there,0,0,SongJiangShiJin,DNHuK1rteF4,0.0,2014-06-26 07:47:11,True,True
+2014-06-26T07:58:26,Logan Lerman <3,0,0,Rice Bao,DNHuK1rteF4,1.0,2014-06-26 07:58:26,True,True
+2014-06-26T08:15:08,Brad i love you,0,0,fani athanasiou,DNHuK1rteF4,0.5,2014-06-26 08:15:08,True,True
+2014-06-26T08:30:25,"Two possible endings:  1. A tiger tank blows the crap out of the tank, we all go home happy. 2. They close in on Berlin only to be told, sorry the Russians got here first and won the war for the Allies in Europe <--- True story!",0,0,SlayerOfLies,DNHuK1rteF4,0.026785714285714284,2014-06-26 08:30:25,True,True
+2014-06-26T08:37:13,aldo raine is back!,0,0,Tommaso Tacchino,DNHuK1rteF4,0.0,2014-06-26 08:37:13,True,True
+2014-06-26T08:44:35,Best job I ever had!,0,0,impatientfire,DNHuK1rteF4,1.0,2014-06-26 08:44:35,True,True
+2014-06-26T09:24:23,Metal Slug in 1945???,0,0,Keen Leong Yan,DNHuK1rteF4,0.0,2014-06-26 09:24:23,True,True
+2014-06-26T09:40:18,I blame the jews...,0,0,lolizorz,DNHuK1rteF4,0.0,2014-06-26 09:40:18,True,True
+2014-06-26T10:56:06,"Looks exciting, but the actors are so famous that their roles are'nt believable!..it's not a  battle-hardened soldier, it's BRAD PITT!..he has a life of luxury, and your gonna keep telling yourself that every time you see him on screen..independent movies are best cos' they use actors you have'nt seen before, so their roles are realistic.",1,0,Mike Jenkins,DNHuK1rteF4,0.4916666666666667,2014-06-26 10:56:06,True,True
+2014-06-26T10:59:48,I have never seen americans saving the world in cinema...,1,0,Nuria Hill,DNHuK1rteF4,0.0,2014-06-26 10:59:48,True,True
+2014-06-26T11:08:55,If that sherman ends up taking out a tiger with little difficulty I think I'll laugh my way out of the cinema >_>,0,0,gp01zephyranthes,DNHuK1rteF4,0.056249999999999994,2014-06-26 11:08:55,True,True
+2014-06-26T11:48:07,"When the sherman boucned a shot from the  tiger, it was a good enough evidence for to call it a propeganda movie where the western are superior even if its one against 100",0,0,EM0tional Goose,DNHuK1rteF4,0.35,2014-06-26 11:48:07,True,True
+2014-06-26T11:56:04,"Holy shit! I can not bloody wait any longer to watch this, damn it looks good!!!!!!",0,0,KatyTM,DNHuK1rteF4,0.3833333333333333,2014-06-26 11:56:04,True,True
+2014-06-26T12:05:50,Looks damn good,0,0,sarvesh dhiman,DNHuK1rteF4,0.7,2014-06-26 12:05:50,True,True
+2014-06-26T12:23:32,World of Tanks now in HD,0,0,Ebu Gamer,DNHuK1rteF4,0.0,2014-06-26 12:23:32,True,True
+2014-06-26T12:36:31,looks good.,0,0,Hasan Can Terzi,DNHuK1rteF4,0.7,2014-06-26 12:36:31,True,True
+2014-06-26T12:47:29,I've been waiting for a Saving Private Ryan sequel for a while.,0,0,D4shEight,DNHuK1rteF4,0.0,2014-06-26 12:47:29,True,True
+2014-06-26T12:57:12,Gorlami.,0,0,Druskqq,DNHuK1rteF4,0.0,2014-06-26 12:57:12,True,True
+2014-06-26T13:14:40,"Immer diese Anti Nazi filme, die amis sind schlimmer als alle Nazis zusammen!",0,0,H41822,DNHuK1rteF4,0.0,2014-06-26 13:14:40,True,True
+2014-06-26T13:15:37,i dont like it,0,0,isthislife2,DNHuK1rteF4,0.0,2014-06-26 13:15:37,True,True
+2014-06-26T13:51:57,Showed to much.,0,0,Alex Robledo,DNHuK1rteF4,0.2,2014-06-26 13:51:57,True,True
+2014-06-26T13:57:53,SAVING PRIVATE SHIA.. im not famous anymoreeeeeeee,0,0,stefanlilly,DNHuK1rteF4,-0.125,2014-06-26 13:57:53,True,True
+2014-06-26T15:16:59,Lieutenant Aldo Raynes!,0,0,Adam,DNHuK1rteF4,0.0,2014-06-26 15:16:59,True,True
+2014-06-26T15:27:05,"someone should make a movie about Hitler getting away to south america, the Antarctica Nazi bases and the vril saucers they used.  ",0,0,Jin Laihook,DNHuK1rteF4,0.0,2014-06-26 15:27:05,True,True
+2014-06-26T15:52:38,Anyone know where this was filmed?,0,0,john Magill,DNHuK1rteF4,0.0,2014-06-26 15:52:38,True,True
+2014-06-26T15:53:28,Kadak,0,0,pixxy001,DNHuK1rteF4,0.0,2014-06-26 15:53:28,True,True
+2014-06-26T16:27:12,"so it's basically a continuation of Inglorious Basterds, apparently Aldo Rayne gathered another army to fight off Germany",0,0,Donnie Bahar,DNHuK1rteF4,0.05,2014-06-26 16:27:12,True,True
+2014-06-26T16:45:54,God whenever I see Brad Pitt I think he is young but he is actually 50,0,0,Trevor Haley,DNHuK1rteF4,0.05,2014-06-26 16:45:54,True,True
+2014-06-26T17:14:32,Such a great cast. Can't wait to see this movie!,0,0,Marie Jane,DNHuK1rteF4,0.5,2014-06-26 17:14:32,True,True
+2014-06-26T17:40:02,Looks like a Sherman vs Tiger epick fight. ,0,0,Mario Jaramaz,DNHuK1rteF4,0.0,2014-06-26 17:40:02,True,True
+2014-06-26T18:00:03,2:16 C'mon! It's Tiger with 88mm gun. The Sherman would be blown to pieces.,0,0,Vaclav Fliegel,DNHuK1rteF4,0.0,2014-06-26 18:00:03,True,True
+2014-06-26T18:03:07,MP40? American? 0:41,0,0,Tim Le,DNHuK1rteF4,0.0,2014-06-26 18:03:07,True,True
+2014-06-26T18:10:58,I think that is the last driving tiger in the world,0,0,TANNERITE HD,DNHuK1rteF4,0.0,2014-06-26 18:10:58,True,True
+2014-06-26T18:28:51,enough of this world war movies wtf,0,0,BeHappy,DNHuK1rteF4,-0.25,2014-06-26 18:28:51,True,True
+2014-06-26T19:12:33,"Cant wait, love good war films.",0,0,TheRamblin’ Mahoney,DNHuK1rteF4,0.6,2014-06-26 19:12:33,True,True
+2014-06-26T19:51:38,Labeoff is back..,0,0,Lucif,DNHuK1rteF4,0.0,2014-06-26 19:51:38,True,True
+2014-06-26T20:31:27,"Hey cool, kind of like Kelly's Heroes, without the comedy and hippy tankers...and before you comment, ""What's with the negative waves Moriarty?, always with the negative waves.....""",1,0,Chris Brooker,DNHuK1rteF4,0.08749999999999998,2014-06-26 20:31:27,True,True
+2014-06-26T20:42:23,"Typical Hollywood bullshit propaganda: Americans saved the day, win the war against all impossible odds and knock out a German Tiger... ",0,0,Agustin Vazquez,DNHuK1rteF4,-0.026666666666666637,2014-06-26 20:42:23,True,True
+2014-06-26T20:54:19,People still willingly work with Shia LeShit?,0,0,Plikky Dee,DNHuK1rteF4,0.25,2014-06-26 20:54:19,True,True
+2014-06-26T21:10:12,more WWII bulshit....THE NAZIS FUCKIN WON! Get it through your thick skulls world,0,0,Alien,DNHuK1rteF4,0.16249999999999998,2014-06-26 21:10:12,True,True
+2014-06-26T22:01:55,i think the 5 tanks against 30 scene at the end will be epic,0,0,John Doe,DNHuK1rteF4,0.1,2014-06-26 22:01:55,True,True
+2014-06-26T22:42:53,AWESOME~!,0,0,david Dood,DNHuK1rteF4,1.0,2014-06-26 22:42:53,True,True
+2014-06-26T23:12:03,World Of Tanks movie.....btw Russian Tanks ftw xDD,0,0,gonçalo Gomes,DNHuK1rteF4,0.0,2014-06-26 23:12:03,True,True
+2014-06-26T23:25:01,WW II AMAZING,0,0,heros tims,DNHuK1rteF4,0.6000000000000001,2014-06-26 23:25:01,True,True
+2014-06-26T23:36:22,"oh Brad, i see you!",0,0,Lissette Rodriguez,DNHuK1rteF4,0.0,2014-06-26 23:36:22,True,True
+2014-06-27T00:31:56,Anyone know the trailer Music?,0,0,dpc ODon,DNHuK1rteF4,0.0,2014-06-27 00:31:56,True,True
+2014-06-27T01:01:08,About time !,0,0,Martin Chyc,DNHuK1rteF4,0.0,2014-06-27 01:01:08,True,True
+2014-06-27T01:01:59,basically saving private ryan with a different storyline,4,2,Chamber,DNHuK1rteF4,0.0,2014-06-27 01:01:59,True,True
+2014-06-27T01:41:59,Dude that's a Replica. They Are Nuts if they Use a Real Tiger 1 that way,0,0,MrHqyang,DNHuK1rteF4,0.2,2014-06-27 01:41:59,True,True
+2014-06-27T01:46:46,Shia LaBeouf? No thanks!,0,0,FunSize.,DNHuK1rteF4,-0.125,2014-06-27 01:46:46,True,True
+2014-06-27T02:06:17,This only looks a little bit EPIC. I am going to see this.,0,0,Stella Ella Ola,DNHuK1rteF4,-0.029166666666666664,2014-06-27 02:06:17,True,True
+2014-06-27T02:32:04,"Looks good, but I hope it is not one of those movies that completely ignores historical accuracy and has every German explode. ",0,0,OldEtonian,DNHuK1rteF4,0.19999999999999998,2014-06-27 02:32:04,True,True
+2014-06-27T02:34:39,YEAH! I've been looking forward to this movie!,0,0,Sean Hastings,DNHuK1rteF4,0.0,2014-06-27 02:34:39,True,True
+2014-06-27T02:53:53,"The Easy 8 was a great improvement over the M4, the new suspension improved speed and mobility, plus the addition of the 76mm gun made it a deadly package. The longer high velocity barrel made it capable of penetrate the armour of tigers and panthers. If America had these at the start of the war, many tank battles would have been a different story, instead of listening to old out dated generals that thought they didn't need heavy tanks or medium's with high velocity guns. Shame generals are the first to die from their dumb ideas.",0,0,LLadnar05,DNHuK1rteF4,0.15113053613053612,2014-06-27 02:53:53,True,True
+2014-06-27T03:00:21,i like brad pitt and i've watched all his movies..i think this is wonderful... i love you brad pitt,0,0,Ronald Joseph Domingo,DNHuK1rteF4,0.75,2014-06-27 03:00:21,True,True
+2014-06-27T03:01:19,and i want my nazi scalps!,1,0,Taco Toucher,DNHuK1rteF4,0.0,2014-06-27 03:01:19,True,True
+2014-06-27T03:23:03,Douche-bag Shia Labeouf was arrested last night for smoking and acting very disruptive at a Broadway play. I hope his constant crazy antics don't end up being negative publicity for the movie and the rest of the talented cast. Damn him!,0,0,Nicki_98,DNHuK1rteF4,0.025000000000000005,2014-06-27 03:23:03,True,True
+2014-06-27T03:48:41,the enemy tank was a leapord the one with brady is and m4 sherman,0,2,agua2004,DNHuK1rteF4,0.0,2014-06-27 03:48:41,True,True
+2014-06-27T03:50:17,"saving private ryan, enemy at the gates, now fury",0,0,agua2004,DNHuK1rteF4,0.0,2014-06-27 03:50:17,True,True
+2014-06-27T05:05:11,"great... another ""world war"" movie.. how original.. looks like ""saving private ryan part 7"".....",0,0,any name,DNHuK1rteF4,0.39166666666666666,2014-06-27 05:05:11,True,True
+2014-06-27T07:23:29,"I guess this is the story of how 'he' eventually became Aldo Rayne, leader of the legendary Inglorious Basterds. ;P",10,0,k31than,DNHuK1rteF4,1.0,2014-06-27 07:23:29,True,True
+2014-06-27T07:52:03,Ooh yeah must see list love war movies brad pitt good actor ,11,0,Black Taurus,DNHuK1rteF4,0.6,2014-06-27 07:52:03,True,True
+2014-06-27T08:48:16,"Okay, i am kinda sold of this movie via this trailer. Watchlisted :)",14,5,Boon Siang Tan,DNHuK1rteF4,0.5,2014-06-27 08:48:16,True,True
+2014-06-27T10:21:54,"Brad Pitt, Shia LaBeouf and Logan Lerman, hell yeah! watchlisted <3",5,0,binibibo,DNHuK1rteF4,1.0,2014-06-27 10:21:54,True,True
+2014-06-27T10:54:46,of come on already with WW2 movies...move on to something new...shit is getting old,0,0,CroMarduk,DNHuK1rteF4,0.1,2014-06-27 10:54:46,True,True
+2014-06-27T13:58:30,Another bullshit American war movie. Get more popcorn...,0,0,Andrei,DNHuK1rteF4,0.25,2014-06-27 13:58:30,True,True
+2014-06-27T14:12:21,"everything seems good, except LaBeouf",0,0,SYNCpro,DNHuK1rteF4,0.7,2014-06-27 14:12:21,True,True
+2014-06-27T15:08:11,such a good cast but such a shitty plot,1,0,kingsmiles1,DNHuK1rteF4,0.2333333333333333,2014-06-27 15:08:11,True,True
+2014-06-27T15:28:06,Finally.  Been wanting to see a modern WW2 flick that follows a tank crew around.  Could do without LaBoof but it looks like his role wont be to major.  Looking forward to it.,0,0,WarPigz0,DNHuK1rteF4,0.08750000000000001,2014-06-27 15:28:06,True,True
+2014-06-27T15:31:05,I was tired of ww2 movies but this looks really good . ,0,0,Chris Wright,DNHuK1rteF4,0.14999999999999997,2014-06-27 15:31:05,True,True
+2014-06-27T15:34:42,"Brad Pitt, Michael Peña , and Jon Bernthal are the main reasons why this is gonna be a great movie! David Ayer is another reason too lol",0,0,J.D. Cantu,DNHuK1rteF4,0.6555555555555556,2014-06-27 15:34:42,True,True
+2014-06-27T15:43:08,This shit is so boring .. I couldn't even maki until the end....,0,0,loegaray272,DNHuK1rteF4,-0.6,2014-06-27 15:43:08,True,True
+2014-06-27T16:01:27,No Sherman would survive a hit from Tiger.,0,0,Lumios,DNHuK1rteF4,0.0,2014-06-27 16:01:27,True,True
+2014-06-27T16:23:10,Hello to Jason Isaacs,0,0,dickelg,DNHuK1rteF4,0.0,2014-06-27 16:23:10,True,True
+2014-06-27T16:35:23,"Shame they decide to do the american story side, the russian side was more brutal with their t34 and KV-1!",0,0,DrGoldsylver,DNHuK1rteF4,-0.125,2014-06-27 16:35:23,True,True
+2014-06-27T17:02:16,Great cast line up . Should be a great movie . ,0,0,Duffermod,DNHuK1rteF4,0.8,2014-06-27 17:02:16,True,True
+2014-06-27T17:28:38,Why all the slamming comments? Notice how professional movie critics wait until they view a movie before writing a review. It's always nice to see Hollywood put out a major war flick and I bet it's some what more reallalistic then 22 Jump Street.,0,0,Bill Riddle,DNHuK1rteF4,0.315625,2014-06-27 17:28:38,True,True
+2014-06-27T20:45:18,Brad is back to his Troy body!!!! This movie looks good ,0,0,london11314,DNHuK1rteF4,0.35,2014-06-27 20:45:18,True,True
+2014-06-27T21:44:16,"another amis bullshit WW2 mobie ....""duuuhhh we killin 300 germs duh duh duuuh""",0,0,Meshowz,DNHuK1rteF4,-0.3666666666666667,2014-06-27 21:44:16,True,True
+2014-06-27T23:34:17,"I get the feeling some guy walked into a Movie Studio, pitched this movie, and said ""We want the World of Tanks crowd.""  And boom, instant hit.",1,0,brushedlawyer99,DNHuK1rteF4,0.0,2014-06-27 23:34:17,True,True
+2014-06-28T00:20:08,anyone know the instrumental tracks or music used in the trailer?,0,0,Waqar Ahmed,DNHuK1rteF4,0.0,2014-06-28 00:20:08,True,True
+2014-06-28T00:21:19,Percy looks great,0,0,Kelly Serna,DNHuK1rteF4,0.8,2014-06-28 00:21:19,True,True
+2014-06-28T01:38:13,ótimo elenco e muita ação... espero ansioso pelo filme \o/,0,0,Diego Guedes,DNHuK1rteF4,0.0,2014-06-28 01:38:13,True,True
+2014-06-28T02:25:03,So. Excited.,0,0,Jazz,DNHuK1rteF4,0.375,2014-06-28 02:25:03,True,True
+2014-06-28T02:28:18,Inglorious Bastard 2 XD,0,0,Coke A-Cola,DNHuK1rteF4,0.0,2014-06-28 02:28:18,True,True
+2014-06-28T02:42:02,this looks like a pile of shit,0,0,rodolphe leon,DNHuK1rteF4,-0.2,2014-06-28 02:42:02,True,True
+2014-06-28T03:47:29,Russia was actually the main force that kicked the Natzis asses.,0,0,Jack Black,DNHuK1rteF4,0.08333333333333333,2014-06-28 03:47:29,True,True
+2014-06-28T07:26:25,A must watch.. HANDS DOWN !!!,0,0,slash blaze,DNHuK1rteF4,-0.3038194444444445,2014-06-28 07:26:25,True,True
+2014-06-28T08:07:43,aldo raine is back :P,0,0,Jan Smith Smith,DNHuK1rteF4,0.375,2014-06-28 08:07:43,True,True
+2014-06-28T10:07:41,did that sherman survived a point blank shot from a tiger or did I see it wrong ?,0,0,DanottiTR,DNHuK1rteF4,-0.25,2014-06-28 10:07:41,True,True
+2014-06-28T11:20:28,Wtf is Percy Jackson doing in here. ,0,0,Gouki,DNHuK1rteF4,-0.5,2014-06-28 11:20:28,True,True
+2014-06-28T11:38:46,Two Soviet divisions were equipped with Shermans. Both achieved elite guard status. They both regularly destroyed Tiger tanks one on one with the Sherman.,0,0,Eagle9294,DNHuK1rteF4,0.0,2014-06-28 11:38:46,True,True
+2014-06-28T12:39:34,"same old, same old about how only Americans won the war and how a handful of American soldiers saw off the whole german army!Haha! In fact it was the germans who achieved miracles because they were totally outnumbered and without air support! This film is like all US war films, as far from the truth as you are likely to get!",0,0,ALAN BROWN,DNHuK1rteF4,0.045454545454545456,2014-06-28 12:39:34,True,True
+2014-06-28T12:56:53,don't like Brad Pitts hairstyle.. it looks to modern imo,0,1,Mo El,DNHuK1rteF4,0.2,2014-06-28 12:56:53,True,True
+2014-06-28T14:01:29,"ah, the ""saving-private-tank-ryan-300"" Movie :| gr8.",1,0,Alfred Bronner,DNHuK1rteF4,0.0,2014-06-28 14:01:29,True,True
+2014-06-28T14:38:11,Hoping its not another Saving Private Ryan...I want to see realistic action and lots and lots of mechanized warfare! pewpew,0,0,syntaxed2,DNHuK1rteF4,0.09722222222222221,2014-06-28 14:38:11,True,True
+2014-06-28T14:40:02,Logan Lerman and Brad Pitt!!! Do they want me to have a heart atteck?!?! <33 :),0,0,Rachel Skerratt,DNHuK1rteF4,0.5,2014-06-28 14:40:02,True,True
+2014-06-28T15:36:51,"War should not be glorified , not anymore , please see the truth",0,0,lightheartedstar,DNHuK1rteF4,0.0,2014-06-28 15:36:51,True,True
+2014-06-28T17:03:34,I getting so tired of WW2 movies. Hollywood has completely reinvented that war. Maybe they should focus more on WW1 for a change.,0,0,MrJabloney,DNHuK1rteF4,0.06666666666666665,2014-06-28 17:03:34,True,True
+2014-06-28T23:02:13,"I usually like warmovies, not because of the cruelty of war, but because of the hard reality of war. The trailer shows a movie type that is quite often enjoyable, but dont depict much realism. If you really want some realistic war movies or to me less fairy tail americans are the hero's ( no disrespect to the american soldiers of WW2 just to hollywood),  Saving Private Ryan, ofcourse, Stalingrad, The Winter War ( about the finnish russian conflict in WW2), Der Untergang, Defiance. I am not saying all these movies I mentioned are 100 % realistic, but they can be taken more serious then this movie, just be looking at the trailer. It is impossible 5 people fought 300. Yes there were times american soldiers fought against germans while outnumbered and actually won or held their positions till they ran out of ammo or reinforcements came. But tbh 5vs300 no fuckin way, and a sherman tank defeating tigers on its own? I have never heard about it so again this is a fairy tale. Doesnt mean it is a bad movie though. And if you want real life stories or semi true story happend, just read books. No movie can replace the story of a well written book, trust me. May not seem like a fun idea, but once you did it, you wont regret, if you are really interested in WW2 stories / history.",0,0,No U,DNHuK1rteF4,0.030978260869565222,2014-06-28 23:02:13,True,True
+2014-06-28T23:11:44,"Looks just like the inglorious basterds to me. Pitt is playing same character, taking a small team into war. ",0,0,Matt Laa,DNHuK1rteF4,-0.125,2014-06-28 23:11:44,True,True
+2014-06-28T23:30:45,A WWII Sherman tanker veteran in my county advised them with this movie.,0,0,Jackson Crook,DNHuK1rteF4,0.0,2014-06-28 23:30:45,True,True
+2014-06-29T00:46:27,Tired of US bullshit propaganda. German tanks killed US-Tanks in an incredible proportion being the german always outnumbered by endless waves of US troops. When Horrywood will make a film showing the skills and courage of the german soldier? (not talking about the nazi ideology which I despise),0,0,Teg Tactics,DNHuK1rteF4,0.009375000000000008,2014-06-29 00:46:27,True,True
+2014-06-29T00:57:01,the jews have made another movie about(bad nazis)  .give it up already every year now they bring one out.why don't they make one about israel vs palestine and who the the real bad guys are,0,0,roger white,DNHuK1rteF4,-1.0,2014-06-29 00:57:01,True,True
+2014-06-29T09:35:13,"Looks nice, but to me there are only 3 reasons to watch this movie. 1. LOGAN LERMAN ♥♥♥ 2. Brad Pitt 3. Shia LaBeouf",0,0,Anna D.,DNHuK1rteF4,0.3,2014-06-29 09:35:13,True,True
+2014-06-29T13:00:32,Shia LaBeouf shouldn't even be acting.,0,0,GODofMONSTERLAND,DNHuK1rteF4,0.0,2014-06-29 13:00:32,True,True
+2014-06-29T18:16:49,Battlefield 1942,0,0,getyapaper,DNHuK1rteF4,0.0,2014-06-29 18:16:49,True,True
+2014-06-29T19:38:35,LaBeouf!!!!,0,0,Ohad Almagor,DNHuK1rteF4,0.0,2014-06-29 19:38:35,True,True
+2014-06-29T21:31:50,great cast !,0,0,bace bastard,DNHuK1rteF4,1.0,2014-06-29 21:31:50,True,True
+2014-06-29T23:53:44,"I certainly hope that the Sherman Brad Pitt is in isn't taking that Tiger on alone, its a suicide mission. Armored divisions had to come up with a strategy to take out the Tiger because the Sherman's main rifle couldn't penetrate the Tigers armor. It took 4 Shermans to take down one Tiger, 1 as bait, the other 3 to circle around and shoot it in the rear where its gas tanks and ammo were. 1 sherman could not do this because the Tiger would simply rotate its rear away.",0,0,Chris Goyette,DNHuK1rteF4,0.02007936507936507,2014-06-29 23:53:44,True,True
+2014-06-29T23:58:54,çok güzel,0,0,water black,DNHuK1rteF4,0.0,2014-06-29 23:58:54,True,True
+2014-06-30T05:15:14,Backstreet boys in WW2,0,0,Bernardo Salles,DNHuK1rteF4,0.0,2014-06-30 05:15:14,True,True
+2014-06-30T05:55:33,"Way too fancy for a ww2 movie. Hair, style, body, all way too 21st century to be ww2. Bad.",0,0,Luc Verhoeven,DNHuK1rteF4,-0.3499999999999999,2014-06-30 05:55:33,True,True
+2014-06-30T07:37:49,I can't recall any film one on tank crews...this will interesting.,0,2,M A,DNHuK1rteF4,0.5,2014-06-30 07:37:49,True,True
+2014-06-30T09:39:44,Looks good,0,0,Joey,DNHuK1rteF4,0.7,2014-06-30 09:39:44,True,True
+2014-06-30T09:40:26,A Brad Pitt movie that doesnt look like absolute shit for once?,0,14,RedDuppers,DNHuK1rteF4,0.0,2014-06-30 09:40:26,True,True
+2014-06-30T09:40:29,this look good,0,0,EdwardCrab61,DNHuK1rteF4,0.7,2014-06-30 09:40:29,True,True
+2014-06-30T19:21:15,play world of tanks in 3....2...1...,0,0,elcave9,DNHuK1rteF4,0.0,2014-06-30 19:21:15,True,True
+2014-06-30T21:11:20,I thought shia retired,0,0,CHR1SV1DS,DNHuK1rteF4,0.0,2014-06-30 21:11:20,True,True
+2014-06-30T23:44:08,Yet another movie making out the Americans won the war by themselves,0,0,Michael Comfort,DNHuK1rteF4,0.0,2014-06-30 23:44:08,True,True
+2014-07-01T02:18:01,I didn't know America won WWII by themselves? ,0,0,La Mélancolie,DNHuK1rteF4,0.0,2014-07-01 02:18:01,True,True
+2014-07-01T02:47:22,Oh yeah!!!! I'm there opening day!!!,0,0,Intelligent,DNHuK1rteF4,0.0,2014-07-01 02:47:22,True,True
+2014-07-01T04:15:11,Looks like it gonna be a crap movie!,0,0,Valey,DNHuK1rteF4,-1.0,2014-07-01 04:15:11,True,True
+2014-07-01T05:26:45,Inglorious basterds sequel!!!!!,0,0,Chris O,DNHuK1rteF4,0.0,2014-07-01 05:26:45,True,True
+2014-07-01T09:45:20,More blatant war propaganda garbage. Are any of these brainwashing Hollywood wackos shameless at all? SOME OF US CAN SEE WHAT YOU'RE DOING.,2,0,ShadowⓋ,DNHuK1rteF4,-0.03333333333333333,2014-07-01 09:45:20,True,True
+2014-07-01T14:44:20,"Lt. Aldo Raine? Even with the same accent LOL! But, still must see.. :-D",1,0,Unknown Source,DNHuK1rteF4,0.6666666666666666,2014-07-01 14:44:20,True,True
+2014-07-01T16:59:58,0:31 That was really good! Your right!,5,0,theantiredneck,DNHuK1rteF4,0.6160714285714286,2014-07-01 16:59:58,True,True
+2014-07-01T17:40:14,Any idea on the background score?,0,0,Shail tiwari,DNHuK1rteF4,0.0,2014-07-01 17:40:14,True,True
+2014-07-02T01:39:23,"Needs a Inglorious Basterds mash up trailer. Can't take pitt serious in this movie if all I hear in my head it ""Killing Nat'zis""",0,0,lwvmobile,DNHuK1rteF4,-0.3333333333333333,2014-07-02 01:39:23,True,True
+2014-07-02T03:04:47,seems legit... definitely gonna see this one!!!,0,0,anastasiosg21,DNHuK1rteF4,0.0,2014-07-02 03:04:47,True,True
+2014-07-02T03:45:15,"When a movie gives you goosebumps, they're doing something right.",143,0,KuzuRanger,DNHuK1rteF4,0.2857142857142857,2014-07-02 03:45:15,True,True
+2014-07-02T04:05:07,Lol Shane go back to ur grave,1,0,joeygg,DNHuK1rteF4,0.4,2014-07-02 04:05:07,True,True
+2014-07-02T06:00:28,This looks really good! :o,0,0,weaselGRM,DNHuK1rteF4,0.4625,2014-07-02 06:00:28,True,True
+2014-07-02T10:45:12,5 against 300!!  Really???  ,0,0,vvuadens,DNHuK1rteF4,0.2,2014-07-02 10:45:12,True,True
+2014-07-02T11:40:54,The Sherman took a direct hit from a Tiger?! WTF! Hollywood indeed. LOL ,1,0,Bimbo Peredo,DNHuK1rteF4,0.10000000000000002,2014-07-02 11:40:54,True,True
+2014-07-02T12:22:00,I Love World War 2 Movies!,20,1,Gino Norual,DNHuK1rteF4,0.625,2014-07-02 12:22:00,True,True
+2014-07-02T13:42:29,watching this for Shia and Logan :),0,0,serenity0324,DNHuK1rteF4,0.5,2014-07-02 13:42:29,True,True
+2014-07-02T14:08:45,Full of shit,0,0,Moha Mo,DNHuK1rteF4,0.07499999999999998,2014-07-02 14:08:45,True,True
+2014-07-02T14:17:44,"Shia lebauf's claim that he was done with big hollywood movies when transformers was done was a big ""Bull Shit"" .   "" I am only going to do Independent films now,"" yeah right!",0,0,Orlando Perez,DNHuK1rteF4,0.02619047619047618,2014-07-02 14:17:44,True,True
+2014-07-02T15:19:12,"Boys and Sherman, anyone?",0,0,Viet Duong,DNHuK1rteF4,0.0,2014-07-02 15:19:12,True,True
+2014-07-02T15:24:32,Only the gunner survives but spends the rest of his life in hospital severely disfigured after winning a major battle but  then being hit by accidental allied fire.,0,0,Jolly Infidel,DNHuK1rteF4,0.1875,2014-07-02 15:24:32,True,True
+2014-07-02T20:32:12,lol .. Inglourious Basterds .. the sequel,0,0,macpczone,DNHuK1rteF4,0.8,2014-07-02 20:32:12,True,True
+2014-07-03T01:38:25,"Logan Lerman looks like a cancer patient in this movie, get some sun dude.",0,0,LikerOfThings,DNHuK1rteF4,0.0,2014-07-03 01:38:25,True,True
+2014-07-03T03:36:36,Did I just see a Sherman tank take a direct hit from a Tiger tank at close range and survive?  And another scene getting hit by a Panzerfaust and nothing happened? Sherman tank losses were 5 to 1 when confronting Tigers.  They were only able to survive a duel if a Sherman managed to hit a Tiger from behind.  Another stupid movie where the German soldier is portrayed as a dumbkuff and kids are inspired to sign up.,0,0,Lord Humungus IVe,DNHuK1rteF4,-0.09999999999999999,2014-07-03 03:36:36,True,True
+2014-07-03T06:52:19,"Hurray, goes from hunting Nazis to..... hunting Nazis.... huh, well alright then",0,0,Geoff Roach,DNHuK1rteF4,0.0,2014-07-03 06:52:19,True,True
+2014-07-03T10:15:22,"finally a movie about tank crew. not special forces, or rangers or seals or paratroopers. just the ordinary tank crew and the hell they faced. seems worth a watch. ",0,0,Ray A,DNHuK1rteF4,-0.032142857142857154,2014-07-03 10:15:22,True,True
+2014-07-03T15:46:55,"Most German tanks were destroyed by aircraft or abandoned due to lack of fuel in the later stages of the war. Very few destroyed by Allied tanks on the western front.  Sherman tanks were practically useless against them and were so thinly armoured that they often exploded or burned their crew alive after a single hit.  Shermans were nicknamed 'Ronsons' by their crews because the 'lit first time'.    British crews called their Sherman tanks 'Tommy cookers'.   By comparison later, heavier German models were heavily armoured and could withstand repeated hits. The only hope for Sherman crews was to disable the tracks or hit their enemies in the rear.  This is a flag waver. I'll go and enjoy the spectacle but take as much note of it for accurate history as I would a bugs bunny cartoon.",0,0,GP F,DNHuK1rteF4,0.015451127819548879,2014-07-03 15:46:55,True,True
+2014-07-03T18:00:16,Brad Pitt is back for more Nazi scalps!,0,0,Onislaughter,DNHuK1rteF4,0.3125,2014-07-03 18:00:16,True,True
+2014-07-03T22:24:56,I don't see Shia LeBeouf anywhere lol but Logan Lerman looks hot ,1,0,Jalea,DNHuK1rteF4,0.525,2014-07-03 22:24:56,True,True
+2014-07-04T11:44:55,best job eveeerrr,0,0,Koveck,DNHuK1rteF4,1.0,2014-07-04 11:44:55,True,True
+2014-07-04T13:11:17,very interesting movie.,0,0,The Gallery London,DNHuK1rteF4,0.65,2014-07-04 13:11:17,True,True
+2014-07-04T21:36:18,This Movie Is On My Watchlist Of Movies,0,0,DeltaCat 9,DNHuK1rteF4,0.0,2014-07-04 21:36:18,True,True
+2014-07-04T23:05:38,logan lerman!! woo,0,0,FireRose800,DNHuK1rteF4,0.0,2014-07-04 23:05:38,True,True
+2014-07-05T06:36:19,"Movie looks dull and most people really aren't interested in tanks, no matter which celebrity might be in command of it.  I have a feeling this movie is going to bomb at the theaters.",0,0,Joe Black,DNHuK1rteF4,0.16458333333333333,2014-07-05 06:36:19,True,True
+2014-07-05T07:14:26,I'm looking forward to this a new perspective of a war film  in a tank crew,0,0,John Doe,DNHuK1rteF4,0.13636363636363635,2014-07-05 07:14:26,True,True
+2014-07-05T12:53:38,I guess this turned Even Steven crazy.,0,0,JuanOfaKind88,DNHuK1rteF4,-0.6,2014-07-05 12:53:38,True,True
+2014-07-05T16:18:24,Awesome ,0,0,Aya Afterlife 2,DNHuK1rteF4,1.0,2014-07-05 16:18:24,True,True
+2014-07-05T16:35:09,Then came the expendables...,0,0,Dave771996,DNHuK1rteF4,0.0,2014-07-05 16:35:09,True,True
+2014-07-06T17:52:42,To.. tempting.. to make.. Inglorious Basterds joke!!,1,0,D D Moore Art,DNHuK1rteF4,0.0,2014-07-06 17:52:42,True,True
+2014-07-06T19:20:02,That Tiger could take on five Sherman's and still win,0,0,Mr Eboric,DNHuK1rteF4,0.8,2014-07-06 19:20:02,True,True
+2014-07-06T19:35:56,Shia LaBeouf still keeps getting jobs....amazing!!,0,0,Berraco,DNHuK1rteF4,0.0,2014-07-06 19:35:56,True,True
+2014-07-07T00:16:02,"Intense movie. The learn of a young men, fighting for his life.",0,0,Ella van der Velden,DNHuK1rteF4,0.15000000000000002,2014-07-07 00:16:02,True,True
+2014-07-07T02:41:17,Davia Ayer movie... so I guess there are some gangbangers in WW 2 we didn't know about? ,0,0,bigsteve8921,DNHuK1rteF4,0.0,2014-07-07 02:41:17,True,True
+2014-07-07T07:52:35,"He said ""Deals"" not ""Ideals"" . That doesn't even make sense",0,0,Lucky Singh,DNHuK1rteF4,0.0,2014-07-07 07:52:35,True,True
+2014-07-07T13:21:07,one of the few movies i am really looking forward to this year!,0,0,Chocochata,DNHuK1rteF4,0.024999999999999994,2014-07-07 13:21:07,True,True
+2014-07-07T16:36:51,yeah...i wanna see that useless sherman vs THE TIGER,0,0,Nulz0r,DNHuK1rteF4,-0.5,2014-07-07 16:36:51,True,True
+2014-07-07T17:01:22,JON,0,0,Ello_Beautiful_,DNHuK1rteF4,0.0,2014-07-07 17:01:22,True,True
+2014-07-08T02:07:40,WTF? Shia LaBeouf with  mustache?,0,0,Dante Trevisan,DNHuK1rteF4,-0.5,2014-07-08 02:07:40,True,True
+2014-07-08T11:32:15,"Hi  I´m an amateur filmaker that works hard to get a chance. If you want to take a look to my work in my channel, I think it worth it, plus, see other people enjoy my work is for my the best award.",0,0,roberto hevia roquer,DNHuK1rteF4,0.1722222222222222,2014-07-08 11:32:15,True,True
+2014-07-08T11:42:37,"Will there also be a movie about the 11,040 rapes of German women by US army soldiers?",0,0,Lependu1993,DNHuK1rteF4,0.0,2014-07-08 11:42:37,True,True
+2014-07-08T16:43:10,"So wait...Brad Pitt is going to kill Germans AGAIN, but this time he's serious and not goofy about it.",1,0,Rico Valdes,DNHuK1rteF4,-0.29166666666666663,2014-07-08 16:43:10,True,True
+2014-07-08T21:43:38,"Um, idk if i can see this movie now. Shermans cant go toe to toe with Tigers and here we have one shrugging off 88's like its spitballs.",52,41,SongBird,DNHuK1rteF4,0.0,2014-07-08 21:43:38,True,True
+2014-07-09T07:00:52,This will be a box office hit in Brazil.,1,0,17joren,DNHuK1rteF4,0.0,2014-07-09 07:00:52,True,True
+2014-07-09T09:21:20,"Fictional movie just to massage America's ego on their history in Western Front, but this time to show general public how superior American tanks were during WWII, which is ultimately false.  The only way Shermans were able to beat German Tiger tanks were to swarm them in numbers 10 to 1. Sherman tanks were never able to go toe to toe against Tiger nor even Panzer IV tanks.  That's like old Soviet T-72 variants going toe to toe against modern Abram tank and still able to defeat it. Which is a total fiction, and probably only possible in video games and hollywood movies.",3,0,MyLostTemple,DNHuK1rteF4,0.08235294117647059,2014-07-09 09:21:20,True,True
+2014-07-09T16:46:30,"Shooting against a Tiger isnt efective... is the same that throwing stones.... anyway, seems to be a good movie",0,0,masterchieff007,DNHuK1rteF4,0.35,2014-07-09 16:46:30,True,True
+2014-07-09T21:16:34,WHERE ARE THE MAUS!!!!!!!!!,0,0,DJ Pedobear,DNHuK1rteF4,0.0,2014-07-09 21:16:34,True,True
+2014-07-10T03:55:40,I'm hopping I didn't just see a Sherman taking multiple tiger 88mm shells. Please be cuts and tell me they explode after. ,0,0,woodman_victory,DNHuK1rteF4,0.0,2014-07-10 03:55:40,True,True
+2014-07-10T04:02:05,excellent... i am waiting for... Brad Pitt is wow...what an actor !,0,0,PowerSteel0018,DNHuK1rteF4,1.0,2014-07-10 04:02:05,True,True
+2014-07-10T04:38:11,Jon Bernthal is a beast.   I'm in. ,0,0,penoyer79,DNHuK1rteF4,0.0,2014-07-10 04:38:11,True,True
+2014-07-10T19:38:05,"My eyes see Shia, but my brain is going to Photoshop him out and put a Muppet in his place.",0,0,Aquahutch,DNHuK1rteF4,0.0,2014-07-10 19:38:05,True,True
+2014-07-11T07:07:49,Wait were is the Russian and British army at? They where part of the war too. And they were fighting the Nazi's longer than the Americans did. Just saying my History teacher told me....,0,0,IVZA,DNHuK1rteF4,0.0,2014-07-11 07:07:49,True,True
+2014-07-11T16:21:15,"This looks pretty good, but I'm kind of burnt out on WW2. Wasn't there any other World War they can make films about?",0,0,Derke73,DNHuK1rteF4,0.35624999999999996,2014-07-11 16:21:15,True,True
+2014-07-11T18:14:15,IN THE END - RUSSIANS WINS ? ^))),2,0,Федель,DNHuK1rteF4,0.3,2014-07-11 18:14:15,True,True
+2014-07-12T17:58:13,Another freaking Jewish movie about WW2. Propaganda to invade Palestine.  ,0,0,MOHAMMED ALBAKEET,DNHuK1rteF4,-0.05,2014-07-12 17:58:13,True,True
+2014-07-12T21:06:59,Shia LaBeof's pedo-beard; back and stronger than ever!,0,0,Denzel Gondwe,DNHuK1rteF4,0.0,2014-07-12 21:06:59,True,True
+2014-07-12T23:16:46,either Shia LaBeouf isn't in the trailer or they think he is the assistant driver who is actually logan lermen and not Shia LaBeouf,0,0,Alexander Fergus Stormer,DNHuK1rteF4,0.0,2014-07-12 23:16:46,True,True
+2014-07-13T02:31:39,Tiger Tank vs M4 Sherman wow!!!!,0,0,Inquisitor Taki,DNHuK1rteF4,0.244140625,2014-07-13 02:31:39,True,True
+2014-07-13T10:32:45,Now this is what i call a good movie,0,0,Akashdeep Singh,DNHuK1rteF4,0.7,2014-07-13 10:32:45,True,True
+2014-07-13T14:41:49,"american tanks were one of the weakest ones, nothing could penetrate tiger panzers tbh, if this movie is about 1 sherman tank killing a tiger i will rank it 1/10 on idbm . But so far the trailer looks good",0,0,AVBsicfan,DNHuK1rteF4,-2.7755575615628914e-17,2014-07-13 14:41:49,True,True
+2014-07-13T14:48:37,Yet another world war two movie.. when will it ever ends!!!,0,0,Knowledge Power,DNHuK1rteF4,0.0,2014-07-13 14:48:37,True,True
+2014-07-13T16:55:51,Is fury supposed to be a Easy 2 or a Easy 8?,0,0,Tom Flynn,DNHuK1rteF4,0.43333333333333335,2014-07-13 16:55:51,True,True
+2014-07-13T18:08:38,oh the transformers sam disappeared in age of extinction and HERE he is :D,0,0,Naoki Szki,DNHuK1rteF4,1.0,2014-07-13 18:08:38,True,True
+2014-07-14T04:36:32,"well we have Shane, Percy Jackson and Garry Lane (World War Z name), seems like a cool movie",0,0,Dorian Green,DNHuK1rteF4,0.35,2014-07-14 04:36:32,True,True
+2014-07-14T10:13:42,Listen at extremely close ranges like that the shell and armor relationship is almost thrown out the window. At that range shells don't get a full arming period in flight and don't get as much speed and own power. Plus there are 2 spots to kill a tiger the rear (obvious) and a 5 inch gap between the turret and the hull which allows the turret to rotate more efficiently. I it is not a very widely known fact but during the war that issue was exploited whenever possible. So just sayin.,0,0,Conrad Ebanks,DNHuK1rteF4,0.1954326923076923,2014-07-14 10:13:42,True,True
+2014-07-14T15:40:50,Looks like real derivative shite.,0,0,Smile Receive,DNHuK1rteF4,0.2,2014-07-14 15:40:50,True,True
+2014-07-14T16:41:51,Does this mofo ever gets old?!﻿,0,0,Son of Israel,DNHuK1rteF4,0.0,2014-07-14 16:41:51,True,True
+2014-07-14T17:07:20,dont give oskar Dikaprio!,0,0,Alexander D,DNHuK1rteF4,0.0,2014-07-14 17:07:20,True,True
+2014-07-14T22:01:21,"You got the dude from the walking dead, percy jackson, and the main antagonist from the third twilight movie (I'm truly disgusted that I know that).",0,0,smjai477,DNHuK1rteF4,-0.25833333333333336,2014-07-14 22:01:21,True,True
+2014-07-15T07:16:15,aldo raine in a tank? yes please...,0,0,Folgrin,DNHuK1rteF4,0.0,2014-07-15 07:16:15,True,True
+2014-07-15T14:02:08,Lame. Same old story told once more by Brad Pit once more.,0,0,ivanaa b,DNHuK1rteF4,0.12,2014-07-15 14:02:08,True,True
+2014-07-15T19:55:16,and I want my scalps!,0,0,Chris Crocker,DNHuK1rteF4,0.0,2014-07-15 19:55:16,True,True
+2014-07-15T21:36:28,"like quinton says, nazi make the best bad guys because they have no moral conduct underneath, anyway you look'at it killing'em is fun and exciting :p (tho i dont promote killing as rational solution ever)",0,1,lovetownsend,DNHuK1rteF4,0.275,2014-07-15 21:36:28,True,True
+2014-07-16T01:48:02,T-34,0,0,oldpink78,DNHuK1rteF4,0.0,2014-07-16 01:48:02,True,True
+2014-07-16T06:05:40,"I'm not gonna lie, I am excited for this movie!",0,0,Damir Poljak,DNHuK1rteF4,0.46875,2014-07-16 06:05:40,True,True
+2014-07-16T08:39:25,thanks for nazis-were-unbelievably-evil episode 12.389 ,0,0,Fake German Accent,DNHuK1rteF4,0.2,2014-07-16 08:39:25,True,True
+2014-07-16T09:59:55,woow world  of tank :),0,0,izz jo,DNHuK1rteF4,0.5,2014-07-16 09:59:55,True,True
+2014-07-16T17:39:57,Americans are peace seekers all over again bla bla blaaa ,1,0,Aysha,DNHuK1rteF4,0.0,2014-07-16 17:39:57,True,True
+2014-07-16T19:48:32,Name of brad Pitts hairstyle in this? Thinking of doing a variation of it but need more images of it,0,0,Tom Meades,DNHuK1rteF4,0.5,2014-07-16 19:48:32,True,True
+2014-07-17T04:34:19,Its reminds me about WOT,0,0,ALara Flores,DNHuK1rteF4,0.0,2014-07-17 04:34:19,True,True
+2014-07-17T07:30:07,who is that girl in 1:45 ?,0,0,. harrywongst,DNHuK1rteF4,0.0,2014-07-17 07:30:07,True,True
+2014-07-17T14:40:27,Why Shea LaBeouf?hasn't anyone had enough of him already after transformers??,0,0,KINGDOM K,DNHuK1rteF4,0.0,2014-07-17 14:40:27,True,True
+2014-07-18T01:59:38,This look likes saving private rayan ,0,0,Hizzeus,DNHuK1rteF4,0.0,2014-07-18 01:59:38,True,True
+2014-07-19T17:17:04,When Poseidon's son is on your side..... fear nothing,27,1,SuperCrazydada,DNHuK1rteF4,0.0,2014-07-19 17:17:04,True,True
+2014-07-22T04:49:26,Last scene on this trailer they are trying to fire a Tiger in front. What I've know that Tiger weak point is from back size on front size.,0,0,giang dinh,DNHuK1rteF4,-0.125,2014-07-22 04:49:26,True,True
+2014-07-22T17:38:42,"This looks good, but also like it's going to be ruined by the fact that Shia Lebeouf is in it. ",1,0,Hugh Mongus,DNHuK1rteF4,0.7,2014-07-22 17:38:42,True,True
+2014-07-22T18:32:35,Brad Pitt is a great actor. .but skmetimes good movies moves away from him,0,0,Sy Sy,DNHuK1rteF4,0.75,2014-07-22 18:32:35,True,True
+2014-07-23T01:42:38,You owe me 100 German scalps!!!,0,0,Grasshopper!,DNHuK1rteF4,0.0,2014-07-23 01:42:38,True,True
+2014-07-24T09:22:19,"ideals are peaceful, history is violent.",0,0,terry krovacs,DNHuK1rteF4,-0.275,2014-07-24 09:22:19,True,True
+2014-07-24T09:50:17,"Each and every man under my command owes me one hundred Nazi scalps. And I want my scalps. And all y'all will git me one hundred Nazi scalps, taken from the heads of one hundred dead Nazis.  - lieutenant Aldo Raine ",0,1,By'tl Solomon,DNHuK1rteF4,-0.2,2014-07-24 09:50:17,True,True
+2014-07-24T23:22:46,waaaaaw ilove this movie and Brad Pitt,0,0,Fc Swagg,DNHuK1rteF4,0.0,2014-07-24 23:22:46,True,True
+2014-07-26T08:26:15,Inglorious Basterds: Origin,0,0,Alfred Loo,DNHuK1rteF4,0.0,2014-07-26 08:26:15,True,True
+2014-07-26T14:02:58,nice movie for the world of tanks players!:P,0,0,John Caboboy,DNHuK1rteF4,0.6,2014-07-26 14:02:58,True,True
+2014-07-27T09:09:04,yeah....world war 2 movie....,0,0,Chang Hamida,DNHuK1rteF4,0.0,2014-07-27 09:09:04,True,True
+2014-07-27T14:13:39,Can't wait to watch this!,0,0,RockstahRolln,DNHuK1rteF4,0.0,2014-07-27 14:13:39,True,True
+2014-07-28T07:58:46,"its a Sherman firefly, and yeah it can take down a tiger..",0,0,Frans Asser Asperga,DNHuK1rteF4,-0.15555555555555559,2014-07-28 07:58:46,True,True
+2014-07-28T08:44:28," ________Give ME  Your DOB DETAIL AND KNOW YOUR  FUTURE ON PHONE...... #+91-9417085066   **Solve all your life problems , related with money , job ,love , relationships , Fame , Glamour , Luck , Politics , Knowledge,forigen tarvling,husband wife distance,love marrige,Like jadu-tona,Business  losses, Husband and wife relationship, stop divorce,Sepration,Kid, Childles, child out of control ,health , finance*** {{ GIVE PROBLEM GET SOLUTION }} HIGHER STUDY , MODELING ,FILM CAREER AND LOTS MORE PROBLEM SOLUTIOn**",0,0,Best Astro,DNHuK1rteF4,0.25,2014-07-28 08:44:28,True,True
+2014-07-28T13:01:04,Gonna watch for shane rubbing his head...,0,0,Zuhir Zuu,DNHuK1rteF4,0.0,2014-07-28 13:01:04,True,True
+2014-07-28T16:07:41,Хороший фильм будет.,0,0,Rina Wind,DNHuK1rteF4,0.0,2014-07-28 16:07:41,True,True
+2014-07-29T06:12:11,"To the Idiots bashing on Americans' puny effort in WW2: They fought a TWO FRONT WAR. Without their Industrial might, Allies wouldnt have lend lease tanks Without their Industrial might, Allied tanks wouldnt have fuel Without their Industrial might, Allied soldiers would go with no supplies Without their Industrial might, Allied Airforces would have no planes yes they may have fought in the final years of the war, but boy did they keep the allies fully supplied.  As much as wars are about the weapons and the men behind then, it is also about how to keep the men fed, and the all important supply lines",0,0,nakazatoGTR,DNHuK1rteF4,-0.12,2014-07-29 06:12:11,True,True
+2014-07-29T06:14:08,"Starring: MP40, STG-44, M4 Sherman HVSS easy eight, PzKpfw VI Tiger 1.",0,0,nakazatoGTR,DNHuK1rteF4,0.43333333333333335,2014-07-29 06:14:08,True,True
+2014-07-29T16:35:44,omg... i miss COD,0,0,Vinzent Bao Le,DNHuK1rteF4,0.0,2014-07-29 16:35:44,True,True
+2014-07-30T14:43:37,The 'good thing' about nazi for hollywood movie is that they're associated with 'new tech/ futuristic' 'cool uniform' and 'classy',0,0,planetbintang,DNHuK1rteF4,0.3215909090909091,2014-07-30 14:43:37,True,True
+2014-07-31T20:32:40,isn't that logan lerman?,0,0,Ben,DNHuK1rteF4,0.0,2014-07-31 20:32:40,True,True
+2014-08-02T00:56:01,saving private ryan 2?,0,0,aichiVIP,DNHuK1rteF4,0.0,2014-08-02 00:56:01,True,True
+2014-08-02T01:54:24,ending: brad pitt died.,0,0,historian111z,DNHuK1rteF4,0.0,2014-08-02 01:54:24,True,True
+2014-08-02T07:08:10,only one word: amazing :),2,0,AndrewRusher (Андрей Оз),DNHuK1rteF4,0.3666666666666667,2014-08-02 07:08:10,True,True
+2014-08-02T08:54:20,Inglorious Basterds II?,0,0,James Onen,DNHuK1rteF4,0.0,2014-08-02 08:54:20,True,True
+2014-08-02T15:22:41,"cool actors from walking dead , transformers and world war z feels like playing homefront in 3rd person",0,0,Dhruv Agarwal,DNHuK1rteF4,0.04999999999999999,2014-08-02 15:22:41,True,True
+2014-08-02T17:30:21,"Metal, Grit, and Brad Pitt... Now that's what I'm talking about!...",0,0,TONY DI,DNHuK1rteF4,0.0,2014-08-02 17:30:21,True,True
+2014-08-07T20:37:09,Looks great and I probably will enjoy the hell out of this movie but if they just blast away tiger tanks like nothing it'll annoy the hell out of me.,0,0,Wh1sperw1nd,DNHuK1rteF4,0.6000000000000001,2014-08-07 20:37:09,True,True
+2014-08-07T22:58:21,yeah and i saw T28/Prot there :) sounds sweet :),0,0,Tato Ivaniashvili,DNHuK1rteF4,0.45,2014-08-07 22:58:21,True,True
+2014-08-09T23:52:01,I can't wait man! It will be awesome. I am very exciting!,0,0,Skywalker,DNHuK1rteF4,0.74375,2014-08-09 23:52:01,True,True
+2014-08-14T12:58:25,germany won the ....?,0,0,sub ZEЯO,DNHuK1rteF4,0.0,2014-08-14 12:58:25,True,True
+2014-08-17T05:39:50,Sherman couldnt take on Panther nor german tiger,0,0,Sultan Nazymbekov,DNHuK1rteF4,0.0,2014-08-17 05:39:50,True,True
+2014-08-17T16:57:51,"I started this war killing Germans in Inglourious Basterds, now I'm killing Germans in the Fury..!!! :P",0,0,Varghese John,DNHuK1rteF4,0.75,2014-08-17 16:57:51,True,True
+2014-08-18T17:18:36,BATTLE CITY: THE MOVIE,0,0,199022009,DNHuK1rteF4,0.0,2014-08-18 17:18:36,True,True
+2014-09-03T18:55:35,Is there any German movie which shows their victories on certain fronts. in..WW 2..!! cause I am bored with Allied side ..!!!,0,0,Frost_wolf,DNHuK1rteF4,-0.21391369047619047,2014-09-03 18:55:35,True,True
+2014-09-23T15:47:01,"Um,shia la beouf.....",0,0,tszching fu,DNHuK1rteF4,0.0,2014-09-23 15:47:01,True,True
+2014-09-25T00:30:35,Before they both fight zombie and alien robot...they both fight german... ,0,0,Amirulhusni Azman,DNHuK1rteF4,-0.125,2014-09-25 00:30:35,True,True
+2014-09-25T00:30:37,Before they both fight zombie and alien robot...they both fight german... ,0,0,Amirulhusni Azman,DNHuK1rteF4,-0.125,2014-09-25 00:30:37,True,True
+2014-09-27T13:07:05,"Alternative history, .... sorry still no Captain America.",1,0,_Jhon Green,DNHuK1rteF4,-0.5,2014-09-27 13:07:05,True,True
+2014-09-30T13:43:11,what theater is this?,0,0,darkbendover,DNHuK1rteF4,0.0,2014-09-30 13:43:11,True,True
+2014-09-30T17:25:05,"They should had used hellcats instead of shermans in the movie   shermans where coffin boxs, six shermans to take out one tiger!!!  Here we go again with the USA   I just wish they would be real and show the bad soldiering of there troops !!!",0,0,james,DNHuK1rteF4,-0.4,2014-09-30 17:25:05,True,True
+2014-10-06T04:51:31,I came here because of the world of tanks promo,0,0,Just an Average Player,DNHuK1rteF4,0.0,2014-10-06 04:51:31,True,True
+2014-10-06T17:43:56,lame ass propaganda bullshit movie...definitely not an Oliver Stone movie.,1,0,Eight Point Star,DNHuK1rteF4,-0.3,2014-10-06 17:43:56,True,True
+2014-10-07T15:59:01,it looks like another war movie to me :/,0,0,heba rehan,DNHuK1rteF4,-0.25,2014-10-07 15:59:01,True,True
+2014-10-13T11:42:06,World of Tanks brought me here.,0,0,Awie Teope,DNHuK1rteF4,0.0,2014-10-13 11:42:06,False,True
+2014-10-16T13:28:51,It's not going to end well,0,0,Chiara Vallini,DNHuK1rteF4,0.0,2014-10-16 13:28:51,False,True
+2014-10-19T05:28:12,"would watch, but only because of Tiger 131",0,0,zhaviator,DNHuK1rteF4,0.0,2014-10-19 05:28:12,False,True
+2014-10-19T15:50:20,One of the guys looks so much like Jake Gyllenhaal but his name isn't included.  It would be great if he's in this even in a small role.,0,0,Cris Guia,DNHuK1rteF4,0.25,2014-10-19 15:50:20,False,True
+2014-10-20T22:52:44,The 'last job I've ever had' part is powerful,1,0,Xio Woo,DNHuK1rteF4,0.15,2014-10-20 22:52:44,False,True
+2014-10-21T07:24:21,who's here bcause of world of tanks???,0,0,Mind Gear,DNHuK1rteF4,0.0,2014-10-21 07:24:21,False,True
+2014-10-23T12:40:41,"i watch this movie yesterday , and i can say its one of the best movie i saw every   trust me , you should watch its worth ",206,7,Wisam Tube,DNHuK1rteF4,0.65,2014-10-23 12:40:41,False,True
+2014-10-24T08:24:50,Nein!!!!!!!!,2,0,ej rots,DNHuK1rteF4,0.0,2014-10-24 08:24:50,False,True
+2014-10-26T12:33:09,Diggin' Shia's moustache. Btw bring some tissues when you watch it. I found out the hard way ,0,0,faggot_ass,DNHuK1rteF4,-0.2916666666666667,2014-10-26 12:33:09,False,True
+2014-10-27T02:08:54,panzerfaust !,0,0,黃宇豪,DNHuK1rteF4,0.0,2014-10-27 02:08:54,False,True
+2014-10-27T02:10:11,the battle scenes in band of brothers are a bit more realistic  ,0,0,黃宇豪,DNHuK1rteF4,0.3333333333333333,2014-10-27 02:10:11,False,True
+2014-10-29T13:55:50,i have feel that this movie is kinda a little bit lame and boring... i think..,0,0,muhammad mustadza,DNHuK1rteF4,-0.5625,2014-10-29 13:55:50,False,True
+2014-10-31T23:49:55,👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍👍,0,0,Smr Rs,DNHuK1rteF4,0.0,2014-10-31 23:49:55,False,True
+2014-11-01T00:35:33, Best movie ever! :),0,0,Ahmad Marei,DNHuK1rteF4,0.75,2014-11-01 00:35:33,False,True
+2014-11-01T02:15:26,AGAIN a ww2 movie? REALLY?,0,0,BC Studio,DNHuK1rteF4,0.2,2014-11-01 02:15:26,False,True
+2014-11-01T14:00:07,lol like best tank commander Material Wittmann's Tiger 007 so why there is no fill for him just saying ,0,0,Tony Matar,DNHuK1rteF4,0.9,2014-11-01 14:00:07,False,True
+2014-11-08T20:28:58,this is the best war movie i have ever seen. and i wathced a lot of them and i am a medium historian and ww2 is my profession. i highly recommend it,0,0,AdmiralTypeZero,DNHuK1rteF4,0.58,2014-11-08 20:28:58,False,True
+2014-11-09T09:39:31,Pitt is a trash actor. This movie is pure bull shit.,0,0,stonejack73,DNHuK1rteF4,0.007142857142857131,2014-11-09 09:39:31,False,True
+2014-11-09T15:29:23,It's a fuckin movie aiming to entertain while showing you the no bullshit mentality these man with the highest probablility had gone through.We dont care about everybody's bullshit history knowledge and truth!!,1,0,Nomadunlimited,DNHuK1rteF4,0.0,2014-11-09 15:29:23,False,True
+2014-11-11T08:43:58,soldiers are just legal murderers ,1,0,Roronoa Zoro,DNHuK1rteF4,0.2,2014-11-11 08:43:58,False,True
+2014-11-12T19:33:27,Great movie,0,0,Hendra Hendra i5,DNHuK1rteF4,0.8,2014-11-12 19:33:27,False,True
+2014-11-14T21:32:12,(SPOILER ALERT) so at the end of the movie they pretty much all died but the kid lived the end.,1,1,Blizzardhobo ‏,DNHuK1rteF4,0.225,2014-11-14 21:32:12,False,True
+2014-11-15T21:50:41,"Not any country other than U.S makes movies on the their forces to brag about their bravery in wars, just to hide the fact that actually they're losing everywhere now.",5,0,Omair Khan,DNHuK1rteF4,-0.0625,2014-11-15 21:50:41,False,True
+2014-11-15T22:13:17,"They called it ""Fury"" cause ""Tommy Cooker"" already had a trademark on it...",1,0,NightLurk,DNHuK1rteF4,0.0,2014-11-15 22:13:17,False,True
+2014-11-16T05:12:44,     ,0,0,Katrina Davis,DNHuK1rteF4,0.0,2014-11-16 05:12:44,False,True
+2014-11-16T14:44:44,This movie is not bad at all!,0,0,Hello Hello,DNHuK1rteF4,0.4374999999999999,2014-11-16 14:44:44,False,True
+2014-11-16T23:58:55,im goin to this on Wednesday can't wait,0,0,Tomas McD,DNHuK1rteF4,0.0,2014-11-16 23:58:55,False,True
+2014-11-17T03:20:45,So many hate comments why even watch these trailers if you despise this type of movie...,0,0,Jonathan Suddoth,DNHuK1rteF4,-0.15000000000000002,2014-11-17 03:20:45,False,True
+2014-11-17T04:18:37,LIVE ACTION GIRLS UND PANZER SAUNDERS VS FOREST PEEK :D,0,0,SoletheUnboxer,DNHuK1rteF4,0.4121212121212121,2014-11-17 04:18:37,False,True
+2014-11-17T08:30:41,"I guess, he'll be tickled to death?",0,0,MyloRen,DNHuK1rteF4,0.0,2014-11-17 08:30:41,False,True
+2014-11-17T09:21:35,ok,0,0,Интернет школа.Твой успех с Сергеем Васильевичем,DNHuK1rteF4,0.5,2014-11-17 09:21:35,False,True
+2014-11-17T11:28:29,good movie;) i dont give a shit about facts in history,0,0,Tomasz kazmierski,DNHuK1rteF4,0.25,2014-11-17 11:28:29,False,True
+2014-11-18T05:49:57,I saw this movie and I loved it!  It was soooo good.  You feel like you are actually there in the tank with all the surround sound explosions and stuff.  I'd see this 5 more times.,0,0,MrCartel,DNHuK1rteF4,0.495,2014-11-18 05:49:57,False,True
+2014-11-18T11:27:11,The fury was amazing :) Go Logan :) love your movies :) :),0,0,Rhed Tapang,DNHuK1rteF4,0.5166666666666667,2014-11-18 11:27:11,False,True
+2014-11-18T23:34:37,eww sony,0,0,Carter Hoke,DNHuK1rteF4,0.0,2014-11-18 23:34:37,False,True
+2014-11-19T09:19:34,America did well fighting the Germans all by themselves.,0,0,Crashoverride,DNHuK1rteF4,0.0,2014-11-19 09:19:34,False,True
+2014-11-19T11:04:00,"Another american B class movie, glorifying human slauther... with stolen visual effects from star wars,.. I'm not even going to download the copy of this shite...",0,0,Temet,DNHuK1rteF4,0.0,2014-11-19 11:04:00,False,True
+2014-11-26T17:22:00,"Brad Pitt should really go to war, think he'd do well there, with Inglorious Basterds n'all",0,0,Joel O,DNHuK1rteF4,0.2,2014-11-26 17:22:00,False,True
+2014-11-27T23:09:22,Looks like this movie is connected to inglourious basterds but sadly it's not ..,1,0,SweDawgTv,DNHuK1rteF4,0.25,2014-11-27 23:09:22,False,True
+2014-11-28T22:50:35,Brad Pitt face is Not convincing at all in this movie!,0,0,Guardian Observer,DNHuK1rteF4,-0.3125,2014-11-28 22:50:35,False,True
+2014-11-29T15:06:27,Actually this look surprisingly good. I want to watch it as soon as it gets out.,0,0,xbio1,DNHuK1rteF4,0.35,2014-11-29 15:06:27,False,True
+2014-11-30T02:51:17,"Lol German master pieces against allied mass production, ""mano a mano"" and 'murica wins? If is not 5 allied vs 1 axis, then is SCIENCE FICTION... Love the tanks tho. ",0,0,elmounrs,DNHuK1rteF4,0.4,2014-11-30 02:51:17,False,True
+2014-12-01T14:45:36,Germans gonna hate..,0,0,Jong G.,DNHuK1rteF4,-0.8,2014-12-01 14:45:36,False,True
+2014-12-02T04:53:46,"amazing movie, everyone dies in the end.",0,4,Elvis Boulala,DNHuK1rteF4,0.6000000000000001,2014-12-02 04:53:46,False,True
+2014-12-03T15:07:55,"America... shame of the whole world, they still believe they are human beings....",0,0,piczasso,DNHuK1rteF4,0.1,2014-12-03 15:07:55,False,True
+2014-12-05T04:49:21,"I had high hopes for this movie but it's just another propaganda piece. 5 yanks single handedly defeat nazi Germany, but this time in a tank...",1,3,boob72,DNHuK1rteF4,-0.003809523809523809,2014-12-05 04:49:21,False,True
+2014-12-05T19:56:34," These days Nazi are American, chiness, Russian army and politician",1,0,Mahmut Tuncel,DNHuK1rteF4,0.0,2014-12-05 19:56:34,False,True
+2014-12-06T13:54:00,"Not a bad movie. It's very raw. The bullet tracers reminded me of the Star Wars lasers. But honestly, after watching the series ""Band Of Brothers"", every other war related movie is not of the same quality nor accuracy level.",0,0,Delveaux,DNHuK1rteF4,0.08749999999999998,2014-12-06 13:54:00,False,True
+2014-12-06T17:01:02,"This movie is not realistic...... every battle made me lough and stopped watching in the final battle. Germans always miss even if they are the elite (Waffen SS). If you are into tank warfare or World war 2 enough you wont stand the stupid things that are shown in this movie. ex A tiger's 88 hits a sherman's front Armour and destroys it, then it hits fury on the side, two logs of wood saved the tank. if you want to see a movie based on a true story without exaggeration i suggest ""Flags of our Fathers"", ""Letters from Iwo Jima"" and ""A bridge too far"" ",2,0,David Saliba,DNHuK1rteF4,-0.07222222222222223,2014-12-06 17:01:02,False,True
+2014-12-06T18:39:14,"bullshit total. War scenes 0 logic, germany army was the best in the world. But what here shows this is pathetic",2,0,FaziniSS,DNHuK1rteF4,0.0,2014-12-06 18:39:14,False,True
+2014-12-07T15:35:29,This was the biggest load of crap Ive watched - almost on a par with Russian Propaganda,0,0,AnadunePictures,DNHuK1rteF4,-0.3,2014-12-07 15:35:29,False,True
+2014-12-13T12:09:14,Anyone know any world war films about the British this time? I only seem to see the Americans in these types of films. Need for British soldiers! ,0,0,Solaris Media,DNHuK1rteF4,0.0,2014-12-13 12:09:14,False,True
+2014-12-13T20:47:14,Brad Pitt doesn't scalp enough Nazi's in this movie,564,8,Byran Mcelddery,DNHuK1rteF4,0.0,2014-12-13 20:47:14,False,True
+2014-12-15T15:28:33,"The director created an imaginative war, by that time in the film all of German troops had gone to Western Front and surrendered.   ",1,0,Anh Quan Chu,DNHuK1rteF4,0.19999999999999998,2014-12-15 15:28:33,False,True
+2014-12-19T13:06:38,"Oh my we seem to have a whole lot of arm-chair movie critics,experts and academy award winning directors here. How about I form my own opinion of the movie instead of having one shoved down my throat by someone else.",0,0,Chris Roman,DNHuK1rteF4,0.28611111111111104,2014-12-19 13:06:38,False,True
+2014-12-24T00:03:48,"Loved the movie, the act of war is sick and brings people together more than social media will ever do; unfortunately we need another world war to get rid of the filth in this world. Once people begin to have great lives for so long they begin to complain about the smallest of things.. this is where we are today.",0,0,BaliAgha,DNHuK1rteF4,0.10986394557823129,2014-12-24 00:03:48,False,True
+2014-12-25T02:08:45,Best job i`ve ever had!,0,0,Aquilla S,DNHuK1rteF4,1.0,2014-12-25 02:08:45,False,True
+2014-12-27T18:04:48,"i hate brad pitt for this, WE GERMANS ARE NO NAZIS! and hitler was austrian not german so you have to know the real story! hitler was a terrible person but this have nothing to do with germany scheiss brad pitt informier dich mal bevor du so ne kake drehst",0,0,Nora Fisher,DNHuK1rteF4,-0.4375,2014-12-27 18:04:48,False,True
+2014-12-28T08:17:00,"This was one of the best war movies I've ever seen. If you like WWII, I'd also recommend the series Band of Brothers and The Pacific.",0,0,J R,DNHuK1rteF4,1.0,2014-12-28 08:17:00,False,True
+2014-12-30T03:09:28,WW3 soon ,0,0,chuck norris can,DNHuK1rteF4,0.0,2014-12-30 03:09:28,False,True
+2014-12-30T03:12:53,"they should make a movie about a tiger tank, following it from production till destruction, could be interesting?",0,0,President Camacho 46th POTUS 2020,DNHuK1rteF4,0.25,2014-12-30 03:12:53,False,True
+2015-01-05T19:46:43,Seems like half of the People here Play World of Tanks... well... I'm outta here,0,0,Melynx Drome,DNHuK1rteF4,-0.16666666666666666,2015-01-05 19:46:43,False,True
+2015-01-09T14:36:43,I think the three piece of generation war is the best ever ww2 movie,0,0,Sam Wh,DNHuK1rteF4,1.0,2015-01-09 14:36:43,False,True
+2015-01-11T08:52:52,H,0,0,Diego Decristophoris,DNHuK1rteF4,0.0,2015-01-11 08:52:52,False,True
+2015-01-13T20:19:14," A highly enjoyable action war movie with great depth.  Some of the battle action is not realistic but this does not detract from the deeper massage.  “Ideals are peaceful, history is violent” states Don Collier (played by Brad Pitt) as he takes a new crew member under his wing. However it is this Norman Ellison played by Logan Lerman who is really the central character in this movie.  Conscience hits the reality of war, as a Norman young inexperienced American, suddenly takes the role as machine gunner in a US Sherman tank nicknamed Fury in the dying throws of Nazi Germany. Powerless and hardly believing where he is Norman cries, “I have never even seen the inside of a tank”. Movement, power, brutality and destruction follow the tracks of the steel tank, as all hell breaks loose.  This film is called “Heart of Steel or “Herz aus Stahl” in Germany and this name is very appropriate. Within the few days of combat in the heart of Germany, Norman goes from someone prepared to die, rather than execute captured SS soldiers, to a furious, hard hearted killing machine. As he quickly learns, it is not quite as simple as “kill or be killed”. If he does not kill quickly, his crew members could easily be those which will quickly die. If you are looking for much more depth than just an action packed war movie, then this is for you. Every moment life changing decisions are presented. While the moral conflict rages all around him, it penetrates and grasps his heart. As the movie ends, he survives only through the mercy of an SS soldier. Deep in thought he weighs his soft heart at the beginning of the film and his hard heart at the end. The path his heart took seems almost unreal but the film makes it seem logical and plausible.  The deeper issue of idealism and realism is the heart of this story. Should an idealistic person such as Norman act on moral principles or as most others, act on interests. Ideals without power to put them in practice are shown to be empty but power alone is seen to be brutal. It is said that realism and idealism are different sides of power and must be used together with both heart and discernment. The main characters struggle with this moral conflict. This dark world shows that a man who understands both reality and morality is rare.  I couldn’t stop talking and thinking about this movie for days. Yes the action is not always realistic as many have pointed out but I think the message comes across powerfully. Ultimately you are drawn to ask,  “How would I have decided in his situation?”  The nearest way I can think of to experience this at home today, is if you have the courage to play a Moral Conflict WWII strategy board game! Playford Games beckons you, just like Norman to make decisions not just in real fast paced action but on their path of the heart.  Could this help to understand how Norman made his choices in Fury, instead of to swiftly condemn him?",32,2,David Stennett,DNHuK1rteF4,0.0640146017504508,2015-01-13 20:19:14,False,True
+2015-01-14T09:18:35,all hail yify!,0,0,HarukaLovely,DNHuK1rteF4,0.0,2015-01-14 09:18:35,False,True
+2015-01-15T12:46:18,Shia LaBeouf become a real bad actor for some reason.....,0,1,Lazar,DNHuK1rteF4,-1.0,2015-01-15 12:46:18,False,False
+2015-01-17T23:17:40,It is a great movie. Ignore all the Nazi trolls and watch it. ,0,0,lekkki1,DNHuK1rteF4,0.8,2015-01-17 23:17:40,False,False
+2015-01-24T15:33:54,this movie is awsome...,21,1,VI Spex,DNHuK1rteF4,0.0,2015-01-24 15:33:54,False,False
+2015-01-26T03:23:55,Is this another movie about Americans going to war and killing civilians?,0,0,dopenoisia,DNHuK1rteF4,0.0,2015-01-26 03:23:55,False,False
+2015-01-29T00:13:33,Ookkaay I just saw it im still shaking,0,0,PancakePredator,DNHuK1rteF4,0.0,2015-01-29 00:13:33,False,False
+2015-02-01T08:24:24,This needs more moe girls and cool katyusha song,0,0,Jorge Rodríguez,DNHuK1rteF4,0.425,2015-02-01 08:24:24,False,False
+2015-02-01T21:52:10,"With propaganda like this, war must be coming soon. Hooah!!!",0,0,EauRouge,DNHuK1rteF4,-0.1953125,2015-02-01 21:52:10,False,False
+2015-02-10T03:37:49,Awesome!...,0,0,Jordan Phoenix,DNHuK1rteF4,1.0,2015-02-10 03:37:49,False,False
+2015-02-13T00:43:38,"another super action propaganda movie, this aint no saving private ryan its just a bullshit action flick, no way in hell would a shitty sherman tank take on a tiger head to head, tigers were known for taking on multiple Sherman tanks",1,3,swaggy p,DNHuK1rteF4,0.07222222222222223,2015-02-13 00:43:38,False,False
+2015-02-15T02:40:55,the trailer is awsome but the movie is borring ;D,1,0,Bayu Setiaji,DNHuK1rteF4,0.25,2015-02-15 02:40:55,False,False
+2015-02-19T06:00:08,"People who never fought, will explain to you what war is. And you'll believe.",0,0,Владимир Хапров,DNHuK1rteF4,0.0,2015-02-19 06:00:08,False,False
+2015-02-20T11:47:09,I liked the part when 5 guys killed 400 germans,0,2,iPodiMaster,DNHuK1rteF4,0.19999999999999998,2015-02-20 11:47:09,False,False
+2015-02-20T21:58:47,Best movie in the world..It makes me cry..,0,0,Ramon vs,DNHuK1rteF4,1.0,2015-02-20 21:58:47,False,False
+2015-03-10T08:55:16,The only stupid thing about this movie is the god damn bullets and shells like wtf,0,0,KISSARMY 73,DNHuK1rteF4,-0.4333333333333333,2015-03-10 08:55:16,False,False
+2015-03-17T00:11:57,"Why did Brad Pitt die, why did shit head live?!",0,0,Autisto GOD,DNHuK1rteF4,-0.014772727272727285,2015-03-17 00:11:57,False,False
+2015-03-27T11:52:09,shane is still a badass after he died in walking dead,47,1,mr. cadet,DNHuK1rteF4,-0.2,2015-03-27 11:52:09,False,False
+2015-04-05T20:11:43,What is the music in the trailer?,0,0,LegoIngr,DNHuK1rteF4,0.0,2015-04-05 20:11:43,False,False
+2015-05-25T10:32:10,"seriously shitty movie, does Pitt have to do these kind of C flicks to feed his family?",0,0,Slime Devourer,DNHuK1rteF4,0.13333333333333333,2015-05-25 10:32:10,False,False
+2015-06-09T22:27:00,Another dumb Fantasy Movie where Americans are always the good guys by watching this movie you would have though Americans fought alone the Germans without any help,4,0,LP Youtube Channel,DNHuK1rteF4,0.16249999999999998,2015-06-09 22:27:00,False,False
+2015-06-27T13:17:59,This movie is so ridiculous - 1 tank against...,1,0,xerox1959,DNHuK1rteF4,-0.3333333333333333,2015-06-27 13:17:59,False,False
+2015-07-07T16:07:30,Squad goals,0,0,Jose Alamo,DNHuK1rteF4,0.0,2015-07-07 16:07:30,False,False
+2015-07-12T17:09:36,Άλλη μια ηλιθια αμερικανικη ταινια.Ένα τανκ σκοτωνει 400 ss στρατιώτες πολύ γελιο.,0,0,Mary A,DNHuK1rteF4,0.0,2015-07-12 17:09:36,False,False
+2015-07-12T17:16:49,1 tank vs all german army looool,5,2,Mary A,DNHuK1rteF4,0.0,2015-07-12 17:16:49,False,False
+2015-08-01T06:32:50,Logan Lerman is the reason why im watching dis,0,0,azzahra amonra,DNHuK1rteF4,0.0,2015-08-01 06:32:50,False,False
+2015-08-08T12:15:08,LUCKY STRIKE?......I DON'T THING SO.....LIGHT ITS PREPARE YOU FROM YOU BORN TO DO YOUR MISSION IN THIS LIFE!,1,0,Gabriel Zaharia,DNHuK1rteF4,0.41666666666666663,2015-08-08 12:15:08,False,False
+2015-08-12T21:57:30,"the most idiotic scene ever - 300 SS men who gets annihilated by a single (naturally American) tank  ahahahahahahaha, shame on you Hollywood",14,9,darwinism14,DNHuK1rteF4,-0.059523809523809514,2015-08-12 21:57:30,False,False
+2015-08-22T01:30:02,"To me, this movie is subliminal anti-american for every viewer with at least a little piece of humanity. Not mentioning the up to zero realism of the movie. In April 1945, germany was completly beaten. Allies were more busy with supply lines than german resistance and any resistance was outnumbered at least 10 to 1 everywhere. By the way, the production of the Tiger I had stoped in middle of 1944 and was succeded by the Tiger II, ok, I assume this Tiger made it to April 1945. Does not matter anyway. What frightens me is the behavour of Brad ""Cowboy"" Pitt, who sees a Hans Landa in every simple german soldier.  Come on Brat! It is April 1945, Berlin is totally encirceled, the Ruhr-area (main industry area of germany) completly occupied, you outnumber the germans 10:1, but you are so busy to shoot simple captured soldiers because germans are such a huge threat, still able to invest 200 soldiers to attack a single damaged Sherman tank ? I mean, how ridiculious is that ? All my respect to the american soldiers, but it was not as in this movie, that outnumbered american soldiers had to stop huge german Panzers with their bare hands and feet. Usually the americans had total air supremacy that the germans could hardly move their tanks on daylight. Every german tank was facing 10 or more Shermans. If a town did not capitulate and showed any kind of resistance, it was encirceled and bombed by planes + artillery.....waited...... still any resistance? Okay, it got bombed again. The strategy of the us-army was saving lifes through huge investing of material firepower and it worked that way. It still is the same nowadays. Americans do not fight alone in afghan caves, facing a majority of Taleban who are blindly running into american gunfire. But yeah, the killrate in ww2 was because all germans were just dumb and americans a new kind of wargods.   My grandfather was a german soldier, captured with 18 years and captured by the americans. He was imprisioned in Belgium, 100 miles behind the front line. After a week, he escaped with a comrade and passed american soldiers in his POW-clothes (no joke) when he was doing his way back home (already american occupied), waiting for war end. The GIs did not even mention him and just let him pass by. After the war, he was working for the us army as truck driver. But Brat Pitt is getting totally freaked out + heart attack when he sees that own soldiers get hurt/killed in fighting, and then he can not be stoped attacking prisoners. I mean, how could such a freak make it over 2 years through a war, if he started in north africa 42/43 ?  Okay, some of the crazy guys of you think it is justified to kill these prisoners, because they are all nazis. Yeah, and japanese civilian sliteyes deserved to be nuked, koreans and vietnamese were all non-human commies (so you are allowed to shot on everybody from your Helicopter in Nam) all russians should had been nuked if necessary (no matter if the whole planed would turn into a nuclear desert) and all arabs are terrorists. This is so anti-human and pure hatred. But when every of your enemy is a Nazi, Commie or Terrorist (so a non-human) it makes it easier to kill them unquestioned. Welcome to government-Propaganda. Well, I still hope the director wanted to make a critical movie about american soldiers in a subliminal way. If not, he is a total jerk or just a monster.",3,0,Jörg S,DNHuK1rteF4,0.07356415136587552,2015-08-22 01:30:02,False,False
+2015-09-06T09:46:16,"Not SF, not Airborne, not Rangers, not Infantry! This movie about POGS!",0,0,Mike M,DNHuK1rteF4,0.0,2015-09-06 09:46:16,False,False
+2015-10-17T08:05:23,I wish they would make a part 2,16,7,Honey Badger,DNHuK1rteF4,0.0,2015-10-17 08:05:23,False,False
+2015-10-24T12:47:02,"""it's called WAR do you feel it?!"" BEST SCENE IN THIS MOVIE i did felt that ...",39,0,Tony Mathew,DNHuK1rteF4,1.0,2015-10-24 12:47:02,False,False
+2015-11-27T06:36:22,That tank was a death trap.,0,1,AnAngryStorm,DNHuK1rteF4,0.0,2015-11-27 06:36:22,False,False
+2015-12-21T13:43:18,stupid movie ever worst then bollywood movie..SS suddenly forget to bring more panzershrek?,0,7,Metal Sucks,DNHuK1rteF4,-0.32499999999999996,2015-12-21 13:43:18,False,False
+2016-01-03T12:15:39,"glad I didn't watch the trailer before seeing the movie, made it a lot more enjoyable imo",1,3,Myth,DNHuK1rteF4,0.5,2016-01-03 12:15:39,False,False
+2016-01-06T17:00:45,"I thought this movie was amazing. I don't understand why everyone complains about it being another US Propaganda film or it's not COMPLETELY historically accurate. It's a damn movie, if you don't want to watch it...don't",1,0,Kevin McCarthy,DNHuK1rteF4,0.10000000000000002,2016-01-06 17:00:45,False,False
+2016-01-16T04:20:27,This movie was sooooo good!!,1,0,maxattack36,DNHuK1rteF4,1.0,2016-01-16 04:20:27,False,False
+2016-02-01T19:47:16,"This is really Best War Film EVERRRR.  Yeah ""Fury"" I watched it a long time ago.I still remember this movie. I definitely recommend to you. Brad Pitt is always good man in the Films. He role play excellent.",1,0,Malik Dean,DNHuK1rteF4,0.53,2016-02-01 19:47:16,False,False
+2016-03-05T05:51:17,Best job I ever had.,219,2,Patrick L,DNHuK1rteF4,1.0,2016-03-05 05:51:17,False,False
+2016-03-22T12:28:00,"Amazing film! It shows the psychological side of war. People who are being critical of this film, need to understand no true life event can be 100% portrayed the way those men saw and experienced it. The actors were superb and this film leaves you opened mouthed and wanting to see more. Must see film!!!",0,0,Natasha Slough,DNHuK1rteF4,0.47879464285714285,2016-03-22 12:28:00,False,False
+2016-07-09T19:17:22,this movie is the best war movie EVER and i would love if they would do a part 2,0,1,Who Cares,DNHuK1rteF4,0.75,2016-07-09 19:17:22,False,False
+2016-09-21T12:16:55,This is what David Ayer does so well unlike the neutered Ayer we got with Suicide Squad.  WB could get ahold of Steven Spielberg and still manage to put out a crappy movie.,0,0,NoRightTurn,DNHuK1rteF4,0.0,2016-09-21 12:16:55,False,False
+2016-10-07T00:28:47,this move all my love 😢😢😢😢😢😢😢😢😢😢😢😢😢😢😢,0,0,كلان نجوم العالم,DNHuK1rteF4,0.5,2016-10-07 00:28:47,False,False
+2017-02-19T11:26:53,keren sekali,0,0,abdi binawan,DNHuK1rteF4,0.0,2017-02-19 11:26:53,False,False
+2017-02-19T11:27:15,osom,0,0,abdi binawan,DNHuK1rteF4,0.0,2017-02-19 11:27:15,False,False
+2017-04-09T20:57:49,my favorite movie ever,0,0,amona talaat,DNHuK1rteF4,0.5,2017-04-09 20:57:49,False,False
+2017-05-09T02:16:53,reality of war,0,0,Garry Burrows,DNHuK1rteF4,0.0,2017-05-09 02:16:53,False,False
+2017-06-22T08:18:55,I love this movie 💘so much and love 4evar 💘,0,0,Mantė Mantė,DNHuK1rteF4,0.39999999999999997,2017-06-22 08:18:55,False,False
+2017-07-30T08:31:25,When Emma died,0,0,christ seyer,DNHuK1rteF4,0.0,2017-07-30 08:31:25,False,False
+2017-08-13T20:01:22,"I like how loyal they are to their tank, i mean i know that's the point of the story, but to be honest they could have ran (and get another tank at the homebase) instead of defending themselves against 300.",0,0,Argon,DNHuK1rteF4,0.20694444444444446,2017-08-13 20:01:22,False,False
+2017-08-22T04:45:54,Probably the only time we get to see the Punisher interact with Luis.,0,0,Terence Angelo,DNHuK1rteF4,0.0,2017-08-22 04:45:54,False,False
+2017-09-09T22:25:25,Brad Pitt has SS hair.,8,0,Diabolik771,DNHuK1rteF4,0.0,2017-09-09 22:25:25,False,False
+2017-09-22T22:05:08,awesome movie,0,0,Gavin Wright,DNHuK1rteF4,1.0,2017-09-22 22:05:08,False,False
+2017-10-06T20:53:23,I seen this movie it kinda sad,2,0,The Clone Wars Fan,DNHuK1rteF4,-0.5,2017-10-06 20:53:23,False,False
+2017-11-07T10:28:21,One of my fav. historical war movies :),0,0,Hannah Lois Lavariaz,DNHuK1rteF4,0.25,2017-11-07 10:28:21,False,False
+2017-11-22T18:59:49,"This movie ranked right up there with Saving Private Ryan in my book. No glamor in this movie, just telling it like it is.",0,0,tiredlawdog,DNHuK1rteF4,0.14285714285714285,2017-11-22 18:59:49,False,False
+2017-11-27T21:44:44,Absolutely loved it! Brad was awesome as always and an unexpected ending!,0,0,Shahida [Multi•Stan],DNHuK1rteF4,0.6666666666666666,2017-11-27 21:44:44,False,False
+2017-12-04T23:38:59,amazing movie,0,0,KHALIL ET,DNHuK1rteF4,0.6000000000000001,2017-12-04 23:38:59,False,False
+2017-12-08T00:26:42,"Wtf? Is this ""WOLFENSTEIN, THE MOVIE""? Why would a whole battaillon tap dance in front of a disabled tank, when they can walk around it and attack it from the rear? This film is so ridiculous it makes me feel embarrassed. The tracers look like ray guns in STAR WARS. The movie is much worse than anticipated.",0,0,Anton Chigurh,DNHuK1rteF4,-0.24666666666666667,2017-12-08 00:26:42,False,False
+2017-12-08T13:55:12,"Why Shia LeBouf not screaming ""BUMBLEBEE!!!"" for the help soo he didnt die",0,0,skinnyBoi,DNHuK1rteF4,0.0,2017-12-08 13:55:12,False,False
+2017-12-11T12:55:28,muck,0,0,Jeffrey Richardson,DNHuK1rteF4,0.0,2017-12-11 12:55:28,False,False
+2017-12-11T12:56:00,Michael Welch junior?,0,0,Jeffrey Richardson,DNHuK1rteF4,0.0,2017-12-11 12:56:00,False,False
+2017-12-11T12:57:16,Did you see this movie?,0,0,Jeffrey Richardson,DNHuK1rteF4,0.0,2017-12-11 12:57:16,False,False
+2017-12-11T12:57:35,Michael Joe?,0,0,Jeffrey Richardson,DNHuK1rteF4,0.0,2017-12-11 12:57:35,False,False
+2017-12-11T12:58:10,Stephen Joe?,0,0,Jeffrey Richardson,DNHuK1rteF4,0.0,2017-12-11 12:58:10,False,False
+2017-12-11T13:01:08,Angelina?,0,0,Jeffrey Richardson,DNHuK1rteF4,0.0,2017-12-11 13:01:08,False,False
+2017-12-26T15:09:50,It is the best tank movie ever,0,0,Susan Njuguna,DNHuK1rteF4,1.0,2017-12-26 15:09:50,False,False
+2018-01-08T23:38:33,"This movie was me, Literally NONE of the characters with exception to Norman were likeable.",0,0,Dre Ray,DNHuK1rteF4,0.0,2018-01-08 23:38:33,False,False
+2018-01-17T15:22:06,Still my best trailer for a war film ever,0,0,LIL MAXI-BOY,DNHuK1rteF4,1.0,2018-01-17 15:22:06,False,False
+2018-01-22T02:55:04,2018,0,0,Kevin Amarite,DNHuK1rteF4,0.0,2018-01-22 02:55:04,False,False
+2018-01-30T14:01:09,Wished they made a movie about Knispel.,0,0,Charlie Yan,DNHuK1rteF4,0.0,2018-01-30 14:01:09,False,False
+2018-02-03T08:38:39,Such a good movie. Btw people it’s a movie not a documentary,2,1,Mr SwishaDank,DNHuK1rteF4,0.2333333333333333,2018-02-03 08:38:39,False,False
+2018-02-04T17:23:38,ONE OF THE BEST WAR MOVIES IN MY OPINION,14,2,Dylan,DNHuK1rteF4,1.0,2018-02-04 17:23:38,False,False
+2018-02-05T01:50:27,It's crazy I have watched this movie 4 times and I still get shivers watching the trailers,34,2,XGN CRITICALS,DNHuK1rteF4,-0.6,2018-02-05 01:50:27,False,False
+2018-02-16T21:20:50,Best war movie,1,0,John Doe,DNHuK1rteF4,1.0,2018-02-16 21:20:50,False,False
+2018-04-04T08:07:10,From Transformers to War,0,0,Mute Falon,DNHuK1rteF4,0.0,2018-04-04 08:07:10,False,False
+2018-04-10T15:39:53,"CHRISTIANISM WAS MADE BY TIRANNY OF A KING. JESUS WAS ALL AGAINST MONARCHY, BUT YOU PUT HIM THIS CROWN. YOU DISTORTED THE WORDS OF JESUS AND KILLED HIM, SO NOW IT´S ME - AZRAIL. I AM BAD. I AM VERY VERY BAD. SOY UN FORAJIDO SOY UNA PERSONA MUY MALA, PERO LUCHO POR LA JUSTICIA. JODETE YANKEE. THE BOURGEOISE DID NOT BUILD AMERICA BUT THEY DID ENSLAVE IT",0,1,whitenigga,DNHuK1rteF4,-0.6033333333333332,2018-04-10 15:39:53,False,False
+2018-05-02T18:22:26,How stoopid can U be?!,0,0,Andrew McGraw,DNHuK1rteF4,0.0,2018-05-02 18:22:26,False,False
+2018-05-03T09:29:11,Best movie i ever seen ;-),0,0,Matúš Tóth,DNHuK1rteF4,0.625,2018-05-03 09:29:11,False,False
+2018-06-06T11:22:02,This was soooo good,1,0,Captain McTavish,DNHuK1rteF4,0.7,2018-06-06 11:22:02,False,False
+2018-06-15T22:35:53,BONJORNO,0,0,Fresh Prince,DNHuK1rteF4,0.0,2018-06-15 22:35:53,False,False
+2018-06-22T04:20:32,Very good movie -- didn't expect it to be so good.  I loved it.,0,0,Poe Lemic,DNHuK1rteF4,0.7699999999999999,2018-06-22 04:20:32,False,False
+2018-06-25T02:01:03,Fury 2 lets go!,0,0,Xtian,DNHuK1rteF4,0.0,2018-06-25 02:01:03,False,False
+2018-06-30T21:19:12,How ironic. Had to watch a advisement  to watch a advertisement,0,0,Loraine Kester,DNHuK1rteF4,0.2,2018-06-30 21:19:12,False,False
+2018-07-07T23:03:03,Full one pliz,0,0,0620768244 Siyabonga,DNHuK1rteF4,0.35,2018-07-07 23:03:03,False,False
+2018-07-15T14:14:23,Awesome!!,0,0,Never Give up,DNHuK1rteF4,1.0,2018-07-15 14:14:23,False,False
+2018-07-21T17:58:53,This is the best war movie that I ever seen but it’s sad,0,0,Mr Gabriel,DNHuK1rteF4,0.25,2018-07-21 17:58:53,False,False
+2018-07-31T04:07:58,I really hated this movie,0,1,freestyla85,DNHuK1rteF4,-0.9,2018-07-31 04:07:58,False,False
+2018-08-10T13:29:26,A masterpiece after TROY...Just Love Brad Pitt!!,0,0,Vaibhav Kumar,DNHuK1rteF4,0.78125,2018-08-10 13:29:26,False,False
+2018-09-01T09:55:03,solid movie,1,0,Screen Madness,DNHuK1rteF4,0.0,2018-09-01 09:55:03,False,False
+2018-09-08T01:47:19,I loved the movie like if u agree espesialy the end when he fights the whole 200 men geezus i liked it a 5 star  movie like if u agree,2,0,Justice Szalay,DNHuK1rteF4,0.5,2018-09-08 01:47:19,False,False
+2018-09-13T12:05:27,its one of the best movie i saw every,0,0,sharukh ingle,DNHuK1rteF4,1.0,2018-09-13 12:05:27,False,False
+2018-09-17T03:12:56,Copy of saving private Ryan,0,1,Jassangel Jassangel,DNHuK1rteF4,0.0,2018-09-17 03:12:56,False,False
+2018-09-17T14:24:28,I was always hesitant to watch war movies.... BUT THIS IS ONE OF THE BEST MOVIES IVE EVER SEEN,4,2,Emily J,DNHuK1rteF4,1.0,2018-09-17 14:24:28,False,False
+2018-09-23T23:10:32,Casting of this movie is 11 out of 10,30,0,Eireal,DNHuK1rteF4,0.0,2018-09-23 23:10:32,False,False
+2018-09-28T01:41:43,The ending soundtrack in the film depresses me.,2,3,paintball331 RBLX,DNHuK1rteF4,0.0,2018-09-28 01:41:43,False,False
+2018-10-03T02:38:26,"Unders the cover of a War story, it's an advertise for cigarettes from the begining until the very end. Also, like many American movies it deviates the meaning of some parts of the bible for to make men believe it's all fine to go at war, a mental formation for future killers, a big classic.",1,0,loupfeu,DNHuK1rteF4,0.14791666666666667,2018-10-03 02:38:26,False,False
+2018-10-07T22:41:50,Ideals are peaceful. History is violent.,263,1,big mo,DNHuK1rteF4,-0.275,2018-10-07 22:41:50,False,False
+2018-10-14T01:20:19,Y U REPLACE TANK WITH SHERMAN!?,0,0,Tionstav,DNHuK1rteF4,0.0,2018-10-14 01:20:19,False,False
+2018-10-30T11:19:26,How thé name song 1?,0,0,Yasso Yass,DNHuK1rteF4,0.0,2018-10-30 11:19:26,False,False
+2018-11-02T16:48:23,they all die exept new boy,0,0,gael honda,DNHuK1rteF4,0.13636363636363635,2018-11-02 16:48:23,False,False
+2018-11-03T00:58:00,"Whoa, Saving Private Ryan looks like crap compared to this.",2,0,Colby Familie,DNHuK1rteF4,-0.4,2018-11-03 00:58:00,False,False
+2018-11-04T12:01:59,Thats one of the worst war movies  i have ever seen...,1,1,Yxnnick,DNHuK1rteF4,-1.0,2018-11-04 12:01:59,False,False
+2018-11-08T06:26:43,Wat a creation,0,0,Saji Chandran,DNHuK1rteF4,0.0,2018-11-08 06:26:43,False,False
+2018-11-11T12:12:59,"Watched this film last night, was really good better than most recent ww2 movies.",9,0,Martyn Scotton,DNHuK1rteF4,0.33999999999999997,2018-11-11 12:12:59,False,False
+2018-11-11T23:20:23,If only they make more films like fury and saving privet Ryan,6,3,John O toole dog games,DNHuK1rteF4,0.25,2018-11-11 23:20:23,False,False
+2018-11-13T16:48:28,2018 ? fury,0,0,Anggia Riri Melani P,DNHuK1rteF4,0.0,2018-11-13 16:48:28,False,False
+2018-11-23T02:00:10,Star is born,0,0,Betty DeJohn,DNHuK1rteF4,0.0,2018-11-23 02:00:10,False,False
+2018-11-30T18:47:26,Best job ever😘,1,0,Janith Chamalka,DNHuK1rteF4,1.0,2018-11-30 18:47:26,False,False
+2018-12-14T01:03:28,One of Hollywood's best war movies I have seen.,0,0,BJ JA,DNHuK1rteF4,1.0,2018-12-14 01:03:28,False,False
+2018-12-19T01:01:21,French/Spanish/Danish Beowolf.,0,0,Alexander Arnold,DNHuK1rteF4,0.0,2018-12-19 01:01:21,False,False
+2018-12-26T20:34:18,This movie is trash,0,0,Prinz Eugen ϟϟ,DNHuK1rteF4,0.0,2018-12-26 20:34:18,False,False
+2018-12-27T13:08:15,What hit me was when that girl died......first time ive ever felt sad,2,0,Capt obvious,DNHuK1rteF4,-0.5,2018-12-27 13:08:15,False,False
+2018-12-27T17:12:27,Such a great movie. I enjoyed so much. Way better than movies nowadays.,1,0,Sanya Lee,DNHuK1rteF4,0.4,2018-12-27 17:12:27,False,False
+2019-01-01T09:12:10,I saw at least 300 hollywood movies!Nd it's one of da best of them!!cinematography👌👌worth watching movie,0,0,Al-Amin Prince,DNHuK1rteF4,0.35,2019-01-01 09:12:10,False,False
+2019-01-04T08:11:58,"After seeing ant-man, it's hard picturing Michael Peña in a serious, war environment 😂",3,0,Shao Xun Leong,DNHuK1rteF4,-0.3125,2019-01-04 08:11:58,False,False
+2019-01-04T14:07:02,Shane can back in time lol,0,0,Adam Brkich,DNHuK1rteF4,0.4,2019-01-04 14:07:02,False,False
+2019-01-04T20:57:42,That fuckin movie got me,1,0,Jeffrey Phillip,DNHuK1rteF4,0.0,2019-01-04 20:57:42,False,False
+2019-01-10T18:59:02,❤️❤️❤️ love the movie,0,0,Luuk Grootswagers,DNHuK1rteF4,0.5,2019-01-10 18:59:02,False,False
+2019-01-13T13:14:59,Whats the opening theme in the trailer?,0,0,Alien Herox,DNHuK1rteF4,0.0,2019-01-13 13:14:59,False,False
+2019-01-18T19:30:25,"The best world war 2 movie ever made except the ending which is disappointing how commander dies i wish that he survived ,, made me cry :'(",6,3,Top Free Downloads,DNHuK1rteF4,-0.19999999999999998,2019-01-18 19:30:25,False,False
+2019-01-23T20:32:25,All I can think when I see that kid is; “oh it’s the annoying kid from the cast of the Percy Jackson movies”,0,0,SparksFly,DNHuK1rteF4,-0.8,2019-01-23 20:32:25,False,False
+2019-02-11T03:53:31,this movie is amazing but the question is did the soldiers on WW2 have those kinda haircuts as Brad Pitt has in this movie?,0,0,Mattew val,DNHuK1rteF4,0.6000000000000001,2019-02-11 03:53:31,False,False
+2019-02-14T21:16:36,The movie is way better than the trailer.,823,16,Paul Rowe,DNHuK1rteF4,0.5,2019-02-14 21:16:36,False,False
+2019-02-16T22:15:10,"America did make isis, Taliban , al qaeda, al shahab and they are still good people but Germany did just one bad thing and all the world is making movies about them wtf",0,0,Na dim,DNHuK1rteF4,-0.16666666666666663,2019-02-16 22:15:10,False,False
+2019-03-07T21:08:13,Damn 5 years later and this trailer still has the suspense,567,1,Sentimental Prime,DNHuK1rteF4,0.0,2019-03-07 21:08:13,False,False
+2019-03-11T03:26:36,Saddest movie iv'e ever seen.... I cried...,0,0,player4351785527,DNHuK1rteF4,0.0,2019-03-11 03:26:36,False,False
+2019-03-17T03:39:06,Best modern ww2 movie,2,0,decepticonmaster1,DNHuK1rteF4,0.6,2019-03-17 03:39:06,False,False
+2019-03-22T21:22:41,"“It will end soon, but before it does a lot more people gotta die.” Gives me chills every time",3,0,lane,DNHuK1rteF4,0.5,2019-03-22 21:22:41,False,False
+2019-04-01T20:07:08,"This movie was just ok. A lot of gore, that's was cool",0,0,di3g04,DNHuK1rteF4,0.425,2019-04-01 20:07:08,False,False
+2019-04-07T21:09:25,Amazing movie..!!,1,0,AhmedS,DNHuK1rteF4,0.9375000000000001,2019-04-07 21:09:25,False,False
+2019-04-08T11:46:58,Us bid not go to Africa,0,0,Carson Morgan,DNHuK1rteF4,0.0,2019-04-08 11:46:58,False,False
+2019-04-12T17:51:03,Just another clichè American WW2 movie with the same storyline as Saving Private Ryan.,3,1,Crowley Barker,DNHuK1rteF4,0.0,2019-04-12 17:51:03,False,False
+2019-04-25T22:23:20,The greatest movie that has pissed more war nerds than any other,0,0,B Man,DNHuK1rteF4,0.4583333333333333,2019-04-25 22:23:20,False,False
+2019-04-27T17:26:54,I REMEMBER WATCHING THIS  BRILLIANT FILM IN BECKENHAM ODEON CINEMA LONDON 2014 ! SINCE THEN THERE AS NOT BEING A DECENT WAR FILM ! RECENT PRODUCTIONS LIKE THE MAN WITH THE IRON HEART ARE LOW BUDGET EFFORTS AND BORING !,1,0,Lion of Zion,DNHuK1rteF4,0.04166666666666665,2019-04-27 17:26:54,False,False
+2019-05-05T13:57:59,Just watched today wow great cast great story great movie wow.,0,0,Roy Campbell,DNHuK1rteF4,0.52,2019-05-05 13:57:59,False,False
+2019-05-06T11:32:23,best movie ever,0,0,ツHαωτα,DNHuK1rteF4,1.0,2019-05-06 11:32:23,False,False
+2019-05-15T15:52:09,My hero rocks....what a man....Brad Pitt,0,0,Binu Bal,DNHuK1rteF4,0.0,2019-05-15 15:52:09,False,False
+2019-05-20T22:27:27,everyone will die except the kid,1,0,Lt wolf,DNHuK1rteF4,0.0,2019-05-20 22:27:27,False,False
+2019-05-23T04:21:13,BEST JOB I EVER HAD!,23,1,ApeHead,DNHuK1rteF4,1.0,2019-05-23 04:21:13,False,False
+2019-05-29T04:10:26,this movie >>>>,1,0,kaliyah,DNHuK1rteF4,0.0,2019-05-29 04:10:26,False,False
+2019-06-14T20:42:08,Best movie ever in 2014,0,0,Impirijalac I,DNHuK1rteF4,1.0,2019-06-14 20:42:08,False,False
+2019-06-14T23:42:58,jon berenthal oscar winner tbh,0,0,FiFAViDZ4You,DNHuK1rteF4,0.0,2019-06-14 23:42:58,False,False
+2019-06-22T05:44:48,This movie was so underrated. This is one of my favorite war films.,1,0,Dylan Valenti,DNHuK1rteF4,0.5,2019-06-22 05:44:48,False,False
+2019-06-22T21:31:07,Great watch start to finish...,1,0,Marlon Reynolds,DNHuK1rteF4,0.8,2019-06-22 21:31:07,False,False
+2019-06-28T22:29:21,Is it me or was the movie's ending the saddest and most emotional of all time?,3,1,Bud Light,DNHuK1rteF4,0.25,2019-06-28 22:29:21,False,False
+2019-07-03T15:08:16,this is just a dust compare to T 34,0,0,sreerag A,DNHuK1rteF4,0.0,2019-07-03 15:08:16,False,False
+2019-07-05T08:38:44,"Wardaddy's haircut sucks. Not military, not armoured.",0,2,Taoma H,DNHuK1rteF4,-0.125,2019-07-05 08:38:44,False,False
+2019-07-12T14:18:22,History is violent,0,1,Maple Maple,DNHuK1rteF4,-0.8,2019-07-12 14:18:22,False,False
+2019-07-15T15:37:51,Alternate ending: Fury dies due to being hit by the Panzerfausts.,0,0,Keane Hampshire,DNHuK1rteF4,-0.0625,2019-07-15 15:37:51,False,False
+2019-08-02T03:50:40,und wann ein film auf der seite von deutschland?,0,0,Matias Werner,DNHuK1rteF4,0.0,2019-08-02 03:50:40,False,False
+2019-08-10T13:54:33,One of the best movie of all time,0,0,LM 12,DNHuK1rteF4,1.0,2019-08-10 13:54:33,False,False
+2019-08-11T11:39:46,Hi i from future,0,0,Vicharlin,DNHuK1rteF4,0.0,2019-08-11 11:39:46,False,False
+2019-08-12T11:57:18,"And I said to the Lord, ""Here am I, send me!""",2,0,Daniel Rajaiah,DNHuK1rteF4,0.0,2019-08-12 11:57:18,False,False
+2019-08-16T16:11:18,Hahahahahaha.,0,0,kash,DNHuK1rteF4,0.0,2019-08-16 16:11:18,False,False
+2019-08-23T12:34:52,I promised my crew a long time ago I'd keep them alive.  Gets them all killed insisting they hold a crossroads.,2,0,M Williams,DNHuK1rteF4,-0.05000000000000001,2019-08-23 12:34:52,False,False
+2019-09-02T09:10:44,Fury: 5 against 300 300: Hundreds against Thousands Never ends well,0,1,BlueZ 18,DNHuK1rteF4,0.0,2019-09-02 09:10:44,False,False
+2019-09-06T01:03:36,"2019 Im Watching this movie, can make Fury 2 ?",0,0,Rudy Anwar,DNHuK1rteF4,0.0,2019-09-06 01:03:36,False,False
+2019-09-07T01:53:19,I'm gonna watch this movie one day lol,0,0,Vidit Jain,DNHuK1rteF4,0.8,2019-09-07 01:53:19,False,False
+2019-09-09T06:26:03,"Was really interested in watching this movie..started watching the trailer ,,,saw that Michael Pena is in it...completely lost interest.",0,0,Edward Cano,DNHuK1rteF4,0.25,2019-09-09 06:26:03,False,False
+2019-09-14T15:08:50,"""That is my job"" by Pitt",1,0,Semih Ozturk,DNHuK1rteF4,0.0,2019-09-14 15:08:50,False,False
+2019-09-15T19:31:49,It's weird how brad pitt did this while being with jolie,0,0,Kyung Chae,DNHuK1rteF4,-0.5,2019-09-15 19:31:49,False,False
+2019-09-16T21:12:53,Brad Pitt(Tyler Durden) and Jon Bernthal(the punisher) in one Movie...FURY is the perfect name for it,0,0,kyrian oge,DNHuK1rteF4,1.0,2019-09-16 21:12:53,False,False
+2019-09-20T07:27:09,top 10 war movies of all time for sure for me..,0,0,rldabomb3,DNHuK1rteF4,0.5,2019-09-20 07:27:09,False,False
+2019-09-20T21:06:48,The PUNISHER will PUNISH,1,0,Swapnil Kanyal,DNHuK1rteF4,0.0,2019-09-20 21:06:48,False,False
+2019-09-23T17:34:24,"Be honest.... in the last fight, Would you run to the trees or stay to die to protect the crossing in the tank?",1,1,Jonny1one,DNHuK1rteF4,0.3,2019-09-23 17:34:24,False,False
+2019-09-23T22:35:23,Reminds me of Valkyrie!,0,0,Neelanshu Kumar,DNHuK1rteF4,0.0,2019-09-23 22:35:23,False,False
+2019-09-30T00:26:36,while watching the peanut butter falcon i could not remember where i seen shia before but now i remember !!!,0,0,dennis marshel,DNHuK1rteF4,0.0,2019-09-30 00:26:36,False,False
+2019-09-30T15:57:05,"*""Grandpa..Where are the German soldiers?""*",6,1,Steve Glen,DNHuK1rteF4,0.0,2019-09-30 15:57:05,False,False
+2019-09-30T20:08:03,Gaaaaanz groß Hollywood... Mit der Realität hat das leider wieder mal nichts zu tun.... Der Tiger hätte die Shermans weggeputz.... Film aus....  Da ist Iron Sky realistischer ;-),1,0,Werner,DNHuK1rteF4,0.25,2019-09-30 20:08:03,False,False
+2019-10-14T20:27:59,Great film,0,0,Rodeo thymes,DNHuK1rteF4,0.8,2019-10-14 20:27:59,False,False
+2019-11-03T09:07:17,Do you know the movie where souldiers were frame up and they become wanter then they will make revenge to government?,0,0,xiah100,DNHuK1rteF4,0.0,2019-11-03 09:07:17,False,False
+2019-11-07T12:13:17,What about this movie “Furry”? When does that come out.......on DVD?,0,0,Raleigh Native,DNHuK1rteF4,0.0,2019-11-07 12:13:17,False,False
+2019-11-14T10:44:56,"i love their goggles, they all kept it clean!",0,0,MZDS zone,DNHuK1rteF4,0.4791666666666667,2019-11-14 10:44:56,False,False
+2019-11-24T23:34:12,This is one of the best war movies ive seen,0,1,matthijs tiemessen,DNHuK1rteF4,1.0,2019-11-24 23:34:12,False,False
+2019-12-07T15:26:46,Love it when he says on the way,1,0,Unknown2234 Unknown,DNHuK1rteF4,0.5,2019-12-07 15:26:46,False,False
+2019-12-08T19:47:28,"i coulnt take a minute of this film seriously because of how unrealistic it is, i mean come on where to even begin... the end scene was kinda fun i guess, its a good move if you have some time to kill but you're not looking for anything too serious.",1,0,Maximuss,DNHuK1rteF4,-0.07986111111111109,2019-12-08 19:47:28,False,False
+2019-12-16T20:53:48,Funny how most of those lines were not in the movie.,0,1,Rickertsred,DNHuK1rteF4,0.375,2019-12-16 20:53:48,False,False
+2019-12-20T12:13:46,"Sergeant collier? Yeah, son? I'm scared I'm scared too Oh jesus Every emotional scene. Loved the movie and the theme music is just...wow",68,0,V.THAKUR FOOTBALL,DNHuK1rteF4,0.35,2019-12-20 12:13:46,False,False
+2019-12-20T13:17:10,Best Job I Ever Had,0,0,Hades Wrath#4869,DNHuK1rteF4,1.0,2019-12-20 13:17:10,False,False
+2019-12-22T06:52:56,1 of the best war movies with a lot of great actors,0,0,JulianC,DNHuK1rteF4,0.9,2019-12-22 06:52:56,False,False
+2019-12-23T08:44:46,this trailer is trash,0,0,herolink17,DNHuK1rteF4,0.0,2019-12-23 08:44:46,False,False
+2019-12-23T17:45:37,The best ever,0,0,dj Oms,DNHuK1rteF4,1.0,2019-12-23 17:45:37,False,False
+2019-12-29T19:54:32,I seen this movie only one time  few years and it was a best war movie ever made and i can't wait to get in on blu ray,0,0,Willie Tabors,DNHuK1rteF4,0.26666666666666666,2019-12-29 19:54:32,False,False
+2019-12-30T23:41:31,Fuckin’ BADASS MOVIE!!!,0,0,Daniel Carlson,DNHuK1rteF4,0.0,2019-12-30 23:41:31,False,False
+2020-01-01T16:47:29,I love the movie Fury !,1,0,Ray IRON-ACE-14,DNHuK1rteF4,0.625,2020-01-01 16:47:29,False,False
+2020-01-02T04:43:01,What kind of death would be greater than in war,0,0,Arun Kunnar Mutyala,DNHuK1rteF4,0.55,2020-01-02 04:43:01,False,False
+2020-01-08T21:50:23,Who's here before ww3🤣🤣,2,1,Tawfeq Elhozayel,DNHuK1rteF4,0.0,2020-01-08 21:50:23,False,False
+2020-01-09T23:45:41,I saw it in theaters October 2014,0,0,folladordeprostis,DNHuK1rteF4,0.0,2020-01-09 23:45:41,False,False
+2020-01-12T20:55:01,Once in a decade!,0,0,M M,DNHuK1rteF4,0.0,2020-01-12 20:55:01,False,False
+2020-01-17T04:21:14,Cringeworthy bs Hollywood movie. Embarrassingly unrealistic.,1,0,RoidWatch,DNHuK1rteF4,-0.5,2020-01-17 04:21:14,False,False
+2020-01-17T10:25:56,On one!!!!,0,0,I only wash my hands when I shit on them,DNHuK1rteF4,0.0,2020-01-17 10:25:56,False,False
+2020-01-17T10:28:03,Saving private ryan till i die. Fury...it's a good war movie,0,0,I only wash my hands when I shit on them,DNHuK1rteF4,0.35,2020-01-17 10:28:03,False,False
+2020-01-20T10:07:37,"Lieferando delivery cyclist, best job I ever had! LoL",1,0,Roxy Gyo,DNHuK1rteF4,0.9,2020-01-20 10:07:37,False,False
+2020-01-25T09:45:41,Anyone know what the gunner says before he fires,0,0,Mafia x Phantom,DNHuK1rteF4,0.0,2020-01-25 09:45:41,False,False
+2020-01-30T00:33:40,Fav movie,0,0,thomasksatriagurkha7,DNHuK1rteF4,0.0,2020-01-30 00:33:40,False,False
+2020-01-31T17:21:35,J,0,0,argqghh hmpfh,DNHuK1rteF4,0.0,2020-01-31 17:21:35,False,False
+2020-01-31T17:44:03,Best military/war movie ever made!,0,0,Mac R,DNHuK1rteF4,1.0,2020-01-31 17:44:03,False,False
+2020-02-01T19:55:14,Jesus christ this movie sucks,1,1,pena,DNHuK1rteF4,-0.3,2020-02-01 19:55:14,False,False
+2020-02-02T01:06:15,this movie is the best movie what iwe seen tbh,0,0,pappatuna,DNHuK1rteF4,1.0,2020-02-02 01:06:15,False,False
+2020-02-02T14:30:12,"In real life it took almost every superpower of the world to take the germans down, but in Hollywood you just need 5 Americans 😂",0,0,KDC KDC,DNHuK1rteF4,0.022222222222222213,2020-02-02 14:30:12,False,False
+2020-02-02T14:41:04,Cuando a percy jackson le toco prestar servicio porque su padre poseidon no lo quiso tener mas en la casa.,0,0,Mauro Trainner,DNHuK1rteF4,0.0,2020-02-02 14:41:04,False,False
+2020-02-16T06:38:04,this movie was really good,0,0,LiangHuBBB,DNHuK1rteF4,0.7,2020-02-16 06:38:04,False,False
+2020-02-20T11:59:16,Good movie  l was looking not first time,0,0,Вин Дизель,DNHuK1rteF4,0.2875,2020-02-20 11:59:16,False,False
+2020-02-20T14:57:26,Not to be taken seriously but in saying that from an historical point of view this film is an insult to the brave men who served their country fighting the German war machine. There are more war crimes than I care to mention and if they had really carried on as depicted by Brad Pitt and his crew of phycopaths they would have been prosecuted for war crimes before you could say Jack Robinson.,1,0,Sham Teal,DNHuK1rteF4,0.19444444444444445,2020-02-20 14:57:26,False,False
+2020-02-22T09:58:39,Last scene when everyone is in the tank waiting and drinking always gets me 😪,6,0,RicardoMo,DNHuK1rteF4,0.0,2020-02-22 09:58:39,False,False
+2020-02-27T13:51:12,The scene was 5 vs 300,0,0,Rithy,DNHuK1rteF4,0.0,2020-02-27 13:51:12,False,False
+2020-03-04T23:46:55,"Don't get why people like this movie so much... yes it's very atmospheric, but the characters have no depth, the final battle is totally unrealistic and two grenades explode inside of the tank, but the bodies remain untouched. Well...",0,0,Adio Aurel,DNHuK1rteF4,-0.075,2020-03-04 23:46:55,False,False
+2020-03-09T23:58:28,روعه وبراد بيت تألق,0,0,Tata Btata,DNHuK1rteF4,0.0,2020-03-09 23:58:28,False,False
+2020-03-11T18:35:48,🔥   I learned a great deal from watching   1:17 🔥❣🔥    👇👇👇👇💜,0,0,Bobby Johnson,DNHuK1rteF4,0.8,2020-03-11 18:35:48,False,False
+2020-03-17T08:12:33,Best of all times,0,0,Jamal Lawama,DNHuK1rteF4,1.0,2020-03-17 08:12:33,False,False
+2020-03-22T23:31:28,aguante el asado gente,0,0,Francisco Collia Negri,DNHuK1rteF4,0.0,2020-03-22 23:31:28,False,False
+2020-03-26T10:09:43,Michael Wittmann is the real hero of 2ww battlefield not your bullshit hollywood.. search some history,0,0,Foxr B,DNHuK1rteF4,0.2,2020-03-26 10:09:43,False,False
+2020-03-27T11:10:04,This trailer can not describe this great  movie.,0,0,raj jadaun,DNHuK1rteF4,0.8,2020-03-27 11:10:04,False,False
+2020-03-27T22:29:21,Only one movie has gotten me into tears and its this,3,0,Gabe itch,DNHuK1rteF4,0.0,2020-03-27 22:29:21,False,False
+2020-03-29T19:43:22,Favorite movie of all time. Watched it when I was a kid and it was the first movie that made me cry and think about everything. Also the movie that made me be a huge film fan. This movie means everything to me.,1,0,Laia Lara Romero,DNHuK1rteF4,0.38333333333333336,2020-03-29 19:43:22,False,False
+2020-03-30T10:29:14,Looks like every other trash movie about American super soldiers freeing the world.,1,0,Nickname hier einfügen,DNHuK1rteF4,0.06944444444444443,2020-03-30 10:29:14,False,False
+2020-03-31T12:29:53,Zwischen Filmen der Amis oder Engländer und Filmen der Russen über den  Krieg besteht ein deutlicher Unterschied. die Amis und Engländer stellen  den deutschen Soldaten immer als Idioten dar. der Russe als harten und  gefährlichen Gegner. Und ein Soldat der fast ganz Europe unter seine  Kontrolle brachte ist alls aber sicherlich kein Idiot.,0,0,Antonio Ragazze,DNHuK1rteF4,-0.30000000000000004,2020-03-31 12:29:53,False,False
+2020-03-31T12:29:53,Zwischen Filmen der Amis oder Engländer und Filmen der Russen über den  Krieg besteht ein deutlicher Unterschied. die Amis und Engländer stellen  den deutschen Soldaten immer als Idioten dar. der Russe als harten und  gefährlichen Gegner. Und ein Soldat der fast ganz Europe unter seine  Kontrolle brachte ist alls aber sicherlich kein Idiot.,0,0,Antonio Ragazze,DNHuK1rteF4,-0.30000000000000004,2020-03-31 12:29:53,False,False
+2020-03-31T12:29:53,Zwischen Filmen der Amis oder Engländer und Filmen der Russen über den  Krieg besteht ein deutlicher Unterschied. die Amis und Engländer stellen  den deutschen Soldaten immer als Idioten dar. der Russe als harten und  gefährlichen Gegner. Und ein Soldat der fast ganz Europe unter seine  Kontrolle brachte ist alls aber sicherlich kein Idiot.,0,0,Antonio Ragazze,DNHuK1rteF4,-0.30000000000000004,2020-03-31 12:29:53,False,False
+2020-04-02T05:34:00,The movie and actors are very successful. I have seen it 3 times ... but these films require a writer who has worked in the American army so that the details are correct .. and why do he smoke cigarettes in order to strike you and not Winston,0,0,abo hashm,DNHuK1rteF4,0.48750000000000004,2020-04-02 05:34:00,False,False
+2020-04-02T13:15:50,"Just for entertainment. The director looks dumb on the last part of the movie as if the battle hardened Germans are fighting without brains. Now, Fury is fighting COVID-19 and he's gasping for air.",0,0,Hezray Legend,DNHuK1rteF4,-0.1875,2020-04-02 13:15:50,False,False
+2020-04-02T23:11:07,alot of unnecessary over acted  scenes in this film spoilt it.,1,0,David Fletcher,DNHuK1rteF4,-0.4,2020-04-02 23:11:07,False,False
+2020-04-13T23:16:16,"After the war, Brad Pitt starts a family and runs from zekes",0,0,Wombato,DNHuK1rteF4,0.0,2020-04-13 23:16:16,False,False
+2020-04-15T20:06:41,They need make the new movie about them war in the africa france n belgium,0,0,syahzan AbuBakar,DNHuK1rteF4,0.13636363636363635,2020-04-15 20:06:41,False,False
+2020-04-20T18:46:27,"Brad Pitt, deserved best Actor for this movie role I know he got best supporting actor for playing cliff booth in once upon a time in Hollywood but this movie should have been nominated as an Oscar worthy opponent in 2015 for best movie or actor. Shame but none the less was still good",0,0,John Wolfchild,DNHuK1rteF4,0.5880952380952381,2020-04-20 18:46:27,False,False
+2020-04-22T16:00:58,Why did they put Logan  Lerman as Norman Ellison and everyone else as the correct name,0,0,Carlos Velez,DNHuK1rteF4,0.0,2020-04-22 16:00:58,False,False
+2020-04-24T19:31:17,Terrific movie. Could’ve worked better on the trailer,0,0,balaclava kid,DNHuK1rteF4,0.25,2020-04-24 19:31:17,False,False
+2020-04-24T23:30:24,Great movie!👍👍,0,0,chris,DNHuK1rteF4,0.8,2020-04-24 23:30:24,False,False
+2020-04-24T23:51:58,Ideal are peaceful history is violent,0,0,Keven la boite du game,DNHuK1rteF4,0.11666666666666663,2020-04-24 23:51:58,False,False
+2020-04-29T02:40:03,"This movie has to be the corniest piece of Hollywood fiction garbage out there. Way too much bullshit, it's less realistic than Star Wars.",1,0,Pyar Squared,DNHuK1rteF4,0.06666666666666667,2020-04-29 02:40:03,False,False
+2020-04-30T18:03:04,This is the best war movie ever made.,0,0,Jake Picard,DNHuK1rteF4,1.0,2020-04-30 18:03:04,False,False
+2020-05-01T19:53:32,better then then the good,0,0,hrittik,DNHuK1rteF4,0.6,2020-05-01 19:53:32,False,False
+2020-05-12T14:52:40,The Tiger 1 reveal at the end was amazing.,0,0,Soul Reaper Tim98,DNHuK1rteF4,0.6000000000000001,2020-05-12 14:52:40,False,False
+2020-05-18T11:52:05,Best War Movie I had  Ever seen,0,0,Koushik Gonam,DNHuK1rteF4,1.0,2020-05-18 11:52:05,False,False
+2020-05-20T06:52:51,I still hate the ending :<,0,0,Alex Zandra,DNHuK1rteF4,-0.8,2020-05-20 06:52:51,False,False
+2020-05-25T00:31:47,"They changed so many scenes from the trailer in the movie,, the trailer version of ""best job I ever had"" scene looks much better",0,0,Liam Quinn,DNHuK1rteF4,0.6666666666666666,2020-05-25 00:31:47,False,False
+2020-05-25T05:15:23,This movie is good one but no way to compare it with amazing and great two tank films such as T34 and White Tiger they way much better,0,0,Hope Universe,DNHuK1rteF4,0.43333333333333335,2020-05-25 05:15:23,False,False
+2020-05-25T13:25:13,This is indeed one of the best war movie's..I'm really in deep sadness after watching this movie.. Salute to all men/women soldiers who lost their lives in wars...Lest we forget :(  😥🙁,0,0,Basu Mathapati,DNHuK1rteF4,0.08333333333333333,2020-05-25 13:25:13,False,False
+2020-06-06T08:07:40,"I feel sorry for ""Grady Travis"" (Jon Bernthal) that had to live with one of the dumbest looking haircuts ever!  Back in 1944 do you folks really think the Army would have allowed this 2010s style of haircut, even in a war zone?  Wardaddy's haircut (Brad Pitt) was crappy also, but not as bad as Bernthal's.  I spent 8 years in the USMC, in armor, and thought the film was pretty good, but way too long.",1,0,RVguy,DNHuK1rteF4,-0.0032828282828282654,2020-06-06 08:07:40,False,False
+2020-06-10T11:15:10,Even Spongebob is more realistic then FURY.,0,0,Marek Deadly,DNHuK1rteF4,0.3333333333333333,2020-06-10 11:15:10,False,False
+2020-06-12T03:16:59,I just now watched this on AMC. Good movie. I was thinking that this was a sequel to Inglorious Bastards.,0,0,Nino Falletta,DNHuK1rteF4,0.7,2020-06-12 03:16:59,False,False
+2020-06-13T01:04:22,Woow this is a superb one,0,0,Aziagba Olisa,DNHuK1rteF4,1.0,2020-06-13 01:04:22,False,False
+2020-06-14T18:06:53,Is this on Netflix,0,0,King Kong Wei wei,DNHuK1rteF4,0.0,2020-06-14 18:06:53,False,False

@@ -1,0 +1,845 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2016-04-20T16:30:59,1st,0,0,El Chupacabra,N7_M4hjXW1I,0.0,2016-04-20 16:30:59,True,True
+2016-04-20T16:31:00,That feeling when you watch it first,0,2,nini,N7_M4hjXW1I,0.25,2016-04-20 16:31:00,True,True
+2016-04-20T16:31:46,#301Club,0,0,Trophy guides,N7_M4hjXW1I,0.0,2016-04-20 16:31:46,True,True
+2016-04-20T16:32:30,BREAKING BAD,15,1,Jesse Meyer,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:32:30,True,True
+2016-04-20T16:32:32,Say my name,1,2,X,N7_M4hjXW1I,0.0,2016-04-20 16:32:32,True,True
+2016-04-20T16:32:35,1,0,0,Znafer,N7_M4hjXW1I,0.0,2016-04-20 16:32:35,True,True
+2016-04-20T16:33:00,breaking bad ❤,0,0,Subzero,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:33:00,True,True
+2016-04-20T16:33:10,Here come the Breaking bad comments,17,1,Alex Duper,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:33:10,True,True
+2016-04-20T16:33:30,Its reverse Breaking Bad.,0,0,Zyker,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:33:30,True,True
+2016-04-20T16:33:48,"Im a simple man, I see Bryan Cranston, i push my little brother of the computer to watch a trailer on a biger screen.",4,0,King Ramesses II,N7_M4hjXW1I,-0.09375,2016-04-20 16:33:48,True,True
+2016-04-20T16:34:03,"WE GOTTA COOK, JESSE!",841,14,Jay Patel,N7_M4hjXW1I,0.0,2016-04-20 16:34:03,True,True
+2016-04-20T16:34:05,At least Bryan Cranston already knows this industry.,79,0,Birdman,N7_M4hjXW1I,-0.3,2016-04-20 16:34:05,True,True
+2016-04-20T16:34:09,so Walt just decided to be a undercover cop,17,1,Steven Brinklen,N7_M4hjXW1I,0.0,2016-04-20 16:34:09,True,True
+2016-04-20T16:34:10,I'M THE ONE WHO KNOCKS,10,0,I,N7_M4hjXW1I,0.0,2016-04-20 16:34:10,True,True
+2016-04-20T16:34:42,"yeah Mr white, yeah science",27,0,Michael Perales,N7_M4hjXW1I,0.0,2016-04-20 16:34:42,True,True
+2016-04-20T16:34:47,SAY MY NAME!,5,0,Friso,N7_M4hjXW1I,0.0,2016-04-20 16:34:47,True,True
+2016-04-20T16:35:05,freddy de vadder !,0,0,Diëgo D.,N7_M4hjXW1I,0.0,2016-04-20 16:35:05,True,True
+2016-04-20T16:35:22,breaking bad the movie,0,0,03ranger4,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:35:22,True,True
+2016-04-20T16:35:38,Walter White is making his come back. I excpect that 90% of the dialogue is he's doing it for his family,0,0,Frankie,N7_M4hjXW1I,0.0,2016-04-20 16:35:38,True,True
+2016-04-20T16:36:32,Yo Mr.white!,0,0,Drug Lord,N7_M4hjXW1I,0.0,2016-04-20 16:36:32,True,True
+2016-04-20T16:36:38,Narcos Netflix,0,0,MACBS,N7_M4hjXW1I,0.0,2016-04-20 16:36:38,True,True
+2016-04-20T16:36:58,its a prequel to breaking bad,0,0,christian zamora,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:36:58,True,True
+2016-04-20T16:37:20,Who would've thought the dad from Malcolm in the Middle would become this...,0,1,B. Chandler,N7_M4hjXW1I,0.0,2016-04-20 16:37:20,True,True
+2016-04-20T16:37:54,its funny that bryan cranston is involoved with drugs again,0,0,christian zamora,N7_M4hjXW1I,0.25,2016-04-20 16:37:54,True,True
+2016-04-20T16:38:56,heisenberg is back! catch the blue wave!,17,0,Brick Tamland,N7_M4hjXW1I,0.0,2016-04-20 16:38:56,True,True
+2016-04-20T16:39:00,"Yo, Mr.White",0,0,Psycho,N7_M4hjXW1I,0.0,2016-04-20 16:39:00,True,True
+2016-04-20T16:39:21,Heisenberg is back (?,12,1,Jota Raxter,N7_M4hjXW1I,0.0,2016-04-20 16:39:21,True,True
+2016-04-20T16:39:34,it looks like he is the danger in that movie,0,0,Martin Berger,N7_M4hjXW1I,0.0,2016-04-20 16:39:34,True,True
+2016-04-20T16:39:42,"See Hal, this is what happens when do drugs without lois.",0,0,Ollie Connors,N7_M4hjXW1I,0.0,2016-04-20 16:39:42,True,True
+2016-04-20T16:40:05,Has to be the most epic role ever!!!!!! Bryan Cranston is bound to be a badass,0,0,Gerardo Pulido,N7_M4hjXW1I,0.44073486328125,2016-04-20 16:40:05,True,True
+2016-04-20T16:40:09,yeah it look great,0,0,Houssam Nekkaa,N7_M4hjXW1I,0.8,2016-04-20 16:40:09,True,True
+2016-04-20T16:40:44,Walter White,0,0,Patrik Pojsl,N7_M4hjXW1I,0.0,2016-04-20 16:40:44,True,True
+2016-04-20T16:41:24,please Aaron Paul have a cameo,0,0,Zed,N7_M4hjXW1I,0.0,2016-04-20 16:41:24,True,True
+2016-04-20T16:41:24,yes bc the cranston,0,0,Shytowngalan,N7_M4hjXW1I,0.0,2016-04-20 16:41:24,True,True
+2016-04-20T16:41:24,im the one who knocks!!!,0,0,Kaustubh Kajave,N7_M4hjXW1I,0.0,2016-04-20 16:41:24,True,True
+2016-04-20T16:42:06,it combine between malcom in the middel and breaking bad,0,0,sultan mubark,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:42:06,True,True
+2016-04-20T16:42:39,Narcos and breaking bad are my two favourite series! And I love drugs!,0,0,Boi Retardus,N7_M4hjXW1I,-0.12499999999999989,2016-04-20 16:42:39,True,True
+2016-04-20T16:42:54,"damn walter, back at it again with the drugs",0,0,Dannissa Aryani,N7_M4hjXW1I,0.0,2016-04-20 16:42:54,True,True
+2016-04-20T16:42:58,This looks like Narcos but better.,1,0,kingasstv,N7_M4hjXW1I,0.5,2016-04-20 16:42:58,True,True
+2016-04-20T16:43:16,Basically Narcos from the other perspective?,553,14,Mr Duke Silver,N7_M4hjXW1I,-0.125,2016-04-20 16:43:16,True,True
+2016-04-20T16:43:27,I remember when you burned your money.,0,0,Emile,N7_M4hjXW1I,0.0,2016-04-20 16:43:27,True,True
+2016-04-20T16:44:40,Bryan Cranston and Drugs....Hell Yes!!,0,0,yash 30,N7_M4hjXW1I,0.0,2016-04-20 16:44:40,True,True
+2016-04-20T16:45:26,I AM THE ONE WHO KNOCKS!,0,0,rayzer,N7_M4hjXW1I,0.0,2016-04-20 16:45:26,True,True
+2016-04-20T16:45:32,didnt i just see this like half a year ago?,0,0,Danetto,N7_M4hjXW1I,-0.16666666666666666,2016-04-20 16:45:32,True,True
+2016-04-20T16:45:43,*insert comment about Heisenberg here*,0,0,oi oi,N7_M4hjXW1I,0.0,2016-04-20 16:45:43,True,True
+2016-04-20T16:47:15,Diga mi nombre,0,0,Jeferson Pedro,N7_M4hjXW1I,0.0,2016-04-20 16:47:15,True,True
+2016-04-20T16:47:26,Heisenberg turned into a cop hahaha,4,0,Jeniffer Ribeiro,N7_M4hjXW1I,0.2,2016-04-20 16:47:26,True,True
+2016-04-20T16:47:30,"Even though I know that he's kill this role, it is sad to see that Bryan will never escape these of roles no matter how hard he tries lol",0,0,Xae Wanderer,N7_M4hjXW1I,-0.02291666666666667,2016-04-20 16:47:30,True,True
+2016-04-20T16:48:00,WHY ARE YOU WORKING WITH THE DEA HEISENBERG,0,0,Alejandro E,N7_M4hjXW1I,0.0,2016-04-20 16:48:00,True,True
+2016-04-20T16:48:09,I am the one who KNOCKS,0,0,WoW MAN 669,N7_M4hjXW1I,0.0,2016-04-20 16:48:09,True,True
+2016-04-20T16:49:23,Get ready for the drug jokes...,0,0,Rasmus Hanson,N7_M4hjXW1I,0.2,2016-04-20 16:49:23,True,True
+2016-04-20T16:49:57,The new Season of Breaking Bad looks great,72,1,Ash Morris,N7_M4hjXW1I,0.07878787878787885,2016-04-20 16:49:57,True,True
+2016-04-20T16:50:26,so is this the unofficial non-canon prequel to Breaking Bad?,221,7,Something Funny,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:50:26,True,True
+2016-04-20T16:50:49,Mr. White I LOVE YOU,0,0,xShaxOx,N7_M4hjXW1I,0.25,2016-04-20 16:50:49,True,True
+2016-04-20T16:51:09,i AM the danger,0,0,Gabriel Borges - Barbeiro 💈✂️,N7_M4hjXW1I,0.0,2016-04-20 16:51:09,True,True
+2016-04-20T16:51:23,"""Say my name.""  ""Thou art a villian!""",1,0,NathaN,N7_M4hjXW1I,0.0,2016-04-20 16:51:23,True,True
+2016-04-20T16:51:29,So this is what Heisenberg is up to nowadays,0,0,isaiah park,N7_M4hjXW1I,0.0,2016-04-20 16:51:29,True,True
+2016-04-20T16:52:00,Insert Breaking Bad reference here.,4,0,D0nutLord,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:52:00,True,True
+2016-04-20T16:53:17,Breaking bad season 7?,0,0,xShaxOx,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:53:17,True,True
+2016-04-20T16:53:34,holy shit how many movies based around pablo escobar will be there.,0,0,neon-e,N7_M4hjXW1I,0.15,2016-04-20 16:53:34,True,True
+2016-04-20T16:54:04,"Cranston's in it? Eh, to hell with it...I'm game.",0,0,SacredFerro,N7_M4hjXW1I,-0.4,2016-04-20 16:54:04,True,True
+2016-04-20T16:54:13,Heisenberg,0,0,anUntouchable,N7_M4hjXW1I,0.0,2016-04-20 16:54:13,True,True
+2016-04-20T16:54:27,HEISENBERG to ESCOBAR : STAY OUT OF MY TERRITORY.,0,0,Rajiv,N7_M4hjXW1I,0.0,2016-04-20 16:54:27,True,True
+2016-04-20T16:54:29,what's Heisenberg doing in the DEA...????,0,0,Rahul Panicker,N7_M4hjXW1I,0.0,2016-04-20 16:54:29,True,True
+2016-04-20T16:56:36,Heisenberg,0,0,Paulo César,N7_M4hjXW1I,0.0,2016-04-20 16:56:36,True,True
+2016-04-20T16:57:11,so many Breaking Bad jokes that could be made...my God...,0,0,VengadorDorado91,N7_M4hjXW1I,-0.09999999999999992,2016-04-20 16:57:11,True,True
+2016-04-20T16:57:13,narcos meets breaking bad,0,0,Jugglynam,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:57:13,True,True
+2016-04-20T16:57:37,"I knew every comment was gonna be about breaking bad before I even read them, haha",0,0,Gijs Klaassen,N7_M4hjXW1I,-0.24999999999999992,2016-04-20 16:57:37,True,True
+2016-04-20T16:58:00,From meth dealer to Meth buster,0,0,Im Heckin Mad,N7_M4hjXW1I,0.0,2016-04-20 16:58:00,True,True
+2016-04-20T16:58:01,Breaking Bad 2.0?,0,0,\\ Ben //,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 16:58:01,True,True
+2016-04-20T16:58:56,Heisenberg moved from crystal to Coke. Really?,0,0,Toilet Paper,N7_M4hjXW1I,0.2,2016-04-20 16:58:56,True,True
+2016-04-20T16:59:13,breaking narcos,40,0,JMJ -K,N7_M4hjXW1I,0.0,2016-04-20 16:59:13,True,True
+2016-04-20T17:00:44,So basically if walt didn't died and aged he decided to take the role of hank cause he felt guilty for getting him killed,0,0,Mysteryyoshi LP,N7_M4hjXW1I,-0.26666666666666666,2016-04-20 17:00:44,True,True
+2016-04-20T17:01:09,Aww I really hoped this'd be based off Breaking Bad.,0,0,Nyxato,N7_M4hjXW1I,-0.06666666666666661,2016-04-20 17:01:09,True,True
+2016-04-20T17:01:27,Not one comment about the movie. Strictly Breaking Bad.,0,0,Nighttray,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 17:01:27,True,True
+2016-04-20T17:01:30,You guys know what's that SONG ?,2,4,Fabs Jimenez,N7_M4hjXW1I,0.0,2016-04-20 17:01:30,True,True
+2016-04-20T17:02:57,You guys love Pablo Escobar lol,0,0,Twelve K,N7_M4hjXW1I,0.65,2016-04-20 17:02:57,True,True
+2016-04-20T17:03:40,I thought it was breaking bad so i watch dis,0,0,Slame Shady,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 17:03:40,True,True
+2016-04-20T17:03:48,Heisenberg starts a new life :),0,0,Platinum Equinox,N7_M4hjXW1I,0.3181818181818182,2016-04-20 17:03:48,True,True
+2016-04-20T17:04:27,hey Heisenberg! nice beard,0,0,Scott Aldrick Alcantara,N7_M4hjXW1I,0.6,2016-04-20 17:04:27,True,True
+2016-04-20T17:04:42,heisenberg always making mischief,0,0,Felix Noiz,N7_M4hjXW1I,0.0,2016-04-20 17:04:42,True,True
+2016-04-20T17:05:15,Breaking good,0,0,Gempot,N7_M4hjXW1I,0.7,2016-04-20 17:05:15,True,True
+2016-04-20T17:06:12,NARCOS/BREAKING BAD CROSSOVER,0,0,pixiefruit,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 17:06:12,True,True
+2016-04-20T17:06:30,Walter White is back,0,0,Kratos Olympus,N7_M4hjXW1I,0.0,2016-04-20 17:06:30,True,True
+2016-04-20T17:07:19,I guess Pablo Escobar related stories were the hot thing in LA board rooms 3 years ago.,0,0,insertidkfa,N7_M4hjXW1I,0.125,2016-04-20 17:07:19,True,True
+2016-04-20T17:08:40,He was saved by the cops who found him in the meth lab and used him as an undercover agent,0,0,Reon,N7_M4hjXW1I,0.0,2016-04-20 17:08:40,True,True
+2016-04-20T17:09:41,So narcos,0,0,Andrew Simm_9N3,N7_M4hjXW1I,0.0,2016-04-20 17:09:41,True,True
+2016-04-20T17:09:51,"I see Bryan Cranston, I see illegal drugs, this can only be nothing short of great :D",0,0,GamingFreeOnline,N7_M4hjXW1I,0.26,2016-04-20 17:09:51,True,True
+2016-04-20T17:09:52,Incoming Breaking Bad references,0,0,puffwad,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 17:09:52,True,True
+2016-04-20T17:09:55,for me he's Heisenberg,0,0,c. Victor,N7_M4hjXW1I,0.0,2016-04-20 17:09:55,True,True
+2016-04-20T17:10:01,I love Bryan Cranston. He always has that WTF look on his face.,1,0,Luvie1980,N7_M4hjXW1I,0.0,2016-04-20 17:10:01,True,True
+2016-04-20T17:10:10,I am the one who KNOCKS!!!😎,0,0,Ankit Ojha,N7_M4hjXW1I,0.0,2016-04-20 17:10:10,True,True
+2016-04-20T17:10:31,dexter + breaking bad,0,0,Limit Break,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 17:10:31,True,True
+2016-04-20T17:10:51,Narcos beat you to the punch.,0,0,eon001,N7_M4hjXW1I,0.0,2016-04-20 17:10:51,True,True
+2016-04-20T17:12:07,so breakinv bad meets narcos?,0,0,Tomás Murphy,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 17:12:07,True,True
+2016-04-20T17:12:24,"Heisenberg's drunk,  we better call Saul.",0,0,StoryMakerZ,N7_M4hjXW1I,0.0,2016-04-20 17:12:24,True,True
+2016-04-20T17:15:24,Knocks !!,0,0,Eugeniusz Odnowiciel,N7_M4hjXW1I,0.0,2016-04-20 17:15:24,True,True
+2016-04-20T17:15:59,once I heard strangle hold by Ted Nugent in the background I was hooked.,0,0,Marco G,N7_M4hjXW1I,0.0,2016-04-20 17:15:59,True,True
+2016-04-20T17:16:05,MAN from UNCLE theme at the beginning ?,0,0,mike_m,N7_M4hjXW1I,0.0,2016-04-20 17:16:05,True,True
+2016-04-20T17:17:39,"Bloody hell, this looks good.",1,0,MUSIC MAGIC,N7_M4hjXW1I,-0.050000000000000044,2016-04-20 17:17:39,True,True
+2016-04-20T17:22:55,Hisenberg meet's Escobar. Yeah that will be the shit!!!!!,0,0,Scorpion popsicle,N7_M4hjXW1I,-0.6103515625,2016-04-20 17:22:55,True,True
+2016-04-20T17:27:56,JOHN LEGUIZAMO?? holy shit finally.,0,0,Robert Ortiz,N7_M4hjXW1I,-0.1,2016-04-20 17:27:56,True,True
+2016-04-20T17:29:10,I AM THE ONE WHO INFILTRATES!!!!!,154,2,cinderl0rd,N7_M4hjXW1I,0.0,2016-04-20 17:29:10,True,True
+2016-04-20T17:29:13,i thought it was season 6,0,0,asics78,N7_M4hjXW1I,0.0,2016-04-20 17:29:13,True,True
+2016-04-20T17:30:14,Breaking bad 2?,0,0,William Vargas,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 17:30:14,True,True
+2016-04-20T17:30:59,Cranston will always be Walter White for me :),0,1,NickMeister,N7_M4hjXW1I,0.25,2016-04-20 17:30:59,True,True
+2016-04-20T17:32:55,WW iz bck. ;),0,0,Elijah Britt,N7_M4hjXW1I,0.25,2016-04-20 17:32:55,True,True
+2016-04-20T17:33:45,420,0,0,Jaycee Butler,N7_M4hjXW1I,0.0,2016-04-20 17:33:45,True,True
+2016-04-20T17:34:52,Hal must not be caught from Lois (Malcolm in the Middle),1,0,MARIOX75,N7_M4hjXW1I,0.0,2016-04-20 17:34:52,True,True
+2016-04-20T17:35:48,this shit looks delicious,0,0,Red Stache,N7_M4hjXW1I,0.4,2016-04-20 17:35:48,True,True
+2016-04-20T17:36:16,So Heisenberg survived and found his way to doc Brown's delorian cool. Back to 1986.,0,0,EPIC MELL,N7_M4hjXW1I,0.175,2016-04-20 17:36:16,True,True
+2016-04-20T17:36:49,Bryan Cranston was born to play a role in the drug business,1616,22,Darzii,N7_M4hjXW1I,0.0,2016-04-20 17:36:49,True,True
+2016-04-20T17:40:36,narcos,0,0,Ultimate Soljda,N7_M4hjXW1I,0.0,2016-04-20 17:40:36,True,True
+2016-04-20T17:40:54,narcos,0,0,Ultimate Soljda,N7_M4hjXW1I,0.0,2016-04-20 17:40:54,True,True
+2016-04-20T17:41:03,0:20 mmmmm i already saw that barbecue grill... lol,49,5,MusicBlasterz,N7_M4hjXW1I,0.8,2016-04-20 17:41:03,True,True
+2016-04-20T17:42:37,Bryan....you should've backed out as soon as you saw the other actor,0,0,VEN Productions,N7_M4hjXW1I,-0.125,2016-04-20 17:42:37,True,True
+2016-04-20T17:43:54,I am the one who infiltrates!,1,0,MCPrimetime,N7_M4hjXW1I,0.0,2016-04-20 17:43:54,True,True
+2016-04-20T17:51:31,walter white returns!,0,0,Aniruddha Stark,N7_M4hjXW1I,0.0,2016-04-20 17:51:31,True,True
+2016-04-20T17:51:48,Mr White in new level,0,0,Sugestão,N7_M4hjXW1I,0.06818181818181818,2016-04-20 17:51:48,True,True
+2016-04-20T17:52:14,HEISENBERG!!,0,0,Jiren TheGrey,N7_M4hjXW1I,0.0,2016-04-20 17:52:14,True,True
+2016-04-20T17:52:21,That's it. Bryan Cranston is officially an A lister.,0,0,Male Geisha,N7_M4hjXW1I,0.0,2016-04-20 17:52:21,True,True
+2016-04-20T17:52:22,Too many reference to breaking bad in the comment section.,0,0,"I am sorbitol, Maltitol, xylitol, mannitol, Calcium",N7_M4hjXW1I,-0.09999999999999992,2016-04-20 17:52:22,True,True
+2016-04-20T17:53:04,"they should have said : ""based on a true story of mr.heisenberg"" !!!!",0,0,Aniruddha Stark,N7_M4hjXW1I,0.8544921875,2016-04-20 17:53:04,True,True
+2016-04-20T17:54:45,all Breaking Bad fans unite!!!!!! xD,78,5,The Un Und Unly,N7_M4hjXW1I,-1.0,2016-04-20 17:54:45,True,True
+2016-04-20T17:55:02,based on the story of heisenberg's long lost father,0,0,Flackaveli HD,N7_M4hjXW1I,-0.05,2016-04-20 17:55:02,True,True
+2016-04-20T17:55:32,back at it again with the drugs,0,0,WishfulMetal,N7_M4hjXW1I,0.0,2016-04-20 17:55:32,True,True
+2016-04-20T17:58:37,Dammit Mr. White. Back at it again with your drugs and cops. Atleast ditched the cancer and bald head.,0,0,Mayank Gupta,N7_M4hjXW1I,0.0,2016-04-20 17:58:37,True,True
+2016-04-20T18:02:18,time to cook,0,0,маша даша,N7_M4hjXW1I,0.0,2016-04-20 18:02:18,True,True
+2016-04-20T18:05:57,Cranston has been killing it lately.,0,0,Ed Evans,N7_M4hjXW1I,-0.3,2016-04-20 18:05:57,True,True
+2016-04-20T18:07:20,Say My Name,0,0,domaciukas,N7_M4hjXW1I,0.0,2016-04-20 18:07:20,True,True
+2016-04-20T18:07:45,Actually looks very interesting,0,0,Tropi,N7_M4hjXW1I,0.325,2016-04-20 18:07:45,True,True
+2016-04-20T18:09:07,"god, another movie of narcos 😒",0,0,Daniel Castillo,N7_M4hjXW1I,0.0,2016-04-20 18:09:07,True,True
+2016-04-20T18:09:11,"... Jesse, --------",0,0,Sir TroLLington Da 3rd,N7_M4hjXW1I,0.0,2016-04-20 18:09:11,True,True
+2016-04-20T18:11:29,I saw Cranston wearing yellow and my heart skipped a beat.       turns out it was white,0,1,populousmass,N7_M4hjXW1I,0.0,2016-04-20 18:11:29,True,True
+2016-04-20T18:12:29,I went to town on my girls ass last night.,0,0,Cosmic Chaos,N7_M4hjXW1I,0.0,2016-04-20 18:12:29,True,True
+2016-04-20T18:12:52,heisenberg,0,0,Paul Engelen,N7_M4hjXW1I,0.0,2016-04-20 18:12:52,True,True
+2016-04-20T18:14:01,The Life Of Pablo inspired this movie lmao,0,0,nachomarheras,N7_M4hjXW1I,0.6,2016-04-20 18:14:01,True,True
+2016-04-20T18:14:23,I know he's a great tv actor but can he pull it off on the big screen,0,0,Jerich0,N7_M4hjXW1I,0.4,2016-04-20 18:14:23,True,True
+2016-04-20T18:15:34,Sooooo Narcos the movie???,0,0,Rollan000,N7_M4hjXW1I,0.0,2016-04-20 18:15:34,True,True
+2016-04-20T18:15:40,Finally an interesting role that lets Cranston act since BB ಥ‿ಥ is beautiful,3,1,James J,N7_M4hjXW1I,0.675,2016-04-20 18:15:40,True,True
+2016-04-20T18:22:47,this looks promising...,0,0,Jr5189,N7_M4hjXW1I,0.2,2016-04-20 18:22:47,True,True
+2016-04-20T18:24:10,I saw Walter White I clicked instantly,0,1,Rhine,N7_M4hjXW1I,0.0,2016-04-20 18:24:10,True,True
+2016-04-20T18:25:07,What up BIATCH ?!,0,0,voir 1,N7_M4hjXW1I,0.0,2016-04-20 18:25:07,True,True
+2016-04-20T18:26:15,HE'S ALIVE!!!!!,0,0,Anthony Delorme,N7_M4hjXW1I,0.30517578125,2016-04-20 18:26:15,True,True
+2016-04-20T18:26:23,BreakingBad 2.0,0,0,Mortifer,N7_M4hjXW1I,0.0,2016-04-20 18:26:23,True,True
+2016-04-20T18:28:39,Early life of walter white,0,0,Manish,N7_M4hjXW1I,0.05,2016-04-20 18:28:39,True,True
+2016-04-20T18:37:49,Is this Spike Spiegel from Cowboy Bebop? Could've sworn he died saying *BANG* and that *BLUE* song plays when he lays down on the ground. Can't believe he's still alive :O,0,0,Tristan Tejero,N7_M4hjXW1I,-0.0013888888888888944,2016-04-20 18:37:49,True,True
+2016-04-20T18:39:00,Breaking Blow,0,0,marvdatboi,N7_M4hjXW1I,0.0,2016-04-20 18:39:00,True,True
+2016-04-20T18:39:37,Bryan Cranston could play a turd on a stick in 4 hour Christmas special and I would still go watch it. Love that guy.,0,0,whitetanuki232323,N7_M4hjXW1I,0.4285714285714286,2016-04-20 18:39:37,True,True
+2016-04-20T18:43:00,Damn Walt,0,0,Jet Hanma,N7_M4hjXW1I,0.0,2016-04-20 18:43:00,True,True
+2016-04-20T18:43:34,Incoming breaking bad theories,0,0,Jet Hanma,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 18:43:34,True,True
+2016-04-20T18:43:54,JESSE WERE NOT GONNA COOK,0,0,Jet Hanma,N7_M4hjXW1I,0.0,2016-04-20 18:43:54,True,True
+2016-04-20T18:44:17,WALT??,0,0,SA4B,N7_M4hjXW1I,0.0,2016-04-20 18:44:17,True,True
+2016-04-20T18:45:35,What episode of breaking bad is this?,0,0,Juan vilchez,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 18:45:35,True,True
+2016-04-20T18:48:26,LUIGI!!!,0,0,Ron Preston,N7_M4hjXW1I,0.0,2016-04-20 18:48:26,True,True
+2016-04-20T18:49:43,"Yo Mr. White, you going to cut me in?",289,4,Jesse Pinkman,N7_M4hjXW1I,0.0,2016-04-20 18:49:43,True,True
+2016-04-20T18:52:01,I was waiting for the box cutter scene,0,0,Michael Bush,N7_M4hjXW1I,0.0,2016-04-20 18:52:01,True,True
+2016-04-20T18:53:24,one Oscar here ?,0,0,Abdullah X,N7_M4hjXW1I,0.0,2016-04-20 18:53:24,True,True
+2016-04-20T18:56:08,1:29 is it just me or does that guy play the drug lord in every single movie ever made,82,6,KoG GoK,N7_M4hjXW1I,-0.07142857142857142,2016-04-20 18:56:08,True,True
+2016-04-20T18:57:01,0:35 beadie russell (the wire) explaining about walter white (breaking bad)...,0,0,VishuYT,N7_M4hjXW1I,-0.3499999999999999,2016-04-20 18:57:01,True,True
+2016-04-20T18:57:12,"He's not just undercover, He's the MAN that KILLED Gus Fring.",0,0,TheXpender,N7_M4hjXW1I,-0.2,2016-04-20 18:57:12,True,True
+2016-04-20T18:59:50,"""Stay out of my territory""",0,0,Hamdan Andalousiy,N7_M4hjXW1I,0.0,2016-04-20 18:59:50,True,True
+2016-04-20T19:04:29,oh wow the breaking bad movie looks great,0,0,hondo 92,N7_M4hjXW1I,0.06666666666666672,2016-04-20 19:04:29,True,True
+2016-04-20T19:04:46,Yay dad !,0,0,WALTER J.R. (RETARD),N7_M4hjXW1I,0.0,2016-04-20 19:04:46,True,True
+2016-04-20T19:04:48,who here thinks that bryan cranston would be perfect to play liquid ocelot from mgs4? its his mustache man lol,0,0,Big Boss,N7_M4hjXW1I,0.9,2016-04-20 19:04:48,True,True
+2016-04-20T19:05:47,Breaking Bad meets Narcos,0,0,Mc Lovin,N7_M4hjXW1I,-0.6999999999999998,2016-04-20 19:05:47,True,True
+2016-04-20T19:07:37,What is his name walter white . Ha 😐,0,0,KwT warrior,N7_M4hjXW1I,0.0,2016-04-20 19:07:37,True,True
+2016-04-20T19:08:34,"dayum, that shit is awesome",0,0,Ewald Kiricenko,N7_M4hjXW1I,0.4,2016-04-20 19:08:34,True,True
+2016-04-20T19:10:02,scarface all over again it seems,0,0,Dragonfury3000,N7_M4hjXW1I,0.0,2016-04-20 19:10:02,True,True
+2016-04-20T19:10:10,So Walter actually survived at the end?,0,0,Rhea Parekh,N7_M4hjXW1I,0.0,2016-04-20 19:10:10,True,True
+2016-04-20T19:12:06,maybe he'll be the main role in this movie unlike Godzilla lol,0,0,FoShoMang,N7_M4hjXW1I,0.48333333333333334,2016-04-20 19:12:06,True,True
+2016-04-20T19:12:25,Spoilar  İn the end Walter wake up and asks was this a nightmare or the life I wish to have,0,0,Atilla Bora Aydın,N7_M4hjXW1I,0.0,2016-04-20 19:12:25,True,True
+2016-04-20T19:15:44,1:53 is peak Walter White face,0,0,Confused Films,N7_M4hjXW1I,0.0,2016-04-20 19:15:44,True,True
+2016-04-20T19:16:07,I am oddly more excited to see Leguizamo in a starring role more than I am to see Cranston.,0,0,Justin,N7_M4hjXW1I,0.4583333333333333,2016-04-20 19:16:07,True,True
+2016-04-20T19:17:27,I LIKE TO,0,0,Lvnz,N7_M4hjXW1I,0.0,2016-04-20 19:17:27,True,True
+2016-04-20T19:18:01,"Uds lo siguen viendo como Heisenberg pero yo sigo viendo como Hal, el papá de Malcolm.",0,0,Michael Myers,N7_M4hjXW1I,0.0,2016-04-20 19:18:01,True,True
+2016-04-20T19:18:08,Mr. Whithe,0,0,Enrique Cuzo Peralta,N7_M4hjXW1I,0.0,2016-04-20 19:18:08,True,True
+2016-04-20T19:18:37,Ted Nugent - stranglehold,1,0,JonBoi,N7_M4hjXW1I,0.0,2016-04-20 19:18:37,True,True
+2016-04-20T19:20:13,Can't wait to see this. When will it be available?,0,0,Thomas Chen,N7_M4hjXW1I,0.4,2016-04-20 19:20:13,True,True
+2016-04-20T19:20:16,What about a breaking bad season 6 next,0,0,Mr Blob,N7_M4hjXW1I,-0.3499999999999999,2016-04-20 19:20:16,True,True
+2016-04-20T19:20:59,It makes perfect sense that Walter White is the infiltrator.,0,0,Java Bain,N7_M4hjXW1I,0.5,2016-04-20 19:20:59,True,True
+2016-04-20T19:21:03,It makes perfect sense that Walter White is the infiltrator.,0,0,Java Bain,N7_M4hjXW1I,0.5,2016-04-20 19:21:03,True,True
+2016-04-20T19:23:33,"Drugs, Money, violence,  Bryan Cranston.. Ok, I'm in.",378,5,TestedModz,N7_M4hjXW1I,0.5,2016-04-20 19:23:33,True,True
+2016-04-20T19:23:59,HEISENBERG CILER BURADAMI BIR SES VERIN GENCLER?,0,0,Ressam Jojuk,N7_M4hjXW1I,0.0,2016-04-20 19:23:59,True,True
+2016-04-20T19:26:59,Producer A: That Narcos show on Netflix was pretty popular. Producer B: But does it have Bryan Cranston in it?  THE INFILTRATOR,1,0,samuraipanda85,N7_M4hjXW1I,0.425,2016-04-20 19:26:59,True,True
+2016-04-20T19:29:03,Yessssss I'm totally gonna watch this,0,0,Hellfireincubus,N7_M4hjXW1I,0.0,2016-04-20 19:29:03,True,True
+2016-04-20T19:29:56,"Daaaaam Bryan Cranston, back at it again with the drugs!",0,0,Rodrigo Tufeksian,N7_M4hjXW1I,0.0,2016-04-20 19:29:56,True,True
+2016-04-20T19:30:00,Bryan Cranston plays well in any fatherly role/drug dealer. xD,0,0,yELo_HQ,N7_M4hjXW1I,0.0,2016-04-20 19:30:00,True,True
+2016-04-20T19:31:10,we gotta cooke,0,0,achraf rachdi,N7_M4hjXW1I,0.0,2016-04-20 19:31:10,True,True
+2016-04-20T19:34:40,never has any role caster nailed it as much as putting Brian Cranston in breaking bad,8,1,brad wadsworth,N7_M4hjXW1I,-0.24999999999999992,2016-04-20 19:34:40,True,True
+2016-04-20T19:36:36,I scroll down to the comments just for the Heisenberg jokes. lol,120,0,Rick Kring,N7_M4hjXW1I,0.32222222222222224,2016-04-20 19:36:36,True,True
+2016-04-20T19:38:41,Brian cranston going after heisenberg :|,0,0,inkboy12345,N7_M4hjXW1I,0.0,2016-04-20 19:38:41,True,True
+2016-04-20T19:46:25,"Reads the movie title..''Meh, whatever I'll pass''. Reads the actors....''Gotta watch this''",0,0,Phil Paul,N7_M4hjXW1I,0.0,2016-04-20 19:46:25,True,True
+2016-04-20T19:49:05,After breaking bad ending... He takes the fight straight top cartel drug lord,0,0,117MasterSpartan,N7_M4hjXW1I,5.551115123125783e-17,2016-04-20 19:49:05,True,True
+2016-04-20T19:52:22,The new season of Narcos looks great.,13,0,NJC,N7_M4hjXW1I,0.4681818181818182,2016-04-20 19:52:22,True,True
+2016-04-20T19:52:54,Cranston in yellow shirt. Thought BrBa staff ))),3,0,Madridista KZ,N7_M4hjXW1I,0.0,2016-04-20 19:52:54,True,True
+2016-04-20T19:55:18,"El Pablo - legend, history, king",2,0,Madridista KZ,N7_M4hjXW1I,0.0,2016-04-20 19:55:18,True,True
+2016-04-20T19:57:05,John Leguizamo? Where's HE been? XD,0,0,jice,N7_M4hjXW1I,0.0,2016-04-20 19:57:05,True,True
+2016-04-20T20:00:01,Say my name,0,0,Veldin,N7_M4hjXW1I,0.0,2016-04-20 20:00:01,True,True
+2016-04-20T20:00:12,Thought it was Breaking bad Season 6 trailer from looking at thumbnail with that yellow suit,0,0,Sir Pepe,N7_M4hjXW1I,-0.3499999999999999,2016-04-20 20:00:12,True,True
+2016-04-20T20:01:12,"Some of the best actors in the world aren't even officially actors, but instead are undercover agents.  Talk about pressure.",6,0,Knoar,N7_M4hjXW1I,1.0,2016-04-20 20:01:12,True,True
+2016-04-20T20:03:09,"Narcos, The Movie!",0,0,Asad Bhatti,N7_M4hjXW1I,0.0,2016-04-20 20:03:09,True,True
+2016-04-20T20:05:42,OMG I HAD A PRESENTATION TODAY ABOUT PABLO. I was planning that presentation for months! Illuminati,0,0,Kioumaars Taeed,N7_M4hjXW1I,0.0,2016-04-20 20:05:42,True,True
+2016-04-20T20:06:20,John leguizmo will die,0,0,Thom smith,N7_M4hjXW1I,0.0,2016-04-20 20:06:20,True,True
+2016-04-20T20:07:39,i guess you can call this the infilTRAILER,0,0,Nickzad Rafieha,N7_M4hjXW1I,0.0,2016-04-20 20:07:39,True,True
+2016-04-20T20:07:48,Why I cannot get enough thinking about Walter White every time I watch Bryan Cranston !,0,0,Shahad Sulaiman,N7_M4hjXW1I,0.0,2016-04-20 20:07:48,True,True
+2016-04-20T20:10:47,To w.w.,0,0,Evan Savage,N7_M4hjXW1I,0.0,2016-04-20 20:10:47,True,True
+2016-04-20T20:11:12,Sid (Ice Age) and Heisenberg. This duo should be interesting.,2,0,BYZANTIUM2136,N7_M4hjXW1I,0.5,2016-04-20 20:11:12,True,True
+2016-04-20T20:13:18,Walter White now works for the DEA ? Okay!,0,0,Souhail,N7_M4hjXW1I,0.3125,2016-04-20 20:13:18,True,True
+2016-04-20T20:15:15,SAY MY NAME,0,0,KatKost,N7_M4hjXW1I,0.0,2016-04-20 20:15:15,True,True
+2016-04-20T20:24:40,Heisenberg: The Movie,0,0,Richard Virgen Lepe,N7_M4hjXW1I,0.0,2016-04-20 20:24:40,True,True
+2016-04-20T20:25:10,"'Movie trailer gets views because it stars a famous actor and its widget depicts him' cliche. Add +1 to the sin counter, please.",1,3,Bill Soulta,N7_M4hjXW1I,0.5,2016-04-20 20:25:10,True,True
+2016-04-20T20:32:31,"Bryan Cranston, drugs? Sign me up",0,0,Cole Asbil,N7_M4hjXW1I,0.0,2016-04-20 20:32:31,True,True
+2016-04-20T20:37:41,This is gay,0,0,PaPa -,N7_M4hjXW1I,0.4166666666666667,2016-04-20 20:37:41,True,True
+2016-04-20T20:40:12,"Hey this is wrong . Heisenberg is the one who knocks , not the one who opens the door.",2,0,TheKewlP,N7_M4hjXW1I,-0.5,2016-04-20 20:40:12,True,True
+2016-04-20T20:41:27,say my name,0,0,Hélio Araújo,N7_M4hjXW1I,0.0,2016-04-20 20:41:27,True,True
+2016-04-20T20:45:30,"So it's Narcos with Walter White? With that being said, how many Pablo Escabar bio-pics do there have to be. There were about 4 in the past 2 years.",0,0,M D,N7_M4hjXW1I,0.08333333333333333,2016-04-20 20:45:30,True,True
+2016-04-20T20:48:17,It's Walter White's Daddy!,0,0,Angel of Sarcasm,N7_M4hjXW1I,0.0,2016-04-20 20:48:17,True,True
+2016-04-20T20:53:47,Wtf is this,0,0,PlaeseKillMenow pls,N7_M4hjXW1I,-0.5,2016-04-20 20:53:47,True,True
+2016-04-20T20:59:20,PogChamp,0,0,Jerry,N7_M4hjXW1I,0.0,2016-04-20 20:59:20,True,True
+2016-04-20T21:02:02,First crossover between Narcos and Breaking Bad. Seems pretty good.,0,0,Kis Roka,N7_M4hjXW1I,0.12500000000000003,2016-04-20 21:02:02,True,True
+2016-04-20T21:03:32,Let's cook,0,0,tamzgaming,N7_M4hjXW1I,0.0,2016-04-20 21:03:32,True,True
+2016-04-20T21:15:14,breaking bad prequel :D,0,0,ganesh raja,N7_M4hjXW1I,0.15000000000000008,2016-04-20 21:15:14,True,True
+2016-04-20T21:19:01,Bryan cranston having cool facial hair and doing things with drugs never seen that before,0,0,Aidan Stevens,N7_M4hjXW1I,0.175,2016-04-20 21:19:01,True,True
+2016-04-20T21:19:12,Heisenberg?,0,0,Tobey Maguire crying,N7_M4hjXW1I,0.0,2016-04-20 21:19:12,True,True
+2016-04-20T21:24:44,my dad helped work on this movie,0,0,amy madison,N7_M4hjXW1I,0.0,2016-04-20 21:24:44,True,True
+2016-04-20T21:26:16,I feel like Cranston has never done any drugs in his life.,0,0,Dom-o Ram-o,N7_M4hjXW1I,0.0,2016-04-20 21:26:16,True,True
+2016-04-20T21:26:31,"Why is Bryan Cranston always playing with drugs now??? Lol looks like a good movie, though!",0,0,Youngfully Employed,N7_M4hjXW1I,0.8375,2016-04-20 21:26:31,True,True
+2016-04-20T21:31:58,NARUTO SHIPPUDEN CANON RETURNING ON MAY 5th!!!!,0,0,Triforce44,N7_M4hjXW1I,0.0,2016-04-20 21:31:58,True,True
+2016-04-20T21:42:21,"Narcos + The Departed? oh, and Bryan Cranston? I'm in.",3,0,Theisen,N7_M4hjXW1I,0.0,2016-04-20 21:42:21,True,True
+2016-04-20T21:46:53,The irony of it all.,0,0,Zachary Ballard,N7_M4hjXW1I,0.0,2016-04-20 21:46:53,True,True
+2016-04-20T21:47:44,Haaaaaaaal,0,0,Mike Oxlong,N7_M4hjXW1I,0.0,2016-04-20 21:47:44,True,True
+2016-04-20T21:49:15,This will fill in the blank while I wait for  Narcos season 2,0,0,NewCanadianTurtle,N7_M4hjXW1I,0.0,2016-04-20 21:49:15,True,True
+2016-04-20T21:50:44,finally a Bryan Cranston movie I want to see.,0,0,Kevin Doherty,N7_M4hjXW1I,0.0,2016-04-20 21:50:44,True,True
+2016-04-20T21:54:10,Thought he died to cancer.,1,0,Goddaci,N7_M4hjXW1I,0.0,2016-04-20 21:54:10,True,True
+2016-04-20T22:03:17,I expected Jesse to turn up then.,0,0,MegaRage92,N7_M4hjXW1I,-0.1,2016-04-20 22:03:17,True,True
+2016-04-20T22:12:24,Do a Heisenberg movie already.,0,0,Memoon Khan,N7_M4hjXW1I,0.0,2016-04-20 22:12:24,True,True
+2016-04-20T22:18:40,back at drugs Cranston? Shame on you,0,0,pr1me 08,N7_M4hjXW1I,0.0,2016-04-20 22:18:40,True,True
+2016-04-20T22:19:02,Roses are red Violets are blue I'd fist Bryan Cranston And so would you.,0,0,Mark,N7_M4hjXW1I,0.0,2016-04-20 22:19:02,True,True
+2016-04-20T22:24:45,Say my name...,0,0,Raijinzz,N7_M4hjXW1I,0.0,2016-04-20 22:24:45,True,True
+2016-04-20T22:32:43,Happy 4|20 don't get HIGHHHHH EXPECTATIONS    GET IT WEED,2,0,Carlos Ontiveros,N7_M4hjXW1I,0.8,2016-04-20 22:32:43,True,True
+2016-04-20T22:33:41,Can that man not close his mouth?,0,0,effbomb13,N7_M4hjXW1I,0.0,2016-04-20 22:33:41,True,True
+2016-04-20T22:36:03,"Você não precisa disso,Walt",0,0,Gabriel tripeno,N7_M4hjXW1I,0.0,2016-04-20 22:36:03,True,True
+2016-04-20T22:37:27,"I knew it! Walter White couldn't have gotten that good in the drug business without experience!  On a side note: Notice how Walter White got a Nobel prize in '85, and this movie takes place in '86. Coincidence? I think not.",0,0,Captain Obvious,N7_M4hjXW1I,0.2916666666666667,2016-04-20 22:37:27,True,True
+2016-04-20T22:39:37,Breaking good,0,0,Wo!262,N7_M4hjXW1I,0.7,2016-04-20 22:39:37,True,True
+2016-04-20T22:45:55,STRANGLEHOLD!!,0,0,Erick Ortiz,N7_M4hjXW1I,0.0,2016-04-20 22:45:55,True,True
+2016-04-20T22:51:10,He is the one who knocks off drug cartels,1,0,boxertest,N7_M4hjXW1I,0.0,2016-04-20 22:51:10,True,True
+2016-04-20T22:52:18,im not in danger im the inflitrator,0,0,The ProGamers,N7_M4hjXW1I,0.0,2016-04-20 22:52:18,True,True
+2016-04-20T22:52:22,"DUDE, I LOVE JOHN LEGUIZAMO AND CRANSTON. I saw a play called, ""Latin history for morons"", and John Leguizamo was hilarious in it. Who knew Sid from Ice Age was such a badass?!",0,0,Nathan Renteria,N7_M4hjXW1I,0.04999999999999999,2016-04-20 22:52:22,True,True
+2016-04-20T22:52:42,Yeah Mr. White!!,0,0,robert daniel,N7_M4hjXW1I,0.0,2016-04-20 22:52:42,True,True
+2016-04-20T22:53:41,Walter White is back! 😂,0,0,GEo Geo,N7_M4hjXW1I,0.0,2016-04-20 22:53:41,True,True
+2016-04-20T22:57:47,Who only clicked because Bryan Cranston aka Walter White was the thumbnail.,16,0,Andrew Stover,N7_M4hjXW1I,0.0,2016-04-20 22:57:47,True,True
+2016-04-20T23:01:14,"""Stay out of my territory!"" - Heisenberg",0,0,Archie Sk,N7_M4hjXW1I,0.0,2016-04-20 23:01:14,True,True
+2016-04-20T23:05:22,Still gutted he didn't play the Lex Luthor roll in BvS,0,0,Platinum Arts Studio,N7_M4hjXW1I,0.0,2016-04-20 23:05:22,True,True
+2016-04-20T23:09:54,This movie afters place after his life in Breaking Bad. Lol.,1,0,Microphone Jacket!,N7_M4hjXW1I,0.0500000000000001,2016-04-20 23:09:54,True,True
+2016-04-20T23:09:54,Walt would not be proud... :/,0,0,Romestamo,N7_M4hjXW1I,0.275,2016-04-20 23:09:54,True,True
+2016-04-20T23:10:10,Cue all the BrBa comments....  :D,0,0,Caffeinated Nation,N7_M4hjXW1I,1.0,2016-04-20 23:10:10,True,True
+2016-04-20T23:13:27,Bryan Bryan... Always with drugs.. Always... jajaja,0,0,InBluRay,N7_M4hjXW1I,0.0,2016-04-20 23:13:27,True,True
+2016-04-20T23:14:20,Well looks like heisenberg left the dark side....,0,0,J_MD,N7_M4hjXW1I,-0.075,2016-04-20 23:14:20,True,True
+2016-04-20T23:22:59,"Wait, does this mean Walter White was really just an UNDERCOVER COP?!",0,0,Alexander Clarke,N7_M4hjXW1I,-0.020833333333333332,2016-04-20 23:22:59,True,True
+2016-04-20T23:28:30,"Damn Heisenberg, back at it again with the drugs...",22,0,Ridwan A,N7_M4hjXW1I,0.0,2016-04-20 23:28:30,True,True
+2016-04-20T23:52:03,hiesenburg on the other side of the law interesting,0,0,Tony Bone,N7_M4hjXW1I,0.1875,2016-04-20 23:52:03,True,True
+2016-04-20T23:56:28,Heisenberg,0,0,iDuckyRubber,N7_M4hjXW1I,0.0,2016-04-20 23:56:28,True,True
+2016-04-21T00:07:43,"Yo yo yo, 148, 3-to-the-3-to-the-6-to-the-9. Representin' the ABQ. What up, biatch? Leave it at the tone",0,0,danny,N7_M4hjXW1I,0.0,2016-04-21 00:07:43,True,True
+2016-04-21T00:08:57,"""Now Say My Name"" Heisenberg 2013",3,0,Cesar Flores,N7_M4hjXW1I,0.0,2016-04-21 00:08:57,True,True
+2016-04-21T00:09:42,Whats my Name. Heisenberg! From Meth to hard Drugs.,0,0,Ardent Dfender,N7_M4hjXW1I,-0.2916666666666667,2016-04-21 00:09:42,True,True
+2016-04-21T00:35:37,"Well, it's Bryan Cranston. I guess I'm watching it.",2,0,ElevateYourSenses,N7_M4hjXW1I,0.0,2016-04-21 00:35:37,True,True
+2016-04-21T00:35:38,Breaking Bad: Alternate Universe Edition!,0,0,Hazelpixel,N7_M4hjXW1I,-0.3499999999999999,2016-04-21 00:35:38,True,True
+2016-04-21T00:36:27,Heisenberg is back thank god,9,0,Samuel Unlucky Miller,N7_M4hjXW1I,0.0,2016-04-21 00:36:27,True,True
+2016-04-21T00:36:57,Welcome back Walter!,0,0,UnkeptMoss328,N7_M4hjXW1I,0.4,2016-04-21 00:36:57,True,True
+2016-04-21T00:41:27,Came here for the comment section lol :D,0,0,djhappyyyyy,N7_M4hjXW1I,0.9,2016-04-21 00:41:27,True,True
+2016-04-21T00:42:34,feels like Ive already seen it.,0,0,Crimsonphilosophy,N7_M4hjXW1I,0.0,2016-04-21 00:42:34,True,True
+2016-04-21T00:50:53,1:26 - That fake 747 would actually be a really good concept for aircraft that have upper decks :),0,0,CHRONICLE KAI,N7_M4hjXW1I,0.175,2016-04-21 00:50:53,True,True
+2016-04-21T00:51:16,You had me at Bryan Cranston.,0,0,Michael D'Auben,N7_M4hjXW1I,0.0,2016-04-21 00:51:16,True,True
+2016-04-21T00:55:29,im in this.,0,0,BenjaminWeaver,N7_M4hjXW1I,0.0,2016-04-21 00:55:29,True,True
+2016-04-21T00:57:53,Two of my favorite actors growing up,0,0,Aspire,N7_M4hjXW1I,0.5,2016-04-21 00:57:53,True,True
+2016-04-21T00:58:11,Something tells me that John Lequizamo doesn't last very long in this undercover police role.,0,0,Dylan Jones,N7_M4hjXW1I,-0.0325,2016-04-21 00:58:11,True,True
+2016-04-21T01:01:33,"JESSE, WE GOTTA COOK",1,0,Steven Vu,N7_M4hjXW1I,0.0,2016-04-21 01:01:33,True,True
+2016-04-21T01:01:40,This movie is gonna be gooooooooooood!!!,0,0,emanizzle,N7_M4hjXW1I,0.0,2016-04-21 01:01:40,True,True
+2016-04-21T01:07:47,Chopping an onion is so intimidating.,0,0,timmy yong,N7_M4hjXW1I,0.0,2016-04-21 01:07:47,True,True
+2016-04-21T01:12:02,A prequel to Breaking Bad? Im in,2,1,STAREX,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 01:12:02,True,True
+2016-04-21T01:14:42,"Bryan Cranston, Drug Lord #HellYeah!",0,0,De Reaper,N7_M4hjXW1I,0.0,2016-04-21 01:14:42,True,True
+2016-04-21T01:14:44,Heisenberg change the side this time,0,0,K's,N7_M4hjXW1I,0.0,2016-04-21 01:14:44,True,True
+2016-04-21T01:37:14,"A trailer with drugs, money, violence, Bryan Cranston and Stranglehold by Ted Nugent...  Ok, got my complete attention!",0,0,Kaique Mesquita Correa,N7_M4hjXW1I,0.3125,2016-04-21 01:37:14,True,True
+2016-04-21T01:50:01,"Looks Badass, Cranston it's great in this type of roles",0,0,aldovernal,N7_M4hjXW1I,0.8,2016-04-21 01:50:01,True,True
+2016-04-21T02:17:52,Heisenberg* Heisenberg plays Bryan Cranston,0,0,iJamie8467x,N7_M4hjXW1I,0.0,2016-04-21 02:17:52,True,True
+2016-04-21T02:20:39,Alternate version of Heisenberg in alternate universe,9,0,joeofmacabre07,N7_M4hjXW1I,0.0,2016-04-21 02:20:39,True,True
+2016-04-21T02:27:38,Wher is Jesse Pinkman? 😉,0,0,Mariparis100,N7_M4hjXW1I,0.0,2016-04-21 02:27:38,True,True
+2016-04-21T02:42:52,this reminds me of breaking bad,0,0,LostArchives,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 02:42:52,True,True
+2016-04-21T02:46:40,YO BIAATCH !!,0,0,karla pa,N7_M4hjXW1I,0.0,2016-04-21 02:46:40,True,True
+2016-04-21T02:51:35,Heisenberg!!!!! Woooooooooooooooohooooooooooooooooooooooooo!!!!!!!,0,0,Deep Tech Underground,N7_M4hjXW1I,0.0,2016-04-21 02:51:35,True,True
+2016-04-21T02:54:12,Walter White again,0,0,Harith Azizi,N7_M4hjXW1I,0.0,2016-04-21 02:54:12,True,True
+2016-04-21T03:02:01,I'm Heisenberg motherfuckers I cook anytime anywhere I want,0,0,persie PRINCE,N7_M4hjXW1I,0.0,2016-04-21 03:02:01,True,True
+2016-04-21T03:10:41,You don't fool me Mr. White,0,0,Jhoan Najera,N7_M4hjXW1I,0.0,2016-04-21 03:10:41,True,True
+2016-04-21T03:15:44,"He was a drug lord, now he is taking one down never thought I see that coming",0,0,James Bond,N7_M4hjXW1I,-0.15555555555555559,2016-04-21 03:15:44,True,True
+2016-04-21T03:22:26,I can't not see Malcolm's Dad,0,0,Trevor Lawless,N7_M4hjXW1I,0.0,2016-04-21 03:22:26,True,True
+2016-04-21T03:29:40,I can't watch this without seeing Narcos season 2,5,0,Achilles Torres,N7_M4hjXW1I,0.0,2016-04-21 03:29:40,True,True
+2016-04-21T03:33:01,he is going for that oscars now isn't he.,17,2,Lygar X,N7_M4hjXW1I,0.0,2016-04-21 03:33:01,True,True
+2016-04-21T03:40:03,Breaking Bad: The New 52,1,0,Gnarwhal,N7_M4hjXW1I,-0.28181818181818175,2016-04-21 03:40:03,True,True
+2016-04-21T03:42:47,Whats the song at 0:35 ?,0,0,Mackenzie Langrell-Read,N7_M4hjXW1I,0.0,2016-04-21 03:42:47,True,True
+2016-04-21T03:43:11,walter white is that you ?,0,0,The Black Nostalgia Nerd,N7_M4hjXW1I,0.0,2016-04-21 03:43:11,True,True
+2016-04-21T03:47:57,Heisenberg will take pablo escobar down!,0,0,Mahmoud Chaieb,N7_M4hjXW1I,-0.19444444444444448,2016-04-21 03:47:57,True,True
+2016-04-21T03:48:27,Cliche vibe. But Cranston forever.,0,0,Ralph Mendoza,N7_M4hjXW1I,0.0,2016-04-21 03:48:27,True,True
+2016-04-21T03:56:45,Prequel to Breaking Bad.,0,0,GamingFps,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 03:56:45,True,True
+2016-04-21T04:01:24,Heisenberg :),0,0,Lob City,N7_M4hjXW1I,0.5,2016-04-21 04:01:24,True,True
+2016-04-21T04:06:02,Looks great!!,0,0,bethann landerstyle,N7_M4hjXW1I,1.0,2016-04-21 04:06:02,True,True
+2016-04-21T04:09:15,"Another Breaking Bad,,,but without the mothafukin science!!",0,0,sorrowsuperstar10,N7_M4hjXW1I,0.0,2016-04-21 04:09:15,True,True
+2016-04-21T04:18:04,This looks like a home run,0,0,espn0o,N7_M4hjXW1I,0.0,2016-04-21 04:18:04,True,True
+2016-04-21T04:19:55,Looks Epic :),0,0,Sushant Vivek,N7_M4hjXW1I,0.3,2016-04-21 04:19:55,True,True
+2016-04-21T04:21:59,"i am not in danger skyler, I AM THE DANGER",0,0,dredre8424,N7_M4hjXW1I,0.0,2016-04-21 04:21:59,True,True
+2016-04-21T04:22:20,"Oh dear, what have they done to you Tete Eve and Uncle Bob... haha",0,0,DeadlyBacon,N7_M4hjXW1I,0.2,2016-04-21 04:22:20,True,True
+2016-04-21T04:23:17,"I love Cranston but they already did this, it's called Narcos.",1,2,Arin Kulshi,N7_M4hjXW1I,0.5,2016-04-21 04:23:17,True,True
+2016-04-21T04:26:48,Bryan and John oh hell yes!!!!!!!!!!!!!,0,0,Action Scott,N7_M4hjXW1I,0.0,2016-04-21 04:26:48,True,True
+2016-04-21T04:33:59,Another way of looking at Narcos !! ooohh I am in,0,0,Epic Mayur,N7_M4hjXW1I,0.0,2016-04-21 04:33:59,True,True
+2016-04-21T04:50:59,It's like a G-rated Scarface.. not sure it's worth it,0,1,Hairspray999,N7_M4hjXW1I,0.024999999999999994,2016-04-21 04:50:59,True,True
+2016-04-21T05:01:37,so now walter has taken DEA.. rip bro-in-law...,0,0,Ritesh Rajput,N7_M4hjXW1I,0.0,2016-04-21 05:01:37,True,True
+2016-04-21T05:04:36,drug and brian.. just perfect.,0,0,Madhu Sudhan,N7_M4hjXW1I,1.0,2016-04-21 05:04:36,True,True
+2016-04-21T05:28:37,we just got narcos tho.... this would be way more enticing if i hadn't watched narcos,0,0,Infinity Jacobs,N7_M4hjXW1I,0.5,2016-04-21 05:28:37,True,True
+2016-04-21T05:39:57,"Benjamin Bratt playing a drug lord, again",0,1,Anarchadium,N7_M4hjXW1I,0.0,2016-04-21 05:39:57,True,True
+2016-04-21T05:57:40,Narcos meets Breaking Bad? I'm in.,1,0,Leidy Jazmin,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 05:57:40,True,True
+2016-04-21T06:12:52,Is it time to cook again? 😏,2,0,HOLYFEAR96,N7_M4hjXW1I,0.0,2016-04-21 06:12:52,True,True
+2016-04-21T06:22:26,This is what happens if Heisenberg did not die from cancer.,1,1,RookieN08,N7_M4hjXW1I,0.0,2016-04-21 06:22:26,True,True
+2016-04-21T06:31:10,Heisenberg in Earth 2,0,0,Akheelesh Umrowsing,N7_M4hjXW1I,0.0,2016-04-21 06:31:10,True,True
+2016-04-21T07:00:33,Heisenberg has moved up to coco..,0,0,Thomas Claw,N7_M4hjXW1I,0.0,2016-04-21 07:00:33,True,True
+2016-04-21T07:39:50,narcos are going to add Bryan Cranston in season 2,0,0,dEad eYes,N7_M4hjXW1I,0.0,2016-04-21 07:39:50,True,True
+2016-04-21T07:48:23,Narcos the movie.... great,0,0,TVT o n s t o r,N7_M4hjXW1I,0.8,2016-04-21 07:48:23,True,True
+2016-04-21T07:52:44,I was hoping this was a Netflix series. I could watch several seasons of this!,6,0,JCTiggs,N7_M4hjXW1I,0.0,2016-04-21 07:52:44,True,True
+2016-04-21T08:26:25,deja vu,0,0,broogbie,N7_M4hjXW1I,0.0,2016-04-21 08:26:25,True,True
+2016-04-21T08:40:13,1.26 top gear 747!                            G-BDXJ,1,0,zacsg1,N7_M4hjXW1I,0.625,2016-04-21 08:40:13,True,True
+2016-04-21T08:42:35,DAMN MR.WHITE BACK AT IT AGAIN WITH DRUGS!!!,0,0,ryuji sugioka,N7_M4hjXW1I,0.0,2016-04-21 08:42:35,True,True
+2016-04-21T08:47:30,somehow make walter survive and relaunch breaking bad!,0,0,Rusted Sperm,N7_M4hjXW1I,-0.8749999999999998,2016-04-21 08:47:30,True,True
+2016-04-21T08:52:50,"breaking bad season 6 , okay!  looks better than borne 4",0,0,Kay Kanganga,N7_M4hjXW1I,0.14166666666666672,2016-04-21 08:52:50,True,True
+2016-04-21T08:56:48,"Drugs are bad, m'kay?",0,0,Chris Benson,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 08:56:48,True,True
+2016-04-21T08:58:44,"I thought I just watched a movie trailer like this, but it had Ryan Gosling and Russell Crowe in it?  #imnotseriousimjusthigh",0,0,Chris Benson,N7_M4hjXW1I,0.0,2016-04-21 08:58:44,True,True
+2016-04-21T09:09:31,This movie is confused.  And full of rage.,0,0,Alan Malcheski,N7_M4hjXW1I,-0.025000000000000022,2016-04-21 09:09:31,True,True
+2016-04-21T09:10:51,When will Benjamin Pratt get a leading role?,0,0,TheSalas,N7_M4hjXW1I,0.0,2016-04-21 09:10:51,True,True
+2016-04-21T09:24:18,Heisenberg still rocking the WORLD OF DRUGS AND BITCHES.,0,0,Film Nut,N7_M4hjXW1I,0.0,2016-04-21 09:24:18,True,True
+2016-04-21T09:24:58,Narcos meets breaking bad,0,0,Theo Nartey,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 09:24:58,True,True
+2016-04-21T10:17:49,Im the one WHO KNOCKS!,8,0,YourGamingPill,N7_M4hjXW1I,0.0,2016-04-21 10:17:49,True,True
+2016-04-21T10:35:44,My two favourite actors,0,0,Tabs T,N7_M4hjXW1I,0.0,2016-04-21 10:35:44,True,True
+2016-04-21T10:36:49,America acting as if they hate drugs but they are the biggest consumers .GTFOH,1,0,roughnidas,N7_M4hjXW1I,-0.4,2016-04-21 10:36:49,True,True
+2016-04-21T10:48:39,Say my name...,2,0,Momento Ideia,N7_M4hjXW1I,0.0,2016-04-21 10:48:39,True,True
+2016-04-21T11:56:22,Beadie Russell has come a long way.,0,0,Tanay,N7_M4hjXW1I,-0.05,2016-04-21 11:56:22,True,True
+2016-04-21T12:02:22,Who else clicked on this because the thumbnail looked like breaking bad !!!,1,0,Nathan Preston,N7_M4hjXW1I,-1.0,2016-04-21 12:02:22,True,True
+2016-04-21T12:38:35,😑,0,0,AllThatJazz,N7_M4hjXW1I,0.0,2016-04-21 12:38:35,True,True
+2016-04-21T13:03:06,"Yo,Mr White",0,0,James Cook,N7_M4hjXW1I,0.0,2016-04-21 13:03:06,True,True
+2016-04-21T13:36:52,Is that Boeing 747 from James Bond Movie?,0,0,Aakash Kalaria,N7_M4hjXW1I,0.0,2016-04-21 13:36:52,True,True
+2016-04-21T13:41:09,Byan Cranston should have been lex author in batman v superman,0,0,books from Windblown,N7_M4hjXW1I,0.0,2016-04-21 13:41:09,True,True
+2016-04-21T13:42:24,I Hope bryan gets to say something from breaking bad,0,0,books from Windblown,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 13:42:24,True,True
+2016-04-21T14:03:01,All i'm seeing is season one walter white.,0,0,muscle 19,N7_M4hjXW1I,0.0,2016-04-21 14:03:01,True,True
+2016-04-21T14:11:14,Are there any other Latino actors other than leguizano?!?!...,0,0,Jesse Pedroza,N7_M4hjXW1I,-0.16015625,2016-04-21 14:11:14,True,True
+2016-04-21T14:28:03,When did Walter White level up and become a cop.,0,0,Official Filmilen,N7_M4hjXW1I,0.0,2016-04-21 14:28:03,True,True
+2016-04-21T14:34:14,SAY MY NAME,0,0,Hoang Minh Vuong,N7_M4hjXW1I,0.0,2016-04-21 14:34:14,True,True
+2016-04-21T14:39:23,Narcos the movie,0,0,Leon de Bruyn,N7_M4hjXW1I,0.0,2016-04-21 14:39:23,True,True
+2016-04-21T14:47:15,Heisenberg vs. Escobar,0,0,Willear Glimniene,N7_M4hjXW1I,0.0,2016-04-21 14:47:15,True,True
+2016-04-21T15:00:14,I am the one who knocks,0,0,FoodforThought,N7_M4hjXW1I,0.0,2016-04-21 15:00:14,True,True
+2016-04-21T15:00:23,Say my name,0,0,FoodforThought,N7_M4hjXW1I,0.0,2016-04-21 15:00:23,True,True
+2016-04-21T15:01:49,I will pump some iron and do some squats before I go.,0,0,Charles,N7_M4hjXW1I,0.0,2016-04-21 15:01:49,True,True
+2016-04-21T15:29:12,brian cranston and drugs ? i saw this before and i loved,0,0,antonio da hora,N7_M4hjXW1I,0.7,2016-04-21 15:29:12,True,True
+2016-04-21T16:02:02,breaking bad: the movie,0,0,Matias Seguel Meza,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 16:02:02,True,True
+2016-04-21T16:30:12,Is Heisenberg trying to atone for his sins?,6,0,utkarsh sankrityayan,N7_M4hjXW1I,0.0,2016-04-21 16:30:12,True,True
+2016-04-21T16:53:05,"- Say My name, Scobar. - Mazur. - You're goddamn right!",1,0,João Victor Lima,N7_M4hjXW1I,0.3571428571428571,2016-04-21 16:53:05,True,True
+2016-04-21T16:59:53,the cinematography was good,0,0,Parshya S,N7_M4hjXW1I,0.7,2016-04-21 16:59:53,True,True
+2016-04-21T17:11:03,"The reason drug cartels exist at all is 100% the fault of the government. We can legalize, help addicts recover, and put cartels out of business... or we can let the world remain a shithole and throw people in jail for no reason and make everyone pay for it. Gee tough choice.",0,0,Hi,N7_M4hjXW1I,-0.24444444444444446,2016-04-21 17:11:03,True,True
+2016-04-21T17:36:36,Trevor!! =)),0,0,Chunen Tran,N7_M4hjXW1I,0.5,2016-04-21 17:36:36,True,True
+2016-04-21T17:43:56,song at 34seconds?,0,0,Rogue sH,N7_M4hjXW1I,0.0,2016-04-21 17:43:56,True,True
+2016-04-21T19:23:47,again brave muricans cops save the world?,0,0,Tikash_1,N7_M4hjXW1I,0.8,2016-04-21 19:23:47,True,True
+2016-04-21T19:23:52,again brave muricans cops save the world?,0,0,Tikash_1,N7_M4hjXW1I,0.8,2016-04-21 19:23:52,True,True
+2016-04-21T19:35:45,Say my name,2,3,M.,N7_M4hjXW1I,0.0,2016-04-21 19:35:45,True,True
+2016-04-21T19:45:13,Remember when Walt Jr. got a book on how they got Pablo in Breaking Bad,0,1,Peter Ingenito,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 19:45:13,True,True
+2016-04-21T20:16:20,will hank play drug lord,2,1,Moangus PIckard,N7_M4hjXW1I,0.0,2016-04-21 20:16:20,True,True
+2016-04-21T20:36:55,Finally John Leguizamo is getting an important role!,0,1,Movies Memories,N7_M4hjXW1I,0.25,2016-04-21 20:36:55,True,True
+2016-04-21T21:08:40,Nancy Reagan the trap queen.,0,0,Queen Marlo,N7_M4hjXW1I,0.0,2016-04-21 21:08:40,True,True
+2016-04-21T21:12:26,Let the breaking bad jokes begin...,0,0,Carlos Falcon,N7_M4hjXW1I,-0.6999999999999998,2016-04-21 21:12:26,True,True
+2016-04-21T21:27:16,"Any idea of the background at 00:36, song name?",0,0,Sri Ram,N7_M4hjXW1I,0.0,2016-04-21 21:27:16,True,True
+2016-04-21T21:55:30,That last scene...'you got the part' im gussing he was auditioning to be walter white.,0,0,Daniel Stevens,N7_M4hjXW1I,0.0,2016-04-21 21:55:30,True,True
+2016-04-21T23:06:52,Damn Bryan! Back at it again with the drug industry.,0,0,Goosh,N7_M4hjXW1I,0.0,2016-04-21 23:06:52,True,True
+2016-04-21T23:31:29,Do yourself a favor and go read the book before watching this movie. It's an amazing insane unbelievable story that the movie will not be able to capture to detail how insane his life was.,2,1,TheSacko,N7_M4hjXW1I,-0.22999999999999998,2016-04-21 23:31:29,True,True
+2016-04-21T23:47:56,Bryan Cranston really does like him some hardcore drugs doesn't he?,0,0,nelson kaboots,N7_M4hjXW1I,0.2,2016-04-21 23:47:56,True,True
+2016-04-22T01:06:13,ohhhhhh a heisenberg on alternate universe,0,0,Kira Maximus,N7_M4hjXW1I,0.0,2016-04-22 01:06:13,True,True
+2016-04-22T01:32:30,"Yeah, didn't the movie Blow already glorify this story and cocaine use enough already? Hollywood is in cahoots with big drugs, that's why they shove shit like this down our throats over and over again. F**k the EL-ite Clinton stroking cronies.",0,0,ALLMUTANTER,N7_M4hjXW1I,-0.0888888888888889,2016-04-22 01:32:30,True,True
+2016-04-22T02:28:51,Insert Breaking Bad reference [here] :),16,0,Robert Wild,N7_M4hjXW1I,-0.09999999999999992,2016-04-22 02:28:51,True,True
+2016-04-22T02:49:45,breaking bad role reversal,0,0,deadforrest,N7_M4hjXW1I,-0.6999999999999998,2016-04-22 02:49:45,True,True
+2016-04-22T03:05:10,This looks amazing,0,0,A JW,N7_M4hjXW1I,0.6000000000000001,2016-04-22 03:05:10,True,True
+2016-04-22T05:20:21,And then he got cancer and meet Jesse Pinkman.,0,0,Elbert Reyner,N7_M4hjXW1I,0.0,2016-04-22 05:20:21,True,True
+2016-04-22T06:13:16,"1:53..that's Bryan Cranston's ""i just ran over a drug dealer"" face.",0,0,Art vandaley,N7_M4hjXW1I,0.0,2016-04-22 06:13:16,True,True
+2016-04-22T08:12:40,Heisenberg taking out the competition - smart move,0,0,JimmyNGman,N7_M4hjXW1I,0.21428571428571427,2016-04-22 08:12:40,True,True
+2016-04-22T08:46:52,Walter White is back :) !,0,0,Kevin Pijoan,N7_M4hjXW1I,0.20833333333333334,2016-04-22 08:46:52,True,True
+2016-04-22T09:52:14,"""Boys!Mm,Walter White meets Pablo Escobar.Ah, I love it! I love bringing people togheter! How are we?"".........""It is a pleasure...Ow! Wow, that`s a good grip! You should not pick a fight with this person.""",1,0,theodor Toma,N7_M4hjXW1I,0.47625,2016-04-22 09:52:14,True,True
+2016-04-22T11:14:01,why only one glimpse of Nidge ?,0,0,uKNOWuLIKE that,N7_M4hjXW1I,0.0,2016-04-22 11:14:01,True,True
+2016-04-22T11:30:30,Going Good ,0,0,GlayingSA,N7_M4hjXW1I,0.7,2016-04-22 11:30:30,True,True
+2016-04-22T11:47:30,Constant breaking bad puns on every Cranston project,0,0,Pulse,N7_M4hjXW1I,-0.3499999999999999,2016-04-22 11:47:30,True,True
+2016-04-22T12:24:59,"0:47 ""oh we'll see about that""",0,0,benzo,N7_M4hjXW1I,0.0,2016-04-22 12:24:59,True,True
+2016-04-22T14:05:59,what the soundtrack  please,0,0,Тома Кривенкова,N7_M4hjXW1I,0.0,2016-04-22 14:05:59,True,True
+2016-04-22T14:09:28,Breaking bad The Movie?,0,0,Noora Eilertsen,N7_M4hjXW1I,-0.6999999999999998,2016-04-22 14:09:28,True,True
+2016-04-22T16:06:09,They better make breaking bad references,0,0,Terry Schemehorn,N7_M4hjXW1I,-0.09999999999999992,2016-04-22 16:06:09,True,True
+2016-04-22T21:08:38,"How hypocritical of him, how is going going after pablo escobar when he himself is a meth dealer. The hypocrisy is strong with this one.",353,18,wetheonewitthepain G,N7_M4hjXW1I,0.4333333333333333,2016-04-22 21:08:38,True,True
+2016-04-22T21:19:38,"It's very interesting to see how a filmmaker covers this subject matter after I've seen ""Narcos"". I'm kinda hoping for them to come up with personal story though.",0,0,Skinner Sweet,N7_M4hjXW1I,0.16111111111111112,2016-04-22 21:19:38,True,True
+2016-04-22T21:25:59,Fun. Bryan's the DRUG.,0,0,nama chakraborthy,N7_M4hjXW1I,0.3,2016-04-22 21:25:59,True,True
+2016-04-22T22:30:52,Wow this actually looks pretty good!,0,0,Virginia Taylor,N7_M4hjXW1I,0.30625,2016-04-22 22:30:52,True,True
+2016-04-22T22:34:16,"Walter White vs Pablo Escobar, who wins ?",257,40,Benjamin Acheson,N7_M4hjXW1I,0.15,2016-04-22 22:34:16,True,True
+2016-04-22T23:21:52,oh oh oh here comes the breaking bad jokes!!!!,0,0,Tomduff24,N7_M4hjXW1I,-1.0,2016-04-22 23:21:52,True,True
+2016-04-22T23:52:01,What is his name?,0,0,Juniomega,N7_M4hjXW1I,0.0,2016-04-22 23:52:01,True,True
+2016-04-22T23:55:51,"Maybe it's just me... but I feel like this is probably going to be the kind of movie where you could put ""kinda sorta"" in front of ""based on a true story.""",13,0,Connor Duquette,N7_M4hjXW1I,0.475,2016-04-22 23:55:51,True,True
+2016-04-23T00:09:26,Ohhh the good vibes for this movie kicked in when Stranglehold started playing.,2,0,david beardy-kam,N7_M4hjXW1I,0.7,2016-04-23 00:09:26,True,True
+2016-04-23T01:12:42,this looks mediocre at best but 100% will watch for bryan cranston,0,0,Stephan Jones,N7_M4hjXW1I,0.25,2016-04-23 01:12:42,True,True
+2016-04-23T02:10:07,Can't wait ..Heisenberg is a cooooop!!!,0,0,Ebtihal 1,N7_M4hjXW1I,0.0,2016-04-23 02:10:07,True,True
+2016-04-23T02:41:33,This is prequel to Breaking Bad,8,2,Laufield,N7_M4hjXW1I,-0.6999999999999998,2016-04-23 02:41:33,True,True
+2016-04-23T03:39:13,hesseinberg,0,0,leksetengah gada,N7_M4hjXW1I,0.0,2016-04-23 03:39:13,True,True
+2016-04-23T04:48:03,@ 0:26 Take You Down - Daniel Pemberton - Man From UNCLE OST @ 1:06 Stranglehold - Ted Nugent  No idea about the music at the beginning.,0,0,Drunken Robot,N7_M4hjXW1I,-0.15555555555555559,2016-04-23 04:48:03,True,True
+2016-04-23T05:22:07,Heisenberg v Escobar: Dawn of Cocaine🎲,1,0,godzeno,N7_M4hjXW1I,0.0,2016-04-23 05:22:07,True,True
+2016-04-23T06:04:11,Mr white ?,0,0,Abdulaziz Wadaani,N7_M4hjXW1I,0.0,2016-04-23 06:04:11,True,True
+2016-04-23T07:35:14,so imagine the last line of this trailer to be the last line of this movie.......,0,0,ding a dong,N7_M4hjXW1I,0.0,2016-04-23 07:35:14,True,True
+2016-04-23T08:19:53,I kinda hope the movie will at least talk about BCCI.,0,0,tkoshy,N7_M4hjXW1I,-0.3,2016-04-23 08:19:53,True,True
+2016-04-23T10:48:34,Mr white,0,0,Eric BOUESSA,N7_M4hjXW1I,0.0,2016-04-23 10:48:34,True,True
+2016-04-23T11:27:43,ou yeah,0,0,Tony K,N7_M4hjXW1I,0.0,2016-04-23 11:27:43,True,True
+2016-04-23T11:56:43,'Say My Name' Heisenberg is back,0,0,Aswajith SI,N7_M4hjXW1I,0.0,2016-04-23 11:56:43,True,True
+2016-04-23T12:37:07,SAY MY NAME!,0,0,Quan,N7_M4hjXW1I,0.0,2016-04-23 12:37:07,True,True
+2016-04-23T13:27:59,I'm really sorry but Bryan Cranston with hair just looks so weird for me...,0,0,Mr0strich,N7_M4hjXW1I,-0.5,2016-04-23 13:27:59,True,True
+2016-04-23T13:37:58,i just cliked like cos bryan is in it,0,0,marko mandic,N7_M4hjXW1I,0.0,2016-04-23 13:37:58,True,True
+2016-04-23T14:08:11,What's up with Bryan cranston and drugs?,0,0,pragun,N7_M4hjXW1I,0.0,2016-04-23 14:08:11,True,True
+2016-04-23T15:20:10,Heisenberg is great actor,0,0,wesaalvb2,N7_M4hjXW1I,0.8,2016-04-23 15:20:10,True,True
+2016-04-23T16:44:26,DAMN HEISENBERG BACK AT IT AGAIN,0,0,PIZACLATON DDD,N7_M4hjXW1I,0.0,2016-04-23 16:44:26,True,True
+2016-04-23T17:00:28,Totally watching because of Breaking Bad. And the director had this intention when hiring the guy,13,0,MrPacMan36,N7_M4hjXW1I,-0.3499999999999999,2016-04-23 17:00:28,True,True
+2016-04-23T17:58:10,bryan kranston chasing  hisenberg,0,0,twiggy695,N7_M4hjXW1I,0.0,2016-04-23 17:58:10,True,True
+2016-04-23T19:11:47,"1:30, wrong way to cut an onion, what a noob.",0,0,Ronaldo Roda,N7_M4hjXW1I,-0.5,2016-04-23 19:11:47,True,True
+2016-04-23T19:53:40,you're goddamn right.,0,0,sixburn gaming,N7_M4hjXW1I,0.2857142857142857,2016-04-23 19:53:40,True,True
+2016-04-23T20:16:59,We already got narcos though.,0,0,main,N7_M4hjXW1I,0.0,2016-04-23 20:16:59,True,True
+2016-04-23T20:42:34,"""Ooooh looks like a good movie. I'm definitely going to see it""",0,0,Erick Maggerrick,N7_M4hjXW1I,0.35,2016-04-23 20:42:34,True,True
+2016-04-23T21:26:16,Luigi  seems to be doing fine without Mario.,2,0,Han Solo,N7_M4hjXW1I,0.4166666666666667,2016-04-23 21:26:16,True,True
+2016-04-23T22:58:31,looks dope,0,0,123 G,N7_M4hjXW1I,0.0,2016-04-23 22:58:31,True,True
+2016-04-23T23:34:22,ohhh its just a movie:/,0,0,lukey2603,N7_M4hjXW1I,0.0,2016-04-23 23:34:22,True,True
+2016-04-24T02:16:31,"Oh great, another movie about ""colombian narcos"" so americans will keep thinking Colombia is all about drugs and violence",0,0,DANIEL STEVEN LEMOS CARDONA,N7_M4hjXW1I,0.8,2016-04-24 02:16:31,True,True
+2016-04-24T02:21:01,hell yeah i am going to watch this movie........he will still be my walter white,0,0,Vishwaj Gondane,N7_M4hjXW1I,0.0,2016-04-24 02:21:01,True,True
+2016-04-24T03:44:46,"You can win me over in any trailer by playing ""Stranglehold"" :-)",0,0,DARKFLASH THE SAVANT,N7_M4hjXW1I,0.65,2016-04-24 03:44:46,True,True
+2016-04-24T04:19:11,"""Stranglehold"" Co-written by Rob Grange, but Nugent grabbed copyrights and claimed full writers credit.",0,0,Rob Grange,N7_M4hjXW1I,0.35,2016-04-24 04:19:11,True,True
+2016-04-24T05:44:36,...albeit Blow part 2,0,0,BAMF4Real,N7_M4hjXW1I,0.0,2016-04-24 05:44:36,True,True
+2016-04-24T07:16:10,damn Walter became a snitch !!!! Shame :P,0,0,Pronnoy Chowdhury,N7_M4hjXW1I,0.75,2016-04-24 07:16:10,True,True
+2016-04-24T07:20:42,"Narcos, Narcos everywhere !!",0,0,Rahul Nimje,N7_M4hjXW1I,0.0,2016-04-24 07:20:42,True,True
+2016-04-24T09:05:18,this movie looks trash,0,0,Callum Styles,N7_M4hjXW1I,0.0,2016-04-24 09:05:18,True,True
+2016-04-24T12:04:00,is this the same story from NARCOS?? anyone know :(,2,3,James Patrick - Artist,N7_M4hjXW1I,-0.375,2016-04-24 12:04:00,True,True
+2016-04-24T12:27:09,From meth cooker to drug buster,0,0,rastawet,N7_M4hjXW1I,0.0,2016-04-24 12:27:09,True,True
+2016-04-24T17:56:20,Breaking Bad: we aint coming for Jesse movie?,0,0,patrick F,N7_M4hjXW1I,-0.6999999999999998,2016-04-24 17:56:20,True,True
+2016-04-24T18:40:15,"bryan cranston, drugs, moustache..i'm in",0,0,Matthew Hat,N7_M4hjXW1I,0.0,2016-04-24 18:40:15,True,True
+2016-04-24T21:27:38,I'm in this movie,0,0,DRAM 30,N7_M4hjXW1I,0.0,2016-04-24 21:27:38,True,True
+2016-04-24T21:51:19,watchin this bad...breakin bad,0,0,Chris Keo,N7_M4hjXW1I,-0.6999999999999998,2016-04-24 21:51:19,True,True
+2016-04-24T23:39:08,Has the film industry just completely run out of new ideas?,0,0,IntouchMusic,N7_M4hjXW1I,0.11818181818181818,2016-04-24 23:39:08,True,True
+2016-04-25T05:40:29,1:57 I know that face,27,1,Ishan Dave,N7_M4hjXW1I,0.0,2016-04-25 05:40:29,True,True
+2016-04-25T08:10:00,"Diane Kruger was born to play a Narco Cop. Sometimes Did they just chose diane because she played a cop in the drug action/drama ""The Bridge"".",1,0,Ahsan Siddiqui,N7_M4hjXW1I,0.0,2016-04-25 08:10:00,True,True
+2016-04-25T10:28:06,Bryan Cranston can do a porn movie with my mom and I'd still watch it. He's that good.,300,19,Tdis01,N7_M4hjXW1I,0.7,2016-04-25 10:28:06,True,True
+2016-04-25T13:59:23,breaking bad was his life line for bigger roles,0,0,mike8pow,N7_M4hjXW1I,-0.3499999999999999,2016-04-25 13:59:23,True,True
+2016-04-25T14:12:50,man oh man!!!!! the lord of blue meth is back to business as drug lord!!!!!,2,7,harshavardhana naganagoudar,N7_M4hjXW1I,0.0,2016-04-25 14:12:50,True,True
+2016-04-25T14:27:09,Stranglehold ...about damn time this song was featured in a movie trailer,0,0,Uncle Moose,N7_M4hjXW1I,0.0,2016-04-25 14:27:09,True,True
+2016-04-25T16:26:02,whats the theme song,0,0,siZit chand,N7_M4hjXW1I,0.0,2016-04-25 16:26:02,True,True
+2016-04-25T18:14:07,keep going Mr. White,0,0,Mahmoud Samy,N7_M4hjXW1I,0.0,2016-04-25 18:14:07,True,True
+2016-04-25T19:13:31,Stranglehold - Ted Nuggent,0,0,Gabriel Nunes,N7_M4hjXW1I,0.0,2016-04-25 19:13:31,True,True
+2016-04-25T19:46:21,EYYYY its Luigi!,0,0,jagofett78studios,N7_M4hjXW1I,0.0,2016-04-25 19:46:21,True,True
+2016-04-25T21:10:25,Bryan Cranston is on a roll...,4,0,udayan majumdar,N7_M4hjXW1I,0.0,2016-04-25 21:10:25,True,True
+2016-04-25T22:22:03,I didn't know Walter White was a detective!,1,0,ShadowFly,N7_M4hjXW1I,0.0,2016-04-25 22:22:03,True,True
+2016-04-25T22:42:21,I'm here for breaking bad jokes,0,0,Crazy Baboon,N7_M4hjXW1I,-0.6999999999999998,2016-04-25 22:42:21,True,True
+2016-04-26T00:07:45,SAY MY NAME....,0,0,Jelani H.,N7_M4hjXW1I,0.0,2016-04-26 00:07:45,True,True
+2016-04-26T01:41:44,Good movie can't wait to own it!!,0,0,tj leonard,N7_M4hjXW1I,0.81875,2016-04-26 01:41:44,True,True
+2016-04-26T01:57:52,This looks amazing. I read that this book is based on an autobiography written by the guy Cranston plays in this. I hope it's good and is a faithful adaptation instead of just taking certain events from what really happened and just throwing a lot of fictitious stuff in it to make the film work.,0,0,Jared Wignall,N7_M4hjXW1I,0.42857142857142855,2016-04-26 01:57:52,True,True
+2016-04-26T02:43:03,just use the blue stuff;),0,0,PATRIOT7ME,N7_M4hjXW1I,0.125,2016-04-26 02:43:03,True,True
+2016-04-26T04:27:54,Ooooh weee! Bryan C and Johnny L... oooh weee this is going to be good don't ya think? ooooooh wee!,0,0,Ghadente,N7_M4hjXW1I,0.875,2016-04-26 04:27:54,True,True
+2016-04-26T11:38:35,Plot twist: Bryan Cranston is also an agent in breaking bad,0,0,Alex Peterson,N7_M4hjXW1I,-0.6999999999999998,2016-04-26 11:38:35,True,True
+2016-04-26T16:12:44,"Free Live Sex Cam Show, Exclusive Unlimited Access:      BabeGirlsHere.BlogSpot------------------c0m",0,0,Erminia Milne,N7_M4hjXW1I,0.2681818181818182,2016-04-26 16:12:44,True,True
+2016-04-26T17:38:27,Yo Mr White!,0,0,SanteRip,N7_M4hjXW1I,0.0,2016-04-26 17:38:27,True,True
+2016-04-27T00:14:33,I AM THE DANGER. I AM THE ONE WHO KNOCKS.,13,0,Danial Arif,N7_M4hjXW1I,0.0,2016-04-27 00:14:33,True,True
+2016-04-27T00:34:23,Bryan Cranston + Drugs = Yes,382,9,Magic Within,N7_M4hjXW1I,0.0,2016-04-27 00:34:23,True,True
+2016-04-27T00:44:34,"why hollywood is so obsesive with Pablo Escobar? I'm done with Escobar's films, documentaries, series, books and everything",3,3,Ali Maldonado,N7_M4hjXW1I,0.0,2016-04-27 00:44:34,True,True
+2016-04-27T02:16:59,"okay, there are now too many movies and perspectives about Pablo Escobar. This is getting redundant, I guess if this must continue then maybe a different one from let's say one of his nanny's perspective might have a whole new take; like being grateful but fearful at the same time. Love and fear",0,0,Omegus Black,N7_M4hjXW1I,0.0818181818181818,2016-04-27 02:16:59,True,True
+2016-04-27T09:04:01,"W0W! Cranston, Leguizamo & Bratt in the same movie. I'm IN! I'm so watching this!",0,0,Real Cosmic Builds,N7_M4hjXW1I,0.0,2016-04-27 09:04:01,True,True
+2016-04-27T11:33:05,Jesse we have to infiltrate,176,6,CamiloSanchez1979,N7_M4hjXW1I,0.0,2016-04-27 11:33:05,True,True
+2016-04-27T14:32:44,I haven't seen him since Malcolm in the Middle.Hope this goes well,0,3,Proud Son,N7_M4hjXW1I,0.0,2016-04-27 14:32:44,True,True
+2016-04-27T16:12:22,The breaking bad prequel?,78,12,mike stanberry,N7_M4hjXW1I,-0.6999999999999998,2016-04-27 16:12:22,True,True
+2016-04-27T22:13:44,my fav actor of all time : Bryan Cranston,0,0,Adil Y,N7_M4hjXW1I,0.0,2016-04-27 22:13:44,True,True
+2016-04-28T02:37:34,Movies about undercover cops are usually good enough. They could do without the explosions and car chases.,0,0,Dux Nihilo,N7_M4hjXW1I,0.35,2016-04-28 02:37:34,True,True
+2016-04-28T04:59:12,Just clicked because of Walter white,23,2,L S,N7_M4hjXW1I,0.0,2016-04-28 04:59:12,True,True
+2016-04-29T03:06:36,poor lois,0,0,freemiles,N7_M4hjXW1I,-0.4,2016-04-29 03:06:36,True,True
+2016-04-29T04:38:53,Finally a good role for Diane Krueger since Inglorious Basters. She plays good traitors.,0,0,Foreigner,N7_M4hjXW1I,0.7,2016-04-29 04:38:53,True,True
+2016-04-30T17:03:36,0:38 Krzysztof Krawczyk ?!,0,0,N,N7_M4hjXW1I,0.0,2016-04-30 17:03:36,True,True
+2016-05-01T03:44:50,There should be a another tv series of Bryan Cranston.he's well known for breaking bad and Malcolm in the middle.his acting is incredible.,0,0,ezekiel Gerard,N7_M4hjXW1I,0.06666666666666672,2016-05-01 03:44:50,True,True
+2016-05-01T05:12:24,SAY MY NAME!,0,0,Communist,N7_M4hjXW1I,0.0,2016-05-01 05:12:24,True,True
+2016-05-01T16:43:01,"plot twist:walter did not bleed to death and revived by the deas who swarming the lab when walt collaspe.then,he was convicted of cooking meth and other conspiracy he plotted.but later,he was brainwashed into transforming from a meth cook to a DEA because he has the potential of good analytical thinking on how to Solve impending dangers and better plot on how to catch Pablo Escobar.On the other hand,jesse is competing with escobar for high demand of money and superior drugpin.will walt recollect????let's find out in this mega blockbuster movie.",0,0,Isaac Gerard,N7_M4hjXW1I,0.25857142857142856,2016-05-01 16:43:01,True,True
+2016-05-01T22:14:05,Hmmm...getting some strong Det. Gordon and Det. Essen vibes here...,0,0,Kyle Tye,N7_M4hjXW1I,0.4333333333333333,2016-05-01 22:14:05,True,True
+2016-05-02T04:07:39,So this is what Hal is up to these days,0,0,Nick Coble,N7_M4hjXW1I,0.0,2016-05-02 04:07:39,True,True
+2016-05-02T06:30:16,Breaking Good,0,0,gerry gonzalez,N7_M4hjXW1I,0.7,2016-05-02 06:30:16,True,True
+2016-05-02T10:11:40,"Yeah science, Mr.White!!",0,0,ignited red,N7_M4hjXW1I,0.0,2016-05-02 10:11:40,True,True
+2016-05-02T15:20:32,Manny's dad!!,0,0,Phil Dunphy,N7_M4hjXW1I,0.0,2016-05-02 15:20:32,True,True
+2016-05-04T15:43:01,"hey, You who question if this is like NARCOS.  OF COURSE it similar if not the f*ing same story. Its about the f*ing PABLO ESCOBAR. Shut up and go watch or not, the f*ing movie..... God. *sighs*",2,1,Dimitris Moumo,N7_M4hjXW1I,0.0,2016-05-04 15:43:01,True,True
+2016-05-05T08:51:34,"Bryan cranston suit with goatee.for example,breaking bad.those moustache doenst look real.they should add a goatee so that looked like badass in this drug movie.",0,0,Isaac Gerard,N7_M4hjXW1I,0.0,2016-05-05 08:51:34,True,True
+2016-05-06T20:58:51,baby blue,0,0,Pridit,N7_M4hjXW1I,0.0,2016-05-06 20:58:51,True,True
+2016-05-07T19:32:49,1:53 thats a familiar face,0,0,zjapp,N7_M4hjXW1I,0.375,2016-05-07 19:32:49,True,True
+2016-05-10T13:08:33,Mr White is not in danger. He IS the danger!,0,0,oceanskie,N7_M4hjXW1I,0.0,2016-05-10 13:08:33,True,True
+2016-05-10T19:17:05,Bryan Cranston and drugs seems to go hand-in-hand,0,0,Michael Vinciguerra,N7_M4hjXW1I,0.0,2016-05-10 19:17:05,True,True
+2016-05-13T01:58:39,Song name?,0,2,redhood 101,N7_M4hjXW1I,0.0,2016-05-13 01:58:39,True,True
+2016-05-17T02:16:18,This is the real scarface,0,0,Brandon Fiedorczyk,N7_M4hjXW1I,0.2,2016-05-17 02:16:18,True,True
+2016-05-17T04:20:58,I AM THE ONE WHO KNOCKS,0,0,Bobbybobob,N7_M4hjXW1I,0.0,2016-05-17 04:20:58,True,True
+2016-05-17T10:00:40,That moment when you hear drugs and bryan cranston comes to your mind...!!,0,0,Ayush Bajpai,N7_M4hjXW1I,0.0,2016-05-17 10:00:40,True,True
+2016-05-19T23:46:19,Heisenberg.,0,0,Manuu MC,N7_M4hjXW1I,0.0,2016-05-19 23:46:19,True,True
+2016-05-20T09:30:11,WALTER WHITE is back ! I love this kind of movies,0,0,LA_GALLADA_RUIZ,N7_M4hjXW1I,0.275,2016-05-20 09:30:11,True,True
+2016-05-21T03:21:54,1:57 gives me goosebumps from breaking bad,0,0,drake stallion,N7_M4hjXW1I,-0.6999999999999998,2016-05-21 03:21:54,True,True
+2016-05-21T06:08:55,I don't care what anyone says I will always call Bryan Cranston Walter white.,187,19,Abel Goni,N7_M4hjXW1I,0.0,2016-05-21 06:08:55,True,True
+2016-05-22T07:15:06,should just make drugs legal like Germany,0,2,Kokocipher,N7_M4hjXW1I,0.2,2016-05-22 07:15:06,True,True
+2016-05-22T17:17:04,This is like Heisenberg in an alternate universe being forced to atone to his sins.,0,0,Cesar Acosta,N7_M4hjXW1I,-0.15000000000000002,2016-05-22 17:17:04,True,True
+2016-05-22T19:34:54,Aaron Paul needs to make a cameo in this movie.,9,4,Ludwig Wittgenstein,N7_M4hjXW1I,0.0,2016-05-22 19:34:54,True,True
+2016-05-23T14:19:21,the voice of bryan cranston is so so so good i dont know why but it is,0,0,Gzizou Seif,N7_M4hjXW1I,0.7,2016-05-23 14:19:21,True,True
+2016-05-23T14:22:02,just give us a movie where he is bold,0,0,Gzizou Seif,N7_M4hjXW1I,0.3333333333333333,2016-05-23 14:22:02,True,True
+2016-05-25T19:20:13,I will watch anything that has Bryan Cranston.,2,0,Ankit,N7_M4hjXW1I,0.0,2016-05-25 19:20:13,True,True
+2016-05-26T09:25:52,Say ny name!,0,0,Scary5,N7_M4hjXW1I,0.0,2016-05-26 09:25:52,True,True
+2016-05-27T05:57:29,"Inb4 one trillion Walter White and BB references....  ...oh, too late.",6,0,EnzoTheBaker,N7_M4hjXW1I,-0.15,2016-05-27 05:57:29,True,True
+2016-05-27T12:11:26,a tale of men and moustachios,0,0,Stu Wright,N7_M4hjXW1I,0.0,2016-05-27 12:11:26,True,True
+2016-05-27T13:28:34,"Getting a very Argo-esque vibe from this, can't wait",1,0,Scoot mcscootson,N7_M4hjXW1I,0.2,2016-05-27 13:28:34,True,True
+2016-05-27T20:40:34,#saymyname :D,0,0,mrloardoftheboard,N7_M4hjXW1I,1.0,2016-05-27 20:40:34,True,True
+2016-05-28T07:36:27,Seems like Bryan Cranston is playing a similar role Bob Odenkirk played in breaking bad.,0,0,OpenTheB0x,N7_M4hjXW1I,-0.3499999999999999,2016-05-28 07:36:27,True,True
+2016-05-28T15:49:42,Walt's long lost brother.,0,0,hhhhhhhhhhhhhhhhhhhhhhhhhh,N7_M4hjXW1I,-0.05,2016-05-28 15:49:42,True,True
+2016-05-29T11:54:29,1:57 classic Walter White shock face,0,0,Sam Teks,N7_M4hjXW1I,0.08333333333333333,2016-05-29 11:54:29,True,True
+2016-05-30T08:02:57,"i just came here to read some obvious ""Breaking Bad"" jokes...",0,0,Alp-Arsalan Kargar,N7_M4hjXW1I,-0.3499999999999999,2016-05-30 08:02:57,True,True
+2016-05-31T22:49:47,"i cant un-see Walter White. every movie he will ever play in, he will still be Walter White.",0,0,Pajamboy,N7_M4hjXW1I,0.0,2016-05-31 22:49:47,True,True
+2016-06-01T05:58:29,Damn I didn't know Heisenberg was turning over a new leaf,27,9,Quetzal00358,N7_M4hjXW1I,0.13636363636363635,2016-06-01 05:58:29,True,True
+2016-06-01T15:55:30,Any movie with John Leguizamo is usually really bad,0,0,Jimmy Lynch,N7_M4hjXW1I,-0.6999999999999998,2016-06-01 15:55:30,True,True
+2016-06-04T17:14:56,"So basically Bryan remembered the scene in BB with Junior reading ""Killing Pablo"" and thought that was a good idea for a future career move...   Right on.",9,0,Rockmaster2112,N7_M4hjXW1I,0.32857142857142857,2016-06-04 17:14:56,True,True
+2016-06-04T23:59:14,The roles have been reversed for Mr. White.,0,0,Hodl 1537,N7_M4hjXW1I,0.0,2016-06-04 23:59:14,True,True
+2016-06-05T05:02:10,The comments on here crack (no pun intended) me up lmao,0,0,Scott Davey,N7_M4hjXW1I,0.6,2016-06-05 05:02:10,True,True
+2016-06-06T23:21:26,US was corrupt not Escobar,0,0,Tabithia Moore,N7_M4hjXW1I,-0.5,2016-06-06 23:21:26,True,True
+2016-06-10T06:21:12,season 2..of NARCOS,0,0,Srajan Ullal,N7_M4hjXW1I,0.0,2016-06-10 06:21:12,True,True
+2016-06-14T20:33:01,"Not meaning to change the subject about this movie with Bryan Cranston whom I have the utmost respect as an actor. I have seen Breaking Bad 3 times, that is how much I enjoyed the story, the actors, and the scenery. Could not find anything of interest on Netflix till I came across one with the actor David Duchovny from X-files. The title is Aquarius and is based on Charles Manson and his family. I was 19 when I heard of the murders happening in California and the capturing of the killers of Sharon Tate, Abigail Folger and others.  This is a 13 part series with the story including politicians. I found it very well done and came close to Breaking Bad as far as captivating because I lived through those times of civil unrest and the Vietnam War. My husband was there and came back very messed up. I truly enjoyed it and think for those of you that are going through Breaking Bad withdrawals, you may appreciate this series. I am a 68 year old grandma so if some of you have someone my age tell them about the series. It is on Netflix. Many of my friends from the neighborhood in Chicago were also in Vietnam. The stories they tell about the war are unbelievable. Anyway there are many pieces to this series and I hope you take the time to watch it. You can also google Charles Manson if you never heard of him.",0,0,Estella Sistar,N7_M4hjXW1I,0.03888888888888893,2016-06-14 20:33:01,True,True
+2016-06-15T21:30:02,Walter White >>> Pablo Escobar,0,0,Dylan Sanchez,N7_M4hjXW1I,0.0,2016-06-15 21:30:02,True,True
+2016-06-16T15:08:14,Plata O Plomo.,0,0,xPreddyx,N7_M4hjXW1I,0.0,2016-06-16 15:08:14,True,True
+2016-06-16T15:13:29,Yo .. Heisenberg is back 💃,0,0,Ashfaque Hossain,N7_M4hjXW1I,0.0,2016-06-16 15:13:29,True,True
+2016-06-16T22:35:56,i have to watch this,0,0,ClusterNation,N7_M4hjXW1I,0.0,2016-06-16 22:35:56,True,True
+2016-06-18T21:32:12,push it to the limit,0,0,Kārlis Bērziņs,N7_M4hjXW1I,0.0,2016-06-18 21:32:12,True,True
+2016-06-20T07:15:33,"This is so ironic, lol!",0,0,Mike L,N7_M4hjXW1I,0.6,2016-06-20 07:15:33,True,True
+2016-06-22T21:35:12,probably only gonna see this because of Bryan Cranston lol,0,0,buticus,N7_M4hjXW1I,0.4,2016-06-22 21:35:12,True,True
+2016-06-24T02:44:18,Shame on them for enforcing and supporting drug laws. Any police who enforce drug laws are cowards and at fault themselves if they get harmed for attempting to enforce them.,0,0,Mike M,N7_M4hjXW1I,0.25,2016-06-24 02:44:18,True,True
+2016-06-26T02:42:15,Holy shit. When he burned the id's in the grill or whatever.. Is that like an easter egg to where he burned the money in a grill in breaking bad? DANGGGGGG,0,0,Bacon Is Life,N7_M4hjXW1I,-0.44999999999999996,2016-06-26 02:42:15,True,True
+2016-06-27T03:26:14,Brayan Cranston looks sexy a mature old man i think besides being very talented he's well-hung i would like to see him in his birthday suit ! Very hot and handsome i want him to F*** me ,0,1,Victor Victoria,N7_M4hjXW1I,0.42083333333333334,2016-06-27 03:26:14,True,True
+2016-06-27T18:24:47,I REALLY CANT WAIT TO C THIS MOVIE...  It's about time Benjamin bratt came out on an action movie.. John Leguizamo is a fucken bad ass too.. But the king of king is Bryan Cranston. Bad ass fucken cast. Can't  wait.,0,0,Old-Style 86,N7_M4hjXW1I,-0.2749999999999999,2016-06-27 18:24:47,True,True
+2016-06-28T01:52:24,Whats up with bryan cranston and drugs,0,0,Easton Fishbeck,N7_M4hjXW1I,0.0,2016-06-28 01:52:24,True,True
+2016-06-28T03:46:57,"So Mr. Pablo Escobar, if your new friend sends you a bouquet of flowers, look at the card & kmake sure they are not ""Lily of the Valley"" sir.",0,0,PrincessAddieCat,N7_M4hjXW1I,0.3181818181818182,2016-06-28 03:46:57,True,True
+2016-06-29T02:07:41,Dude...! He is the MAN!! Can not wait until this comes out. Did anyone catch a release date besides it saying 2016??,0,0,Josh Moreno,N7_M4hjXW1I,0.0,2016-06-29 02:07:41,True,True
+2016-06-30T13:43:28,"No, the biggest drug story in the history is Breaking Bad",0,0,malo,N7_M4hjXW1I,-0.6999999999999998,2016-06-30 13:43:28,True,True
+2016-06-30T19:35:13,"If anyone can take the on the cartel, it's Mr. White. The problem is, he always ends up keeping it for himself in the end.",10,0,El Mostrito,N7_M4hjXW1I,0.0,2016-06-30 19:35:13,True,True
+2016-06-30T20:43:41,walter white isn't dead?,0,0,Chimphead 73,N7_M4hjXW1I,-0.1,2016-06-30 20:43:41,True,True
+2016-06-30T22:21:52,"From the  director of The Lincoln Lawyer, which was a pretty damn good movie that also co-starred Cranston and Leguizamo.",0,0,Nick S,N7_M4hjXW1I,0.475,2016-06-30 22:21:52,True,True
+2016-06-30T23:26:00,I think I would have gone with a different actor. Or is this Walt's community service?,0,0,Judge Hodor,N7_M4hjXW1I,0.0,2016-06-30 23:26:00,True,True
+2016-07-01T04:40:29,Which one is Gustavo Phreng?,0,0,Big Ed M,N7_M4hjXW1I,0.0,2016-07-01 04:40:29,True,True
+2016-07-01T04:50:52,Mr White!!,0,0,Brian C,N7_M4hjXW1I,0.0,2016-07-01 04:50:52,True,True
+2016-07-01T10:50:03,So when do they start cooking?,125,1,JumpingJellyMan,N7_M4hjXW1I,0.0,2016-07-01 10:50:03,True,True
+2016-07-02T16:22:50,Come on Walt,0,0,Zitch,N7_M4hjXW1I,0.0,2016-07-02 16:22:50,True,True
+2016-07-03T02:30:43,HEISENBURG,0,0,Chris,N7_M4hjXW1I,0.0,2016-07-03 02:30:43,True,True
+2016-07-03T07:03:13,I will reveal myself in the end.,0,0,BeginningAndLast 7,N7_M4hjXW1I,0.0,2016-07-03 07:03:13,True,True
+2016-07-03T16:09:21,Lets hope he doesn't get killed off in the first 8 minutes of the movie...,0,0,Erick T,N7_M4hjXW1I,0.024999999999999994,2016-07-03 16:09:21,True,True
+2016-07-03T22:31:43,"Lame ass movie, Fake ass true story!  but good enough for those that don't speak Spanish and believe anything.  if you want to see the real deal, watch the Colombian Escobar mini series, yall probably poop your pants after watching it! lol",1,2,Jonathan lopez,N7_M4hjXW1I,0.1484375,2016-07-03 22:31:43,True,True
+2016-07-04T19:42:38,now...say my name?,0,0,Sabz 777,N7_M4hjXW1I,0.0,2016-07-04 19:42:38,True,True
+2016-07-05T00:52:34,"So I was on dictionary dot com looking at the definition of ""Irony"" and it sent me here.",4,0,Brian Monette,N7_M4hjXW1I,0.0,2016-07-05 00:52:34,True,True
+2016-07-05T02:08:18,how is this affecting breaking bad?,0,0,Diosnel Frica,N7_M4hjXW1I,-0.6999999999999998,2016-07-05 02:08:18,True,True
+2016-07-05T04:40:53,I love these kind of movies. I'm glad they put Bryan Cranston in it.,0,0,Roberto Diego,N7_M4hjXW1I,0.5333333333333333,2016-07-05 04:40:53,True,True
+2016-07-05T08:05:33,Soundtrack by Ted Nugent.,0,0,American Citizen,N7_M4hjXW1I,0.0,2016-07-05 08:05:33,True,True
+2016-07-05T21:33:27,Heinsenberg finally spend all of his money,0,0,Print up,N7_M4hjXW1I,0.0,2016-07-05 21:33:27,True,True
+2016-07-06T03:35:45,white man to play a colombian drug lord..... smh...  The white washing of hollywood comtinues,0,2,takeover302,N7_M4hjXW1I,0.0,2016-07-06 03:35:45,False,True
+2016-07-09T02:23:48,"Escobar, wanna cook?",0,0,Edmonton Boy,N7_M4hjXW1I,0.0,2016-07-09 02:23:48,False,True
+2016-07-09T13:31:02,He clearly plays walt in this film lmao,1,0,Basketball God,N7_M4hjXW1I,0.35,2016-07-09 13:31:02,False,True
+2016-07-09T14:11:20,benjamin bratt tho ❤👌,0,0,Iasnai Gutierrez,N7_M4hjXW1I,0.0,2016-07-09 14:11:20,False,True
+2016-07-09T21:56:27,If I was the US president at the time of Pablo Escobar I'd be mad too that these drug dealers ain't paying taxes,0,0,Chey000 0,N7_M4hjXW1I,-0.625,2016-07-09 21:56:27,False,True
+2016-07-10T21:24:12,You smell that? I smell an Oscar,1,0,Jon Graham,N7_M4hjXW1I,0.0,2016-07-10 21:24:12,False,True
+2016-07-11T05:33:59,Better than Narco Netflix piece of shit.,1,0,Jose Fabricio Pereira Eler,N7_M4hjXW1I,0.15,2016-07-11 05:33:59,False,True
+2016-07-12T08:45:49,He acts exactly the same as he did in Breaking Bad. A complete badass that's never mentally prepared when something traumatic happens.,90,2,0ddMonk3y,N7_M4hjXW1I,-0.05999999999999998,2016-07-12 08:45:49,False,True
+2016-07-12T15:23:50,Hell yeah!!!! Any movie that uses the Nuge's Stranglehold in the trailer has my support!!!!!!,0,0,John Kimble,N7_M4hjXW1I,0.0,2016-07-12 15:23:50,False,True
+2016-07-12T16:00:42,WALTER WHITE IS BACK B*TCHESSSSSSSS!!!!!!!!!,2,0,Kristy's Edits,N7_M4hjXW1I,0.0,2016-07-12 16:00:42,False,True
+2016-07-12T18:02:48,when is the movie coming out !!?,0,0,Ayub,N7_M4hjXW1I,0.0,2016-07-12 18:02:48,False,True
+2016-07-13T13:37:22,these nutz ?,0,0,lütfü beyaz,N7_M4hjXW1I,0.0,2016-07-13 13:37:22,False,True
+2016-07-13T21:39:06,Is this finally the crossover between Breaking Bad and Miami Vice?,0,0,Mario Quade,N7_M4hjXW1I,-0.3499999999999999,2016-07-13 21:39:06,False,True
+2016-07-14T22:14:22,"just stick with breaking bad, WE WANT A NEW EPISODE OF BREAKING BAD.",0,0,Zak AA,N7_M4hjXW1I,-0.4212121212121211,2016-07-14 22:14:22,False,True
+2016-07-15T03:07:53,Is this a Walter White origin story?,0,0,RickJ666ESQ,N7_M4hjXW1I,0.0,2016-07-15 03:07:53,False,True
+2016-07-15T07:14:18,"Typical ""glamorous"" drug story. All these trailers look the same.",40,17,cassl14,N7_M4hjXW1I,-0.08333333333333333,2016-07-15 07:14:18,False,True
+2016-07-15T10:12:16,Same old Pablo movie...nice leguizamo back in action.,0,0,TheManChise,N7_M4hjXW1I,0.05,2016-07-15 10:12:16,False,True
+2016-07-15T18:01:40,should i just re watch Narco????,0,0,Koto Nizna,N7_M4hjXW1I,0.0,2016-07-15 18:01:40,False,True
+2016-07-15T23:52:48,Lol...I wanna see him back as the deranged father role (malcom in the middle).,0,0,nimay13,N7_M4hjXW1I,0.0,2016-07-15 23:52:48,False,True
+2016-07-16T07:03:36,Waiting for this to be on PutLocker,1,0,Slitherio,N7_M4hjXW1I,0.0,2016-07-16 07:03:36,False,True
+2016-07-16T12:03:13,Wow! Heisenberg busting drugs. Awesome.,0,0,Kiran Raut,N7_M4hjXW1I,0.5625,2016-07-16 12:03:13,False,True
+2016-07-16T16:17:52,DEA propaganda the film,0,0,Miller sandbox,N7_M4hjXW1I,-0.1,2016-07-16 16:17:52,False,True
+2016-07-16T19:30:17,Heisenberg,0,0,Benjamin Rau,N7_M4hjXW1I,0.0,2016-07-16 19:30:17,False,True
+2016-07-16T22:55:52,Is it just me or does that guy look familiar from the show breaking bad?,0,0,Francisco Carrizales,N7_M4hjXW1I,-0.16249999999999992,2016-07-16 22:55:52,False,True
+2016-07-16T23:13:37,where is Elena Anaya?,0,0,guillermija,N7_M4hjXW1I,0.0,2016-07-16 23:13:37,False,True
+2016-07-17T01:00:45,More like Breaking Good,0,0,Virgil,N7_M4hjXW1I,0.6,2016-07-17 01:00:45,False,True
+2016-07-17T01:42:37,Trailer looks like shit.,0,0,Caber Cabe,N7_M4hjXW1I,-0.2,2016-07-17 01:42:37,False,True
+2016-07-17T04:38:04,was the movie good?,0,0,david henriquez,N7_M4hjXW1I,0.7,2016-07-17 04:38:04,False,True
+2016-07-17T04:46:26,Walt became DEA sheeit no one better for the job,0,0,k ly,N7_M4hjXW1I,0.5,2016-07-17 04:46:26,False,True
+2016-07-17T16:52:44,Is good movie to watch or not,0,1,Memo Noor,N7_M4hjXW1I,0.7,2016-07-17 16:52:44,False,True
+2016-07-18T00:58:32,"Why does Bryan Cranston always hold his mouth open when acting surprised or taken aback, etc?  He always has that same dumb expression.",0,2,John Galt,N7_M4hjXW1I,-0.05500000000000001,2016-07-18 00:58:32,False,True
+2016-07-19T08:24:09,Narcos season 2 feat walter white?,0,0,blackness010,N7_M4hjXW1I,0.0,2016-07-19 08:24:09,False,True
+2016-07-19T16:16:12,"This movie would have made a great tv mini series and Escobar is barley in the movie, watch my review yo",0,0,Nerd Soup,N7_M4hjXW1I,0.8,2016-07-19 16:16:12,False,True
+2016-07-19T17:54:40,this would be huge if Jesse was in the movie... actually screw that just make a breaking bad movie it would be HUGE at the box office!,0,0,Travis Warren,N7_M4hjXW1I,0.050000000000000086,2016-07-19 17:54:40,False,True
+2016-07-19T22:26:39,"Is not bad, very gritty with some shocking an unexpected scenes. the cast is excellent, actually the film at time makes the so called bad guys look better than the U.S. Government. The fact remains that the U.S. Government has turned the War On Drugs into a self perpetuating Police State  Machine while doing little or nothing to reduce the drug market in the U.S.  Actually, the older types of drugs are being replaced by even more dangerous at times legally availalble over the counter medicines.",0,0,Starhunter Terra,N7_M4hjXW1I,0.02351190476190476,2016-07-19 22:26:39,False,True
+2016-07-20T10:34:16,"So they've chosen Bryan Cranston to fight now AGAINST a drug boss, okay.",0,0,Irriducibile11,N7_M4hjXW1I,0.5,2016-07-20 10:34:16,False,True
+2016-07-20T18:15:14,horrible fawking movie glorifying  Ronnie Rayguns war on drugs? really nancy rayguns was a astrology using prostitute.  fecal matter for conservatives,4,2,Vincent Saiz,N7_M4hjXW1I,-0.4,2016-07-20 18:15:14,False,True
+2016-07-21T10:07:58,Holy shit. I wanna see this so bad,0,0,Joey,N7_M4hjXW1I,-0.44999999999999996,2016-07-21 10:07:58,False,True
+2016-07-22T05:08:32,More people saw the trailer than the actual movie.,0,0,breakaway2x,N7_M4hjXW1I,0.25,2016-07-22 05:08:32,False,True
+2016-07-22T12:27:49,"I'm pretty sure that ive heard that song somewhere, the one in  the background score. is it ZEPPELIN ? ANYONE.??",2,2,Smit Joshi,N7_M4hjXW1I,0.375,2016-07-22 12:27:49,False,True
+2016-07-24T22:55:39,all I see is his same astonished facial expressions. it gets old.,0,0,Thee Ace,N7_M4hjXW1I,0.03333333333333333,2016-07-24 22:55:39,False,True
+2016-07-25T04:17:13,the only slightly interesting parts of this movie are in the trailer the movie itself is terribly boring,0,0,Nick Helfrich,N7_M4hjXW1I,-0.16666666666666666,2016-07-25 04:17:13,False,True
+2016-07-25T16:14:49,Bryan Cranston MITO!,0,0,Rafael Fortini,N7_M4hjXW1I,0.0,2016-07-25 16:14:49,False,True
+2016-07-26T03:55:35,I'm laughing my ass off looking at these comments they think this is like breaking bad. SPOILED ALERT: HE PLAYS A COP IN THE MOVIE.,0,0,Fidilguino 519,N7_M4hjXW1I,-0.6999999999999998,2016-07-26 03:55:35,False,True
+2016-07-26T21:28:29,I can't see Malcolm's dad fight drug dealers when a a goofball,5,1,Lalo 06,N7_M4hjXW1I,0.0,2016-07-26 21:28:29,False,True
+2016-07-27T15:18:43,Why the fuk is bryan always plays the drug dealer XD,0,0,ege yurtkoruyan,N7_M4hjXW1I,0.0,2016-07-27 15:18:43,False,True
+2016-07-27T20:51:50,Pablo Escobar = Total Badass,0,0,michael deadass,N7_M4hjXW1I,0.0,2016-07-27 20:51:50,False,True
+2016-07-28T00:28:33,This will do badly in every country but it will get critical acclaim. Why? Coz action movies are dead globally.,0,0,Karabo ManneZA,N7_M4hjXW1I,-0.15999999999999998,2016-07-28 00:28:33,False,True
+2016-07-28T04:01:15,this movie was pretty badass,1,0,xDEKEx007x,N7_M4hjXW1I,0.25,2016-07-28 04:01:15,False,True
+2016-07-28T16:00:54,"fun fact : in breaking bad season 3 episode 8 ""I see you"" , Walter ""Flynn"" jr. talks about a book about the guys that took down Pablo escobar to Walter white , his father. and now Bryan cranston is playing one of the guys that helped take down Pablo. .........pretty cool huh?",176,23,White Steve Harvey,N7_M4hjXW1I,-0.060185185185185175,2016-07-28 16:00:54,False,True
+2016-07-28T17:52:23,"Hal, is that you? HAL?HAL?",0,0,ssupes,N7_M4hjXW1I,0.0,2016-07-28 17:52:23,False,True
+2016-07-31T01:00:55,breaking pablo,0,0,Rigo Quintero,N7_M4hjXW1I,0.0,2016-07-31 01:00:55,False,True
+2016-07-31T22:50:06,This movie is so freaking great!! Everybody needs to go see it now!,0,0,Mpalmtree28,N7_M4hjXW1I,1.0,2016-07-31 22:50:06,False,True
+2016-08-01T02:21:10,"Saw this, very disappointing.",0,0,44thenazz,N7_M4hjXW1I,-0.78,2016-08-01 02:21:10,False,True
+2016-08-03T05:03:10,So Walter never died he got a fake family to protect himself from the DEA and continue selling drugs,0,0,Michael Goldberg,N7_M4hjXW1I,-0.5,2016-08-03 05:03:10,False,True
+2016-08-04T14:16:19,Walter what are you doing we need to cook right now,0,0,Dutch Van Der Linde,N7_M4hjXW1I,0.2857142857142857,2016-08-04 14:16:19,False,True
+2016-08-06T01:59:05,Dope movie. Bryan Cranston nailed it.,2,0,getnotoriousXBL,N7_M4hjXW1I,0.0,2016-08-06 01:59:05,False,True
+2016-08-07T21:48:08,Heisenberg 8-),0,0,Poldark,N7_M4hjXW1I,0.5,2016-08-07 21:48:08,False,True
+2016-08-07T23:27:21,Narcos,0,0,Suspended,N7_M4hjXW1I,0.0,2016-08-07 23:27:21,False,True
+2016-08-08T14:55:58,0:16 Omg. That's the bowling alley i go to. Last year i was literally near Bryan Cranston.,0,0,Jenna Morrison,N7_M4hjXW1I,0.05,2016-08-08 14:55:58,False,True
+2016-08-09T17:25:55,WHat is the name of the song that played after min 1,0,0,ThA WolF,N7_M4hjXW1I,0.0,2016-08-09 17:25:55,False,True
+2016-08-10T10:05:07,"After the movie, Robert (Bryan Cranston) goes into witness protection due to Pablo Escobar seeking revenge by killing his family. The witness protection program sends Robert to ABQ, New Mex. Now as ""Walter White"" a Chemistry Teacher, he then later finds his 2nd love of his life, Skyler.  Starts a new family but then later at age 50 gets diagnosed with lung cancer. Breaking Bad was born.",0,0,Joel Martinez jr,N7_M4hjXW1I,-0.0058080808080807934,2016-08-10 10:05:07,False,True
+2016-08-10T20:56:24,"As usual, I have to assume this will only be worth seeing because of Bryan Cranston.",0,0,Dragonball BS,N7_M4hjXW1I,0.016666666666666663,2016-08-10 20:56:24,False,True
+2016-08-12T02:42:26,I loved Bryan Cranston more when he was bald,1,0,טל שמידט,N7_M4hjXW1I,0.6,2016-08-12 02:42:26,False,True
+2016-08-13T15:47:19,Who better to hunt drug dealers than am meth king pin! Walter white is alive!,0,0,rory colton,N7_M4hjXW1I,0.25,2016-08-13 15:47:19,False,True
+2016-08-13T15:49:05,Walter White didnt die in breaking bad. The police caught him in that final shot and walt made a deal to use his expertise and connections to find drug dealers (this movie!) Awesome,0,0,rory colton,N7_M4hjXW1I,0.07500000000000004,2016-08-13 15:49:05,False,True
+2016-08-13T15:49:45,to stay out of prison,0,0,rory colton,N7_M4hjXW1I,0.0,2016-08-13 15:49:45,False,True
+2016-08-15T18:55:06,This movie will have some breaking bad reference .,0,0,aaaaaaaaaaaadddd,N7_M4hjXW1I,-0.6999999999999998,2016-08-15 18:55:06,False,True
+2016-08-16T13:21:26,"I first watched him in Malcolm in the middle, then I watched the trailer for breaking bad. I had no intention of watching the series because I thought of him in Malcolm in the middle and his comedy side. I decided to watch the first episode and I was hooked. I had no idea he could play a serious character. I can't wait for this.",0,0,sniff28,N7_M4hjXW1I,-0.08888888888888886,2016-08-16 13:21:26,False,True
+2016-08-19T23:20:41,The only reason I looked up this trailer is to see how many Heisenberg comments there would be.,0,0,ElectricSociopath,N7_M4hjXW1I,0.25,2016-08-19 23:20:41,False,True
+2016-08-20T20:02:25,I feel like the irony in casting Bryan Cranston in this role needs not to be pointed out?,0,0,emeproducti0ns,N7_M4hjXW1I,0.0,2016-08-20 20:02:25,False,True
+2016-08-21T02:49:02,To making drugs  To stopping drugs  Heisenberg never died,11,0,Atiq Ahmed,N7_M4hjXW1I,0.0,2016-08-21 02:49:02,False,True
+2016-08-23T06:21:12,I bet this is going to be good but I bet it would be better if it was a series,0,0,Xavir Co,N7_M4hjXW1I,0.6,2016-08-23 06:21:12,False,True
+2016-08-23T23:10:17,Let's be honest. Good Filmes hired Cranston on purpose.,0,0,Steven Zhang,N7_M4hjXW1I,0.6499999999999999,2016-08-23 23:10:17,False,True
+2016-08-24T16:37:34,i expect how badass he will be as he play as a drug lord,0,0,minh tu do,N7_M4hjXW1I,0.0,2016-08-24 16:37:34,False,True
+2016-08-28T00:17:12,[INSERT EDGY BREAKING BAD QUOTE HERE],2,0,sumthin5,N7_M4hjXW1I,-0.4999999999999999,2016-08-28 00:17:12,False,True
+2016-08-30T12:36:11,Casino Royale modified 747 from Top Gear Track...seen.,0,0,Michael Burton,N7_M4hjXW1I,0.5,2016-08-30 12:36:11,False,True
+2016-08-30T22:27:03,YES This looks amazing😄,0,0,Parallel Eagle,N7_M4hjXW1I,0.0,2016-08-30 22:27:03,False,True
+2016-08-31T22:33:41,I don't care about the dialogue or the story line. I just care about seeing Joe Gilgun tbh. More of Joe Gilgun with a beard and glasses please.,0,0,Char A,N7_M4hjXW1I,0.5,2016-08-31 22:33:41,False,True
+2016-09-02T21:51:13,Can we just talk about the irony of having Walter White (Bryan Cranston) in this?,0,0,Danahan,N7_M4hjXW1I,0.0,2016-09-02 21:51:13,False,True
+2016-09-02T22:03:32,Basically Narcos on a lower budget,1,0,ross mcfadyen,N7_M4hjXW1I,0.0,2016-09-02 22:03:32,False,True
+2016-09-03T11:16:40,SAY MY NAME,0,0,mohamed am,N7_M4hjXW1I,0.0,2016-09-03 11:16:40,False,True
+2016-09-04T18:19:24,Breaking Bad meets Narcos... BOOM!!!,0,2,Adrian Garcia,N7_M4hjXW1I,-1.0,2016-09-04 18:19:24,False,True
+2016-09-06T18:44:00,cranston needs to play a drug lord... oh wait. lol,0,0,jflores85,N7_M4hjXW1I,0.8,2016-09-06 18:44:00,False,True
+2016-09-06T21:32:18,Thought this was a trailer for Narcos season 2 when it come on the tele 😱😫,0,0,Andrew Caine,N7_M4hjXW1I,0.0,2016-09-06 21:32:18,False,True
+2016-09-08T04:00:05,sooooo this is what they did with Heisenberg after they caught him... It all makes sense now,0,0,Joshua Rempel,N7_M4hjXW1I,0.0,2016-09-08 04:00:05,False,True
+2016-09-09T14:10:31,"won tickets to see the Irish premiere of this, can't wait!!!!",0,0,Laura M,N7_M4hjXW1I,0.0,2016-09-09 14:10:31,False,True
+2016-09-09T15:09:14,"1:51 Great, its pretty obvious from the context who died there...",0,0,Zhi Kang Shao,N7_M4hjXW1I,0.35000000000000003,2016-09-09 15:09:14,False,True
+2016-09-09T20:30:33,back at the drugs lol,0,0,Papin 360,N7_M4hjXW1I,0.4,2016-09-09 20:30:33,False,True
+2016-09-10T09:40:37,I watched this movie in French lmao so I have no idea what actually happens in the film,4,0,Prod. Hxrford,N7_M4hjXW1I,0.19999999999999998,2016-09-10 09:40:37,False,True
+2016-09-10T10:01:49,This movie is basically breaking bad + narcos,0,0,Donald Trump01,N7_M4hjXW1I,-0.6999999999999998,2016-09-10 10:01:49,False,True
+2016-09-11T12:38:33,heisenbar,0,0,GoonaTV,N7_M4hjXW1I,0.0,2016-09-11 12:38:33,False,True
+2016-09-13T17:35:00,"Meh, seen Narcos already",0,0,JeyEL,N7_M4hjXW1I,0.0,2016-09-13 17:35:00,False,True
+2016-09-13T20:51:48,narcos,0,0,Priyansh shah,N7_M4hjXW1I,0.0,2016-09-13 20:51:48,False,True
+2016-09-14T06:10:13,"Really? I mean, you can't see a Latin Americans getting amazing views on Tv right??Gotta try steal the scene.. Narcos is on and is amazing, that's rude, get back to your blue Meth thing or do something else.",0,0,Álvaro Assumpção,N7_M4hjXW1I,0.0979166666666667,2016-09-14 06:10:13,False,True
+2016-09-14T17:52:20,the song that goes ahhhh?,1,3,Nathan Boss,N7_M4hjXW1I,0.0,2016-09-14 17:52:20,False,True
+2016-09-15T10:04:48,And then they pull a 'Godzilla' and kill off Brian Cranston 10 minutes in and the whole film is about John Liguizamo! (Spoiler Alert if you haven't seen Godzilla) :P,0,0,Grant Keelan,N7_M4hjXW1I,0.5,2016-09-15 10:04:48,False,True
+2016-09-15T10:40:03,Siiii Patron!!,0,0,Mugiwara Luffy,N7_M4hjXW1I,0.0,2016-09-15 10:40:03,False,True
+2016-09-15T17:55:45,crossover breaking bad + narcos,0,0,Nicolás Andrés Bustos,N7_M4hjXW1I,-0.6999999999999998,2016-09-15 17:55:45,False,True
+2016-09-15T21:28:04,Stranglehold by Ted Nudgent...if anyone's wondering.,0,0,Ishan Pawar,N7_M4hjXW1I,0.0,2016-09-15 21:28:04,False,True
+2016-09-16T10:53:41,"The synopsis: As Walts business grew, he began to face newer, larger threats than he has known before. Follow him in this feature length adventure as he goes undercover to take on the kingpin of the drug world, Pablo Escobar.",0,0,Pentax 25,N7_M4hjXW1I,0.0,2016-09-16 10:53:41,False,True
+2016-09-17T23:29:32,this movie sucks ballls big time im sat in the cinema right now writing this dont waste ur money watch narcos    instead,0,0,Adam Dragon786,N7_M4hjXW1I,-0.053571428571428575,2016-09-17 23:29:32,False,True
+2016-09-20T21:21:39,Bryan yeah !!! Mfckrrr,0,0,reem er,N7_M4hjXW1I,0.0,2016-09-20 21:21:39,False,True
+2016-09-21T13:56:35,Is it crap or not? hard to tell from the trailer and the reviews have been meh..,0,0,Slack,N7_M4hjXW1I,-0.32708333333333334,2016-09-21 13:56:35,False,True
+2016-09-26T22:53:32,for goodness sake..its a film n he is an actor.,0,0,ACW Wong,N7_M4hjXW1I,0.0,2016-09-26 22:53:32,False,True
+2016-09-30T09:38:38,My name is HEISENBERG,0,0,florinel alex,N7_M4hjXW1I,0.0,2016-09-30 09:38:38,False,True
+2016-09-30T11:32:10,"they gotta chillout with all this pablo escobar shit. shit like the new OJ ? movies, docs, music. just stop the shit already.",0,0,Efrain Fernandez,N7_M4hjXW1I,-0.11590909090909092,2016-09-30 11:32:10,False,True
+2016-09-30T14:15:26,pablo you are craize,0,0,Hamza Chouabbia,N7_M4hjXW1I,0.0,2016-09-30 14:15:26,False,True
+2016-09-30T19:13:42,breaking bad,0,0,MikesBirthdayParty,N7_M4hjXW1I,-0.6999999999999998,2016-09-30 19:13:42,False,True
+2016-09-30T19:37:13,I prefer the spanish Series Pablo Escobar El patron del Mal on Netflix! It has 72 Episodes,4,3,Aktien mit Kopf,N7_M4hjXW1I,0.0,2016-09-30 19:37:13,False,True
+2016-09-30T19:56:16,I have just finished watching Narcos. No doubt that it is another typical drug/cartel/gang related story. The only such story I have enjoyed is Breaking Bad - that was something else.,0,0,Abhijeet Kundu,N7_M4hjXW1I,-0.06111111111111108,2016-09-30 19:56:16,False,True
+2016-09-30T20:42:22,"Why dont NARCs go after legal drug cartels that sells chemicals that kill more people than all the ""illegal"" drugs combined? Because the drug war is just a pay off to BigPharma / BigAlcohol / BigCigarette that want to keep put cheaper safer more effective competition out of business.",0,0,Michael P. Shipley,N7_M4hjXW1I,0.25999999999999995,2016-09-30 20:42:22,False,True
+2016-10-01T00:40:15,"How courageous such infiltrator needs to be !! Hard to imagine !!! Real good movie, and probably the best role Cranston had since Breaking Bad !!",8,1,mrirurfkjsdo,N7_M4hjXW1I,0.0860677083333333,2016-10-01 00:40:15,False,True
+2016-10-01T01:15:10,goddamn it heisenberg,0,0,Ahmed XH Chakhoum,N7_M4hjXW1I,0.0,2016-10-01 01:15:10,False,True
+2016-10-01T01:52:06,"The gunshots in this made me jump so bad, so unexpected !",1,3,England 1966,N7_M4hjXW1I,-0.2874999999999999,2016-10-01 01:52:06,False,True
+2016-10-01T03:49:08,"It is really great to see the good work these agents do in the war on drugs.   It is thanks to people like this that it is literally      impossible           to buy drugs in the                                                                                                                                                                  United States.   If not for their dedication, drugs would be a scourge and you would be able to buy narcotics in any city in the country. LUCKILY we have completely and totally eliminated drugs from our society. There have been no murders related to drugs and lives have not been ruined because of these brave men and women.   I think we need to tank all the people who have stopped drugs from entering our county completely. Just as alcohol prohibition worked in the 20's, drug prohibition is a complete success. Isn't life grand. We have learned our lessons well. :)     The War on Drugs is over and the government lost........PLEASE get the facts.............................................   http://www.drugwarfacts.org/cms/Heroin_Maintenance#sthash.yjH7kI1v.dpbs",2,1,Mark G,N7_M4hjXW1I,0.28444444444444444,2016-10-01 03:49:08,False,True
+2016-10-01T04:46:23,im so over movies like this and teen flicks saving schools by dancing and falling in love. I want new concepts please hollywood.,0,0,R T,N7_M4hjXW1I,0.21212121212121213,2016-10-01 04:46:23,False,True
+2016-10-01T06:43:37,In the wedding scene the cops roll up in a cop car that dates back to probably the mid 60's. The movie is set in 1985 not 1965. Some of the costumes and cars represent more of 1975 than 1985. I suppose people that were not around back then will not notice.,0,0,Larry Finklestein,N7_M4hjXW1I,0.125,2016-10-01 06:43:37,False,True
+2016-10-01T07:01:29,PLATA O PLOMO,1,0,HD Gaming,N7_M4hjXW1I,0.0,2016-10-01 07:01:29,False,True
+2016-10-01T11:02:04,Question... is Pablo ever in this?,0,1,Slow Benzo DTX,N7_M4hjXW1I,0.0,2016-10-01 11:02:04,False,True
+2016-10-01T11:02:25,"""Narcos the movie""",0,0,soupcan,N7_M4hjXW1I,0.0,2016-10-01 11:02:25,False,True
+2016-10-01T11:13:08,"Hell yeah, I heard about a new film with Bryan Cranston in it called the infiltrator but I thought it was going to be about terrorism, but now into its about drugs and Pablo Escobar I'm defiantly going to watch it, Walter white and Pablo Escobar. Or shall I say heisenberg Vs El Patron.",0,0,steven lee Johnson,N7_M4hjXW1I,0.06818181818181818,2016-10-01 11:13:08,False,True
+2016-10-01T16:16:32,Disappointing movie.,0,0,if6was929,N7_M4hjXW1I,-0.6,2016-10-01 16:16:32,False,True
+2016-10-01T16:26:18,Yo Mr White!!!,3,0,Pick N Roll,N7_M4hjXW1I,0.0,2016-10-01 16:26:18,False,True
+2016-10-01T16:59:41,narcos did it better,3,0,KingTray,N7_M4hjXW1I,0.5,2016-10-01 16:59:41,False,True
+2016-10-01T17:10:27,caca,0,0,Anonymous Fartface,N7_M4hjXW1I,0.0,2016-10-01 17:10:27,False,True
+2016-10-01T19:33:45,Narcos the movie??,6,0,Professor PumPum,N7_M4hjXW1I,0.0,2016-10-01 19:33:45,False,True
+2016-10-01T20:51:39,He's not in danger.  He is the danger.,1,0,excel04,N7_M4hjXW1I,0.0,2016-10-01 20:51:39,False,True
+2016-10-01T21:11:18,Walter White my guy... long time no see,2,0,Prolo TV,N7_M4hjXW1I,-0.025,2016-10-01 21:11:18,False,True
+2016-10-01T22:06:12,Was this story involved in Narcos?,7,7,Serxhio Gugo,N7_M4hjXW1I,0.0,2016-10-01 22:06:12,False,True
+2016-10-02T01:51:57,"walter had a kid 3 boys, one named malcom. now walter has to do questionable things to pay da bills",0,0,MassDynamic,N7_M4hjXW1I,-0.5,2016-10-02 01:51:57,False,True
+2016-10-02T06:50:24,the one who knocks.,0,0,Gajen Arumugam,N7_M4hjXW1I,0.0,2016-10-02 06:50:24,False,True
+2016-10-02T17:37:59,What's the song in the beginnen called? With the high pitch screams? 0:35,0,0,Mark van de Weerd,N7_M4hjXW1I,0.16,2016-10-02 17:37:59,False,True
+2016-10-02T21:02:57,Mr walter walt hahahaha,0,0,Souhaibpipo Souhaib,N7_M4hjXW1I,0.2,2016-10-02 21:02:57,False,True
+2016-10-02T22:03:25,such a shit movie to be fair,2,0,ZN PRODUCTIONS,N7_M4hjXW1I,0.16666666666666666,2016-10-02 22:03:25,False,True
+2016-10-03T00:48:04,oh god the irony,0,0,VM Vazquez,N7_M4hjXW1I,0.0,2016-10-03 00:48:04,False,True
+2016-10-03T01:31:00,LOVE Diane Kruger! gorgeous!,0,0,just4mygrl,N7_M4hjXW1I,0.75,2016-10-03 01:31:00,False,True
+2016-10-03T08:57:07,Walter.... are you cooking again!,1,0,Rudzani Raedani,N7_M4hjXW1I,0.0,2016-10-03 08:57:07,False,True
+2016-10-03T11:06:07,I LOVE YOU ..NEIL BREEN,3,0,klaus barbie,N7_M4hjXW1I,0.5,2016-10-03 11:06:07,False,True
+2016-10-03T13:33:12,should i watch this movie or narcos show,0,0,Raymon,N7_M4hjXW1I,0.0,2016-10-03 13:33:12,False,True
+2016-10-03T20:45:32,"Where the hell are you Jesse, call me back.",0,0,Jimmy Nguyen,N7_M4hjXW1I,0.0,2016-10-03 20:45:32,False,True
+2016-10-04T02:12:29,yeah science!,0,0,Gsxr_Matt _,N7_M4hjXW1I,0.0,2016-10-04 02:12:29,False,True
+2016-10-04T02:59:19,Escobar vs Heisenberg cállate y toma mi dinero:v,16,0,Armando Torres,N7_M4hjXW1I,0.0,2016-10-04 02:59:19,False,True
+2016-10-04T03:34:14,bryan will be always Hal,0,0,zero boyd,N7_M4hjXW1I,0.0,2016-10-04 03:34:14,False,True
+2016-10-04T08:52:06,WALTER WHITE VS PABLO ESCOBAR!,1,0,thefecade 絶望,N7_M4hjXW1I,0.0,2016-10-04 08:52:06,False,True
+2016-10-04T10:03:06,ok w8 a sec im the one who knows oh boy oh boy :D :D,0,0,zed dark,N7_M4hjXW1I,0.6,2016-10-04 10:03:06,False,True
+2016-10-04T16:16:55,i miss you mr white,0,0,MD,N7_M4hjXW1I,0.0,2016-10-04 16:16:55,False,True
+2016-10-04T17:51:35,".... another STUPID MOVIE about ""Pablo Escobar"".......... : (",0,0,Engineer,N7_M4hjXW1I,-0.7749999999999999,2016-10-04 17:51:35,False,True
+2016-10-04T19:08:48,This film is very nice,0,0,A Sweet Treats,N7_M4hjXW1I,0.78,2016-10-04 19:08:48,False,True
+2016-10-04T19:59:23,one of best movies i saw!!,0,0,Nowshad N,N7_M4hjXW1I,1.0,2016-10-04 19:59:23,False,True
+2016-10-04T23:36:55,realy good movie,0,0,Aillo -_-,N7_M4hjXW1I,0.7,2016-10-04 23:36:55,False,True
+2016-10-05T01:59:01,"I'm not in danger skyler, I AM THE DANGER",59,0,KingWaffle,N7_M4hjXW1I,0.0,2016-10-05 01:59:01,False,True
+2016-10-05T13:56:40,"I am done with Pablo Escobar's stories. Narcos is enough, and if you are american, you have to see El Patron del Mal. It's the story of Pablo Escobar but made by colombian people. It's better than narcos and is more real",16,7,Pedro Rosado,N7_M4hjXW1I,0.24,2016-10-05 13:56:40,False,True
+2016-10-06T17:00:42,SAY MY NAME!,0,0,JJ one EIGHTY,N7_M4hjXW1I,0.0,2016-10-06 17:00:42,False,True
+2016-10-06T21:58:30,I AM THE ONE WHO KNOCKS,0,0,DuDe1040,N7_M4hjXW1I,0.0,2016-10-06 21:58:30,False,True
+2016-10-07T00:58:17,"The movie lacked ""heat"" it was all smooth sailing for the WW.I thought the sticking point would be when the fake wife told other women that the ring is 100 year old and that WW would knot know that when asked.",0,0,DuDe1040,N7_M4hjXW1I,-0.031249999999999993,2016-10-07 00:58:17,False,True
+2016-10-07T22:25:38,What class of breaking bad is this ??? :V,0,0,André Silva,N7_M4hjXW1I,-0.6999999999999998,2016-10-07 22:25:38,False,True
+2016-10-08T12:51:39,i am the danger! So funny how I watch this guy in Malcolm in the middle he was so funny... that roller skating scene is amazing...and now all this lol!,2,0,Jimbob84141,N7_M4hjXW1I,0.375,2016-10-08 12:51:39,False,True
+2016-10-08T13:43:23,"Oh, the irony!",1,0,Hmm...,N7_M4hjXW1I,0.0,2016-10-08 13:43:23,False,True
+2016-10-08T19:19:34,Heisenberg alive confirmed! I knew it!,5,0,fotis nikolaidis,N7_M4hjXW1I,0.3625,2016-10-08 19:19:34,False,True
+2016-10-08T20:12:20,I like movies which are (BASED ON TRUE STORY) any recommendations which are good ones.. ?,0,0,KHANZTV,N7_M4hjXW1I,0.5249999999999999,2016-10-08 20:12:20,False,True
+2016-10-08T20:12:27,I like movies which are (BASED ON TRUE STORY) any recommendations which are good ones.. ?,0,1,KHANZTV,N7_M4hjXW1I,0.5249999999999999,2016-10-08 20:12:27,False,True
+2016-10-08T22:13:55,there is no pinkman??!!,0,0,Idriss Naciri,N7_M4hjXW1I,0.0,2016-10-08 22:13:55,False,True
+2016-10-08T22:13:57,there is no pinkman??!!,0,0,Idriss Naciri,N7_M4hjXW1I,0.0,2016-10-08 22:13:57,False,True
+2016-10-09T01:37:15,dope,0,0,Stephanie Allen,N7_M4hjXW1I,0.0,2016-10-09 01:37:15,False,True
+2016-10-09T03:07:46,He should stick to plain old meth.........,4,0,D3MoNyX,N7_M4hjXW1I,-0.057142857142857134,2016-10-09 03:07:46,False,True
+2016-10-09T06:20:23,Spoiler alert:  after destroying Escobar empire he got cancer! and started his own meth business.,0,0,Parth Lakhtaria,N7_M4hjXW1I,0.175,2016-10-09 06:20:23,False,True
+2016-10-09T13:14:49,I would  watch a season  6 of breaking bad right now,5,0,Prodigy Developer,N7_M4hjXW1I,-0.20714285714285707,2016-10-09 13:14:49,False,True
+2016-10-09T16:05:31,keep calme and watch narcos,0,0,MARZOUK AHMED,N7_M4hjXW1I,0.0,2016-10-09 16:05:31,False,True
+2016-10-09T18:11:46,"*Sitting around, smoking marijuana, eating Cheetos and masturbating do not constitute 'plans.*",0,0,Jamal Ansari,N7_M4hjXW1I,0.0,2016-10-09 18:11:46,False,True
+2016-10-09T19:35:34,Heisenberg is back :D,0,0,Jasmin Besic,N7_M4hjXW1I,0.5,2016-10-09 19:35:34,False,True
+2016-10-10T13:16:03,he had to shut coke to make the market for meth,18,0,aSAD Hollow,N7_M4hjXW1I,0.0,2016-10-10 13:16:03,False,True
+2016-10-10T18:36:51,"greatest movie ever together with ""the shawshank redemption"" and ""the good the bad and the ugly""!",3,3,CliffJumpingProd,N7_M4hjXW1I,0.03125,2016-10-10 18:36:51,False,True
+2016-10-11T00:19:37,The guy who makes drugs VS the guy who sells drugs,0,0,Skaadi,N7_M4hjXW1I,0.0,2016-10-11 00:19:37,False,False
+2016-10-11T05:09:00,Yооou саn't find this mоvie with bеttеr quаlitу thаn hееerе => https://twitter.com/b8c2e1e3359a3def5/status/781151126490001408                                                        Тhе Infiltrаtor Оffiссссiааaаl ТТrailеr  1  2016    Brуan Cranstоn  John Lеguizamо Моviе HD,0,0,praz santt,N7_M4hjXW1I,0.0,2016-10-11 05:09:00,False,False
+2016-10-11T07:52:01,So Mr White working with cops now?,87,1,Faizan Rabbani,N7_M4hjXW1I,0.0,2016-10-11 07:52:01,False,False
+2016-10-12T11:06:30,"Don't you just hate it when the DEA is the ""good guy"" in a movie?",0,0,Mihkel V,N7_M4hjXW1I,-0.050000000000000044,2016-10-12 11:06:30,False,False
+2016-10-12T21:49:16,W. W. my only star !!,0,0,Dr_ Wayne State,N7_M4hjXW1I,0.0,2016-10-12 21:49:16,False,False
+2016-10-13T01:17:44,if julia roberts brother is in the movie chances are its trash,0,0,xvillian,N7_M4hjXW1I,0.0,2016-10-13 01:17:44,False,False
+2016-10-13T09:34:10,Plata o plomo vs i'm the one how knocks,0,0,Youssef Aazri,N7_M4hjXW1I,0.0,2016-10-13 09:34:10,False,False
+2016-10-15T07:41:45,the opposite Heisenberg,0,0,Justin Stillings,N7_M4hjXW1I,0.0,2016-10-15 07:41:45,False,False
+2016-10-15T09:51:33,العرب موجودين,1,0,سعووو Xx,N7_M4hjXW1I,0.0,2016-10-15 09:51:33,False,False
+2016-10-15T16:19:12,Drugs are mmm k 🤓,0,1,Derek Freeman,N7_M4hjXW1I,0.0,2016-10-15 16:19:12,False,False
+2016-10-16T07:12:25,Excelente película 100% recomendada,0,0,The VeteranS GamerS-PC One 10 ServerCkark,N7_M4hjXW1I,0.0,2016-10-16 07:12:25,False,False
+2016-10-17T03:36:24,who need this when you have narcos !,0,0,Hussain Alasfoor,N7_M4hjXW1I,0.0,2016-10-17 03:36:24,False,False
+2016-10-18T17:27:19,I AM THE ONE WHO KNOCKS,0,0,unitor699,N7_M4hjXW1I,0.0,2016-10-18 17:27:19,False,False
+2016-10-19T17:49:49,just came to see if worth downloading xD,31,4,Tomé Crespo,N7_M4hjXW1I,0.3,2016-10-19 17:49:49,False,False
+2016-10-21T23:28:54,Donnie Brasco + Blow = The Infiltrator .,0,0,Neil Tomlinson,N7_M4hjXW1I,0.0,2016-10-21 23:28:54,False,False
+2016-10-27T07:31:23,I am the one who knocks the door.   -Walter White,1,0,Heisenberg 0723,N7_M4hjXW1I,0.0,2016-10-27 07:31:23,False,False
+2016-10-28T10:38:06,Heisenberg Is Back,0,0,Wasif Anton,N7_M4hjXW1I,0.0,2016-10-28 10:38:06,False,False
+2016-10-30T16:34:28,Reverse engineering the Breaking Bad perhaps.,0,0,LibertarianSamurai 自由の志士,N7_M4hjXW1I,-0.6999999999999998,2016-10-30 16:34:28,False,False
+2016-10-30T22:29:07,Typical Americans being glorified in an Hollywood movie. I bet this was more to do with some American agent and less about the biggest Drug Lord of all time Pablo Escobar. The trailer tells you enough that this movie is gonna be straight up bullshit and far from the truth.,0,2,Villain,N7_M4hjXW1I,0.06666666666666667,2016-10-30 22:29:07,False,False
+2016-11-01T01:00:28,What are the names of the songs that appear in the movie?,0,0,Herón Cárdenas,N7_M4hjXW1I,0.0,2016-11-01 01:00:28,False,False
+2016-11-03T00:02:15,Heisenberg v Pablo Escobar,0,0,s1a1n1d1i,N7_M4hjXW1I,0.0,2016-11-03 00:02:15,False,False
+2016-11-04T14:24:12,Why is this movie underrated???????,0,0,ShadeMachine,N7_M4hjXW1I,0.0,2016-11-04 14:24:12,False,False
+2016-11-08T23:03:20,SAY MY NAME PABLO,0,0,moose43h,N7_M4hjXW1I,0.0,2016-11-08 23:03:20,False,False
+2016-11-11T19:31:46,:/ mehh,0,0,kıvanç erakçora,N7_M4hjXW1I,-0.25,2016-11-11 19:31:46,False,False
+2016-11-12T17:34:39,You shits goin down when stranglehold starts playing.,0,0,Jake Thompson,N7_M4hjXW1I,-0.15555555555555559,2016-11-12 17:34:39,False,False
+2016-11-13T14:05:54,"Walter, wut are you doing?",0,0,Maciek Winiarek,N7_M4hjXW1I,0.0,2016-11-13 14:05:54,False,False
+2016-11-13T19:21:51,the ending killed me how he just let it happen,1,0,g6_,N7_M4hjXW1I,-0.2,2016-11-13 19:21:51,False,False
+2016-11-15T03:39:07,"just watched it, really good movie.",1,0,bonnolog,N7_M4hjXW1I,0.7,2016-11-15 03:39:07,False,False
+2016-11-17T05:55:57,just an extra episode of breaking bad,1,0,Hilal Alhwaiti,N7_M4hjXW1I,-0.3499999999999999,2016-11-17 05:55:57,False,False
+2016-11-18T21:20:44,The trailer is posted on 4-20,3,0,CaptainGummyBearz,N7_M4hjXW1I,0.0,2016-11-18 21:20:44,False,False
+2016-11-20T16:39:04,yo mr.white,0,0,Gowtham Mike,N7_M4hjXW1I,0.0,2016-11-20 16:39:04,False,False
+2016-11-28T03:56:52,Heisenberg is now expanding into cocaine after the success of his meth business?!   :),0,0,TeaNotCoffee,N7_M4hjXW1I,0.4375,2016-11-28 03:56:52,False,False
+2016-11-29T14:00:30,Looks like Mr. White is back!,0,0,Rocel Ilagan,N7_M4hjXW1I,0.0,2016-11-29 14:00:30,False,False
+2016-12-02T07:22:48,Damn disappointed. I was hoping this movie would allow Bryan to give another performance like Trumbo which is one of the best performances I've ever seen and definitely the best one of last year. I'll still watch it. I hope Bryan does another big hitter soon. Maybe for 2017,1,0,Misscellanio,N7_M4hjXW1I,0.20833333333333334,2016-12-02 07:22:48,False,False
+2016-12-02T07:34:47,If there is demand there will be always supply. You know it and why do you think the government doesn't. Every system must expand or it will inevitably contract. War on drugs is self occupation of government to get more money from taxpayers and money confiscated from drug dealers too. Destruction of the Medellin cartel monopoly was good for business. More cartels and more competition more profit more money confiscated. Do you see who is on the top of the drug chain.,1,0,Дмитрий Аверьянов,N7_M4hjXW1I,0.4625,2016-12-02 07:34:47,False,False
+2016-12-03T16:58:33,Name song?,0,0,ak-94,N7_M4hjXW1I,0.0,2016-12-03 16:58:33,False,False
+2016-12-06T11:26:31,Was the waiter ever compensated?,0,0,Augustine Dundos,N7_M4hjXW1I,0.0,2016-12-06 11:26:31,False,False
+2016-12-06T16:52:41,Stranglehold = must see,0,0,kraid80,N7_M4hjXW1I,0.0,2016-12-06 16:52:41,False,False
+2016-12-08T06:03:51,the return of heisenberg,0,0,Theo Esbenshade,N7_M4hjXW1I,0.0,2016-12-08 06:03:51,False,False
+2016-12-14T13:21:16,So... Where is Pinkman?,2,1,M. Keehl,N7_M4hjXW1I,0.0,2016-12-14 13:21:16,False,False
+2016-12-16T10:15:08,Heisenberg come back again.,0,0,Deffa,N7_M4hjXW1I,0.0,2016-12-16 10:15:08,False,False
+2016-12-20T22:50:48,when heisenberg had enough and wants to take out competitors,5,0,CaptainD00M,N7_M4hjXW1I,0.1,2016-12-20 22:50:48,False,False
+2016-12-22T04:09:31,The only people who disliked it were Drug Lords...,0,0,Shandiemann,N7_M4hjXW1I,-0.1,2016-12-22 04:09:31,False,False
+2016-12-27T02:52:45,At the end the biggest assholes is 2 cops who turned in everyone who trust them with their lives now that's fucked up wasn't expecting that,0,0,K. Fernandez,N7_M4hjXW1I,-0.6,2016-12-27 02:52:45,False,False
+2016-12-29T00:40:43,Bryan Cranston in his skin ;D,0,0,Dominik Będkowski,N7_M4hjXW1I,0.25,2016-12-29 00:40:43,False,False
+2016-12-29T21:38:45,Heisenberg as a Infiltrator?? WTF??,0,0,Freddy Ragua Bello,N7_M4hjXW1I,-0.5,2016-12-29 21:38:45,False,False
+2016-12-31T21:05:18,Hmmm,0,0,NEMRAVNÝ BANÁN NESKUTOČNÝ SELFMADE FOREVER,N7_M4hjXW1I,0.0,2016-12-31 21:05:18,False,False
+2017-01-08T18:55:06,one of the best movies i've ever watched!,0,0,Anthony A.,N7_M4hjXW1I,1.0,2017-01-08 18:55:06,False,False
+2017-01-09T14:02:52,after the machingun shot his cancer off. Mr White was offered a deal work with the DEA or Life in Prison,0,0,Ican FeeLIt,N7_M4hjXW1I,0.0,2017-01-09 14:02:52,False,False
+2017-01-09T21:24:47,Breaking bad ...let me see this trailer :),2,0,أمجد الرشيدي,N7_M4hjXW1I,-0.09999999999999992,2017-01-09 21:24:47,False,False
+2017-01-14T20:35:12,"Bryan Cranston is a really cool actor. Overall, was this movie good?",0,0,sum dude,N7_M4hjXW1I,0.3499999999999999,2017-01-14 20:35:12,False,False
+2017-01-21T22:29:09,doesn't this movie have its own soundtrack? I mean the song in this trailer is from the man from uncle,0,0,Quintenornelis,N7_M4hjXW1I,0.14375,2017-01-21 22:29:09,False,False
+2017-01-22T08:08:43,"As highly rated as Cranston is, I still think the man is underrated, he is incredible at what he does",0,2,Peter E,N7_M4hjXW1I,0.53,2017-01-22 08:08:43,False,False
+2017-02-01T22:19:59,99% of the comments Breaking Bad references,0,0,I AM THE SENATE,N7_M4hjXW1I,-0.6999999999999998,2017-02-01 22:19:59,False,False
+2017-02-07T22:54:50,can everyone stop repeating the same jokes and tell me if this movie is worth watching!!,0,0,SWARLYx,N7_M4hjXW1I,0.234375,2017-02-07 22:54:50,False,False
+2017-02-19T22:46:53,Heisenburg has gone Good! :O,0,0,MOTHER FUCKER JONES,N7_M4hjXW1I,0.4625,2017-02-19 22:46:53,False,False
+2017-02-22T20:20:17,This time Mr White is Hank.,0,0,Gusmann Chéry,N7_M4hjXW1I,0.0,2017-02-22 20:20:17,False,False
+2017-03-02T07:38:33,now walter have two jobs,0,0,sutirtha das,N7_M4hjXW1I,0.0,2017-03-02 07:38:33,False,False
+2017-03-12T23:43:11,Bryan Cranston should play Stan Lee if they ever made a movie about him.,1,0,Nelso5000,N7_M4hjXW1I,0.0,2017-03-12 23:43:11,False,False
+2017-03-21T16:30:56,hey john i could kiss ya but things might start getting weird,0,0,nibby90194,N7_M4hjXW1I,-0.5,2017-03-21 16:30:56,False,False
+2017-04-02T21:26:41,The song name of the Ospina death please??!!!thank you.....,0,0,Ciprian Mircea Mihut,N7_M4hjXW1I,0.0,2017-04-02 21:26:41,False,False
+2017-04-13T02:12:08,I liked this movie better when I saw it the first time and it was called Breaking Bad.   Bryan Cranston acting in a role where he plays a fake life.,0,0,Harry Carrey,N7_M4hjXW1I,0.02500000000000004,2017-04-13 02:12:08,False,False
+2017-04-21T06:18:15,The Infiltrator would've been better if it were Breaking Bad.,0,0,KAIIRU,N7_M4hjXW1I,-0.09999999999999992,2017-04-21 06:18:15,False,False
+2017-04-25T16:45:51,He dies at the end,0,0,S B,N7_M4hjXW1I,0.0,2017-04-25 16:45:51,False,False
+2017-04-26T11:45:14,heisenberg,0,0,Vara,N7_M4hjXW1I,0.0,2017-04-26 11:45:14,False,False
+2017-04-26T20:00:06,"Amazing Movie, Bryan Craston is simply awesome... This time he's to the other side...",0,0,Cloda Ph,N7_M4hjXW1I,0.4916666666666667,2017-04-26 20:00:06,False,False
+2017-04-29T06:06:58,This is basically Narcos dude,0,0,Nobody But You,N7_M4hjXW1I,0.0,2017-04-29 06:06:58,False,False
+2017-05-02T04:00:50,The token Bryan Cranston open mouthed shocked face.,0,0,SaturaPVP,N7_M4hjXW1I,-0.35,2017-05-02 04:00:50,False,False
+2017-05-14T14:34:12,"Great movie! Not politically correct and shows the CIA as criminals hampering the case against the Columbian drug thugs, and even shows the Panama Bank involved was used for Iran Contra and TaliBan by the CIA.  Haha! funny, some truth in MSM.",0,0,D McKnight,N7_M4hjXW1I,0.375,2017-05-14 14:34:12,False,False
+2017-05-18T20:07:55,"Paco , Walter White make this movie.",0,0,Tango Bob,N7_M4hjXW1I,0.0,2017-05-18 20:07:55,False,False
+2017-06-29T17:20:53,ahahah the comments are hilarious xD,0,0,utube andchill,N7_M4hjXW1I,0.5,2017-06-29 17:20:53,False,False
+2017-07-12T17:19:09,This movie was so good lol,0,0,Samurai,N7_M4hjXW1I,0.75,2017-07-12 17:19:09,False,False
+2017-07-12T17:19:17,Would be amazing if they gave Aaron Paul the role of being Bryan's partner in the show,0,0,Safwan Nizam,N7_M4hjXW1I,0.6000000000000001,2017-07-12 17:19:17,False,False
+2017-07-26T21:46:04,Say my name,0,0,rakan | راكان,N7_M4hjXW1I,0.0,2017-07-26 21:46:04,False,False
+2017-08-02T01:12:34,i love escobar,0,0,Anh Tú smoke weed chơi liên quân,N7_M4hjXW1I,0.5,2017-08-02 01:12:34,False,False
+2017-08-09T01:24:40,This would happen if walter didnt died in breaking bad,1,0,John Marston,N7_M4hjXW1I,-0.6999999999999998,2017-08-09 01:24:40,False,False
+2017-08-17T11:04:16,Came here to read breaking bad jokes... haha,0,0,Sabbx13 Palmer,N7_M4hjXW1I,-0.24999999999999992,2017-08-17 11:04:16,False,False
+2017-08-17T21:22:53,She was literally on top of      e v e r y    single one in her class....,1,0,Darwin the talking dolphin,N7_M4hjXW1I,0.2142857142857143,2017-08-17 21:22:53,False,False
+2017-09-09T12:24:58,شباب رحمه لوالديكم وين الكه الفلم كاامل,0,0,سجاد احمد,N7_M4hjXW1I,0.0,2017-09-09 12:24:58,False,False
+2017-09-17T21:00:57,Say my name!,0,0,Nacho Muchacho,N7_M4hjXW1I,0.0,2017-09-17 21:00:57,False,False
+2017-10-03T19:01:44,leguizamo!!,0,0,Anthony G.,N7_M4hjXW1I,0.0,2017-10-03 19:01:44,False,False
+2017-10-13T23:31:17,Does anybody know what the song is at the part where it screams?certain I heard it somewhere,0,0,fat fat,N7_M4hjXW1I,0.0,2017-10-13 23:31:17,False,False
+2017-11-06T06:39:02,"""Say my name""",0,0,Andrea Sketto,N7_M4hjXW1I,0.0,2017-11-06 06:39:02,False,False
+2017-11-08T00:00:37,I miss Walter White,0,0,Janrosmon Libre,N7_M4hjXW1I,0.0,2017-11-08 00:00:37,False,False
+2017-11-20T23:33:58,The gentleman of Cali would have never allowed such a thing..then again they were taken apart from the inside...so anyway,0,0,cibriosis,N7_M4hjXW1I,0.0,2017-11-20 23:33:58,False,False
+2018-01-27T02:25:03,"This is one of the most gruesome, emotional and sadly true to life movies about this 80's/90's cartel business I've seen in many, many years...Cranston is brilliant, so are the rest of the cast. See it!👍👍👍👍👍",0,0,John Doe,N7_M4hjXW1I,0.25,2018-01-27 02:25:03,False,False
+2018-01-27T02:27:20,It's mental Cranston first got major roles such late in life. He's such an amazing talent.,0,0,John Doe,N7_M4hjXW1I,0.07321428571428572,2018-01-27 02:27:20,False,False
+2018-02-12T02:30:14,I hate watching movies about snitches... i just want them to get killed the whole time.,0,0,garygroundwork,N7_M4hjXW1I,-0.26666666666666666,2018-02-12 02:30:14,False,False
+2018-02-22T15:52:04,An ad for a trailer??? Wtf!,0,0,Ronald Thomas,N7_M4hjXW1I,-0.625,2018-02-22 15:52:04,False,False
+2018-03-25T20:15:27,super trailer,0,0,Angela Peršun,N7_M4hjXW1I,0.3333333333333333,2018-03-25 20:15:27,False,False
+2018-05-18T03:08:38,What a movie!,0,0,Sam Fisher,N7_M4hjXW1I,0.0,2018-05-18 03:08:38,False,False
+2018-05-25T01:09:11,Better call saul hahahaha,0,0,Paul Aquino,N7_M4hjXW1I,0.35,2018-05-25 01:09:11,False,False
+2018-06-22T20:22:15,Mr White is back,0,0,Shane Lawler,N7_M4hjXW1I,0.0,2018-06-22 20:22:15,False,False
+2018-06-26T10:02:25,So let me get this straight. Walter White's plan was to get Pablo out of his territory in order to make his own drug empire. Genius,0,0,Laurence Pham,N7_M4hjXW1I,0.26666666666666666,2018-06-26 10:02:25,False,False
+2018-07-04T18:11:11,This feels like Loving Pablo,0,0,Albo,N7_M4hjXW1I,0.6,2018-07-04 18:11:11,False,False
+2018-11-27T11:54:33,Very crazy  and the  film's  old,0,0,Mujtaba Mohammed,N7_M4hjXW1I,-0.34,2018-11-27 11:54:33,False,False
+2019-01-01T11:04:37,tuko is also in there... 😂,0,0,Mr. Bhatti,N7_M4hjXW1I,0.0,2019-01-01 11:04:37,False,False
+2019-02-09T07:46:03,Netflix,0,0,lucky music,N7_M4hjXW1I,0.0,2019-02-09 07:46:03,False,False
+2019-02-17T23:13:01,"OMG, he still looks so young.  Some people age quickly like Kurt Russell and Goldie Hawn, but Brian Cranston is just a special specimen who found the fountain of youth... he's amazing.  How long ago was Breaking Bad, I want to say 13 years or so, ,,, probably not that long, but man been a while.",0,0,Harpoon_Bakery,N7_M4hjXW1I,0.08435374149659867,2019-02-17 23:13:01,False,False
+2019-03-16T04:15:08,foo snitched on all his friends in this movie basically,0,0,Bro Brah,N7_M4hjXW1I,0.0,2019-03-16 04:15:08,False,False
+2019-05-19T15:38:47,THAT TWIST AT THE END THOUGH???,0,0,Din Sel,N7_M4hjXW1I,0.0,2019-05-19 15:38:47,False,False
+2019-05-20T22:12:34,Better call Saul !!!,1,0,Fitness talk with O.G,N7_M4hjXW1I,0.9765625,2019-05-20 22:12:34,False,False
+2019-08-07T17:02:22,سلام عليكم,0,0,عباس احمد,N7_M4hjXW1I,0.0,2019-08-07 17:02:22,False,False
+2019-08-19T14:04:33,"That's Ted Nugent's ""Stranglehold"" as the background music. I thought when I first heard Stranglehold that is should be used in a movie!",0,0,DestroyNWO,N7_M4hjXW1I,0.3125,2019-08-19 14:04:33,False,False
+2019-11-24T09:13:51,لابأس,0,0,محمد وهاب,N7_M4hjXW1I,0.0,2019-11-24 09:13:51,False,False
+2019-12-20T05:12:00,Grand theft auto vice city the movie.,0,0,RAE10182504,N7_M4hjXW1I,0.5,2019-12-20 05:12:00,False,False
+2020-01-27T15:47:51,Where can I watch this movie and why is it not showing up when I search it on demand.,0,0,Jack Harrison,N7_M4hjXW1I,0.0,2020-01-27 15:47:51,False,False
+2020-02-01T05:47:43,Great Movie .,0,0,Odio Tutti,N7_M4hjXW1I,0.8,2020-02-01 05:47:43,False,False
+2020-05-27T02:34:42,شباب الفلم منين احصلها كامل,0,0,Abbas Al hsnawy,N7_M4hjXW1I,0.0,2020-05-27 02:34:42,False,False
+2020-06-06T18:42:51,"Say my name ""Heisenberg""",1,0,Enver Muminovic,N7_M4hjXW1I,0.0,2020-06-06 18:42:51,False,False

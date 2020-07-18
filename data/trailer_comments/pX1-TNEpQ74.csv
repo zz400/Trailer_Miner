@@ -1,0 +1,803 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2014-02-13T01:16:32,Lol she saluted to the veteran,0,0,Blaze Mushroom,pX1-TNEpQ74,0.4,2014-02-13 01:16:32,True,True
+2014-02-13T01:19:33,"WB, you had me when I saw Melissa McCarthy with a bag on head.",0,2,Frank Holguin,pX1-TNEpQ74,0.0,2014-02-13 01:19:33,True,True
+2014-02-13T01:21:49,Lol,2,0,Emma Speer,pX1-TNEpQ74,0.8,2014-02-13 01:21:49,True,True
+2014-02-13T01:22:50,not sure if serious,3,0,Fdsafds Fdsafdsaf,pX1-TNEpQ74,-0.29166666666666663,2014-02-13 01:22:50,True,True
+2014-02-13T01:23:23,This is gonna be awesome,2,0,ZZZZZZZZZZZzzzzzzzzuuuuuuuuuuuuuubbbbbbbbbbbbbbBBBBBBBBBBBBBBBBBByyyyyyYYYYYYYYYYYYYYY,pX1-TNEpQ74,1.0,2014-02-13 01:23:23,True,True
+2014-02-13T01:28:57,It's Melissa McCarthy playing Melissa McCarthy. What a refreshing turn of events.,3,1,Bring Me More Booze,pX1-TNEpQ74,0.5,2014-02-13 01:28:57,True,True
+2014-02-13T01:34:11,This looks so stupid it might be mildly entertaining.,6,0,Flying Purple Hippo,pX1-TNEpQ74,-0.14999999999999997,2014-02-13 01:34:11,True,True
+2014-02-13T01:37:02,Love Melissa McCarthy! Always hilarious. Can't wait!,3,0,O.G. Erik,pX1-TNEpQ74,0.625,2014-02-13 01:37:02,True,True
+2014-02-13T01:46:37,love her,4,0,Arien Gamarra Benitez,pX1-TNEpQ74,0.5,2014-02-13 01:46:37,True,True
+2014-02-13T01:59:25,Yes !,0,0,tomandangus,pX1-TNEpQ74,0.0,2014-02-13 01:59:25,True,True
+2014-02-13T01:59:58,I cannot WAIT to see this. Literally cannot wait... She is the funniest actress ever!,5,0,Megs Vincent,pX1-TNEpQ74,0.0,2014-02-13 01:59:58,True,True
+2014-02-13T02:01:24, ?,0,0,Shan Kine,pX1-TNEpQ74,0.0,2014-02-13 02:01:24,True,True
+2014-02-13T02:17:45,I hope this isn't as bad as the heat was,0,3,MiddleEarthGirl,pX1-TNEpQ74,-0.6999999999999998,2014-02-13 02:17:45,True,True
+2014-02-13T02:23:25,Gangsta Paradise!!!!,0,0,MsUsagi513,pX1-TNEpQ74,0.0,2014-02-13 02:23:25,True,True
+2014-02-13T02:28:06,if you pay to see this movie you're fat and what's wrong with america,0,3,lax2themMax92,pX1-TNEpQ74,-0.5,2014-02-13 02:28:06,True,True
+2014-02-13T02:28:46,Looks hilarious can't wait 😂,7,0,Branden Garcia,pX1-TNEpQ74,0.5,2014-02-13 02:28:46,True,True
+2014-02-13T02:48:54,I didn't know Shia LaBeouf was the star of this.,24,0,Gorilla Pancake,pX1-TNEpQ74,0.0,2014-02-13 02:48:54,True,True
+2014-02-13T02:56:06,It's funny because she's hillarious.,224,14,Pharmit24,pX1-TNEpQ74,0.25,2014-02-13 02:56:06,True,True
+2014-02-13T03:04:20,What is this song,1,1,Nirvana Rocks,pX1-TNEpQ74,0.0,2014-02-13 03:04:20,True,True
+2014-02-13T03:06:57,This actually looks like it will be pretty funny.,27,1,KellySmith555,pX1-TNEpQ74,0.16666666666666666,2014-02-13 03:06:57,True,True
+2014-02-13T03:11:14,I was tryin to watch a video the I hear coolio lol,0,0,Rick Jackoff,pX1-TNEpQ74,0.8,2014-02-13 03:11:14,True,True
+2014-02-13T03:14:45,What's the song name??,0,0,Aqua Romantic,pX1-TNEpQ74,0.0,2014-02-13 03:14:45,True,True
+2014-02-13T03:25:38,Does anybody know what this song is called,0,0,Joseph Martinez,pX1-TNEpQ74,0.0,2014-02-13 03:25:38,True,True
+2014-02-13T03:26:18,I LOVE Melissa McCarthy... She is amazing!,0,0,Jayde Mahaney,pX1-TNEpQ74,0.625,2014-02-13 03:26:18,True,True
+2014-02-13T03:32:01,This movie looks good already lol,0,0,Rachel Barton,pX1-TNEpQ74,0.75,2014-02-13 03:32:01,True,True
+2014-02-13T03:36:09,Omg yessss,2,0,Hello it's cool,pX1-TNEpQ74,0.0,2014-02-13 03:36:09,True,True
+2014-02-13T03:39:10,Woah first,0,0,Maya Andrea,pX1-TNEpQ74,0.25,2014-02-13 03:39:10,True,True
+2014-02-13T03:39:17,Song?,2,2,Jordan Savoy,pX1-TNEpQ74,0.0,2014-02-13 03:39:17,True,True
+2014-02-13T03:39:48,Lol damn glitches,0,0,Maya Andrea,pX1-TNEpQ74,0.8,2014-02-13 03:39:48,True,True
+2014-02-13T03:40:10,damn,0,0,Squilliam9,pX1-TNEpQ74,0.0,2014-02-13 03:40:10,True,True
+2014-02-13T03:42:06,what song is this,0,0,james k,pX1-TNEpQ74,0.0,2014-02-13 03:42:06,True,True
+2014-02-13T03:45:54,As I walk through the valley of the shadow of death,0,0,Stephan Harris,pX1-TNEpQ74,0.0,2014-02-13 03:45:54,True,True
+2014-02-13T03:47:14,what's the name of the song that is playing ,0,2,Chais Wade,pX1-TNEpQ74,0.0,2014-02-13 03:47:14,True,True
+2014-02-13T03:49:18,lol,0,0,Moe Delite,pX1-TNEpQ74,0.8,2014-02-13 03:49:18,True,True
+2014-02-13T03:49:33,Who song???,0,0,Moises Tapia,pX1-TNEpQ74,0.0,2014-02-13 03:49:33,True,True
+2014-02-13T03:49:57,lol wat,0,0,TheOmegaGamerGT,pX1-TNEpQ74,0.8,2014-02-13 03:49:57,True,True
+2014-02-13T03:50:05,Can't wait  to watch this,4,0,Jose Campos,pX1-TNEpQ74,0.0,2014-02-13 03:50:05,True,True
+2014-02-13T03:50:55,OMG Melissa dancing in the beginning is too hilarious!! ,0,0,Jasmine Scott,pX1-TNEpQ74,0.78125,2014-02-13 03:50:55,True,True
+2014-02-13T03:56:02,this is halarious,0,0,Brad Hill,pX1-TNEpQ74,0.0,2014-02-13 03:56:02,True,True
+2014-02-13T03:56:48,Looks kinda funny,0,0,456whocares,pX1-TNEpQ74,0.25,2014-02-13 03:56:48,True,True
+2014-02-13T03:57:18,Can't wait ,0,0,Simeon Vernon,pX1-TNEpQ74,0.0,2014-02-13 03:57:18,True,True
+2014-02-13T03:57:55,does anybody think this is actually funny,49,11,JDGWI,pX1-TNEpQ74,0.25,2014-02-13 03:57:55,True,True
+2014-02-13T03:58:37,yessssss! cant wait!!!,0,0,Marie Booster,pX1-TNEpQ74,0.0,2014-02-13 03:58:37,True,True
+2014-02-13T04:01:08,"I swear the people who write ""What's the song"" are so lazy. Its 2014 we have Shazam, you can google the words you hear or even once in a while check the description.﻿",0,0,Simeon Vernon,pX1-TNEpQ74,-0.25,2014-02-13 04:01:08,True,True
+2014-02-13T04:05:24,What in the fuck.,0,0,KubrickQuentin,pX1-TNEpQ74,-0.4,2014-02-13 04:05:24,True,True
+2014-02-13T04:08:27,"I might see this as long as I'm not expected to ""feel sorry for her character"" as Identity Thief tried to make me feel for the character when that wasn't possible.",0,0,BrontoSmilodon1,pX1-TNEpQ74,-0.125,2014-02-13 04:08:27,True,True
+2014-02-13T04:17:54,She drew on angry eyebrows lmao!,0,0,Dominique Manns,pX1-TNEpQ74,0.125,2014-02-13 04:17:54,True,True
+2014-02-13T04:20:33,Pretty sad how nobody knows this song -__- smh ,0,0,Manny H,pX1-TNEpQ74,-0.125,2014-02-13 04:20:33,True,True
+2014-02-13T04:25:52,McCarthy needs to put more effort into choosing her roles. She's played the same character in every movie.,2,1,iampoopman,pX1-TNEpQ74,0.25,2014-02-13 04:25:52,True,True
+2014-02-13T04:30:12,This... actually looks like a good comedy... Mostly for the fact that she never even needed to curse to make it funny! Comedies seem to be fond of just milking the humor out of foul language. I'll be looking for it when it comes out!,0,0,Toothless150,pX1-TNEpQ74,0.39765625,2014-02-13 04:30:12,True,True
+2014-02-13T05:02:31,I need watch this !! hahaha,0,0,Gabriel BTT,pX1-TNEpQ74,0.2,2014-02-13 05:02:31,True,True
+2014-02-13T06:06:09,Gangsa's paradies,2,0,Kopi F.,pX1-TNEpQ74,0.0,2014-02-13 06:06:09,True,True
+2014-02-13T06:09:22,Yess to the gangsta paradise!,1,0,Andres Luis Ortiz,pX1-TNEpQ74,0.0,2014-02-13 06:09:22,True,True
+2014-02-13T06:14:07,Wtf??!!,0,0,Jerome Cardenas,pX1-TNEpQ74,-0.78125,2014-02-13 06:14:07,True,True
+2014-02-13T06:23:45,It's seems that Shia LaBoeuf started a trend amongst the criminals.,31,1,ds37,pX1-TNEpQ74,0.0,2014-02-13 06:23:45,True,True
+2014-02-13T07:05:05,If this is the best they can do for the trailer it doesn't bode well for the movie.,1,0,NoExitLoveNow,pX1-TNEpQ74,1.0,2014-02-13 07:05:05,True,True
+2014-02-13T08:03:49,Gangster paradise is the song being played,0,0,KungFu CareBear,pX1-TNEpQ74,0.0,2014-02-13 08:03:49,True,True
+2014-02-13T09:21:01,ohh nice,0,0,matty sta teresa,pX1-TNEpQ74,0.6,2014-02-13 09:21:01,True,True
+2014-02-13T14:34:24,damn ,0,0,Hashan Senarath,pX1-TNEpQ74,0.0,2014-02-13 14:34:24,True,True
+2014-02-13T14:41:42,Typical Melissa McCarthy character lol,0,0,bjh903,pX1-TNEpQ74,0.3166666666666667,2014-02-13 14:41:42,True,True
+2014-02-13T15:02:42,LOL This is gonna be hilarious!,0,0,Victoria Rose,pX1-TNEpQ74,0.7125,2014-02-13 15:02:42,True,True
+2014-02-13T15:18:53,HAHAHAH!!!,0,0,WIL SUPER,pX1-TNEpQ74,0.0,2014-02-13 15:18:53,True,True
+2014-02-13T15:22:30,This looks awful,0,0,Callum McAlpine,pX1-TNEpQ74,-1.0,2014-02-13 15:22:30,True,True
+2014-02-13T15:51:19,Third time is a charm getting over that counter.....hilarious!!!!,0,0,Dominique,pX1-TNEpQ74,0.0,2014-02-13 15:51:19,True,True
+2014-02-13T17:37:31,anyone else getting tired of mccarthy's schtick?,6,0,echolot,pX1-TNEpQ74,-0.4,2014-02-13 17:37:31,True,True
+2014-02-13T17:58:53,La parte del  mostrador acabó con mis pulmones!! jajajaa,2,0,RicardoGuzman07,pX1-TNEpQ74,0.0,2014-02-13 17:58:53,True,True
+2014-02-13T18:20:38,"soooo basically, she'll be playing the same character she always does..",0,1,nicolesamsonite,pX1-TNEpQ74,0.0,2014-02-13 18:20:38,True,True
+2014-02-13T18:26:38,I DIE...can't wait.,0,0,score24bob,pX1-TNEpQ74,0.0,2014-02-13 18:26:38,True,True
+2014-02-13T20:05:54,"Yay, another unfunny hollywood movie :D",0,1,NFGBlinkAC,pX1-TNEpQ74,1.0,2014-02-13 20:05:54,True,True
+2014-02-13T20:11:01,"she's got great comedic timing no doubt, but anyone else getting tired of Melissa playing the sloppy fat girl whose lovably angry at world... (I mean Chris Farley took this gimmick pretty far before his real anger and addiction got the best of him)",0,0,capprods,pX1-TNEpQ74,-0.05324074074074073,2014-02-13 20:11:01,True,True
+2014-02-13T21:17:27,A-mazing!!,0,0,Angie Senner Barrick,pX1-TNEpQ74,0.0,2014-02-13 21:17:27,True,True
+2014-02-13T22:05:34,shia laboof approves.,4,0,theonlyadarsh,pX1-TNEpQ74,0.0,2014-02-13 22:05:34,True,True
+2014-02-13T23:26:03,"The normal red blooded woman of our time.  May be the movie I need to see, oh yeah.",0,0,See Canon,pX1-TNEpQ74,0.075,2014-02-13 23:26:03,True,True
+2014-02-13T23:28:49,Melissa is a funny lady but she needs stop playing the same character in all her movies.,0,0,helsinki,pX1-TNEpQ74,0.125,2014-02-13 23:28:49,True,True
+2014-02-13T23:42:07,What song is this ,0,1,KolmeJohn,pX1-TNEpQ74,0.0,2014-02-13 23:42:07,True,True
+2014-02-13T23:50:54,Amazing jajajajaja just i can't stop to smile,0,0,Maria Jose Guzman Yacaman,pX1-TNEpQ74,0.45000000000000007,2014-02-13 23:50:54,True,True
+2014-02-13T23:53:06,Well here is another film I can add to my not watch list.,0,0,Simo,pX1-TNEpQ74,0.0,2014-02-13 23:53:06,True,True
+2014-02-13T23:53:09,Well here is another film I can add to my not watch list.,21,1,Simo,pX1-TNEpQ74,0.0,2014-02-13 23:53:09,True,True
+2014-02-14T00:37:04,What's the song called ,0,0,Colin Gersch,pX1-TNEpQ74,0.0,2014-02-14 00:37:04,True,True
+2014-02-14T01:40:44,She's fucking funny. Love her.,5,0,Mels,pX1-TNEpQ74,0.375,2014-02-14 01:40:44,True,True
+2014-02-14T02:01:21,Shia Leboeuf...look what you did,0,0,Trill Bill,pX1-TNEpQ74,0.0,2014-02-14 02:01:21,True,True
+2014-02-14T02:01:21,Shia Leboeuf...look what you did,0,0,Trill Bill,pX1-TNEpQ74,0.0,2014-02-14 02:01:21,True,True
+2014-02-14T02:48:36,Must watch Lol,0,0,Alex Spears,pX1-TNEpQ74,0.8,2014-02-14 02:48:36,True,True
+2014-02-14T02:48:37,Must watch Lol,0,0,Alex Spears,pX1-TNEpQ74,0.8,2014-02-14 02:48:37,True,True
+2014-02-14T02:51:32,shes like the same character in all her movies.,0,0,tatum635,pX1-TNEpQ74,0.0,2014-02-14 02:51:32,True,True
+2014-02-14T03:18:33,Hell yes I love her,0,0,VBC Veterans for Better Care aka: death3051g,pX1-TNEpQ74,0.5,2014-02-14 03:18:33,True,True
+2014-02-14T04:19:24,She has a penis because she's matserpating ,0,0,Gaming Neon Foxes,pX1-TNEpQ74,0.0,2014-02-14 04:19:24,True,True
+2014-02-14T04:35:04,What's the songs name,0,0,Jay Rivera,pX1-TNEpQ74,0.0,2014-02-14 04:35:04,True,True
+2014-02-14T05:04:41,Isn't she the actor from identity thief?,0,0,David :/,pX1-TNEpQ74,0.0,2014-02-14 05:04:41,True,True
+2014-02-14T05:49:15,She makes some funny ass movies,0,0,JDM LOVE,pX1-TNEpQ74,0.25,2014-02-14 05:49:15,True,True
+2014-02-14T05:57:19,hahahahahaha Love it,0,0,Lance Cummins,pX1-TNEpQ74,0.5,2014-02-14 05:57:19,True,True
+2014-02-14T05:58:09,Definitely going to see this.looks hilarious!,5,0,C Gibson,pX1-TNEpQ74,0.3125,2014-02-14 05:58:09,True,True
+2014-02-14T06:43:17,"Seriously people? What is so funny about a fat chick robbing a food store?? Melissa McCarthy is only ""funny"" in movies because she is fat",0,0,MrCaelan987,pX1-TNEpQ74,0.04166666666666667,2014-02-14 06:43:17,True,True
+2014-02-14T07:04:48,Can't wait to see this! The beginning of the movie was filmed In my house! Melissa was soooo funny and Ben and Dan were so down to earth! This is gonna be hilarious!,0,0,Cody Langston,pX1-TNEpQ74,0.22685185185185186,2014-02-14 07:04:48,True,True
+2014-02-14T08:10:38,"Melissa McCarthy should win an Oscar, a golden globe, Emmy, a nobel peace prize, country music award, every award cause she is so talented and funny and awesome and beautiful and I love her!!!!",0,0,darla,pX1-TNEpQ74,0.7000000000000001,2014-02-14 08:10:38,True,True
+2014-02-14T08:29:56,"Chow said it best, its funny because she's fat.",0,0,Ryan Whitney,pX1-TNEpQ74,0.625,2014-02-14 08:29:56,True,True
+2014-02-14T13:51:38,Hollywood isn't trying any more,0,0,frank duncan,pX1-TNEpQ74,0.5,2014-02-14 13:51:38,True,True
+2014-02-14T16:56:55,What the carp lol freaking funny,0,0,Alberto Robles,pX1-TNEpQ74,0.525,2014-02-14 16:56:55,True,True
+2014-02-14T18:05:35,SONG !!!,0,2,Lucy Young,pX1-TNEpQ74,0.0,2014-02-14 18:05:35,True,True
+2014-02-14T21:40:30,Gangsta's Paradise - Coolio   Can i get like for this ???,5,0,Blue,pX1-TNEpQ74,0.0,2014-02-14 21:40:30,True,True
+2014-02-14T22:19:29,watched this trailer like a billion times.. Want to see this movie so sooooo bad!,0,0,Mila Ali,pX1-TNEpQ74,-0.8749999999999998,2014-02-14 22:19:29,True,True
+2014-02-14T23:01:33,What is the name of the song?,0,1,Kris Leighton,pX1-TNEpQ74,0.0,2014-02-14 23:01:33,True,True
+2014-02-14T23:56:21,Looks like entertainment for 5 year olds. ,2,3,EmmanuelsReviews,pX1-TNEpQ74,0.0,2014-02-14 23:56:21,True,True
+2014-02-15T00:04:25,The amount of people who actually think this looks good makes me want to kill myself.,5,4,Drew M,pX1-TNEpQ74,0.35,2014-02-15 00:04:25,True,True
+2014-02-15T00:05:44,The female Danny McBride.,0,0,Streamline Cinema,pX1-TNEpQ74,0.0,2014-02-15 00:05:44,True,True
+2014-02-15T00:45:45,I want my bandwidth back Melissa McCarthy,1,0,Pouya Khosravi,pX1-TNEpQ74,0.0,2014-02-15 00:45:45,True,True
+2014-02-15T01:35:26,HAHAHA ITS SO FUNNY BECAUSE SHES FAT. GIVE THIS MOVIE TONS OF MONEY. HAHAHAHA SHE CANT GET OVER THE COUNTER BECAUSE SHES FAT. HAHAHA ITS FUNNY WHEN SHE DANCES BECAUSE SHES FAT AND MAKES WEIRD FACES. HAHAHA LOOK HOW CLUMSY AND FAT SHE IS. Every Melissa McCarthy character.,82,20,Connor McGinty Films,pX1-TNEpQ74,0.0625,2014-02-15 01:35:26,True,True
+2014-02-15T01:38:11,"It really makes me feel old when some people ask ""What's the name of that song from the trailer?"" lol",0,0,natner84,pX1-TNEpQ74,0.3666666666666667,2014-02-15 01:38:11,True,True
+2014-02-15T01:58:00,What is it rated,0,0,DeCavé & Monteforte,pX1-TNEpQ74,0.0,2014-02-15 01:58:00,True,True
+2014-02-15T02:14:22,"i guess Chris Farley wasn't funny either, just fat. Let's all laugh at the fatties.",0,0,ajre82,pX1-TNEpQ74,0.275,2014-02-15 02:14:22,True,True
+2014-02-15T02:20:32,gonna watch this movie! Hilarious!! HAHAHAH! ,0,0,nomo love,pX1-TNEpQ74,0.9765625,2014-02-15 02:20:32,True,True
+2014-02-15T02:22:14,Not one laugh from this one. The Paula Deen fans will love this though.,0,0,Beer Baron,pX1-TNEpQ74,0.4,2014-02-15 02:22:14,True,True
+2014-02-15T03:25:33,Well this looks painfully unfunny. ,0,0,Jake Watford,pX1-TNEpQ74,-0.7,2014-02-15 03:25:33,True,True
+2014-02-15T04:39:09,Introducing female version of Jack Black,3,0,Nischal Rai,pX1-TNEpQ74,-0.08333333333333333,2014-02-15 04:39:09,True,True
+2014-02-15T07:44:38,What is this song called I really like it and I want to know the name of it,0,0,Jose Luna,pX1-TNEpQ74,0.2,2014-02-15 07:44:38,True,True
+2014-02-15T08:08:54,"I loved her character in Bridesmaids, but this doesn't look all that good. ",0,0,LittleMonsterMan93,pX1-TNEpQ74,0.7,2014-02-15 08:08:54,True,True
+2014-02-15T12:49:14,Ok I love Melissa Mccarthy and im sure this movie will turn out great BUT! This trailer is horrible does this movie even have a plot because all the trailer tells you is she is a funny slightly strange fat women who cant make it over a counter. ,11,10,Kurt Bauer,pX1-TNEpQ74,0.24285714285714285,2014-02-15 12:49:14,True,True
+2014-02-15T12:50:29,haha looks great cant wait to see this,0,0,Michal Horry,pX1-TNEpQ74,0.5,2014-02-15 12:50:29,True,True
+2014-02-15T17:07:15,I love this lady,0,0,J P,pX1-TNEpQ74,0.5,2014-02-15 17:07:15,True,True
+2014-02-15T17:20:20,Looks really funny.,12,0,THEDARKKNIGHT1939,pX1-TNEpQ74,0.25,2014-02-15 17:20:20,True,True
+2014-02-15T17:55:55,This looks freakin hilarious if u don't think so u obviously have no sense of humor,0,0,Kenndra Keller,pX1-TNEpQ74,0.25,2014-02-15 17:55:55,True,True
+2014-02-15T18:00:31,I JUST LOVE HER!!!!:))),0,0,kenneth merene,pX1-TNEpQ74,0.75,2014-02-15 18:00:31,True,True
+2014-02-15T18:29:18,LOL,0,0,칼인오조슈아,pX1-TNEpQ74,0.8,2014-02-15 18:29:18,True,True
+2014-02-15T20:14:16,What's the songs name????,0,0,gustavo ruiz,pX1-TNEpQ74,0.0,2014-02-15 20:14:16,True,True
+2014-02-15T22:08:56,Do they have cooking equipment like wooden spoons at fast food joints haha,0,0,xpallodoc,pX1-TNEpQ74,0.13333333333333333,2014-02-15 22:08:56,True,True
+2014-02-15T23:01:27,What song,0,1,Spooks,pX1-TNEpQ74,0.0,2014-02-15 23:01:27,True,True
+2014-02-16T00:29:21,Just take my money already. I will see anything with Melissa in it!,4,1,123tube456,pX1-TNEpQ74,0.0,2014-02-16 00:29:21,True,True
+2014-02-16T05:00:13,"Lol you people don't understand comedians very well. Most of them play the same character but in different roles. Kevin Hart is the hilarious short black man in every movie but no one's complaining about that. Everyone loved Chris Farley and John Candy( god rest their souls) and they did the same thing. Thats who comedy and comedians work, they have a shtick. So what if she's basically the same character the woman is hilarious! I love her and her movies and this is gonna be awesome! :) if you don't like it go watch a drama or a documentary or something lol",0,0,lovelostlie,pX1-TNEpQ74,0.35049019607843135,2014-02-16 05:00:13,True,True
+2014-02-16T05:48:17,"This looks fucking awful. This movie should be named ""Fat People Are Funny #167""",30,6,earlyjack77,pX1-TNEpQ74,-0.375,2014-02-16 05:48:17,True,True
+2014-02-16T18:12:24,"This is the teaser trailer, and like most teasers they tell you nothing about the plot, but Melissa McCarthy is a good actress, and she's capitalizing on the physical comedy if she was more fit that wouldn't be an aspect but she isn't so until then I will laugh at her making a strong effort to jump an inch off the ground. and I think I'll wait until the theatrical trailer to make my mind up about this movie.",14,1,Blaze Petty,pX1-TNEpQ74,0.35416666666666663,2014-02-16 18:12:24,True,True
+2014-02-16T18:39:07,"I can't wait for this to come out in theaters.  It was a blast to work on this film, and Melissa is a really talented actress. ",1,0,RaptorSqueaks,pX1-TNEpQ74,0.7,2014-02-16 18:39:07,True,True
+2014-02-16T19:50:53,I love how the old guy asked if she likes apples......like he was wondering if fat people also eat fruit.,13,2,Aisha Osmanova,pX1-TNEpQ74,0.3,2014-02-16 19:50:53,True,True
+2014-02-16T22:29:29,"Melissa McCarthy, sigh. You've been officially typecast as the funny fat woman next to Rebel Wilson. ",2,12,tnargtnarud,pX1-TNEpQ74,0.125,2014-02-16 22:29:29,True,True
+2014-02-17T00:07:52,Song,0,1,Jaylen Hickman,pX1-TNEpQ74,0.0,2014-02-17 00:07:52,True,True
+2014-02-17T02:42:26,Wats the name of the song,0,0,Alex Valdes,pX1-TNEpQ74,0.0,2014-02-17 02:42:26,True,True
+2014-02-17T03:57:50,"Okay, that looks hilarious.",0,0,Shane,pX1-TNEpQ74,0.5,2014-02-17 03:57:50,True,True
+2014-02-17T17:23:50,She's just so funny! haha and the crocs :P,0,0,HBCult,pX1-TNEpQ74,0.42083333333333334,2014-02-17 17:23:50,True,True
+2014-02-17T19:32:11,That looks so funny (:,0,0,thomas C,pX1-TNEpQ74,0.25,2014-02-17 19:32:11,True,True
+2014-02-17T20:40:16,LOL,0,0,Cuteness Overload,pX1-TNEpQ74,0.8,2014-02-17 20:40:16,True,True
+2014-02-17T20:52:58,Can't wait!!,0,0,Viviana,pX1-TNEpQ74,0.0,2014-02-17 20:52:58,True,True
+2014-02-17T21:33:25,what`s the name of the song?,0,0,Beata Tamas,pX1-TNEpQ74,0.0,2014-02-17 21:33:25,True,True
+2014-02-17T22:04:16,wtf is this shit,0,0,locale royale,pX1-TNEpQ74,-0.35,2014-02-17 22:04:16,True,True
+2014-02-18T02:12:20,I want to see this movie ,0,0,willi2513,pX1-TNEpQ74,0.0,2014-02-18 02:12:20,True,True
+2014-02-18T02:18:04,This movie was filmed about 3 minutes away from my house. this scene is in a restaurant I eat at all the time called the grill in Shallotte nc. I watched the scene with her dancing from the next building over. she is really an hilarious person. its not just an act.,0,0,shawn palmer,pX1-TNEpQ74,0.25,2014-02-18 02:18:04,True,True
+2014-02-18T02:21:44,What's the difference between Shia Lebouf and Tammy? One has a fat head and the other is played by Melissa McCarthy,4,1,Zedfinite,pX1-TNEpQ74,-0.125,2014-02-18 02:21:44,True,True
+2014-02-18T04:43:22,that looks fu**in hilariouse,0,0,richard stewart,pX1-TNEpQ74,0.0,2014-02-18 04:43:22,True,True
+2014-02-18T07:24:43,"Is Hollywood making movies marketed toward the 1% now?  ""Ho ho! Look at the ugly, disgusting poors feeding on each other! How amusing!""",0,0,Wesley Beltz,pX1-TNEpQ74,-0.2765625,2014-02-18 07:24:43,True,True
+2014-02-18T12:46:29,I guess this has nothing to do with remaking the original Tammy Movie(s) that Debbie Reynolds starred in. ;),0,0,Christina Holden Shea,pX1-TNEpQ74,0.3125,2014-02-18 12:46:29,True,True
+2014-02-18T16:29:39,"this movie has an amazing cast melissa mc carthy katie bathes, susan sarandon sandra oh i cant wait to see that",0,0,maria agustina,pX1-TNEpQ74,0.6000000000000001,2014-02-18 16:29:39,True,True
+2014-02-18T19:56:35,Had me in stitches! Can't wait for this to come out. ,13,0,umpus,pX1-TNEpQ74,0.0,2014-02-18 19:56:35,True,True
+2014-02-18T22:38:26,"literally, when i heard ""gangsters paradise"" at 00:01 i started laughing and can't stop. send help",3,0,Christina Tea,pX1-TNEpQ74,0.0,2014-02-18 22:38:26,True,True
+2014-02-18T23:00:01,"I love how shes like ""dont get sassy""",0,0,Hannah Barker,pX1-TNEpQ74,0.5,2014-02-18 23:00:01,True,True
+2014-02-18T23:15:59,I just want the name of the song,0,0,Tyreek Terrell,pX1-TNEpQ74,0.0,2014-02-18 23:15:59,True,True
+2014-02-19T01:03:16,If you make fun of fat people your gay so everybody stfu,1,7,[ViralStudio],pX1-TNEpQ74,0.35833333333333334,2014-02-19 01:03:16,True,True
+2014-02-19T01:17:22,Directed by her husband! fun fact,0,0,MovieHound17,pX1-TNEpQ74,0.3,2014-02-19 01:17:22,True,True
+2014-02-19T01:44:02,I'm excited for this. I love Melissa McCarthy.,0,0,Jacob Stull,pX1-TNEpQ74,0.4375,2014-02-19 01:44:02,True,True
+2014-02-19T07:18:55,So pumped! She is actually the funniest person EVERRR,0,0,Ella Dewilde,pX1-TNEpQ74,0.0,2014-02-19 07:18:55,True,True
+2014-02-19T16:27:43,That first leap attempt over the counter was great.,1,1,Mike Boehm,pX1-TNEpQ74,0.525,2014-02-19 16:27:43,True,True
+2014-02-19T18:17:57,She is annoying!!,0,0,NYNY78,pX1-TNEpQ74,-1.0,2014-02-19 18:17:57,True,True
+2014-02-19T21:55:47,I lover her.,0,0,Deerdrah Tate,pX1-TNEpQ74,0.0,2014-02-19 21:55:47,True,True
+2014-02-19T22:30:30,When I first heard Gangsters Paradise I knew it was gonna be something good.,0,0,adgoody123,pX1-TNEpQ74,0.475,2014-02-19 22:30:30,True,True
+2014-02-20T21:38:16,... in tears. MM is hysterical.,1,0,msmith5484,pX1-TNEpQ74,-1.0,2014-02-20 21:38:16,True,True
+2014-02-21T02:34:39,Looks hilarious ,2,0,eccoing,pX1-TNEpQ74,0.5,2014-02-21 02:34:39,True,True
+2014-02-21T09:39:18,Somone needs to stop Melissa MCarthy from making any more movies. She's one of the worst comedians to come along in Hollywood for a long time. ,2,0,Godzilla52,pX1-TNEpQ74,-0.18333333333333335,2014-02-21 09:39:18,True,True
+2014-02-22T02:26:45,She is the female Jack Black,1,0,FedeSkillArg,pX1-TNEpQ74,-0.08333333333333333,2014-02-22 02:26:45,True,True
+2014-02-22T13:35:12,U wouldnt know funny if slapped u in face jak fat ppl r  FUNNY  douchbag,0,0,Natalie Fielding,pX1-TNEpQ74,0.25,2014-02-22 13:35:12,True,True
+2014-02-22T19:18:42,I DO like apple too :),0,0,Saphirasfly,pX1-TNEpQ74,0.5,2014-02-22 19:18:42,True,True
+2014-02-22T21:06:00,Melissa McCarthy is AMAZING actress...:) I can't wait to see this one.,0,0,Milos Djordjilovic,pX1-TNEpQ74,0.55,2014-02-22 21:06:00,True,True
+2014-02-22T23:20:10,"i dont get how people are saying there is no plot to this besides ""the fat girl can't make it over a counter"" I mean its pretty obvious she is a robber (not a good one) and the movie is about how she came to rob a fast food place? I think the trailer did it good job, it was funny and left me curious as to what caused the robbery",0,0,alicialovexoxo,pX1-TNEpQ74,0.07083333333333335,2014-02-22 23:20:10,True,True
+2014-02-23T02:29:14,The Song Is Gianters Paderise,0,1,Christina Whitaker,pX1-TNEpQ74,0.0,2014-02-23 02:29:14,True,True
+2014-02-23T17:42:00,when did the movie come out?,0,0,J,pX1-TNEpQ74,0.0,2014-02-23 17:42:00,True,True
+2014-02-24T01:45:39,When I heard gangsters paradise I started thinking of Wierd Al's Amish paradise lol anyone else?,0,0,Seulmate,pX1-TNEpQ74,0.8,2014-02-24 01:45:39,True,True
+2014-02-24T07:27:29,What is ths song? Its soo good,0,0,Richy Vargas,pX1-TNEpQ74,0.7,2014-02-24 07:27:29,True,True
+2014-02-24T07:51:38,OMG I thought this movie was just a joke on Ellen! Really? It looks STUPID!,0,1,snwangl,pX1-TNEpQ74,-0.3999999999999999,2014-02-24 07:51:38,True,True
+2014-02-25T02:27:34,"True, she's done this type of character to death and beyond, but looking over trailers for other films for summer 2014, I realize this is likely the only film worth seeing in theater.",0,0,Mag Nificent,pX1-TNEpQ74,0.10499999999999998,2014-02-25 02:27:34,True,True
+2014-02-25T04:43:47,"How can anyone find this funny? It looks terrible! I found nothing worth laughing at except the vague thought of weird al's ""amish paradise""",1,0,cltnthecultist,pX1-TNEpQ74,-0.29,2014-02-25 04:43:47,True,True
+2014-02-25T20:13:58,intro song any1????,0,0,Akshay Jain,pX1-TNEpQ74,0.0,2014-02-25 20:13:58,True,True
+2014-02-25T20:52:37,I'am not sure ,1,0,gazelle gilbert,pX1-TNEpQ74,-0.25,2014-02-25 20:52:37,True,True
+2014-02-25T21:17:53,"just this little bit has me in tears, just hilarious",11,1,Vaughan,pX1-TNEpQ74,0.15625,2014-02-25 21:17:53,True,True
+2014-02-25T23:32:44,melissa mccarthy improvs as herself for an hour and a half: THE MOVIE,2,0,Spencer Abrams,pX1-TNEpQ74,-0.16666666666666666,2014-02-25 23:32:44,True,True
+2014-02-26T06:19:54,this looks great,0,0,calebgamerguy,pX1-TNEpQ74,0.8,2014-02-26 06:19:54,True,True
+2014-02-27T00:14:46,Song?,0,1,neilsen delos santos,pX1-TNEpQ74,0.0,2014-02-27 00:14:46,True,True
+2014-02-27T02:56:38,funny!,0,0,sofia gomez,pX1-TNEpQ74,0.3125,2014-02-27 02:56:38,True,True
+2014-02-27T06:00:19,Dis shyt slap lol,0,0,john holmes,pX1-TNEpQ74,0.8,2014-02-27 06:00:19,True,True
+2014-02-27T11:26:48,Finally a film with a fat female protagonist.  Hope there's a sex scene.,0,0,Captain Potato,pX1-TNEpQ74,0.0,2014-02-27 11:26:48,True,True
+2014-02-27T21:15:35,Haha that was funny as heck,0,0,Stephanie Williams,pX1-TNEpQ74,0.225,2014-02-27 21:15:35,True,True
+2014-02-27T21:27:21,so..... the movie is about what again?? robbing one store?,0,0,Sergio Santos,pX1-TNEpQ74,0.0,2014-02-27 21:27:21,True,True
+2014-02-28T01:53:18,It tells you what the movie is about in the description its sort of like              the guilt trip ,0,0,Ildefonso Arzate,pX1-TNEpQ74,0.0,2014-02-28 01:53:18,True,True
+2014-02-28T21:50:04,shit seems  funny hahah,0,0,Jasmine Love,pX1-TNEpQ74,0.024999999999999994,2014-02-28 21:50:04,True,True
+2014-03-01T03:34:06,I love Melissa McCarthy. Do your thing girl! Can't wait to see the theatrical trailer. I hope this is as funny as Bridesmaids and The Heat!  ,2,0,kaci allen,pX1-TNEpQ74,0.3125,2014-03-01 03:34:06,True,True
+2014-03-02T00:47:57,I can't stop watching it!!,0,0,Jodi Bauer,pX1-TNEpQ74,0.0,2014-03-02 00:47:57,True,True
+2014-03-02T02:00:22,i wan 2 see dis movie so much!!! i love her soo funny!,0,0,Julie Niehr,pX1-TNEpQ74,0.2041666666666667,2014-03-02 02:00:22,True,True
+2014-03-03T13:53:47,what's the song?,1,3,TheBmxRyder,pX1-TNEpQ74,0.0,2014-03-03 13:53:47,True,True
+2014-03-03T20:32:31,"The song is Coolio - Gangstas paradise ,a cover to the song Gansters Paradise by 2pac.",0,0,Liutnaemous Viking,pX1-TNEpQ74,0.0,2014-03-03 20:32:31,True,True
+2014-03-03T21:40:16,Oh I get it...she's fat,0,0,LilBhole,pX1-TNEpQ74,0.0,2014-03-03 21:40:16,True,True
+2014-03-04T11:44:16,This looks absolutely fucking retarded! I can not believe this is an actual movie.,18,1,Billy Lenz,pX1-TNEpQ74,-0.5,2014-03-04 11:44:16,True,True
+2014-03-04T12:40:32,This is probably the stupidest thing i ever seen..,13,0,Dr. Gregory [H]OUSE,pX1-TNEpQ74,0.0,2014-03-04 12:40:32,True,True
+2014-03-04T19:31:13,which song is,0,0,Kwstas D. Ace,pX1-TNEpQ74,0.0,2014-03-04 19:31:13,True,True
+2014-03-04T19:31:26,it,0,0,Kwstas D. Ace,pX1-TNEpQ74,0.0,2014-03-04 19:31:26,True,True
+2014-03-05T01:54:10,This looks like it's going to be the best movie ever.,0,0,qxANGELxp,pX1-TNEpQ74,1.0,2014-03-05 01:54:10,True,True
+2014-03-05T15:41:50,"I'm watching this. Idc if the trailer looks shit, I love Melissa. ",5,0,Trafalgar Law,pX1-TNEpQ74,0.15,2014-03-05 15:41:50,True,True
+2014-03-05T16:01:57,Melissa McCarthy is the best :D,4,0,Alexander Olofsson,pX1-TNEpQ74,1.0,2014-03-05 16:01:57,True,True
+2014-03-05T21:43:27,I see. Another one of Ron Swanson's evil ex-wives!,1,0,KongMagnus,pX1-TNEpQ74,-1.0,2014-03-05 21:43:27,True,True
+2014-03-06T04:48:18,"an Adam Sandler movie would look at this and say ""Fuck that!""",1,0,Mike Dunn,pX1-TNEpQ74,-0.5,2014-03-06 04:48:18,True,True
+2014-03-06T06:27:58,Azusa is gonna come out haa Haters turf,0,0,Manic MHK,pX1-TNEpQ74,0.0,2014-03-06 06:27:58,True,True
+2014-03-07T16:50:32,Whats the name of the song that is playing,1,2,jedd,pX1-TNEpQ74,0.0,2014-03-07 16:50:32,True,True
+2014-03-08T10:24:19,Dayyyymn look at all those bot views and likes.,2,0,Eppiox,pX1-TNEpQ74,0.0,2014-03-08 10:24:19,True,True
+2014-03-09T23:58:40,Honestly looks better as a sketch. Wish they would take advantage of Melissa McCarthy's acting instead of making her play the same role in every movie.,2,0,BloodWolf878,pX1-TNEpQ74,0.275,2014-03-09 23:58:40,True,True
+2014-03-10T08:44:30,I cannot wait for this movie to premiere!,0,0,xKawika,pX1-TNEpQ74,0.0,2014-03-10 08:44:30,True,True
+2014-03-12T06:09:38,must see this. ,1,0,zombies67,pX1-TNEpQ74,0.0,2014-03-12 06:09:38,True,True
+2014-03-13T18:21:10,Yes yes she is hilarious cant wait to see this lol,1,0,Zay's_mommy ily,pX1-TNEpQ74,0.65,2014-03-13 18:21:10,True,True
+2014-03-14T07:28:26,LOL.. I can't wait to watch this,0,0,Christian Thornton,pX1-TNEpQ74,0.8,2014-03-14 07:28:26,True,True
+2014-03-15T05:14:32,her career is really going well from the movie pumpkin to movies like this .,0,0,yellabonej24,pX1-TNEpQ74,0.2,2014-03-15 05:14:32,True,True
+2014-03-15T07:14:27,This move is gonna be hilarious!,1,0,Luigidenis,pX1-TNEpQ74,0.625,2014-03-15 07:14:27,True,True
+2014-03-15T20:52:37,No am still laughing  ,0,0,Gymnastics is my game,pX1-TNEpQ74,0.0,2014-03-15 20:52:37,True,True
+2014-03-16T19:18:30,My favorite actress LOL!,0,0,akplayer007,pX1-TNEpQ74,0.75,2014-03-16 19:18:30,True,True
+2014-03-17T22:45:59,Tammyyyyyyyyyyy!!!,0,0,Adam_7r,pX1-TNEpQ74,0.0,2014-03-17 22:45:59,True,True
+2014-03-18T00:10:21,"It's a shame that adults on here are immediately giving bad reviews on a short little teaser trailer. Comedy is subjective that's what makes it no different then any other art form so criticizing it just proclaims to everyone that you don't understand the nature of comedy at all. I don't shit on dry comedies, indie flicks, or any Woody Allen movie just because I don't care for them. I respect them for doing something honorable in a way that most of us will never get to say we have attempted and that's making people happy. If her acting doesn't make you happy then so be it but don't nitpick everything about her just because she's not your style.",7,0,Jake Butler,pX1-TNEpQ74,0.06840277777777781,2014-03-18 00:10:21,True,True
+2014-03-19T16:33:37,This is going to be hilarious ,0,0,JuiceMainDaGrouch,pX1-TNEpQ74,0.5,2014-03-19 16:33:37,True,True
+2014-03-25T20:20:15,If it makes you laugh its worth it ! In a world full of evil ...Take a break ! ,2,0,Colleen Lavoie,pX1-TNEpQ74,0.006249999999999978,2014-03-25 20:20:15,True,True
+2014-03-26T02:37:31,"I think this movie has potential, but whoever decided to make one entire scene the trailer, should be fired",4,2,LiA,pX1-TNEpQ74,0.0,2014-03-26 02:37:31,True,True
+2014-03-26T21:42:22,LOL I dont like It I LOVE it♥,1,0,celina garcia,pX1-TNEpQ74,0.65,2014-03-26 21:42:22,True,True
+2014-03-26T23:48:10,i can't wait!,1,0,it's_marky,pX1-TNEpQ74,0.0,2014-03-26 23:48:10,True,True
+2014-03-27T02:55:13,got to love her,0,0,Sandra Rafolski,pX1-TNEpQ74,0.5,2014-03-27 02:55:13,True,True
+2014-03-27T19:57:59,Pretty stupid!!! Love it!!!!!!!!!!!!!!,2,0,Steven Walton,pX1-TNEpQ74,0.08333333333333333,2014-03-27 19:57:59,True,True
+2014-03-28T03:05:04,One of the best tracks ever. Defined a generation. ,0,0,Thomas J,pX1-TNEpQ74,1.0,2014-03-28 03:05:04,True,True
+2014-03-28T15:58:05,"Oh, look. Melissa McCarthy is playing the same role again. Whatever will she do next????",1,0,Megantron,pX1-TNEpQ74,0.0,2014-03-28 15:58:05,True,True
+2014-03-28T17:11:07,I just don't understand what this is about,0,0,Bethany N,pX1-TNEpQ74,0.0,2014-03-28 17:11:07,True,True
+2014-03-28T18:56:21,i so love Melissa McCarthy hope this would be launch in the Philippines :'( wanted to watch this in theater with my boo.. we've been waiting for this,3,0,Ororo Munroe,pX1-TNEpQ74,-0.25,2014-03-28 18:56:21,True,True
+2014-03-28T21:02:57,Love Melissa McCarthy!!!! Can't wait for this movie!!!! ,0,0,Li-ham Cosplay,pX1-TNEpQ74,1.0,2014-03-28 21:02:57,True,True
+2014-03-29T14:49:17,I love her she's a funny actress,0,0,Dollymixture68,pX1-TNEpQ74,0.375,2014-03-29 14:49:17,True,True
+2014-03-30T02:05:50,"Oh fat Merica will eat this movie right up, literally eat the movie then some more food.",1,0,carcillian,pX1-TNEpQ74,0.39285714285714285,2014-03-30 02:05:50,True,True
+2014-03-30T02:11:10,I can't believe that this movie was filmed in my home town...and that I actually have eaten in that restaurant. So excited for this movie!,8,0,xXDark_AngelXx,pX1-TNEpQ74,0.234375,2014-03-30 02:11:10,True,True
+2014-03-31T03:47:52,She gonna kill this movie... I also found my next Halloween costume!!!!!!,31,2,LOOK AT MY NAME,pX1-TNEpQ74,0.0,2014-03-31 03:47:52,True,True
+2014-03-31T20:57:30,What's hilarious about this?,14,1,David Hutton,pX1-TNEpQ74,0.5,2014-03-31 20:57:30,True,True
+2014-04-01T00:13:03,I love her. Lol ,4,0,Cory Ogilvie,pX1-TNEpQ74,0.65,2014-04-01 00:13:03,True,True
+2014-04-01T02:16:10,Indigo Skyz is in This movie!!!!!!,0,0,Renaldo DeMerritt,pX1-TNEpQ74,0.0,2014-04-01 02:16:10,True,True
+2014-04-02T01:27:26,very funny! i'm so gonna watch it. if i don't watch it in the theaters i'll watch it in the computer.,0,0,sofia gomez,pX1-TNEpQ74,0.40625,2014-04-02 01:27:26,True,True
+2014-04-02T01:50:32,I am so excited for this! Melissa McCarthy is the best!! LOVE,0,0,missleahbeah100,pX1-TNEpQ74,0.65625,2014-04-02 01:50:32,True,True
+2014-04-02T01:58:39,+David Hutton you are such a buzzkill.,0,2,DãrkŁight Gãming,pX1-TNEpQ74,0.0,2014-04-02 01:58:39,True,True
+2014-04-02T05:47:24,"""here, and don't be hero"" in 1:10.",1,0,성준호 成俊虎,pX1-TNEpQ74,0.0,2014-04-02 05:47:24,True,True
+2014-04-03T11:53:02,im so watching this,0,0,LETZUPLOADIT,pX1-TNEpQ74,0.0,2014-04-03 11:53:02,True,True
+2014-04-03T19:26:48,i can't waiiiiiit :D,3,0,Maja Olh,pX1-TNEpQ74,1.0,2014-04-03 19:26:48,True,True
+2014-04-04T12:54:48,she is funny actress ever...I love her..,1,0,Tamar Kvantaliani,pX1-TNEpQ74,0.375,2014-04-04 12:54:48,True,True
+2014-04-07T12:55:26,Lol idgaf if she plays the same character over & over. McCarthy can take all my money.,73,3,Josephine Medina,pX1-TNEpQ74,0.4,2014-04-07 12:55:26,True,True
+2014-04-07T22:35:59,waiting for murrica comments,0,0,Brian Keith Beringuel,pX1-TNEpQ74,0.0,2014-04-07 22:35:59,True,True
+2014-04-08T23:42:27,"Hahaha lol ""of  corse I want apple"" haha ",3,0,Katja Kranzo,pX1-TNEpQ74,0.39999999999999997,2014-04-08 23:42:27,True,True
+2014-04-09T06:16:45,"LMAO looks hilarious, she's perfect for the role",22,0,GotxMilk22,pX1-TNEpQ74,0.7000000000000001,2014-04-09 06:16:45,True,True
+2014-04-11T19:48:15,this chick plays the same character in every movie......and its fucking hilarious!!! ,3,0,iCantPickaName,pX1-TNEpQ74,0.48828125,2014-04-11 19:48:15,True,True
+2014-04-15T01:47:42,They filmed that where I live. I remember passing the restaurant and not being able to see them film inside because they had black curtains in all the windows.,0,0,Tabitha Gray,pX1-TNEpQ74,0.15656565656565657,2014-04-15 01:47:42,True,True
+2014-04-17T05:30:37,lol,0,0,Blue Collar Men Productions,pX1-TNEpQ74,0.8,2014-04-17 05:30:37,True,True
+2014-04-18T23:48:16,Why yes Ms Mcarthy you may have my money for a movie ticket,1,0,CynicallyObnoxious,pX1-TNEpQ74,0.0,2014-04-18 23:48:16,True,True
+2014-04-19T14:02:55,This is hilarious!,20,0,Vudu Magic,pX1-TNEpQ74,0.625,2014-04-19 14:02:55,True,True
+2014-04-20T05:48:55,It has my favorite actress!! :D,1,0,SniperNo Sniping,pX1-TNEpQ74,0.890625,2014-04-20 05:48:55,True,True
+2014-04-20T06:48:18,I love that song lolz ,0,0,Mickey Colors,pX1-TNEpQ74,0.5,2014-04-20 06:48:18,True,True
+2014-04-20T15:16:53,Am I the only one who doesn't find her funny?,65,16,p3rsona,pX1-TNEpQ74,0.125,2014-04-20 15:16:53,True,True
+2014-04-23T09:13:29,Idk why.. But this trailer reminded me of Idiocracy. ,0,0,Dearly Beloved,pX1-TNEpQ74,0.0,2014-04-23 09:13:29,True,True
+2014-04-23T15:48:06,what's the name of the song in the start of the trailer?,0,0,DeadMan_626,pX1-TNEpQ74,0.0,2014-04-23 15:48:06,True,True
+2014-04-24T17:15:25,"sort of wish Chris Farley was still around so him and Melissa McCarthy could make a movie together. Tammy and Tommy together, that would be sick.",1,0,Jerry Christian,pX1-TNEpQ74,-0.7142857142857143,2014-04-24 17:15:25,True,True
+2014-04-24T18:09:21,Eeeeee.. very Pathetic!!,0,0,Roger Colon,pX1-TNEpQ74,-1.0,2014-04-24 18:09:21,True,True
+2014-04-24T23:57:37,as soon as that beat dropped i knew it was going to be good!:) ,0,0,MizzChampion,pX1-TNEpQ74,0.6875,2014-04-24 23:57:37,True,True
+2014-04-25T00:08:05,also good job at not spoiling all the funny part like all comedies do in the trailers ,0,2,MizzChampion,pX1-TNEpQ74,0.475,2014-04-25 00:08:05,True,True
+2014-04-25T03:02:20,This was not funny. The vet joke was but the rest no.,1,0,John HughesFan,pX1-TNEpQ74,-0.125,2014-04-25 03:02:20,True,True
+2014-04-25T09:45:32,after THE HEAT she loses her job as a cop (resorts to being typed cast in this movie as the same character from the last movie) and robs kfc's. COMING SOON The Heat 2 : Fat and Furious.,0,0,victor hugo,pX1-TNEpQ74,-0.09999999999999999,2014-04-25 09:45:32,True,True
+2014-04-25T14:38:42,why not rebel wilson?,1,0,Somehow I'm Awesome,pX1-TNEpQ74,0.0,2014-04-25 14:38:42,True,True
+2014-04-25T15:28:31,OMG Melissa McCarthy is the funniest girl on earth.... This is going to be a great movie!!!,0,0,Kristi philpott,pX1-TNEpQ74,1.0,2014-04-25 15:28:31,True,True
+2014-04-25T21:19:28,No hate but she is not funny at all!! They shoud've made this with rebel wilson!,0,0,mediafanjoe,pX1-TNEpQ74,0.07792968750000001,2014-04-25 21:19:28,True,True
+2014-04-26T03:12:33,LoLtastic,0,0,Arch Reclaimer,pX1-TNEpQ74,0.0,2014-04-26 03:12:33,True,True
+2014-04-26T15:57:54,i don't think i've ever seen a Melissa McCarthy movie... i don't think that's changing,12,1,AidansVlog,pX1-TNEpQ74,0.0,2014-04-26 15:57:54,True,True
+2014-04-26T18:26:09,This looks so unfunny.  Shame on you Hal Rudnick thinking this piece of shit will out gross Godzilla domestically.,0,0,Jesus Lozoya,pX1-TNEpQ74,-0.1,2014-04-26 18:26:09,True,True
+2014-04-27T05:02:33,godzilla is going to eat tammy up,0,0,Vaidy Krishnan,pX1-TNEpQ74,0.0,2014-04-27 05:02:33,True,True
+2014-04-28T01:18:37,"Woah, those Crocs doe...",4,0,TotoroRCGamer,pX1-TNEpQ74,0.0,2014-04-28 01:18:37,True,True
+2014-04-28T20:50:03,"If that happened to me I would be like ""Melissa MacCarthy?..."" and she would be like ""Who the f*ck is Melissa MacCarthy?!!!""",1,0,Leonardo Rafael Videos,pX1-TNEpQ74,0.0,2014-04-28 20:50:03,True,True
+2014-04-29T02:30:11,"People have said 'the stupidest movies get the most attention'. Like if you hate on something and spread the word to get others to see it and hate it; 1) You have gained the post its popularity 2) You like it, even when you say you hate it and have been talking about it nonstop. It's a trailer. That does not mean everything it gave away everything. Because people tend to focus on one thing and forget the rest even existed. You have to enjoy yourself. Don't be so uptight and dead like a zombie. Trust me, you are hurting yourself like that. ",0,0,Soup Marine,pX1-TNEpQ74,-0.22053571428571428,2014-04-29 02:30:11,True,True
+2014-04-29T02:32:42,what is  the name of the song?,1,1,Monserrath Peña,pX1-TNEpQ74,0.0,2014-04-29 02:32:42,True,True
+2014-04-29T22:38:47,This film looks atrocious ,2,0,NeilC224,pX1-TNEpQ74,-0.7,2014-04-29 22:38:47,True,True
+2014-04-29T22:55:10,"The only thing that comes to mind after reading the comments is ""How do people not know the song?""",2,0,Jess hp31,pX1-TNEpQ74,0.0,2014-04-29 22:55:10,True,True
+2014-04-30T01:37:50,Why so much hate? Lighten up. ,1,0,zemasion xoxo,pX1-TNEpQ74,-0.8,2014-04-30 01:37:50,True,True
+2014-05-02T20:58:02,"What do i smell here? Oh yeah, that's right - razzies.",0,0,ogorjefan,pX1-TNEpQ74,0.2857142857142857,2014-05-02 20:58:02,True,True
+2014-05-02T22:35:30, I fucking love any movie that has Melissa McCarthy in it she's too funny :'),1,0,maya bano,pX1-TNEpQ74,0.375,2014-05-02 22:35:30,True,True
+2014-05-03T01:55:10,I dont see how this actress is funny? Everyone makes such a big deal about her for what reason? She is just fat and acts to hard.,33,8,MegaFORGE,pX1-TNEpQ74,-0.010416666666666671,2014-05-03 01:55:10,True,True
+2014-05-04T17:26:59,The way she closed that car door 😂😂😂,0,0,CrazyDance Tv,pX1-TNEpQ74,-0.1,2014-05-04 17:26:59,True,True
+2014-05-05T04:08:22,Can't wait until the movie!!,0,0,bella thornley,pX1-TNEpQ74,0.0,2014-05-05 04:08:22,True,True
+2014-05-06T05:50:15,the trailer alone is enough to  crack you up,0,0,JovanFB,pX1-TNEpQ74,0.0,2014-05-06 05:50:15,True,True
+2014-05-06T06:06:42,Me to,0,0,Austin B,pX1-TNEpQ74,0.0,2014-05-06 06:06:42,True,True
+2014-05-06T18:39:11,Larry World War II veteran I salute you.,0,0,The Truth,pX1-TNEpQ74,0.0,2014-05-06 18:39:11,True,True
+2014-05-06T18:47:02,i love her,0,0,liftingcarbsdaily,pX1-TNEpQ74,0.5,2014-05-06 18:47:02,True,True
+2014-05-06T20:20:13,"I love her, i've been laughing to death.....how she struggled to jump over the counter!  LMAO",0,1,julz buzz,pX1-TNEpQ74,0.6125,2014-05-06 20:20:13,True,True
+2014-05-06T20:32:17,Chris Farley reboot female version,0,0,Pete Lakamsan,pX1-TNEpQ74,0.0,2014-05-06 20:32:17,True,True
+2014-05-06T20:43:49,She bring back memories of Chris Farley!!,0,0,Pete Lakamsan,pX1-TNEpQ74,0.0,2014-05-06 20:43:49,True,True
+2014-05-06T23:29:27,"I am shocked by some comments in here, you people are saying you don't find her funny and hate her! That would make me really angry, then I remember, I CAN NOT STAND "" America's Sweetheart "" Jennifer Lorance. So, I got you, I really do.. And yeah, I LOOOVE Melissa McCarthy.",0,0,Mohammad Al-qudah,pX1-TNEpQ74,-0.35,2014-05-06 23:29:27,True,True
+2014-05-07T07:04:41,Is it me or did she gain more weight?,0,0,Annaline Pfeiffer,pX1-TNEpQ74,0.5,2014-05-07 07:04:41,True,True
+2014-05-07T21:42:36,"I laughed just from 2mins lolz good trailer gave nothing away, definitely will go see it",0,0,coolso0oz,pX1-TNEpQ74,0.4666666666666666,2014-05-07 21:42:36,True,True
+2014-05-08T02:15:11,OMG!!! Can't wait!  Love her!,0,0,southpawbabe5,pX1-TNEpQ74,0.625,2014-05-08 02:15:11,True,True
+2014-05-08T13:28:24,melissa and her husband make such a good team can't wait for this movie,3,0,jasmine rewane,pX1-TNEpQ74,0.35,2014-05-08 13:28:24,True,True
+2014-05-08T14:17:32,I wonder if there's going to be a Kurdish version of this movie,0,0,abel mafiotu,pX1-TNEpQ74,0.0,2014-05-08 14:17:32,True,True
+2014-05-08T20:28:26,I am the only one who finds her actually funny?,1,0,Bob Finger,pX1-TNEpQ74,0.125,2014-05-08 20:28:26,True,True
+2014-05-09T10:42:03,i love her so much ,0,0,thunder cocolove,pX1-TNEpQ74,0.35,2014-05-09 10:42:03,True,True
+2014-05-09T12:37:44,Facepalm,0,0,Hajger89,pX1-TNEpQ74,0.0,2014-05-09 12:37:44,True,True
+2014-05-09T16:19:06,If it's not funny then save your money,0,0,Sayed Rishad Hashemi,pX1-TNEpQ74,-0.125,2014-05-09 16:19:06,True,True
+2014-05-09T17:00:33,Am I the only one who doesn't think woman are,0,0,Skyclaws,pX1-TNEpQ74,0.0,2014-05-09 17:00:33,True,True
+2014-05-09T20:53:24,"Not to seem offensive, but is she wearing a fat suit? I recall seeing her in other movies and she seemed a bit slimmer than what she appears in this movie. It also could maybe be the unflattering clothing. ",0,0,Aria R.,pX1-TNEpQ74,-0.125,2014-05-09 20:53:24,True,True
+2014-05-10T19:08:07,I swear to god Melissa McCarthy is a female Chris Farely,0,0,Eli Jordan,pX1-TNEpQ74,0.0,2014-05-10 19:08:07,True,True
+2014-05-12T13:36:19,Everyone needs to stfu she's funny because it's the life of an average Joe person who wishes they could be bad. She's wearing crocs and capris and acts tough...that's exactly how I am when I'm mad I wanna go fuck shit up...and get free pies. I wonder what some of y'all think is funny....cause this is only for the humor of God's bitches. ,0,0,Monalisa Escobedo,pX1-TNEpQ74,-0.13055555555555554,2014-05-12 13:36:19,True,True
+2014-05-12T15:43:38,Melissa McCarthy plays the most hilarious roles in all of her movies.,0,0,Alex S,pX1-TNEpQ74,0.5,2014-05-12 15:43:38,True,True
+2014-05-12T17:47:14,Is this a real movie?  Or just like a sketch on SNL or something?  I don't see how they could possibly make a full movie out of this...,0,0,soggytoast111,pX1-TNEpQ74,0.18333333333333335,2014-05-12 17:47:14,True,True
+2014-05-12T20:17:10,She's not funny at all. No offense :-),0,1,Yela Bombshell,pX1-TNEpQ74,0.1875,2014-05-12 20:17:10,True,True
+2014-05-13T01:44:37,Another actress who plays the same fucking character in every movie.,0,0,Bud Fudlacker,pX1-TNEpQ74,-0.3,2014-05-13 01:44:37,True,True
+2014-05-13T07:24:02,lol that looks like its gonna be pretty funny,0,0,Christina T.,pX1-TNEpQ74,0.43333333333333335,2014-05-13 07:24:02,True,True
+2014-05-15T11:25:02,What song is this??,0,0,Razvan Paul,pX1-TNEpQ74,0.0,2014-05-15 11:25:02,True,True
+2014-05-16T02:55:22,Song? ,0,0,Sachem of Boston,pX1-TNEpQ74,0.0,2014-05-16 02:55:22,True,True
+2014-05-16T03:09:59,I want to see this!,0,0,Snapefan1971,pX1-TNEpQ74,0.0,2014-05-16 03:09:59,True,True
+2014-05-17T23:29:59,She's not fat she's fucking obese ,0,0,Th3lastsong,pX1-TNEpQ74,-0.6,2014-05-17 23:29:59,True,True
+2014-05-18T02:55:40,"Its funny because there's a black song playing and shes white, and fat, hahahaha how funny.",2,0,I am a giraffe,pX1-TNEpQ74,0.10666666666666666,2014-05-18 02:55:40,True,True
+2014-05-18T12:35:32,"THIS IS GETTING OVERPLAY, HERS ROLE ARE THE SAME IN EVERY MOVIE.   IF YOU WATCH ONE OF HERS MOVIE THAN YOU SEEN IT ALL.  NOTHING NEW.",0,0,Charlie H,pX1-TNEpQ74,0.06818181818181818,2014-05-18 12:35:32,True,True
+2014-05-19T02:09:26,"Oh I get it, the song choice is ironic",0,0,gatchaponkei,pX1-TNEpQ74,0.2,2014-05-19 02:09:26,True,True
+2014-05-19T15:37:59,and Dan Akroyd!?! You know it's a good sign when a comedy film can make a decent trailer from just 1 scene.,0,0,MasterBagnall,pX1-TNEpQ74,0.4333333333333333,2014-05-19 15:37:59,True,True
+2014-05-19T19:17:21,Did anyone else notice she's wearing crocs ,0,0,wrestlerxii,pX1-TNEpQ74,0.0,2014-05-19 19:17:21,True,True
+2014-05-19T23:13:17,I love her and this movie's going to be hilarious xD,0,0,SaucyMonkey4eva,pX1-TNEpQ74,0.5,2014-05-19 23:13:17,True,True
+2014-05-20T04:21:45,Hear that? It's her 15 minutes ticking... fat fuck.,0,0,ronjon83,pX1-TNEpQ74,-0.4,2014-05-20 04:21:45,True,True
+2014-05-21T03:55:59,I have too see this!,0,0,Africa Dunbar,pX1-TNEpQ74,0.0,2014-05-21 03:55:59,True,True
+2014-05-21T14:22:43,I LOVE MELISSA MCCARTHY I WANNA SEE THIS MOVIE,0,0,Deviant,pX1-TNEpQ74,0.5,2014-05-21 14:22:43,True,True
+2014-05-23T06:08:03,cómo se llama el tema??,0,0,Estudios Internacionales,pX1-TNEpQ74,0.0,2014-05-23 06:08:03,True,True
+2014-05-25T03:02:08,What sing is that?,0,0,Elvis Vallejo,pX1-TNEpQ74,0.0,2014-05-25 03:02:08,True,True
+2014-05-25T03:02:20,I mean song,0,0,Elvis Vallejo,pX1-TNEpQ74,-0.3125,2014-05-25 03:02:20,True,True
+2014-05-25T21:02:09,"What's that rap song? I know I've heard it before, but I can't place the name",0,0,ULTRADJ,pX1-TNEpQ74,0.0,2014-05-25 21:02:09,True,True
+2014-05-26T02:03:04,name of song,0,0,sole capo,pX1-TNEpQ74,0.0,2014-05-26 02:03:04,True,True
+2014-05-26T03:05:14,oh no she's back - lol - love her :),0,0,Lexyonyou,pX1-TNEpQ74,0.45,2014-05-26 03:05:14,True,True
+2014-05-26T17:21:37,"I need to see this movie so much, it looks so funny xD",0,0,Jessica,pX1-TNEpQ74,0.225,2014-05-26 17:21:37,True,True
+2014-05-28T01:23:09,I have a feeling that was just the whole movie,0,0,WXFWbackyard,pX1-TNEpQ74,0.2,2014-05-28 01:23:09,True,True
+2014-05-29T02:45:27,"I don't care what anyone says, Melissa McCarthy is genuinely funny to me. Haven't been disappointed in her performances yet.",0,0,Julius Caesar,pX1-TNEpQ74,-0.25,2014-05-29 02:45:27,True,True
+2014-05-29T03:59:20,"REALITY CHECK! It's a comedy people!!! When it comes to comedies, if you're in the mood to see people act stupid or whatever it's going to be funny. Melissa McCarthy is funny. She made me laugh from Bridesmaid's  to Stolen Identity and a couple others. Sadly, we consumers will probably get bored of her like every other has been actor or actress. Remember John Belushi, Chris Farley. Let them shine(Hollywood stars) as long as they can. Don't be hater.",0,0,Jody Jones,pX1-TNEpQ74,-0.146875,2014-05-29 03:59:20,True,True
+2014-05-29T06:30:42,OMG that is so funny,1,0,cutekittycake,pX1-TNEpQ74,0.25,2014-05-29 06:30:42,True,True
+2014-05-30T00:07:07,This is the type of friend that we would like to be in our lives!,0,0,Ibrahim Banks,pX1-TNEpQ74,0.0,2014-05-30 00:07:07,True,True
+2014-05-31T17:07:37,song,0,0,Zenn,pX1-TNEpQ74,0.0,2014-05-31 17:07:37,True,True
+2014-06-01T02:59:41,This is a must see movie ,0,0,Jalen Wheeler,pX1-TNEpQ74,0.0,2014-06-01 02:59:41,True,True
+2014-06-02T02:22:35,Comes out on my birthday!! Yaaaaassss,0,0,Keira Reneau,pX1-TNEpQ74,0.0,2014-06-02 02:22:35,True,True
+2014-06-03T02:02:01,Name of song,0,0,Theonewithglasse,pX1-TNEpQ74,0.0,2014-06-03 02:02:01,True,True
+2014-06-06T12:56:46,"Only the people who loves to be  funny, dorky & weird will love this movie xD 👌",0,0,xX Cookiie Xx xX Chiip Xx,pX1-TNEpQ74,0.0625,2014-06-06 12:56:46,True,True
+2014-06-06T14:18:00,whats the name of the song ?,0,0,Mario Götze,pX1-TNEpQ74,0.0,2014-06-06 14:18:00,True,True
+2014-06-07T02:42:32,What song ,0,0,Andrew Romero,pX1-TNEpQ74,0.0,2014-06-07 02:42:32,True,True
+2014-06-09T01:31:24,I would like to watch this movie but i don't know if it is suitable for 13 year olds.,0,0,Sophie Thornby,pX1-TNEpQ74,0.55,2014-06-09 01:31:24,True,True
+2014-06-09T16:37:45,I love this woman so much! She's an awesome actress! She was epic in the *Hustle*!,0,0,Ennrax,pX1-TNEpQ74,0.46875,2014-06-09 16:37:45,True,True
+2014-06-09T21:53:42,"This trailer is hilarious.   Even more so since the soundtrack for is is Gangsta Paradise by Koolio.   One day ""Dangerous Minds"", next day ""Tammy"".   Hell, to the yeah. ",3,2,justjakk,pX1-TNEpQ74,0.1,2014-06-09 21:53:42,True,True
+2014-06-09T22:50:02,Hahaha lmfao cracked up iwhen i saw this in theaters,0,0,Sabrina1094,pX1-TNEpQ74,0.2,2014-06-09 22:50:02,True,True
+2014-06-10T02:06:54,Can't fucking wait...,0,0,Django,pX1-TNEpQ74,-0.6,2014-06-10 02:06:54,True,True
+2014-06-10T02:36:33,What is the this song called,0,0,Matthew Adams,pX1-TNEpQ74,0.0,2014-06-10 02:36:33,True,True
+2014-06-10T06:14:07,"I am going to go and have my first name changed tomorrow, this movie makes all Tammy's look like moronic pigs!  This woman is the same character in every movie she does, let's move on...",0,0,glenn franz,pX1-TNEpQ74,0.15625,2014-06-10 06:14:07,True,True
+2014-06-10T09:00:44,song please,0,0,Moofin God,pX1-TNEpQ74,0.0,2014-06-10 09:00:44,True,True
+2014-06-10T16:19:39,We all know she didn't say shoot,0,0,Maurice Chatto,pX1-TNEpQ74,0.0,2014-06-10 16:19:39,True,True
+2014-06-10T19:41:41,"Its nice to see she took a step outside her usual role of ""the fat clumsy goofy bitch""..",0,0,Steve Robinson,pX1-TNEpQ74,0.11000000000000001,2014-06-10 19:41:41,True,True
+2014-06-10T21:30:30,Make sure to subscribe to this channel for all the latest Tammy content!,0,0,Tammy THEMOVIE,pX1-TNEpQ74,0.5625,2014-06-10 21:30:30,True,True
+2014-06-10T23:29:46, i love it give me all your pies NOW!,0,0,Vito Calli,pX1-TNEpQ74,0.625,2014-06-10 23:29:46,True,True
+2014-06-10T23:53:32,I want to see this movie ,0,0,Sarah Medina,pX1-TNEpQ74,0.0,2014-06-10 23:53:32,True,True
+2014-06-11T01:24:28,The fact that gangsters paradise is playing in the background makes this even more funny.,0,0,Alexis Nash,pX1-TNEpQ74,0.375,2014-06-11 01:24:28,True,True
+2014-06-11T01:58:14,This shit is about to be funny 😂,0,0,Blackgvds,pX1-TNEpQ74,0.024999999999999994,2014-06-11 01:58:14,True,True
+2014-06-11T05:59:53,"She's absolutely hilarious, one of the funniest actresses ever",0,0,Cassandra Bernardo,pX1-TNEpQ74,0.5,2014-06-11 05:59:53,True,True
+2014-06-11T06:01:09,"If you don't have something nice to say, don't say anything at all",0,0,Cassandra Bernardo,pX1-TNEpQ74,0.6,2014-06-11 06:01:09,True,True
+2014-06-11T12:11:58,She has 2 be the funniest girl actor my god in the Heat funny now in Tammy looks even funnier plus this is MY OPINION ,0,0,Josh Richards,pX1-TNEpQ74,0.25,2014-06-11 12:11:58,True,True
+2014-06-11T16:31:03,Damn lol I remember this song!!! Gangsters paradise ! Coolio,0,0,Browhotf TT,pX1-TNEpQ74,1.0,2014-06-11 16:31:03,True,True
+2014-06-11T17:01:41,What the fuck is this.... this has to be the most awful movie ever... ,37,6,TypicalWhiteAsianBoy,pX1-TNEpQ74,-0.3,2014-06-11 17:01:41,True,True
+2014-06-11T17:44:00,I wish Sandra Bullock was also in the film...,0,0,Siddharth Sharma,pX1-TNEpQ74,0.0,2014-06-11 17:44:00,True,True
+2014-06-11T17:50:22,what song is this,0,0,James Cockey,pX1-TNEpQ74,0.0,2014-06-11 17:50:22,True,True
+2014-06-11T18:38:31,I would rather sit through an eye gouging by the mountain than watch this garbage.  Fat. Check. Ugly. Check. Dirty. Check. Not funny. Check.,0,0,Sev3r333,pX1-TNEpQ74,-0.4749999999999999,2014-06-11 18:38:31,True,True
+2014-06-11T23:45:31,What's the name of the song,0,0,TweeOsprey730,pX1-TNEpQ74,0.0,2014-06-11 23:45:31,True,True
+2014-06-12T02:50:53,Dude your dumb 👇,0,0,TeflonPosion,pX1-TNEpQ74,-0.375,2014-06-12 02:50:53,True,True
+2014-06-12T04:06:13,Anybody knows name of song that is going in background?,0,0,Slob Sako,pX1-TNEpQ74,0.0,2014-06-12 04:06:13,True,True
+2014-06-12T13:53:03,This looks so retarded to the point where its funny ,0,0,Smoothfeet,pX1-TNEpQ74,-0.275,2014-06-12 13:53:03,True,True
+2014-06-12T14:23:28,What's the song in this trailer?,0,0,henry luis,pX1-TNEpQ74,0.0,2014-06-12 14:23:28,True,True
+2014-06-12T14:23:35,What's the song in this trailer?,0,0,henry luis,pX1-TNEpQ74,0.0,2014-06-12 14:23:35,True,True
+2014-06-12T15:33:40,What is the song called ,0,0,Carlos Espinoza,pX1-TNEpQ74,0.0,2014-06-12 15:33:40,True,True
+2014-06-12T17:56:24,I know this is a stupid question but does anyone know what the music is called playing at the beginning?,0,2,Bethany Smallman,pX1-TNEpQ74,-0.7999999999999999,2014-06-12 17:56:24,True,True
+2014-06-12T18:13:09,I love this woman hahaha!!!,0,0,spellthemagicword,pX1-TNEpQ74,0.4453125,2014-06-12 18:13:09,True,True
+2014-06-12T18:19:26,this ugly cunt plays a fat slob every role. Fuck her. She makes money by not being funny and being disgusting.,0,0,Soil Bound,pX1-TNEpQ74,-0.4625,2014-06-12 18:19:26,True,True
+2014-06-12T18:53:09,What's the titel of this song? ,0,0,fape19988,pX1-TNEpQ74,0.0,2014-06-12 18:53:09,True,True
+2014-06-12T22:01:10,That's amazing. I wanna thank you for that.! ,0,0,DiLaurentis Mashups,pX1-TNEpQ74,0.7500000000000001,2014-06-12 22:01:10,True,True
+2014-06-12T22:30:45,Im going to see that next week,0,0,Hannah Ulrich,pX1-TNEpQ74,0.0,2014-06-12 22:30:45,True,True
+2014-06-13T02:16:32,its FUNNY! Relax and take a chill pill sheeesssh ,0,0,miss_torres9,pX1-TNEpQ74,0.3125,2014-06-13 02:16:32,True,True
+2014-06-13T03:06:36,Song?,0,1,Marci Reece,pX1-TNEpQ74,0.0,2014-06-13 03:06:36,True,True
+2014-06-13T03:49:37,That's funny I'm a veteran she's like and i thank you lol I'm crying of laughter ,0,0,Clamp God 619,pX1-TNEpQ74,0.21250000000000002,2014-06-13 03:49:37,True,True
+2014-06-13T04:01:13,What song is this?,0,0,Nish is God,pX1-TNEpQ74,0.0,2014-06-13 04:01:13,True,True
+2014-06-13T15:35:10,Oh god. Okay you're fat- we get it. This movie looks terrible. ,0,0,MisterPeetBull,pX1-TNEpQ74,-0.25,2014-06-13 15:35:10,True,True
+2014-06-13T20:23:04,whats the name of this song??,0,0,Shelton Winchell,pX1-TNEpQ74,0.0,2014-06-13 20:23:04,True,True
+2014-06-14T03:19:30,Did. Not. Luaght. Once....,0,0,MGB,pX1-TNEpQ74,0.0,2014-06-14 03:19:30,True,True
+2014-06-14T15:14:43,What is the song I want to get it.,0,0,DRENS2131,pX1-TNEpQ74,0.0,2014-06-14 15:14:43,True,True
+2014-06-14T16:27:41,What song is that?,0,0,Oscar4434,pX1-TNEpQ74,0.0,2014-06-14 16:27:41,True,True
+2014-06-14T17:08:10,"Nuke it from Orbit, its the only way to be sure....",0,0,Ixiah27,pX1-TNEpQ74,0.25,2014-06-14 17:08:10,True,True
+2014-06-14T20:16:13,I love Melissa McCarthy ❤️❤️,1,0,Mupmup Isabroc,pX1-TNEpQ74,0.5,2014-06-14 20:16:13,True,True
+2014-06-15T01:43:32,This looks like a rejected SNL sketch.,0,0,culwin,pX1-TNEpQ74,0.0,2014-06-15 01:43:32,True,True
+2014-06-15T05:29:54,Gangster's Paradise - Coolio,0,0,ColumbiasFinest,pX1-TNEpQ74,0.0,2014-06-15 05:29:54,True,True
+2014-06-15T11:44:02,"Wowwwww , i cried my ass off xD Funny Asf .",0,0,Angel X,pX1-TNEpQ74,0.25,2014-06-15 11:44:02,True,True
+2014-06-15T12:54:42,"She's just a fat, lady Adam Sandler. She must be so proud that she has defined herself as an actor who plays the exact same disheveled fat character in every movie. Boring.",0,0,jeb tweebance,pX1-TNEpQ74,0.012500000000000011,2014-06-15 12:54:42,True,True
+2014-06-15T16:43:28,"Didn't expect to see so many haters in the comments, if you know you don't like her or the roles she plays why even click on the trailer??",0,0,Hailey Clement,pX1-TNEpQ74,0.5,2014-06-15 16:43:28,True,True
+2014-06-15T17:44:24,"Can""t wait to go see this movie!",0,0,Sandy Amador,pX1-TNEpQ74,0.0,2014-06-15 17:44:24,True,True
+2014-06-15T18:00:36,kml she taken forever just to hope over the table and to put the spoon in the door,0,0,Alexcia xA,pX1-TNEpQ74,0.0,2014-06-15 18:00:36,True,True
+2014-06-15T20:31:20,Saw this and just assumed it was Honey Boo Boo after 35 years of age-progression special effects. ,0,0,EVO9FTW,pX1-TNEpQ74,0.35714285714285715,2014-06-15 20:31:20,True,True
+2014-06-16T01:08:57,Wanna see this so fricken bad!!!!,0,0,WEDEMKIDS,pX1-TNEpQ74,-1.0,2014-06-16 01:08:57,True,True
+2014-06-16T11:36:04,Hahaha ;p,0,0,Edgar BehindACamera,pX1-TNEpQ74,0.2,2014-06-16 11:36:04,True,True
+2014-06-16T20:55:15,She's Hillarious i love her,3,0,Suzuya Juuzou,pX1-TNEpQ74,0.5,2014-06-16 20:55:15,True,True
+2014-06-16T21:28:27,What's the song called? ,5,8,avargas000,pX1-TNEpQ74,0.0,2014-06-16 21:28:27,True,True
+2014-06-16T21:47:31,Rock those crocks baby,0,0,Catt Michrina,pX1-TNEpQ74,0.0,2014-06-16 21:47:31,True,True
+2014-06-16T21:51:03,I think she stole my ride.,0,0,Catt Michrina,pX1-TNEpQ74,0.0,2014-06-16 21:51:03,True,True
+2014-06-17T04:35:18,"I'm sorry, people can't say that you aren't supposed to judge a movie by it's trailer. Looking at this tells me that this will be the biggest flop of the year.",0,0,THJC247,pX1-TNEpQ74,-0.5,2014-06-17 04:35:18,True,True
+2014-06-17T14:55:30,Looking forward to seeing it.,0,0,James Jeffrey Paul,pX1-TNEpQ74,0.0,2014-06-17 14:55:30,True,True
+2014-06-17T18:05:53,oh it looks like a good movie don't swear,0,0,Robbie Healy,pX1-TNEpQ74,0.7,2014-06-17 18:05:53,True,True
+2014-06-17T22:47:46,Whats this song,0,0,Jester Blaze,pX1-TNEpQ74,0.0,2014-06-17 22:47:46,True,True
+2014-06-18T01:54:12,i cried so hard watching her struggle with that spoon,0,0,ONEPOCKETKID21,pX1-TNEpQ74,-0.2916666666666667,2014-06-18 01:54:12,True,True
+2014-06-18T01:54:21,One of my favorite actors! I pray that she doesn't overdose on any drugs or commit suicide as some of the world's best actors have done. She's Awesome! ,0,0,Javaris Stevenson,pX1-TNEpQ74,0.875,2014-06-18 01:54:21,True,True
+2014-06-18T16:51:19,Who would risk financing this load of crap?,0,0,Ethan Kavet,pX1-TNEpQ74,-0.8,2014-06-18 16:51:19,True,True
+2014-06-18T17:06:32,Yes I cannot wait to watch this! ,0,0,Steven Loranger,pX1-TNEpQ74,0.0,2014-06-18 17:06:32,True,True
+2014-06-18T17:06:42,love Melissa ,0,0,Steven Loranger,pX1-TNEpQ74,0.5,2014-06-18 17:06:42,True,True
+2014-06-18T17:06:57,she is always funny ,0,0,Steven Loranger,pX1-TNEpQ74,0.25,2014-06-18 17:06:57,True,True
+2014-06-18T18:22:32,"That's amazing, yeah, I wanna thank you for that. ",0,0,Christian Maximoff,pX1-TNEpQ74,0.6000000000000001,2014-06-18 18:22:32,True,True
+2014-06-19T00:24:11,This looks so good I like watching movies like this with my friends we love movies like this,0,0,Grace Bender,pX1-TNEpQ74,0.6,2014-06-19 00:24:11,True,True
+2014-06-19T00:58:52,nobu,0,0,joeedo89,pX1-TNEpQ74,0.0,2014-06-19 00:58:52,True,True
+2014-06-19T04:05:22,LOL!!!!!!!!!!!!!!!  Can't wait to see this!!,0,0,Karen Whalen,pX1-TNEpQ74,1.0,2014-06-19 04:05:22,True,True
+2014-06-19T11:59:51,"Brilliant, more pathetic twats commenting on someones weight. Funny thing is whilst you're behind a computer screen putting a woman down just because of how she looks, she's making amazing movies and getting paid millions, so screw you. Absolutely adore this woman.",190,20,MelSeaborne890,pX1-TNEpQ74,0.11180555555555555,2014-06-19 11:59:51,True,True
+2014-06-19T22:03:47,I'd rather watch a video of Al Qaida kidnapping my own mother than see this movie. ,0,0,Sean Braasch,pX1-TNEpQ74,0.6,2014-06-19 22:03:47,True,True
+2014-06-19T23:10:41,nope this don't look interesting or that funny really... but shes getting money.,0,0,D W,pX1-TNEpQ74,0.31666666666666665,2014-06-19 23:10:41,True,True
+2014-06-20T12:03:13,Why does McCarthy continue to play the same character in every movie? A mean spiting swearing loud obnoxious criminal. Is that all she can do? Cause it's getting fucking old. Why should people pay 9 dollars to watch her just be mean and gross I mean damn is this supposed to be funny?? Good comedies have a point and characters to root for. Not mean spirited assholes it's just gonna be like her movie identity thief where she terrorized Jason Bateman like how are we supposed to like her????   ,0,0,GoBuckeyes554,pX1-TNEpQ74,0.03906249999999998,2014-06-20 12:03:13,True,True
+2014-06-20T21:46:51,She looks like a slightly younger version of my aunt Linda. ,0,0,TheHoon57,pX1-TNEpQ74,0.0,2014-06-20 21:46:51,True,True
+2014-06-21T01:09:53,I want to see this so freakin bad!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0,0,Sarah W,pX1-TNEpQ74,-1.0,2014-06-21 01:09:53,True,True
+2014-06-21T11:11:11,My name....,0,0,Tammy Ho,pX1-TNEpQ74,0.0,2014-06-21 11:11:11,True,True
+2014-06-21T13:06:07,This looks like the worst movie ever..,0,0,Chris Allum,pX1-TNEpQ74,-1.0,2014-06-21 13:06:07,True,True
+2014-06-21T19:27:38,A terribad traveshamockery. Idiocracy is upon us.,0,0,Agent Michael Scarn,pX1-TNEpQ74,0.0,2014-06-21 19:27:38,True,True
+2014-06-21T23:42:43,I was sold cuz crocs,0,0,dejla mehdi,pX1-TNEpQ74,0.0,2014-06-21 23:42:43,True,True
+2014-06-22T00:25:17,"Jesus fuck this has to be the saddest excuse for a movie I've seen... You know what? This is beyond that, beyond the level of pathetic people that made this. The humour is EVERY joke in this goddamn fucking trailer is ""hey I'm fat and stupid watch me fail at everything to make yourselves feel better."" This would be extremely effective torture for anyone with any fucking taste at all.",0,0,loglog7,pX1-TNEpQ74,-0.31666666666666665,2014-06-22 00:25:17,True,True
+2014-06-22T21:39:17,This looks terrible.,0,0,Kaiannpepper,pX1-TNEpQ74,-1.0,2014-06-22 21:39:17,True,True
+2014-06-23T02:25:22,would bang/10,0,0,SeriousSam,pX1-TNEpQ74,0.0,2014-06-23 02:25:22,True,True
+2014-06-23T02:45:54,"The only reason why she's ""funny"" it's coz she's fat. It's too bad because for a person who ""defends"" her weight, she portrays many stereotypical, obnoxious fat people which kind of contradicts her. ",0,0,Andres Jimenez,pX1-TNEpQ74,0.025000000000000022,2014-06-23 02:45:54,True,True
+2014-06-23T10:25:42,"Fat people are funny! I hope some of the fat people in this movie fall over. Watching Fat people fall over is funny. And I hope they reference the fact they are fat. Every movie benefits from fat people. Schinder's list had a distinct dearth of fat people, and that film was hardly funny at all.",1,0,Mr. Sensible,pX1-TNEpQ74,0.278125,2014-06-23 10:25:42,True,True
+2014-06-23T15:18:24,Hey American let's laugh at all fat white girls. Oh wait I already do,0,0,Jebus Cruz,pX1-TNEpQ74,0.09999999999999999,2014-06-23 15:18:24,True,True
+2014-06-23T20:54:32,"Type 2 diabetes can lead to tissue damage throughout the body, including the brain.",0,0,photondance,pX1-TNEpQ74,0.0,2014-06-23 20:54:32,True,True
+2014-06-24T00:08:39,Lmao...I luv Melissa!!,0,0,Kulena Bell,pX1-TNEpQ74,0.0,2014-06-24 00:08:39,True,True
+2014-06-24T10:59:43,fat amy can do better. just sayin. =),0,0,Karl Lopez,pX1-TNEpQ74,0.5,2014-06-24 10:59:43,True,True
+2014-06-24T17:49:47,This is the most painfully unfunny trailer I've ever seen.,13,0,Eldritch Augur,pX1-TNEpQ74,-0.09999999999999998,2014-06-24 17:49:47,True,True
+2014-06-24T18:21:33,"wow this looks god awful, i'd rather see a Adam Sandler movie",0,0,quiksilvababe,pX1-TNEpQ74,-0.45,2014-06-24 18:21:33,True,True
+2014-06-24T20:10:53,"She's not funny.. This one trick pony has run her course. ""AHAHAHA I'm over-weight and fumbling around! I'm a regular riot!""",0,0,Dopey McDunderhead,pX1-TNEpQ74,-0.078125,2014-06-24 20:10:53,True,True
+2014-06-25T04:55:12,"This is my first post ever, i just have to get it out of my system: I can't believe that anybody might like this movie. The amount of the ""likes"" is all that's wrong with the American society. ",0,0,Anna,pX1-TNEpQ74,-0.08333333333333333,2014-06-25 04:55:12,False,True
+2014-06-25T14:32:55,300 people have no sense of humor whatsoever,1,0,Thomas Brunn,pX1-TNEpQ74,0.0,2014-06-25 14:32:55,False,True
+2014-06-25T19:43:49,This whole movie is one big fat joke ,1,0,Carlos Lozada,pX1-TNEpQ74,0.1,2014-06-25 19:43:49,False,True
+2014-06-25T21:48:48,The clock in that restaurant did not move whatsoever.,3,3,dudelivestrong,pX1-TNEpQ74,0.0,2014-06-25 21:48:48,False,True
+2014-06-26T12:49:43,MM was a co-writer of this movie. She's brilliant. She accepts who she is and uses what she's got. I love this woman.,1,0,Carol McLean,pX1-TNEpQ74,0.7,2014-06-26 12:49:43,False,True
+2014-06-26T15:18:13,30 seconds of slow motion dancing to Coolio and robbing for apple pies. Awful trailer.,20,3,VanRocCarMor,pX1-TNEpQ74,-0.65,2014-06-26 15:18:13,False,True
+2014-06-26T16:17:01,"I sort of laughed once, and it was the veteran line.",0,0,Jon Petrie,pX1-TNEpQ74,0.35,2014-06-26 16:17:01,False,True
+2014-06-26T23:33:58,Second trailer is better.,0,0,Foxx,pX1-TNEpQ74,0.25,2014-06-26 23:33:58,False,True
+2014-06-27T01:28:23,"Haven't we seen another of this,it's the same thing over and over it's just not that funny anymore.. And she can be a funny lady some times. It looks like it's done ",0,0,underdog1117,pX1-TNEpQ74,0.16666666666666666,2014-06-27 01:28:23,False,True
+2014-06-27T02:46:52,this looks hilarious.   fuck all you.  ,0,0,SuperPrinceboo,pX1-TNEpQ74,0.04999999999999999,2014-06-27 02:46:52,False,True
+2014-06-27T03:02:46,this movie will probably be terrible but I just find Melissa McCarthy so funny. her trailers are always better than her films though. they need better editing. less is more,0,0,MitholX,pX1-TNEpQ74,0.09722222222222222,2014-06-27 03:02:46,False,True
+2014-06-28T07:11:49,This will be the worst movie of 2014,0,0,BIG BOSS TV,pX1-TNEpQ74,-1.0,2014-06-28 07:11:49,False,True
+2014-06-28T14:37:35,Kill it with fire before it reproduces!,0,0,Ian,pX1-TNEpQ74,0.0,2014-06-28 14:37:35,False,True
+2014-06-28T14:37:36,Kill it with fire before it reproduces!,0,0,Ian,pX1-TNEpQ74,0.0,2014-06-28 14:37:36,False,True
+2014-06-28T15:57:33,Chuckle.,0,0,Craig L,pX1-TNEpQ74,0.0,2014-06-28 15:57:33,False,True
+2014-06-28T20:32:46,Haha can't wait! 😄,0,0,Prettygirlcn5,pX1-TNEpQ74,0.25,2014-06-28 20:32:46,False,True
+2014-06-28T23:07:10,It was such a privilege to work with her in this movie !!! We had a ton of fun A MUST SEE!,2,1,Namiah Potter,pX1-TNEpQ74,0.1875,2014-06-28 23:07:10,False,True
+2014-06-29T12:36:41,idk why I find this hilarious ,0,0,indigo Rager,pX1-TNEpQ74,0.5,2014-06-29 12:36:41,False,True
+2014-06-29T18:52:16,very annoying,0,0,Bryan Lee,pX1-TNEpQ74,-1.0,2014-06-29 18:52:16,False,True
+2014-06-29T21:41:41,Gotta love Melissa McCarthy,0,0,Matthew McBride,pX1-TNEpQ74,0.5,2014-06-29 21:41:41,False,True
+2014-06-30T13:33:24,That. Movie looks like just about the stupidest thing ever!,1,0,Tim Cope,pX1-TNEpQ74,0.0,2014-06-30 13:33:24,False,True
+2014-06-30T21:01:10,Get it? It's funny because she's wearing crocs. They zoomed in on them twice in case you missed it. Oh yeah and she's fat too. That's funny.,41,7,MDub,pX1-TNEpQ74,0.25,2014-06-30 21:01:10,False,True
+2014-07-01T03:15:48,"The old man's a vet and he's working a shit job flipping burgers? And The Soviet Union was considered the bad guy? Man, what a crapsack world this is.",0,0,Vigo 894,pX1-TNEpQ74,-0.2666666666666666,2014-07-01 03:15:48,False,True
+2014-07-01T03:48:21,"miss piggy make another movie doing the same boring thing. fatty please,,, not even if the ticket was free.",0,0,G money,pX1-TNEpQ74,-0.19999999999999998,2014-07-01 03:48:21,False,True
+2014-07-01T18:37:27,Gangsters paradise rules,0,0,Amy Jordan,pX1-TNEpQ74,0.0,2014-07-01 18:37:27,False,True
+2014-07-01T21:58:38,http://www.rottentomatoes.com/m/tammy_2014/,0,0,MDub,pX1-TNEpQ74,0.0,2014-07-01 21:58:38,False,True
+2014-07-01T23:32:31,"Larry ""I'm a veteran"" lol",0,0,jasminemyfirst,pX1-TNEpQ74,0.4,2014-07-01 23:32:31,False,True
+2014-07-02T05:10:38,anyone know the song?,0,0,sarah 124,pX1-TNEpQ74,0.0,2014-07-02 05:10:38,False,True
+2014-07-02T05:27:26,How much do you want to bet this whale movie is gonna flop for Warner Bros? I couldn't shoot this shit jokes if i tried. The world is as retarded as ever. You can't change shit. Stupidity and Fatness are the Dark Matter of the Universe. yep. it is made of floppy fat sick assholes √ http://instagram.com/p/qHlwoSAYKe/,26,11,Anton Pictures,pX1-TNEpQ74,-0.3520408163265306,2014-07-02 05:27:26,False,True
+2014-07-02T05:48:31,Whats the songs name?,0,0,Xx Killa PRODIGY,pX1-TNEpQ74,0.0,2014-07-02 05:48:31,False,True
+2014-07-02T05:48:33,Whats the songs name?,0,2,Xx Killa PRODIGY,pX1-TNEpQ74,0.0,2014-07-02 05:48:33,False,True
+2014-07-02T07:19:03,0:14 what song is that!! Ugh it's stuck in my head and I can't think of the name. ,3,11,katie long,pX1-TNEpQ74,0.0,2014-07-02 07:19:03,False,True
+2014-07-02T09:31:24,Oh hell yeah. That's what I'm talking about.,0,0,"Clayton ""Brick"" Johnson",pX1-TNEpQ74,0.0,2014-07-02 09:31:24,False,True
+2014-07-02T09:48:11,How does this nasty bitch keep getting roles?  Who the hell would want to pay money to look at that for 2 hours?  Is Hollywood that hard up for a comedy? ,1,0,Cory M.,pX1-TNEpQ74,-0.6458333333333334,2014-07-02 09:48:11,False,True
+2014-07-02T12:01:30,Another movie and opportunity for McCarthy's dialog of two swear words to get of action.  Dumb.,0,0,Chris Kaiser,pX1-TNEpQ74,-0.1375,2014-07-02 12:01:30,False,True
+2014-07-02T13:37:25,"The only people who would see this movie are blacks and fatsos. Movies about proudly uneducated, morbidly obese characters do surprisingly well in the black community. The only difference is that it's a white fatso in this abortion of a movie so now the morbidly obese whites will want to see it as well because the only time they'll see a tub of lard make a positive change in their live is on the silver screen. ",0,0,Genocide Tony,pX1-TNEpQ74,0.18855218855218853,2014-07-02 13:37:25,False,True
+2014-07-02T14:12:24,She's a one-trick pony. Gets old,1,0,dnatz58,pX1-TNEpQ74,0.1,2014-07-02 14:12:24,False,True
+2014-07-02T14:35:27,worst...trailer....EVAH!!!,0,0,Vasilijan Nikolovski,pX1-TNEpQ74,0.0,2014-07-02 14:35:27,False,True
+2014-07-02T15:11:57,"I've been told that I'm a ""humorless"" person every time I put down the most beloved of comedy movies. But I have to ask, do you people really find these silly movies hilarious? With all these goofy characters and stupid scenarios, and the shock stunts to get a laugh. None of it is funny to me. Please tell me people aren't this daft that they think these movies are funny?",0,0,elm1230,pX1-TNEpQ74,0.15858585858585858,2014-07-02 15:11:57,False,True
+2014-07-02T15:15:35,looks like 366 are not going to watch this movie,0,0,joshua her,pX1-TNEpQ74,0.0,2014-07-02 15:15:35,False,True
+2014-07-02T15:33:45,Seen this movie last night! Great and funny movie! And if you think it's all about her being fat your just stupid....... I can count all of the fat jokes on one hand! But If you like a good funny movie go see this!!!!!,0,0,Justus Harris,pX1-TNEpQ74,0.2625732421875,2014-07-02 15:33:45,False,True
+2014-07-02T16:26:07,"What a shock. The most beautiful plus sized actress gets uglied-up for another ""fatty fall down"" role. I can't facepalm hard enough.",0,0,Massively Effected,pX1-TNEpQ74,0.11712962962962965,2014-07-02 16:26:07,False,True
+2014-07-02T17:35:25,My god! So many places to share! When did social networking become like a menu's at The Cheesecake Factory?,0,0,Luke Edwards,pX1-TNEpQ74,0.32916666666666666,2014-07-02 17:35:25,False,True
+2014-07-02T17:55:11,i don't see how ppl find this girl funny,0,0,Cjw615,pX1-TNEpQ74,0.25,2014-07-02 17:55:11,False,True
+2014-07-02T17:59:30,i thought this movie came out before.. oh wait that's because her movies are recycled pieces of generic dog shit from the money greedy pricks who put no effort into anything besides lame ass trailers that only fool the very ass of america.,0,0,patrick sohacki,pX1-TNEpQ74,-0.09999999999999999,2014-07-02 17:59:30,False,True
+2014-07-02T18:50:53,"Here are some facts for those who are having trouble not judging her. I lay it down really easy for you, because well this is true.  Tammy(McCarthy) <-------  Rich----  Paid millions---  Successful---  Middle Class----  You <----------  So lets not forget where you stand in life on the totem pole of success. Or should I say ""don't talk down from an inferior position"".  Have a nice day. ;)",0,0,Ur Momma,pX1-TNEpQ74,0.23156565656565656,2014-07-02 18:50:53,False,True
+2014-07-02T19:36:51,"Lol. That was stupid as hell . Didn't make any sense and was a complete wast of my time .   No not the trailer , the comment below me. vvv . Lol jedinolife vvv",0,0,philnasty303,pX1-TNEpQ74,0.22500000000000003,2014-07-02 19:36:51,False,True
+2014-07-02T19:54:54,"I'm getting sick of this actor already, its like every month they poop out another comedy with her with literally the same plot.",0,0,FbManFA,pX1-TNEpQ74,-0.35714285714285715,2014-07-02 19:54:54,False,True
+2014-07-02T21:34:18,oh my goodness lighten up its a film,0,0,capricornmumrocks,pX1-TNEpQ74,0.0,2014-07-02 21:34:18,False,True
+2014-07-02T22:02:14,fat.,0,0,Andrew Android,pX1-TNEpQ74,0.0,2014-07-02 22:02:14,False,True
+2014-07-02T23:06:23,Why Melissa?...,0,0,Maquillame Lily,pX1-TNEpQ74,0.0,2014-07-02 23:06:23,False,True
+2014-07-03T00:53:28,This movie looks so lame...,0,0,Dre’ Oblivion,pX1-TNEpQ74,-0.5,2014-07-03 00:53:28,False,True
+2014-07-03T01:17:51,People will watch anyshit that comes out to theaters,0,0,6BL00D9RAV3N6,pX1-TNEpQ74,0.0,2014-07-03 01:17:51,False,True
+2014-07-03T02:31:23,"this movie insults my intellegence ... they expect me to laugh at this crap? who do they think I am ... a 10 year? TBH I found her character a little funny the first time I saw her in bridesmaid, then they had to follow it up with the cop show with sandra bullock and now making her the main character in a movie... please respect yourself and stay away from this movie... I mean how many times are they expecting to milk movie goers by playing this vulgar, fat, obnoxious and aggressively stupid character before it gets old... I rather watch 22 jump street",1,3,yi shu,pX1-TNEpQ74,-0.11212121212121211,2014-07-03 02:31:23,False,True
+2014-07-03T02:50:57,"Holy fuck, this looks terrible. ",0,0,XR-888,pX1-TNEpQ74,-0.7,2014-07-03 02:50:57,False,True
+2014-07-03T03:40:49,I loved this movie! She was adorable. This movie was all over the place. The whole audience was laughing. Lots of heart in this film.,0,0,edigoose peterson,pX1-TNEpQ74,0.525,2014-07-03 03:40:49,False,True
+2014-07-03T14:38:03,What the song at the start ,0,0,Cliff Richards,pX1-TNEpQ74,0.0,2014-07-03 14:38:03,False,True
+2014-07-03T15:39:29,'murica in a nutshell,0,0,UPro,pX1-TNEpQ74,0.0,2014-07-03 15:39:29,False,True
+2014-07-03T15:57:13,I CANT WAIT TO SEE TO THIS MOVIE!!! I LOVE MELISSA  FUNNNNNNNNNNY!!!!,0,0,Rameer Colon,pX1-TNEpQ74,1.0,2014-07-03 15:57:13,False,True
+2014-07-03T16:10:10,No talent cow,0,0,Meow Fox,pX1-TNEpQ74,-0.13333333333333333,2014-07-03 16:10:10,False,True
+2014-07-03T17:08:13,The movie was actually really funny and well put together so yea,0,0,Zahira Olvera,pX1-TNEpQ74,0.25,2014-07-03 17:08:13,False,True
+2014-07-03T18:26:33,People are such haters. My god. Okay. She's fat. So the fuck what.,0,0,Liz Dawn,pX1-TNEpQ74,0.033333333333333326,2014-07-03 18:26:33,False,True
+2014-07-03T20:06:44,What age thingy is it,0,0,jadieandwollit4e,pX1-TNEpQ74,0.0,2014-07-03 20:06:44,False,True
+2014-07-03T20:20:35,What's the song called,0,0,X7 Frisky,pX1-TNEpQ74,0.0,2014-07-03 20:20:35,False,True
+2014-07-03T22:04:16,"i went and saw it, and it was actually really good",0,0,fadadapple,pX1-TNEpQ74,0.7,2014-07-03 22:04:16,False,True
+2014-07-03T22:12:38,This shit movie flop... i walked the fuck out the movie theater Warner brothers making more Crap films Tammy burn in hell BITCH...,1,0,Abel Gotti,pX1-TNEpQ74,-0.22500000000000003,2014-07-03 22:12:38,False,True
+2014-07-04T00:29:43,I'm definitely going to see this. Looks hilarious.,0,0,Doug Van Tuinen,pX1-TNEpQ74,0.25,2014-07-04 00:29:43,False,True
+2014-07-04T01:40:16,What song is that playing in the trailer,0,0,Gregory Kellers,pX1-TNEpQ74,0.0,2014-07-04 01:40:16,False,True
+2014-07-04T07:31:41,"I love how people hail her for being a strong woman who's confident with her body, yet in every one of her movies are nothing but an hour and a half of fat jokes. Typecasting? Nawwwwww.",0,0,EnigmaDrath,pX1-TNEpQ74,0.31666666666666665,2014-07-04 07:31:41,False,True
+2014-07-04T23:14:44,"Wow....relax people .....smile a little is just a movie some people like this kind of comedy ,what is the big deal?...  Not everything if hunger games or shit like that ..... Relax idiots",0,0,Mitch-Ulises III,pX1-TNEpQ74,-0.11750000000000002,2014-07-04 23:14:44,False,True
+2014-07-04T23:25:37,"somebody needs to tell melissa mccarthy her movies are not funny,  perhaps adam sandler.",0,0,monos70,pX1-TNEpQ74,-0.125,2014-07-04 23:25:37,False,True
+2014-07-05T02:18:06,Most unfunny comedy of the year!,2,0,Aaron Merkel,pX1-TNEpQ74,0.625,2014-07-05 02:18:06,False,True
+2014-07-05T04:13:02,What's the song,0,0,dayday4vegas,pX1-TNEpQ74,0.0,2014-07-05 04:13:02,False,True
+2014-07-05T06:18:23,how many more times are they gonna ironically use Gansta's Paradise as a comedic tool? it wasn't even funny the first time you morons!,0,0,chaosinorderrr,pX1-TNEpQ74,0.1,2014-07-05 06:18:23,False,True
+2014-07-05T07:10:32,This movie is full of shit all the funny parts in the trailer are the only ones the rest of the movie is boring,0,0,M1ghtyCrafter14,pX1-TNEpQ74,-0.12000000000000002,2014-07-05 07:10:32,False,True
+2014-07-05T08:22:57,"what's funny is that they only included this one scene, and it's probably not even going to be in the movie ",0,0,bbarebb,pX1-TNEpQ74,0.125,2014-07-05 08:22:57,False,True
+2014-07-05T12:28:26,Lolloooololool!!!!! I'm watching today!!,0,0,Nuggielicious,pX1-TNEpQ74,0.0,2014-07-05 12:28:26,False,True
+2014-07-05T13:44:18,"That sound you heard was me uncontrollably retching after 10 seconds of watching this clip. This movie will win the award for ""most suicides committed in a movie theater"". Well done Hollywood, well done.",0,0,Scott Valent,pX1-TNEpQ74,0.5666666666666668,2014-07-05 13:44:18,False,True
+2014-07-05T16:32:04,"To me, this sort of seems like Identity Thief. 😒",0,0,Asia Lewis,pX1-TNEpQ74,0.0,2014-07-05 16:32:04,False,True
+2014-07-05T18:19:04,Lol,0,0,Maya Dominique,pX1-TNEpQ74,0.8,2014-07-05 18:19:04,False,True
+2014-07-05T20:55:33,"They should have called this movie Pearl, and not Tammy. The entire trailer consists of the funniest part from the movie. The rest of the movie isn't even close to what her attitude really is. She's a bit of a baby and doesn't do much else... They just portrayed her to look like a robber and all that jazz. ",0,0,Mike,pX1-TNEpQ74,0.13333333333333333,2014-07-05 20:55:33,False,True
+2014-07-05T23:16:19,"Yet another stupid movie promoting obesity, stupidity and terrible acting all in the name of ""entertainment."" I will be steering clear of this waste of celluloid crap. Seems like the dumbed down population cares nothing about the deteriorating state of this nation, or that our borders are left wide open for illegal immigrants to just walk in to our country, or anything alar that really matters. Most movies these days are pure crap in my opinion. And that's my opinion, thank you. ",0,0,Michael Lambert,pX1-TNEpQ74,-0.24632936507936504,2014-07-05 23:16:19,False,True
+2014-07-06T00:46:03,"Tammy, the trailer park called and they say you owe em money.",0,0,Cee Nova,pX1-TNEpQ74,0.0,2014-07-06 00:46:03,False,True
+2014-07-06T02:08:21,"Genius film. I don't care if it got panned by the critics, Melissa McCarthy is a brilliant woman and ""Tammy"" made me laugh out loud for a good solid hour, so she earned every penny of my ticket price.",0,0,Andrew Evans,pX1-TNEpQ74,0.4,2014-07-06 02:08:21,False,True
+2014-07-06T03:24:55,If people wanna be fat leave em be goddamn you guys are ridiculous.,1,0,Jean Brick,pX1-TNEpQ74,-0.3333333333333333,2014-07-06 03:24:55,False,True
+2014-07-06T03:58:06,0-30 secs: SHAME & CHEAP,0,0,Alfredo Salvador Musmeci Fernández,pX1-TNEpQ74,0.4,2014-07-06 03:58:06,False,True
+2014-07-06T04:08:28,whats the song ,0,0,Jay Rackus,pX1-TNEpQ74,0.0,2014-07-06 04:08:28,False,True
+2014-07-06T04:14:38,Song is Amish paradise by Al Yankovic,0,0,Enayat Kapadia,pX1-TNEpQ74,0.0,2014-07-06 04:14:38,False,True
+2014-07-06T11:22:56,Love melissa :D,1,0,AguileraInsider,pX1-TNEpQ74,0.75,2014-07-06 11:22:56,False,True
+2014-07-06T20:50:36,All of you bashing her would trade places with her in a heartbeat. ,0,0,GmenAgain,pX1-TNEpQ74,0.0,2014-07-06 20:50:36,False,True
+2014-07-06T21:06:57,shitty movie,0,0,Alonsoibanez,pX1-TNEpQ74,0.0,2014-07-06 21:06:57,False,True
+2014-07-07T00:13:44,I saw this one with my dad ron norwood and myself today in independence theater nin independence oregon today it wasmi like sandra oh and kathy bates ,1,0,Jamie Norwood,pX1-TNEpQ74,0.0,2014-07-07 00:13:44,False,True
+2014-07-07T00:27:41,GUYS Y YA MAKIN AWEFUL COMMENTS BOUT THIS?! IF YA HATE MELISSA MCCARTHY THEN YJA CLICK ON THE VIDEO?! MY GOD U PPL ARE STUPID?! DONT WATCH A VIDEO IF ITS ABOUT SOMETHIN THATCHA HATE?! HAVE SOME COMMON SENSE PPL?! STUPID MORONS?! >:(,0,0,futuramabender20,pX1-TNEpQ74,-0.8464285714285714,2014-07-07 00:27:41,False,True
+2014-07-07T00:28:29,MCCARTHY IS AWESOME! :D MY WHOLE FAMILY LOVES HER! :D,0,0,futuramabender20,pX1-TNEpQ74,0.8125,2014-07-07 00:28:29,False,True
+2014-07-07T03:03:18,"Melissa McCarthy is one of my favorite actresses in comedy films. But when I saw this movie, she completely wasted her talent throughout the entire film. The writing was so bad that it's just sad to see her do both of those things so embarrassing in her career. The movie didn't really crack me up and there were a whole bunch of characters I really didn't care about, and I just literally forgot what this movie was about. this movie might have disappointed me the most, but I know McCarthy can do better than that.",0,0,LordSheevy98,pX1-TNEpQ74,-0.00454545454545453,2014-07-07 03:03:18,False,True
+2014-07-07T03:50:03,"It's not as funny as you hoped it would be. Also,  ehy is Tammy such a loser? She is fat and poor. It gave me a heavy feeling in my heart.",0,0,DRCLBMZY,pX1-TNEpQ74,-0.08750000000000001,2014-07-07 03:50:03,False,True
+2014-07-07T05:13:35,The female Adam Sandler,0,0,Nick Old,pX1-TNEpQ74,0.0,2014-07-07 05:13:35,False,True
+2014-07-07T05:50:50,This fat waist of life make me sick,0,0,NICO FLOSS,pX1-TNEpQ74,-0.7142857142857143,2014-07-07 05:50:50,False,True
+2014-07-07T15:02:26,My name is Tammy... now my live's over T.T ,25,9,Tammy Garcia,pX1-TNEpQ74,0.13636363636363635,2014-07-07 15:02:26,False,True
+2014-07-07T23:49:14,"Now... I love Melissa McCarthy. I think she has great talent, and I loved her in Bridesmaids, the Heat, and in Mike and Molly.   However, I'm afraid Melissa is basically doing the same thing over and over. Playing the obnoxious, frizzy haired woman, and while she does it, umm, okay here, it's getting tiring to watch. That movie has gotten shit reviews, and I can see it in this trailer alone. It's Melissa McCarthy playing another Melissa McCarthy character, only this time, it's really starting to fall apart.   I hope she finds better roles. ",0,0,Missingangle,pX1-TNEpQ74,0.22000000000000003,2014-07-07 23:49:14,False,True
+2014-07-08T00:12:16,"Holy fuck does this look stupid, fuck this country for financially supporting absolute shit like this. God fucking dammit.",0,0,RedandBlackJack,pX1-TNEpQ74,-0.2785714285714286,2014-07-08 00:12:16,False,True
+2014-07-08T03:12:28,"I watched this last night...and I am crying over money that I gave for the ticket! Stupid, pointless movie!!! ",0,0,Buhtla88,pX1-TNEpQ74,-0.38457031249999996,2014-07-08 03:12:28,False,True
+2014-07-08T05:06:32,"Just saw this movie tonight. Terrible movie, over half the people in my theater room left with me.",0,0,Osco Crayon,pX1-TNEpQ74,-0.3888888888888889,2014-07-08 05:06:32,False,True
+2014-07-08T05:14:40,Worse movie ive seen so far.,0,0,yg5891,pX1-TNEpQ74,-0.15000000000000002,2014-07-08 05:14:40,False,True
+2014-07-08T13:34:11,Whats the song?,0,0,DeadEntity,pX1-TNEpQ74,0.0,2014-07-08 13:34:11,False,True
+2014-07-08T16:56:14,this movie is bullshit  god bless,1,0,MrFiask,pX1-TNEpQ74,0.0,2014-07-08 16:56:14,False,True
+2014-07-08T19:23:27,"wow, what has the world come to? you people are so fucking mean! jesus, take a breath! maybe the movie isn't the most original piece of work, just like all the other shit movies coming out lately. none of them are! we've run out of ideas! but the hate! my god! just accept these things and move on! and the amount of criticism and hate towards the woman in the film is just unbelievable! you may not like her and don't have to, but seriously guys. I have been scrolling through the comments and even I got butthurt over here just reading the awful things you people have written down. it's as if the fact that she is breathing is like a stab in the ass for you people.   get a fucking life. and maybe some therapy or just a way to release all of this hate you contain. she may be fat and to you 'ugly' or the movie may not be good, but COME ONNN!! ",18,2,Sara K.,pX1-TNEpQ74,-0.29461294934640525,2014-07-08 19:23:27,False,True
+2014-07-08T19:48:39,payday2 in a nutshell,0,0,Daniel Saric,pX1-TNEpQ74,0.0,2014-07-08 19:48:39,False,True
+2014-07-08T19:51:38,"1:15 , Nobody knows what they did after Tammy left... If you know what i mean. :3  ..Okay thats just creepy! :|",0,0,Sir Pepe,pX1-TNEpQ74,-0.109375,2014-07-08 19:51:38,False,True
+2014-07-08T21:16:31,What song is this ,0,0,Harry Davis,pX1-TNEpQ74,0.0,2014-07-08 21:16:31,False,True
+2014-07-09T02:14:32,The wasn't really funny as I was hoping it would be...,0,0,isabel rueda,pX1-TNEpQ74,0.25,2014-07-09 02:14:32,False,True
+2014-07-09T03:12:34,What's the name of the song,0,0,Danyal Punjwani,pX1-TNEpQ74,0.0,2014-07-09 03:12:34,False,True
+2014-07-09T03:32:13,just saw this movie!!! It was soooooo funny!! ,0,0,maggie hegy,pX1-TNEpQ74,0.390625,2014-07-09 03:32:13,False,True
+2014-07-09T06:52:57,"This movie is funny because it's true. Tammy is a perfect example of what an average American person is today....... slow, stupid, overweight, and obnoxious. ",0,0,Jay Sharp,pX1-TNEpQ74,0.05000000000000003,2014-07-09 06:52:57,False,True
+2014-07-09T07:39:36,Song is called gangster from coolio,0,0,grim sim,pX1-TNEpQ74,0.0,2014-07-09 07:39:36,False,True
+2014-07-09T11:36:30,Mmm hot blondes but not funny. ,0,0,Raven Revelation,pX1-TNEpQ74,0.0625,2014-07-09 11:36:30,False,True
+2014-07-10T02:50:24,What has the world come to that this is what a moviestar is nowadays...,0,0,jrag1000,pX1-TNEpQ74,0.0,2014-07-10 02:50:24,False,True
+2014-07-10T09:06:00,it would be funnier if she was black,1,0,kayyyy,pX1-TNEpQ74,-0.16666666666666666,2014-07-10 09:06:00,False,True
+2014-07-10T09:07:42,How is this funny? It goes on in america all the time its not like its rare lmfao,0,0,kayyyy,pX1-TNEpQ74,0.275,2014-07-10 09:07:42,False,True
+2014-07-11T02:24:07,I saw the movie it. Omg I almost died lmao XD,0,0,shayna mitchell,pX1-TNEpQ74,0.6,2014-07-11 02:24:07,False,True
+2014-07-11T18:45:18,I love her she's so funny and so sexy all you haters stop drinking hateraid,0,0,ZionicDanceFitness,pX1-TNEpQ74,0.4166666666666667,2014-07-11 18:45:18,False,True
+2014-07-11T21:16:37,This is one of those films where the trailer shows the best bits. This was really boring! Go watch 'Terms Of Endearment' ... that film was funnier!,0,0,utubecomment21,pX1-TNEpQ74,0.0,2014-07-11 21:16:37,False,True
+2014-07-12T00:40:48,Where the black people? Wtf!? Black culture movie but no black people!,0,0,Jay 1998,pX1-TNEpQ74,-0.21354166666666666,2014-07-12 00:40:48,False,True
+2014-07-12T06:59:13,This move is cool,0,0,Rosa Bravo,pX1-TNEpQ74,0.35,2014-07-12 06:59:13,False,True
+2014-07-12T12:35:14,yet another Ridiculous comedy .. sigh,0,0,Top EH Drops,pX1-TNEpQ74,-0.3333333333333333,2014-07-12 12:35:14,False,True
+2014-07-12T16:32:02,"omg i didnt know that people are so pathetic just because she is fat they feel disgusted to watch ? ?? faith in humanity is gone , like it or not but she is a better actress than most of those ""hot chicks"" ",0,0,Sou Archer,pX1-TNEpQ74,-0.15,2014-07-12 16:32:02,False,True
+2014-07-12T21:21:47,I want to watch this on putlocker so badly I hope it's good quality,0,0,Adin,pX1-TNEpQ74,5.551115123125783e-17,2014-07-12 21:21:47,False,True
+2014-07-13T03:00:26,"This movie was dumb as fuck. Same fucking character she plays in every movie. Loud, fat, and obnoxious.",1,0,Lornes Literal Asshole,pX1-TNEpQ74,-0.255,2014-07-13 03:00:26,False,True
+2014-07-13T14:35:04,:o|,0,0,Dead By Dawn Vids,pX1-TNEpQ74,0.05,2014-07-13 14:35:04,False,True
+2014-07-13T15:25:39,You act like y'all perfect y'all are fuckin pieces of shit for sayin that if u don't like the god damn movie why the fuck are you watchin it leave it alone .  While your there sittin watchin this there over there winin money and not waisting there life reading what you people have to say about her or the movie when u think this is gonna affect them u fuckin shit heads y'all piss me the fuck off with your comments thinking your better Ur probably twice as big as her so stop talkin shit,0,0,Maria Villalta,pX1-TNEpQ74,0.012499999999999997,2014-07-13 15:25:39,False,True
+2014-07-13T17:52:13,PSA: Funny is a matter of personal preference. Assholes.,0,0,FullMetalViking,pX1-TNEpQ74,0.125,2014-07-13 17:52:13,False,True
+2014-07-13T21:01:42,does anyone know what the song they use is?,0,0,barrelraces456,pX1-TNEpQ74,0.0,2014-07-13 21:01:42,False,True
+2014-07-13T22:58:09,She was so good in Gilmore Girls; what happened??,0,0,Jennifer Odedina,pX1-TNEpQ74,0.7,2014-07-13 22:58:09,False,True
+2014-07-13T23:07:39,freaking hilarious seen it today,0,0,Riley Lawson,pX1-TNEpQ74,0.5,2014-07-13 23:07:39,False,True
+2014-07-14T10:40:50,this looks like its gonna be so good!,0,0,Justin Prater,pX1-TNEpQ74,0.875,2014-07-14 10:40:50,False,True
+2014-07-14T18:20:28,"That was funny when she tried to lock the door with the spoon. Oh wait, no it wasn't. ",0,0,galavant,pX1-TNEpQ74,0.25,2014-07-14 18:20:28,False,True
+2014-07-15T10:43:35,I cannot wait to watch her upcoming movies. She is my fav. Actress <3 :) ,0,0,flybig56,pX1-TNEpQ74,0.75,2014-07-15 10:43:35,False,True
+2014-07-16T15:48:02,Melissa McCarthy is the new real comedian actor by nature ,1,0,Khaled,pX1-TNEpQ74,0.16818181818181818,2014-07-16 15:48:02,False,True
+2014-07-16T19:37:34,GOOD GOD SHES AMAZING,0,0,kaajal matai,pX1-TNEpQ74,0.65,2014-07-16 19:37:34,False,True
+2014-07-17T05:54:02,I loved this movie when I seen it my opinion tho ,0,0,Santair,pX1-TNEpQ74,0.7,2014-07-17 05:54:02,False,True
+2014-07-17T09:24:43,the wooden spoon scene tho LOL,0,0,twinkle kal,pX1-TNEpQ74,0.4,2014-07-17 09:24:43,False,True
+2014-07-17T16:28:48,omg that was funny as hell,0,0,Nicholai Tan,pX1-TNEpQ74,0.25,2014-07-17 16:28:48,False,True
+2014-07-18T20:25:30,WAS COOLIO IN THE CAR..........,0,0,richie m,pX1-TNEpQ74,0.0,2014-07-18 20:25:30,False,True
+2014-07-19T03:25:31,I love her so much but this movie sucked. I am not the type of person to hate on comedy but this movie bored the shit out of me. The only good parts were in the trailer. ,0,0,Mike E,pX1-TNEpQ74,-0.0142857142857143,2014-07-19 03:25:31,False,True
+2014-07-19T13:05:17,A really boring movie with barely any good comedy. I feel let down because Melissa is usually hilarious.,0,0,urmum212,pX1-TNEpQ74,0.01888888888888889,2014-07-19 13:05:17,False,True
+2014-07-19T13:47:15,"I LOVE Melissa! LOVED this movie! I started laughing from the first moment of this movie. Her expressions, the way she moves, the way she speaks in her character, she's HYSTERICAL! Best female comedian of the day!",0,0,Karen Boncela,pX1-TNEpQ74,0.2916666666666667,2014-07-19 13:47:15,False,True
+2014-07-19T22:47:43,give me song plz :D,0,0,habibo oranais,pX1-TNEpQ74,1.0,2014-07-19 22:47:43,False,True
+2014-07-19T22:55:58,i wanna music :D,0,0,habibo oranais,pX1-TNEpQ74,1.0,2014-07-19 22:55:58,False,True
+2014-07-20T02:34:13,Movie of the year. !,0,0,Ishaq Moutanabi Benaissa,pX1-TNEpQ74,0.0,2014-07-20 02:34:13,False,True
+2014-07-20T14:07:14,I don't know the hate to this movie. The movie is actually good.,0,0,Arnie Snow,pX1-TNEpQ74,-0.050000000000000044,2014-07-20 14:07:14,False,True
+2014-07-20T20:45:20,This movie is VERY False advertised ! I thought it would be funny like the hangover or something. This movie made me fall asleep . All its about is tammy & her grandmother travelling trying to find themselves. I WANT MY MONEY BACK. THERE IS NO STORYLINE ! SHE really disappointed me !,0,0,MYKibris Kupon,pX1-TNEpQ74,-0.33437500000000003,2014-07-20 20:45:20,False,True
+2014-07-21T09:19:07,Is this supposed to be funny?...,0,0,Mazerr123,pX1-TNEpQ74,0.25,2014-07-21 09:19:07,False,True
+2014-07-21T10:02:41,"I just wanted to eat everyone in this movie all of them with salsa dip, I'm a fat cunt and i don't care I'm hungry now....................again :(",0,0,Hando Crow,pX1-TNEpQ74,-0.75,2014-07-21 10:02:41,False,True
+2014-07-21T20:53:20,pallar inte feta människor,1,0,foom5,pX1-TNEpQ74,0.0,2014-07-21 20:53:20,False,True
+2014-07-21T22:32:24,them crocs tho (;,0,0,Johnny Bollinger,pX1-TNEpQ74,0.0,2014-07-21 22:32:24,False,True
+2014-07-22T21:12:58,when I saw the trailer I thought this is going to be hilarious then I watched it and it wasn't all that funny to be honest. I wasn't that impressed with this movie I wish it was funnier.. :(,0,0,Kabrea K,pX1-TNEpQ74,0.32,2014-07-22 21:12:58,False,True
+2014-07-23T00:09:17,This looks an ass movie i don't find her funny at all ! im not an american but i like some great movies from USA movie industry which is great but sometimes they make stupid movies and promote stupid actors and make them look great !,0,0,Karam D.,pX1-TNEpQ74,0.18750000000000006,2014-07-23 00:09:17,False,True
+2014-07-23T04:04:32,Don't waste your money this movie is boring AF,0,0,Robert Johnson,pX1-TNEpQ74,-0.6,2014-07-23 04:04:32,False,True
+2014-07-24T12:48:54,they couldnt of picked a better song than the legendary gangstas paradise - this movie looks like a laugh riot!,0,0,david sell,pX1-TNEpQ74,0.625,2014-07-24 12:48:54,False,True
+2014-07-24T21:17:32,"Melissa McCarthy is perfect. Stop commenting about someone's weight, that's fucking pathetic of you. Have some respect.",0,0,toxic.paradise,pX1-TNEpQ74,0.0,2014-07-24 21:17:32,False,True
+2014-07-25T06:24:21,I lovedddd this movie!,0,0,Crystal Medina,pX1-TNEpQ74,0.0,2014-07-25 06:24:21,False,True
+2014-07-26T17:31:58,Whats the song in the beginning ?,1,0,SwirL,pX1-TNEpQ74,0.0,2014-07-26 17:31:58,False,True
+2014-07-26T21:44:57,All u haters eat shit ... She's  the bomb,0,0,Diane MacDonald,pX1-TNEpQ74,-0.2,2014-07-26 21:44:57,False,True
+2014-07-27T09:58:52,"Melissa is such a good actor, she made Bridesmaids and The Heat absolutely hilarious! XD ",0,0,Madison Kane,pX1-TNEpQ74,0.44166666666666665,2014-07-27 09:58:52,False,True
+2014-07-27T13:40:09,"For those who thought Adam Sandler's Jack & Jill was bad, watch this!",0,0,BP,pX1-TNEpQ74,-0.8749999999999998,2014-07-27 13:40:09,False,True
+2014-07-27T23:26:42,she is a awesome person and actress,0,0,Amanda Vazquez,pX1-TNEpQ74,1.0,2014-07-27 23:26:42,False,True
+2014-07-28T02:45:19,This is better than the movie...don't waste your time and money.,0,0,SSD DHG,pX1-TNEpQ74,0.15,2014-07-28 02:45:19,False,True
+2014-07-28T21:50:22,American comeypdy..shake my damn head,0,0,pat ski,pX1-TNEpQ74,0.0,2014-07-28 21:50:22,False,True
+2014-07-29T00:51:18,This movie was really boring and it wasn't funny ,0,0,Giselle Melendez,pX1-TNEpQ74,-0.375,2014-07-29 00:51:18,False,True
+2014-07-29T01:35:42,And the Oscar goes to......the sick woman that shit in the sink in bridesmaids....oh what a great piece of golden cinema. ...the way she blasted that shit brilliant ....,0,0,Michael Wolf,pX1-TNEpQ74,0.04081632653061224,2014-07-29 01:35:42,False,True
+2014-07-29T01:39:50,Go ahead and attack me I think this woman is everything that is WRONG in today's movie comedy....when she is 85 she can look back on her shinning movie career and say oh yes I was the best blast shit in the sink actor that ever was....fuck this fuckin shit,0,0,Michael Wolf,pX1-TNEpQ74,0.019999999999999997,2014-07-29 01:39:50,False,True
+2014-07-29T14:56:28,I actually liked it... maybe I'm an idiot. :(,0,0,Anna L AWESOME,pX1-TNEpQ74,-0.3166666666666667,2014-07-29 14:56:28,False,True
+2014-07-30T02:03:23,Damn so many fucking haters but I have to agree with them this movie was fucking horrible save your time and money because this shit won't even make you smirk.,0,0,ThatGuy6463,pX1-TNEpQ74,-0.325,2014-07-30 02:03:23,False,True
+2014-08-01T04:54:13,"Yet another Melissa McCarthy character that is rude, loud and vulgar, she is the same character in every movie. The worse part of this pile of shit is that Tammy has no redeeming qualities, she is a bitch from start to finish.",0,0,All things The Arsenal,pX1-TNEpQ74,-0.24999999999999997,2014-08-01 04:54:13,False,True
+2014-08-01T04:54:39,"I just saw this movie, it's really good. The trailer makes it seem a whole lot worst than it actually is. I wouldn't say this is a hilarious comedy, it's actually a lot more touching than I though It'd be. But it is funny and just a pretty good movie overall.",0,0,Aaliyah Lucas,pX1-TNEpQ74,0.21666666666666665,2014-08-01 04:54:39,False,True
+2014-08-02T13:52:34," I haven't seen the movie yet but, melissa McCarthy is  Brilliant at what she do. It shouldn't matter what her Size is. She's very funny her movies are Knee Slapping funny. Even when she's playing in a Cameo. She does her Job. That's what I love about her. So Don't Just look at her size look at her Beautiful smile. Seems like she's happy.and to me  she's the Queen of Laughter. If I'm having a Bad  day Melissa makes me feel better. I'll  put in one of her movies or look at it on cable. She's amazing.  It's sad that in The National Enquirer  their talking about her saying she's  wrong for doing this movie their saying she's making Fun of Over weight people but, if they look close she's making fun of herself. And, if OWP take offense to this movie it's sad. I guess T.N.E. don't know MM. She's having fun being herself.so stop hating on her. I can't wait to see more movies in the Future so  keep up the Great work",0,0,Tanika Deadmon,pX1-TNEpQ74,0.2347222222222222,2014-08-02 13:52:34,False,True
+2014-08-03T03:33:36,Hahahahahaa it's so funny,0,0,Monica Guillen,pX1-TNEpQ74,0.25,2014-08-03 03:33:36,False,True
+2014-08-03T03:48:10,Had my heart broken by this woman named Tammy. But hoes gon be hoes so i couldnt blame Tammy.,0,0,Yoel Kanchelov,pX1-TNEpQ74,-0.4,2014-08-03 03:48:10,False,True
+2014-08-03T10:20:07,Tell da song name looooooool,1,0,Ritch Bang,pX1-TNEpQ74,0.0,2014-08-03 10:20:07,False,True
+2014-08-03T18:57:12,I heard that Melissa McCarthy's nickname was Elephant Legs.,0,0,Nazri Buang,pX1-TNEpQ74,0.0,2014-08-03 18:57:12,False,True
+2014-08-04T00:15:26,The song is called ganstas paradise,0,0,Layla Wright,pX1-TNEpQ74,0.0,2014-08-04 00:15:26,False,True
+2014-08-04T06:39:18,Saw this pic this evening.  So funny!  Perfect casting.  Thumbs up from me.  :),0,0,katmykittiesmom,pX1-TNEpQ74,0.6041666666666666,2014-08-04 06:39:18,False,True
+2014-08-04T13:55:39,I think this was the best movie ever made it is so funny I love Melissa Mcarthy! :),0,0,SamM19,pX1-TNEpQ74,0.59375,2014-08-04 13:55:39,False,True
+2014-08-04T15:48:20,what is song name  ???,0,0,Tahira Rzayeva,pX1-TNEpQ74,0.0,2014-08-04 15:48:20,False,True
+2014-08-05T04:55:17,What's the song at the beginning? ,0,0,Sigrid,pX1-TNEpQ74,0.0,2014-08-05 04:55:17,False,True
+2014-08-05T08:04:07,I love this movie,0,0,brianna h,pX1-TNEpQ74,0.5,2014-08-05 08:04:07,False,True
+2014-08-07T05:04:21,Gangster,0,0,Angel De Leon,pX1-TNEpQ74,0.0,2014-08-07 05:04:21,False,True
+2014-08-08T04:43:15,It is actually quite a good movie. The grandmother is the funniest lol,0,0,Wingnut Drever,pX1-TNEpQ74,0.5,2014-08-08 04:43:15,False,True
+2014-08-09T02:15:40,"20 million budget, nearly 90million gross so far. There is an audience for every movie and Melissa is hilarious, regardless of size.",1,1,Richard Gavilanes,pX1-TNEpQ74,0.175,2014-08-09 02:15:40,False,True
+2014-08-09T14:04:43,so fucking lame...,1,0,1blakklab1,pX1-TNEpQ74,-0.5,2014-08-09 14:04:43,False,True
+2014-08-09T23:18:29,"the movie sucked dick, i hated myself for watching it",2,0,Cman,pX1-TNEpQ74,-0.9,2014-08-09 23:18:29,False,True
+2014-08-10T14:12:50,Worst movie I've ever seen ,1,0,PoshJeck,pX1-TNEpQ74,-1.0,2014-08-10 14:12:50,False,True
+2014-08-10T15:41:41,This movie wasn't as funny as you think. It's an ''OKAY'' movie but i would never watch it a second time. The Trailer is better then the movie =.= It's ONE of THOSE movies. ,1,0,kai sky,pX1-TNEpQ74,0.3125,2014-08-10 15:41:41,False,True
+2014-08-12T11:53:42,what is the song name,0,0,Listed,pX1-TNEpQ74,0.0,2014-08-12 11:53:42,False,True
+2014-08-12T15:31:39,"This trailer is so funny, but the movie is kinda boring. It's funny because she is fat and she is wearing crocs!",1,0,Pål Rosenberg,pX1-TNEpQ74,-0.14583333333333334,2014-08-12 15:31:39,False,True
+2014-08-15T03:57:14,"Haha! This looks hilarious! And if anyone says I'm stupid or what for thinking a movie like this is stupid, ITS A FREAKING MOVIE. It was made for this! Plus, it's not like anything was harmed or whatever, some people will like it some won't. But don't go saying its stupid, it's a comedy, calm your ass!",0,0,toby r,pX1-TNEpQ74,-0.22499999999999995,2014-08-15 03:57:14,False,True
+2014-08-15T16:35:58,Dumbest comedy trailer I've seen!! LOLO (And I mean that in a good way)!  Too bad it's rated R! I don't watch rated R movies.,0,0,Kevon Alexander,pX1-TNEpQ74,-0.10416666666666659,2014-08-15 16:35:58,False,True
+2014-08-17T02:27:41,Bro really u had to mess up the moo oove like that lighten up like wow it's entertaining hop off,0,0,ALMIGHTY G GAMING,pX1-TNEpQ74,0.15625,2014-08-17 02:27:41,False,True
+2014-08-18T21:10:58,...should they have really offered her MORE pie?,0,0,Dennis,pX1-TNEpQ74,0.35,2014-08-18 21:10:58,False,True
+2014-08-19T05:13:33,what music?,0,0,Guchku Momsen,pX1-TNEpQ74,0.0,2014-08-19 05:13:33,False,True
+2014-08-24T12:20:54,"I love Melissa and this movie looks funny, wanna see it. ",0,0,rochelle,pX1-TNEpQ74,0.375,2014-08-24 12:20:54,False,True
+2014-08-25T07:50:31,what song is this please help,0,0,kirra jane moffitt,pX1-TNEpQ74,0.0,2014-08-25 07:50:31,False,True
+2014-08-26T18:55:05,looks funny XD,0,0,Hell's Fallen Angel,pX1-TNEpQ74,0.25,2014-08-26 18:55:05,False,True
+2014-08-28T21:47:27,She looks like honey boo boo's mom in this,0,0,ginerzinwonderland,pX1-TNEpQ74,0.0,2014-08-28 21:47:27,False,True
+2014-08-30T00:04:59,I am going to watch this movie tonight. It looks kinda funny!,0,0,Heather Wanamaker,pX1-TNEpQ74,0.3125,2014-08-30 00:04:59,False,True
+2014-08-30T18:29:10,Why does everyone take the piss out of Melissa?   She's just acting a character the producer wanted her to act like. She's generally a nice lady and i think it's fucking funny that you all gun her down but the reality is your all a bunch of sewer rats.   please jog on a remove your self you are no longer needed.,0,0,Inkwisitor,pX1-TNEpQ74,0.1736111111111111,2014-08-30 18:29:10,False,True
+2014-08-30T23:38:32,WHY IS EVERYONE HATING ITS JUST A MOVIE FOR PEOPLE TO HAVE A LAUGH ,0,0,bryson,pX1-TNEpQ74,0.3,2014-08-30 23:38:32,False,True
+2014-08-31T00:57:12,"""I wouldn't get sassy""!  LOL!",0,0,J9 Keystone,pX1-TNEpQ74,1.0,2014-08-31 00:57:12,False,True
+2014-09-01T23:38:15,Them crocs though😂,0,0,friendskitkat321,pX1-TNEpQ74,0.0,2014-09-01 23:38:15,False,True
+2014-09-02T02:39:33,como se llama la canción ? ,0,0,jose luis mostacero jimenez,pX1-TNEpQ74,0.0,2014-09-02 02:39:33,False,True
+2014-09-02T06:23:48,Well a movie for all those fat fucks to feel good about themselves. It's going to  be a porkfest in the cinema theaters.,0,1,Darius Dranca,pX1-TNEpQ74,0.7,2014-09-02 06:23:48,False,True
+2014-09-08T20:53:10,What is that song called?,0,0,CaptainAhoy,pX1-TNEpQ74,0.0,2014-09-08 20:53:10,False,True
+2014-09-09T18:19:47,What is the name of music ?,0,0,mashael alayd,pX1-TNEpQ74,0.0,2014-09-09 18:19:47,False,True
+2014-09-10T16:26:01,Love this movie & Melissa McCarthy! ,0,0,Michelle Stewart,pX1-TNEpQ74,0.625,2014-09-10 16:26:01,False,True
+2014-09-10T16:26:03,Love this movie & Melissa McCarthy! ,0,0,Michelle Stewart,pX1-TNEpQ74,0.625,2014-09-10 16:26:03,False,True
+2014-09-12T11:25:11,ز.    اغفر,0,0,kayed EISa,pX1-TNEpQ74,0.0,2014-09-12 11:25:11,False,True
+2014-09-12T15:12:19,What?,0,0,nelson kaboots,pX1-TNEpQ74,0.0,2014-09-12 15:12:19,False,True
+2014-09-24T21:49:05,I would like to watch that,0,0,Lama,pX1-TNEpQ74,0.0,2014-09-24 21:49:05,False,True
+2014-10-02T11:02:40,funny how people shat on this movie...but currently it has made almost 100 mil...from a budget of 20 mil.  what has any of you invested/worked on that became 5 fold in a few months? yer sad lives huh,0,0,James Ng,pX1-TNEpQ74,-0.1125,2014-10-02 11:02:40,False,False
+2014-10-08T11:02:32,Yeahhhhhh another comedy movie.,0,0,Sioeli Fangupo,pX1-TNEpQ74,0.0,2014-10-08 11:02:32,False,False
+2014-10-15T17:33:59,song please.,0,0,Марк Привалов,pX1-TNEpQ74,0.0,2014-10-15 17:33:59,False,False
+2014-10-16T03:35:39,Melissa McCarthy is better than this.,0,0,Cindy Palacio,pX1-TNEpQ74,0.5,2014-10-16 03:35:39,False,False
+2014-10-16T22:04:36,"hasn't she done this movie about 3 times already? All her shit is the same, she has one character.",0,0,Cameron Walsh,pX1-TNEpQ74,-0.1,2014-10-16 22:04:36,False,False
+2014-10-17T04:14:09,nice movie...,0,0,Eric Villaver,pX1-TNEpQ74,0.6,2014-10-17 04:14:09,False,False
+2014-10-19T06:35:50,what is song name?,0,0,Freemo Ganaga,pX1-TNEpQ74,0.0,2014-10-19 06:35:50,False,False
+2014-10-20T05:14:13,They are using the hell out of the fat actress. If only she was funny.,1,0,John Doe,pX1-TNEpQ74,0.125,2014-10-20 05:14:13,False,False
+2014-10-21T23:26:51,What Song?,0,0,Aaron Mejia,pX1-TNEpQ74,0.0,2014-10-21 23:26:51,False,False
+2014-10-22T05:44:52,There's a minute and 41 seconds I won't get back.  Holy shit this looks horrible!,0,0,Richard Santucci,pX1-TNEpQ74,-0.39999999999999997,2014-10-22 05:44:52,False,False
+2014-10-22T18:26:39,Et beh ça ne me donnes pas du tout envie de le voir !!! La bande annonce m'aura suffit !!!,0,0,Florian Lautescher,pX1-TNEpQ74,0.0,2014-10-22 18:26:39,False,False
+2014-10-25T02:50:23,Haha it may look stupid but it did give me a few laughs from just the trailer. ,0,0,Jeffrey Waldner Drumming,pX1-TNEpQ74,-0.2666666666666666,2014-10-25 02:50:23,False,False
+2014-10-25T20:40:41,"This is not funny, none of her movies are funny. I wish people would stop using her in movies, people are NOT this dumb, yet.",7,2,Murdoch,pX1-TNEpQ74,-0.08333333333333333,2014-10-25 20:40:41,False,False
+2014-10-27T01:13:59,i love mcCarthy but this movie was horrible. couldnt watch it all. ,0,0,cmulli,pX1-TNEpQ74,-0.25,2014-10-27 01:13:59,False,False
+2014-10-28T11:58:47,music? ,0,0,André Melo,pX1-TNEpQ74,0.0,2014-10-28 11:58:47,False,False
+2014-10-30T02:08:27,"Okay i logged in just so i could comment. I don't know why people are commenting so negatively to this. I LOVE this lady in all movies she has been in. I don't care if it's dumb because it's funny. It is comedy! If you don't agree then it's fine, but don't bash it so critically by saying stuff like, ""This world has no more hope!"" and shit like that. I am quite intelligent and educated but i enjoy humor like this a whole lot. Just let things be, instead of being a negative nancy about it all. I was not expecting so much negative feedback in the comments section. If Melissa comes to this page and scrolls through the comments, i want her to see that at least one person enjoys her work. ",0,0,Shani Morris,pX1-TNEpQ74,0.06944444444444443,2014-10-30 02:08:27,False,False
+2014-10-30T02:10:53,"the fat comments are to be ignored. I bet there is at least ONE fat person in your family who enjoys being that size. If not then you will have kids one day, whether it be grandkids or not. Don't be wicked to people through your words cuz karma is a bitch!",0,0,Shani Morris,pX1-TNEpQ74,-0.375,2014-10-30 02:10:53,False,False
+2014-10-30T08:51:57,AAHAHAHHAHA I LIKE THIS MOVIE AHAH,0,0,cristian lara,pX1-TNEpQ74,0.0,2014-10-30 08:51:57,False,False
+2014-10-31T03:27:46,"Omg!!  This looks hilarious x,D   and to all them conspiracy hippies in the comment section. STFU  ;)",0,0,GoodBurd,pX1-TNEpQ74,0.375,2014-10-31 03:27:46,False,False
+2014-11-01T18:29:52,"I enjoy this movie, funny and sarandon is always great and sexy",0,2,finter67,pX1-TNEpQ74,0.48750000000000004,2014-11-01 18:29:52,False,False
+2014-11-02T14:51:09,what is that song?,0,0,Florencia Madia,pX1-TNEpQ74,0.0,2014-11-02 14:51:09,False,False
+2014-11-04T09:43:37,"tbh, it wasnt that bad. i thought it would be super bad but it is actually quite ok",0,0,itsaLia,pX1-TNEpQ74,-0.11333333333333329,2014-11-04 09:43:37,False,False
+2014-11-08T13:54:12,sebe chistosa y chebere ,0,0,Vale Olmedo,pX1-TNEpQ74,0.0,2014-11-08 13:54:12,False,False
+2014-11-09T14:27:07,Haha! Loved that they used Coolio-Gangstas Paradise  xD Melissa is sooo funny :D,0,0,Aurum Anima,pX1-TNEpQ74,0.55,2014-11-09 14:27:07,False,False
+2014-11-14T00:24:47,The song?,0,0,LB cover channel,pX1-TNEpQ74,0.0,2014-11-14 00:24:47,False,False
+2014-11-16T16:02:12,I saw this movie last night best movie ever!!!,0,3,Linda Barcynski,pX1-TNEpQ74,0.5,2014-11-16 16:02:12,False,False
+2014-11-18T03:39:04,stupid stupid stupid,0,0,Tommy Sands,pX1-TNEpQ74,-0.7999999999999999,2014-11-18 03:39:04,False,False
+2014-11-24T00:13:41,Melissa McCarthy is such a good actress.. love the movie,0,0,Rosa Zamora,pX1-TNEpQ74,0.39999999999999997,2014-11-24 00:13:41,False,False
+2014-11-25T21:12:27,Can´t wait too,0,0,Isabel Gandarillas,pX1-TNEpQ74,0.0,2014-11-25 21:12:27,False,False
+2014-11-28T04:47:51,Only funny scene n this movie,0,0,Drew’s Movies,pX1-TNEpQ74,0.125,2014-11-28 04:47:51,False,False
+2014-11-29T13:21:13,"really really??? susan sarandon not even plays her mother but her GRANDMOTHER!!!! what!!!!!!!!!!!!! btw this movie its really really boring... dont waste your time... the trailer sell it to me,.. but dont watch it.... ",1,0,Desirée Rodríguez,pX1-TNEpQ74,-0.06666666666666667,2014-11-29 13:21:13,False,False
+2014-11-30T04:40:04,What's the song ,0,0,Pancake 650,pX1-TNEpQ74,0.0,2014-11-30 04:40:04,False,False
+2014-12-04T17:17:56,"Haha, great movie, especially the lesbian 4th of July party.",0,0,Jeeto Fuckface,pX1-TNEpQ74,0.3333333333333333,2014-12-04 17:17:56,False,False
+2014-12-06T23:21:15,0:15 when i see that I lost one pound,0,0,Trans Cutie Anonymous,pX1-TNEpQ74,0.0,2014-12-06 23:21:15,False,False
+2014-12-07T12:14:58,I watched 10  minutes then returned this movie. Don't waste your time.,0,0,JackGeezy,pX1-TNEpQ74,-0.2,2014-12-07 12:14:58,False,False
+2014-12-07T15:48:08,This movie could of been better,0,0,414MrMilwaukee,pX1-TNEpQ74,0.5,2014-12-07 15:48:08,False,False
+2014-12-10T22:28:29,Name of this song? :o I love it,0,0,Analina de paula pereira,pX1-TNEpQ74,0.275,2014-12-10 22:28:29,False,False
+2014-12-12T20:49:43,oh this song is sooooooooo OLD the BESTTTTTTTTTTTTTTTTTT,1,0,Zoeyinterface,pX1-TNEpQ74,0.1,2014-12-12 20:49:43,False,False
+2014-12-18T16:34:31,"Not funny.  And, I'd already seen it the first time when it was called IDENTITY THEFT.",0,0,Mike johnson,pX1-TNEpQ74,0.0625,2014-12-18 16:34:31,False,False
+2014-12-19T08:23:38,One of the shittiest movies of 2014. ,4,0,ghayath2011,pX1-TNEpQ74,0.0,2014-12-19 08:23:38,False,False
+2014-12-20T04:40:17,"Cannot stand this vulgar out of shape woman at all! She's always the same in every single movie, disgusting, vulgar & totally all about cokes, potato chip bags with no air &  fried foods, gross!",0,0,Momonoski,pX1-TNEpQ74,-0.3780612244897959,2014-12-20 04:40:17,False,False
+2014-12-25T15:44:19,"We won't have to get too used to her. With all that extra weight, she'll end up with diabetus (see what I did there?), HBP, and then she'll stroke out on a set somewhere. I like Melissa McCarthy, but she's obviously got some issues, like not being able to pass up the entire continental breakfast at the hotel. C'mon, Melissa, get it together.",0,2,Atouk,pX1-TNEpQ74,0.125,2014-12-25 15:44:19,False,False
+2014-12-27T03:55:14,I don't understand how she doesn't get reported to the police,0,0,Penigetti,pX1-TNEpQ74,0.0,2014-12-27 03:55:14,False,False
+2014-12-27T03:56:07,What does she throw on 0.12,0,0,Penigetti,pX1-TNEpQ74,0.0,2014-12-27 03:56:07,False,False
+2014-12-28T21:23:57,"I watched this movie yesterday and I didn't even finish it, I don't have anything against the actors and stuff but the movie itself was really idiotic so, and I know ppl have diff. Opinions but its just mine",0,0,Sana Ser,pX1-TNEpQ74,-0.6666666666666666,2014-12-28 21:23:57,False,False
+2014-12-29T16:30:09,wow how did this get so many likes? This is why Adam Sandler and this chick keep making stupid movies I guess people love to just gobble it up. I didn't laugh once at the trailer....incredibly bad sign. Yet I guess everyone is just gathered around their PCs laughing and hitting like? RIP Comedy,0,0,jdfrench86,pX1-TNEpQ74,-0.016666666666666625,2014-12-29 16:30:09,False,False
+2014-12-30T00:39:46,Cual es nombre de la cancion k empieza al inicio???,0,0,Manuel Torres,pX1-TNEpQ74,0.0,2014-12-30 00:39:46,False,False
+2014-12-30T07:04:41,Song?,0,0,callum boulton,pX1-TNEpQ74,0.0,2014-12-30 07:04:41,False,False
+2015-01-02T09:24:09,"Hey you mindless superficial assholes, shes over weight, who gives a shit!!!  Some of the funniest men in the past were fat, John belushi, John Candy, Chris Farley...yet a fat women is an abomination.... I hate our society",10,3,Mutant Podcast,pX1-TNEpQ74,-0.41015625,2015-01-02 09:24:09,False,False
+2015-01-05T23:42:05,Can someone please tell me what this song is called.,0,1,wendy,pX1-TNEpQ74,0.0,2015-01-05 23:42:05,False,False
+2015-01-11T04:38:10,what name song,0,1,Juan Francisco Monsivais Garcia,pX1-TNEpQ74,0.0,2015-01-11 04:38:10,False,False
+2015-01-17T14:39:59,pěkný film :-),0,0,santa klaus,pX1-TNEpQ74,0.5,2015-01-17 14:39:59,False,False
+2015-01-21T13:50:41,Made by and for dummys! Such useless film should be free of charge!,0,0,FHS Music Production,pX1-TNEpQ74,0.0,2015-01-21 13:50:41,False,False
+2015-01-21T15:16:52,Thank You!!!,0,0,wendy,pX1-TNEpQ74,0.0,2015-01-21 15:16:52,False,False
+2015-01-24T03:35:41,"Hello! Somebody tell me please , what is the name of the song in the background ? Thank you very much .",0,0,Angye Muñoz,pX1-TNEpQ74,0.26,2015-01-24 03:35:41,False,False
+2015-01-24T19:45:37,"i had high hopes for this movie but unfortunately it turns to be nothing but a movie you can watch while you are eating a meal just as a company and when you finish that meal then stop it and complete it any other time with another meal. but i can't lie that the most scene that shaked me quite hard is when Kathy Bates confronted Melissa McCarthy with ""for years you've been complaining about how your life sucks but you haven't done one single thing to make it better! it didn't magic!.. you know you can't just bitch and moan & expect shit to change"". that was powerful thinking about it!",1,0,side2 Side,pX1-TNEpQ74,0.07474206349206348,2015-01-24 19:45:37,False,False
+2015-02-02T19:20:40,Why do I find her fat ass so sexy????? :O she's got more chins than a Chinese phonebook!,0,0,Dean Pharis,pX1-TNEpQ74,0.2625,2015-02-02 19:20:40,False,False
+2015-02-05T05:51:20,Is this for real? LOOL,0,0,Margó Mdz,pX1-TNEpQ74,0.2,2015-02-05 05:51:20,False,False
+2015-02-06T10:26:44,Ron Sawnson would hate this,3,0,MESH MIESTER,pX1-TNEpQ74,-0.8,2015-02-06 10:26:44,False,False
+2015-02-07T22:15:14,"You guys that are hating on this women because she made a movie that you don't understand,shut the fuck up and get a fucking life,she has more money then you,she could care less what you assholes say because she's making alot  of money and she's happy, she is the funniest women I ever seen act on her movies,your just mad because your broke and untalented,and another thing..grow up! She wasn't born to entertain you big snot nose assholes",0,0,Ghost Evans,pX1-TNEpQ74,-0.0925595238095238,2015-02-07 22:15:14,False,False
+2015-02-07T22:20:29,And by the way I totally agree with Sara K.,0,0,Ghost Evans,pX1-TNEpQ74,0.0,2015-02-07 22:20:29,False,False
+2015-02-09T15:01:58,"watched the beginning of this movie and stopped after about 15 minutes. Man what a bad start for a movie! It was all just insanely stupid and nothing funny at all. Loved her other movies, but this was not gonna be something for me.",0,0,Stephanie van tongeren,pX1-TNEpQ74,-0.16999999999999998,2015-02-09 15:01:58,False,False
+2015-02-15T18:17:39,Lol!,0,0,Ann Oakes,pX1-TNEpQ74,1.0,2015-02-15 18:17:39,False,False
+2015-02-18T20:09:33,=^.^=,0,0,Gatto NineNineNine,pX1-TNEpQ74,0.0,2015-02-18 20:09:33,False,False
+2015-02-19T05:38:47,"""I want to see you take bath salts and eat her face off."" -Tammy https://www.facebook.com/video.php?v=355335974651987&pnref=story https://m.facebook.com/video.php?v=355335974651987&pnref=story",0,0,Tefen Ca,pX1-TNEpQ74,0.0,2015-02-19 05:38:47,False,False
+2015-02-24T21:52:09,"The movie is alright, this the only scene I thought was funny",0,0,Drew’s Movies,pX1-TNEpQ74,0.125,2015-02-24 21:52:09,False,False
+2015-03-01T06:11:40,"And, this is why you should go to college...",1,0,Nuketown1012 Does Roblox,pX1-TNEpQ74,0.0,2015-03-01 06:11:40,False,False
+2015-03-02T02:54:17,The Bonnie Character Pack Trailer,0,0,TrandoCommando,pX1-TNEpQ74,0.0,2015-03-02 02:54:17,False,False
+2015-03-06T14:31:21,"I watched the movie, only the first 40 minutes because I couldn't resist it was too fucking BOOOOORRRIIIINNG. WERE THE PRODUCERS EVEN SURE THEY HAD A PLOT???",0,0,Silver Lining,pX1-TNEpQ74,0.037500000000000006,2015-03-06 14:31:21,False,False
+2015-03-08T20:40:13,What is video music?? Please please.. ,0,2,Hatice Basoda,pX1-TNEpQ74,0.0,2015-03-08 20:40:13,False,False
+2015-03-13T09:49:43,"I have read so many negative reviews on this film.  People take this way too seriously. This may not of been very well scripted or directed, but Melissa's outstanding comedic ability really saves this movie. I absolutely love this woman, and people with their fucked up opinions about her weight or some bullshit that its a reflection on society is just stupid. What I am afraid of is this she may soon become forgettable, because she kind of does portray very similar characters in her most recent movies.",0,0,Francis W,pX1-TNEpQ74,-0.008888888888888894,2015-03-13 09:49:43,False,False
+2015-03-17T03:58:55,This woman is going to be a Ghostbuster. Think about that for a second.,1,0,Dan Williams,pX1-TNEpQ74,0.0,2015-03-17 03:58:55,False,False
+2015-03-23T10:22:46,What's the song at the start ,0,0,ashley elefson,pX1-TNEpQ74,0.0,2015-03-23 10:22:46,False,False
+2015-03-23T21:14:01,para quem não sabe a musica e ( 2pac-was i walk through the valley of the shadow of death) abraço,0,0,ricardopatriciareis,pX1-TNEpQ74,0.0,2015-03-23 21:14:01,False,False
+2015-04-16T03:07:16,This movie was very cute...I enjoyed it.  Melissa McCarthy is awesome.  Stop judging people just cuz of how they look like. ,11,2,Denys Hernandez,pX1-TNEpQ74,0.5666666666666667,2015-04-16 03:07:16,False,False
+2015-05-03T03:06:37,how is that song called,0,0,JOSEB MARTINEZ,pX1-TNEpQ74,0.0,2015-05-03 03:06:37,False,False
+2015-05-11T21:35:21,This trailer makes this movie look worse than it actually is. The movie is not so bad,0,0,melly 92,pX1-TNEpQ74,-0.36666666666666664,2015-05-11 21:35:21,False,False
+2015-05-13T06:42:44,"This movie looks funny as hell. Melissa McCarthy is a great actress, every movie i have seen her in she's hilarious",0,0,Witcher,pX1-TNEpQ74,0.5166666666666667,2015-05-13 06:42:44,False,False
+2015-05-14T01:24:51,alguém pode me informar  qual o nome da musica desse trailer  agradeço :),0,0,andre bengozi,pX1-TNEpQ74,0.5,2015-05-14 01:24:51,False,False
+2015-05-14T01:26:06,can anyone tell me what the name of this song thank :),0,0,andre bengozi,pX1-TNEpQ74,0.5,2015-05-14 01:26:06,False,False
+2015-05-14T03:07:39,thats song name????,0,1,Aagii Baa,pX1-TNEpQ74,0.0,2015-05-14 03:07:39,False,False
+2015-05-23T10:59:50,This movie is totally garbage.. Very sad,3,0,spyspade,pX1-TNEpQ74,-0.325,2015-05-23 10:59:50,False,False
+2015-05-25T02:41:32,"if blake lively did that movie, there'd be no comments about her look or weight!!",0,0,Jorge Anticona,pX1-TNEpQ74,0.2130681818181818,2015-05-25 02:41:32,False,False
+2015-05-31T20:13:38,What is the name of the song and who is the song by in the trailer,2,2,Sida Jurez,pX1-TNEpQ74,0.0,2015-05-31 20:13:38,False,False
+2015-06-12T19:42:17,What is this song called ,0,1,Dylan Gill,pX1-TNEpQ74,0.0,2015-06-12 19:42:17,False,False
+2015-06-28T09:32:58,This movie sucked.,1,0,TheLiZabe89,pX1-TNEpQ74,0.0,2015-06-28 09:32:58,False,False
+2015-07-25T14:25:23,Lol I hope the whole movie is as funny as that scene!,0,0,margaux0307,pX1-TNEpQ74,0.4375,2015-07-25 14:25:23,False,False
+2015-07-26T12:46:22,Music??? ,0,0,Ajsa Heyliger,pX1-TNEpQ74,0.0,2015-07-26 12:46:22,False,False
+2015-08-19T19:33:03,Me playing GTA V,0,0,♥Kawaii♥,pX1-TNEpQ74,0.0,2015-08-19 19:33:03,False,False
+2015-09-22T21:55:55,"for what is obviously seen by most movie critics as a forgettable and me too effort, after watching it the first time, its unexpectedly become a movie that never gets old.",0,0,RavenAbove,pX1-TNEpQ74,0.075,2015-09-22 21:55:55,False,False
+2015-10-27T11:52:23,what the song name in the movie,0,0,Tu Like,pX1-TNEpQ74,0.0,2015-10-27 11:52:23,False,False
+2015-12-03T00:08:25,I actually loved this movie. I really don't get all the hate about it. It cracked me up the whole time. I always wanted to get out of my city and just travel. One day I just did it and loved it! This movie just makes me want to get out there and explore some more!,6,0,jlt94earthwarrior1,pX1-TNEpQ74,0.3,2015-12-03 00:08:25,False,False
+2015-12-06T21:54:18,wath The song?,0,0,Nerd Brazil,pX1-TNEpQ74,0.0,2015-12-06 21:54:18,False,False
+2015-12-13T22:19:55,Komo se llama la canción? ??,0,0,Elizabeth Mtz,pX1-TNEpQ74,0.0,2015-12-13 22:19:55,False,False
+2015-12-27T03:10:05,Es la mejor atris de mundo amo,0,0,tuky ferrari,pX1-TNEpQ74,0.0,2015-12-27 03:10:05,False,False
+2016-01-29T05:26:07,cuál es el nombre de esa canción,0,1,carolina guillen,pX1-TNEpQ74,0.0,2016-01-29 05:26:07,False,False
+2016-02-05T08:49:25,u know that my name is tammy right.. why u need to tease me..this movie...😞,0,0,Tammy Lestari,pX1-TNEpQ74,0.2857142857142857,2016-02-05 08:49:25,False,False
+2016-02-19T23:16:51,Whats Name has this rap ?,0,1,Petra & Bernd Vehling,pX1-TNEpQ74,0.0,2016-02-19 23:16:51,False,False
+2016-03-04T17:48:28,Well that was dumb,0,0,Killer Memestar,pX1-TNEpQ74,-0.375,2016-03-04 17:48:28,False,False
+2016-03-05T02:05:45,TIPICO ESTADOUNIDENSE OBESO..!,3,0,pablogamer 38479,pX1-TNEpQ74,0.0,2016-03-05 02:05:45,False,False
+2016-04-09T20:49:44,another lame racist movie by guilt tripped hollywood liberals to make working class whites look stupid and ugly .nothing is funny about it.,0,0,sphincter,pX1-TNEpQ74,-0.43749999999999994,2016-04-09 20:49:44,False,False
+2016-05-17T09:44:12,don Omar,0,0,Jesus Lopez,pX1-TNEpQ74,0.0,2016-05-17 09:44:12,False,False
+2016-06-23T21:11:19,what if tammy met a dinosaur,0,0,Thing You Know,pX1-TNEpQ74,0.0,2016-06-23 21:11:19,False,False
+2016-07-14T10:54:58,"This trailer has a positive like dislike ratio and people in the comments consider it funny? Holy shit this is Adam Sandler comedy at best, silly slapstick and goofs at which only kids and simple minded people might laugh, the jokes are forced and rely only on melissas fat, fucking cinema money milkers, have people forgot about the subtle humor? the burlesque?  I miss the good old days from the late 90's and early 2000's when comedy masterpieces would rely on farcial and situational comedy, movie producers treat us the audience like some fucking kids with every production made lately, every superhero movie is blank and soulless but they make sure to add a line in which ""insert your favourite superhero"" makes a joke about another superhero so that people may make memes on fucking 9gag, and this bitch mellusa is a fucking terrible actor, but hey people must like her because she is fat or because she is a women otherwise it would be sexism, and this shit gets to on my nerves lately even more with the new ghostbusters movie .. worst idea i've seen in a while, and it goes something like this ""hey how about we remake a movie that was good but instead of male characters how about we change them to female characters, because women are equal to men"" all this without adding nothing to the story, to the concept, it feeds of the status the movie had, the difference is that the original movie made that status itself,  I want to kill myself.",0,0,eqw321,pX1-TNEpQ74,-0.0420217803030303,2016-07-14 10:54:58,False,False
+2016-08-05T10:07:59,she's funny. the movie wasn't.,1,0,Luceen,pX1-TNEpQ74,0.25,2016-08-05 10:07:59,False,False
+2016-09-01T00:37:18,no manched una pelicula con mi nombre :v soy famosa :D,0,1,Tammy Gamer Play YT,pX1-TNEpQ74,1.0,2016-09-01 00:37:18,False,False
+2016-11-05T12:01:21,what's the name of the inicial song?,1,2,Marta Lima,pX1-TNEpQ74,0.0,2016-11-05 12:01:21,False,False
+2016-12-17T01:18:14,qual o nome da música,0,0,Lucas Silva,pX1-TNEpQ74,0.0,2016-12-17 01:18:14,False,False
+2016-12-17T01:24:36,qual nome da música por favor 😱,0,1,flavio oliveira,pX1-TNEpQ74,0.0,2016-12-17 01:24:36,False,False
+2016-12-17T01:26:50,Também quero saber o nome dessa música. Kkk,0,0,Marcos Caique,pX1-TNEpQ74,0.0,2016-12-17 01:26:50,False,False
+2016-12-17T01:33:04,Nome da música é coolio gangster's paradise 🙌😎,0,1,Melhores Momentos,pX1-TNEpQ74,0.0,2016-12-17 01:33:04,False,False
+2016-12-17T02:20:37,Qual é o nome da música a hora que ela vai assaltar o lugar?,0,0,Canal Da Isah,pX1-TNEpQ74,0.0,2016-12-17 02:20:37,False,False
+2016-12-31T13:19:37,name music ?,0,0,Júh S2,pX1-TNEpQ74,0.0,2016-12-31 13:19:37,False,False
+2017-04-03T02:43:55,"Man, I would had to be the boyfriend who was forced to see this garbage. I'd leave her right there. They would try to explain to me how this is supposed to be funny. ""You see she's fat..."" :)",0,0,Clint Hammer,pX1-TNEpQ74,0.1839285714285714,2017-04-03 02:43:55,False,False
+2017-05-02T02:02:43,music?,0,0,Jhonatan Luís - MKT DIGITAL,pX1-TNEpQ74,0.0,2017-05-02 02:02:43,False,False
+2017-05-03T00:33:54,qual o nome da música?,0,0,Maria Justino,pX1-TNEpQ74,0.0,2017-05-03 00:33:54,False,False
+2017-05-03T02:26:02,music?,0,0,Lord Matheus,pX1-TNEpQ74,0.0,2017-05-03 02:26:02,False,False
+2017-05-03T12:32:12,What is the name of the song 00:00???,0,0,Headphone Killer Brasil,pX1-TNEpQ74,0.0,2017-05-03 12:32:12,False,False
+2017-05-19T20:31:41,This movie had *SO* much potential....,0,0,shooting as CK,pX1-TNEpQ74,0.0,2017-05-19 20:31:41,False,False
+2017-05-28T21:49:26,Music Please ?,0,0,Headphone Killer Brasil,pX1-TNEpQ74,0.0,2017-05-28 21:49:26,False,False
+2017-07-05T02:50:58,lollll,0,0,Amber krill,pX1-TNEpQ74,0.0,2017-07-05 02:50:58,False,False
+2017-09-04T00:30:20,What's the song in this video,0,0,Derris Lenobel,pX1-TNEpQ74,0.0,2017-09-04 00:30:20,False,False
+2017-10-10T04:32:53,"About one third of the video views on this came from me, just saying' LMAO",1,0,Elusive Animator,pX1-TNEpQ74,0.3,2017-10-10 04:32:53,False,False
+2017-10-20T06:41:45,Jesus christ people obviously everybody in the comments finds it funny or not but funniness​ is a matter of opinion and its all the people who say that its not are griping about it. Chill not everybody has to like the same fucking movies,0,0,Dr. Cookie,pX1-TNEpQ74,-0.0875,2017-10-20 06:41:45,False,False
+2017-12-22T18:21:57,This is the only movie trailer that I liked enough to look up and watch again.,0,0,Flirty Toast,pX1-TNEpQ74,0.19999999999999998,2017-12-22 18:21:57,False,False
+2018-04-24T19:41:31,Alguém sabe o nome dessa música?,0,0,Allan Duarte,pX1-TNEpQ74,0.0,2018-04-24 19:41:31,False,False
+2018-04-24T22:52:46,What is name of song?,0,1,Eduardo Alex Oliveira,pX1-TNEpQ74,0.0,2018-04-24 22:52:46,False,False
+2018-04-24T23:42:42,Música do trailer do filme alguém sabe?,0,0,Mateus Silva,pX1-TNEpQ74,0.0,2018-04-24 23:42:42,False,False
+2018-05-14T20:06:29,"""That's your finger..."" *""IS IT?""*",0,0,Mely Diaz,pX1-TNEpQ74,0.0,2018-05-14 20:06:29,False,False
+2018-09-03T22:53:22,*WHEN THE CHOIR SINGS,0,0,Christian Javier,pX1-TNEpQ74,0.0,2018-09-03 22:53:22,False,False
+2018-09-09T18:49:27,I loved her,1,0,Artur Jalil,pX1-TNEpQ74,0.7,2018-09-09 18:49:27,False,False
+2018-09-28T15:18:19,dat movie was funny as fuck...,0,0,brandon castillo,pX1-TNEpQ74,-0.07500000000000001,2018-09-28 15:18:19,False,False
+2018-11-29T15:51:02,what name music?,0,0,Rafael Vidal Martins,pX1-TNEpQ74,0.0,2018-11-29 15:51:02,False,False
+2018-12-04T21:06:33,"It's funny, because she is fat.",0,0,ArmInYan,pX1-TNEpQ74,0.25,2018-12-04 21:06:33,False,False
+2018-12-18T04:45:11,What song is that,0,0,B Soria,pX1-TNEpQ74,0.0,2018-12-18 04:45:11,False,False
+2018-12-26T07:34:29,"I love Melissa McCarthy. But this movie was terrible. It was funny for like the first 10 minutes, then... ugh. The Boss and Life of the Party were much better.",0,0,Anonymous,pX1-TNEpQ74,0.1,2018-12-26 07:34:29,False,False
+2019-02-26T15:34:53,song name ???,0,0,Shagdarsurem Shagaa,pX1-TNEpQ74,0.0,2019-02-26 15:34:53,False,False
+2019-03-19T02:21:32,Alguien sabe como se llama la canción que sale de fondo?,0,1,Alexis ivette Madrigal,pX1-TNEpQ74,0.0,2019-03-19 02:21:32,False,False
+2019-08-27T19:09:33,The fact that she put eyebrows on the paper bag 😂,0,0,Nerdy Nerd-Bot,pX1-TNEpQ74,0.0,2019-08-27 19:09:33,False,False
+2019-10-04T19:02:37,Good movie 🎥,0,0,msariah,pX1-TNEpQ74,0.7,2019-10-04 19:02:37,False,False
+2019-11-13T18:47:36,My friends family was in this movie,0,0,Jacob Allen,pX1-TNEpQ74,0.0,2019-11-13 18:47:36,False,False
+2019-12-13T06:43:40,What is the song,0,0,EL BERNY,pX1-TNEpQ74,0.0,2019-12-13 06:43:40,False,False
+2020-01-07T22:27:22,0:01 name music ?,1,1,Dilaurentis_TW I,pX1-TNEpQ74,0.0,2020-01-07 22:27:22,False,False
+2020-02-22T18:13:21,Omg 😂 I love this lady,0,0,Robert Scaife,pX1-TNEpQ74,0.5,2020-02-22 18:13:21,False,False
+2020-02-24T05:34:02,It's so great how she salutes the veteran,0,0,Robert Scaife,pX1-TNEpQ74,0.4,2020-02-24 05:34:02,False,False
+2020-06-06T01:36:35,I watch 100 times,0,0,Tan Xin Lin Ifra,pX1-TNEpQ74,0.0,2020-06-06 01:36:35,False,False

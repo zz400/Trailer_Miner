@@ -1,0 +1,836 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2016-10-06T17:22:43,firs1,0,1,Snider J,7BcG14OSB-k,0.0,2016-10-06 17:22:43,True,True
+2016-10-06T17:25:29,it could be a fun,1,0,Snider J,7BcG14OSB-k,0.3,2016-10-06 17:25:29,True,True
+2016-10-06T17:30:06,Does anyone knows a title of the song in the end of this trailer?,2,0,Julia B,7BcG14OSB-k,0.0,2016-10-06 17:30:06,True,True
+2016-10-06T17:38:00,like numero 15,0,0,Martha Caraveo,7BcG14OSB-k,0.0,2016-10-06 17:38:00,True,True
+2016-10-06T18:29:22,this looks fun,74,5,Saud Shah,7BcG14OSB-k,0.3,2016-10-06 18:29:22,True,True
+2016-10-06T19:06:16,I cant watch this trailer without thinking about the Honest Trailer guy.,43,2,kbm9236,7BcG14OSB-k,0.6,2016-10-06 19:06:16,True,True
+2016-10-06T19:08:09,"This looks, very, average..",9,0,A5ylumPri5oner,7BcG14OSB-k,-0.195,2016-10-06 19:08:09,True,True
+2016-10-06T20:50:42,1:50 FLEETWOOD FUCKING YAK!!!,0,0,Lloyd Turquoise,7BcG14OSB-k,-1.0,2016-10-06 20:50:42,True,True
+2016-10-06T20:55:20,What the fuck is this.,2,1,David C Cruz,7BcG14OSB-k,-0.4,2016-10-06 20:55:20,True,True
+2016-10-06T22:30:57,"I feel bad but whenever I hear that trailer guys voice I can't take movie trailers seriously.   I'll say at least while I'm not at all excited for this, it at least doesn't look like complete trash,",2,0,StephySon,7BcG14OSB-k,-0.19305555555555554,2016-10-06 22:30:57,True,True
+2016-10-06T23:11:48,its like that two strings movie,20,9,azaeleia,7BcG14OSB-k,0.0,2016-10-06 23:11:48,True,True
+2016-10-07T01:58:13,looks very boring......,29,0,kemuael,7BcG14OSB-k,-1.0,2016-10-07 01:58:13,True,True
+2016-10-07T02:54:11,How furries were born,0,0,⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻,7BcG14OSB-k,0.0,2016-10-07 02:54:11,True,True
+2016-10-07T02:59:43,Different angle of Zootopia?,1,2,hotjamme,7BcG14OSB-k,0.0,2016-10-07 02:59:43,True,True
+2016-10-07T05:06:27,So it's an outdated rockstar story but with animals...okay,0,0,LesManga Musique,7BcG14OSB-k,-0.4000000000000001,2016-10-07 05:06:27,True,True
+2016-10-07T06:42:02,Zootopia 3!!!,1,0,Alex Velasquez,7BcG14OSB-k,0.0,2016-10-07 06:42:02,True,True
+2016-10-07T07:42:16,So... Sing + Zootopia... anyone else getting these vibes?,178,21,dulangnz,7BcG14OSB-k,0.0,2016-10-07 07:42:16,True,True
+2016-10-07T14:17:52,Looking good so far,3,0,Lily Woodrow,7BcG14OSB-k,0.39999999999999997,2016-10-07 14:17:52,True,True
+2016-10-07T15:58:41,Hope is not Norm of the North,8,1,Neptuno,7BcG14OSB-k,0.0,2016-10-07 15:58:41,True,True
+2016-10-07T17:08:09,"once again wolves are the antagonists, can we switch it up for once?",355,51,ktwithayee,7BcG14OSB-k,0.0,2016-10-07 17:08:09,True,True
+2016-10-07T17:11:24,Some people have no business making trailer,0,0,Zhin Null,7BcG14OSB-k,0.0,2016-10-07 17:11:24,True,True
+2016-10-07T17:36:11,jeez stupid people hating on this,0,0,Xuxi,7BcG14OSB-k,-0.7999999999999999,2016-10-07 17:36:11,True,True
+2016-10-07T21:47:21,Lewis Black and J.K. Simmons make me want to see this film,3,0,MrChievious,7BcG14OSB-k,-0.16666666666666666,2016-10-07 21:47:21,True,True
+2016-10-07T23:53:02,This seems racist for no reason,1,0,Delilah Sanchez,7BcG14OSB-k,0.0,2016-10-07 23:53:02,True,True
+2016-10-08T02:19:29,From the Co-Director of Toy Story 2... OK This whole thing looked very awkward,1,0,Nastybeanlady,7BcG14OSB-k,-0.02666666666666669,2016-10-08 02:19:29,True,True
+2016-10-08T07:09:25,"Good title, great story. im in.",2,0,9/30 Studios,7BcG14OSB-k,0.75,2016-10-08 07:09:25,True,True
+2016-10-08T10:45:22,wtf,0,0,Smurfette101,7BcG14OSB-k,-0.5,2016-10-08 10:45:22,True,True
+2016-10-08T17:02:18,"0:21 ""I like it *tight!*""",0,1,BigBro 442,7BcG14OSB-k,-0.22321428571428573,2016-10-08 17:02:18,True,True
+2016-10-08T18:04:29,Exactly,0,0,MatteoStudios,7BcG14OSB-k,0.25,2016-10-08 18:04:29,True,True
+2016-10-08T20:14:49,"Bunn- I mean dog, leaves small town where they're expected to be a carrot farm- I mean, guard dog, and heads to Zootop- I mean, the city to become a police offic- I mean musician",831,63,IntroSpecktive,7BcG14OSB-k,-0.26666666666666666,2016-10-08 20:14:49,True,True
+2016-10-08T20:42:53,"Hun, a trailer with now crude content. FINALLY! Also, this movie looks good.",2,0,UniqueHybridDragon,7BcG14OSB-k,0.0,2016-10-08 20:42:53,True,True
+2016-10-08T20:53:19,"All I can say is ""interesting""  I'll wait for the release",0,0,Tracks Darren,7BcG14OSB-k,0.5,2016-10-08 20:53:19,True,True
+2016-10-08T21:22:06,"Furries everywhere call it ""A dream come true"".",1,0,Frank Castle,7BcG14OSB-k,0.35,2016-10-08 21:22:06,True,True
+2016-10-08T21:54:40,"If he was actually a guard and used magic powers it would be more interesting than ""going to the big city to become a musician""! What the hell!?",47,1,MrMister681,7BcG14OSB-k,0.3,2016-10-08 21:54:40,True,True
+2016-10-08T22:35:21,Looks like a copy of barnyard.,0,0,Be Backhanded,7BcG14OSB-k,0.0,2016-10-08 22:35:21,True,True
+2016-10-08T22:56:49,is this a joke,1,0,basicasian,7BcG14OSB-k,0.0,2016-10-08 22:56:49,True,True
+2016-10-08T22:57:46,How long do you guys think it will take till furries get to this?,2,0,Shinji the Dog,7BcG14OSB-k,-0.05,2016-10-08 22:57:46,True,True
+2016-10-08T23:42:48,Norm of the North 2,10,1,Gandalf The Wizard,7BcG14OSB-k,0.0,2016-10-08 23:42:48,True,True
+2016-10-08T23:58:21,"Looks boring. Also, pretty sure you saw the whole movie in this trailer.",301,11,WTF Is This,7BcG14OSB-k,-0.012499999999999997,2016-10-08 23:58:21,True,True
+2016-10-09T00:07:02,Everything else is fine but you really showed us how he beats the wolves with his powers amplified through his instrument. I mean it's easy to guess but showing it just seems dumb.,1,0,A P,7BcG14OSB-k,0.07250000000000001,2016-10-09 00:07:02,True,True
+2016-10-09T00:17:15,Who else going to see it because of JK Simmons,0,0,Now that's 20% cooler,7BcG14OSB-k,0.0,2016-10-09 00:17:15,True,True
+2016-10-09T00:46:15,Someone wake me up after the trailer... 😴,0,0,Toni Kavorkias,7BcG14OSB-k,0.0,2016-10-09 00:46:15,True,True
+2016-10-09T00:54:16,My friend bernard has a more original and interesting plot then this.,58,17,dead inside,7BcG14OSB-k,0.4583333333333333,2016-10-09 00:54:16,True,True
+2016-10-09T01:09:55,Starting with narration isn't a good sign.,203,5,alfa8fake2,7BcG14OSB-k,0.35,2016-10-09 01:09:55,True,True
+2016-10-09T04:00:19,What is it about movie trailers that begin with deep voiced narrations that turn me off from the actual film?,32,0,Red Bullet,7BcG14OSB-k,0.0,2016-10-09 04:00:19,True,True
+2016-10-09T04:33:28,Is this movie funded by a Chinese media group?,33,19,nickmeistersa,7BcG14OSB-k,0.0,2016-10-09 04:33:28,True,True
+2016-10-09T05:25:40,this reminds me something... ah! Zootopia OwO  everyone is furry =3 yeh...,1,0,Tatokun,7BcG14OSB-k,0.0,2016-10-09 05:25:40,True,True
+2016-10-09T05:26:21,So.. How many was animal furries films that has came this year ? Like 10 or something ?,5,0,Sea Mockingbird,7BcG14OSB-k,0.5,2016-10-09 05:26:21,True,True
+2016-10-09T06:22:57,More furry to the next year it's so cool :'3 fallow me in facebook :v Chris McCloud(?  I love this xd,1,0,Chris McCloud,7BcG14OSB-k,0.3375,2016-10-09 06:22:57,True,True
+2016-10-09T13:24:34,cute movie! 😍❤❤❤,0,0,onlinesocial net,7BcG14OSB-k,0.625,2016-10-09 13:24:34,True,True
+2016-10-09T16:47:57,Chinese excuse for Zootopia?,0,0,PAPER FRIENDS,7BcG14OSB-k,-0.025,2016-10-09 16:47:57,True,True
+2016-10-09T21:26:38,Zootopia? :v,0,0,Matheus Lopes,7BcG14OSB-k,0.0,2016-10-09 21:26:38,True,True
+2016-10-10T02:00:55,Is anybody getting norm of the north vibes.,218,14,Lucas Shumake,7BcG14OSB-k,0.0,2016-10-10 02:00:55,True,True
+2016-10-10T02:35:02,Fun Fact it's Coming out on my b-day,0,0,Queen Mal,7BcG14OSB-k,0.3,2016-10-10 02:35:02,True,True
+2016-10-10T02:54:22,I'll  Rader watch this than the ballerina one :v,0,0,Minamy Jul,7BcG14OSB-k,0.0,2016-10-10 02:54:22,True,True
+2016-10-10T03:57:22,"Somehing's already wrong. Dogs are color blind,They wouldn't know to change the red phone",0,2,Ms.Devin Guy,7BcG14OSB-k,-0.25,2016-10-10 03:57:22,True,True
+2016-10-10T03:57:25,"Sooo, Kung Fu Panda mixed with Zootopia.",423,27,Randomosity,7BcG14OSB-k,0.0,2016-10-10 03:57:25,True,True
+2016-10-10T13:12:24,"From the co-director of toy story 2. lmao...that sounds so far away...  like... from the sister's, brother's, ex-husband, ex-widowed, daughter's son-in-law,cousin's,grandfather's,co-director of Toy story 2.   oh yeah he's related to the director of toy story 2! this movie must be good.",68,7,Spyx,7BcG14OSB-k,0.26666666666666666,2016-10-10 13:12:24,True,True
+2016-10-10T15:11:53,"I'm excited! Been waiting for this ever since I saw Book of Life and Free Birds. Reel FX Creative Studios produces all 3 films, so I have high hopes for this one! :)",1,1,Nikki Espinosa,7BcG14OSB-k,0.41374999999999995,2016-10-10 15:11:53,True,True
+2016-10-10T15:19:55,"How to literally rip-off ""Zootopia"", ""Kubo and the Two Strings"", ""Sing"" and some ""king fu panda"" parts",8,0,Otactwo daje mi raka instant,7BcG14OSB-k,-0.4,2016-10-10 15:19:55,True,True
+2016-10-10T17:40:53,Not gonna lie Eddie Izzard is the only thing that got my attention.,4,0,TheAwesomeAmericanWonder,7BcG14OSB-k,0.0,2016-10-10 17:40:53,True,True
+2016-10-10T22:29:55,1:55 DOES THAT NOT LOOK FAMILIAR?!!!????!,0,0,Joshua Ferrer,7BcG14OSB-k,0.91552734375,2016-10-10 22:29:55,True,True
+2016-10-10T22:32:07,Another one of those follow your dream movies :L,0,0,Brodbrody,7BcG14OSB-k,0.0,2016-10-10 22:32:07,True,True
+2016-10-10T23:42:09,sing?,0,0,Mercy Coughey,7BcG14OSB-k,0.0,2016-10-10 23:42:09,True,True
+2016-10-11T00:47:33,"When you hear that narrator voice, you know it's going to suck.",0,0,Mr. Duck,7BcG14OSB-k,0.0,2016-10-11 00:47:33,True,True
+2016-10-11T02:19:57,"Oh sure, now that DISNEY started catering to furries now EVERYONE wants a slice of that action",0,0,IWasWinona,7BcG14OSB-k,0.26666666666666666,2016-10-11 02:19:57,True,True
+2016-10-11T13:05:14,Looks like we get another generation of furries.,0,0,Lukia The Dino,7BcG14OSB-k,0.0,2016-10-11 13:05:14,True,True
+2016-10-11T15:56:13,Too many clichés.,3,0,owen,7BcG14OSB-k,0.5,2016-10-11 15:56:13,True,True
+2016-10-11T18:27:36,Sam Elliot and J.k Simmons eeeeee😇😇😇😇😇,0,0,The Disney Historian,7BcG14OSB-k,0.0,2016-10-11 18:27:36,True,True
+2016-10-11T22:38:46,The film looks like a PlayStation game called Parappa the Rapper but this is still average,0,0,FishyLemonDude,7BcG14OSB-k,-0.275,2016-10-11 22:38:46,True,True
+2016-10-11T23:28:50,"Wait a minute... a dog that can shoo ENERGY BALLS from his PAWS wants to be a MUSICIAN??? LOL If I was him, I'd be abusing the hell out of that power.",202,10,AlfredEiji,7BcG14OSB-k,0.5,2016-10-11 23:28:50,True,True
+2016-10-12T01:34:16,Feel like I just watched 3/4 of the movie,11,0,Jae Phillips,7BcG14OSB-k,0.0,2016-10-12 01:34:16,True,True
+2016-10-12T01:42:21,Wut?,0,0,Austin 'N' Suff,7BcG14OSB-k,0.0,2016-10-12 01:42:21,True,True
+2016-10-12T01:43:13,From the Co-director of Toy Story 2? HA!,0,0,Austin 'N' Suff,7BcG14OSB-k,0.0,2016-10-12 01:43:13,True,True
+2016-10-12T04:42:55,"Yikes, brutal.",0,0,captainjack8319,7BcG14OSB-k,-0.875,2016-10-12 04:42:55,True,True
+2016-10-12T06:34:02,movie quality goes low low low low low...,1,0,Old man Esteban,7BcG14OSB-k,0.0,2016-10-12 06:34:02,True,True
+2016-10-12T12:34:41,zootopia animal who wants to become something different than its species do and goes to big city to achieve it rock dog animal who wants to become something different than its species do and goes to big city to achieve it.,0,0,Jane Peters,7BcG14OSB-k,0.06666666666666667,2016-10-12 12:34:41,True,True
+2016-10-12T12:45:10,here comes the furries,0,0,ragtagmagnum ladanaum,7BcG14OSB-k,0.0,2016-10-12 12:45:10,True,True
+2016-10-13T11:36:50,wow,1,0,【WØP】Blood,7BcG14OSB-k,0.1,2016-10-13 11:36:50,True,True
+2016-10-13T14:32:21,Rockruff.,0,0,King Kazma,7BcG14OSB-k,0.0,2016-10-13 14:32:21,True,True
+2016-10-13T14:56:52,Why do parts of this feel like a kids version of Inside Llewyn Davis?,0,0,NS,7BcG14OSB-k,0.0,2016-10-13 14:56:52,True,True
+2016-10-13T21:39:46,"This animation looks like shit honestly, not the story, I mean how it is animated, it looks like its made in 2008 honostly",6,6,SoulGamingHD,7BcG14OSB-k,-0.2708333333333333,2016-10-13 21:39:46,True,True
+2016-10-13T21:48:02,looks like some crappy dr Zeus story,0,0,Robbie Miller,7BcG14OSB-k,0.0,2016-10-13 21:48:02,True,True
+2016-10-14T15:10:34,"""Anthropomorphic martial artist guard dog no longer wants to learn martial arts but wants to live his dream of being a rock star.""",0,0,tusher abtahee,7BcG14OSB-k,0.10727272727272727,2016-10-14 15:10:34,True,True
+2016-10-15T22:50:04,the fact that character are anthros had me very exited!!!! :DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD,3,2,Guillermo Cruz,7BcG14OSB-k,0.48828125,2016-10-15 22:50:04,True,True
+2016-10-16T02:31:13,The animation looks terrible compared to the animations that have come out the past couple of years..,0,0,xKGlass,7BcG14OSB-k,-0.625,2016-10-16 02:31:13,True,True
+2016-10-16T03:17:51,So... Is there going to be an annoying narrator the entire movie? Cause the trailer sure has a lot of narration.,0,0,X Ry,7BcG14OSB-k,-0.10000000000000002,2016-10-16 03:17:51,True,True
+2016-10-16T17:05:34,1:24 I'm expecting a love relationship between these 2,0,0,JaggerMane Deluxe,7BcG14OSB-k,0.5,2016-10-16 17:05:34,True,True
+2016-10-16T20:54:22,I am this I just saw this today,0,0,Adam Kirk,7BcG14OSB-k,0.0,2016-10-16 20:54:22,True,True
+2016-10-17T01:53:37,It's kung fu panda meaning Zootopia and it is awesome!,3,0,wolfguy23,7BcG14OSB-k,1.0,2016-10-17 01:53:37,True,True
+2016-10-17T16:04:00,"I didn't realize this was whole movie ,nice but little short though.",20,2,Sagar Giri,7BcG14OSB-k,0.153125,2016-10-17 16:04:00,True,True
+2016-10-18T00:58:04,"""The author if the journals, my dad.""",0,0,Lux,7BcG14OSB-k,0.0,2016-10-18 00:58:04,True,True
+2016-10-18T07:17:16,WHOA! Hold on... You're telling me this takes place in a world where DOGS can shoot LASERS from their hands and we are supposed to be excited about the idea of him learning to play guitar? FORGET THE GUITAR; LEARN TO SHOOT LASERS FROM YOUR FREAKING HANDS!,723,23,Captain Falcon,7BcG14OSB-k,0.46875,2016-10-18 07:17:16,True,True
+2016-10-18T21:15:48,"At least it's not norm of the north or food fight, ETC",36,2,Kia,7BcG14OSB-k,-0.3,2016-10-18 21:15:48,True,True
+2016-10-18T22:16:11,That narrator doe,0,0,Honestly Diana,7BcG14OSB-k,0.0,2016-10-18 22:16:11,True,True
+2016-10-18T22:48:54,oh no,0,0,EvilEyebrowBoy,7BcG14OSB-k,0.0,2016-10-18 22:48:54,True,True
+2016-10-19T02:35:48,This trailer for Zootopia 2 looks amazing!,0,0,El Jewpacabra 5,7BcG14OSB-k,0.7500000000000001,2016-10-19 02:35:48,True,True
+2016-10-19T04:19:39,"Eh, I can say with some refining with some of the animation and story, this can be a good movie",0,0,Ethan C,7BcG14OSB-k,0.7,2016-10-19 04:19:39,True,True
+2016-10-19T09:21:19,too clishe,0,0,Redlynx Vires,7BcG14OSB-k,0.0,2016-10-19 09:21:19,True,True
+2016-10-19T10:29:17,what's the new?,0,0,2gohan002,7BcG14OSB-k,0.13636363636363635,2016-10-19 10:29:17,True,True
+2016-10-19T19:49:52,"Kind of looking forward to this actually.  I'm probably very alone on that, but whatever.",75,22,Moon,7BcG14OSB-k,0.26666666666666666,2016-10-19 19:49:52,True,True
+2016-10-19T20:26:09,OK SERIOUSLY WHO IS THE GUY WHO NARRATES EVEY TRAILER??,0,0,Rosh H,7BcG14OSB-k,0.08333333333333334,2016-10-19 20:26:09,True,True
+2016-10-19T21:07:11,more pure cringe,0,0,Soviet Walrus,7BcG14OSB-k,0.35714285714285715,2016-10-19 21:07:11,True,True
+2016-10-19T22:38:11,"For a second there, I thought it was Kevin James as The Wolf Boss.",0,0,Drew Gars,7BcG14OSB-k,0.0,2016-10-19 22:38:11,True,True
+2016-10-19T23:04:46,another zootopia movie rip off,0,0,Funky,7BcG14OSB-k,0.0,2016-10-19 23:04:46,True,True
+2016-10-20T01:52:41,Some Book of Life plot,1,0,ii_Bionic,7BcG14OSB-k,0.0,2016-10-20 01:52:41,True,True
+2016-10-20T01:57:47,this look like it might be good,1,0,metro the retro 2,7BcG14OSB-k,0.7,2016-10-20 01:57:47,True,True
+2016-10-20T02:35:34,frikken furries,0,0,Darling Sparkles,7BcG14OSB-k,0.0,2016-10-20 02:35:34,True,True
+2016-10-20T02:40:32,This looks more like a straight-to-DVD movie.,1,0,KoopaKontroller,7BcG14OSB-k,0.5,2016-10-20 02:40:32,True,True
+2016-10-20T03:15:25,sooooo zootopia right,0,0,Nope Nope,7BcG14OSB-k,0.2857142857142857,2016-10-20 03:15:25,True,True
+2016-10-20T03:43:44,Now where did I put that bleach ?,0,0,Tidy_ Toast,7BcG14OSB-k,0.0,2016-10-20 03:43:44,True,True
+2016-10-20T04:26:32,It looks lit seems like a good movie. Honestly anything with animals and that is animated I will love anyway so can't wait for it,1,0,Chergan Doodles,7BcG14OSB-k,0.6,2016-10-20 04:26:32,True,True
+2016-10-20T04:34:24,From the co producer of toy story 2 lol,0,0,Waffodill,7BcG14OSB-k,0.8,2016-10-20 04:34:24,True,True
+2016-10-20T15:40:44,Is this a sequel to Soccer Dog?,0,0,captloki13,7BcG14OSB-k,0.0,2016-10-20 15:40:44,True,True
+2016-10-20T16:19:42,guess what i saw whole movie.. nd i even know that in the end his guitar becomes his power nd he defeats wolves..,1,0,Ahmad Rza,7BcG14OSB-k,0.2,2016-10-20 16:19:42,True,True
+2016-10-20T16:59:28,"All right. This trailer already became an immediate turn-off the moment the announcer voice said ""From the co-director of Toy Story 2."" Leaving.",3,0,twist58,7BcG14OSB-k,0.2857142857142857,2016-10-20 16:59:28,True,True
+2016-10-20T21:37:18,great value zootopia.,0,0,creativity is the best,7BcG14OSB-k,0.8,2016-10-20 21:37:18,True,True
+2016-10-20T22:14:53,and they thought they could make money out if this how?,14,3,Phi Tam Nguyen,7BcG14OSB-k,0.0,2016-10-20 22:14:53,True,True
+2016-10-20T22:28:22,We all saw more furry movies coming,0,0,RandomNessa TV,7BcG14OSB-k,0.5,2016-10-20 22:28:22,True,True
+2016-10-20T22:35:31,Jesus Christ...,0,0,Callum Black,7BcG14OSB-k,0.0,2016-10-20 22:35:31,True,True
+2016-10-20T22:39:10,"It's 2016, so what's up with the 1998 CGI?  Edit: Dang, idk why I hated on this movie, even if the trailer is boring",46,4,"Godzilla, The Average Gamer",7BcG14OSB-k,-0.95,2016-10-20 22:39:10,True,True
+2016-10-21T00:03:07,the guys behind hardcore Henry made this...,1,0,jimmy angel,7BcG14OSB-k,-0.4,2016-10-21 00:03:07,True,True
+2016-10-21T00:15:06,I'm looking forward to this. It's gonna gonna be better then the emoji iMovies at least.,1,0,Wisdomeel,7BcG14OSB-k,0.1,2016-10-21 00:15:06,True,True
+2016-10-21T03:39:56,My dream is to play soccer and sing.   And I know one day I will be good at those things.    ^-^,0,0,Bear The bear,7BcG14OSB-k,0.7,2016-10-21 03:39:56,True,True
+2016-10-21T10:58:43,my mouth is my other finger xD,0,0,velvet ai,7BcG14OSB-k,-0.125,2016-10-21 10:58:43,True,True
+2016-10-21T11:01:10,what is the song at 1:45 guys ?,0,0,Frosty Paws,7BcG14OSB-k,0.0,2016-10-21 11:01:10,True,True
+2016-10-21T11:06:51,Pretty sure they spoiled everything in the trailer ;-;,211,8,Fright Paws,7BcG14OSB-k,0.375,2016-10-21 11:06:51,True,True
+2016-10-21T11:30:40,The animation needs more polishing though and the plot is so cliche.,0,0,Paolo Emmanuel Paz,7BcG14OSB-k,0.5,2016-10-21 11:30:40,True,True
+2016-10-21T12:01:37,seems good,0,0,flowerblast and ja thomas,7BcG14OSB-k,0.7,2016-10-21 12:01:37,True,True
+2016-10-21T13:11:08,Can make a dinosaur movie like zootopia,0,0,Kami Tajalle,7BcG14OSB-k,0.0,2016-10-21 13:11:08,True,True
+2016-10-21T17:57:14,I'm one of the few people who like this.,0,0,deffdefying,7BcG14OSB-k,-0.2,2016-10-21 17:57:14,True,True
+2016-10-21T20:28:06,Why EDDIE! WWHHHYYYYY THIS! you couln't go for trolls? angry birds? ANYTHING!,1,0,Galarumz,7BcG14OSB-k,-0.625,2016-10-21 20:28:06,True,True
+2016-10-22T03:55:36,"This kind of gave away EVERYTHING! In the end he learns to shoot LASERS from his GUITAR, protects like he was supposed to, and he goes into the band! THIS IS BASICALLY THE MOVIE!! But fingers crossed the movie actually is better, sometimes it is maybe it's not *sigh* also...the animation!",1,0,Ryn Smyth,7BcG14OSB-k,0.8125,2016-10-22 03:55:36,True,True
+2016-10-22T07:06:36,I'm actually liking the look of this to be honest.,7,0,PsychoticFoxProductions,7BcG14OSB-k,0.3,2016-10-22 07:06:36,True,True
+2016-10-22T20:17:57,"I'm gonna be honest. After seeing this trailer, I don't want to see the movie now. They pretty much spoiled the whole movie. Not to mention how bad the CGI looks. I'm also getting a ""Norm of the North"" vibe from this.",0,0,Joshua,7BcG14OSB-k,0.11000000000000003,2016-10-22 20:17:57,True,True
+2016-10-22T23:17:57,this is a rip off of Zootopia and the book of life,0,0,Yvonne Hunt,7BcG14OSB-k,0.0,2016-10-22 23:17:57,True,True
+2016-10-23T00:46:50,How many times has this plot been,0,0,Aaron altringer,7BcG14OSB-k,0.5,2016-10-23 00:46:50,True,True
+2016-10-23T01:25:08,"OK this is basically zootopia, robots, and kubo and the two strings wrapped into one low budget looking film smh😑",0,0,David Donovan,7BcG14OSB-k,0.25,2016-10-23 01:25:08,True,True
+2016-10-23T02:13:52,Anthropomorphic dog? I can already see the rule 34. . .,1,0,J0J0 Reference,7BcG14OSB-k,0.0,2016-10-23 02:13:52,True,True
+2016-10-23T04:33:27,WHY R THE WOLVES EVIL LIKE FOR REALS,0,0,Wolf Lover,7BcG14OSB-k,-1.0,2016-10-23 04:33:27,True,True
+2016-10-23T13:13:14,I will watch it definitely,0,0,AidanDoesStuff Oh No!,7BcG14OSB-k,0.0,2016-10-23 13:13:14,True,True
+2016-10-23T17:23:31,"The plot is a lot like that Easter Bunny movie, Hop. Except that the main character didn't run away from home and no humans whatsoever.",1,0,GameRHero95,7BcG14OSB-k,0.16666666666666666,2016-10-23 17:23:31,True,True
+2016-10-23T19:01:02,only reason why i like this trailer is because i got to see the movie for free,33,1,gabs,7BcG14OSB-k,0.2,2016-10-23 19:01:02,True,True
+2016-10-23T21:03:35,Finally an other furry movie,1,0,Moonlite Gaming,7BcG14OSB-k,-0.125,2016-10-23 21:03:35,True,True
+2016-10-24T03:52:18,This is basically sing but with more carnivores (Predators) and instruments,0,0,sewer rat,7BcG14OSB-k,0.5,2016-10-24 03:52:18,True,True
+2016-10-24T05:34:09,I have a feeling this is gonna be one of those movies thats so unpopular but I'm like the only one of my friends and family that sees it and actually like it,0,0,The Geeky Weirdo,7BcG14OSB-k,0.0,2016-10-24 05:34:09,True,True
+2016-10-24T17:50:38,He was bred to produce energy blasts? The Eugenics in that world are amazing.,1,0,WakkaSeta,7BcG14OSB-k,0.6000000000000001,2016-10-24 17:50:38,True,True
+2016-10-25T15:02:17,Poo,0,0,His Lardship,7BcG14OSB-k,0.0,2016-10-25 15:02:17,True,True
+2016-10-26T00:41:10,"Just to clear something up, this movie started production years ago, like, im talking 4, maybe 5, so anyone comparing it to Zootopia is wrong, just see it if you are interested or even curious on the movie, and leave it at that, dont compare someones hard work to disney, thats like comparing some youtube skit series to Firefly",77,7,Desperado,7BcG14OSB-k,-0.10833333333333332,2016-10-26 00:41:10,True,True
+2016-10-26T02:58:27,This actually looks like a good movie,0,0,Ahtziri Ramirez,7BcG14OSB-k,0.35,2016-10-26 02:58:27,True,True
+2016-10-26T06:34:44,Literally Zootopia 2,0,0,Jamie Mansfield,7BcG14OSB-k,0.0,2016-10-26 06:34:44,True,True
+2016-10-26T10:20:41,It is just zootopia with singing ....dude!!,0,0,I am A Potato,7BcG14OSB-k,0.0,2016-10-26 10:20:41,True,True
+2016-10-26T23:25:46,"Ok then again the wolves are the bad guys why can't it be foxes, bunnies, horses, ANYTHING ELSE! Like its really starting to get on my nerve",7,7,๖ζ͜͡Unerthodox,7BcG14OSB-k,-0.12499999999999993,2016-10-26 23:25:46,True,True
+2016-10-27T02:17:21,"This actually looks really good, for a fairly obscure animation team I've never heard of. I'll keep an eye on it. I don't see how on earth people are equating it to Norm of the north, it's not nearly as obnoxious or gimmicky. It has a basic plot, but it looks like it's having fun with it.",0,0,jgunner280,7BcG14OSB-k,0.20714285714285713,2016-10-27 02:17:21,True,True
+2016-10-27T05:24:03,"oh man, the co director of Toy Story 2? Seems like shit. Just like THE BUDGET FOR THIS MOVIE AM I RIGHT but seriously this is some ripe shit",0,0,Lo,7BcG14OSB-k,-0.11190476190476191,2016-10-27 05:24:03,True,True
+2016-10-27T07:49:19,Kung Fu Panda + Hop + The Wild = What?,0,0,Florpface Jinglefribbins,7BcG14OSB-k,0.1,2016-10-27 07:49:19,True,True
+2016-10-27T14:38:13,"I don't care what anyone says, this movie looks fun and I'm gonna watch it!!!",3,0,Square-PuP,7BcG14OSB-k,0.5859375,2016-10-27 14:38:13,True,True
+2016-10-27T17:33:44,Kubo Dog,0,0,erich84502ify,7BcG14OSB-k,0.0,2016-10-27 17:33:44,True,True
+2016-10-28T11:36:18,If you guys think this is bad watch the Clara trailer.,1,0,M MERI,7BcG14OSB-k,-0.6999999999999998,2016-10-28 11:36:18,True,True
+2016-10-30T00:14:05,So I did my research on this movie turns out Kellen Goff is in this,0,0,That Potato,7BcG14OSB-k,0.0,2016-10-30 00:14:05,True,True
+2016-10-31T08:02:22,Its Zootopia all over again,0,0,TheGamerDrumer2393,7BcG14OSB-k,0.0,2016-10-31 08:02:22,True,True
+2016-10-31T08:06:34,What Background song is that?,4,1,Vedji,7BcG14OSB-k,0.0,2016-10-31 08:06:34,True,True
+2016-10-31T17:39:21,"I thought this would be interesting, but it looks really cliché.",0,0,Nitro Indigo,7BcG14OSB-k,0.35,2016-10-31 17:39:21,True,True
+2016-11-01T05:25:46,2016-2017 seems like shit years for films,0,0,Stun Carsson,7BcG14OSB-k,-0.2,2016-11-01 05:25:46,True,True
+2016-11-01T11:55:33,Get ready for the creepy furry fanfics,8,0,Keyan Ghasemi,7BcG14OSB-k,-0.15,2016-11-01 11:55:33,True,True
+2016-11-02T21:10:39,Another singing animal movie...,0,0,Mickaël Gonzales Navarro Alexander,7BcG14OSB-k,0.0,2016-11-02 21:10:39,True,True
+2016-11-03T00:31:29,Literally Norm of the North with dogs,0,0,RandomBeef97,7BcG14OSB-k,0.0,2016-11-03 00:31:29,True,True
+2016-11-03T02:13:50,Ese perro parece como una animación de sony,0,0,Minenzo Mazzitelli,7BcG14OSB-k,0.0,2016-11-03 02:13:50,True,True
+2016-11-03T02:53:22,Glad to see the progress on that K.K. Slider documentary.,5,0,Harmon Andrews,7BcG14OSB-k,0.25,2016-11-03 02:53:22,True,True
+2016-11-03T04:01:33,I wanna learn how to shoot lasers using my hand (and rock also)... :3,0,0,The Dreemurr,7BcG14OSB-k,0.5,2016-11-03 04:01:33,True,True
+2016-11-03T07:02:32,Let me guess...  He goes to the city  Defeats the mob  Becomes a rock-dog and gains his fathers acceptance.  THE END.  for once i wanna see the main character fuckup...same old bullshit story.,0,1,Cordyceps,7BcG14OSB-k,0.13333333333333333,2016-11-03 07:02:32,True,True
+2016-11-03T08:29:07,rerun of the plot from Robots,0,0,Andrew McClure,7BcG14OSB-k,0.0,2016-11-03 08:29:07,True,True
+2016-11-03T09:47:55,"Looks kinda boring, and how smooth their fur is throws me off. It looks like skin.",13,0,professorbakkun,7BcG14OSB-k,-0.3,2016-11-03 09:47:55,True,True
+2016-11-03T11:48:45,Ok cool interesting,0,0,yoshifan30,7BcG14OSB-k,0.45,2016-11-03 11:48:45,True,True
+2016-11-03T15:19:37,"I think I'll pass and come on, another story with wolves as the bad guys?",1,0,Michael Jenner,7BcG14OSB-k,-0.6999999999999998,2016-11-03 15:19:37,True,True
+2016-11-03T15:25:26,Soooooo...zootopia 2.0?,5,2,Lovely Lauren,7BcG14OSB-k,0.0,2016-11-03 15:25:26,True,True
+2016-11-03T15:35:31,another anthro animal movie. first zootopia so sing and now this lol.,0,0,Nilsine Gusias,7BcG14OSB-k,0.525,2016-11-03 15:35:31,True,True
+2016-11-03T16:44:16,"2:06 i t sounded like (at first) he Said ""fuckin' """,0,0,UhOhMonster,7BcG14OSB-k,0.25,2016-11-03 16:44:16,True,True
+2016-11-03T22:45:18,OH GODDAMMIT!!!,0,0,Casper Bosman,7BcG14OSB-k,0.0,2016-11-03 22:45:18,True,True
+2016-11-04T04:07:56,This movie looks bad but I gotta be honest this part was a little funny 2:06,0,0,Bam5000000,7BcG14OSB-k,-0.009374999999999967,2016-11-04 04:07:56,True,True
+2016-11-04T05:37:40,Every animated movie's gotta take place in a world full of talking animals. Thanks a lot for setting the new trend Zootopia.,1,1,collaboration4237,7BcG14OSB-k,0.2287878787878788,2016-11-04 05:37:40,True,True
+2016-11-04T15:03:34,"Looked good, until the magic guitar came into it",0,0,Prolillg1996,7BcG14OSB-k,0.6,2016-11-04 15:03:34,True,True
+2016-11-04T16:34:05,"Well, I don't need to see this movie any longer",0,0,eythor19,7BcG14OSB-k,0.0,2016-11-04 16:34:05,True,True
+2016-11-04T21:06:17,"looks generic, but okay  but at least the animation's good",0,0,Demitoons :P,7BcG14OSB-k,0.22499999999999998,2016-11-04 21:06:17,True,True
+2016-11-05T11:58:00,"Oh yeah, I remember this plot from the 1990s",0,0,Shlo Mo,7BcG14OSB-k,0.0,2016-11-05 11:58:00,True,True
+2016-11-05T15:46:23,it'd going to be released the same day as god particle....   A.K.A cloverfield 3.....,0,0,MλFDOMiNUS,7BcG14OSB-k,0.0,2016-11-05 15:46:23,True,True
+2016-11-05T17:06:28,The magic guitar is a ripoff of spirit-chaser...,0,0,Bears without Ears,7BcG14OSB-k,0.5,2016-11-05 17:06:28,True,True
+2016-11-05T17:29:47,"""Never stop even when your dad says stop"" bad advice for kids, yet sadly typical for today's children's movies.",5,2,wheelzwheela,7BcG14OSB-k,-0.43333333333333324,2016-11-05 17:29:47,True,True
+2016-11-05T20:18:27,Oh my god! An Animated Kid movie where the Father is supported of the main character's dream!? What's the world coming to,2,0,GolDrex,7BcG14OSB-k,0.20833333333333331,2016-11-05 20:18:27,True,True
+2016-11-06T01:19:32,umm why the wolf has to bad guy? like storks wolf being a bad guy?(I'm haven't seen the storks yet) ok like wolf being a bad guy? I'm not trying to be rude I just don't understand.,3,5,ThraxAshley 25,7BcG14OSB-k,-0.37999999999999995,2016-11-06 01:19:32,True,True
+2016-11-06T02:35:06,The book of life (but animals),0,0,•Kyla Sounds Dank•,7BcG14OSB-k,0.0,2016-11-06 02:35:06,True,True
+2016-11-06T07:38:06,"The only thing I like about this: The voice for that white cat guy, it suits his appearance.  The rest of this is just shit.",1,5,gastrodong,7BcG14OSB-k,-0.06666666666666667,2016-11-06 07:38:06,True,True
+2016-11-06T21:27:57,It looks good in my opinion,0,0,Lps CreativityShock,7BcG14OSB-k,0.7,2016-11-06 21:27:57,True,True
+2016-11-07T00:13:03,"Totally ripping off Tibetan culture. China took the Tibetan monasteries, prayer flags, mastiffs and even their traditional instrument the dranyen. Talk about originality.",2,1,G G,7BcG14OSB-k,0.0,2016-11-07 00:13:03,True,True
+2016-11-07T03:00:51,DEAR GOD KILL ME NOW!,0,0,Game Success,7BcG14OSB-k,0.0,2016-11-07 03:00:51,True,True
+2016-11-07T05:00:29,Its 2016 so what with the cheesy 2000's narrator?,0,0,1234Anna Bananna4321,7BcG14OSB-k,-0.5,2016-11-07 05:00:29,True,True
+2016-11-07T06:50:49,Am I the only one who is actually really looking forward to this? I love the rough style look of the animation,0,0,Moxxy,7BcG14OSB-k,0.15,2016-11-07 06:50:49,True,True
+2016-11-07T21:21:15,FURRYS THAT ARE GETTING A FUCKING CHANCE TO BE IN A FREAKIN MOVIE!!!!!,2,1,Data Hawk,7BcG14OSB-k,-1.0,2016-11-07 21:21:15,True,True
+2016-11-07T21:29:36,they copied the book of life,0,0,Sleepy Steven,7BcG14OSB-k,0.0,2016-11-07 21:29:36,True,True
+2016-11-07T23:29:09,I have Zootopia  I have Book of Life  UGH  Rock Dog,0,0,Sam Torres,7BcG14OSB-k,0.0,2016-11-07 23:29:09,True,True
+2016-11-08T01:46:56,This actually looks pretty cute,0,0,tacopasta06,7BcG14OSB-k,0.25,2016-11-08 01:46:56,True,True
+2016-11-08T02:19:39,Seems like a bootleg of Hop to me . . . .,0,0,FastDasher,7BcG14OSB-k,-0.4,2016-11-08 02:19:39,True,True
+2016-11-08T04:13:51,"Big copyright of zootopia, basically the same",2,0,Colebear Sims,7BcG14OSB-k,0.0,2016-11-08 04:13:51,True,True
+2016-11-08T07:14:03,What do you know about Mongolia,0,0,Bymbajargal Dashdorj,7BcG14OSB-k,0.0,2016-11-08 07:14:03,True,True
+2016-11-08T16:09:21,Why is the whole plotline in the trailer?,0,0,Grethe Marie Gugarden,7BcG14OSB-k,0.2,2016-11-08 16:09:21,True,True
+2016-11-08T22:10:01,SHAMELESS Zootopia ripoff. Personified animal characters? Check. Character who wants to be something else but can't because of their family legacy? Check. A friend who's a fox? Check. A bulky animal who's a businessman that's against the protagonist? (Mr. Big in Zootopia and the red phone cord wolves in this) check. Worried/disapproving parents? Check.,0,0,theroodle,7BcG14OSB-k,0.06666666666666667,2016-11-08 22:10:01,True,True
+2016-11-09T07:07:45,and here comes the furries,0,0,moo moo,7BcG14OSB-k,0.0,2016-11-09 07:07:45,True,True
+2016-11-09T07:09:12,looks kinda cheap,0,0,moo moo,7BcG14OSB-k,0.4,2016-11-09 07:09:12,True,True
+2016-11-09T16:15:28,Can't wait for this movie,0,0,Brissa DLR,7BcG14OSB-k,0.0,2016-11-09 16:15:28,True,True
+2016-11-09T17:52:47,i hope this comes out on day,0,0,Avix বিশ্বাস,7BcG14OSB-k,0.0,2016-11-09 17:52:47,True,True
+2016-11-09T20:55:57,HUUUGE SPOILER!!!  Trailers nowadays spoil the whole movie. >:((,0,1,vicusmaxima,7BcG14OSB-k,-0.275,2016-11-09 20:55:57,True,True
+2016-11-09T23:45:55,"This is a movie about If chase could walk on two legs and wanted to become a rock and roll singer!If you know who I'm talking about,then you watch to much PawPatrol(only because I have a little brother who wants me to watch it it's not like I like it or anything)🙃Who is you're favourite tho?😂Chase is mine😂",0,0,galactic grey,7BcG14OSB-k,0.07083333333333335,2016-11-09 23:45:55,True,True
+2016-11-10T06:04:05,Omg more furry movies,0,0,Wolf Deer,7BcG14OSB-k,0.5,2016-11-10 06:04:05,True,True
+2016-11-10T19:23:39,"Why is everyone comparing this to zootopia, Kung fu panda, sing, kubo and every other GODDAMN movie with animals or music and not mentioning the fact that they SHOOT LASERS? (and that the dog likes it tight)",2,1,Cannibal,7BcG14OSB-k,-0.1517857142857143,2016-11-10 19:23:39,True,True
+2016-11-11T00:32:46,So... HOP the Sequel?,0,0,Leandro Araújo,7BcG14OSB-k,0.0,2016-11-11 00:32:46,True,True
+2016-11-11T02:14:54,Watch he goes to city enemy goes to sheep town to terrorize people he betrays new friends goes home to find fucked up shit gets his friends to trust and help everything back to normal gets successful in the music entire plot figured out 💥,0,0,Roodle Doodle,7BcG14OSB-k,0.03376623376623378,2016-11-11 02:14:54,True,True
+2016-11-11T05:21:47,this is just a the plot of the book of life mixed with zootopia,0,0,SoggySatyr,7BcG14OSB-k,0.0,2016-11-11 05:21:47,True,True
+2016-11-11T15:04:40,"Hello, not-Zootopia, lol",10,0,Stocking Anarchy,7BcG14OSB-k,0.8,2016-11-11 15:04:40,True,True
+2016-11-11T19:02:12,i like that guitar power or something,0,0,Octa Boom,7BcG14OSB-k,0.0,2016-11-11 19:02:12,True,True
+2016-11-12T00:59:02,"I can't put my finger on it, but something about the animation style reminds me of Despicable Me",1,0,D. Freeman,7BcG14OSB-k,0.0,2016-11-12 00:59:02,True,True
+2016-11-12T03:09:00,is there such a thing as an animated film that depicts wolves in a way that is physically and behaviourally accurate,0,0,Soko,7BcG14OSB-k,0.13333333333333336,2016-11-12 03:09:00,True,True
+2016-11-12T20:16:01,Why when I'm watching this I feel so positive?,0,0,Octa Boom,7BcG14OSB-k,0.22727272727272727,2016-11-12 20:16:01,True,True
+2016-11-15T01:27:27,Rise furries the internet shall be ours. No longer will we hide and coware. It's time to start a revolution against the brony empire,0,0,Krellak,7BcG14OSB-k,0.0,2016-11-15 01:27:27,True,True
+2016-11-15T01:42:30,about time someone makes a animated movie about  rock and roll,0,0,Disturbed Wolf,7BcG14OSB-k,0.0,2016-11-15 01:42:30,True,True
+2016-11-15T22:18:02,DUDE THAT OX HAS THE SAME VOICE AS THE DAD IN BARNYARD,0,0,PhatPotato,7BcG14OSB-k,0.0,2016-11-15 22:18:02,True,True
+2016-11-16T00:19:52,I can already smell the yiff,0,2,Hot_pocket_survival,7BcG14OSB-k,0.0,2016-11-16 00:19:52,True,True
+2016-11-16T10:15:13,That goat voice is like Ben form barnyard the original party animal,0,0,Skull Killer,7BcG14OSB-k,0.375,2016-11-16 10:15:13,True,True
+2016-11-16T15:40:18,whats the name of the song playing in this trailer?,0,1,Nour elcheikh,7BcG14OSB-k,0.0,2016-11-16 15:40:18,True,True
+2016-11-17T06:56:51,"I love animated films, but this one looks OVERSATURATED, I saw elements from Kung Fu Panda 1 and 2, Zootopia and The Book of Life here, including the plot lines/message from those movies... I hope it ends good, but I think with those designs they could have made another kind of movie/history without repeating what other companies have done better.   Still, wonder if we will saw more movie's collages like this one",0,0,alantupadre,7BcG14OSB-k,0.4458333333333333,2016-11-17 06:56:51,True,True
+2016-11-18T02:00:05,Very original title. I wouldn't have thought of that.,0,0,Glasra,7BcG14OSB-k,0.48750000000000004,2016-11-18 02:00:05,True,True
+2016-11-18T16:26:22,Looks pretty mediocre and unoriginal. It doesn't look awful. The animation looks decent and that last joke made me laugh. But yeah It's nothing to get excited for.,0,0,Alex Sandgren,7BcG14OSB-k,-0.07604166666666665,2016-11-18 16:26:22,True,True
+2016-11-19T20:39:13,seems very generic,0,0,Swervemeister,7BcG14OSB-k,0.0,2016-11-19 20:39:13,True,True
+2016-11-20T05:40:12,The trailer spoils the entire movie,0,0,Joaquin Sosa,7BcG14OSB-k,0.0,2016-11-20 05:40:12,True,True
+2016-11-20T10:46:49,Feed the furries.. will the age of mental illness ever end?,0,0,Pleasant Peasant Gaming,7BcG14OSB-k,-0.1,2016-11-20 10:46:49,True,True
+2016-11-20T18:18:51,kazoo,0,0,Adrian Avila,7BcG14OSB-k,0.0,2016-11-20 18:18:51,True,True
+2016-11-21T18:40:11,Anyone getting a super powered Lorax knock-off,0,0,BrontoSmilodon1,7BcG14OSB-k,0.3333333333333333,2016-11-21 18:40:11,True,True
+2016-11-21T23:41:33,I think Cave Johnson turned into a dog oh dear. Wait hes dead how the heck? GLaDOS will be disappointed.,0,1,DBendy,7BcG14OSB-k,-0.475,2016-11-21 23:41:33,True,True
+2016-11-22T02:54:58,it's like that movie sing,0,0,Patty Galindo,7BcG14OSB-k,0.0,2016-11-22 02:54:58,True,True
+2016-11-22T04:34:29,"ok the last joke was pretty funny, but otherwise it looks like another norm of the north",9,7,Ivan Tweedale,7BcG14OSB-k,0.25,2016-11-22 04:34:29,True,True
+2016-11-22T07:51:47,thought it was a diddy kong racing movie but i remember nintendo sucks now and wont touch rares masterpieces.,0,0,FreeAim Dog,7BcG14OSB-k,-0.3,2016-11-22 07:51:47,True,True
+2016-11-22T11:57:04,How low does the rabbit hole go,0,0,PettyJackal,7BcG14OSB-k,0.0,2016-11-22 11:57:04,True,True
+2016-11-22T23:04:17,I feel like there is going to be 1 family who are going to see this and the rest will be disgusting neckbeard furries who watch it ironically.,1,0,EdwardSponge,7BcG14OSB-k,-1.0,2016-11-22 23:04:17,True,True
+2016-11-23T02:33:11,This is why you where a co directer,1,0,Chill,7BcG14OSB-k,0.0,2016-11-23 02:33:11,True,True
+2016-11-24T15:21:41,"Wow, I Can't Wait To See That Outstanding-Movie! :-D",0,0,kev p,7BcG14OSB-k,0.5625,2016-11-24 15:21:41,True,True
+2016-11-24T20:25:19,This looks cheesy as fuck but J.K. Simmons is in it and his voice has always been my favorite thing to listen to.,0,0,Hallie C,7BcG14OSB-k,-0.13333333333333333,2016-11-24 20:25:19,True,True
+2016-11-24T21:29:42,I can already see the furries making rule 34s of this shit,3,0,Max P,7BcG14OSB-k,-0.2,2016-11-24 21:29:42,True,True
+2016-11-25T05:16:29,"how HOW do these weird crap animated movies get voice actors people actually KNOW?! (though to be fair this one actually feels on the top teir end of ""crap animated  movies"" possibly low tier end of ""good animated movies"")",0,0,Michael Gibbs,7BcG14OSB-k,-0.02222222222222224,2016-11-25 05:16:29,True,True
+2016-11-25T05:17:12,"Can't wait for Rock Dog to come out in theaters, I'm so excited!!!!",0,0,Foxyplayer16,7BcG14OSB-k,0.91552734375,2016-11-25 05:17:12,True,True
+2016-11-26T12:28:46,sequel to zootopia isnt it?,1,0,TabularDavid,7BcG14OSB-k,0.0,2016-11-26 12:28:46,True,True
+2016-11-26T16:21:29,AAAAAAAAAAAND Then the trailer spoiled most of the movie....good job!,0,0,Jirapat Thaenphromrat,7BcG14OSB-k,0.625,2016-11-26 16:21:29,True,True
+2016-11-26T22:36:27,Fueling the next generation of furries since that Zootopia boost...,0,0,Kelsey Contreras,7BcG14OSB-k,0.0,2016-11-26 22:36:27,True,True
+2016-11-27T01:28:33,Another movie gonna be ruined by rule 34,11,1,Werewolf Jesus,7BcG14OSB-k,0.0,2016-11-27 01:28:33,True,True
+2016-11-27T12:05:52,"Not sure how I feel about this, but the ""I'm paralyzed, except for my mouth... and my finger.' joke somehow really got me.",0,0,TFanPage101,7BcG14OSB-k,-0.024999999999999994,2016-11-27 12:05:52,True,True
+2016-11-28T05:20:00,Furries: *heavy breathing*,0,0,Cooper Bane,7BcG14OSB-k,-0.2,2016-11-28 05:20:00,True,True
+2016-11-28T23:43:28,This is a mixture of sing and kubo and the two strings,0,0,tonya P.,7BcG14OSB-k,0.0,2016-11-28 23:43:28,True,True
+2016-11-29T04:57:06,Why does he remind me of justin bieber.....ugh,0,0,"Faith, Hope and Love",7BcG14OSB-k,0.0,2016-11-29 04:57:06,True,True
+2016-11-30T01:01:43,Zootopia and Sing it. And nothing else,1,0,Questron,7BcG14OSB-k,0.0,2016-11-30 01:01:43,True,True
+2016-11-30T05:00:14,i love how people are comparing this movie to Zootopia. with minimal research this movie is based on a graphic novel (comic) in china created around 2005. thats about 9 years BEFORE ZOOTOPIA WAS EVEN A THOUGHT. the only reason they're producing/releasing it so late is to get carried on the furry wave zootopia was definitely going to create.,0,0,devoidofchaos,7BcG14OSB-k,0.05,2016-11-30 05:00:14,True,True
+2016-11-30T19:10:36,"The furrys ate coming,sorry",0,0,Jona Yong,7BcG14OSB-k,0.0,2016-11-30 19:10:36,True,True
+2016-11-30T19:11:01,no offence,0,0,Jona Yong,7BcG14OSB-k,0.0,2016-11-30 19:11:01,True,True
+2016-12-02T03:08:56,Not bad.. I might go and see.,0,0,ShilohTheFox,7BcG14OSB-k,0.3499999999999999,2016-12-02 03:08:56,True,True
+2016-12-02T08:01:16,"Story doesn't seem overly exciting. But I love the art style... Most 3D animated films stick to a ""generic"" style. I really hope this movie does well... If it does it may push other studios to get more creative with ""style"".",0,0,Syclopskitten,7BcG14OSB-k,0.296875,2016-12-02 08:01:16,True,True
+2016-12-03T02:14:53,Sing copied Zootopia and this pulls an inception of stealing Sing and Zootopia.....yeesh,0,0,Lieutenant Yoshi,7BcG14OSB-k,0.0,2016-12-03 02:14:53,True,True
+2016-12-03T11:26:05,The first trailer was decent enough.,0,0,euniceerica,7BcG14OSB-k,0.13888888888888887,2016-12-03 11:26:05,True,True
+2016-12-03T23:47:49,"Everyone talking about Zootopia, I was getting more of a Hop vibe",8,0,CouchPotatoCNPB,7BcG14OSB-k,0.5,2016-12-03 23:47:49,True,True
+2016-12-04T08:50:06,"Holy s***! This looks like to most Rock-A-Doodle (story and environment), it'll become the great inspiration or influence for the remake. 😱🎸🎵🎶 I'll hope that yeah! 😁👌",0,0,Sir Marion Chanteers,7BcG14OSB-k,0.75,2016-12-04 08:50:06,True,True
+2016-12-04T15:50:22,I watched  super cool kid and that made me watch this,0,0,Sandra Diaz,7BcG14OSB-k,0.3416666666666667,2016-12-04 15:50:22,True,True
+2016-12-04T15:52:53,+good video 👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻,0,0,Sandra Diaz,7BcG14OSB-k,0.7,2016-12-04 15:52:53,True,True
+2016-12-05T19:34:26,I wish it was Disney.,1,0,C.A. Nanney,7BcG14OSB-k,0.0,2016-12-05 19:34:26,True,True
+2016-12-06T05:32:49,NO.   sit the fuck down,0,0,Nicholas Spain,7BcG14OSB-k,-0.2777777777777778,2016-12-06 05:32:49,True,True
+2016-12-06T05:45:50,I honestly thought the concept of magical dogs was good enough,0,0,Lucky Bebop,7BcG14OSB-k,0.45,2016-12-06 05:45:50,True,True
+2016-12-06T06:23:50,"WTF is up with these average concepts of movies like: YOU HAVE RESPONSIBILITY! I WANNA BE A SINGING PARTYING ASSHOLE! YOU CAN""T BE A SINGER! And in the end he finally becomes a singer...",0,0,Kerro Ayo,7BcG14OSB-k,-0.2643229166666667,2016-12-06 06:23:50,True,True
+2016-12-06T19:59:28,"This movie may be bad, but at least it won't be Norm of the North.",1,0,Disco Spider,7BcG14OSB-k,-0.4999999999999999,2016-12-06 19:59:28,True,True
+2016-12-07T05:36:43,"Animation looks MEH, but its got...quite a bit of good voice actors.",1,0,yoshimickster,7BcG14OSB-k,0.7,2016-12-07 05:36:43,True,True
+2016-12-07T17:42:11,By the co director of toy story 2? we should probably give it a try.,0,0,Jeremy Boateng,7BcG14OSB-k,0.0,2016-12-07 17:42:11,True,True
+2016-12-07T17:42:23,Is this not Kubo or Sing?,0,0,Jeremy Boateng,7BcG14OSB-k,0.0,2016-12-07 17:42:23,True,True
+2016-12-07T23:01:37,So.... They are magic?,0,0,Orenji,7BcG14OSB-k,0.5,2016-12-07 23:01:37,True,True
+2016-12-10T02:35:39,This is a copy of kubo and the 2 strings,0,0,Lu Rey,7BcG14OSB-k,0.0,2016-12-10 02:35:39,True,True
+2016-12-10T04:03:34,"despite the fact the animation in this film is not really good, but I would say the music is not bad, and the theme song is actually pretty good.",0,0,SZ Arupex,7BcG14OSB-k,0.2375,2016-12-10 04:03:34,True,True
+2016-12-10T20:03:34,What is the name of the that song from the trailer,0,0,Julian McAllister,7BcG14OSB-k,0.0,2016-12-10 20:03:34,True,True
+2016-12-10T22:09:37,"Wow, this is the most generic thing I've seen lately...",0,0,MoMo 9096,7BcG14OSB-k,0.075,2016-12-10 22:09:37,True,True
+2016-12-10T23:04:20,"The Lewis Black-voiced wolf is kind of a mix of Sykes from ""Oliver and Company"" and Hades from ""Hercules"".",0,0,SesameFan,7BcG14OSB-k,0.6,2016-12-10 23:04:20,True,True
+2016-12-11T21:13:36,You know the movie's gonna be a flop when it brags Luke Wilson as it's lead.,0,0,MagicalPuddinPops,7BcG14OSB-k,0.0,2016-12-11 21:13:36,True,True
+2016-12-11T21:51:58,"Whelp, once this movie is out we'll be getting more Stanford Pines/Cave Johnson memes. THIS IS AWESOME!",0,0,AbsolX Guardian,7BcG14OSB-k,0.75,2016-12-11 21:51:58,True,True
+2016-12-12T00:16:04,"Better find that passion boy, because I'm gonna get the Lemons... better hope your room is combustion proof",0,0,Puffy the Destroyer,7BcG14OSB-k,0.5,2016-12-12 00:16:04,True,True
+2016-12-12T12:59:00,Zootopia+Kubo and two strings :3,0,0,แมวกบ *โจ๊ก*,7BcG14OSB-k,0.5,2016-12-12 12:59:00,True,True
+2016-12-14T03:25:04,So basically Zomboy heard this much power and decided to make it Terror squad but Skrillex was like nahh and made All is fair in love and Brostep.,0,0,RazzerRaw,7BcG14OSB-k,0.4666666666666666,2016-12-14 03:25:04,True,True
+2016-12-15T07:45:23,TAsssfgjkll;;'',0,0,Mohammed Romaihi,7BcG14OSB-k,0.0,2016-12-15 07:45:23,True,True
+2016-12-15T16:44:39,Is it just me or the main character has got the same winter hat as Yukine?,0,0,Yū Nishinoya,7BcG14OSB-k,0.08333333333333333,2016-12-15 16:44:39,True,True
+2016-12-15T22:42:06,"holy shit no, no, no, NO",1,0,Finn Crawford,7BcG14OSB-k,-0.2,2016-12-15 22:42:06,True,True
+2016-12-16T06:09:01,"""The Simpsons"" comes to mind.",0,0,Al Heimlich,7BcG14OSB-k,0.0,2016-12-16 06:09:01,True,True
+2016-12-16T23:05:28,"Zootopia crossbreed with dashes of Glee, Pitch Perfect. Sing (another ripoff) and maybe some really shitty Kung Fu Panda references. This movie will be fucking garbage.",0,0,XM115,7BcG14OSB-k,0.19999999999999998,2016-12-16 23:05:28,True,True
+2016-12-17T03:52:21,im going to love this movie :D,0,0,ønyx,7BcG14OSB-k,0.75,2016-12-17 03:52:21,True,True
+2016-12-17T15:09:51,So... it's Zootopia... but with music.,0,0,Jordan Ross,7BcG14OSB-k,0.0,2016-12-17 15:09:51,True,True
+2016-12-18T00:15:52,"So Kung Fu Panda mixed with Zootopia, and none of the tension? ...Alright.",0,0,Ved Walker,7BcG14OSB-k,0.0,2016-12-18 00:15:52,True,True
+2016-12-18T05:16:47,"Can't be worse than Norm of the North, right?",1,0,Asriel Dreemurr,7BcG14OSB-k,-0.05714285714285716,2016-12-18 05:16:47,True,True
+2016-12-18T10:14:00,Water bender attire!,0,0,Matthew Hemraj,7BcG14OSB-k,0.0,2016-12-18 10:14:00,True,True
+2016-12-18T19:20:28,Just why just answer me why,0,0,Darkblade 447,7BcG14OSB-k,0.0,2016-12-18 19:20:28,True,True
+2016-12-18T19:23:23,"If anyone here actually did ANY research about this movie instead of jumping the bandwagon with others claiming that it's a ripoff of Zootopia and Sing, then you'd know that this movie is based off of a graphic novel that was released years ago. Actually do some research before bashing something you don't like.",10,2,Kamon The Skunk,7BcG14OSB-k,0.0,2016-12-18 19:23:23,True,True
+2016-12-18T21:03:20,The style looks kinda cool...so there's that,1,0,fvk,7BcG14OSB-k,0.0,2016-12-18 21:03:20,True,True
+2016-12-18T23:28:51,"""Can we get a red cord for the red phone?"" Me: I dunno. Can we get an actual joke?",32,0,Theme Park Enthusiast,7BcG14OSB-k,0.0,2016-12-18 23:28:51,True,True
+2016-12-19T10:08:56,anybody else feel like this movie is kinda not fully but kinda like kubo :/,0,0,uncle jimboo,7BcG14OSB-k,-0.25,2016-12-19 10:08:56,True,True
+2016-12-19T12:11:53,"great job! you ripped off Sing's dysfunctional musician kid and strict dad, and Kubo's magical guitar powers.",1,1,Amber Mae Barton,7BcG14OSB-k,0.75,2016-12-19 12:11:53,True,True
+2016-12-19T18:27:23,music doggo do gud.,0,0,Potato Whale,7BcG14OSB-k,0.0,2016-12-19 18:27:23,True,True
+2016-12-19T19:50:35,omg a another furry movie  who likes theses,0,0,captain pepsi,7BcG14OSB-k,0.0,2016-12-19 19:50:35,True,True
+2016-12-19T21:58:04,"This movie looks like Kung Fu Panda and Zootopia had a baby, but the baby didn't get any of the good traits from either parent...",0,0,Bread,7BcG14OSB-k,0.7,2016-12-19 21:58:04,True,True
+2016-12-19T22:23:12,"Yeah, 2017 isn't gonna be so good with movies.",2,0,katrp_,7BcG14OSB-k,0.7,2016-12-19 22:23:12,True,True
+2016-12-20T02:58:01,Horrible animation? CHECK  Bad Writing? Check  How did this movie make its trailer onto the Moana cover? Idk,9,5,Yeet,7BcG14OSB-k,-0.8499999999999999,2016-12-20 02:58:01,True,True
+2016-12-20T17:35:39,This is so painfully generic.,0,0,StageLined,7BcG14OSB-k,0.0,2016-12-20 17:35:39,True,True
+2016-12-20T18:22:15,So...why can they shoot red energy beams out their hand? It's only seen once in the trailer for a few seconds and never seen again. Also. This movie is gonna suck...bad,0,0,Jack Iblis,7BcG14OSB-k,-0.06666666666666667,2016-12-20 18:22:15,True,True
+2016-12-20T18:55:33,"Oh look another new movie this looks great, let's check the comment section and see...oh no this was a mistake, when will I learn not to check the youtube comment section",1,3,KyuubiCore,7BcG14OSB-k,0.4681818181818182,2016-12-20 18:55:33,True,True
+2016-12-21T01:32:13,What is it with trailers these days. They are literally giving away the entire plot of the film!!!,0,0,Frenchie,7BcG14OSB-k,0.0,2016-12-21 01:32:13,True,True
+2016-12-21T02:59:59,"599,99 view that's in  same",0,0,Rocio Bernal,7BcG14OSB-k,0.0,2016-12-21 02:59:59,True,True
+2016-12-21T04:19:49,furry movie like zootobia,1,0,gabe prentiss,7BcG14OSB-k,0.0,2016-12-21 04:19:49,True,True
+2016-12-21T05:24:35,I'm very excited about this one. the title is boring tho,0,3,Jethilius Avalar,7BcG14OSB-k,-0.25625,2016-12-21 05:24:35,True,True
+2016-12-21T15:08:28,"""Im completely paralyzed.....except my mouth......my mouth is what and my finger"" lol 😂😂😂😂😂😂😂",0,0,M H,7BcG14OSB-k,0.45,2016-12-21 15:08:28,True,True
+2016-12-21T18:15:31,OMG THIS COMES OUT ON MY BIRTHDAY!!!,0,0,LadyParagon,7BcG14OSB-k,0.0,2016-12-21 18:15:31,True,True
+2016-12-21T21:34:57,Is this the movie sing but with instruments lol,0,0,_Phoenix Gaming_,7BcG14OSB-k,0.8,2016-12-21 21:34:57,True,True
+2016-12-21T22:55:04,isso dai parece com o coco da pixar,0,0,jose manoel goncalves de lima,7BcG14OSB-k,0.0,2016-12-21 22:55:04,True,True
+2016-12-22T08:19:09,furries better not ruin this,0,0,zwooop64,7BcG14OSB-k,0.5,2016-12-22 08:19:09,True,True
+2016-12-22T17:41:01,Zootopia much??,0,0,Michael Jackson Videos,7BcG14OSB-k,0.2,2016-12-22 17:41:01,True,True
+2016-12-22T18:52:05,ya this looks fun.,0,0,r e i n a,7BcG14OSB-k,0.3,2016-12-22 18:52:05,True,True
+2016-12-22T21:58:07,This his will never be a real film stupid Jk simmins faker,0,0,Infernape 1000,7BcG14OSB-k,-0.29999999999999993,2016-12-22 21:58:07,True,True
+2016-12-23T18:38:46,the furry movie,2,0,typedude,7BcG14OSB-k,0.0,2016-12-23 18:38:46,True,True
+2016-12-23T22:24:43,this looks so dumb....,1,0,Dkk,7BcG14OSB-k,-0.375,2016-12-23 22:24:43,True,True
+2016-12-23T23:37:53,omg i cant wait owO,0,0,Jonathan Paquette,7BcG14OSB-k,0.0,2016-12-23 23:37:53,True,True
+2016-12-24T09:30:09,This has plot seems similar to Sing,0,0,Airnan,7BcG14OSB-k,0.0,2016-12-24 09:30:09,True,True
+2016-12-24T15:43:45,Seems pretty sappy and cliché in terms of the story.,0,0,Fluffbutt Alex,7BcG14OSB-k,0.25,2016-12-24 15:43:45,True,True
+2016-12-24T20:53:22,Is it just me or once zootopia came out everyone was like I can do this animal thing to,1,0,Tbeh,7BcG14OSB-k,0.0,2016-12-24 20:53:22,True,True
+2016-12-24T21:00:24,"Guys seriously we can already see the end. It turns out that he finds some mythical power through playing guitar and is able to beat the wolves trying to get the sheep. Dad is annoyed at the son until the end and tells him to live his dream. The son doesn't have any strong powers (the red laser), but then he plays a guitar and he is powerful (the blue wave hitting the wolves. Defeats head wolf, happy ending. Now it is a story of how he got to that point and obviously has to do with a famous star and the main characters friends. Any other suggestions?",0,0,Caleb Barba,7BcG14OSB-k,0.15215617715617716,2016-12-24 21:00:24,True,True
+2016-12-25T04:51:06,eww furries,3,5,Elias Games,7BcG14OSB-k,0.0,2016-12-25 04:51:06,True,True
+2016-12-25T18:34:35,Emmet Otter and Kung Fu Panda,1,0,Emmet,7BcG14OSB-k,0.0,2016-12-25 18:34:35,True,True
+2016-12-25T19:16:06,...Hop?,0,0,MaxiTaxi 72301,7BcG14OSB-k,0.0,2016-12-25 19:16:06,True,True
+2016-12-26T00:17:42,Wjats the song in the trailer called ?,0,0,Game Girl 101,7BcG14OSB-k,0.0,2016-12-26 00:17:42,True,True
+2016-12-26T01:51:09,zootopia rock dlc,0,0,sokota,7BcG14OSB-k,0.0,2016-12-26 01:51:09,True,True
+2016-12-26T05:15:46,"I don't know bout y'all, but i'm getting a Big Hero Six feeling from this animation.",0,0,Emerald TabbyCat,7BcG14OSB-k,0.0,2016-12-26 05:15:46,True,True
+2016-12-26T17:08:12,Am i the only one who actually wants to see this?,0,0,Spicy Hotcakes,7BcG14OSB-k,0.1,2016-12-26 17:08:12,True,True
+2016-12-27T01:09:18,Why are wolves always the bad guys?,0,3,SquidHub Central,7BcG14OSB-k,-0.6999999999999998,2016-12-27 01:09:18,True,True
+2016-12-27T04:15:14,"Come ON, film makers. We want better stories, not the same generic BS we've already seen so many times before. Please can we have a new unique story?",1,1,hee hee hee hee,7BcG14OSB-k,0.2518939393939394,2016-12-27 04:15:14,True,True
+2016-12-27T07:46:05,"Wow, the cliche meter is off the charts. Idealistic son, unaccepting father, and New York setting.   Seriously I have never seen an animated movie try as LESS as this one.",1,0,InuTrash,7BcG14OSB-k,-0.0659090909090909,2016-12-27 07:46:05,True,True
+2016-12-27T13:02:03,These jokes are fucking abysmal. The animators were wasted on this shit,0,0,Tipsylou,7BcG14OSB-k,-0.3333333333333333,2016-12-27 13:02:03,True,True
+2016-12-27T18:21:47,"Wow, is there anything they DIDN'T put in this trailer?...",1,0,Furlow Torent,7BcG14OSB-k,0.1,2016-12-27 18:21:47,True,True
+2016-12-28T00:28:17,I totally knew about this,0,0,CorporalPig22,7BcG14OSB-k,0.0,2016-12-28 00:28:17,True,True
+2016-12-28T04:47:52,"FUrries hunger for more movies!! Everyone, let the furries eat up this movie. Who' swith me?! (IM A FURRY)",0,0,Matthew G.,7BcG14OSB-k,0.9765625,2016-12-28 04:47:52,True,True
+2016-12-28T07:43:13,"So this is gonna attract a lot of furries to the theater right?  Just like how Zootopia did?  Wait, isn't the plot the same?",0,0,Doctor Jones,7BcG14OSB-k,0.14285714285714285,2016-12-28 07:43:13,True,True
+2016-12-28T12:07:21,"I don't want to jump to conclusions just from watching a mere trailer, but this movie looks so....mediocre. I wish that commercials would not reveal SO MUCH about their movies - it completely RUINS the experience! That's why I was able to enjoy Zootopia; because the trailer was so misleading. I didn't know that piece would actual be about discrimination and race, I thought it was just a cute, well animated movie. It didn't show its entire plot in the trailer. We all know we have seen this type of story before: a protagonist has his future planned out for him, but he wants to do something else, so he leaves his home to follow his dreams...you get the idea. I can honestly predict this entire movie in my head - it's the same situation with Sing.   Besides the plot, this film is so lazily animated - it resembles Norm of the North, appearance wise. It's definitely not the WORST animation I have seen, but you can tell that the people behind this movie didn't try their best on the scenery. Perhaps they were on a budget cut - who knows?  Not only that, but the jokes I am observing in this trailer are so predictable and over-used....if you want comic relief, don't use moments that have been used for years - make your own ORIGINAL humor. Even movies for kids deserve to have an actual funny scenes.  But who am I to assume this movie will be so average? Maybe it will be better than I expected. (Personally, I know for sure that the British cat will be the saving grace of Rock Dog)",2,0,Derpy Unicorn,7BcG14OSB-k,0.11835937499999999,2016-12-28 12:07:21,True,True
+2016-12-28T21:07:43,Zootopia + Kung Fu Panda + Sing + Kubo and the Two Strings + Sheep and Wolves = This  This movie ripped off so much I lost count.,0,1,IceSmash,7BcG14OSB-k,0.2,2016-12-28 21:07:43,True,True
+2016-12-29T05:27:49,is anyone here for the most GOLD person ever Matt Dillon a.k.a Dallas Winston,0,0,Shea,7BcG14OSB-k,0.5,2016-12-29 05:27:49,True,True
+2016-12-29T23:03:36,wow everyone is a critic,0,0,JustN64,7BcG14OSB-k,0.1,2016-12-29 23:03:36,True,True
+2016-12-30T02:51:57,NOBODY SHOW THIS TO THE FURRIES!!! FOR ALL SAKE IN HUMANITY!!!,0,0,Maribel Rangel,7BcG14OSB-k,0.0,2016-12-30 02:51:57,True,True
+2016-12-30T08:48:43,3rd musical furry movie. k,0,5,Vault Rant,7BcG14OSB-k,0.0,2016-12-30 08:48:43,True,True
+2016-12-31T09:13:29,Is it just me or are they ripping off Zootopia? It still looks cool though,0,0,[Mr. Çøłïčhîøüś],7BcG14OSB-k,0.35,2016-12-31 09:13:29,True,True
+2016-12-31T17:35:53,Better than emoji movie.,0,0,Evie Princess123,7BcG14OSB-k,0.5,2016-12-31 17:35:53,True,True
+2016-12-31T20:43:19,"Are they asking for furries to ruin this with a line like ""I like it loud, I like it tight.."" Come on now..",0,0,DawnsyNugget,7BcG14OSB-k,-0.039285714285714285,2016-12-31 20:43:19,True,True
+2016-12-31T22:23:04,Is it just me or does this look like a foreign film that's getting a dub and is being put in theatres?,0,0,NeonLore,7BcG14OSB-k,-0.125,2016-12-31 22:23:04,True,True
+2017-01-01T05:09:36,This seems good I might watch it,0,0,Penguin Power,7BcG14OSB-k,0.7,2017-01-01 05:09:36,True,True
+2017-01-01T14:07:55,So it's like Sing if they just focused on one animal that wanted to become a musician?,0,0,MrAspiringactor,7BcG14OSB-k,0.0,2017-01-01 14:07:55,True,True
+2017-01-01T17:00:46,"Still gonna watch this. Don't give a damn if the trailer spoiled me. Looks adorable as all fuck. Too bad it doesn't come out on my February 10th birthday instead of Lego Batman. Of all the movies next year, I'm most hyped for this, Guardians Of the Galaxy Volume 2 and Captain Underpants.",0,0,CanzetYote,7BcG14OSB-k,-0.019999999999999973,2017-01-01 17:00:46,True,True
+2017-01-01T19:04:15,Animals With Clothes But No And Shoes? I don't understand that,0,0,Kate The Furry,7BcG14OSB-k,0.0,2017-01-01 19:04:15,True,True
+2017-01-01T21:43:14,Probs the only good movie coming out in 2017,0,1,Pyoxy Doge,7BcG14OSB-k,0.35,2017-01-01 21:43:14,True,True
+2017-01-01T23:26:08,I thought Chris Colfer was going to be in this....,0,0,Jennie,7BcG14OSB-k,0.0,2017-01-01 23:26:08,True,True
+2017-01-02T05:26:46,This is a b movie but it still looks fun,0,0,Cobeoe,7BcG14OSB-k,0.3,2017-01-02 05:26:46,True,True
+2017-01-02T22:33:35,I smell furries,0,0,Pants Time,7BcG14OSB-k,0.0,2017-01-02 22:33:35,True,True
+2017-01-03T05:30:05,zootopia made in china,8,1,Patrick Recio,7BcG14OSB-k,0.0,2017-01-03 05:30:05,True,True
+2017-01-03T06:39:41,meh.,0,0,Sylvia Animations,7BcG14OSB-k,0.0,2017-01-03 06:39:41,True,True
+2017-01-03T23:47:48,One movie closer for furries to taking over the world.  HELP,0,0,Divine Rose,7BcG14OSB-k,0.0,2017-01-03 23:47:48,True,True
+2017-01-04T02:49:20,well... looks like another generation of furries are coming on its way,0,0,Abe Galicia,7BcG14OSB-k,0.0,2017-01-04 02:49:20,True,True
+2017-01-04T03:28:46,This is literally Sing crossed with Kubo (also is that dog like a wizard monk or something),0,1,Ron Weasley,7BcG14OSB-k,0.0,2017-01-04 03:28:46,True,True
+2017-01-04T04:03:19,"This will probably flop and it's a shame. I just watched it at a private screening and I'm telling you, this movie deserves a shot. It's fun and full of lovely likable characters. Yes, the plot is a bit thin at times, but it's good nonetheless.",0,0,A Fox On The Internet,7BcG14OSB-k,0.2785714285714286,2017-01-04 04:03:19,True,True
+2017-01-04T04:19:42,Furries: the movie,0,0,LeGars Random,7BcG14OSB-k,0.0,2017-01-04 04:19:42,True,True
+2017-01-04T12:09:47,So its a mix between sing and zootopia? Ok,1,1,Matthew Alati,7BcG14OSB-k,0.5,2017-01-04 12:09:47,True,True
+2017-01-04T14:10:35,0:40 Is that 2D?,0,0,Skating Astronaut Chicken,7BcG14OSB-k,0.0,2017-01-04 14:10:35,True,True
+2017-01-04T20:02:51,atleast its not as stupid looking as the emoji movie       oh wait,0,0,masked,7BcG14OSB-k,-0.7999999999999999,2017-01-04 20:02:51,True,True
+2017-01-05T00:04:50,Furry,0,0,KosmicSheep,7BcG14OSB-k,0.0,2017-01-05 00:04:50,True,True
+2017-01-05T00:20:08,I heard danger dolan in this trailer,0,0,MEME LIQUID,7BcG14OSB-k,0.0,2017-01-05 00:20:08,True,True
+2017-01-05T00:20:45,The start of the trailer looks a lot like How to Train Your Dragon.,0,0,Joshua Dubois,7BcG14OSB-k,0.0,2017-01-05 00:20:45,True,True
+2017-01-05T04:06:11,"I mean it gave away its plot throughout the trailer,but it does seem like a nice light hearted movie that younger kids would enjoy",0,0,Garry,7BcG14OSB-k,0.21749999999999997,2017-01-05 04:06:11,True,True
+2017-01-05T04:56:51,This movie is a copy of the book of life,0,1,Mario Lok,7BcG14OSB-k,0.0,2017-01-05 04:56:51,True,True
+2017-01-05T05:11:59,is this zootopia or sing? XD,0,0,Os Lopez,7BcG14OSB-k,0.0,2017-01-05 05:11:59,True,True
+2017-01-05T09:36:34,I need to see this because Eddie izzard,0,0,MechaSaur 47,7BcG14OSB-k,0.0,2017-01-05 09:36:34,True,True
+2017-01-05T16:07:44,including music and dogs. i can die in peace now.,0,0,navarone25,7BcG14OSB-k,0.0,2017-01-05 16:07:44,True,True
+2017-01-05T19:51:21,Hi  peeps .. Omgwtfbbq train I really like  it vionenyl|  opposition   ..,0,0,Chloe Guillot,7BcG14OSB-k,0.2,2017-01-05 19:51:21,True,True
+2017-01-05T21:42:27,"That was Johnny from Sing saying ""Don't stop even if your dad says stop!""",0,0,Skittle Bunny,7BcG14OSB-k,0.0,2017-01-05 21:42:27,True,True
+2017-01-05T21:42:39,first time seeing a New movie.,0,0,Damian Reyes,7BcG14OSB-k,0.19318181818181818,2017-01-05 21:42:39,True,True
+2017-01-05T22:45:43,sing,0,0,Gavin Themoon,7BcG14OSB-k,0.0,2017-01-05 22:45:43,True,True
+2017-01-05T23:09:09,Lol all these movies where animals run the city. Where's a super mario movie?! Im sure Nintendo can work a deal with one of these talented studios. Stop scraping the barrel with these boring cliche movies,1,0,CellSaga,7BcG14OSB-k,0.2833333333333334,2017-01-05 23:09:09,True,True
+2017-01-06T03:32:57,This looks so bad,0,0,baknish,7BcG14OSB-k,-0.6999999999999998,2017-01-06 03:32:57,True,True
+2017-01-06T11:50:51,This actually looks really nice my only issue is the animation I think it could be improved a little more,0,0,Egg Sandwich,7BcG14OSB-k,0.1825,2017-01-06 11:50:51,True,True
+2017-01-06T15:08:09,Furies are gunna have fun with this one,3,0,SmileZ_xp,7BcG14OSB-k,0.3,2017-01-06 15:08:09,True,True
+2017-01-06T22:20:54,"You know this movie was from China from what I heard, so I'm wondering if the story and writing is different from one another. I wonder if I can find the original Chinese dub of it on kiss cartoon.",0,0,MC. Gemstone,7BcG14OSB-k,0.125,2017-01-06 22:20:54,True,True
+2017-01-07T03:12:09,gross,1,0,Erik Thompson,7BcG14OSB-k,0.0,2017-01-07 03:12:09,True,True
+2017-01-07T04:09:08,Zootopia 2,0,1,toto da doge,7BcG14OSB-k,0.0,2017-01-07 04:09:08,True,True
+2017-01-07T06:22:21,"Honestly, it does not look so bad .-. I like the character designs.",0,0,StitchedHeartHusky,7BcG14OSB-k,-0.04999999999999993,2017-01-07 06:22:21,True,True
+2017-01-07T07:09:45,THIS IS REALLY EITHER GOOD OR GENERIC CRAP.,0,0,PePoi [Josh/Joshua Sanchez],7BcG14OSB-k,0.024999999999999967,2017-01-07 07:09:45,True,True
+2017-01-07T07:35:10,There is probably already erotic fan art about this movie all over the internet.,0,0,Mysusbigsoss,7BcG14OSB-k,0.7,2017-01-07 07:35:10,True,True
+2017-01-07T07:40:27,"I like the idea of more animation companies and styles being brought into film! But... c'mon, there's gotta be a better story than this!",0,0,JCC0622,7BcG14OSB-k,0.625,2017-01-07 07:40:27,True,True
+2017-01-07T15:33:51,Trash!,0,0,Sir Jellyz,7BcG14OSB-k,0.0,2017-01-07 15:33:51,True,True
+2017-01-07T17:24:04,He's literally Kubo.,0,0,Mary Ryan,7BcG14OSB-k,0.0,2017-01-07 17:24:04,True,True
+2017-01-07T17:46:17,I dont know why but the animation looks really lazy and sloppy,0,0,toto da doge,7BcG14OSB-k,-0.33333333333333337,2017-01-07 17:46:17,True,True
+2017-01-07T19:22:16,Zootopia rip off much,3,1,CeledonianError,7BcG14OSB-k,0.2,2017-01-07 19:22:16,True,True
+2017-01-07T19:44:50,lol the little dude is almost like me. perfect lol I'm a furry so I'm terribly exited to see this movie,0,0,Curious Chlo,7BcG14OSB-k,0.28250000000000003,2017-01-07 19:44:50,True,True
+2017-01-07T22:17:12,"honestly, I like this mainly for the style / character design.",0,0,kat nat,7BcG14OSB-k,0.3833333333333333,2017-01-07 22:17:12,True,True
+2017-01-08T05:54:20,fake there is notorts 2,0,0,Tealu,7BcG14OSB-k,-0.5,2017-01-08 05:54:20,True,True
+2017-01-08T12:38:59,My power is a kamehameha wave,0,0,King Tagao,7BcG14OSB-k,0.0,2017-01-08 12:38:59,True,True
+2017-01-09T00:42:12,"this comments section makes me want to kill myself lmao have a little mercy guys, sheesh.",0,0,KAiROS,7BcG14OSB-k,0.20625,2017-01-09 00:42:12,True,True
+2017-01-09T07:25:05,i dont see y people R hating on this movie it looks pretty good,0,0,ATUM,7BcG14OSB-k,0.475,2017-01-09 07:25:05,True,True
+2017-01-09T21:10:38,It don't look that bad😕,0,0,MaxiTaxi 72301,7BcG14OSB-k,0.0,2017-01-09 21:10:38,True,True
+2017-01-10T00:18:23,This feels like the Book of LIfe... but shitty.,0,0,TDLBallistic,7BcG14OSB-k,0.0,2017-01-10 00:18:23,True,True
+2017-01-10T11:01:35,This is gonna get the AniMat Seal of Garbage. I'm calling it right now.,0,0,Sarah Barker,7BcG14OSB-k,0.2857142857142857,2017-01-10 11:01:35,True,True
+2017-01-10T22:21:30,"This... does not look good, animation wise at least",0,0,SpaceBun,7BcG14OSB-k,0.36666666666666664,2017-01-10 22:21:30,True,True
+2017-01-10T23:39:54,This looks kool.,1,0,Mint Brisk,7BcG14OSB-k,0.0,2017-01-10 23:39:54,True,True
+2017-01-12T03:22:36,"""Never stop. Even when your dad says 's-stop!'""  auuuuuuggghhhhh that line was so foooorrrrcccceeeddd",0,0,Cobro,7BcG14OSB-k,0.0,2017-01-12 03:22:36,True,True
+2017-01-12T04:38:59,"omg there's anthropormophic animals in the movie it must be a copy of zootopia!1!1!  -Most of the comments, like if there wasn't any movie about human-like animals before shitoopia",0,0,Statik Cyborg,7BcG14OSB-k,0.5,2017-01-12 04:38:59,True,True
+2017-01-12T06:42:52,Let me guess? Another Chinese colab animated movie that st-er borrows plot points from other movies,0,0,Pooky1991,7BcG14OSB-k,-0.0625,2017-01-12 06:42:52,True,True
+2017-01-12T14:27:32,¿Alguien sabe cómo se llama la canción que está interpretando en el minuto 0:19 ?  Does anyone know what the song is called that is playing in the 0:19 minute?,0,0,Leon Campos,7BcG14OSB-k,0.0,2017-01-12 14:27:32,True,True
+2017-01-12T16:57:07,"what's this? Combination between Zootopia, Sing and Kubo?",0,0,MotoboyFD,7BcG14OSB-k,0.0,2017-01-12 16:57:07,True,True
+2017-01-12T23:42:44,I actually want to see this movie??,0,0,idolgirl,7BcG14OSB-k,0.0,2017-01-12 23:42:44,True,True
+2017-01-13T02:26:55,I thought 2017 will be better.,0,0,Kyle Nakogee,7BcG14OSB-k,0.5,2017-01-13 02:26:55,True,True
+2017-01-13T21:56:22,Even though rock will kill us all. Don't listen. Just do it,0,0,Purple Yoshi HD,7BcG14OSB-k,0.0,2017-01-13 21:56:22,True,True
+2017-01-13T23:34:41,"yay, my friend's uncle is in this. Matt dillon! :D",0,0,Team ICE,7BcG14OSB-k,1.0,2017-01-13 23:34:41,True,True
+2017-01-14T02:41:32,"There's already so much yiff for this.   Coming soon.  And I don't just mean theaters, if you get my drift.",0,0,Jake,7BcG14OSB-k,-0.056249999999999994,2017-01-14 02:41:32,True,True
+2017-01-14T10:52:02,Is this the movie HOP but with Dogs?,0,0,Sannimate,7BcG14OSB-k,0.0,2017-01-14 10:52:02,True,True
+2017-01-15T00:07:39,This looks pretty awful.,0,0,Saturn Galactic,7BcG14OSB-k,-0.375,2017-01-15 00:07:39,True,True
+2017-01-15T00:18:07,Oh god furry movies burn them all,3,0,Olivia's Roblox Codes,7BcG14OSB-k,0.0,2017-01-15 00:18:07,True,True
+2017-01-15T04:52:11,at 1:55 it looks like kubbo and the 2 strings,0,0,Lps_SugaryHeaven,7BcG14OSB-k,0.0,2017-01-15 04:52:11,True,True
+2017-01-15T15:20:12,can anyone tell me who the white cat is voiced by,0,0,Captain Connor,7BcG14OSB-k,0.0,2017-01-15 15:20:12,True,True
+2017-01-15T20:17:02,I really hate movies that spoiled the ending in the trailer because his is power is music and blows you away with music tones,0,0,Choco,7BcG14OSB-k,-0.8,2017-01-15 20:17:02,True,True
+2017-01-15T20:49:38,#ROCKDOG DUDE OHHHHH MY GOD,0,0,Mr Music,7BcG14OSB-k,0.0,2017-01-15 20:49:38,True,True
+2017-01-15T21:59:28,"Yup, this will have 2x the porn made than Zootopia. Can't wait for furries to screw up this kid movie",0,0,Jose Urbano,7BcG14OSB-k,0.0,2017-01-15 21:59:28,True,True
+2017-01-16T12:21:52,DAM there's a lot of movies coming out,0,0,Jonboy kickpick,7BcG14OSB-k,0.0,2017-01-16 12:21:52,True,True
+2017-01-16T22:27:16,sing+zootopia=rock dog,0,0,Anthony Lara Jr,7BcG14OSB-k,0.0,2017-01-16 22:27:16,True,True
+2017-01-16T23:06:09,Zootopia vs secret life of pets vs sing vs rock dog. Are there any others I missed ?,0,0,Jack Thomas,7BcG14OSB-k,-0.4,2017-01-16 23:06:09,True,True
+2017-01-17T01:36:46,the legend Sam Elliott is back,0,0,Holly Young242,7BcG14OSB-k,0.0,2017-01-17 01:36:46,True,True
+2017-01-17T04:01:04,i got a lot of movies too see,0,0,Shoe Gazee,7BcG14OSB-k,0.0,2017-01-17 04:01:04,True,True
+2017-01-17T12:41:51,Kubo anyone??,0,0,olu Ave,7BcG14OSB-k,0.0,2017-01-17 12:41:51,True,True
+2017-01-17T22:47:55,I want this now,0,0,TheEmeraldMinecart /DISNEYFAN137,7BcG14OSB-k,0.0,2017-01-17 22:47:55,True,True
+2017-01-18T01:50:17,OMG LEWIS BLACK :D,0,0,GodsDeceased,7BcG14OSB-k,0.4166666666666667,2017-01-18 01:50:17,True,True
+2017-01-18T01:55:55,MATT DILLON OMFGGGGGGGGGGGGGGGGG,1,0,Alondra Romero,7BcG14OSB-k,0.0,2017-01-18 01:55:55,True,True
+2017-01-18T04:17:10,This looks like it cost $10 to make the whole movie,0,0,Koi,7BcG14OSB-k,0.2,2017-01-18 04:17:10,True,True
+2017-01-18T04:54:37,Oh god... The animation. Ohhhh nooooo... Norm of the north bad.,0,0,unga bunga,7BcG14OSB-k,-0.6999999999999998,2017-01-18 04:54:37,True,True
+2017-01-18T11:08:44,would watch.,0,0,SuperSaiyanDinosaur,7BcG14OSB-k,0.0,2017-01-18 11:08:44,True,True
+2017-01-18T14:01:53,HORRIBLE TERRIBLE THE DIRECTOR CAN EAT MY ASS,1,1,MDSsystems,7BcG14OSB-k,-1.0,2017-01-18 14:01:53,True,True
+2017-01-18T19:20:31,"""Snow Mountain"", eh? I'm guessing it's right next to Water Lake.",0,0,Omnywrench,7BcG14OSB-k,0.14285714285714285,2017-01-18 19:20:31,True,True
+2017-01-18T22:34:07,"Follow your pation,     Wow never heard that in a kid movie before",0,0,24235347,7BcG14OSB-k,0.1,2017-01-18 22:34:07,True,True
+2017-01-19T08:14:23,"This looks like ""Robots"" but now with animals and the plot being about learning how to play guitar",0,0,Leopold Litchenstein,7BcG14OSB-k,0.0,2017-01-19 08:14:23,True,True
+2017-01-19T19:44:11,This looks like a movie Jontron would talk about,0,0,Hunter Huang,7BcG14OSB-k,0.0,2017-01-19 19:44:11,True,True
+2017-01-20T11:17:08,wooh looks like a fun time :3,0,0,FurryFoofi,7BcG14OSB-k,0.4,2017-01-20 11:17:08,True,True
+2017-01-20T11:32:22,"At least in this movie, no dog was forced into the water",0,0,TheSolidMidget,7BcG14OSB-k,-0.30000000000000004,2017-01-20 11:32:22,True,True
+2017-01-20T15:05:30,yiff yiff yiff,0,0,ranCidK1ll,7BcG14OSB-k,0.0,2017-01-20 15:05:30,True,True
+2017-01-20T21:49:05,Nice to know Luke Wilson is still finding work....,0,0,Bob Tom,7BcG14OSB-k,0.6,2017-01-20 21:49:05,True,True
+2017-01-21T01:32:54,I lost interest when I saw the dog shoot lasers...for some reason?,0,0,Nate Roe,7BcG14OSB-k,0.0,2017-01-21 01:32:54,True,True
+2017-01-21T02:26:12,"Looks like an early year, Norm of the North style movie!",0,0,Pomp Incarnate,7BcG14OSB-k,0.125,2017-01-21 02:26:12,True,True
+2017-01-21T05:43:20,"JK Simmons is going to turn into another Christopher Lloyd, constantly showing up in less and less prestigious projects.  You were Ford and Jameson!",0,0,BB5_MGAN,7BcG14OSB-k,-0.125,2017-01-21 05:43:20,True,True
+2017-01-21T15:34:00,There's so many animal themed movies,0,0,19manjeets,7BcG14OSB-k,0.5,2017-01-21 15:34:00,True,True
+2017-01-21T21:31:27,Because we needed more furries.,0,0,Nerd,7BcG14OSB-k,0.5,2017-01-21 21:31:27,True,True
+2017-01-21T22:33:01,rock dog it's gonna be a bad movie and should not been in the movie theaters it should have been a direct DVD movie,0,2,Mariogamer,7BcG14OSB-k,-0.29999999999999993,2017-01-21 22:33:01,True,True
+2017-01-22T15:04:41,The CGI looks so bad  The flat grass looks so bad,0,0,ava,7BcG14OSB-k,-0.4749999999999999,2017-01-22 15:04:41,True,True
+2017-01-22T15:37:11,Zootopia+sing+kung fu panda= crappy movie,0,0,TheDinopug,7BcG14OSB-k,0.0,2017-01-22 15:37:11,True,True
+2017-01-22T19:11:26,"looks cute, but, I am sure they showed the entire movie in this one trailer. And obviously inspired by zootopia.",0,0,Ambercat_,7BcG14OSB-k,0.25,2017-01-22 19:11:26,True,True
+2017-01-22T19:59:29,even though I don't know how this movies gonna turn out I think it would be alot better if it was a dumb action with laser dogs fighting wolf aliens trying to steal & eat the sheep,0,0,Jamal Abdisalam,7BcG14OSB-k,0.075,2017-01-22 19:59:29,True,True
+2017-01-22T22:14:45,The Author Of The Journals...My Dog,0,0,SluskerHusker,7BcG14OSB-k,0.0,2017-01-22 22:14:45,True,True
+2017-01-23T21:43:49,CANT WAIT!!!!!!!!!!!!,0,0,Clap Reload,7BcG14OSB-k,0.0,2017-01-23 21:43:49,True,True
+2017-01-23T23:55:37,another furrie movie for furry weirdos.,0,0,Joaquín Cisternas,7BcG14OSB-k,0.0,2017-01-23 23:55:37,True,True
+2017-01-24T01:57:49,So the last Airbender with Zootopia? Cool,0,0,Sara Parker Scamander,7BcG14OSB-k,0.175,2017-01-24 01:57:49,True,True
+2017-01-26T02:56:26,Acnl rip off,0,0,Lenin Reyes,7BcG14OSB-k,0.0,2017-01-26 02:56:26,True,True
+2017-01-26T02:56:34,Acnl rip off,0,0,Lenin Reyes,7BcG14OSB-k,0.0,2017-01-26 02:56:34,True,True
+2017-01-26T03:16:06,This seems to be a very gneiss meme.       ill go now...,0,0,heptaseptagon,7BcG14OSB-k,-0.15,2017-01-26 03:16:06,True,True
+2017-01-26T17:14:55,"So, I guess there's a new era for CGI: Furry Cancer",2,0,Clorox Bleach,7BcG14OSB-k,0.13636363636363635,2017-01-26 17:14:55,True,True
+2017-01-27T00:41:07,YAY A FURRY MOVIE IM SO EXCITED,0,0,xoindicreexo,7BcG14OSB-k,0.375,2017-01-27 00:41:07,True,True
+2017-01-27T00:42:30,How much did they pay JK Simmons to do this?😂😂😂,0,0,Padenoni,7BcG14OSB-k,0.2,2017-01-27 00:42:30,True,True
+2017-01-28T01:58:41,Omg. I wonder what the story is going to be.,2,0,Killerwhale 6011,7BcG14OSB-k,0.0,2017-01-28 01:58:41,True,True
+2017-01-28T17:38:31,"Okay, this seems A LOT like Johnny's story in SIng. :|",0,0,weirdloverofthings,7BcG14OSB-k,0.5,2017-01-28 17:38:31,True,True
+2017-01-28T18:16:12,"Isn't this just the plot of ""hop"",  This movie: I want to be in a band, nope you have to be a guard dog.  Hop: I want to play drums, nope you have to be the easter bunny.",1,0,VolcanicArts,7BcG14OSB-k,0.0,2017-01-28 18:16:12,True,True
+2017-01-29T01:57:51,First zootopia then sing and now this what other animal cities are out there,0,0,Kalvin Nue,7BcG14OSB-k,0.0625,2017-01-29 01:57:51,True,True
+2017-01-29T02:38:37,"should rename this to ""Another Furry Magnet Movie""",0,0,THOTpatrol,7BcG14OSB-k,0.0,2017-01-29 02:38:37,True,True
+2017-01-30T16:22:09,Whats the name of the song?,0,0,Denzel !,7BcG14OSB-k,0.0,2017-01-30 16:22:09,True,True
+2017-01-30T22:51:59,I'm so having another movie meetup when this comes out,0,0,PandaChickenProductions,7BcG14OSB-k,0.0,2017-01-30 22:51:59,True,True
+2017-01-31T03:25:09,Cock Dog,3,0,Daniel Attrell,7BcG14OSB-k,0.0,2017-01-31 03:25:09,True,True
+2017-01-31T03:44:23,The narrator makes me cringe,0,0,PendingName,7BcG14OSB-k,0.0,2017-01-31 03:44:23,True,True
+2017-01-31T12:32:30,if post Malone was a dog,0,0,Anshumaan Rathi,7BcG14OSB-k,0.0,2017-01-31 12:32:30,True,True
+2017-01-31T14:07:16,"If I were to see this movie, I would be expecting Rock music, not pop.",0,0,Phillip Marlowe,7BcG14OSB-k,0.0,2017-01-31 14:07:16,True,True
+2017-01-31T14:22:40,"The song is new lyrics over the rhythm of ""Long Cool Woman"" by The Hollies and ""Bang a Gong"" by T. Rex.",0,0,Phillip Marlowe,7BcG14OSB-k,0.14545454545454545,2017-01-31 14:22:40,True,True
+2017-01-31T22:45:44,can I fuck the dog?,0,0,Leon Boko,7BcG14OSB-k,-0.4,2017-01-31 22:45:44,True,True
+2017-02-01T01:31:05,cool i wanna see this,0,0,XxwolffybeatsxX,7BcG14OSB-k,0.35,2017-02-01 01:31:05,True,True
+2017-02-01T03:58:28,I can't wait to see this movie when It comes out it looks good,0,0,Pikachu Doo,7BcG14OSB-k,0.7,2017-02-01 03:58:28,True,True
+2017-02-01T05:38:47,fuck yeah!,2,0,Lucas Lindsey,7BcG14OSB-k,-0.5,2017-02-01 05:38:47,True,True
+2017-02-01T05:39:18,"imagine yourself walking into the movie theater and watching rock dog, yea!",3,0,Lucas Lindsey,7BcG14OSB-k,0.0,2017-02-01 05:39:18,True,True
+2017-02-01T07:08:21,Come on. We just had norm of the north. We're not ready for this shit yet.,0,0,Andy Oliva,7BcG14OSB-k,-0.15000000000000002,2017-02-01 07:08:21,True,True
+2017-02-01T18:03:13,"Even though this looks like a poor mish mash of Kung Fu Panda, Norm Of The North and Zootopia, right down to the opening lines of the trailer, I'm personally hoping it'll be good. If only to cringe and sigh at it I think I'll go see it",0,0,Dave Kennell,7BcG14OSB-k,0.07169312169312168,2017-02-01 18:03:13,True,True
+2017-02-01T20:52:24,the animation is cute!!!!!,0,0,Hannah Mutant Spider 11,7BcG14OSB-k,1.0,2017-02-01 20:52:24,True,True
+2017-02-02T01:34:19,Oh my god that looks so dumb and unoriginal...,0,0,Harlo Bizzaro,7BcG14OSB-k,-0.2875,2017-02-02 01:34:19,True,True
+2017-02-02T18:15:43,"Sooooo The Book of Life with animals instead? Sounds blockbuster worthy, totally not a cheap cash in...  Also, Sam Elliot, what are you doing here?! You played a much better bovine in Barnyard, at least the animation was pretty decent",0,0,Professor Multipurpose,7BcG14OSB-k,0.11666666666666664,2017-02-02 18:15:43,True,True
+2017-02-02T20:02:06,and what do we have her to criticze to day OH? a stupid movie jest don't watch it and instead watch star wars Rogue one and get a baby sitter to watch this stupid movie with your kid,0,0,Erik J Grotland,7BcG14OSB-k,-0.7999999999999999,2017-02-02 20:02:06,True,True
+2017-02-03T02:48:29,clishe to the max,0,0,Elbert Jones,7BcG14OSB-k,0.0,2017-02-03 02:48:29,True,True
+2017-02-03T03:35:30,Cool new Kubo movie...,0,0,Abram Santos,7BcG14OSB-k,0.24318181818181817,2017-02-03 03:35:30,True,True
+2017-02-03T20:08:05,"Yay, a new animal animation just what we all wanted 😑*opinion,no hate*",0,0,Melody Mel,7BcG14OSB-k,-0.33181818181818185,2017-02-03 20:08:05,True,True
+2017-02-04T00:05:58,"Generic crap, also yee",0,0,ThatAnimationNoob01,7BcG14OSB-k,-0.4,2017-02-04 00:05:58,True,True
+2017-02-04T05:37:09,Why does the dog's dad sound like Stanford Pines to me-,0,0,Kero!,7BcG14OSB-k,0.4,2017-02-04 05:37:09,True,True
+2017-02-04T17:31:48,The red cord with the red phone part reminds me of Lewis Black as Anger from Inside Out.,0,0,Joaquin Hernandez,7BcG14OSB-k,-0.21666666666666665,2017-02-04 17:31:48,True,True
+2017-02-04T19:43:47,It makes me so happy to know that anthro animal movies are expanding. Now all I need is an anthro action anime. *hint hint*,0,0,Insomni-act,7BcG14OSB-k,0.45,2017-02-04 19:43:47,True,True
+2017-02-04T23:15:17,I got a great movie to show you guys star trek its better then this,0,0,Erik J Grotland,7BcG14OSB-k,0.65,2017-02-04 23:15:17,True,True
+2017-02-05T03:15:44,wow this animation looks like some straight to dvd stuff,0,0,Adrian,7BcG14OSB-k,0.15000000000000002,2017-02-05 03:15:44,True,True
+2017-02-05T04:18:01,for those who think this movie is shitter and worst then zootopia let me tell you this this movie has been planned more than 5 yrs way before zootopia and is a cooperation between the chinese and hollywood  and its has been released in china last year . the ratings are bad tbh because most of the ppl do not understand the plot and the budget hit less then expected .,0,0,Dora mon,7BcG14OSB-k,-0.12083333333333329,2017-02-05 04:18:01,True,True
+2017-02-05T16:10:32,So the co-director of the worst toy-story oooo I can not wait,0,0,Bruh Sound effect,7BcG14OSB-k,-1.0,2017-02-05 16:10:32,True,True
+2017-02-05T17:17:49,The furries are taking over 😂,0,0,mason fason,7BcG14OSB-k,0.0,2017-02-05 17:17:49,True,True
+2017-02-05T19:03:19,ANOTHER movie about the character wanting to be a musician?!,0,1,Hybrid Dimension,7BcG14OSB-k,0.0,2017-02-05 19:03:19,True,True
+2017-02-05T20:07:13,Zootopia 2.,0,0,A Meme.,7BcG14OSB-k,0.0,2017-02-05 20:07:13,True,True
+2017-02-05T20:08:15,0:16 11/10 best shot ever,0,0,A Meme.,7BcG14OSB-k,1.0,2017-02-05 20:08:15,True,True
+2017-02-06T01:04:23,Because a good guard dog has to shoot laser from their paws... wait what??,0,0,MsLallina,7BcG14OSB-k,0.7,2017-02-06 01:04:23,True,True
+2017-02-06T09:28:53,Anyone got kubo vibes???,0,0,bonboniita,7BcG14OSB-k,0.0,2017-02-06 09:28:53,True,True
+2017-02-06T09:55:49,I don't want to rag on this too hard because it's for children but Jesus this looks like someone made a movie based on their fursona and that cracks me up so hard.,0,0,Jason Tentacles,7BcG14OSB-k,-0.2916666666666667,2017-02-06 09:55:49,True,True
+2017-02-06T10:08:56,Rock Lobster?,0,0,XVIRUSTV,7BcG14OSB-k,0.0,2017-02-06 10:08:56,True,True
+2017-02-06T15:21:25,"""Rock dog""     Rockruff,lycanroc midday/midnight",6,0,Lillie Sunmoon,7BcG14OSB-k,0.0,2017-02-06 15:21:25,True,True
+2017-02-06T15:25:45,I just feel like watched the hole movie...thank you trailer!,0,0,marilucs,7BcG14OSB-k,0.0,2017-02-06 15:25:45,True,True
+2017-02-06T16:05:40,"Wow. Hasn't this cliche plot been done to death already?  ""I'm going to pursue my dreams!!!!"" ""No! You're going to do this thing that I want you to do that's boring, practical and realistic!"" ""Well, I'm not going to listen to you and do what I want anyway!""  Fucking hell. Let it die already.",0,0,LOOMING WRAITH OF BAD OMEN,7BcG14OSB-k,-0.25860188802083334,2017-02-06 16:05:40,True,True
+2017-02-06T21:15:03,gonna suck,0,0,Angelika Weiss,7BcG14OSB-k,0.0,2017-02-06 21:15:03,True,True
+2017-02-07T12:17:15,"Oh shit, they made a Norm of the North sequel?!",0,0,Khalil,7BcG14OSB-k,-0.25,2017-02-07 12:17:15,True,True
+2017-02-07T18:53:42,Why Does This Exist,0,0,EXPlus,7BcG14OSB-k,0.0,2017-02-07 18:53:42,True,True
+2017-02-07T23:39:22,"even if it turns out to be a bad movie, i like the simplicity of the animation (like the fur isn't detailed) it gives it this kinda cartoony feel that i think makes it good because shitty movies with weird proportions (like sing) probably should've done something more like this.",0,0,Dante Alijah Marchetti,7BcG14OSB-k,0.08000000000000003,2017-02-07 23:39:22,True,True
+2017-02-08T02:39:11,no the animtion is lackluster for today and the characters fill unnatural,0,0,trump Brooks,7BcG14OSB-k,0.0,2017-02-08 02:39:11,True,True
+2017-02-08T02:40:59,I wanna know who the fox is becasue foxes are my favorite animal XD,0,0,sarah ll-//,7BcG14OSB-k,0.5,2017-02-08 02:40:59,True,True
+2017-02-08T11:40:08,"To be honest when I hear this narrarator's voice, Its going to be a bad movie or so...but Ill make this one as an exeption...",0,0,Kirby Verano,7BcG14OSB-k,-0.19999999999999996,2017-02-08 11:40:08,True,True
+2017-02-08T18:40:27,this is like zootopia a little bit,0,0,Rose,7BcG14OSB-k,-0.1875,2017-02-08 18:40:27,True,True
+2017-02-08T22:56:31,"So, it's basically Book of Life but with with sheep?",1,3,Haley Lastname,7BcG14OSB-k,0.0,2017-02-08 22:56:31,True,True
+2017-02-09T14:19:24,well looks like another furry movie,0,0,Pedro Conti,7BcG14OSB-k,0.0,2017-02-09 14:19:24,True,True
+2017-02-09T16:20:49,I love Sam Elliot. I am living the dream.,0,0,RedWolfConspiracy,7BcG14OSB-k,0.5,2017-02-09 16:20:49,True,True
+2017-02-09T22:20:26,"For once the main character isn't super brave and ""cool"" and just likes rock.",0,0,Face Bacon,7BcG14OSB-k,0.4125,2017-02-09 22:20:26,True,True
+2017-02-10T00:34:44,"First the guy in Point Break who dies, then a guy in Rouge One who dies, and now a talking dog??? Why do the worst characters get my name?",0,0,Bodhi,7BcG14OSB-k,-0.375,2017-02-10 00:34:44,True,True
+2017-02-10T02:37:53,At least this can't be worse than norm of the north,0,0,White Knight,7BcG14OSB-k,-0.35,2017-02-10 02:37:53,True,True
+2017-02-10T02:43:44,Sounds like a dumb mix between zootopia and sing. Very original wowwww,0,0,Kate Vickrey,7BcG14OSB-k,0.05625000000000002,2017-02-10 02:43:44,True,True
+2017-02-10T22:40:07,WTF I NEVER SEE MY NAME IN THE MEDIA WHAT IS THIS,0,0,BoDee Angus,7BcG14OSB-k,-0.5,2017-02-10 22:40:07,True,True
+2017-02-10T23:45:09,I can almost SMELL the rule34,4,1,oh yeah mr. krabs,7BcG14OSB-k,0.0,2017-02-10 23:45:09,True,True
+2017-02-11T01:21:47,What is the song used?,0,0,Limom3,7BcG14OSB-k,0.0,2017-02-11 01:21:47,True,True
+2017-02-11T02:35:25,Zootopia meets Kubo,0,0,NightDreamer231,7BcG14OSB-k,0.0,2017-02-11 02:35:25,True,True
+2017-02-11T08:23:13,The most unoriginal plot imaginable,0,0,Jeremy Callahan,7BcG14OSB-k,0.15,2017-02-11 08:23:13,True,True
+2017-02-11T16:05:25,terrible.,2,0,jules,7BcG14OSB-k,-1.0,2017-02-11 16:05:25,True,True
+2017-02-11T20:22:45,As a furry I love it,0,0,Jaxy,7BcG14OSB-k,0.5,2017-02-11 20:22:45,True,True
+2017-02-11T23:21:55,Can't wait to see it!!!,0,0,artistdeterminedmsv,7BcG14OSB-k,0.0,2017-02-11 23:21:55,True,True
+2017-02-12T01:12:19,#rockdog,0,0,the ballistic stampede,7BcG14OSB-k,0.0,2017-02-12 01:12:19,True,True
+2017-02-12T03:39:49,it looks like a good movie to me,0,0,Nathan Warren,7BcG14OSB-k,0.7,2017-02-12 03:39:49,True,True
+2017-02-12T04:08:57,Is it strange that I see Chase from PAW Patrol,0,0,Penelope Nurse-Pup,7BcG14OSB-k,-0.05,2017-02-12 04:08:57,True,True
+2017-02-12T05:06:58,"Only women and dumb children would like this, because women and children have the same mentality.",0,0,Liberal bias,7BcG14OSB-k,-0.125,2017-02-12 05:06:58,True,True
+2017-02-12T12:44:16,this is what happens when you mix the movie kubo with sing...,0,0,legend of u,7BcG14OSB-k,0.0,2017-02-12 12:44:16,True,True
+2017-02-13T17:45:55,ahem... ******* furrys!,0,0,Notapig_333,7BcG14OSB-k,0.0,2017-02-13 17:45:55,True,True
+2017-02-14T04:36:39,I'm so excited for this it's definitely going to surpass Zootopia.,0,0,OverRottenWaddup,7BcG14OSB-k,0.1875,2017-02-14 04:36:39,True,True
+2017-02-14T21:15:33,This is literally Kubo and the Two Strings fused with Sing. Way to be original guys...,0,0,CheetoDustFairy,7BcG14OSB-k,0.375,2017-02-14 21:15:33,True,True
+2017-02-14T21:30:38,NeoGAF. Slayven is an anti-white racist. Discover voat.co/v/neofag,0,0,Syler Bennet,7BcG14OSB-k,0.0,2017-02-14 21:30:38,True,True
+2017-02-16T22:46:24,"Give it a rest, people. This doesn't look that bad. There have been plenty of animal related movies, and this is just adding to that list. Sure, the whole concept might be unoriginal, and the animation a little outdated, but it honestly doesn't look like a Zootopia rip-off. This is my opinion, at least. If you wanna go around saying this looks like crap, go right ahead. But cut it some slack, at least.",0,0,Wolf in Sheep's clothing,7BcG14OSB-k,-0.1309065934065934,2017-02-16 22:46:24,True,True
+2017-02-17T02:17:01,"More furry's, FUCKING GREAT!!!!",0,0,EnZ0,7BcG14OSB-k,0.75,2017-02-17 02:17:01,False,True
+2017-02-17T03:48:13,#RockDog,1,0,Kwazii,7BcG14OSB-k,0.0,2017-02-17 03:48:13,False,True
+2017-02-17T04:03:41,Why is Cave Johnson in another furry movie?,0,0,Mr.Pat,7BcG14OSB-k,0.0,2017-02-17 04:03:41,False,True
+2017-02-17T17:19:29,seems like the other side of that movie comming that the wolf becomes a sheep....what is it with these things lol,0,0,Sashido Zerako,7BcG14OSB-k,0.3375,2017-02-17 17:19:29,False,True
+2017-02-17T20:17:20,so we're to that point where a name for a movie in a comedy is an actual movie,0,0,Daddy D,7BcG14OSB-k,0.0,2017-02-17 20:17:20,False,True
+2017-02-18T14:59:39,i GUARANTEE this will be full of Rule 34 ;(,1,0,Nixolas,7BcG14OSB-k,0.35,2017-02-18 14:59:39,False,True
+2017-02-18T17:22:51,MATT DILLON 🙀😻😽,1,0,Erin Fritz,7BcG14OSB-k,0.0,2017-02-18 17:22:51,False,True
+2017-02-18T19:38:27,This looks so freaking generic it hurts.,0,0,Andrew Cales,7BcG14OSB-k,0.0,2017-02-18 19:38:27,False,True
+2017-02-18T23:38:09,sing meets Zootobia,0,0,Brian Bradshaw,7BcG14OSB-k,0.0,2017-02-18 23:38:09,False,True
+2017-02-18T23:44:19,This really was the most expensive animated feature the PRC ever made?,0,0,Inkan1969,7BcG14OSB-k,0.06666666666666665,2017-02-18 23:44:19,False,True
+2017-02-19T18:09:15,Trailers from 2017 : Spoiler the movie for you,0,0,Fortune Finn,7BcG14OSB-k,0.0,2017-02-19 18:09:15,False,True
+2017-02-20T00:56:30,Saw this yesterday loved it! :3,0,0,linda c,7BcG14OSB-k,0.6875,2017-02-20 00:56:30,False,True
+2017-02-20T02:04:14,"I Love J.K. Simmons, & Lewis Black.",0,0,strongdrew941,7BcG14OSB-k,0.16666666666666669,2017-02-20 02:04:14,False,True
+2017-02-20T04:01:48,Bootleg ass zootopia,3,1,Tcg_time,7BcG14OSB-k,-0.4,2017-02-20 04:01:48,False,True
+2017-02-20T04:33:45,Looks mediocre at best.,0,0,Parforet,7BcG14OSB-k,0.25,2017-02-20 04:33:45,False,True
+2017-02-20T05:09:30,"a lot of the new upcoming movies are either mediocre, or flat out garbage.",1,0,Cat Rawr,7BcG14OSB-k,-0.12954545454545455,2017-02-20 05:09:30,False,True
+2017-02-20T05:15:45,This movies plot is legit so overused...,0,0,It's Elijah,7BcG14OSB-k,0.0,2017-02-20 05:15:45,False,True
+2017-02-20T08:50:53,"ITS JUST THE EASTER MOVIE THEY RIPPED OFF ""HOP""",0,0,Keaton,7BcG14OSB-k,0.0,2017-02-20 08:50:53,False,True
+2017-02-20T08:53:20,this is literally fucking Hop but with a dog lmaooo,0,0,Autumn-Springs,7BcG14OSB-k,-0.6,2017-02-20 08:53:20,False,True
+2017-02-20T09:30:59,The wolves are the illuminati/jews done.....,0,0,HAIL SIMOS,7BcG14OSB-k,0.0,2017-02-20 09:30:59,False,True
+2017-02-20T12:30:05,"""Any advice for musicians? Never stop! Even when your dad says stop!"", I bet that's gonna annoy a lot of dads who bring their 7-year-old sons to this and for the next 5 hours the kid will keep playing air-guitar and making loud guitar noises with their mouth and when their dad tells them to stop the 7-year-old is like ""NO DAD! MITH-TER THCATTER TOLD ME TO NEVER THTOP EVEN WHEN YOUR DAD THAYS THTOP!""",0,0,thetrashslingingasher,7BcG14OSB-k,0.078125,2017-02-20 12:30:05,False,True
+2017-02-20T18:49:50,this better not be another norm of the north.,0,0,mr relic,7BcG14OSB-k,0.5,2017-02-20 18:49:50,False,True
+2017-02-21T00:42:35,why so many views?,0,0,Johnathan scott,7BcG14OSB-k,0.5,2017-02-21 00:42:35,False,True
+2017-02-21T01:45:47,This is basically Hop mixed with Sing,0,0,Sam T,7BcG14OSB-k,0.0,2017-02-21 01:45:47,False,True
+2017-02-21T04:59:14,The next Norm of the North,4,1,spectrecutlass,7BcG14OSB-k,0.0,2017-02-21 04:59:14,False,True
+2017-02-21T05:17:06,"For all the people saying it's a ripoff of Zootopia, Kubo and the two strings, Kung Fu panda etc here are some facts:  -This movie is based off a graphic novel from 2009.  -The movie came out in China in June 2016, and was being worked on for over 5 years (That was before Sing and Kubo and the Two Strings came out)  -Animal movies have been around forever  So I hope you understand that this is not a ripoff at all, and it was a coincidence that these other movies came out before Rock Dog!",0,0,Princess Sana [twice pickles],7BcG14OSB-k,-0.078125,2017-02-21 05:17:06,False,True
+2017-02-21T06:45:48,When ur running out of movie ideas but u still have to make movies to make a living,0,0,Ariana Antonio,7BcG14OSB-k,0.0,2017-02-21 06:45:48,False,True
+2017-02-21T23:24:09,Watched 6 seconds already thought of Zootopia,0,0,FlyingSpartan,7BcG14OSB-k,0.0,2017-02-21 23:24:09,False,True
+2017-02-22T00:07:34,another furry film,0,0,FlyingSpartan,7BcG14OSB-k,0.0,2017-02-22 00:07:34,False,True
+2017-02-22T01:43:49,they kinda ripped of kubo,0,0,Jotaro & Johlyne Kujo,7BcG14OSB-k,0.0,2017-02-22 01:43:49,False,True
+2017-02-22T05:02:16,what's up with all the animation movies and furries god think of the children,0,0,d0ede3r,7BcG14OSB-k,0.0,2017-02-22 05:02:16,False,True
+2017-02-22T08:09:59,e621 is going have a field day with this. *lights cigar*,0,0,sparky the wolf,7BcG14OSB-k,0.0,2017-02-22 08:09:59,False,True
+2017-02-22T11:08:26,Kubo and Zootopia combined.,0,0,Tuguldur R,7BcG14OSB-k,0.0,2017-02-22 11:08:26,False,True
+2017-02-22T16:33:42,"Movie looks great for a story and porn only problem is the generic name ""rock dog""",0,0,Dr.Papersalt,7BcG14OSB-k,0.26666666666666666,2017-02-22 16:33:42,False,True
+2017-02-22T18:54:46,"So pretty! The art and character designs are beautiful and the mountains look great!... but that's where the praise ends.   Hashed in voices from other familiar animated movies, similar story structure to every other fucking animated animal movie that came out in the past 5 years ""Kid wants to make it big as a musician/cop/kung fu master and needs to follow his dreams!"" Follow our unlikely hero as he does a thing and meets people and goes to a fucking uninspired city to fuck about until he does another thing and falls in love with the way too hot love interest! Sure to make you smile with fart jokes and outdated references to movies your parents watched! Yaaaay....",0,0,Skumpkin,7BcG14OSB-k,0.09562499999999999,2017-02-22 18:54:46,False,True
+2017-02-22T19:06:37,"I like to call this ""Norm Of The North - 2017 Edition""",0,0,Fireboy,7BcG14OSB-k,0.0,2017-02-22 19:06:37,False,True
+2017-02-22T21:37:34,Yiff incoming,0,0,Krystian Gruszka,7BcG14OSB-k,0.0,2017-02-22 21:37:34,False,True
+2017-02-22T23:03:22,Looks good.,0,0,Joao Celis Da Silva,7BcG14OSB-k,0.7,2017-02-22 23:03:22,False,True
+2017-02-22T23:22:24,"""..I like it loud, I like it tight...""",0,0,Ikari Shinji,7BcG14OSB-k,-0.039285714285714285,2017-02-22 23:22:24,False,True
+2017-02-23T02:07:39,rockdog,0,0,Merinda Bradley,7BcG14OSB-k,0.0,2017-02-23 02:07:39,False,True
+2017-02-23T12:22:32,This is another furry movie,0,0,DAYASHII,7BcG14OSB-k,0.0,2017-02-23 12:22:32,False,True
+2017-02-23T18:59:25,"I thought this was a trailer bit the whole movie in 3 minutes well that's money saved no need to go to the cinema and watch it now ""score"" free movie",1,0,Killer Veemstar,7BcG14OSB-k,0.30000000000000004,2017-02-23 18:59:25,False,True
+2017-02-23T19:23:10,"I just noticed the Fleetwood Yak joke. I'm not mad, just disappointed.",0,0,Auz Payeur,7BcG14OSB-k,-0.21875,2017-02-23 19:23:10,False,True
+2017-02-23T20:05:10,"You can already smell people shipping the dog and the fox ._. Also, this is a little too much like Zootopia",0,0,Mach Fox,7BcG14OSB-k,0.0062500000000000056,2017-02-23 20:05:10,False,True
+2017-02-23T21:25:49,HEEEEELLLL NOOOOOOOOO!!!!!!!,0,0,will tor,7BcG14OSB-k,0.0,2017-02-23 21:25:49,False,True
+2017-02-23T22:03:50,So....a rip off SING?,0,0,Marie Kano,7BcG14OSB-k,0.0,2017-02-23 22:03:50,False,True
+2017-02-24T00:56:15,Better than Norm of the North,0,0,TheDemoScout™,7BcG14OSB-k,0.5,2017-02-24 00:56:15,False,True
+2017-02-24T01:35:49,Gonna be calling it that this is this year's Norm of the North,0,0,FlyingPenguins,7BcG14OSB-k,0.0,2017-02-24 01:35:49,False,True
+2017-02-24T01:59:15,"if you are going to learn how to shoot lasers out of your hands but complain and say that you want to be a musician, you are a waste of your species. seriously.",0,0,Christian,7BcG14OSB-k,-0.26666666666666666,2017-02-24 01:59:15,False,True
+2017-02-24T02:05:48,"After watching the trailer, I don't even feel like I need to see the movie",0,0,Sophie,7BcG14OSB-k,0.0,2017-02-24 02:05:48,False,True
+2017-02-24T04:35:42,Me confused,0,0,Pcssfc,7BcG14OSB-k,-0.4,2017-02-24 04:35:42,False,True
+2017-02-24T09:14:15,Generic ass plots  Poor kids don't get movies like toy story,0,0,milk steak,7BcG14OSB-k,-0.2,2017-02-24 09:14:15,False,True
+2017-02-24T10:02:21,"It looks like this movie has everything! A good storyline, inspiration I might need in life, an epic fight scene, and I heard that there's even a chase scene in this! I can't wait to see this tomorrow!",0,0,Joyful Vision,7BcG14OSB-k,0.428125,2017-02-24 10:02:21,False,True
+2017-02-24T12:30:24,The single most unappealing trailer I've seen this year. And I've seen many.,0,0,Khaled K.,7BcG14OSB-k,0.13214285714285715,2017-02-24 12:30:24,False,True
+2017-02-24T14:22:29,This looks like any other mediocre animal movie,0,1,The Krustomer,7BcG14OSB-k,-0.3125,2017-02-24 14:22:29,False,True
+2017-02-24T17:41:12,I just saw this movie today! It was amazing and so hilarious!,0,0,Maggie Porcaro,7BcG14OSB-k,0.6125,2017-02-24 17:41:12,False,True
+2017-02-24T20:40:17,Am I the only one reminded of the book of life when I hear the main character's motives?🤔,0,0,RyeCustard,7BcG14OSB-k,0.08333333333333333,2017-02-24 20:40:17,False,True
+2017-02-24T23:39:50,FUCKING MURDER ME NOW PLEASE,0,0,a kid with internet access,7BcG14OSB-k,-0.6,2017-02-24 23:39:50,False,True
+2017-02-25T02:00:22,#Rock the dog sucks,0,0,dinomanjosh618,7BcG14OSB-k,-0.3,2017-02-25 02:00:22,False,True
+2017-02-25T05:19:00,please shut up about zootopia,0,0,My dick is small and,7BcG14OSB-k,0.0,2017-02-25 05:19:00,False,True
+2017-02-25T06:47:47,This looks decent.,0,0,Prime Jeremy,7BcG14OSB-k,0.16666666666666666,2017-02-25 06:47:47,False,True
+2017-02-25T06:48:48,1:55 I changed my mind this looks like my asshole if I don't shower for a week.,0,0,Prime Jeremy,7BcG14OSB-k,0.0,2017-02-25 06:48:48,False,True
+2017-02-25T15:34:01,"It may not be Norm of the North, but this movie will still be a piece of shit",0,0,IsaiahTheVargas1117,7BcG14OSB-k,-0.2,2017-02-25 15:34:01,False,True
+2017-02-25T15:38:46,"I can't to watch it...when I can see it for free on Netflix, because I refuse to pay money for this crap.",0,0,Some Random Guy,7BcG14OSB-k,-0.2,2017-02-25 15:38:46,False,True
+2017-02-25T16:13:25,THIS IS STUPID,0,0,Avery Brown,7BcG14OSB-k,-0.7999999999999999,2017-02-25 16:13:25,False,True
+2017-02-25T17:48:59,Why choose to become a musician that to shoot lasers from your hand?,0,0,Deed,7BcG14OSB-k,0.0,2017-02-25 17:48:59,False,True
+2017-02-25T19:47:10,This is a copy of the book of life with minor changes,0,0,AJ Skater,7BcG14OSB-k,-0.05,2017-02-25 19:47:10,False,True
+2017-02-25T21:35:18,"I can already fucking tell they stole this from the movie ""A Dog's Purpose"".",0,1,サヤキSayaki,7BcG14OSB-k,-0.6,2017-02-25 21:35:18,False,True
+2017-02-26T03:44:58,Why does this garbage have so many likes?!,0,1,Smelly Loser,7BcG14OSB-k,0.625,2017-02-26 03:44:58,False,True
+2017-02-26T04:25:04,So those two wolves were going to shoot a grappling hook at his face?,0,0,Georgia Lange,7BcG14OSB-k,0.0,2017-02-26 04:25:04,False,True
+2017-02-26T04:43:04,"I actually watched the movie today , IT WAS AWSOME",0,0,xoxvicki,7BcG14OSB-k,0.0,2017-02-26 04:43:04,False,True
+2017-02-26T12:56:30,The animation looks unfinished,0,0,**,7BcG14OSB-k,0.0,2017-02-26 12:56:30,False,True
+2017-02-26T18:39:48,"Looks rather generic, but it could be so much worse, based off of first impressions",0,0,No Budget Games & Media,7BcG14OSB-k,-0.05000000000000001,2017-02-26 18:39:48,False,True
+2017-02-26T20:04:08,is the same like SING,0,0,Joel awge,7BcG14OSB-k,0.0,2017-02-26 20:04:08,False,True
+2017-02-26T21:55:32,Russell Brand cat? What?,0,0,Kate Roy,7BcG14OSB-k,0.0,2017-02-26 21:55:32,False,True
+2017-02-27T00:18:28,DOG ROCK,2,0,Merinda Bradley,7BcG14OSB-k,0.0,2017-02-27 00:18:28,False,True
+2017-02-27T00:18:39,MICKEY,1,0,Merinda Bradley,7BcG14OSB-k,0.0,2017-02-27 00:18:39,False,True
+2017-02-27T00:18:49,Minnie,1,0,Merinda Bradley,7BcG14OSB-k,0.0,2017-02-27 00:18:49,False,True
+2017-02-27T00:22:49,Bubbu,1,0,Merinda Bradley,7BcG14OSB-k,0.0,2017-02-27 00:22:49,False,True
+2017-02-27T03:51:14,J.K SIMMONS MY MAN CAVE JOHNSON      WHN DOES THE DAD KILL THE ENEMIES WITH COMBUSTABLE LEMONS,0,0,Traci Lombardi,7BcG14OSB-k,0.0,2017-02-27 03:51:14,False,True
+2017-02-27T05:28:42,"so it's Sing, but only one Dog",0,0,Ohh !,7BcG14OSB-k,0.0,2017-02-27 05:28:42,False,True
+2017-02-27T06:46:18,looks cool,1,0,XMittens,7BcG14OSB-k,0.35,2017-02-27 06:46:18,False,True
+2017-02-27T14:53:45,"Looks pretty run-of-the-mill. But I will admit, JK Simmons and Lewis Black are making want to go see it. I am a simple man.",0,0,Randomizer903,7BcG14OSB-k,0.02777777777777778,2017-02-27 14:53:45,False,True
+2017-02-28T02:41:27,And roll in the furry comments...,0,0,CupCak3,7BcG14OSB-k,0.0,2017-02-28 02:41:27,False,True
+2017-02-28T03:58:43,1:01 When the writers can't be bothered to let Lewis Black make his own jokes.  Avoid this pile of trash.,0,0,Series of Tubes Person,7BcG14OSB-k,0.21666666666666667,2017-02-28 03:58:43,False,True
+2017-03-01T16:42:58,This is literally Zootopia,0,0,xoxokasia,7BcG14OSB-k,0.0,2017-03-01 16:42:58,False,True
+2017-03-03T05:12:46,The humor seems relaxed in this one.,0,0,Jake Rutigliano,7BcG14OSB-k,0.0,2017-03-03 05:12:46,False,True
+2017-03-03T06:57:20,this movie looks terrible niga,0,0,Maxx Alvarez,7BcG14OSB-k,-1.0,2017-03-03 06:57:20,False,True
+2017-03-03T23:24:39,Looks dumb as hell.,0,0,Gastly 忍,7BcG14OSB-k,-0.375,2017-03-03 23:24:39,False,True
+2017-03-04T11:37:53,Zootopia 2 looks great,0,0,Derp Man,7BcG14OSB-k,0.8,2017-03-04 11:37:53,False,True
+2017-03-04T23:27:07,"Just saw this movie, and IT'S AMAZING!! The soundtrack is so amazing  ahh I loved it XD",0,0,Olive Oil,7BcG14OSB-k,0.7458333333333332,2017-03-04 23:27:07,False,True
+2017-03-05T05:43:57,Bull this is click bait and this movi have gotten expose in the comments,0,0,Estevan Gomez,7BcG14OSB-k,0.0,2017-03-05 05:43:57,False,True
+2017-03-05T06:17:03,"Nice try at the movie industry, China. Come back when your government collapses.",0,0,MilTacticsandStuff,7BcG14OSB-k,0.3,2017-03-05 06:17:03,False,True
+2017-03-05T20:41:07,I am going to watch this in 1 hour!!,1,0,Aliya’s Lifetime Adventures,7BcG14OSB-k,0.0,2017-03-05 20:41:07,False,True
+2017-03-06T05:40:49,"Everyone so critical on this movie being too predictable and cliche... Honestly there's SOO many popular movies that the next is going to be to close to resembling the last. Even Disney is out of ideas! NO seriously as a ambitious artist, even I struggle to think up something new. Any Ideas?",0,0,Charles Randolph,7BcG14OSB-k,0.16792929292929293,2017-03-06 05:40:49,False,True
+2017-03-06T08:24:28,"I understand and respect everyone's opinion, but in my opinion this is a great film! Yeah some parts of the plot seem forced at times and some parts were extremely silly, but this is a movie focused for the children! It had good music, the animation was nice and smooth, and even if some parts have a good zootopia style, it's a good movie! And it deserves more credit in my opinion.",0,0,Blue fox,7BcG14OSB-k,0.42777777777777776,2017-03-06 08:24:28,False,True
+2017-03-06T13:24:22,Kung Fu Panda x Zootopia x Sing = This,0,0,Sir Isaac,7BcG14OSB-k,0.0,2017-03-06 13:24:22,False,True
+2017-03-07T01:30:49,Yo ya la vi hehe,0,0,Udrey WAFFLES,7BcG14OSB-k,0.0,2017-03-07 01:30:49,False,True
+2017-03-07T06:48:12,Wow people can make money off of anything these days.,0,0,Jeep Ford Guy,7BcG14OSB-k,0.1,2017-03-07 06:48:12,False,True
+2017-03-08T20:34:48,I kinda like this,0,0,90's Reptile,7BcG14OSB-k,0.0,2017-03-08 20:34:48,False,True
+2017-03-11T00:43:08,just a rip off of zootopia but I'll see it.. when it comes on netflix,0,0,Kairã floof,7BcG14OSB-k,0.0,2017-03-11 00:43:08,False,True
+2017-03-11T04:33:18,like good movie that is  incredible,0,0,EDUARDO ÁGUILA 7812,7BcG14OSB-k,0.8,2017-03-11 04:33:18,False,True
+2017-03-12T16:29:36,"wait,holy shit is that the honest trailer guy or is it my head",0,0,some stingy on the internet,7BcG14OSB-k,0.19999999999999998,2017-03-12 16:29:36,False,True
+2017-03-12T16:33:51,"0:40 Well thats too specific,i mean seriously who says never stop even when your day says stop when you can just say never give up",0,0,some stingy on the internet,7BcG14OSB-k,-0.32291666666666663,2017-03-12 16:33:51,False,True
+2017-03-13T02:03:53,my first reaction oh a rip-off of the backstory of kubo,0,0,Jackson Hance,7BcG14OSB-k,-0.07500000000000001,2017-03-13 02:03:53,False,True
+2017-03-13T02:47:31,"All we needed, More excuses for porn",0,0,Scavs Here?,7BcG14OSB-k,0.5,2017-03-13 02:47:31,False,True
+2017-03-15T08:46:13,I'm suprised this is made in China O.O,0,0,Tatokun,7BcG14OSB-k,0.05,2017-03-15 08:46:13,False,True
+2017-03-15T21:20:47,"So this is why I've never heard of this movie until now, it's utter shit.  Too shit to advertise.",1,0,J S,7BcG14OSB-k,-0.13333333333333333,2017-03-15 21:20:47,False,True
+2017-03-16T21:57:38,"This is literally the book of life   I mean, a cheap knock-off version of the book of life, this looks like shit!",1,0,What,7BcG14OSB-k,-0.05416666666666666,2017-03-16 21:57:38,False,True
+2017-03-16T22:31:40,can't wait to see this in the  $5 movie bin at best buy,0,0,Antonio Maldonado,7BcG14OSB-k,1.0,2017-03-16 22:31:40,False,True
+2017-03-17T02:43:46,i hope its not norm of the north again,0,0,Wooper #194,7BcG14OSB-k,0.0,2017-03-17 02:43:46,False,True
+2017-03-17T03:40:20,you can tell this movie is shit when you see the trailer,0,0,LadyPoohg,7BcG14OSB-k,-0.2,2017-03-17 03:40:20,False,True
+2017-03-18T16:22:17,I actually like the animation. Looks clean and cartoony. At least it is better than norm of the north,1,0,rice. the autistic,7BcG14OSB-k,0.14166666666666666,2017-03-18 16:22:17,False,True
+2017-03-18T19:26:19,"Why not just... Go with the guard dog thing? Would be so much more interesting than a dog who becomes a musician.   Get this: Dog that becomes a musician when he COULD be shooting LASERS out of his hands.  Vs.  Dog who shoots lasers from his hand learns to fight and fights the battle of his life against animals that ARENT wolves.   (Wolves are the antagonist of every movie and it's getting old. Why not have like.. Lion antagonists, or hyenas)",0,0,KittaiKat Tries,7BcG14OSB-k,0.3666666666666667,2017-03-18 19:26:19,False,True
+2017-03-19T11:54:22,It is an trusting,1,0,Sajjad Pco,7BcG14OSB-k,0.0,2017-03-19 11:54:22,False,True
+2017-03-21T14:48:04,I'm gonna watch this in the cinema from my school,0,0,Jon Jon,7BcG14OSB-k,0.0,2017-03-21 14:48:04,False,True
+2017-03-22T02:24:32,wow I'm looking forward to this,0,0,KlassicKaden,7BcG14OSB-k,0.1,2017-03-22 02:24:32,False,True
+2017-03-23T00:18:43,because this apparently is worse than fucking ozzy     OZZY????,0,0,Doggo,7BcG14OSB-k,-0.5,2017-03-23 00:18:43,False,True
+2017-03-25T18:19:15,Discount zootopia,0,0,The Pixelated Pug,7BcG14OSB-k,0.0,2017-03-25 18:19:15,False,True
+2017-03-25T22:13:28,this got all the furries rock hard,0,0,Martin Lopez,7BcG14OSB-k,-0.2916666666666667,2017-03-25 22:13:28,False,True
+2017-03-25T23:28:12,This is amazing. Did not know this was made. Off to buy the movie.,0,0,saleh aburashids,7BcG14OSB-k,0.6000000000000001,2017-03-25 23:28:12,False,True
+2017-03-31T06:31:29,"this movie actually wasn't as terrible as i thought it'd be? it wasn't GREAT but it was decent. def had a kung fu panda vibe in many aspects, but also felt like it's own film during certain scenes. the animation was smooth and full of expression, the voices fitting and fun. the music/soundtrack was the best part by far though. give it a watch if you need to pass an hour by",0,0,Taylor H,7BcG14OSB-k,0.30238095238095236,2017-03-31 06:31:29,False,True
+2017-04-01T21:09:16,H,0,0,Anime Gacha,7BcG14OSB-k,0.0,2017-04-01 21:09:16,False,True
+2017-04-02T02:32:47,Furries need to fuck off and stop poluting every single video thats slightly anthropomorphic.,0,0,Linkrock1234,7BcG14OSB-k,-0.2126984126984127,2017-04-02 02:32:47,False,True
+2017-04-02T06:59:51,O,0,1,Anime Gacha,7BcG14OSB-k,0.0,2017-04-02 06:59:51,False,True
+2017-04-02T16:36:55,"You guys realize ""Rock Dog"" was actually written and produced BEFORE Zootopia, right ?",0,0,NoelistAvenger,7BcG14OSB-k,0.14285714285714285,2017-04-02 16:36:55,False,True
+2017-04-03T04:58:47,OMG is it just me or is this just like zootopia and the book of life,1,0,Rblxian,7BcG14OSB-k,0.0,2017-04-03 04:58:47,False,True
+2017-04-05T19:16:43,Lol,0,0,You have 4 days,7BcG14OSB-k,0.8,2017-04-05 19:16:43,False,True
+2017-04-06T00:54:45,Ya think movie excuses just fall from the sky?  YEAH. THEY DO.,0,0,Biggie Miggie,7BcG14OSB-k,0.0,2017-04-06 00:54:45,False,True
+2017-04-06T17:14:28,K den,0,0,Scinafanxi Man,7BcG14OSB-k,0.0,2017-04-06 17:14:28,False,True
+2017-04-07T03:07:07,From the co director of toy story two,0,0,Owen Beekman,7BcG14OSB-k,0.0,2017-04-07 03:07:07,False,True
+2017-04-08T15:16:51,i saw your movie  at the movies  at the end it was  a some,0,0,ILikeL2 -_-,7BcG14OSB-k,0.0,2017-04-08 15:16:51,False,True
+2017-04-09T22:00:17,I saw this movie today,0,0,Kate D,7BcG14OSB-k,0.0,2017-04-09 22:00:17,False,True
+2017-04-11T17:45:00,Meanwhile while movie creators think of a movie.. This happens,1,1,Awesome Dawn,7BcG14OSB-k,0.0,2017-04-11 17:45:00,False,True
+2017-04-12T04:58:17,Really great movie. I foooound it here => https://twitter.com/29bf1f1c8bfad6930/status/824089581578436609,0,0,Hender Reyes,7BcG14OSB-k,0.8,2017-04-12 04:58:17,False,True
+2017-04-12T06:10:16,Finaaaallyyy I've fooound hd Wilson movie heree => https://twitter.com/1b17b07d42c4368f3/status/842556392149934080,0,0,Alfian Rendy,7BcG14OSB-k,0.0,2017-04-12 06:10:16,False,True
+2017-04-16T04:10:56,"Looks like Zootopia mixed with sing,LOOKS LIKE A SPINOFF,yeah i don't expect anything from THE 'Norm of the north""Creators",0,0,Katharsis,7BcG14OSB-k,0.0,2017-04-16 04:10:56,False,True
+2017-04-16T04:10:58,"Looks like Zootopia mixed with sing,LOOKS LIKE A SPINOFF,yeah i don't expect anything from THE 'Norm of the north""Creators",0,0,Katharsis,7BcG14OSB-k,0.0,2017-04-16 04:10:58,False,True
+2017-04-18T00:34:13,Fuck this movie,0,0,Elifaz Chayrez Romero,7BcG14OSB-k,-0.4,2017-04-18 00:34:13,False,True
+2017-04-20T08:22:02,what is the name of the dog bodey??,0,0,Jellaine Dalaodao,7BcG14OSB-k,0.0,2017-04-20 08:22:02,False,True
+2017-04-23T20:08:45,Does anyone know the song on 0:20 ?? I NEED to find it but i can't :( :(,0,0,Maria,7BcG14OSB-k,-0.75,2017-04-23 20:08:45,False,True
+2017-04-25T01:18:40,maybee...3/10,0,0,M. Andito Putra,7BcG14OSB-k,0.0,2017-04-25 01:18:40,False,True
+2017-04-26T11:41:57,Is this dog Bolivian?,0,0,TheRoland19111,7BcG14OSB-k,0.0,2017-04-26 11:41:57,False,True
+2017-04-28T11:38:58,"Loved the movie tbh I watched it a few weeks ago because the character designs were interesting, and it's quite a decent film. The animation is smooth, though the story is simple. I suggest anyone to watch this movie if they're feeling bored  But I s2g that this dog was high the whole time",0,0,meatgraph,7BcG14OSB-k,0.15851851851851853,2017-04-28 11:38:58,False,True
+2017-05-01T13:17:01,This movie doesn't even make any sense. Dogs shooting lasers from their paws. Honestly what is life?,0,0,Hira Naveed,7BcG14OSB-k,0.6,2017-05-01 13:17:01,False,True
+2017-05-02T03:05:53,"Two of the things I love most in life are rock music and dogs, so why does this trailer disappoint me so much?",0,0,Nik Peterson,7BcG14OSB-k,0.39999999999999997,2017-05-02 03:05:53,False,True
+2017-05-04T18:25:10,Parappa 3 looks great,0,0,Buggy Boy,7BcG14OSB-k,0.8,2017-05-04 18:25:10,False,True
+2017-05-06T21:41:10,"A dog from TIBET? Soooooooooooooo.... is this movie Banned in China??.... or just how many hoops and obstacles did they confirm to have this kind of premise? Hmmmm if so, i'd say the message is probably that Tibet is a stiff, unhappy place where self expression is ignored and undeveloped (except that they can shoot lasers..............), when in fact, it couldn't be further from the truth. And by Tibet, im very much referring to the Buddhist practice and devotion found there.",0,0,galadis123,7BcG14OSB-k,0.07081632653061225,2017-05-06 21:41:10,False,True
+2017-05-07T13:03:14,Looks like Kubo and Zootopia and a baby.   A very malformed baby.,0,0,Dryocampa,7BcG14OSB-k,0.2,2017-05-07 13:03:14,False,True
+2017-05-08T15:52:23,Anyone interested in this Movie... Watch it!!! awesome movie.,0,0,Datsizer,7BcG14OSB-k,0.744140625,2017-05-08 15:52:23,False,True
+2017-05-08T21:59:40,odi's dad left the barnyard,0,0,DJ biGGZ vendetta sound,7BcG14OSB-k,0.0,2017-05-08 21:59:40,False,True
+2017-05-09T13:08:28,Whoever approved of this trailer is probably an idiot how the hell do you show a whole in a trailer,0,0,jaafar kassim,7BcG14OSB-k,-0.30000000000000004,2017-05-09 13:08:28,False,True
+2017-05-09T15:49:58,bullshit.,0,0,Nicko TV,7BcG14OSB-k,0.0,2017-05-09 15:49:58,False,True
+2017-05-09T18:16:58,theres some well known actor actresses there but yet I didn't know this movie exist,0,0,jethro_my,7BcG14OSB-k,0.0,2017-05-09 18:16:58,False,True
+2017-05-10T04:09:43,"You know, this actually seems like a pretty chill movie! Noice",0,0,Joyful Vision,7BcG14OSB-k,0.15625,2017-05-10 04:09:43,False,True
+2017-05-11T17:07:00,This almost reminds me of Night in the woods oh and the white cat's name is Angus too  i have watched the whole movie its cool its okay not too bad not too good :) 6 and a half out of 10,0,0,Kuwaggles Jam,7BcG14OSB-k,0.1729166666666667,2017-05-11 17:07:00,False,True
+2017-05-12T19:46:47,"Kung fu how to train your stork's zootopia What, no frozen?",0,0,Lyola,7BcG14OSB-k,0.0,2017-05-12 19:46:47,False,True
+2017-05-14T13:08:46,you shood make a toy viteo kamilla,1,0,Brad Mccloud,7BcG14OSB-k,0.0,2017-05-14 13:08:46,False,True
+2017-05-15T21:22:42,Ew,0,0,No thank You,7BcG14OSB-k,0.0,2017-05-15 21:22:42,False,True
+2017-05-16T17:10:31,this is like zootopia ate kubo and the two strings and took a shit,0,0,Dem,7BcG14OSB-k,-0.2,2017-05-16 17:10:31,False,True
+2017-05-18T15:41:11,bootleg ass animation,0,0,Got a Strike,7BcG14OSB-k,-0.4,2017-05-18 15:41:11,False,True
+2017-05-20T15:51:13,I loved this movie but I hate that the cat is stereotyped as mean until the second half of the movie. But I loved the cats voice... what a spot on British accent,0,0,BossATsleep,7BcG14OSB-k,0.0026041666666666574,2017-05-20 15:51:13,False,True
+2017-05-20T18:56:05,Billy Elliot animated.,0,0,Stolow The Mad Wonder,7BcG14OSB-k,0.0,2017-05-20 18:56:05,False,True
+2017-05-21T07:59:20,The fox is cute.,0,0,bIuecrimson,7BcG14OSB-k,0.5,2017-05-21 07:59:20,False,True
+2017-05-21T21:15:51,Awesome movie !!,0,0,Unforgiven Wind,7BcG14OSB-k,1.0,2017-05-21 21:15:51,False,True
+2017-05-25T17:36:11,So....Sing?,0,0,TooDamnFast m8,7BcG14OSB-k,0.0,2017-05-25 17:36:11,False,False
+2017-05-26T01:21:06,"that moment when you think u gotta wait a whole year, but then you realize your a year late.  😭 😮 😃",0,0,dan B,7BcG14OSB-k,-0.04999999999999999,2017-05-26 01:21:06,False,False
+2017-05-26T08:42:26,this movie would have been GOTY with more radiohead and less shit animation,0,0,tom's video hole,7BcG14OSB-k,0.04444444444444445,2017-05-26 08:42:26,False,False
+2017-05-29T02:12:42,I love this movie so much,0,0,SoccerKid,7BcG14OSB-k,0.35,2017-05-29 02:12:42,False,False
+2017-05-29T07:44:49,They Stole my name !!,0,0,cscattergood,7BcG14OSB-k,0.0,2017-05-29 07:44:49,False,False
+2017-05-30T14:19:56,Why isn't it yet premiering on Philippines?,0,0,Captain Candlehead,7BcG14OSB-k,0.0,2017-05-30 14:19:56,False,False
+2017-05-30T19:20:14,CLICHE CLICHE CLICHE CLICHE CLICHE CLICHE CLICHE CLICHE CLICHE CLICHE,0,0,Continuity Error,7BcG14OSB-k,0.0,2017-05-30 19:20:14,False,False
+2017-06-04T06:10:12,I finally got to see this film. I loved how it turned out. I had a dream about this film here but don't know if anyone wants to hear it.,1,0,Michael Phillips,7BcG14OSB-k,0.3,2017-06-04 06:10:12,False,False
+2017-06-05T01:06:42,the only thing I liked about this movie is Angus the cat,0,0,Madison Madison,7BcG14OSB-k,0.3,2017-06-05 01:06:42,False,False
+2017-06-05T06:16:58,i feel like their's a reason I've never heard of this movie...,0,0,wildheart 970,7BcG14OSB-k,0.0,2017-06-05 06:16:58,False,False
+2017-06-06T03:04:57,his plasmids suck,0,0,KaiserRolls Chicken,7BcG14OSB-k,0.0,2017-06-06 03:04:57,False,False
+2017-06-06T03:19:51,was the guy in the radio DanTDM?,1,0,Awesomeman793,7BcG14OSB-k,0.0,2017-06-06 03:19:51,False,False
+2017-06-08T03:08:10,Wow the new Kubo looks great,0,0,Snippy,7BcG14OSB-k,0.34545454545454546,2017-06-08 03:08:10,False,False
+2017-06-08T06:19:09,"The movie is great and all but like there's not a lot of the ""rock n roll"" I kinda just lost its neaning",0,0,Senagrade 009,7BcG14OSB-k,0.8,2017-06-08 06:19:09,False,False
+2017-06-09T15:45:40,Angus scattergood  is meh favorite character,0,0,cheetahfrost owo,7BcG14OSB-k,0.5,2017-06-09 15:45:40,False,False
+2017-06-10T05:55:14,a cringe versión of sing,0,0,PK beat-all in one,7BcG14OSB-k,0.0,2017-06-10 05:55:14,False,False
+2017-06-14T04:25:44,This movie looks horrible,0,0,PhD Flopper,7BcG14OSB-k,-1.0,2017-06-14 04:25:44,False,False
+2017-06-15T00:23:21,If I were him I'll stay n'Learn how to shoot lasers from my hands,0,1,Shammah Alshamsi,7BcG14OSB-k,0.0,2017-06-15 00:23:21,False,False
+2017-06-20T20:21:24,I already watch the movie on show box,0,0,Giovanni Eghverba,7BcG14OSB-k,0.0,2017-06-20 20:21:24,False,False
+2017-06-21T04:38:39,I wаtchеd Roсk Dоooоg full moooovie hеere https://twitter.com/ba8896cf22da9c191/status/824089581578436609,0,0,Данил Ковязин,7BcG14OSB-k,0.35,2017-06-21 04:38:39,False,False
+2017-06-22T08:00:49,just watched the movie and it was awesome! would definitely like to get this on dvd and watch it again. :),0,0,kate austin,7BcG14OSB-k,0.5,2017-06-22 08:00:49,False,False
+2017-06-22T12:36:32,still better than the emoji movie,0,0,Zane Horny,7BcG14OSB-k,0.5,2017-06-22 12:36:32,False,False
+2017-06-23T01:49:07,i subscribed,0,0,Saja Sara,7BcG14OSB-k,0.0,2017-06-23 01:49:07,False,False
+2017-06-24T03:48:57,bodi is so cute!!!!!!!!!!!!!,0,0,Earth Pancake,7BcG14OSB-k,1.0,2017-06-24 03:48:57,False,False
+2017-06-24T04:11:11,Reeеaааllу nicccсе moviе. I fоoооund it heerе => https://twitter.com/ba8896cf22da9c191/status/824089581578436609,0,0,Genesis Royal,7BcG14OSB-k,0.0,2017-06-24 04:11:11,False,False
+2017-06-26T05:22:55,This is the niceist movieеe i еveeеr seeeеe!!! I advise еverybody tо watch it :) https://twitter.com/ba8896cf22da9c191/status/824089581578436609,0,0,Nghia Nguyen,7BcG14OSB-k,0.5,2017-06-26 05:22:55,False,False
+2017-06-27T17:20:33,this came out in 2014 I've already seen it,0,0,Ben Cully,7BcG14OSB-k,0.0,2017-06-27 17:20:33,False,False
+2017-06-29T02:17:22,never sean it but like if you liked it,1,0,Pen-ju-in,7BcG14OSB-k,0.6,2017-06-29 02:17:22,False,False
+2017-06-29T15:17:39,Atleast its better than Ozzy,0,0,Zenssei,7BcG14OSB-k,0.5,2017-06-29 15:17:39,False,False
+2017-06-30T19:26:59,"*Toy Story 1, 2, 3:* pretty good since they're my childhood. *Zootopia:* I did NOT expect it to be this good. So many twists & turns. *Sing:* A movie where animals sing practically all my favorite songs?! HELL YES!! *Rock Dog:* -___- shoot me",1,0,Markiismoo,7BcG14OSB-k,0.6253124999999999,2017-06-30 19:26:59,False,False
+2017-07-01T11:19:57,"this is a awesome movie. this is a musical fun family film about being yourself and finding you're roots. the animation in this film is beautiful, the voice casting is great, and the music is great and the story is great. this is a movie that the whole family will enjoy. if you have not seen this movie then i recommend you do rating 5/5",0,0,David Smith,7BcG14OSB-k,0.5722222222222223,2017-07-01 11:19:57,False,False
+2017-07-02T04:31:01,Co director of toystory 2?? Man this is the second Pixar collab! (First being with Disney),0,0,Buuny,7BcG14OSB-k,0.125,2017-07-02 04:31:01,False,False
+2017-07-04T01:01:55,Zootopia 2,1,0,Xdarklapisx,7BcG14OSB-k,0.0,2017-07-04 01:01:55,False,False
+2017-07-04T01:15:28,inst this sorta like kubo and the two string how he can shoot stuff from his guitar,1,0,imoimmy,7BcG14OSB-k,0.0,2017-07-04 01:15:28,False,False
+2017-07-07T11:48:16,You caaan't find this movie with betteeer qualityy than heree => https://twitter.com/ba8896cf22da9c191/status/824089581578436609,0,0,C M,7BcG14OSB-k,0.0,2017-07-07 11:48:16,False,False
+2017-07-09T06:57:21,Rooocck Dog moooоvie here => https://twitter.com/ba8896cf22da9c191/status/824089581578436609,0,0,Romal Adnan,7BcG14OSB-k,0.0,2017-07-09 06:57:21,False,False
+2017-07-09T17:36:48,This looks as bad as Ozzie,0,0,Blade,7BcG14OSB-k,-0.6999999999999998,2017-07-09 17:36:48,False,False
+2017-07-15T16:44:00,Looks like ass... I'll pass...,0,0,crownedfox,7BcG14OSB-k,0.0,2017-07-15 16:44:00,False,False
+2017-07-18T12:15:54,can someone chomp with a Donald Trump animated movie ...you Directors of Hollywood,0,0,Shimron Netia,7BcG14OSB-k,0.0,2017-07-18 12:15:54,False,False
+2017-07-18T20:38:57,wolves are alw,0,0,Class Felidae,7BcG14OSB-k,0.0,2017-07-18 20:38:57,False,False
+2017-07-19T00:09:12,fucking furries,2,0,ThiccBoiTy,7BcG14OSB-k,-0.6,2017-07-19 00:09:12,False,False
+2017-07-26T19:44:26,I watched this movie and actually its very good,0,0,dou,7BcG14OSB-k,0.45499999999999996,2017-07-26 19:44:26,False,False
+2017-07-28T19:50:15,Looks bouncy and charming enough. Could be a good bit of fun :),0,0,TotallyToonsTV,7BcG14OSB-k,0.44000000000000006,2017-07-28 19:50:15,False,False
+2017-08-02T01:52:02,Does not look bad at all but eh.,0,0,TheMook19,7BcG14OSB-k,-0.6999999999999998,2017-08-02 01:52:02,False,False
+2017-08-02T15:26:57,that cat is from spongebob kenny the cat,0,0,skyper xXx,7BcG14OSB-k,0.0,2017-08-02 15:26:57,False,False
+2017-08-03T05:28:56,Lewis Black is in this movie?,0,0,Dennis Billington,7BcG14OSB-k,-0.16666666666666666,2017-08-03 05:28:56,False,False
+2017-08-07T23:23:48,"When a trailer has a narrator, it usually means the movie is ass",1,0,Ryan Tesone,7BcG14OSB-k,-0.25,2017-08-07 23:23:48,False,False
+2017-08-11T03:24:42,-,0,0,buggirl2017,7BcG14OSB-k,0.0,2017-08-11 03:24:42,False,False
+2017-08-11T03:46:35,Roооосk Dog mоviееe hеrе => https://twitter.com/ba8896cf22da9c191/status/824089581578436609,0,0,Ronny-sangatta Ronny,7BcG14OSB-k,0.0,2017-08-11 03:46:35,False,False
+2017-08-12T01:03:06,This is the most random premise for a movie I've ever heard of.,0,0,Kurt Peterson,7BcG14OSB-k,0.0,2017-08-12 01:03:06,False,False
+2017-08-12T19:07:09,This is a want a be cheap zootopia    except there is music envolved.,0,0,quervoface 010,7BcG14OSB-k,0.4,2017-08-12 19:07:09,False,False
+2017-08-13T12:46:08,From the guy co-directed Toy Story 2 and you guys have DOUBTS!!!!......you people sicken me...😡,1,0,Kobe Marion,7BcG14OSB-k,0.0,2017-08-13 12:46:08,False,False
+2017-08-14T00:41:22,Oky,0,0,Sareka Pariag,7BcG14OSB-k,0.0,2017-08-14 00:41:22,False,False
+2017-08-14T06:58:11,"Not a huuuuge movie to get into, but probably a good watch.",0,0,Central Apex,7BcG14OSB-k,0.7,2017-08-14 06:58:11,False,False
+2017-08-14T12:10:58,zootopia much?,0,0,AtlantGD,7BcG14OSB-k,0.2,2017-08-14 12:10:58,False,False
+2017-08-17T07:33:56,This movie is a huge fail 😂,0,0,Cullen,7BcG14OSB-k,-0.04999999999999996,2017-08-17 07:33:56,False,False
+2017-08-19T12:37:09,"What are the chances that a plane somehow DROPS a crate, that has a RADIO, and that a DOG, with obsession with rock and roll, finds it?",0,0,SketchUp Studio,7BcG14OSB-k,0.0,2017-08-19 12:37:09,False,False
+2017-08-24T04:09:55,Sing + Zootopia + Kung Fu Panda = one movie!,0,0,Thomas Dickensheets,7BcG14OSB-k,0.0,2017-08-24 04:09:55,False,False
+2017-08-24T14:03:21,I loved that movie and i was waiting so long,0,0,Sasha Minimoore,7BcG14OSB-k,0.32499999999999996,2017-08-24 14:03:21,False,False
+2017-08-26T05:30:00,Captain falcon calm down He just learned at the power of the guitar and did laser hand,0,0,nickos microwave inc.,7BcG14OSB-k,0.07222222222222223,2017-08-26 05:30:00,False,False
+2017-09-04T00:02:42,"For all you wondering, this movie was in the making before anybody knew about Zootopia, Sing, Kubo ETC ETC. This was a project that was worked on for 5 years.",0,0,Princess Sana [twice pickles],7BcG14OSB-k,0.0,2017-09-04 00:02:42,False,False
+2017-09-04T01:01:24,"""Never stop. Even when your dad says stop.""",0,0,Ross Weisman,7BcG14OSB-k,0.0,2017-09-04 01:01:24,False,False
+2017-09-04T23:23:04,I've seen this a hundred times,0,0,Sam NI,7BcG14OSB-k,0.0,2017-09-04 23:23:04,False,False
+2017-09-05T01:57:14,ill give them credit... that last joke made me laugh,0,0,roboninja saur,7BcG14OSB-k,-0.06666666666666667,2017-09-05 01:57:14,False,False
+2017-09-23T01:30:06,This movie was actually really good. But the trailers make the movies look bad,0,0,Karen Doughty,7BcG14OSB-k,5.551115123125783e-17,2017-09-23 01:30:06,False,False
+2017-09-24T10:36:03,this looks pretty good as far as I can see,0,0,Katika Harris,7BcG14OSB-k,0.35000000000000003,2017-09-24 10:36:03,False,False
+2017-09-25T10:12:51,I saw this movie I actually thought it was great,0,0,YoshiHunt,7BcG14OSB-k,0.4,2017-09-25 10:12:51,False,False
+2017-10-01T01:35:49,Toy Story 2 the heck is that,0,0,Ana aka Double Kapow Fortune,7BcG14OSB-k,0.0,2017-10-01 01:35:49,False,False
+2017-10-04T19:59:29,Rip off of hop,0,0,Christian,7BcG14OSB-k,0.0,2017-10-04 19:59:29,False,False
+2017-10-14T13:03:34,Does no one else just see this movie as a parody of Hop?,1,0,Evergreen N,7BcG14OSB-k,0.0,2017-10-14 13:03:34,False,False
+2017-10-15T17:31:32,https://voirstreaming.net/rock-dog-2016/,0,0,Nrsgnnd Bfasbnadfn,7BcG14OSB-k,0.0,2017-10-15 17:31:32,False,False
+2017-11-19T17:38:46,A bit of a shame that this movie failed at the box office. I enjoyed it albeit it has its cliches.,0,0,No Pant,7BcG14OSB-k,0.0,2017-11-19 17:38:46,False,False
+2017-11-25T00:59:21,I thoroughly enjoyed this movie.,0,0,Aiden Call,7BcG14OSB-k,0.5,2017-11-25 00:59:21,False,False
+2017-11-26T05:18:51,*can shoot lasers from hands*     *wants to play the guitar*,0,0,akira,7BcG14OSB-k,0.2,2017-11-26 05:18:51,False,False
+2017-11-28T10:39:38,"This movie is brilliant;its inspirational,its one of my favorites!!!😍😘",0,0,Zahir Khan,7BcG14OSB-k,0.0,2017-11-28 10:39:38,False,False
+2018-01-02T22:54:02,"I thought this movie was gonna be really bad, and I was planning to make fun of it with my family. But, holy crap this movie is really good.",0,0,Hannah Smith,7BcG14OSB-k,-0.125,2018-01-02 22:54:02,False,False
+2018-01-03T05:33:13,0:54 don't you mean rio 2 or toy story 3,0,0,Santi McBanti,7BcG14OSB-k,-0.3125,2018-01-03 05:33:13,False,False
+2018-01-04T07:57:35,That village is cusco or is similar  a place in peru and the clothing is a natal cloth that isused in peru so......zootopian forces invaded peru is my theory :b,0,0,Fallout Fox,7BcG14OSB-k,0.375,2018-01-04 07:57:35,False,False
+2018-01-30T21:51:38,The rock music in this is the stereotype kids cartoons rock,1,0,the KĪCK AЯSE AussĪe 3.0,7BcG14OSB-k,0.0,2018-01-30 21:51:38,False,False
+2018-02-20T03:21:42,"You know, people like Tomm Moore are completely delusional. Assuming that nothing within the animation industry can go wrong. Rock Dog proves that just because there are more animated films these days than in the past does not mean we can kick back and relax and assume that everything is going to be alright.",0,0,Austin M. Small,7BcG14OSB-k,0.04375,2018-02-20 03:21:42,False,False
+2018-04-23T07:30:32,Never heard of this movie I want to see this now,0,0,ryu steel,7BcG14OSB-k,0.0,2018-04-23 07:30:32,False,False
+2018-05-04T04:26:48,Everything changes when something fall from sky,0,0,The Joker,7BcG14OSB-k,0.0,2018-05-04 04:26:48,False,False
+2018-05-17T22:18:51,"Saw the movie, it was fking awesome!😍",0,0,HAMDAN MALIK,7BcG14OSB-k,0.0,2018-05-17 22:18:51,False,False
+2018-05-31T16:00:14,Furry?,0,0,j k,7BcG14OSB-k,0.0,2018-05-31 16:00:14,False,False
+2018-06-02T20:32:37,0:39 was that 2D’s voice?,0,0,Emilysparklekitty,7BcG14OSB-k,0.0,2018-06-02 20:32:37,False,False
+2018-07-06T05:51:55,"I really like the character designs, too bad this movie sucks",1,0,Mark Watson,7BcG14OSB-k,-0.2666666666666666,2018-07-06 05:51:55,False,False
+2018-07-12T15:51:28,Another Furry movie,1,0,Misadventurous Guy,7BcG14OSB-k,0.0,2018-07-12 15:51:28,False,False
+2018-07-22T20:50:34,Will there be a Rock Dog Netflix Original Series?,1,0,The Awesome Jack Collum,7BcG14OSB-k,0.375,2018-07-22 20:50:34,False,False
+2018-08-04T01:11:40,1:26 *T H I C C*,0,0,Pan Con Cochayuyo,7BcG14OSB-k,0.0,2018-08-04 01:11:40,False,False
+2018-08-14T10:52:44,Mr scattergood is a bitch,0,0,You need to toucha my Spaghet,7BcG14OSB-k,0.0,2018-08-14 10:52:44,False,False
+2018-09-03T06:16:30,Why is the dog Bodi so freaking hot!?,0,0,Cole Carriker,7BcG14OSB-k,0.3125,2018-09-03 06:16:30,False,False
+2018-09-12T00:40:16,The best animated movie i ever saw.,0,0,Huginn Hjartarson,7BcG14OSB-k,1.0,2018-09-12 00:40:16,False,False
+2018-10-12T17:31:03,Stellar! Please Check out our music.,0,0,TheYAxes,7BcG14OSB-k,0.3125,2018-10-12 17:31:03,False,False
+2018-10-16T01:04:12,coco? dog version,0,0,ܔܛܔܔ ܔܛܔ,7BcG14OSB-k,0.0,2018-10-16 01:04:12,False,False
+2018-11-10T08:31:00,I reale for 2,0,0,KAIO ALVES,7BcG14OSB-k,0.0,2018-11-10 08:31:00,False,False
+2018-12-05T18:46:50,just know all the talking animal movies in disney are all furries. There your life is a lie 😂😂😂,0,0,Daysin Woods,7BcG14OSB-k,0.0,2018-12-05 18:46:50,False,False
+2018-12-08T18:36:41,COCO RIP OFF?!,0,0,Samm X,7BcG14OSB-k,0.0,2018-12-08 18:36:41,False,False
+2018-12-15T12:06:38,Mr scattergood is my favourite,0,0,Let’s Be Creative,7BcG14OSB-k,0.0,2018-12-15 12:06:38,False,False
+2018-12-17T19:40:26,"Narration, excited dreaming protagonist with that voice, trailer setup, story, pause for unfunny jokes which are supposed to be funny. I swear if trailers were a bingo game i'd clean the house in a single cinema night. How is this supposed to be different and unique instead of rewatching Tenacious D And The Pick Of Destiny for the 100th time?",0,0,magnusm4,7BcG14OSB-k,0.12789115646258503,2018-12-17 19:40:26,False,False
+2018-12-18T02:27:43,Crjnge2,0,0,Joshua Jung,7BcG14OSB-k,0.0,2018-12-18 02:27:43,False,False
+2019-01-03T14:46:00,Whoa 👍👍👍,0,0,Na Dam,7BcG14OSB-k,0.0,2019-01-03 14:46:00,False,False
+2019-03-07T21:48:04,Luke and Owen Wilson both sound exactly the same 😂,0,0,Yidaki,7BcG14OSB-k,0.21666666666666667,2019-03-07 21:48:04,False,False
+2019-03-14T01:40:15,They lost $35.8M.... big yikes,0,0,Jack,7BcG14OSB-k,0.0,2019-03-14 01:40:15,False,False
+2019-03-14T02:44:50,"Why was it all ""This movie is gonna stink""? I mean, this was an amazing movie!",0,0,MaxStormPower,7BcG14OSB-k,0.21875000000000006,2019-03-14 02:44:50,False,False
+2019-03-25T18:18:15,NO MUSIC hm I think COCOming from other film,0,0,Philips live,7BcG14OSB-k,-0.125,2019-03-25 18:18:15,False,False
+2019-03-25T23:35:51,"What the hell, I talked about this movie at school and my phone was in my backpack. I’ve never searched it up or talked about anywhere else because it was a movie we watched during class and some how this trailer is on my recommended feed? Google must be listening. But how could it listen through my back pack?",0,0,Moosegooseoof,7BcG14OSB-k,0.0,2019-03-25 23:35:51,False,False
+2019-04-22T01:56:40,rock dog: kids don't be me. later coco,0,0,Masterma 06,7BcG14OSB-k,0.0,2019-04-22 01:56:40,False,False
+2019-05-04T21:48:51,Note: Poochie died on the way back to his home planet,0,0,culwin,7BcG14OSB-k,0.0,2019-05-04 21:48:51,False,False
+2019-05-05T08:28:42,Fact: this movie is actually made it China,0,0,onepiece430,7BcG14OSB-k,0.0,2019-05-05 08:28:42,False,False
+2019-05-13T21:49:58,Ive watched it already and it *ROCKS*,0,0,Elvia Guevara,7BcG14OSB-k,0.0,2019-05-13 21:49:58,False,False
+2019-05-31T01:03:58,Wow with this terrible narration any movie could be anything!,1,0,Fryd Fish,7BcG14OSB-k,-0.45,2019-05-31 01:03:58,False,False
+2019-06-01T12:14:24,I’m in love with the COCO,1,0,Bywun,7BcG14OSB-k,0.5,2019-06-01 12:14:24,False,False
+2019-06-07T20:47:09,Zootopia and Balto still reign supreme. Bro who even watched this??,0,0,Mark Watson,7BcG14OSB-k,0.0,2019-06-07 20:47:09,False,False
+2019-06-17T09:45:18,More like pop dog,0,0,Juan Paolo Binayas,7BcG14OSB-k,0.5,2019-06-17 09:45:18,False,False
+2019-09-28T23:30:21,It doesn't look it has the director of toy story 2,0,0,Thomas Pelley,7BcG14OSB-k,0.0,2019-09-28 23:30:21,False,False
+2019-09-29T18:24:04,1:02 Can we get a red🔴 cord to go with the red🔴 phone☎️,0,0,Thomas Carr,7BcG14OSB-k,0.0,2019-09-29 18:24:04,False,False
+2019-10-09T08:14:32,Wait they can shoot energy balls?,0,0,Marco the dragon,7BcG14OSB-k,0.0,2019-10-09 08:14:32,False,False
+2019-10-13T20:22:22,I LOVE this movie And the soundtrack is amazing,1,0,Lovely_Ma Nubian,7BcG14OSB-k,0.55,2019-10-13 20:22:22,False,False
+2019-10-29T17:19:53,"I never saw this trailer in the USA; watch a good amount of TV and check online. NEVER saw this until now at this moment. This always looked like a good film, but this trailer seals it.  I got to go watch this film now.",0,0,Benjamin Kanoza,7BcG14OSB-k,0.7,2019-10-29 17:19:53,False,False
+2019-10-31T17:44:12,*thanks but no thanks*,1,0,NinjaCat,7BcG14OSB-k,0.05,2019-10-31 17:44:12,False,False
+2019-11-17T20:47:43,The Sequel Is Coming Next Year.,0,0,Huginn Hjartarson,7BcG14OSB-k,0.0,2019-11-17 20:47:43,False,False
+2019-12-14T02:59:30,Bodi - Po  Angus - Master Shifu Khampa - Li Shan Linnux - Lord Shen Riff - Wolf Boss Darma - Tigress Germur - Mantis Trey - Monkey Fleetwood Yak - Master Oogway Floyd - Mr Ping Carl - Zeng,0,0,김수광,7BcG14OSB-k,-0.05,2019-12-14 02:59:30,False,False

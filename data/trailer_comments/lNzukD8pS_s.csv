@@ -1,0 +1,893 @@
+timestamp,text,like_count,reply_count,author,trailer_id,sentiment_score,datetime,used_for_model,used_for_visualization
+2015-04-21T13:13:05,Awesome,1,0,H.T Pinkerton,lNzukD8pS_s,1.0,2015-04-21 13:13:05,True,True
+2015-04-21T13:19:33,My hat is off to you Brad Bird,34,2,rd010123,lNzukD8pS_s,0.0,2015-04-21 13:19:33,True,True
+2015-04-21T13:23:08,YESSSS,0,0,Zach Clark,lNzukD8pS_s,0.0,2015-04-21 13:23:08,True,True
+2015-04-21T13:32:51,Tomorrowland more like TomorrowGOAT,1,0,mamma mia,lNzukD8pS_s,0.5,2015-04-21 13:32:51,True,True
+2015-04-21T14:00:04,There's so many cool movies coming out this year. It's crazy!,1,0,Gorilla Pancake,lNzukD8pS_s,0.033333333333333326,2015-04-21 14:00:04,True,True
+2015-04-21T14:00:55,"Man, this looks awesome!",0,0,Think Away Films,lNzukD8pS_s,1.0,2015-04-21 14:00:55,True,True
+2015-04-21T14:05:56,OMG! Beautiful,0,0,RGeada,lNzukD8pS_s,0.85,2015-04-21 14:05:56,True,True
+2015-04-21T14:07:44,"WOW, holy crap! Star Wars Rogue Squadron II: Rogue Leader now works on the Dolphin emulator!!!!!! Oh and I'm still not watching this...",0,0,HeavyMetalEvilien,lNzukD8pS_s,-0.45,2015-04-21 14:07:44,True,True
+2015-04-21T14:10:48,wow!!!,0,1,pin0cchio964,lNzukD8pS_s,0.1953125,2015-04-21 14:10:48,True,True
+2015-04-21T14:18:38,holy shit!! This looks AWESOME!!!!!!!!!!!!,6,0,freya,lNzukD8pS_s,0.34375,2015-04-21 14:18:38,True,True
+2015-04-21T14:25:45,Getting some serious Terminator vibes here...,0,0,TF2Fan101,lNzukD8pS_s,-0.3333333333333333,2015-04-21 14:25:45,True,True
+2015-04-21T14:43:53,Brad Bird is directing ? Count me in,20,0,Aniruddh Murthy,lNzukD8pS_s,0.0,2015-04-21 14:43:53,True,True
+2015-04-21T15:27:15,"Is it just me, or is this trailer one of the best out of the ones we have got recently?",19,4,Lucas Savvas,lNzukD8pS_s,0.5,2015-04-21 15:27:15,True,True
+2015-04-21T15:32:43,This is PG?,12,6,MrBucketlist,lNzukD8pS_s,0.0,2015-04-21 15:32:43,True,True
+2015-04-21T15:54:09,Hugh Laurie I saw you!!!!,0,0,Nathan Weinstein,lNzukD8pS_s,0.0,2015-04-21 15:54:09,True,True
+2015-04-21T16:02:11,if Aperture Science Technologies got out.   and an old man from crappy 90s movies had to protect those technologies.   and he carried around a teenage girl around for some no good reason .   that would be this movie,0,0,Nicolas Tyler Doyle,lNzukD8pS_s,-0.08333333333333333,2015-04-21 16:02:11,True,True
+2015-04-21T16:15:09,"What a year for Disney,  Cinderella Age of ultron Tommorrowland  Inside out Ant-man The good dinosaur And... STAR WARS: EPISODE 7 THE FORCE AWAKENS! That's makin money Disney!",591,59,Caleb Chapple,lNzukD8pS_s,1.0,2015-04-21 16:15:09,True,True
+2015-04-21T16:22:22,I am so curious about hugh laurie's role...,2,0,F dostoevsky,lNzukD8pS_s,-0.1,2015-04-21 16:22:22,True,True
+2015-04-21T16:23:20,awesome,0,0,Clipsoodmun HD,lNzukD8pS_s,1.0,2015-04-21 16:23:20,True,True
+2015-04-21T16:42:51,"For the love of fuck, don't get your hopes up! Damon Lindelof helped write this.",19,16,WookySnacky666,lNzukD8pS_s,0.0,2015-04-21 16:42:51,True,True
+2015-04-21T16:44:23,Pooooortal!!!  <3,0,0,Chuy Roldan,lNzukD8pS_s,1.0,2015-04-21 16:44:23,True,True
+2015-04-21T16:56:57,Must watch this!,0,0,Kristiyan Krastev,lNzukD8pS_s,0.0,2015-04-21 16:56:57,True,True
+2015-04-21T16:59:52,They should of had me in the movie instead of Clooney.  I was in Full House for crying out loud.,0,0,Bob Saget,lNzukD8pS_s,0.08333333333333333,2015-04-21 16:59:52,True,True
+2015-04-21T17:06:37,Disney needs to built Tomorrowland the Ride! They could put it in Adventureland.,0,0,Paul Hruby,lNzukD8pS_s,0.0,2015-04-21 17:06:37,True,True
+2015-04-21T17:38:45,What? This is more like a clip of a single scene than a trailer.,0,0,NezihBouali,lNzukD8pS_s,0.2142857142857143,2015-04-21 17:38:45,True,True
+2015-04-21T17:46:03,Would love to see this movie inspire the remodel of Tomorrowland at Disneyland.,0,0,Jiu Jitsu,lNzukD8pS_s,0.5,2015-04-21 17:46:03,True,True
+2015-04-21T17:51:03,"I got pretty interested. I love the fact that the same guy that made something like The Incredibles for example, is doing this. This may be quite awesome.",0,0,Sörs,lNzukD8pS_s,0.4,2015-04-21 17:51:03,True,True
+2015-04-21T17:52:01,isnt that skyline in the first few seconds from the game brink?,0,0,RustyP,lNzukD8pS_s,-0.11666666666666668,2015-04-21 17:52:01,True,True
+2015-04-21T18:25:05,AAHHHH SO MANY TRAILERS THIS WEEK,11,0,Unknown-Revolver,lNzukD8pS_s,0.5,2015-04-21 18:25:05,True,True
+2015-04-21T18:30:01,"okay, now i can't wait to watch this movie :) countdown begins next 30 days :D happy tomorrowland :D",0,0,Zac Farro,lNzukD8pS_s,0.6333333333333333,2015-04-21 18:30:01,True,True
+2015-04-21T18:30:10,"This great, every time it gets more interesting .You wanted to see Tomorrowland, here you have it?",1,0,Jesús Izquierdo,lNzukD8pS_s,0.6,2015-04-21 18:30:10,True,True
+2015-04-21T18:33:53,1:55 A rocket tub that flies? Yep..............gotta love gmod,3,0,evilxd4,lNzukD8pS_s,0.5,2015-04-21 18:33:53,True,True
+2015-04-21T18:56:08,YES!!!,0,0,Daniel Sparks,lNzukD8pS_s,0.0,2015-04-21 18:56:08,True,True
+2015-04-21T19:12:07,wow...looks pretty darn good,0,0,darktrain,lNzukD8pS_s,0.475,2015-04-21 19:12:07,True,True
+2015-04-21T19:18:05,Hell yeah! Another trailer featuring Thomas Bergersen's brilliant music. (Thomas Bergersen - Creation of Earth),0,0,scaperist,lNzukD8pS_s,0.9,2015-04-21 19:18:05,True,True
+2015-04-21T19:31:52,Brad Bird.... Can't go wrong with him now can you?,0,0,PlagaXTifi,lNzukD8pS_s,-0.5,2015-04-21 19:31:52,True,True
+2015-04-21T19:32:20,The opening cityscape looks a bit like from Perry Rhodan: The Immortals of Terra. It looks great!,0,0,Vilmos Klebik,lNzukD8pS_s,1.0,2015-04-21 19:32:20,True,True
+2015-04-21T19:33:54,Does anyone think this kinda is like the giver?,0,0,ferbbe02,lNzukD8pS_s,0.0,2015-04-21 19:33:54,True,True
+2015-04-21T19:58:16,Would rather visit Tomorrowland in belgium xD,0,0,Ørjan Aamodt,lNzukD8pS_s,0.0,2015-04-21 19:58:16,True,True
+2015-04-21T19:59:08,"Wait, was that House?",0,0,Daniel Judd,lNzukD8pS_s,0.0,2015-04-21 19:59:08,True,True
+2015-04-21T20:04:26,"this does not tell me anything at all about the movie... what the heck is the plot? (and yea read the bloody description, that isn't an answer)",0,1,joshua anthony,lNzukD8pS_s,-0.8,2015-04-21 20:04:26,True,True
+2015-04-21T20:06:38,The Matrix + Willy Wonka = Tomorrowland?,0,0,RoboTekno,lNzukD8pS_s,0.0,2015-04-21 20:06:38,True,True
+2015-04-21T20:11:08,"Take my money now, Disney! Looks like it will be a Disney summer.",0,0,zenclaw13,lNzukD8pS_s,0.0,2015-04-21 20:11:08,True,True
+2015-04-21T20:24:59,I cannot wait to see this!,0,0,Jack Jansen,lNzukD8pS_s,0.0,2015-04-21 20:24:59,True,True
+2015-04-21T20:36:23,This looks good.,0,0,Wackamole,lNzukD8pS_s,0.7,2015-04-21 20:36:23,True,True
+2015-04-21T20:44:58,"This, ladies and gentlemen, is a peek into the Astral Realm. If you're not familiar, I suggest you Google ""Astral Realm"". It may change the way you view reality.",0,0,Jay Kundalini,lNzukD8pS_s,-0.1875,2015-04-21 20:44:58,True,True
+2015-04-21T20:54:49,Anyone else find the part at 0:57 really awkward?,0,1,Rinchen Gonpo,lNzukD8pS_s,-0.6,2015-04-21 20:54:49,True,True
+2015-04-21T21:37:05,I'm beginning to get excited to see this movie. It looks pretty awesome!  ,0,0,Steven,lNzukD8pS_s,0.5416666666666666,2015-04-21 21:37:05,True,True
+2015-04-21T21:41:25,"God, YES",0,0,J M,lNzukD8pS_s,0.0,2015-04-21 21:41:25,True,True
+2015-04-21T21:48:28,looks futuristic,0,0,VTELERUN,lNzukD8pS_s,0.0,2015-04-21 21:48:28,True,True
+2015-04-21T22:08:15,I was already sold on the little teaser.,0,0,SuperShanko,lNzukD8pS_s,-0.1875,2015-04-21 22:08:15,True,True
+2015-04-21T22:14:49,Terminator meets SpyKids meets Jimmy Neutron... Looks good!,0,0,falco830,lNzukD8pS_s,0.875,2015-04-21 22:14:49,True,True
+2015-04-21T22:16:09,this is their best trailer yet... no duh!!  I can't wait to see the movie and see Britt Robertson and George working together!!  She is brilliant and he ain't bad.. LOL  (PS my best are Dave and Aubrey),0,0,mannonmission1,lNzukD8pS_s,0.56103515625,2015-04-21 22:16:09,True,True
+2015-04-21T22:16:53,"I can't believe nobody has yet commented (as far as I checked) about how the future in here looks like the future in the Meet The Robinsons!   Doesn't matter, Keep Moving Forward :D",0,2,poorix3,lNzukD8pS_s,0.275,2015-04-21 22:16:53,True,True
+2015-04-21T22:38:09,Where's Skrillex?,1,0,sean43235,lNzukD8pS_s,0.0,2015-04-21 22:38:09,True,True
+2015-04-21T22:51:42,"I will give this a miss. It seems too much like old Hollywood, not diverse or representative. There is a big reason why Furious 7 made a billion worldwide, diversity.",0,2,Delboy0,lNzukD8pS_s,0.10000000000000002,2015-04-21 22:51:42,True,True
+2015-04-21T23:28:43,This is one Disney Movie worth watching at IMAX.,1,0,Ramon Ilog,lNzukD8pS_s,0.3,2015-04-21 23:28:43,True,True
+2015-04-21T23:30:27,OMG! That's Awesome!,0,0,Pedro Freitas,lNzukD8pS_s,1.0,2015-04-21 23:30:27,True,True
+2015-04-21T23:31:05,1:05 Why would the shutters close one by one instead of simultaneously? Cinema Sins will have a great time with this.,322,21,Buenomars,lNzukD8pS_s,0.8,2015-04-21 23:31:05,True,True
+2015-04-21T23:40:27,now i will go and see this movie,0,0,Tanny Nguyen,lNzukD8pS_s,0.0,2015-04-21 23:40:27,True,True
+2015-04-21T23:49:55,This looks freakin Amazing,0,0,followtheflow2,lNzukD8pS_s,0.6000000000000001,2015-04-21 23:49:55,True,True
+2015-04-22T00:18:21,Looks neat.,0,0,Rusty Shackleford,lNzukD8pS_s,0.0,2015-04-22 00:18:21,True,True
+2015-04-22T00:25:38,"Unfortunately, I'm getting strong John Carter vibes here.  A Pixar genius making an overstuffed, CGI-heavy, live-action ""epic"" loosely based on an existing property.  It's okay (even ideal) for a trailer to be mysterious and hold back plot information. But this is just...confusing. And muddled. At first it seems like a coming-of-age fantasy like Wizard of Oz. Then it looks like a generic sci-fi thriller. Seems both campy...and serious. *shrug*",12,3,gokinsmen,lNzukD8pS_s,0.11573426573426575,2015-04-22 00:25:38,True,True
+2015-04-22T00:31:25,"_I like the concept of this movie, too bad it is not the sequel of the sequel of the sequel of a recycled concept._",2,0,sd,lNzukD8pS_s,-0.6999999999999998,2015-04-22 00:31:25,True,True
+2015-04-22T00:49:10,With every new trailer my heart beats faster..... I become restless!!! George clooney 'in action'.... God! And then there' s hugh laurie - damn it,0,1,Ujjwal Nabin Tripathee,lNzukD8pS_s,0.19566761363636362,2015-04-22 00:49:10,True,True
+2015-04-22T00:56:08,Directed by Micheal Bay.,0,0,Papa Smurf,lNzukD8pS_s,0.0,2015-04-22 00:56:08,True,True
+2015-04-22T00:56:48,"Fight for tomorrow, today, because yesterday will be too late!",0,0,Theo Bunce,lNzukD8pS_s,-0.375,2015-04-22 00:56:48,True,True
+2015-04-22T00:59:59,looks awesome,0,0,Nicholas Hope,lNzukD8pS_s,1.0,2015-04-22 00:59:59,True,True
+2015-04-22T01:13:43,A Michael Bay Disney movie,1,0,antonamonis88,lNzukD8pS_s,0.0,2015-04-22 01:13:43,True,True
+2015-04-22T01:14:21,A.K.A New World Order,1,0,Xinthose,lNzukD8pS_s,0.13636363636363635,2015-04-22 01:14:21,True,True
+2015-04-22T01:24:26,This is a DISNEY movie?! Wow.,0,0,buOY,lNzukD8pS_s,0.1,2015-04-22 01:24:26,True,True
+2015-04-22T01:39:41,Damn!  Didn't expect that.,0,0,Larry Faulkner,lNzukD8pS_s,0.0,2015-04-22 01:39:41,True,True
+2015-04-22T01:40:32,So Tomorrowland resides in a parallel universe.,0,0,gutz166,lNzukD8pS_s,0.0,2015-04-22 01:40:32,True,True
+2015-04-22T01:59:49,Looks purty cool.,0,0,Delaney Bradford,lNzukD8pS_s,0.35,2015-04-22 01:59:49,True,True
+2015-04-22T02:09:00,I see space mountain made it in! 2:16,3,0,Isaac Fernando,lNzukD8pS_s,0.0,2015-04-22 02:09:00,True,True
+2015-04-22T02:11:12,"Okay , that looked confusing.....",0,0,SpaceManMonster,lNzukD8pS_s,0.1,2015-04-22 02:11:12,True,True
+2015-04-22T02:13:38,"After the third trailer, I still have no clue what this movie is about, but I want to watch.",0,0,Marcus Liou,lNzukD8pS_s,0.0,2015-04-22 02:13:38,True,True
+2015-04-22T02:13:50,"Stupid and racist, but I'm sure it will be great propaganda!",0,0,Who Of The WestSide,lNzukD8pS_s,0.09375000000000003,2015-04-22 02:13:50,True,True
+2015-04-22T02:14:24,Disney's Toshitterland,0,0,Who Of The WestSide,lNzukD8pS_s,0.0,2015-04-22 02:14:24,True,True
+2015-04-22T02:15:32,Brad Bird is like the King Midas of directors. Everything he touches turns to gold.   M.Night Shamalan is like the Medusa of directors. Everything he looks turns to stone.,0,0,Kyle Williams,lNzukD8pS_s,0.0,2015-04-22 02:15:32,True,True
+2015-04-22T02:23:39,Woah wth just happened! well that hit me,0,0,Fuzion180,lNzukD8pS_s,0.0,2015-04-22 02:23:39,True,True
+2015-04-22T02:37:14,So its promoting hallucinogens to kids?,0,0,kinghailz786,lNzukD8pS_s,0.0,2015-04-22 02:37:14,True,True
+2015-04-22T02:40:01,The fist trailer did not impress me. This however shows an awesome movie I want to watch. ,0,0,lexmax08,lNzukD8pS_s,1.0,2015-04-22 02:40:01,True,True
+2015-04-22T02:40:30,Satanic witch craft.!,0,0,Yahoosucks Gofox,lNzukD8pS_s,0.0,2015-04-22 02:40:30,True,True
+2015-04-22T02:57:24,YES. YES YES YES. Brad Bird is a national treasure.,0,0,PogieJoe,lNzukD8pS_s,0.0,2015-04-22 02:57:24,True,True
+2015-04-22T02:58:34,This is like an amazing dream come true. In a literal sense because the movie looks so imaginative.,9,0,Inde Francis,lNzukD8pS_s,0.5166666666666667,2015-04-22 02:58:34,True,True
+2015-04-22T03:06:35,"Hugh Laurie, I see you! Way too excited for this movie now!",0,0,imalbertico,lNzukD8pS_s,0.46875,2015-04-22 03:06:35,True,True
+2015-04-22T03:26:12,Looks awesome!,0,0,Reformation Designs,lNzukD8pS_s,1.0,2015-04-22 03:26:12,True,True
+2015-04-22T03:32:17,im 19 and i really want to see this...thats ok right? like...normal i mean,3,2,B3astpwn VIDS,lNzukD8pS_s,0.1683035714285714,2015-04-22 03:32:17,True,True
+2015-04-22T03:48:10,"Hope its good, although i seem to related it to jupiter ascending...what do you think? should this one be better? Or am I just talking for talking",0,0,Sebastian Koehn,lNzukD8pS_s,0.39999999999999997,2015-04-22 03:48:10,True,True
+2015-04-22T04:27:16,"no ""if Christianity didn't exist"" jokes? what happened people ...",0,0,TheChosenOne,lNzukD8pS_s,0.0,2015-04-22 04:27:16,True,True
+2015-04-22T04:30:31,It's awesome... but really nonsense!,0,0,Tong Lin,lNzukD8pS_s,0.625,2015-04-22 04:30:31,True,True
+2015-04-22T04:33:48,I really like the whole retro-futuristic look they are going for.,0,0,Falkenad108,lNzukD8pS_s,0.2,2015-04-22 04:33:48,True,True
+2015-04-22T04:35:59,"What do you get when you cross The Wizard Of OZ, Alice In Wonderland, and Doctor Who?",0,0,Jamie Hitt,lNzukD8pS_s,0.0,2015-04-22 04:35:59,True,True
+2015-04-22T04:41:00,"All you haters stop hating on this movie, its for kids ok..... sorry its not like ""game of thrones"" and ""death note"" with a thousand subplots... its simple and for kids",0,2,For Real,lNzukD8pS_s,-0.1,2015-04-22 04:41:00,True,True
+2015-04-22T04:52:59,"Looks stupid, for some I can't George Clooney seriously as an actor ever since Batman and Robin. Is it just me or does he suck at acting?",0,1,Fox Smith,lNzukD8pS_s,-0.37777777777777777,2015-04-22 04:52:59,True,True
+2015-04-22T04:54:33,Now that was a trailer!,0,0,emptychannel,lNzukD8pS_s,0.0,2015-04-22 04:54:33,True,True
+2015-04-22T04:59:32,this movie looks like is going to suck.,0,0,2phalanges,lNzukD8pS_s,0.0,2015-04-22 04:59:32,True,True
+2015-04-22T05:07:10,"Now, this is what you call a trailer! No giveaways of what the main plot would be...",0,0,AJ Artwaltz,lNzukD8pS_s,0.16666666666666666,2015-04-22 05:07:10,True,True
+2015-04-22T05:14:04,Where can I get one of those bathtubs?,0,0,SnoopyDoo,lNzukD8pS_s,0.0,2015-04-22 05:14:04,True,True
+2015-04-22T05:17:16,"Ooooo, LOTS of effects! Is there any story, perhaps?",1,0,John Miller,lNzukD8pS_s,0.0,2015-04-22 05:17:16,True,True
+2015-04-22T05:30:12,she is qt,0,0,ᴊᴏʀɪᴄ,lNzukD8pS_s,0.0,2015-04-22 05:30:12,True,True
+2015-04-22T05:32:45,Hey @Disney what's your next movie going to be? Epicot Center? Concession Stand? Lost  & Found?,0,0,suijurisinfowarrior,lNzukD8pS_s,-0.05,2015-04-22 05:32:45,True,True
+2015-04-22T05:40:53,1:38 For a second I thought it turned into terminator,0,0,G_Man,lNzukD8pS_s,0.0,2015-04-22 05:40:53,True,True
+2015-04-22T05:51:17,"if this is tomorrowland, where are all the chicks and the drinks man?. and no DJs. screw that, am not going.",2,0,A. Eqabi,lNzukD8pS_s,0.0,2015-04-22 05:51:17,True,True
+2015-04-22T06:35:24,"I always thought trailers were supposed to tell you what's in store for you if you decide to see this movie, but I guess not anymore.",76,24,Paul Webb,lNzukD8pS_s,0.0,2015-04-22 06:35:24,True,True
+2015-04-22T06:40:58,"Its a small world after all, Its a small world after all.",0,0,Major Buto,lNzukD8pS_s,-0.25,2015-04-22 06:40:58,True,True
+2015-04-22T06:41:29,"seeing this high as a kite, no doubt",0,0,MrFlyersfan28,lNzukD8pS_s,0.16,2015-04-22 06:41:29,True,True
+2015-04-22T06:58:26,Looks amazing!,0,0,Fabrizzio Cabada,lNzukD8pS_s,0.7500000000000001,2015-04-22 06:58:26,True,True
+2015-04-22T07:03:22,"Guys please support,Check out my Covers Thank You!",0,0,Stélios,lNzukD8pS_s,0.0,2015-04-22 07:03:22,True,True
+2015-04-22T07:07:47,Old school adventure! Brad Bird rocks!,0,0,Robert Cowley,lNzukD8pS_s,0.15625,2015-04-22 07:07:47,True,True
+2015-04-22T07:23:19,That was crazy from start to finish,0,0,goats54,lNzukD8pS_s,-0.6,2015-04-22 07:23:19,True,True
+2015-04-22T07:32:34,Thank goodness! A trailer which is both awesome and doesn't spoil the plot of the whole film!!,0,0,Sam Melia,lNzukD8pS_s,0.65625,2015-04-22 07:32:34,True,True
+2015-04-22T07:48:03,Feel like I watched the whole movie,0,0,Retired Major Quintilis,lNzukD8pS_s,0.2,2015-04-22 07:48:03,True,True
+2015-04-22T08:04:42,WOW 1:37 did they really cut someone to pieces Cube or Resident Evil Style?!,92,18,Tobias Kuhn,lNzukD8pS_s,-0.2333333333333333,2015-04-22 08:04:42,True,True
+2015-04-22T08:06:49,Anyone else think this girls just high on lsd?,0,0,Savvy I.,lNzukD8pS_s,0.16,2015-04-22 08:06:49,True,True
+2015-04-22T08:08:49,they show a lot of stuff in the trailer but i still don't know what it's all about exactly...and I'm still pumped up for this movie...wow..,5,2,Azim Hulaimi,lNzukD8pS_s,0.0,2015-04-22 08:08:49,True,True
+2015-04-22T08:12:27,Im not a clooney fan at all but this looks like its going to be good.,0,0,Chad Rose,lNzukD8pS_s,0.7,2015-04-22 08:12:27,True,True
+2015-04-22T08:22:46,WOW,0,0,Koto Nizna,lNzukD8pS_s,0.1,2015-04-22 08:22:46,True,True
+2015-04-22T08:30:04,Can't wait!! Cause I'm not sure whether it's worth to watch or not,0,0,DK Choi,lNzukD8pS_s,0.024999999999999994,2015-04-22 08:30:04,True,True
+2015-04-22T08:52:59,let's see what happens.,0,0,Sindis Hassan,lNzukD8pS_s,0.0,2015-04-22 08:52:59,True,True
+2015-04-22T08:54:30,Looks like a next gen spy kids movie,0,0,Mitchell Radford,lNzukD8pS_s,0.0,2015-04-22 08:54:30,True,True
+2015-04-22T09:27:00,A new movie for a new ride? Or does the ride already exist?,0,0,undeny,lNzukD8pS_s,0.13636363636363635,2015-04-22 09:27:00,True,True
+2015-04-22T09:59:06,Dr. House is in the movie :)),0,0,Geto Dacul,lNzukD8pS_s,0.5,2015-04-22 09:59:06,True,True
+2015-04-22T10:03:20,Very good :),0,0,Florian Erbach,lNzukD8pS_s,0.705,2015-04-22 10:03:20,True,True
+2015-04-22T10:33:46,Curious.... ,0,0,Nancy Kananu,lNzukD8pS_s,-0.1,2015-04-22 10:33:46,True,True
+2015-04-22T10:33:48,Curious.... ,0,0,Nancy Kananu,lNzukD8pS_s,-0.1,2015-04-22 10:33:48,True,True
+2015-04-22T10:35:23,Curious to...,0,0,Nancy Kananu,lNzukD8pS_s,-0.1,2015-04-22 10:35:23,True,True
+2015-04-22T10:35:25,Curious to...,0,0,Nancy Kananu,lNzukD8pS_s,-0.1,2015-04-22 10:35:25,True,True
+2015-04-22T10:50:14,"So, where's Dimitri Vegas and Like Mike?",0,0,Ankit Bhawnani,lNzukD8pS_s,0.0,2015-04-22 10:50:14,True,True
+2015-04-22T11:01:43,Dear Disney - Thanks for showing me the whole movie in a short abridged format so that i don't need to spend any money going to the cinema to watch it...,0,0,Hypnodelica,lNzukD8pS_s,0.125,2015-04-22 11:01:43,True,True
+2015-04-22T11:18:43,"But where is David Guetta, Avicii, Hardwell, DV&LM, Martin Garrix, ... ??",10,1,Je D,lNzukD8pS_s,0.0,2015-04-22 11:18:43,True,True
+2015-04-22T11:23:35,They shouldn't have showed those were androids and showed too much how they will escape.,0,0,Starteller,lNzukD8pS_s,0.2,2015-04-22 11:23:35,True,True
+2015-04-22T11:52:42,I need to see that,0,0,Adrianna The Emoji,lNzukD8pS_s,0.0,2015-04-22 11:52:42,True,True
+2015-04-22T12:12:28,Visuals look amazing!! I can't tell what the plot is though?! Lol,0,0,soulbrothermike1,lNzukD8pS_s,0.9,2015-04-22 12:12:28,True,True
+2015-04-22T12:12:59,"Looks like it's gonna be pretty shit, it will probably be shit, and I'll probably still watch it.",1,0,Im a wizard,lNzukD8pS_s,-0.05000000000000001,2015-04-22 12:12:59,True,True
+2015-04-22T12:17:58,I'm glad this one didn't give the story away like so many others. Looking at you Jurassic Park.,0,0,J-rho,lNzukD8pS_s,0.5,2015-04-22 12:17:58,True,True
+2015-04-22T12:20:13,2 Steps from Hell at the start of the trailer,3,0,Aussie Roberts,lNzukD8pS_s,0.0,2015-04-22 12:20:13,True,True
+2015-04-22T12:22:06,This looks awesome! ,0,0,kbg12ila,lNzukD8pS_s,1.0,2015-04-22 12:22:06,True,True
+2015-04-22T12:25:21,Так и быть - посмотрю пираточку :),0,0,MuadDib el Tough,lNzukD8pS_s,0.5,2015-04-22 12:25:21,True,True
+2015-04-22T12:26:36,Hey guys please check me out and  sub its my birthday and i will appreciate at least 10 subs lol. Thanks :),0,0,cashChristian,lNzukD8pS_s,0.3,2015-04-22 12:26:36,True,True
+2015-04-22T12:56:52,Anyone else think this shes on LSD?,0,0,Farhan Ahmed,lNzukD8pS_s,0.0,2015-04-22 12:56:52,True,True
+2015-04-22T13:15:52,NOICE!,0,0,DarkoTDR,lNzukD8pS_s,0.0,2015-04-22 13:15:52,True,True
+2015-04-22T13:18:33,So this is not a movie about an EDM festival?,0,0,Alfred,lNzukD8pS_s,0.0,2015-04-22 13:18:33,True,True
+2015-04-22T13:28:49,Looks shit.,0,0,WhiteCheetah,lNzukD8pS_s,-0.2,2015-04-22 13:28:49,True,True
+2015-04-22T14:09:00,How is this kind of movie not shot in IMAX 3D?,0,0,Luan Asani,lNzukD8pS_s,0.6,2015-04-22 14:09:00,True,True
+2015-04-22T14:11:08,I HOPE TOMORROWLAND HAS NO HOMOSEXUALS OR MINORITIES IN IT THAT IS THE ONLY FUTURE I WANT TO BE A PART OF,48,37,Silvermania,lNzukD8pS_s,0.0,2015-04-22 14:11:08,True,True
+2015-04-22T14:15:26,did they show to much?,1,1,twitte0king,lNzukD8pS_s,0.2,2015-04-22 14:15:26,True,True
+2015-04-22T15:03:03,2:23 is epic,0,0,Jiang Liu,lNzukD8pS_s,0.1,2015-04-22 15:03:03,True,True
+2015-04-22T15:03:55,Ааааа ,0,0,Roma22377 иоит,lNzukD8pS_s,0.0,2015-04-22 15:03:55,True,True
+2015-04-22T15:04:19,I'm starting to think that the producers of Tomorrowland and Terminator Genisys got their screenplays mixed up,0,0,Nash Knight,lNzukD8pS_s,0.0,2015-04-22 15:04:19,True,True
+2015-04-22T15:08:33,The Garry's mod bathtub lol,0,0,Daniel L,lNzukD8pS_s,0.5,2015-04-22 15:08:33,True,True
+2015-04-22T15:15:35,OK. I'm officially psyched.,0,0,Noah Gregory,lNzukD8pS_s,0.5,2015-04-22 15:15:35,True,True
+2015-04-22T15:18:21,wow.  Brad Bird looks to have done it again!! I cannot wait!,0,0,Dr.B.Dubs,lNzukD8pS_s,0.1953125,2015-04-22 15:18:21,True,True
+2015-04-22T15:19:22,Looks pretty good to me ,0,0,SillyBeastMonkey,lNzukD8pS_s,0.475,2015-04-22 15:19:22,True,True
+2015-04-22T15:20:17,looks good even if it comes from Disney's evil clutches,0,0,torhagen,lNzukD8pS_s,-0.15000000000000002,2015-04-22 15:20:17,True,True
+2015-04-22T15:25:35,fuck i thought this was video was gonna be a trailer for an edm festival at disney land,0,0,Emmet Dailey,lNzukD8pS_s,-0.4,2015-04-22 15:25:35,True,True
+2015-04-22T15:27:27,Is this the Tomorrowland official afterparty video?,0,0,Däni,lNzukD8pS_s,0.0,2015-04-22 15:27:27,True,True
+2015-04-22T15:30:05,роботы?! взрывы?! параллельные миры?! УХХУУ!!,0,0,Ankeger NSK,lNzukD8pS_s,0.0,2015-04-22 15:30:05,True,True
+2015-04-22T15:50:12,soo lame,0,0,Cornelius abdon,lNzukD8pS_s,-0.5,2015-04-22 15:50:12,True,True
+2015-04-22T15:54:20,Oh yes. I want to See!,0,0,Kevin Wilson,lNzukD8pS_s,0.0,2015-04-22 15:54:20,True,True
+2015-04-22T15:54:52,Thats a lot of footage for a trailer,0,0,Shourie Abbaraju,lNzukD8pS_s,0.0,2015-04-22 15:54:52,True,True
+2015-04-22T15:57:26,SO MANY TRAILERS,0,0,Josh Hinchliffe,lNzukD8pS_s,0.5,2015-04-22 15:57:26,True,True
+2015-04-22T16:00:22,"You know you've been listening for way too many Trailer music when you suddenly shouted Two Steps From Hell at the start. I embarrassed myself, seriously :)",0,0,Tony Orbeta,lNzukD8pS_s,0.16666666666666669,2015-04-22 16:00:22,True,True
+2015-04-22T16:04:27,Is everybody in this movie white? My god.,0,0,Afrika Rising,lNzukD8pS_s,0.0,2015-04-22 16:04:27,True,True
+2015-04-22T16:05:33,1:50 блять ванна летит сука теперь я видел всё,0,0,Дьявол АДа,lNzukD8pS_s,0.0,2015-04-22 16:05:33,True,True
+2015-04-22T16:07:36,Looks like it will have a really generic story with a cgi fuckfest to throw smokebombs for the lacking story,0,0,wHisperis001,lNzukD8pS_s,0.0,2015-04-22 16:07:36,True,True
+2015-04-22T16:19:01,Feel like that was the whole movie expect maybe the last 15 minutes or so...,1,0,Rcbif,lNzukD8pS_s,0.1,2015-04-22 16:19:01,True,True
+2015-04-22T16:23:50,Looks like bioshock,0,0,ymohammed88,lNzukD8pS_s,0.0,2015-04-22 16:23:50,True,True
+2015-04-22T16:24:32,This movie looks so awesome. Such great caliber of creativity and intelligence in one man..BRAD BIRD!! I love his movies so much!!,0,0,Sai Rohit,lNzukD8pS_s,0.5625,2015-04-22 16:24:32,True,True
+2015-04-22T16:39:58,@1:05 I thought we were back in the hatch in season 2 of LOST,0,0,Julie Carlin,lNzukD8pS_s,0.0,2015-04-22 16:39:58,True,True
+2015-04-22T16:55:38,Sounds incredible!,1,0,J Day,lNzukD8pS_s,1.0,2015-04-22 16:55:38,True,True
+2015-04-22T16:57:48,this better mention space mountain or ill be pissed,0,0,Official Blueyute,lNzukD8pS_s,0.0,2015-04-22 16:57:48,True,True
+2015-04-22T17:04:06,This just looks interesting because of that buffting George Clooney,2,0,Some sort of name,lNzukD8pS_s,0.5,2015-04-22 17:04:06,True,True
+2015-04-22T17:05:47,this reveals too much.,0,2,zippyzee,lNzukD8pS_s,0.2,2015-04-22 17:05:47,True,True
+2015-04-22T17:13:52,Very dramatic and violent for a disney film. Giving the kids ideas perhaps...,0,0,Anna-Marie Smith,lNzukD8pS_s,-0.6816666666666666,2015-04-22 17:13:52,True,True
+2015-04-22T17:18:27,so where's the freaking DJs?,1,0,dicky kintano,lNzukD8pS_s,0.0,2015-04-22 17:18:27,True,True
+2015-04-22T17:22:32,Take my money!@,0,0,Ivan,lNzukD8pS_s,0.0,2015-04-22 17:22:32,True,True
+2015-04-22T17:26:57,special effects the movie...,1,0,GodRyder,lNzukD8pS_s,0.35714285714285715,2015-04-22 17:26:57,True,True
+2015-04-22T17:29:03,Special effects don't make good movies.,4,6,Calvin Smith,lNzukD8pS_s,0.5285714285714286,2015-04-22 17:29:03,True,True
+2015-04-22T17:35:13,"And the propaganda continues.....the golden age is going to be so great guys, can't wait. Might as well attend the festival too, so my programming will be complete. ",0,0,starvin marvin,lNzukD8pS_s,0.275,2015-04-22 17:35:13,True,True
+2015-04-22T17:41:11,2:08. Portal 2 much?,1,0,Ari Bari,lNzukD8pS_s,0.2,2015-04-22 17:41:11,True,True
+2015-04-22T17:45:03,They rated this PG??,0,0,Farabi Rahman,lNzukD8pS_s,0.0,2015-04-22 17:45:03,True,True
+2015-04-22T17:45:56,Bullshit confirmed,0,0,Biblo,lNzukD8pS_s,0.4,2015-04-22 17:45:56,True,True
+2015-04-22T18:15:07,"Is that ""creation of earth"" by Thomas bergesen playing at the beginning? I love that track.",0,0,Moonlight Shadow,lNzukD8pS_s,0.5,2015-04-22 18:15:07,True,True
+2015-04-22T18:22:18,OMG Hugh Laurie 2:09,0,0,Kalule Móveis,lNzukD8pS_s,0.0,2015-04-22 18:22:18,True,True
+2015-04-22T18:28:40,Awesome.  Looks old-school to me.   I'm there on May 22nd.,0,0,OrionDenali,lNzukD8pS_s,1.0,2015-04-22 18:28:40,True,True
+2015-04-22T18:35:50,"Tomorrowland, you had my curiosity.  Now you have my attention.",0,0,Comedy Bros,lNzukD8pS_s,0.0,2015-04-22 18:35:50,True,True
+2015-04-22T18:42:06,2:09 Hugh Laurie motherfuckers!,0,0,LaughS0L0ud,lNzukD8pS_s,0.0,2015-04-22 18:42:06,True,True
+2015-04-22T18:47:03,Wow,0,0,BabyEgg,lNzukD8pS_s,0.1,2015-04-22 18:47:03,True,True
+2015-04-22T19:07:08,This looks like if The Matrix and Advanced Warfare had a baby. ,0,0,Massive Project,lNzukD8pS_s,0.4,2015-04-22 19:07:08,True,True
+2015-04-22T19:09:14,Awesome,0,0,si kentang,lNzukD8pS_s,1.0,2015-04-22 19:09:14,True,True
+2015-04-22T19:23:51,I really wanna see this movie!!!,0,0,Elsie Rocks,lNzukD8pS_s,0.390625,2015-04-22 19:23:51,True,True
+2015-04-22T19:34:56,0:24 Proof that this girl doesn't know how to act,0,0,pelisdami,lNzukD8pS_s,0.0,2015-04-22 19:34:56,True,True
+2015-04-22T19:35:21,Fucking terminators and shit!,0,0,Avid,lNzukD8pS_s,-0.425,2015-04-22 19:35:21,True,True
+2015-04-22T19:45:26,I want wach that,0,0,Raul Felipe Rodriguez Soto,lNzukD8pS_s,0.0,2015-04-22 19:45:26,True,True
+2015-04-22T19:51:37,I'm REALLY looking forward to seeing this movie,3,0,David Derks,lNzukD8pS_s,0.2,2015-04-22 19:51:37,True,True
+2015-04-22T20:02:37,"2:10 That chair and ascending to the clouds, right out of Bioshock Infinite.",0,0,Splatterhausen,lNzukD8pS_s,0.2857142857142857,2015-04-22 20:02:37,True,True
+2015-04-22T20:21:18,frank walker's tomorrowland=willy wonka & the chocolate factory,0,0,Sann Mesaea,lNzukD8pS_s,0.0,2015-04-22 20:21:18,True,True
+2015-04-22T20:42:52,So basically this gives us all the good parts of the house scene and some other stuff we got from the first trailers.,0,0,thomassaurus,lNzukD8pS_s,0.27499999999999997,2015-04-22 20:42:52,True,True
+2015-04-22T20:48:51,Cant wait for the Aftermovie! ;),5,0,TibiaESP,lNzukD8pS_s,0.25,2015-04-22 20:48:51,True,True
+2015-04-22T20:55:53,"Hope this doesn't turn out to be crap,",0,0,Sad Boi Zero,lNzukD8pS_s,-0.8,2015-04-22 20:55:53,True,True
+2015-04-22T20:57:44,Terminator music at 1:39,0,0,Frank Mitarotonda,lNzukD8pS_s,0.0,2015-04-22 20:57:44,True,True
+2015-04-22T20:58:50,I don't see any Dimitri Vegas and Like Mike,0,0,Foca Vasca,lNzukD8pS_s,0.0,2015-04-22 20:58:50,True,True
+2015-04-22T20:59:56,pretty cool can't wait till it comes out on boot-leg,0,0,max powers,lNzukD8pS_s,0.3,2015-04-22 20:59:56,True,True
+2015-04-22T21:01:30,Trailers ruin movies unless treated as standalone productions. Trailers are an art form unto themselves and should embody a spirit and ethos representational of the core concept. A hint at what is to come.....NOT THE ENTIRE FUCKING FILM!!,0,0,lamin,lNzukD8pS_s,-0.46875,2015-04-22 21:01:30,True,True
+2015-04-22T21:33:08,Omg I just realized that tomorrowland is a place at Disney ,0,0,Shreya M,lNzukD8pS_s,0.0,2015-04-22 21:33:08,True,True
+2015-04-22T21:38:13,and where is David Guetta pressing the play button?,0,0,Hurlzz,lNzukD8pS_s,0.0,2015-04-22 21:38:13,True,True
+2015-04-22T21:38:56,just watched 2:27 of explosions.,1,0,LordUni Alternative,lNzukD8pS_s,0.0,2015-04-22 21:38:56,True,True
+2015-04-22T22:23:32,Where the fuck is Djs and boobs,0,0,Kaan Satılmış,lNzukD8pS_s,-0.4,2015-04-22 22:23:32,True,True
+2015-04-22T22:27:03,El psy congroo,0,0,TEPMARMY,lNzukD8pS_s,0.0,2015-04-22 22:27:03,True,True
+2015-04-22T22:28:12,can't imagine what they are working on for the future parks,0,0,zincink,lNzukD8pS_s,0.0,2015-04-22 22:28:12,True,True
+2015-04-22T22:41:51,7 more of these trailers and we will have the full movie.  Sheesh. Won't go see it just for the amount of rape my eyes have received from these trailers in ads before videos. Good job!,0,0,merickful,lNzukD8pS_s,0.5750000000000001,2015-04-22 22:41:51,True,True
+2015-04-22T22:55:01,"better than sex,   wait,nope",0,0,Weabe,lNzukD8pS_s,0.5,2015-04-22 22:55:01,True,True
+2015-04-22T23:00:46,wtf,0,0,kurt dussander,lNzukD8pS_s,-0.5,2015-04-22 23:00:46,True,True
+2015-04-22T23:08:18,Is Tomorrowland supposed to be Avalon for Atheists?,0,0,überguy,lNzukD8pS_s,0.0,2015-04-22 23:08:18,True,True
+2015-04-22T23:54:11,Does this have anything to do with the Yul Brenner movie Westworld? I believe it was a sequel or prequel to a movie called Tomorrowland,0,0,E gor,lNzukD8pS_s,0.0,2015-04-22 23:54:11,True,True
+2015-04-23T00:04:11,Great.. another movie about the Illuminati...,1,0,IRelentless,lNzukD8pS_s,0.8,2015-04-23 00:04:11,True,True
+2015-04-23T00:04:17,I thought would be the real Tomorrowland :(,0,0,Andrés Gallardo,lNzukD8pS_s,-0.275,2015-04-23 00:04:17,True,True
+2015-04-23T00:28:57,Lol on the beginning i though Disney made a movie about white girls doing molly on Tomorrowland. Funny.,17,3,PrinceMaze,lNzukD8pS_s,0.35000000000000003,2015-04-23 00:28:57,True,True
+2015-04-23T00:36:28,In Brad Bird I trust,0,0,Gwynbleidd,lNzukD8pS_s,0.0,2015-04-23 00:36:28,True,True
+2015-04-23T00:42:47,"That is some really  good sci-fi action right there.  Looks awesome, and that  girl is really hot",0,0,Jahooba,lNzukD8pS_s,0.4671428571428571,2015-04-23 00:42:47,True,True
+2015-04-23T01:04:01,"Jetpacks? flying cars? Hell naw. Won't ever be a reality unless we can guarantee that humans won't make mistakes and crash them into buildings, or into crowds of people, or midair collisions, etc.   I mean shit, we crash on a 2D field (The road) which are just straight lines, sometimes curved with intersections.   Imagine a 3D field, with left/right forward/backward and up/down.. We'd have to make these flying vehicles solely computer operated with many redundancies.",18,7,sacr3,lNzukD8pS_s,0.046875000000000014,2015-04-23 01:04:01,True,True
+2015-04-23T01:17:37,"george cloony feels like a cleaner han solo, fricken awesome",0,0,K.,lNzukD8pS_s,1.0,2015-04-23 01:17:37,True,True
+2015-04-23T01:19:21,why does the future in every movie have to look like the effing apple store?,0,0,eXistenZ0086,lNzukD8pS_s,-0.25,2015-04-23 01:19:21,True,True
+2015-04-23T01:59:04,Had to make the baddies robots in order to keep pg rating. ,0,0,Clayton Ingalls,lNzukD8pS_s,0.0,2015-04-23 01:59:04,True,True
+2015-04-23T02:26:42,bioshock infinite?,0,0,Sebastian Galvez,lNzukD8pS_s,0.0,2015-04-23 02:26:42,True,True
+2015-04-23T02:32:09,did i just watch the whole movie?,0,0,thehousemaderobot,lNzukD8pS_s,0.2,2015-04-23 02:32:09,True,True
+2015-04-23T02:36:58,"Oh gosh. This got me all giddy like a little kid that I used to be when movies like ET, Jurassic Park, Alien, Star Wars came out!!!! HEHEHEHEE",0,0,Goofy Emoji,lNzukD8pS_s,-0.39892578125,2015-04-23 02:36:58,True,True
+2015-04-23T02:49:24,"They should actually make a movie of the electronic music festival, of Tomorrowland then this shit! ",0,0,5olace,lNzukD8pS_s,-0.125,2015-04-23 02:49:24,True,True
+2015-04-23T03:50:30,I can definitely see Brad Bird's fingerprints all over this film. Action scenes look very entertaining as expected from his caliber. He sure knows how to add suspense while maintaining an amiable core in all his works.,0,0,Josh Kang,lNzukD8pS_s,0.22999999999999998,2015-04-23 03:50:30,True,True
+2015-04-23T04:16:57,I saw her tits,0,0,Black Orchid,lNzukD8pS_s,0.0,2015-04-23 04:16:57,True,True
+2015-04-23T04:27:34,Заинтриговали!,1,0,Natalie Didenko,lNzukD8pS_s,0.0,2015-04-23 04:27:34,True,True
+2015-04-23T04:40:49,HOLY CRAP BALLS. I'm sold now. lol,0,0,iwatchmike,lNzukD8pS_s,0.0,2015-04-23 04:40:49,True,True
+2015-04-23T04:56:46,Wtf is this movie about anyways?,0,0,Chimkinnuggers2888,lNzukD8pS_s,-0.5,2015-04-23 04:56:46,True,True
+2015-04-23T05:06:22,Kinda looks like Dubai's Burj Khalifa tower,1,0,007VitaminD,lNzukD8pS_s,0.0,2015-04-23 05:06:22,True,True
+2015-04-23T05:15:31,"Why do you movie producers continue to spoil these films for yourselves by revealing too much information in the trailer.  You pretty much told the whole story in 2 minutes and 27 seconds, and of course since it's Disney, ""don't worry everyone, by the end of the movie, everything will turn out ok"".  Thanks for revealing critical and interesting elements of your story for free at no charge to me.  Now that the mystery is gone, I'll just wait till it's on netflix.",0,1,Tb Visuals,lNzukD8pS_s,0.2722222222222222,2015-04-23 05:15:31,True,True
+2015-04-23T05:16:58,design looks like Carter and feels like Robocop....they must have a short film on it to entice young viewer to be atleast interested in it,0,0,Chris Da Husky,lNzukD8pS_s,0.11666666666666665,2015-04-23 05:16:58,True,True
+2015-04-23T06:02:06,"wow - this looks very intense, action packed, & somewhat violent..... for a DISNEY movie !!!",0,0,San Diego,lNzukD8pS_s,-0.135,2015-04-23 06:02:06,True,True
+2015-04-23T06:37:42,I will pirate that movie because disney is making too much money already...,0,0,Bryan P,lNzukD8pS_s,0.2,2015-04-23 06:37:42,True,True
+2015-04-23T07:22:18,"2:09 Hi, Hugh Laurie!",0,0,Eos,lNzukD8pS_s,0.0,2015-04-23 07:22:18,True,True
+2015-04-23T07:25:42,that looks bad ass if u ask me!,0,0,Douglas Naanos,lNzukD8pS_s,-0.8749999999999998,2015-04-23 07:25:42,True,True
+2015-04-23T07:51:57,"next for disney, buying monsanto. seems right up their alley.",0,0,Bob Smith,lNzukD8pS_s,0.14285714285714285,2015-04-23 07:51:57,True,True
+2015-04-23T07:56:29,"I have literally no idea what's going on here, but it looks pretty cool",0,0,Scero Ye,lNzukD8pS_s,0.3,2015-04-23 07:56:29,True,True
+2015-04-23T08:13:17,Cant wait! *Do you wanna see the most amazing youtubers ever?* Go and watch @*****'s videos. *You are gonna be huge fan just seconds after you watch.* NEVER SEEN SOMETHING LIKE IT BEFORE.  #youtubestars   #incredible,81,13,Reian Suertaa,lNzukD8pS_s,0.6000000000000001,2015-04-23 08:13:17,True,True
+2015-04-23T08:14:22,I was hoping to see a little bit more Laurie,0,0,Hrishi Telcontar,lNzukD8pS_s,0.15625,2015-04-23 08:14:22,True,True
+2015-04-23T08:18:55,This actually looks kinda good,0,0,bambino,lNzukD8pS_s,0.35,2015-04-23 08:18:55,True,True
+2015-04-23T08:28:49,"Huge protental....kinda feels like its wasted, i think by the looks of it, geared for family and childern.",0,0,Salty Salts,lNzukD8pS_s,0.10000000000000003,2015-04-23 08:28:49,True,True
+2015-04-23T08:31:44,The Venus Project. That is all.,0,0,siliconstate,lNzukD8pS_s,0.0,2015-04-23 08:31:44,True,True
+2015-04-23T09:02:02,Holy shittt!,0,0,Sagar Rao,lNzukD8pS_s,0.0,2015-04-23 09:02:02,True,True
+2015-04-23T09:05:15,Drugs are bad.....,0,0,Almost Smart,lNzukD8pS_s,-0.6999999999999998,2015-04-23 09:05:15,True,True
+2015-04-23T09:17:44,"George Clooney as an action hero, Interesting. Never seen that before",0,0,Dougie HawHaw,lNzukD8pS_s,0.3,2015-04-23 09:17:44,True,True
+2015-04-23T09:30:36,I didn't know things went boom,0,0,gwkowe,lNzukD8pS_s,0.0,2015-04-23 09:30:36,True,True
+2015-04-23T10:38:13,when did Michael bay join Disney?,1,0,Super Josh,lNzukD8pS_s,0.0,2015-04-23 10:38:13,True,True
+2015-04-23T12:26:24,Now that's a trailer... Just want to watch it!!!!!,1,0,vamsy marni,lNzukD8pS_s,0.0,2015-04-23 12:26:24,True,True
+2015-04-23T12:40:43,So exited!,0,0,puffinsunday muffin,lNzukD8pS_s,0.0,2015-04-23 12:40:43,True,True
+2015-04-23T12:54:06,Hmm this is not the tomorrowland I thought it would be ...oops,0,0,123blah543,lNzukD8pS_s,0.0,2015-04-23 12:54:06,True,True
+2015-04-23T12:56:30,Phil of the future: the movie?!,0,0,xTurtleRockx,lNzukD8pS_s,0.0,2015-04-23 12:56:30,True,True
+2015-04-23T13:42:33,Music sounded like the Battlefield theme :P,1,0,Tom Carter,lNzukD8pS_s,0.75,2015-04-23 13:42:33,True,True
+2015-04-23T13:51:25,Tomowwowland,0,0,ContentRequest,lNzukD8pS_s,0.0,2015-04-23 13:51:25,True,True
+2015-04-23T14:47:03,looks awesome!!,0,0,CockpumpVideo,lNzukD8pS_s,1.0,2015-04-23 14:47:03,True,True
+2015-04-23T16:21:19,sounds really cheesy,1,0,AfroVids,lNzukD8pS_s,-0.5,2015-04-23 16:21:19,True,True
+2015-04-23T16:29:28,Bioshock anyone?,0,0,Ari K.,lNzukD8pS_s,0.0,2015-04-23 16:29:28,True,True
+2015-04-23T16:53:39,That does look like Bioshock.....,0,0,pcgamerxp,lNzukD8pS_s,0.0,2015-04-23 16:53:39,True,True
+2015-04-23T17:07:05,This looks as good as the shit i took last night.,0,0,Rick Troll,lNzukD8pS_s,0.16666666666666666,2015-04-23 17:07:05,True,True
+2015-04-23T17:23:15,Looks Good,0,0,www.wffo.us WATCH MOVIES ONLINE FREE,lNzukD8pS_s,0.7,2015-04-23 17:23:15,True,True
+2015-04-23T18:29:17,A.K.A Disney's next Disneyland attraction,0,2,Geelar,lNzukD8pS_s,0.0,2015-04-23 18:29:17,True,True
+2015-04-23T18:54:49,Good lord imagine if those were real people. . .,0,0,Surv,lNzukD8pS_s,0.44999999999999996,2015-04-23 18:54:49,True,True
+2015-04-23T19:05:18,looks like the place from guardians of the Galaxy... cheap ass Disney ,0,0,Salvador Bueno,lNzukD8pS_s,0.4,2015-04-23 19:05:18,True,True
+2015-04-23T19:45:18,some of the sound in the trailer sounded like from transformers trailers for 3..? or others,0,0,MRJLambell,lNzukD8pS_s,0.4,2015-04-23 19:45:18,True,True
+2015-04-23T20:10:01,I liked the original junglebook,0,0,Pleyland,lNzukD8pS_s,0.4875,2015-04-23 20:10:01,True,True
+2015-04-23T20:36:40,WTF IT WAS???Wanna see dat!,0,0,Mihhail Fjodorov,lNzukD8pS_s,-0.625,2015-04-23 20:36:40,True,True
+2015-04-23T21:06:12,"title woulda been better, but that's what makes disney disney, xD",0,0,It's a Pheese,lNzukD8pS_s,0.5,2015-04-23 21:06:12,True,True
+2015-04-23T21:48:51,What did i just watch?! that was the coolest friggin' thing i've ever seen!! holy crap!!!,0,0,ZygmanFroid,lNzukD8pS_s,-1.0,2015-04-23 21:48:51,True,True
+2015-04-23T22:08:04,The first time I saw her was in under the dome and now she is a lead character in a movie with george clooney. Quiet the Business ladder jump.,0,0,JoeAuFe,lNzukD8pS_s,0.125,2015-04-23 22:08:04,True,True
+2015-04-23T22:14:15,"The movie looks and sounds so good, and it has Brad Bird attached... but why is the name so stupid?",0,0,Phil Dog,lNzukD8pS_s,-0.04999999999999999,2015-04-23 22:14:15,True,True
+2015-04-23T22:31:09,This looks really cool! I can't wait to see it!,0,0,princessthyemis,lNzukD8pS_s,0.546875,2015-04-23 22:31:09,True,True
+2015-04-23T22:41:12,Just showed us the whole movie!!,0,0,Christian Evelyn,lNzukD8pS_s,0.3125,2015-04-23 22:41:12,True,True
+2015-04-24T00:26:16,I know Disney is rich but I'm not paying to watch this bullshit I'll watch it for free thanks for putting out free movies Disney ,0,0,KUNDALINI,lNzukD8pS_s,0.34375,2015-04-24 00:26:16,True,True
+2015-04-24T00:43:49,"It is like a girl discovers the ecstasy drug and hallucinates. And when it wore off, she demands more and now the DEA or cops are after her for having illegal possession.  ",0,0,WhiteEmerald1991,lNzukD8pS_s,0.0,2015-04-24 00:43:49,True,True
+2015-04-24T01:19:30,i'm guessing this is somehow related to the tomorrow land that is at Disney's Magic Kingdom..?,0,0,Noctis,lNzukD8pS_s,0.25,2015-04-24 01:19:30,True,True
+2015-04-24T01:28:41,What happened to thw non-violent disney let me tell you what . NEVER EXISTED  ,0,0,mariana muñeca,lNzukD8pS_s,0.0,2015-04-24 01:28:41,True,True
+2015-04-24T01:42:55,I feel like I've seen too much.,0,0,Aaron Powell,lNzukD8pS_s,0.2,2015-04-24 01:42:55,True,True
+2015-04-24T02:05:56,"Looks interesting, except the actress they picked is sorta annoying... :-/",0,0,Out Of Order,lNzukD8pS_s,-0.18333333333333335,2015-04-24 02:05:56,True,True
+2015-04-24T02:14:10,She looks like a young Saoirse Ronan.,0,0,JasnoGT,lNzukD8pS_s,0.1,2015-04-24 02:14:10,True,True
+2015-04-24T02:50:41,why do I feel like this is going to be another hunger games rip off where they just pump out movie after movie and it means nothing.,0,1,The RedChili,lNzukD8pS_s,0.0,2015-04-24 02:50:41,True,True
+2015-04-24T03:26:10,So far this movie has little to no buzz.  Which is a shame because (unless if this is a truly mediocre effort) I WANT this movie to do well.   Brad Bird turned down a Star Wars movie for Tomorrowland.  I HOPE that not only is this a great movie but also one that at least doesn't bomb at the box office.,0,0,Edwin Kim,lNzukD8pS_s,-0.03472222222222222,2015-04-24 03:26:10,True,True
+2015-04-24T04:05:21,Hugh laurie is casted in this film right?,0,0,red black,lNzukD8pS_s,0.2857142857142857,2015-04-24 04:05:21,True,True
+2015-04-24T04:21:17,"Left wing Communist nut George Clooney in this, I'm not gonna watch it.",0,0,PrinceChaloner,lNzukD8pS_s,0.0,2015-04-24 04:21:17,True,True
+2015-04-24T06:00:43,"Anyone else think to begin with that this was Disney tomorrowland, and is Disneyland of the future?",0,0,MrCollegeSmart,lNzukD8pS_s,0.0,2015-04-24 06:00:43,True,True
+2015-04-24T06:12:04,hell ya this looks great!,0,0,Tory,lNzukD8pS_s,1.0,2015-04-24 06:12:04,True,True
+2015-04-24T06:52:08,George is the American in this  :-),0,0,Dominant Raw1ne,lNzukD8pS_s,0.25,2015-04-24 06:52:08,True,True
+2015-04-24T07:15:09,Michal bay?,0,0,Nick Shreve,lNzukD8pS_s,0.0,2015-04-24 07:15:09,True,True
+2015-04-24T07:44:12,Spoiler alert: George Clooney fucks this girl.,1,0,Wenn Ethicus,lNzukD8pS_s,0.0,2015-04-24 07:44:12,True,True
+2015-04-24T09:37:00,I like the girl. Good movie,0,0,СhildspTV,lNzukD8pS_s,0.7,2015-04-24 09:37:00,True,True
+2015-04-24T10:00:21,Damon Lindelof of Prometheus fame is involved so this is going to be a real let down. The plot is going to make no sense whatsoever.,0,0,zeroizeable,lNzukD8pS_s,0.022222222222222213,2015-04-24 10:00:21,True,True
+2015-04-24T11:08:17,Is this where Myles is from?,0,0,amberoye,lNzukD8pS_s,0.0,2015-04-24 11:08:17,True,True
+2015-04-24T12:10:26,Have I been living under a rock or has disney decided to go from children friendly shows to live action badassness recently,0,0,ScarecrowHobo,lNzukD8pS_s,0.15284090909090908,2015-04-24 12:10:26,True,True
+2015-04-24T12:14:03,It is awesome 🙆,0,0,saad aljbory,lNzukD8pS_s,1.0,2015-04-24 12:14:03,True,True
+2015-04-24T12:52:56,"I read the title as ""Disneyland Tomorrow""",0,0,Fish Ed,lNzukD8pS_s,0.0,2015-04-24 12:52:56,True,True
+2015-04-24T13:21:08,"If his office is a panic room and the bathtub is an escape chute, why are they are at opposite ends of the house? Really invites danger.",0,0,supermanpottsie,lNzukD8pS_s,0.1,2015-04-24 13:21:08,True,True
+2015-04-24T13:48:16,i think the trailer would of been better if i didnt know that the guys were robots xD because in the movies i would of been like: OOOOOOOOOMMGGGGG,82,13,Sky123sl,lNzukD8pS_s,0.5,2015-04-24 13:48:16,True,True
+2015-04-24T14:10:42,kayaknya lebih bagusan film ini dibandingin film avengers: age of ultron yang  kemaren,0,0,david _48family,lNzukD8pS_s,0.0,2015-04-24 14:10:42,True,True
+2015-04-24T14:19:03,"wow looks fancy, loved the trailer, i will watch it.",0,0,MV N,lNzukD8pS_s,0.39999999999999997,2015-04-24 14:19:03,True,True
+2015-04-24T15:00:33,This is some Bioshock level shit right here. I'm interested to see how this one goes.,380,36,javalin597,lNzukD8pS_s,0.1119047619047619,2015-04-24 15:00:33,True,True
+2015-04-24T16:17:33,i want to see this movie SO bad!,0,0,Gigi,lNzukD8pS_s,-0.8749999999999998,2015-04-24 16:17:33,True,True
+2015-04-24T17:01:35,Kids fuck every thing up for everyone in films,0,0,Jack Mettrick,lNzukD8pS_s,-0.4,2015-04-24 17:01:35,True,True
+2015-04-24T17:14:47,Brad Bird's new masterpiece,0,0,doccomar,lNzukD8pS_s,0.13636363636363635,2015-04-24 17:14:47,True,True
+2015-04-24T19:46:11,this movie looks dope as fuck!!,0,0,Usamiio,lNzukD8pS_s,-0.625,2015-04-24 19:46:11,True,True
+2015-04-24T20:35:39,"Who else thought it was Terminator when the robot blasted through the wall right before he got magnetized to the wall, with a bit of the Terminator theme.",0,0,HexNa 15,lNzukD8pS_s,-0.15714285714285714,2015-04-24 20:35:39,True,True
+2015-04-24T21:03:10,Huh... I had no clue this was a thing until 5 minutes ago,0,0,kloppanator,lNzukD8pS_s,0.0,2015-04-24 21:03:10,True,True
+2015-04-24T21:41:24,Futurama would have been better... I want Fry!!!!!,0,0,itsy bitsy spider,lNzukD8pS_s,1.0,2015-04-24 21:41:24,True,True
+2015-04-24T21:47:36,The Illuminati Symbolism will be strong in this one me thinks.,0,0,HandyMan101,lNzukD8pS_s,0.4333333333333333,2015-04-24 21:47:36,True,True
+2015-04-24T22:44:20,"I think in the future Disney will make Adventureland, Fantasyland, also Main Street U.S.A.?",0,0,Domdom Wacky,lNzukD8pS_s,0.08333333333333333,2015-04-24 22:44:20,True,True
+2015-04-25T00:00:23,So perfect 3,0,0,Jackson Sottero,lNzukD8pS_s,1.0,2015-04-25 00:00:23,True,True
+2015-04-25T01:06:19,is this some kind of cyber narnia? :s,0,0,Haroldo Duarte,lNzukD8pS_s,0.175,2015-04-25 01:06:19,True,True
+2015-04-25T01:13:29,The 1st  Clooney movie I want to see since Ocean's 11.,0,0,Shane Brannon,lNzukD8pS_s,0.0,2015-04-25 01:13:29,True,True
+2015-04-25T04:11:01,did they just show us the whole film already? :( I'm so excited for this movie,0,0,NotSo Handso,lNzukD8pS_s,-0.05833333333333335,2015-04-25 04:11:01,True,True
+2015-04-25T04:13:53,wow looks amazing,0,0,Phil Moufarrege,lNzukD8pS_s,0.35000000000000003,2015-04-25 04:13:53,True,True
+2015-04-25T07:23:41,I need me some George Clooney,0,0,Susana Diaz,lNzukD8pS_s,0.0,2015-04-25 07:23:41,True,True
+2015-04-25T09:29:08,Anyone knows the music used in this trailer?,1,0,schococrisps,lNzukD8pS_s,0.0,2015-04-25 09:29:08,True,True
+2015-04-25T09:41:55,Kind of a tron meets Spy kids vibe going on.,0,0,Zᴇᴩʜyʀᴜꜱ Aᴜʀᴏɴ,lNzukD8pS_s,0.6,2015-04-25 09:41:55,True,True
+2015-04-25T09:56:29,This is the ONLY George Clooney film that actually looks good to me.,0,0,Spartaximus,lNzukD8pS_s,0.2333333333333333,2015-04-25 09:56:29,True,True
+2015-04-25T10:13:04,Not gonna lie that trailer made this move look very bad ass,0,0,milky1234123,lNzukD8pS_s,-0.9099999999999998,2015-04-25 10:13:04,True,True
+2015-04-25T12:27:54,George Clooney Rocks!!,0,0,Juan Orihuela,lNzukD8pS_s,0.0,2015-04-25 12:27:54,True,True
+2015-04-25T15:24:39,"Oh boy. Another movie about a dystopian future with an evil government that is no longer of the people, by the people and for the people. Yay.",0,6,Rick Bunte,lNzukD8pS_s,-0.5,2015-04-25 15:24:39,True,True
+2015-04-25T16:22:19,aaaand an entire scene was spoiled,0,0,frederic bomower,lNzukD8pS_s,0.0,2015-04-25 16:22:19,True,True
+2015-04-25T20:43:54,"Wow, this looks awesome, can't believe it comes out in a month, cosider me sold.",0,0,Omar Wen,lNzukD8pS_s,0.55,2015-04-25 20:43:54,True,True
+2015-04-25T21:45:18,this movie has the most stupidest title in german.,0,0,HAL420,lNzukD8pS_s,0.25,2015-04-25 21:45:18,True,True
+2015-04-26T00:41:39,I wanted to mention this for those that might not know about it and was lucky enough to see it today. If you are going to Epcot soon be sure to head over to the area near Journey into Imagination where the Captain EO attraction was located. They have replaced this attraction with a incredible preview of the movie which starts at the Worlds Fair in the 60's and gives you the backstory of the boy who will grow up into the character played by George Clooney. I must say my wife and I are both blown away by what we saw and some of the trailers give you bits and pieces but the preview in the park put everything together and added some additional content. We can't wait to see the movie and know it's going to be awesome.,0,0,Scott White,lNzukD8pS_s,0.5047619047619047,2015-04-26 00:41:39,True,True
+2015-04-26T05:22:22,"they're making us wait waaaayyy to long for this movie! a story arc so right up my alley it's not even funny! i can already tell that, when available, this will be the first DVD i'll have purchased in *years.*  wtg, disney!  :-D",0,0,roxanneworld11,lNzukD8pS_s,0.374702380952381,2015-04-26 05:22:22,True,True
+2015-04-26T05:25:04,Holy shit ,0,0,Carlos Marín,lNzukD8pS_s,-0.2,2015-04-26 05:25:04,True,True
+2015-04-26T13:51:16,That's one helluva drug,0,0,Meiji Marts,lNzukD8pS_s,0.0,2015-04-26 13:51:16,True,True
+2015-04-26T14:57:49,LSD the movie.,0,0,Artur Gajda,lNzukD8pS_s,0.0,2015-04-26 14:57:49,True,True
+2015-04-26T15:01:54,Subscribe me pls!,0,0,Laugh RO,lNzukD8pS_s,0.0,2015-04-26 15:01:54,True,True
+2015-04-26T17:15:43,Such a random movie.,0,0,Rageaholic,lNzukD8pS_s,-0.25,2015-04-26 17:15:43,True,True
+2015-04-26T18:28:56,This is really from Disney's. So much violence...,0,1,Jack Felony,lNzukD8pS_s,0.2,2015-04-26 18:28:56,True,True
+2015-04-26T21:50:27,Not 5.22.2015 but 22.05.2015! :D Be normal!,0,0,Łukasz Byjoś,lNzukD8pS_s,0.59375,2015-04-26 21:50:27,True,True
+2015-04-27T02:22:36,"This looks great, but how is it rated only PG? lol",3,0,ksg215,lNzukD8pS_s,0.5333333333333333,2015-04-27 02:22:36,True,True
+2015-04-27T02:49:58,So it has nothing to do with the 1964 World's Fair? The title got my hopes up for nothing. :(,0,0,LawGeek,lNzukD8pS_s,-0.025000000000000022,2015-04-27 02:49:58,True,True
+2015-04-27T07:38:35,I liked the beginning but then george clooney started fighting robots...,0,0,TheMrKlassy,lNzukD8pS_s,0.6,2015-04-27 07:38:35,True,True
+2015-04-27T08:32:06,"This film is now peaking my interest.  Great to see an original sci-fi/fantasy movie, that's not a comic book and/or sequel/prequel.",0,0,Jamie G,lNzukD8pS_s,0.35000000000000003,2015-04-27 08:32:06,True,True
+2015-04-27T09:47:49,"Well, this looks much less interesting than in the first teaser. Too bad. Now it seems like any generic action fantasy/Sci-Fi movie.",0,0,Ofir Zeira,lNzukD8pS_s,-0.002777777777777745,2015-04-27 09:47:49,True,True
+2015-04-27T14:27:49,"Wow...the whole plot and story in a trailer...So, not impressed. But I will watch it anyway =(",0,1,Steve Luke,lNzukD8pS_s,-0.35000000000000003,2015-04-27 14:27:49,True,True
+2015-04-27T14:50:19,The Future.....of Brinx Home Security! ,0,0,keith suguitan,lNzukD8pS_s,0.0,2015-04-27 14:50:19,True,True
+2015-04-27T15:14:11,"no no no, oh i meen NOOOOOOOO. What an stupit shit",0,0,Labernich Coop,lNzukD8pS_s,-0.2,2015-04-27 15:14:11,True,True
+2015-04-27T15:21:07,it's magical mushrooms,0,0,Jonathan D'Orazio,lNzukD8pS_s,0.5,2015-04-27 15:21:07,True,True
+2015-04-27T19:50:24,"clooney, no thanks",0,0,james pruett,lNzukD8pS_s,-0.1,2015-04-27 19:50:24,True,True
+2015-04-28T01:30:04,Wow Disney's got some moves on action in this movie!,0,0,Mr. Oddington,lNzukD8pS_s,0.1125,2015-04-28 01:30:04,True,True
+2015-04-28T07:17:04,This will be good.,0,0,genkijin,lNzukD8pS_s,0.7,2015-04-28 07:17:04,True,True
+2015-04-28T07:47:28,George Clooney loves his wife!,0,0,Colin Montgomery,lNzukD8pS_s,0.0,2015-04-28 07:47:28,True,True
+2015-04-28T08:03:29,George Clooney looks too old to be running in a film like this.,0,0,nightdrmvideos,lNzukD8pS_s,0.1,2015-04-28 08:03:29,True,True
+2015-04-28T11:04:38,"This is like matrix to me, a dream that humanity has had turned to a nightmare to wake up knowing its just just a dream hence the term tommorowland",0,0,Kohl Heinberg,lNzukD8pS_s,0.0,2015-04-28 11:04:38,True,True
+2015-04-28T12:26:50,wow. disney is really impressing me lately,0,0,Mythic Templar,lNzukD8pS_s,1.850371707708594e-17,2015-04-28 12:26:50,True,True
+2015-04-28T18:06:35,ME WANT SEEEEEEE,0,0,Oliver o niell,lNzukD8pS_s,0.0,2015-04-28 18:06:35,True,True
+2015-04-28T23:35:43,I didn't see Steve Aoki anywhere,0,0,չٱѻกٱร ɼѻ๓คก,lNzukD8pS_s,0.0,2015-04-28 23:35:43,True,True
+2015-04-29T07:33:49,Well this should revive the exhausted Tomorrowland venue at Disney.,0,0,ZnenTitan,lNzukD8pS_s,-0.4,2015-04-29 07:33:49,True,True
+2015-04-29T09:11:53,be honest how many clicked on this vid thinking it was the actual Tomorrowland music festival lol,1,0,Wastefuldragon,lNzukD8pS_s,0.47500000000000003,2015-04-29 09:11:53,True,True
+2015-04-29T17:20:16,Looks like garbage....Neeeeext.,0,0,michael Grimm,lNzukD8pS_s,0.0,2015-04-29 17:20:16,True,True
+2015-04-29T22:00:39,looks cheesy,0,0,Restko,lNzukD8pS_s,-0.5,2015-04-29 22:00:39,True,True
+2015-04-30T00:41:57,Looks amazing! cant wait to see it.,3,0,TRAPPER JOHNSON,lNzukD8pS_s,0.7500000000000001,2015-04-30 00:41:57,True,True
+2015-04-30T00:58:04,"i saw the teaser trailer and had no clue what was going on an thought ""Wow this looks kinda cool. Also very new and somewhat refreshing. I might go see it."" and then the full trailer came out and now im not gonna see it cause i can literally guess the entire plot from the trailer and i just... cant. They had a really cool concept with the whole teleporting thing but then it just kinda turned into a regular movie.",1,0,John Nolan,lNzukD8pS_s,0.22525252525252526,2015-04-30 00:58:04,True,True
+2015-04-30T05:09:49,"Watching this for the one and only Hugh Laurie, about time he got on the big screen again.",0,0,Joji Hels,lNzukD8pS_s,0.0,2015-04-30 05:09:49,True,True
+2015-04-30T07:09:17,This will probably be the worst movie of the year. WTH! Thumbs down. I can't say if it's a good story or not. But the acting and directing from this preview alone makes me want to puke my brains out of my nostrils.,1,8,Fimontronia,lNzukD8pS_s,-0.11388888888888893,2015-04-30 07:09:17,True,True
+2015-04-30T10:36:13,seems like a lot of spoilers in that ad.,0,0,secretagentmanstumpy,lNzukD8pS_s,0.0,2015-04-30 10:36:13,True,True
+2015-04-30T17:26:04,"This message pretty good, but damn Disney, you got pretty dark.",0,3,Kevin Yannutz,lNzukD8pS_s,0.2625,2015-04-30 17:26:04,True,True
+2015-04-30T21:15:20,my daughter's birth day is on may 22,0,0,Ashley Stojkovich,lNzukD8pS_s,0.0,2015-04-30 21:15:20,True,True
+2015-05-01T00:16:54,It better have the Monster's Inc. Laugh Floor somewhere in it!,0,0,IJNavy,lNzukD8pS_s,0.4375,2015-05-01 00:16:54,True,True
+2015-05-01T21:45:22,Got my attention!  I want that pin!!!,0,0,Lee Shaffer,lNzukD8pS_s,0.0,2015-05-01 21:45:22,True,True
+2015-05-02T03:33:38,At 1:38 I can hear the Terminator Theme,1,0,Noah Secades,lNzukD8pS_s,0.0,2015-05-02 03:33:38,True,True
+2015-05-02T07:14:24,think i saw Gladdos from portal,1,0,Commander Neyo,lNzukD8pS_s,0.0,2015-05-02 07:14:24,True,True
+2015-05-02T11:41:26,....interesting. ,0,0,Jupiter9099,lNzukD8pS_s,0.0,2015-05-02 11:41:26,True,True
+2015-05-02T17:06:05,Spiderwick Chronicles+Terminator= This,0,0,- Fetch -,lNzukD8pS_s,0.0,2015-05-02 17:06:05,True,True
+2015-05-02T19:44:33,i have got to see this movie!,0,0,Madison Golden,lNzukD8pS_s,0.0,2015-05-02 19:44:33,True,True
+2015-05-03T01:19:39,This does look very impressive. George Clooney is a remarkable actor. This mansrarely bores you.,0,0,My name is Gotti John Joseph Gotti Jr,lNzukD8pS_s,0.875,2015-05-03 01:19:39,True,True
+2015-05-03T02:24:27,HUGH LAURIE :D,0,0,Valentin Saavedra,lNzukD8pS_s,1.0,2015-05-03 02:24:27,True,True
+2015-05-03T03:35:23,Maybe in tomorrow land they have movies that don't take as long to produce.,0,0,Apotheosis,lNzukD8pS_s,-0.05,2015-05-03 03:35:23,True,True
+2015-05-03T08:23:09,OMG!!!!!!!!!!!!!!!!,0,0,Isabela Gatewood,lNzukD8pS_s,0.0,2015-05-03 08:23:09,True,True
+2015-05-03T12:29:08,This looks like one of the best movies coming out soon (along with Mission Impossible)... Forget Avengers. Can't wait to see this on IMAX.,0,0,Navolt,lNzukD8pS_s,0.16666666666666669,2015-05-03 12:29:08,True,True
+2015-05-03T18:27:32,"Sorry, I don't do Clooney movies.",0,0,Jason Pullen,lNzukD8pS_s,-0.5,2015-05-03 18:27:32,True,True
+2015-05-03T18:27:33,I think I just saw Space Mountain.,0,0,MagicianFlip69,lNzukD8pS_s,0.0,2015-05-03 18:27:33,True,True
+2015-05-04T02:27:19,"Space mountain is in this, wooow",0,0,Birch Tree,lNzukD8pS_s,0.0,2015-05-04 02:27:19,True,True
+2015-05-04T14:56:19,2:24 so go to Disney World and you too can see it.,0,0,The Reviewer,lNzukD8pS_s,0.0,2015-05-04 14:56:19,True,True
+2015-05-04T16:40:14,wooof,0,0,VPSantiago,lNzukD8pS_s,0.0,2015-05-04 16:40:14,True,True
+2015-05-04T17:17:19,Was searching for tomorrowland tracks...,0,0,vongolance,lNzukD8pS_s,0.0,2015-05-04 17:17:19,True,True
+2015-05-04T17:24:26,I want to see this movie more than I want to see the new star wars!,0,0,Kaleb Bruwer,lNzukD8pS_s,0.3352272727272727,2015-05-04 17:24:26,True,True
+2015-05-04T19:34:01,Dr. House is in the HOUSE!,0,0,Tom -,lNzukD8pS_s,0.0,2015-05-04 19:34:01,True,True
+2015-05-04T19:38:20,This looks like masterbatory material for Objectivists.,0,0,Paul Baker,lNzukD8pS_s,0.0,2015-05-04 19:38:20,True,True
+2015-05-04T20:37:52,Please someone tell me im not the only one that feels like these two would be perfect for Joel and Ellie.,0,0,Ricky Nuom,lNzukD8pS_s,0.5,2015-05-04 20:37:52,True,True
+2015-05-04T23:16:40,Looks like fun.,0,0,strafrag1,lNzukD8pS_s,0.3,2015-05-04 23:16:40,True,True
+2015-05-05T02:31:00,0:11 music is Thomas Bergersen - Creation of Earth. In case anyone is wondering. Amazing music. This film looks interesting!,3,1,Sev,lNzukD8pS_s,0.6125,2015-05-05 02:31:00,True,True
+2015-05-05T05:40:13,"So this is basically some Ayn Randian schlock that glamorizes the false utopia built by John Galt & Friends in Atlas Shrugged. You know, the same characters who felt that personal profit was more important than the common good? No thanks.",0,0,lisarenee3505,lNzukD8pS_s,0.09999999999999999,2015-05-05 05:40:13,True,True
+2015-05-05T05:54:41,Kiero oir musica,0,0,amy Saldana,lNzukD8pS_s,0.0,2015-05-05 05:54:41,True,True
+2015-05-05T05:55:55,Kiero musica norteňa,0,0,amy Saldana,lNzukD8pS_s,0.0,2015-05-05 05:55:55,True,True
+2015-05-05T11:25:05,looking forward to going to this movie,0,0,blondie hansen,lNzukD8pS_s,0.0,2015-05-05 11:25:05,True,True
+2015-05-05T11:31:54,Where is Tomorrowland.?,0,0,Sawan Patel,lNzukD8pS_s,0.0,2015-05-05 11:31:54,True,True
+2015-05-05T15:51:21,Copyright claims incoming...  If you didn't know Tomorrowland (and tomorrowworld) is a very popular and huge music festival in Belgium.,8,1,Jesus Fucking Christ,lNzukD8pS_s,0.5900000000000001,2015-05-05 15:51:21,True,True
+2015-05-06T03:40:44,My mother told me to follow the sun.......            and ride it to tomorrow.,1,0,"Spyro, the legendary purple dragon",lNzukD8pS_s,0.0,2015-05-06 03:40:44,True,True
+2015-05-06T05:23:46,Sign me the fuck up!,0,0,OMGitsDSypl,lNzukD8pS_s,-0.5,2015-05-06 05:23:46,True,True
+2015-05-06T14:05:57,Hhghhh,0,0,Hsa klay,lNzukD8pS_s,0.0,2015-05-06 14:05:57,True,True
+2015-05-06T19:31:43,This is a rip off of tomorrow people,0,0,Abraham Wanyama,lNzukD8pS_s,0.0,2015-05-06 19:31:43,True,True
+2015-05-07T00:57:55,Tomorrowland is EVIL!,0,0,Linda Covert,lNzukD8pS_s,-1.0,2015-05-07 00:57:55,True,True
+2015-05-07T19:44:47,"So there is a kid with a connection to the future and there are androids after him/her, these feels familiar...",0,0,Chad Dixon,lNzukD8pS_s,0.1875,2015-05-07 19:44:47,True,True
+2015-05-08T02:24:33,I gotta see it,0,0,Zee Man,lNzukD8pS_s,0.0,2015-05-08 02:24:33,True,True
+2015-05-08T05:30:05,"Plot twist, they travel to the wrong dimension, time, and universe only to end up in the Terminator universe.",0,0,Wildchild_inc,lNzukD8pS_s,-0.25,2015-05-08 05:30:05,True,True
+2015-05-08T12:36:28,I am so excited for this movie !,0,0,the NASA kid science,lNzukD8pS_s,0.46875,2015-05-08 12:36:28,True,True
+2015-05-08T14:57:25,I would love to see that movie.,1,0,siosaia tonga,lNzukD8pS_s,0.5,2015-05-08 14:57:25,True,True
+2015-05-08T15:07:38,"Tommorowland, sci-fi, action, and on top of that Disney.  Oh yes.",0,0,Construct Master,lNzukD8pS_s,0.3,2015-05-08 15:07:38,True,True
+2015-05-08T16:36:06,looks like my kind of movie. Ill have to go see this one,0,0,Jermaul West,lNzukD8pS_s,0.04999999999999999,2015-05-08 16:36:06,True,True
+2015-05-08T17:24:05,Hi,0,1,Hafsa ibrahim,lNzukD8pS_s,0.0,2015-05-08 17:24:05,True,True
+2015-05-08T20:09:42,Cheesy trailer,0,0,Tyler Thompson,lNzukD8pS_s,-0.5,2015-05-08 20:09:42,True,True
+2015-05-08T23:09:29,The movie looks pretty interesting. Can't believe she is 26 year-old.,0,0,CharlsCFC11,lNzukD8pS_s,0.375,2015-05-08 23:09:29,True,True
+2015-05-09T12:52:26,OMG can't waittttttt 😆,0,0,Birddybuddy,lNzukD8pS_s,0.0,2015-05-09 12:52:26,True,True
+2015-05-09T18:24:41,I wish George Clooney told me to get in a bathtub with him.,0,0,Didiggy,lNzukD8pS_s,0.0,2015-05-09 18:24:41,True,True
+2015-05-09T18:34:23,Looks good but with everything else coming out I can't help but feel this is gonna bomb like John Carter ,0,0,Game Room Hero,lNzukD8pS_s,0.7,2015-05-09 18:34:23,True,True
+2015-05-10T10:52:17,😏😏😏😏😏😎😎😓😏😏😏😏😔😢😡,0,0,Matt Durfee,lNzukD8pS_s,0.0,2015-05-10 10:52:17,True,True
+2015-05-10T18:30:21,DUBAI!,1,0,Yeo Escalante,lNzukD8pS_s,0.0,2015-05-10 18:30:21,True,True
+2015-05-10T18:45:53,WHAT A SPOILER!!,0,0,Eddie Eddie,lNzukD8pS_s,0.0,2015-05-10 18:45:53,True,True
+2015-05-10T19:33:03,good trailer but could u guys PLEASE use some different music because its all starting to sound the same and you cant tell whats happening with the audio anyway..its nice but still.,0,0,Joel Cobb,lNzukD8pS_s,0.2833333333333334,2015-05-10 19:33:03,True,True
+2015-05-10T20:51:38,I'm gonna watch this on my bday,1,0,Chris N,lNzukD8pS_s,0.0,2015-05-10 20:51:38,True,True
+2015-05-11T01:56:01,Bioshock: The Movie,0,0,Jordan Martel,lNzukD8pS_s,0.0,2015-05-11 01:56:01,True,True
+2015-05-11T02:46:05,"This movie is going to be terrible. I mean seriously, what nut job would base an entire MOVIE of amusement park attraction; and expect it to be GO-     Wait, shit.",9,5,ScatterBrained,lNzukD8pS_s,-0.44097222222222227,2015-05-11 02:46:05,True,True
+2015-05-11T03:08:47,where is hardwell?,0,0,JCowner12,lNzukD8pS_s,0.0,2015-05-11 03:08:47,True,True
+2015-05-11T06:01:30,omg this is freaking awesome,0,0,Kong Tech,lNzukD8pS_s,1.0,2015-05-11 06:01:30,True,True
+2015-05-11T13:51:25,it looks like a realistic dream I once had ._.,0,0,꧁ C ꧂,lNzukD8pS_s,0.16666666666666666,2015-05-11 13:51:25,True,True
+2015-05-11T21:51:12,Amazing!,0,0,Abdul Bari,lNzukD8pS_s,0.7500000000000001,2015-05-11 21:51:12,True,True
+2015-05-12T03:42:33,"Didn't Disney learn its lesson from John Carter mega-flop about expensive, noisy, stupid special effects with boring characters?  Everyone thought George Clooney in Batman & Robin would be a big hit, and Tomorrowland, from trailer, looks like the same expectations that won't be met at the boxoffice.  Eddie Murphy should have been in Tomorrowland to followup the Disney thrill ride to nowhere movie spinoff of The Haunted Mansion.",1,0,cnoevl67,lNzukD8pS_s,-0.32380952380952377,2015-05-12 03:42:33,True,True
+2015-05-12T06:38:10,i feel like this gives away to much of the plot...,0,0,Jimbo Curtin,lNzukD8pS_s,0.2,2015-05-12 06:38:10,True,True
+2015-05-12T11:44:26,"For everyone hating on this because it's a female hero trying to save the future just stop. It's more than that, it's about a future where the greatest of great people came together to change the world. Do you see how much of a crap world we live in today? ""Have you ever wondered what would happen if the greatest people in the world came together?"" -Tommorowland, raise your hand if Tomorrowland should be a reality!",2,0,NutellaOreos,lNzukD8pS_s,0.29292929292929293,2015-05-12 11:44:26,True,True
+2015-05-12T13:24:59,Looks fantastic,0,0,Savage 1,lNzukD8pS_s,0.4,2015-05-12 13:24:59,True,True
+2015-05-12T14:44:40,"Wait no Dimitri Vegas, Hardwell, Alesso, David Guetta etc? Fraud..",4,0,Kruxxy,lNzukD8pS_s,0.0,2015-05-12 14:44:40,True,True
+2015-05-12T17:28:16,what is the name of the song in the beginning again?,0,0,neudjo,lNzukD8pS_s,0.0,2015-05-12 17:28:16,True,True
+2015-05-12T17:43:50,All songs from Thomas Bergersen,0,0,neudjo,lNzukD8pS_s,0.0,2015-05-12 17:43:50,True,True
+2015-05-12T20:07:41,The song in the trailer is Creation of Earth by Thomas Bergersen! I KNEW I RECOGNIZED IT!! *screams with joy*,0,0,Sarah Elizabeth,lNzukD8pS_s,0.8,2015-05-12 20:07:41,True,True
+2015-05-13T02:21:11,THIS IS WHAT THE FUTURE SHALL LOOK LIKE. EVERYONE KEEP UP THE TECHNOLOGY LETS JUST MAKE EVERYTHING ELECTRIC AND HAVE FLYING CARS,0,0,LeeTheProdigy,lNzukD8pS_s,0.0,2015-05-13 02:21:11,True,True
+2015-05-13T16:01:57,Well this isn't Pocahontas. That's for damn sure.,0,0,Denny Mui,lNzukD8pS_s,0.5,2015-05-13 16:01:57,True,True
+2015-05-13T16:27:15,Waited for a year and i think this will be my favorite movie after Kingsman.,0,0,Keane Colson,lNzukD8pS_s,0.5,2015-05-13 16:27:15,True,True
+2015-05-13T21:20:56,Bioshock the movie basically... get the game and see.,0,0,J Melody,lNzukD8pS_s,-0.4,2015-05-13 21:20:56,True,True
+2015-05-14T17:20:21,Wow this looks... Horrible. Thanks obama,0,0,Pixels27,lNzukD8pS_s,-0.2333333333333333,2015-05-14 17:20:21,True,True
+2015-05-14T17:49:46,Honestly thought this was just one of those lame trailers for Disney Land when I saw it on TV... Didn't realise it was a real movie :s,0,0,iceakon,lNzukD8pS_s,0.012499999999999997,2015-05-14 17:49:46,True,True
+2015-05-14T20:46:30,welcome to bioshock the movie,0,0,1040coolguy,lNzukD8pS_s,0.8,2015-05-14 20:46:30,True,True
+2015-05-14T23:16:13,Like si vienes por el werever :v,0,0,Ramón Arias,lNzukD8pS_s,0.0,2015-05-14 23:16:13,True,True
+2015-05-15T00:29:01,where's dimitri vegas & like mike?,4,0,bRaga,lNzukD8pS_s,0.0,2015-05-15 00:29:01,False,True
+2015-05-15T00:46:52,Darude sandstorm,0,0,Joesant Davila,lNzukD8pS_s,0.0,2015-05-15 00:46:52,False,True
+2015-05-15T02:21:59,The movie looks cool but the acting makes me cringe (from what I can see in the trailer),0,0,Ysidro Hartzell,lNzukD8pS_s,0.175,2015-05-15 02:21:59,False,True
+2015-05-15T04:34:40,can't wait to see this movie P.S im cool like ruar B-),0,0,b s,lNzukD8pS_s,0.35,2015-05-15 04:34:40,False,True
+2015-05-15T15:55:53,And where's Dr house?,0,0,amadeus J.,lNzukD8pS_s,0.0,2015-05-15 15:55:53,False,True
+2015-05-15T16:25:06,"¿Donde esta Skrillex, Martin Garrix, Dilon Francis, etc? :v :v :v",1,0,Eduardo González Hernández,lNzukD8pS_s,0.0,2015-05-15 16:25:06,False,True
+2015-05-15T21:56:53,it's gonna be gr8 can't wait,0,0,jezeblue,lNzukD8pS_s,0.0,2015-05-15 21:56:53,False,True
+2015-05-16T07:22:05,Tomorrowland: Where religion has gone extinct. ,7,0,Militant Pacifist,lNzukD8pS_s,-0.4,2015-05-16 07:22:05,False,True
+2015-05-16T08:25:27,"When I watched the teaser I expected something like the movie Bridge to Terabithia. But this is like a mix of Matrix, Terminator and Tron.",0,0,WillWork ForCheese,lNzukD8pS_s,-0.1,2015-05-16 08:25:27,False,True
+2015-05-16T15:37:25,I don't like Brad Bird but this movie he's amazing,0,0,ahona bhowmick,lNzukD8pS_s,0.6000000000000001,2015-05-16 15:37:25,False,True
+2015-05-16T16:21:43,Awful,0,0,TheAnanaki,lNzukD8pS_s,-1.0,2015-05-16 16:21:43,False,True
+2015-05-16T17:17:20,Terrible plot. Hate it.,0,0,Morgan-Carolyn Mc071101,lNzukD8pS_s,-0.9,2015-05-16 17:17:20,False,True
+2015-05-16T23:22:04,Looks like stupid movie mah im gonna skip it!,0,3,BloonatoR,lNzukD8pS_s,-0.9999999999999999,2015-05-16 23:22:04,False,True
+2015-05-17T01:23:37,DISNETS VIOLENT MOVIE SIDE IS ITS BEST SIDE I'M HYPT!!!!!!!!!!!!,0,0,sparr15,lNzukD8pS_s,0.09999999999999998,2015-05-17 01:23:37,False,True
+2015-05-17T04:05:29,R2-D2 and Yoda @ 2:07!!!,0,0,Nic Preijers,lNzukD8pS_s,0.0,2015-05-17 04:05:29,False,True
+2015-05-17T05:47:06,I know a lot of the directors at pixar are huge anime fans.  But does anyone see some STEAMBOY influence in this movie.  ,0,0,Luis Medina,lNzukD8pS_s,0.4000000000000001,2015-05-17 05:47:06,False,True
+2015-05-17T06:32:30,Almost looks like a tribute to Buck Rogers or something.,0,0,onisahman,lNzukD8pS_s,0.0,2015-05-17 06:32:30,False,True
+2015-05-17T20:25:24,Ha this makes me laugh walt disney is not a good thinker. ,0,0,EpiccnessAlf,lNzukD8pS_s,-0.024999999999999994,2015-05-17 20:25:24,False,True
+2015-05-18T07:06:54,gotta say they really stepped up the tomorrowland production values this year. hopefully the line up will be just as good lol,0,0,E8_bit,lNzukD8pS_s,0.5666666666666667,2015-05-18 07:06:54,False,True
+2015-05-18T14:56:10,It Looks Good can't wait to see it!,0,0,Troy Castillo,lNzukD8pS_s,0.875,2015-05-18 14:56:10,False,True
+2015-05-18T19:00:03,0:24 She gets hit.  End of movie and possible sequel.,0,0,TheCbrown146,lNzukD8pS_s,0.0,2015-05-18 19:00:03,False,True
+2015-05-18T21:39:12,"If this is anything like 1984 or the Bioshock series, I'm so in.",0,0,TheRinzl2r,lNzukD8pS_s,0.0,2015-05-18 21:39:12,False,True
+2015-05-18T21:49:22,That's the little boy from One Tree Hill!!,0,0,FitnessFoodie,lNzukD8pS_s,-0.29296875,2015-05-18 21:49:22,False,True
+2015-05-18T22:41:14,This movie looks like it had a huge budget. Disney better hope it doesn't flop,0,0,G billy,lNzukD8pS_s,0.45000000000000007,2015-05-18 22:41:14,False,True
+2015-05-19T01:41:54,abra que verla,0,0,sebastian morales lezica,lNzukD8pS_s,0.0,2015-05-19 01:41:54,False,True
+2015-05-19T03:06:47,i was going to see this with my sisters  but i broke my leg,0,0,Nilsa Bryan,lNzukD8pS_s,0.0,2015-05-19 03:06:47,False,True
+2015-05-19T05:14:11,I really liked this movie.,0,0,Isaac Cardenas,lNzukD8pS_s,0.6,2015-05-19 05:14:11,False,True
+2015-05-19T10:15:39,"Sucks for all of you losers, I already saw Tomorrowland in the future.",1,0,Jessica Zane,lNzukD8pS_s,-0.16666666666666666,2015-05-19 10:15:39,False,True
+2015-05-19T10:20:14,I CAN'T WAIT TILL THIS MOVIE COMES OUT YEAY!!!! IM DEFINITELY GOING TO SEE THIS MOVIE I JUST CAN'T WAIT I'M SOOOOOO EXCITED XD,0,0,bluemoon wolfheart,lNzukD8pS_s,0.1875,2015-05-19 10:20:14,False,True
+2015-05-19T20:31:03,i can't wait for this movie to come out,0,0,Kalea Lascano,lNzukD8pS_s,0.0,2015-05-19 20:31:03,False,True
+2015-05-19T21:43:37,OMFG 3 MORE DAYSSSS,0,0,Emily Wu,lNzukD8pS_s,0.5,2015-05-19 21:43:37,False,True
+2015-05-19T21:43:59,I WANNA WATCH THIS OMFG NEED TO WATCH NOW,0,0,Emily Wu,lNzukD8pS_s,0.0,2015-05-19 21:43:59,False,True
+2015-05-19T22:25:55,THIS LOOKS AMAZING CAN'T WAIT FOR SATURDAY MAY 23 WHEN I SEE IT!! OMG LOOKS LIKE THE BEST!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,0,0,evahlia,lNzukD8pS_s,0.96875,2015-05-19 22:25:55,False,True
+2015-05-20T17:21:21,I am a grown ass man.... and I cannot wait to see this film.,99,8,Infinityjon,lNzukD8pS_s,0.0,2015-05-20 17:21:21,False,True
+2015-05-20T18:51:42,"Gonna be seeing this on Saturday with my friend, hope it's good!",0,0,BritishGamerGirl :D,lNzukD8pS_s,0.875,2015-05-20 18:51:42,False,True
+2015-05-21T01:03:52,ẘ℮ ґ ẘѦ†¢ℌ їѦη †ℌʝ﹩ ḟ◎ґ Ѧ ḟʝ℮ℓ∂ †ґʝ℘   ,0,0,Marshall Mathers,lNzukD8pS_s,0.0,2015-05-21 01:03:52,False,True
+2015-05-21T02:13:08,Why isn't it showing in 3D? ,0,0,Lupin Remus,lNzukD8pS_s,0.0,2015-05-21 02:13:08,False,True
+2015-05-21T03:38:45,i'm gonna watch it on saturday with my birthday money lol,3,2,Cris 101,lNzukD8pS_s,0.8,2015-05-21 03:38:45,False,True
+2015-05-21T08:42:47,"I saw the movie! It was a good movie!!! I liked the part when the Eiffel Tower was split into half and a rocket flew out with Frank and the rest in it, but how would the Eiffel Tower can be a 'secret' place to launch a rocket?",0,0,Zuhayr,lNzukD8pS_s,0.2583333333333333,2015-05-21 08:42:47,False,True
+2015-05-21T18:54:22,i wanna take a date to this movie :3,0,0,gloomyteens,lNzukD8pS_s,0.5,2015-05-21 18:54:22,False,True
+2015-05-21T23:28:50,"Yesterday is history, Today is a gift, Tomorrow is a mystery...",0,0,Undead Wiseguy,lNzukD8pS_s,0.0,2015-05-21 23:28:50,False,True
+2015-05-22T02:00:30,this is a remake of Willa Wonka and the Chocolate Factory,0,0,John Galt,lNzukD8pS_s,0.0,2015-05-22 02:00:30,False,True
+2015-05-22T04:21:48,Wow looks like a pretty awesome movie George Clooney it's gota be,0,0,Eric y,lNzukD8pS_s,0.45,2015-05-22 04:21:48,False,True
+2015-05-22T05:30:14,why they didn't they make it in 3D? this would have fitted perfectly,0,0,MrProTechHD,lNzukD8pS_s,1.0,2015-05-22 05:30:14,False,True
+2015-05-22T06:17:19,howzz the movie??,1,0,phani kumar,lNzukD8pS_s,0.0,2015-05-22 06:17:19,False,True
+2015-05-22T07:27:10,"what's this background music is? from 0:11 to 0:18 , thanks ;)",0,0,Jo Sh,lNzukD8pS_s,0.225,2015-05-22 07:27:10,False,True
+2015-05-22T07:39:43," ,  QQ QQ q  Oromo..,no n Q Qaeda Philipp  aquarium.   U juuiuüiku ",1,0,Suzanne Happold,lNzukD8pS_s,0.0,2015-05-22 07:39:43,False,True
+2015-05-22T07:41:59,  ,1,1,Suzanne Happold,lNzukD8pS_s,0.0,2015-05-22 07:41:59,False,True
+2015-05-22T08:24:29,This is weird I just saw this yesterday May 21 but it says is't coming out on the 22. I'm so confused.,0,0,illiria2000,lNzukD8pS_s,-0.45,2015-05-22 08:24:29,False,True
+2015-05-22T08:35:50,I'm pretty worried for brad birds career,0,0,The ENAT Central,lNzukD8pS_s,0.25,2015-05-22 08:35:50,False,True
+2015-05-22T09:14:13,"Currently at 51% on Rotten Tomatoes :/  Oh well, Brad Bird...",2,0,spaceye,lNzukD8pS_s,-0.125,2015-05-22 09:14:13,False,True
+2015-05-22T11:46:11,"1:33 Oh boy, this girl Brit can surely pull quite a SCREEEEEAM!",0,0,Nikolaos Skordilis,lNzukD8pS_s,0.625,2015-05-22 11:46:11,False,True
+2015-05-22T12:57:27,"what the fuck is a bioshock, I see people saying that stupid movie/game in every trailer of this movie",0,0,Kawaii Potato,lNzukD8pS_s,-0.6,2015-05-22 12:57:27,False,True
+2015-05-22T13:02:11,Just watched this today,0,0,Taggi,lNzukD8pS_s,0.0,2015-05-22 13:02:11,False,True
+2015-05-22T14:46:57,"At first, I thought that the main girl was Sabrina Carpenter. Just me?",0,0,Haters Gon'Hate,lNzukD8pS_s,0.20833333333333331,2015-05-22 14:46:57,False,True
+2015-05-22T15:52:09,This movie looks so exciting!!!,0,0,SugarCoder - DIY Desserts & Crafts,lNzukD8pS_s,0.5859375,2015-05-22 15:52:09,False,True
+2015-05-22T17:38:19,Since when did Disney provide us with movies that had so much action? ,0,0,Cassie,lNzukD8pS_s,0.1,2015-05-22 17:38:19,False,True
+2015-05-22T20:02:44,True,0,0,w2s freestyles,lNzukD8pS_s,0.35,2015-05-22 20:02:44,False,True
+2015-05-22T20:38:23,"Woah-woah-woah, hold on for a second. Did I just watch a non-marvel Disney trailer that actually won my interest?    What a time to be alive!",0,0,The Newt,lNzukD8pS_s,0.041666666666666664,2015-05-22 20:38:23,False,True
+2015-05-22T22:08:45,I JUST CANT WAIT TILL THE INCREDIBLES 2 LIKE IVE DREAMT ABOUT THIS MOMENT FOR SO LONG,0,0,dee,lNzukD8pS_s,-0.05,2015-05-22 22:08:45,False,True
+2015-05-22T22:21:42,"wow just wow, this film reeks from the park ride attractions, it is almost like they made this film to get a commercial for those rides, I mean you got zero story or action so get ready for another boat ride in Disney land ................ also can we get rid of these female character who does nothing other then hopes, what did the girl do,what did she do, she done nothing yet she is the main character, is that the message, be a dumb girl and just hope for the best, you got that already just look around you   just for fun, in the future you design a gun for super robots what does not shoot accurate at all like a gun now, no no , you make a gun what blasts the whole wall to atoms and still miss .......you people at disney are just fucking dumb and you think we are dumb, stop making movies to our kids if that is the best what you can do in 2015, face it you are the part of the problem and not the solution, you don't want fat kids stop making movies and games so they don't sit there the whole day thinking they miss out on something, you want to make movies and games, than shut up about the greater future where everybody is fit and smart, that speech at the end by Hugh Laurie was ridiculous in a Disney film",0,0,Last Comment,lNzukD8pS_s,0.13273809523809527,2015-05-22 22:21:42,False,True
+2015-05-22T22:23:39,Sexual غذای روح انسان هاست ازگوگل  بعلاوه یک وyoutube سپاس گذارم,0,0,غلامحسین معلمی,lNzukD8pS_s,0.5,2015-05-22 22:23:39,False,True
+2015-05-22T22:59:54,"guys please, spare yourselves. this was bad. at least wait for it on dvd",0,0,moiraine_damodred,lNzukD8pS_s,-0.4999999999999999,2015-05-22 22:59:54,False,True
+2015-05-23T00:41:37,Awesome movie...best film of 2015 so far,0,0,waverider2029,lNzukD8pS_s,0.55,2015-05-23 00:41:37,False,True
+2015-05-23T01:20:12,I just got back from the movie theatre watching this. It was very violent and language is worse than any movie I've seen in my whole life. Do not watch this movie.,0,0,FullofSurprises,lNzukD8pS_s,-0.3,2015-05-23 01:20:12,False,True
+2015-05-23T03:42:38,THIS MOVIE WAS FUCKIN GREAT,0,0,Periph1989,lNzukD8pS_s,0.8,2015-05-23 03:42:38,False,True
+2015-05-23T06:08:51,I wanna watch it so bad !,0,0,Yu Kiat Quek,lNzukD8pS_s,-0.8749999999999998,2015-05-23 06:08:51,False,True
+2015-05-23T06:11:21,"i watched this yesterday in the cinemas and damn, it was so good!",0,0,Manar •,lNzukD8pS_s,0.875,2015-05-23 06:11:21,False,True
+2015-05-23T12:47:18,"I feel like some of this was inspired by Steins Gate. The pod looks like the time travel machine and the Nixie Tubes in the background when they were just talking about what seemed to be changing the world potentially through time travel... I mean the plot seems very different, but it still seems like it may have been inspired by the steins gate style stuff",0,0,Niko butts.,lNzukD8pS_s,-0.10416666666666667,2015-05-23 12:47:18,False,True
+2015-05-23T15:35:41,"Lindelof. Prometheus, the last two Trek movies (especially the truly awful last one)  and now Tomorrowland. I had interest in seeing the film until I found out Lindelof was behind it.",0,0,Aaron Morris,lNzukD8pS_s,-0.27999999999999997,2015-05-23 15:35:41,False,True
+2015-05-23T15:55:08,When you realize she's the same actress from the Longest Ride....,0,0,Kathleen Kim,lNzukD8pS_s,0.0,2015-05-23 15:55:08,False,True
+2015-05-23T17:56:10,"Saw the movie yesterday.   While not the best movie of the year by any means, it doesn't deserve to be at a forty nine on Rotten Tomatoes. At least this movie was trying to be an original and had some of the best story revel I've seen in a long time.",0,0,Ariel Rocks5,lNzukD8pS_s,0.4050000000000001,2015-05-23 17:56:10,False,True
+2015-05-23T20:02:52,"People keep saying this seems awesome, but honestly this trailer made me LESS interested. :/ Someone (who's seen it) please tell me it's good and that I should watch it so that I don't feel like I'm wasting money at the movie theaters today.",3,10,Lenny The Hopeless,lNzukD8pS_s,0.35555555555555557,2015-05-23 20:02:52,False,True
+2015-05-23T20:30:34,"Saw this last night in IMAX... I want my 2-hours and $15 back.  I love the concept of futuristic, imaginative movies, so I thought this would be awesome, but it disappointed on so many levels.",0,0,Spencer Jennings,lNzukD8pS_s,0.2642857142857143,2015-05-23 20:30:34,False,True
+2015-05-23T22:17:50,Gonna FK watch it now!,0,0,Beast Mode on,lNzukD8pS_s,0.0,2015-05-23 22:17:50,False,True
+2015-05-23T22:19:46,"should I be worried that Disney (and Marvel) are garnering talented directors and A-list actors to their gloomy movies? the only good Disney movie of recent times (5+ years) is Into The Woods and Marvel-Disney hasn't made a good movie since 2011's X-Men First Class. come on George another Ocean's or The Descendants 2 would be thousand times cooler than a Disney movie (if you can actually call it a movie). cast and box office result are the only promising things in these movies. damn, Hollywood need to make more Indie dramas.",0,0,shyam,lNzukD8pS_s,0.2772727272727273,2015-05-23 22:19:46,False,True
+2015-05-23T23:59:29,Honestly this movie looks like its gonna be complete trash and a waste of $15 and a wastr of 3 hours ,0,0,Austin Nunn,lNzukD8pS_s,0.16666666666666666,2015-05-23 23:59:29,False,True
+2015-05-24T01:46:41,Movie Trailer are now spoiling the movie it self.,0,0,Jack IMC,lNzukD8pS_s,0.0,2015-05-24 01:46:41,False,True
+2015-05-24T03:35:27,It was so good!,3,0,GranttHoward,lNzukD8pS_s,0.875,2015-05-24 03:35:27,False,True
+2015-05-24T03:51:19,This movie is just one long glorified crappy commercial for Disney. It sucked balls.,0,1,Heru- deshet,lNzukD8pS_s,-0.025,2015-05-24 03:51:19,False,True
+2015-05-24T04:29:30,"Horrible movie, annoying characters and terrible acting. I really didn't like it. Honestly would not have been surprised if they burst into song mid movie. Well, I guess I should've known. it is Disney after all. ",0,0,Briza Melgarejo,lNzukD8pS_s,-0.23749999999999993,2015-05-24 04:29:30,False,True
+2015-05-24T04:47:00,.... How the hell is this pg?,0,0,Shiv Desai,lNzukD8pS_s,0.0,2015-05-24 04:47:00,False,True
+2015-05-24T05:49:17,great movie for all ages. very inspiring message for those who listen,26,0,Jordan H,lNzukD8pS_s,0.7250000000000001,2015-05-24 05:49:17,False,True
+2015-05-24T07:19:29,This movie is so cool ,1,0,jhonatan rivera,lNzukD8pS_s,0.35,2015-05-24 07:19:29,False,True
+2015-05-24T08:03:37,Looks really lame...,0,0,MrNutsack100,lNzukD8pS_s,-0.5,2015-05-24 08:03:37,False,True
+2015-05-24T13:34:39,"i have watch it, and it seems really good 9/10",1,0,Pieter R,lNzukD8pS_s,0.7,2015-05-24 13:34:39,False,True
+2015-05-24T15:40:33,"*The* *truth* *is,* *we* *must* *ALL* *fight* *for* *tomorrow(land).*",0,0,Žilvinas Deveika,lNzukD8pS_s,0.0,2015-05-24 15:40:33,False,True
+2015-05-24T17:51:10,This was enjoyable. An entertaining adventure with a message of hope. Disney consistently makes great decisions. I can't wait to see what they do with Star Wars.,0,0,Ramius,lNzukD8pS_s,0.5125,2015-05-24 17:51:10,False,True
+2015-05-24T20:14:51,omg!!!!!!!!!1,0,0,Abhinav Sureka,lNzukD8pS_s,0.0,2015-05-24 20:14:51,False,True
+2015-05-24T22:25:51,So this is a Disney movie about a girl who trips out after touching this guy's LSD covered thing and then sees lots of explosions? Sounds like a solid movie plot.,0,0,k98killer,lNzukD8pS_s,0.25,2015-05-24 22:25:51,False,True
+2015-05-24T22:32:01,The trailer is better than the movie. Though the movie is still good. The main character is a bit whiny. The movie has great visuals but unfortunately the sound track didn't match it. The plot is a bit confusing and the main conflict isn't explained well. Also George clooney can't look sad.,0,0,SqueakyPiston Productions,lNzukD8pS_s,0.1592592592592593,2015-05-24 22:32:01,False,True
+2015-05-24T22:47:02,im seeing tomorrow land tomorrow :D,0,0,bunny boo tarja,lNzukD8pS_s,1.0,2015-05-24 22:47:02,False,True
+2015-05-25T04:22:28,I went to the movies with my friend yesterday to see this and this movie is so epic. Wait until you see Athena. Best movie ever.,0,0,Lajla Zimic,lNzukD8pS_s,0.55,2015-05-25 04:22:28,False,True
+2015-05-25T13:42:09,"Honestly, after watching the movie, I feel like this is over-hyped. Definitely an exciting movie for kids but nah for adult point of view. There are still some scenes that are pretty cool!",0,1,purple97ish,lNzukD8pS_s,0.3375,2015-05-25 13:42:09,False,True
+2015-05-25T13:57:41,All wonderful parts of this movie in  trailer ,0,0,Gilbert2551,lNzukD8pS_s,1.0,2015-05-25 13:57:41,False,True
+2015-05-25T15:37:01,Random stuff happening.,0,0,spektrum1983,lNzukD8pS_s,-0.5,2015-05-25 15:37:01,False,True
+2015-05-25T18:43:23,OMG I'm so excited to see this today!,0,0,Kittens4Ever,lNzukD8pS_s,0.46875,2015-05-25 18:43:23,False,True
+2015-05-25T21:56:25,"I don't know why, but there's something about this movie that just made me feel grim instead of optimistic....  From a kids POV, it might seem pretty interesting, but eh....for me, I didn't like it so much. At least the visuals were nice. ",1,0,IamMiaow,lNzukD8pS_s,0.009999999999999986,2015-05-25 21:56:25,False,True
+2015-05-25T22:33:06,"Just saw this, such a good movie! :D",0,0,Vondoom903,lNzukD8pS_s,0.625,2015-05-25 22:33:06,False,True
+2015-05-25T23:44:26,That was a GREAT movie!!! I loved the premise that they could change the future by believing in a better one rather than the Apocalypse.,0,0,WarGrowlmon18,lNzukD8pS_s,0.55,2015-05-25 23:44:26,False,True
+2015-05-25T23:46:35,If you saw the future like they did in the movie would you give up when you saw the world was ending??? I certainly wouldn't. I love stories where they know the world could end and fight it instead. Like the Kane Chronicles where the main characters mother had a vision of the world ending and set in motion a chain of events to try to stop it sacrificing herself in the process. Her children ended up finishing the job and saved the world.,0,0,WarGrowlmon18,lNzukD8pS_s,0.22023809523809523,2015-05-25 23:46:35,False,True
+2015-05-25T23:50:30,"One of my favorite fics has a guy who is at the end of the world or as he puts it ""everyone's dead and the world is ready to burn."" Instead of giving up like Nix in the film he tries to stop it. He gets a chance to go back and fix things with the condition he relive his whole life over from 4 years old. He succeeds in changing the future but must fight enemies that WANT the end of the world. Powerful ones. He's managed to eliminate several of the worst but has to continually fight others with others by his side who don't want the world to end though most are unaware of his secret. He's accompanied in his efforts by his parents his brother and his best friend from the future.",0,0,WarGrowlmon18,lNzukD8pS_s,0.10588235294117646,2015-05-25 23:50:30,False,True
+2015-05-25T23:52:58,At least their actions have given the world a chance. With the Monitor destroyed and Dreamers being recruited maybe they CAN stop the world from coming close to ending again. They stopped it this time but there's always that threat unless people change.,0,0,WarGrowlmon18,lNzukD8pS_s,-0.3,2015-05-25 23:52:58,False,True
+2015-05-26T00:32:31,this movie is bullshit,1,0,qa204,lNzukD8pS_s,0.0,2015-05-26 00:32:31,False,True
+2015-05-26T01:11:23,"I remember a line I heard on a show once: ""the future is predetermined by the character of those who shape it.""",0,0,WarGrowlmon18,lNzukD8pS_s,0.0,2015-05-26 01:11:23,False,True
+2015-05-26T02:13:07,THIS MOVIE IS REAL BULLSHIT............,0,0,Romel Oliveira,lNzukD8pS_s,0.2,2015-05-26 02:13:07,False,True
+2015-05-26T03:09:33,"Esta película esta genial la vi en cine y me hizo llorar athena,la  recomiendo que la vean",0,0,Kerdeck Alejandro Hernandez,lNzukD8pS_s,0.0,2015-05-26 03:09:33,False,True
+2015-05-26T04:04:58,Is the cars are real in the tomorrowland,0,0,Aziald Hipolito,lNzukD8pS_s,0.2,2015-05-26 04:04:58,False,True
+2015-05-26T04:57:18,"Such wasted potential. No spoilers here but the trailer was what i wanted to see in the movie, instead it was preachy as heck. The movie ran at such a rushed pace that I was shocked when I saw the credits roll. And im not saying cliff hanger possible sequel kind of ending, it was just... ugh!!! Wait for it on Dvd please.",0,0,Zap Man,lNzukD8pS_s,-0.012500000000000011,2015-05-26 04:57:18,False,True
+2015-05-26T07:18:55,I AM SO GOING TO WATCH THIS ON IMAX!!!!,0,0,christiana,lNzukD8pS_s,0.0,2015-05-26 07:18:55,False,True
+2015-05-26T09:51:50,What did you think of Tomorrowland? Find out All You Need To Know About Disney & Tomorrowland on our channel!,1,0,AlltimeMovies,lNzukD8pS_s,0.0,2015-05-26 09:51:50,False,True
+2015-05-26T15:29:55,"This movie is not as bad as people say it is. The storyline is flawed, but it makes up for that with great acting, visuals and originality. The actors had solid performances throughout the film. I would recommend it, maybe not in the cinema but at least on DVD.",0,0,Faheem Anwar,lNzukD8pS_s,-0.11666666666666663,2015-05-26 15:29:55,False,True
+2015-05-26T15:41:03,"I watched this film, it is really good!!!",0,0,12345,lNzukD8pS_s,1.0,2015-05-26 15:41:03,False,True
+2015-05-26T20:56:18,I watched this movie its really good,0,0,Zane314,lNzukD8pS_s,0.7,2015-05-26 20:56:18,False,True
+2015-05-26T23:04:07,Isaw this movie when it came out...HOLY FUDGE ITS AWESOME!,1,0,Pockets,lNzukD8pS_s,1.0,2015-05-26 23:04:07,False,True
+2015-05-27T03:28:27,Awesome movie worth seeing.i was grossed out because teens were French kissing in front of my face!😐,0,0,Whatsername ღ,lNzukD8pS_s,0.43333333333333335,2015-05-27 03:28:27,False,True
+2015-05-27T06:50:38,Song in the beginning from Two Steps From Hell!!!!! Thomas Bergersen - Creation of Earth. EPIC!!,0,0,Ryan Lee,lNzukD8pS_s,0.15625,2015-05-27 06:50:38,False,True
+2015-05-27T15:12:48,Faço questão de assistir sz,0,0,Nina Bianchi,lNzukD8pS_s,0.0,2015-05-27 15:12:48,False,True
+2015-05-27T21:49:17,"For some reason I went into this mogie very excited, but was very much let down, the whole concept of tomorrowland is kind of dumb and it gets quite boring after a while. ",0,0,Misypo,lNzukD8pS_s,0.002420634920634918,2015-05-27 21:49:17,False,True
+2015-05-28T00:49:32,Parece ser ótimo ! estou ansioso para assistir .,0,0,Luan,lNzukD8pS_s,0.0,2015-05-28 00:49:32,False,True
+2015-05-28T05:57:37,--*BioShock* :-?  ...Oh yeah! So much violence :} #Giggidy,0,0,DJDeezy ThaTruth,lNzukD8pS_s,0.35,2015-05-28 05:57:37,False,True
+2015-05-28T07:30:21,"Oh god. ""Don't worry, they're only robots"" indeed. Robots that act like humans and think like humans must /suffer like humans/, Disney.",0,0,cygil1,lNzukD8pS_s,0.0,2015-05-28 07:30:21,False,True
+2015-05-28T16:53:31,Canal nostalgia me trouxe aqui!!,0,0,LucasMusic,lNzukD8pS_s,0.0,2015-05-28 16:53:31,False,True
+2015-05-29T03:09:06,"THIS MOVIE IS FREAKING AWESOME, CORRUPTION FROM POLITICS REALLY DRAGGED OUR MANKIND EVOLUTIONARY SPEED SLOWER",0,0,K-Pop Dance Cover Hall of Fame,lNzukD8pS_s,0.6,2015-05-29 03:09:06,False,True
+2015-05-29T09:17:56,Teenage girl walks into a home of an older geek guy who lives alone... what could possibly go wrong?,0,0,dosduros,lNzukD8pS_s,-0.11111111111111112,2015-05-29 09:17:56,False,True
+2015-05-29T11:07:52,@*****,0,0,Deepa Shetty,lNzukD8pS_s,0.0,2015-05-29 11:07:52,False,True
+2015-05-29T11:17:57,@deepa shetty  This is superb... we can atleast go to this tomorrowland. :p.,0,0,srinivas bolli,lNzukD8pS_s,1.0,2015-05-29 11:17:57,False,True
+2015-05-29T18:04:44,cool! I love sci-fi movies like this!,0,0,M3SPL,lNzukD8pS_s,0.53125,2015-05-29 18:04:44,False,True
+2015-05-29T23:22:00,PARECE SER UM FILME LEGAL !!! VOU ASSISTIR PQ GOSTO MUITO DOS FILMES DA DISNEY.,0,0,Karine Santana,lNzukD8pS_s,0.390625,2015-05-29 23:22:00,False,True
+2015-05-29T23:54:36,"I just saw this & immediately thought Bioshock Infinite, searching through the comments i see that i'm not the only one, relieved that its not just me, lol",0,0,☜ XPOONDIGGY ☞,lNzukD8pS_s,0.4,2015-05-29 23:54:36,False,True
+2015-05-30T01:39:23,I'm seeing this tomorrow,0,0,Lps Crash,lNzukD8pS_s,0.0,2015-05-30 01:39:23,False,True
+2015-05-30T10:48:34,Headphone users R.I.P,1,0,Ya Boi,lNzukD8pS_s,0.0,2015-05-30 10:48:34,False,True
+2015-05-30T15:09:23,Just seen it and I like it a lot.,0,0,Sima Yi,lNzukD8pS_s,0.0,2015-05-30 15:09:23,False,True
+2015-05-30T15:21:15,"Rating: B- Its fun, awesome and thrilling. However, the acting and story pacing was inconsistent.  Sound Mixing: 5/5 Acting: 2/5 VFX: 4/5 Plot: 3/5 Genre Content: 3/5",0,0,TheRanchSauce,lNzukD8pS_s,0.325,2015-05-30 15:21:15,False,True
+2015-05-31T00:14:41,the trailer makes it look like it'll be awesome..but honestly guys it's my opinion but the plot was TRASH and Britt was terrible at acting... the little corny jokes failed to make me laugh. Graphics were good though.,0,0,•ᄉ•,lNzukD8pS_s,-0.012499999999999987,2015-05-31 00:14:41,False,True
+2015-05-31T02:46:33,Just saw this movie today and it was amazing! It was even filmed in my home town!,1,0,FISHY LAMAR,lNzukD8pS_s,0.9375000000000001,2015-05-31 02:46:33,False,True
+2015-05-31T06:52:26,Just watched this movie today! It was fantastic movie that it was based on Disneyland Park and Walt Disney World ever!,0,0,Jeffrey Baek,lNzukD8pS_s,0.5,2015-05-31 06:52:26,False,True
+2015-05-31T17:38:24," es una buena película que te transporta aun mundo  que  esta por suceder,apreciando lo que trata de transmitir,el no darse por vencido en lo que.imaginas y sueñas, ",1,0,Agustin Martinez,lNzukD8pS_s,0.0,2015-05-31 17:38:24,False,True
+2015-05-31T18:15:29,i sall it yesterday it is awsome,0,0,Dpatt 168,lNzukD8pS_s,0.0,2015-05-31 18:15:29,False,True
+2015-05-31T21:21:26,I love tomorrow land  so much and even better I  get to watch the movie!!!!!!!!♥♥♥♥♥★★★★★     ,0,0,asmara eritrea,lNzukD8pS_s,0.39999999999999997,2015-05-31 21:21:26,False,True
+2015-05-31T21:34:01,Quem veio pelo castanha ri curte aeww,0,0,BieL Harleck,lNzukD8pS_s,0.0,2015-05-31 21:34:01,False,True
+2015-05-31T22:06:14,I got to see this movie. It is wicked awesome!,0,0,TigerDragonGrrl,lNzukD8pS_s,1.0,2015-05-31 22:06:14,False,True
+2015-05-31T23:41:27,Watched this movie on the weekend with high expectations after the trailers but was horribly disappointed. It kind of felt like they did a rush job to meet a deadline without giving a polished product. Way to many unexplained events/things going on that made no sense at all!,0,0,Damag381,lNzukD8pS_s,0.0895,2015-05-31 23:41:27,False,True
+2015-06-01T02:03:04,[Spoiler] i just watched the movie yesterday and still do not get why must they destroy the transmitter thingy in order to save the real world? can somebody explain?,0,0,Pollory La La,lNzukD8pS_s,0.0,2015-06-01 02:03:04,False,True
+2015-06-01T13:03:52,I am woching it tomorrow night with a club  ,0,0,Sophie Harris,lNzukD8pS_s,0.0,2015-06-01 13:03:52,False,True
+2015-06-01T16:33:46,More Illuminati/Freemason shit bro ,0,0,EmEm Moran,lNzukD8pS_s,0.15,2015-06-01 16:33:46,False,True
+2015-06-01T20:25:51,"i went and saw this movie, it was amazing XD",0,0,Spino Dude,lNzukD8pS_s,0.6000000000000001,2015-06-01 20:25:51,False,True
+2015-06-02T03:22:40,This movie was wack,1,0,Shashi,lNzukD8pS_s,0.0,2015-06-02 03:22:40,False,True
+2015-06-02T05:46:28,F of you B ,0,0,Oscar Edwards,lNzukD8pS_s,0.0,2015-06-02 05:46:28,False,True
+2015-06-02T13:09:48,"I saw this today and it really surpassed my expectations! The trailer didn't look so good, tbh. I was doubting whether this would be a good movie or not, but after watching it, let me tell you. It was soooooo good. Please go watch it. It'll be soooo much better than you think.",0,0,Hanjoe Oh,lNzukD8pS_s,0.57,2015-06-02 13:09:48,False,True
+2015-06-02T19:44:44,"ı watched this movie yesterday and ı left it in the middle. why? the events look too familiar to me. I asked myself whether ı watched this movie before. it has full of classic american movie clichés such as the science fiction fair, inventor kid, his failures during his presentation of his invention, the robot girl and her attitudes, the ""alice in wonderland"" world and its residents who were looking like plastic men. they were acting like stunt character (that is they could not act up well) In short, it was beyond boring. I think the Hollywood producers are no longer eager to give something new. Instead, they are trying to keep up appearances by mixing old stuff from old american movies.",0,0,Genchmen,lNzukD8pS_s,0.06186868686868686,2015-06-02 19:44:44,False,True
+2015-06-03T15:03:11,WTF Pedofhilia Disney ,0,0,Tu casa en 60s Queretaro,lNzukD8pS_s,-0.5,2015-06-03 15:03:11,False,True
+2015-06-03T16:16:27,"Too much fantacy for me. I like a more scientific basis for movies, like Star Trek. Truth is more interesting than fiction.",1,0,Tim’s RV Tips,lNzukD8pS_s,0.425,2015-06-03 16:16:27,False,True
+2015-06-03T22:03:02,LoL Awesome! =D I just saw the whole movie for free!! =),0,0,harsha8976,lNzukD8pS_s,0.6875,2015-06-03 22:03:02,False,True
+2015-06-03T22:28:15,"Music by David Guetta!!!  Now seriously, this movie was freaking awesome, I expected some Belgium in this but I weren't dissapointed. Very well made, with a deep lesson... can't ask for more. Way way better than Jupiter Ascending",0,0,Mihai Petre,lNzukD8pS_s,0.25238095238095243,2015-06-03 22:28:15,False,True
+2015-06-04T00:26:09, this movie was brilliantly crafted out of creativity and imagination! wonderful movie to go and see do not miss this movie! and it's no cursing in the movie! it's a great production!,0,0,,lNzukD8pS_s,1.0,2015-06-04 00:26:09,False,True
+2015-06-04T07:26:39,Beautiful movie :),0,0,Yellow Shots,lNzukD8pS_s,0.675,2015-06-04 07:26:39,False,True
+2015-06-04T08:33:28,Hi I'm racheal I have 3 people in my family my brother Michael and my mum all my family is going to be watching this movie on Monday 10: 13 am            Racheal Michael mum 👍🏻👍🏻👍🏻👍🏻👍🏻👍🏻🇳🇿🇳🇿🇳🇿🇳🇿🇳🇿🇳🇿🇳🇿 I love the movie ,0,0,Leonie Fitzpatrick,lNzukD8pS_s,0.5,2015-06-04 08:33:28,False,True
+2015-06-04T09:11:38,She looks like jennifer lawrence,0,0,Daniel Richards,lNzukD8pS_s,0.0,2015-06-04 09:11:38,False,True
+2015-06-04T22:55:13,Looks like a Disney version of Tron,0,2,Aryan Zagros,lNzukD8pS_s,0.0,2015-06-04 22:55:13,False,True
+2015-06-05T17:32:29,I saw the movie and it was awesome. I recommend it,0,0,Vornez E,lNzukD8pS_s,1.0,2015-06-05 17:32:29,False,True
+2015-06-06T00:13:02,seems a like a bit much... and highly unrealistic,0,0,Will Rising,lNzukD8pS_s,-0.15,2015-06-06 00:13:02,False,True
+2015-06-06T05:57:20,This tommorrowland is lame its all about the real tommorrowland ,0,0,Giovanni Valencia,lNzukD8pS_s,-0.15,2015-06-06 05:57:20,False,True
+2015-06-06T13:19:00,"Today's pg yesterday's 12... Based on that, 18 movies are going to be the scariest shit ever in like 20 years ",0,0,Kickass 101,lNzukD8pS_s,-0.2,2015-06-06 13:19:00,False,True
+2015-06-07T04:28:03,Finally something truly unique,0,0,thelamb777,lNzukD8pS_s,0.1875,2015-06-07 04:28:03,False,True
+2015-06-07T06:14:29,just watched the movie so this is what happened to walt Disney,1,0,ZzMR_STRETCHzZ,lNzukD8pS_s,0.0,2015-06-07 06:14:29,False,True
+2015-06-07T09:06:46,Cowspiracy is more educational and more entertaining than this movie.,0,0,love lasts through frustration,lNzukD8pS_s,0.4375,2015-06-07 09:06:46,False,True
+2015-06-07T13:22:54,this trailer does NOT accurately depict the movie just so you guys know,0,0,Calvin Wong,lNzukD8pS_s,-0.20000000000000004,2015-06-07 13:22:54,False,True
+2015-06-08T15:48:02,Subscribe to us,0,0,FakTheGame,lNzukD8pS_s,0.0,2015-06-08 15:48:02,False,True
+2015-06-09T13:42:16,i love this movie.. who's that lil robo girl in the movie?,0,0,jesterloyd tamayo,lNzukD8pS_s,0.5,2015-06-09 13:42:16,False,True
+2015-06-09T16:52:36,Awsome movie!!!!!!!!!!!!!!!!,0,0,Nina Lee,lNzukD8pS_s,0.0,2015-06-09 16:52:36,False,True
+2015-06-10T04:41:44,"I don't like thumbs up comments but, thumbs up for Thomas Bergersen in the beginning! Too bad they didn't use his whole song.",0,0,John Jeffery,lNzukD8pS_s,-0.24999999999999992,2015-06-10 04:41:44,False,True
+2015-06-10T07:33:31,I saw it !!! The trust is great and active.....Good,0,0,Trần Jason,lNzukD8pS_s,0.8,2015-06-10 07:33:31,False,True
+2015-06-10T13:37:06,"Uh, if its Clooney, its leftist garbage.",1,0,marcusdolby1,lNzukD8pS_s,-0.05,2015-06-10 13:37:06,False,True
+2015-06-10T21:34:40,Isn't she from Under the Dome?,0,0,Coldust,lNzukD8pS_s,0.0,2015-06-10 21:34:40,False,True
+2015-06-10T21:39:16,It's just alright.  I'd be generous to give it a 6 out of 10.   Britt Robertson's overacting was very annoying.  Her chemistry with Clooney was non-existent and the final 15 minutes was extremely preachy highlighted by Hugh Laurie's speech that was better suited for an Earth Day pep rally.     Suckered in by the trailers... Should have gone to see San Andreas instead.,0,0,GasCityGuy,lNzukD8pS_s,-0.175,2015-06-10 21:39:16,False,True
+2015-06-11T00:46:58,"It was okay. If your expectations aren't too high (unlike mine were) then I think you'll like it. There were some parts of the move that really were cool, but towards the end it just disappointed me more and more. The plot was a little shaky, and the events that occurred while they were actually in Tomorrowland weren't as cool as the trailers portrayed them to be. To be honest, the best parts of the movie were the parts where they weren't even in Tomorrowland. I was just super excited for this movie since I'm a huge fan of futuristic concepts like this, but overall it just really disappointed me and went below my expectations. The acting was pretty good though. Awkward at times, but still good. I just wish they expanded on the plot a lot more; they spent way too long showing the process of getting to Tomorrowland than what it was like to actually be there...",0,0,Raye Ann Abante,lNzukD8pS_s,0.17212962962962963,2015-06-11 00:46:58,False,True
+2015-06-11T08:44:40,SPOILED ALERTS Athena die at the end :),0,0,Raptor Jesus,lNzukD8pS_s,0.5,2015-06-11 08:44:40,False,True
+2015-06-11T13:54:49,Just saw Tomorrowland. The film was very mediocre and had so much potential to be a great Disney movie but it looks like Disney dropped the ball on this one.,2,8,Chris Goomba,lNzukD8pS_s,0.05000000000000001,2015-06-11 13:54:49,False,True
+2015-06-11T20:06:24,Watch the movie today in the movie theater,1,0,vSayuri,lNzukD8pS_s,0.0,2015-06-11 20:06:24,False,True
+2015-06-11T23:17:24,This movie is shit,0,0,Como de qué va esto?,lNzukD8pS_s,-0.2,2015-06-11 23:17:24,False,True
+2015-06-12T01:47:42,"Finally, a futuristic movie that doesn't fucked up this planet.",0,0,Megálos Epitychia,lNzukD8pS_s,-0.3,2015-06-12 01:47:42,False,True
+2015-06-12T02:27:23,I loved this movie omg I wanted to cry because I love Tomorrowland in the Disney parks and I love the future oh my I just loved it so muchhhh,0,0,Zandie Thimm,lNzukD8pS_s,0.48,2015-06-12 02:27:23,False,True
+2015-06-13T02:10:24,"Very disappointing film, mainly due to poor writing. Damon Lindelof butchers yet another movie.",0,0,sbowesuk,lNzukD8pS_s,-0.43500000000000005,2015-06-13 02:10:24,False,True
+2015-06-13T08:26:38,Looks pretty cool,0,0,HornburgMX,lNzukD8pS_s,0.3,2015-06-13 08:26:38,False,True
+2015-06-13T13:05:03,i loved this movie. But the only thing i was concerned about was bad words...,0,0,Bree O’Neal,lNzukD8pS_s,3.700743415417188e-17,2015-06-13 13:05:03,False,True
+2015-06-13T14:13:15,"""The Bright Minds of today are the makers of our Future"" A Quote Inspired by this movie""",1,0,Seed,lNzukD8pS_s,0.35000000000000003,2015-06-13 14:13:15,False,True
+2015-06-13T18:19:17,Best movie ever but sad ending ,0,0,Afreen Khan,lNzukD8pS_s,0.25,2015-06-13 18:19:17,False,True
+2015-06-14T12:37:23,2.00 > 2.05  look like the scene is shoot on the Eiffel tower. Will this movie take us to  Paris or will we just see close ups to make it look steam punk ? We can see the arc de triomphe at the right of the picture (it should be on the left accordind to it's real place).,0,0,Narnigo o,lNzukD8pS_s,0.1619047619047619,2015-06-14 12:37:23,False,True
+2015-06-15T01:22:16,Battleship Earth was better than this movie.  I want my money back.,0,0,Marley Moopley,lNzukD8pS_s,0.25,2015-06-15 01:22:16,False,True
+2015-06-18T05:36:32,Such a  sick movie,0,0,Cody Smith,lNzukD8pS_s,-0.35714285714285715,2015-06-18 05:36:32,False,True
+2015-06-18T19:12:27,"The trailer is very well made, but it literally shows 2/3 of the film, and the last 1/3 is the boring part.",0,0,Josef T-D,lNzukD8pS_s,-0.26666666666666666,2015-06-18 19:12:27,False,True
+2015-06-18T23:16:30,wow wow wow fucking wow,0,0,Ree Brooks,lNzukD8pS_s,0.1,2015-06-18 23:16:30,False,True
+2015-06-20T02:57:18,people from the megacity of 2200 like if your watching in 2015,0,0,ƬψƬΩiiXinnex,lNzukD8pS_s,0.0,2015-06-20 02:57:18,False,True
+2015-06-21T03:03:36,PROPAGANDA,0,0,Joe o leary,lNzukD8pS_s,-0.1,2015-06-21 03:03:36,False,True
+2015-06-21T06:32:41,lol this looks weird. not on my watch list........,0,0,Taha Mohamed,lNzukD8pS_s,0.15000000000000002,2015-06-21 06:32:41,False,True
+2015-06-24T09:00:33,Illuminati controlled this is an insult too my intelligence ,0,0,Xxpoisenxx,lNzukD8pS_s,0.0,2015-06-24 09:00:33,False,True
+2015-06-27T15:32:19,"Yet another ""strong female teen"" character. This new cliche is getting tiresome.",0,0,Michał Włodarczyk,lNzukD8pS_s,0.013939393939393918,2015-06-27 15:32:19,False,True
+2015-06-29T22:20:47,i like this,0,0,Charles Auger,lNzukD8pS_s,0.0,2015-06-29 22:20:47,False,True
+2015-07-03T04:44:18,"Do not waste your money, most people agree the trailers were better than the movie itself.",0,0,Kitty Valentine,lNzukD8pS_s,0.3666666666666667,2015-07-03 04:44:18,False,True
+2015-07-04T01:23:40,Wait didn't we build tomorrow land underwater back in 2007? ,0,1,Dipper Pines,lNzukD8pS_s,0.0,2015-07-04 01:23:40,False,True
+2015-07-08T02:23:09,trailer looks neat. I don`t get why this movie did get a thumbs down from critics.,0,0,Rinzler TheHunter,lNzukD8pS_s,-0.15555555555555559,2015-07-08 02:23:09,False,True
+2015-07-08T16:30:40,I saw the movie and it was soo epic!,0,0,Jen Nettekoven,lNzukD8pS_s,0.125,2015-07-08 16:30:40,False,True
+2015-07-09T10:56:58,Jeez the music sounds really good here. Hope they release a CD too!,0,0,RSG ASMR,lNzukD8pS_s,0.875,2015-07-09 10:56:58,False,True
+2015-07-12T16:46:16,"This film looks great! But...... The girl is a bit annoying , I'm not sure if this was based of a book , but the actor who plays the girl doesn't fit the character right but then again I haven't seen the whole thing so ..... But I think this looks great and I can't wait to watch it!",0,0,Squirrel64,lNzukD8pS_s,0.26224489795918365,2015-07-12 16:46:16,False,True
+2015-07-20T13:12:03,Nice!,0,0,Erdona Era,lNzukD8pS_s,0.75,2015-07-20 13:12:03,False,True
+2015-07-21T02:36:51,"LOL, it's George Clooney trying to act.",0,0,tony,lNzukD8pS_s,0.8,2015-07-21 02:36:51,False,True
+2015-07-26T20:07:41,i loved this movie so much i wish i was in it T_T,0,0,Guillermo Gerritsen,lNzukD8pS_s,0.44999999999999996,2015-07-26 20:07:41,False,True
+2015-08-09T14:52:11,This is trailer 2,0,0,No Body,lNzukD8pS_s,0.0,2015-08-09 14:52:11,False,True
+2015-08-20T18:12:32,Holy Psalm91 Holy John17 Holy Ephesians 6 Holy Love on Holy Knowing in Holy Choices make wright steps in Holy Jesusname Holy crossamen,0,0,Kathy Miller,lNzukD8pS_s,0.5,2015-08-20 18:12:32,False,False
+2015-08-20T18:21:47,Very good movie! :),0,0,z1mt0n1x,lNzukD8pS_s,0.75,2015-08-20 18:21:47,False,False
+2015-08-28T05:52:42,Meet The Robinsons deja vu,0,0,Wally Berry,lNzukD8pS_s,0.0,2015-08-28 05:52:42,False,False
+2015-08-31T17:42:15,Saw this on the plane to Asia and it was fucking amazing.  There were some scenes where a character was tumbling down/falling and the plane just happened to run into some intense turbulence - perfect timing was well immersive haha,0,0,Miesyk Self,lNzukD8pS_s,0.5,2015-08-31 17:42:15,False,False
+2015-09-03T16:32:42,🕘🕘🕘🕘🕘🕘🕘🕘🕘🕣🕘🕘🕘↗↗↗↗,0,0,Jorge Sanchez,lNzukD8pS_s,0.0,2015-09-03 16:32:42,False,False
+2015-09-04T00:37:39,"Doesn't look safe, especially with those terminator guys chasing you.",0,0,ReaLife HD,lNzukD8pS_s,0.25,2015-09-04 00:37:39,False,False
+2015-09-08T22:03:32,I wonder if they bump into The Robinsons,0,0,David Silva,lNzukD8pS_s,0.0,2015-09-08 22:03:32,False,False
+2015-09-10T01:36:26,futuristic narnia?,1,0,John Parker,lNzukD8pS_s,0.0,2015-09-10 01:36:26,False,False
+2015-09-15T17:48:46,It is a good movie but it is not good to have a sequel...,0,0,Himayamata,lNzukD8pS_s,0.175,2015-09-15 17:48:46,False,False
+2015-09-16T00:26:22,best movie,0,0,Kavanaugh Matilda,lNzukD8pS_s,1.0,2015-09-16 00:26:22,False,False
+2015-09-16T00:53:21,Is this movie good? I'm flooded with homework but I'm tryna see a pretty decent movie on my free time ;-;,0,0,James Bald,lNzukD8pS_s,0.37916666666666665,2015-09-16 00:53:21,False,False
+2015-09-16T01:27:39,And what we have today wannabe wrestler john cena trying to act.. and reclaim the peopleWe all sick of John cena,0,0,Remeez1000,lNzukD8pS_s,-0.7142857142857143,2015-09-16 01:27:39,False,False
+2015-09-16T03:12:32,the movie was a COMPLETE DISAPPOINTMENT,0,0,8polander8,lNzukD8pS_s,-0.25,2015-09-16 03:12:32,False,False
+2015-09-16T03:48:18,do we really need 700 bass drops in every trailer made now?,0,0,Hummalarny Friends,lNzukD8pS_s,0.024999999999999994,2015-09-16 03:48:18,False,False
+2015-09-16T05:57:27,wtf was that.. :S i was waiting djs and sht lol jk,0,0,Holsen,lNzukD8pS_s,0.01666666666666668,2015-09-16 05:57:27,False,False
+2015-09-16T06:52:19,hui,0,0,SlakSun gamer,lNzukD8pS_s,0.0,2015-09-16 06:52:19,False,False
+2015-09-16T13:47:08,A totally absorbing and entertaining film - the fantasy part is overwhelming put over as I like to write - massaging the imagination. Let's have a few more Disney.,0,0,sciencefictionfantasy,lNzukD8pS_s,0.3,2015-09-16 13:47:08,False,False
+2015-09-16T15:31:38,"Thanks Disney, I'm glad you didn't forget about us!",0,0,Crystal Fehring,lNzukD8pS_s,0.4125,2015-09-16 15:31:38,False,False
+2015-09-16T17:10:48,Yay! Another writers work of fiction rewritten hard boiled and butchered by Payola Corp. Kipling would be proud.,0,0,Blackadder153,lNzukD8pS_s,0.25416666666666665,2015-09-16 17:10:48,False,False
+2015-09-16T17:33:34,Well don't need to watch the movie anymore...,0,0,the_man who sold da world,lNzukD8pS_s,0.0,2015-09-16 17:33:34,False,False
+2015-09-16T20:39:21,Awesome,0,0,Benjamin Herring,lNzukD8pS_s,1.0,2015-09-16 20:39:21,False,False
+2015-09-17T06:54:19,Was not even as good as it makes out to be.,0,0,Sammy Stenson,lNzukD8pS_s,0.7,2015-09-17 06:54:19,False,False
+2015-09-17T07:13:55,Tomorrowland looks like future dubai,0,0,The Local Boy,lNzukD8pS_s,0.0,2015-09-17 07:13:55,False,False
+2015-09-17T09:00:56,Daaaaam this shit looks dope !!!,0,0,Amara Diakité,lNzukD8pS_s,-0.390625,2015-09-17 09:00:56,False,False
+2015-09-17T22:30:52,"t Heaven or hell? Make that decision today, you're not promised tomorrow. According to the Word of God, there is not a righteous person on earth (Romans 3:10) Because all have sinned and come short of the glory of God(Romans 3:23). Here's how a holy God defines evil: Whoever hates his brother is a murderer (1 John 3:15). Ever hated anyone? Ever told a lie?The Word of God states that "" All liars will have their part in the lake of fire "". In Revelation 21:8. Ever looked at someone with lust? Jesus said looking with lust is committing adultery in your heart (Matt. 5:28). Ever stolen anything? No thief and adulterer will inherit the kingdom of God (1 Cor. 6:9,10).Because God is holy, He must punish all who sin, and His place of punishment is hell for all eternity.So you see, we've all done these things, we all deserve hell.And If you've done even one of these things, and have not repented and believed on Jesus, you currently are on your way to hell.God's standard of goodness is perfection,in thought, word, and deed so none of us can ever make it to heaven on our own. We are sinful, and even one sin will keep us from heaven. But In His great love and mercy, God provided a way for us to be forgiven of our sins and saved from that punishment. Through the Savior, Jesus Christ, the Son of God, died on a cross to pay the penalty for your sins. I am sure you have heard of John 3:16? It's the most famous verse in the Bible, it reads "" For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life ."" If you believe that the Lord Jesus Christ died on the cross for your sins, and resurrected from the dead, you will be forgiven of all your sins and saved from hell.(Acts 13:38, Acts 16:30,31)",1,2,Lemuel St,lNzukD8pS_s,0.125,2015-09-17 22:30:52,False,False
+2015-09-18T13:23:31,queria tanto que estivesse já aki no brasil,0,0,Larissa Nascimento,lNzukD8pS_s,0.0,2015-09-18 13:23:31,False,False
+2015-09-20T03:55:01,hahaha nope they just died from 800 splinters to the back of the head 1:18,0,0,WAR MONGRUEL,lNzukD8pS_s,0.1,2015-09-20 03:55:01,False,False
+2015-09-20T17:10:25,"Awesome trailer, shit movie.",0,0,braepau,lNzukD8pS_s,0.4,2015-09-20 17:10:25,False,False
+2015-09-21T09:00:55,l,0,0,Abhi Ac,lNzukD8pS_s,0.0,2015-09-21 09:00:55,False,False
+2015-09-21T09:01:19,co in ookij,0,0,Abhi Ac,lNzukD8pS_s,0.0,2015-09-21 09:01:19,False,False
+2015-09-21T12:27:41,"*A 50+ year old in love with a 12 year old*.................. monkey see...monkey do... and most humans are nothing but sheep! *Children:* Don't buckle up... just tie it in a single knot! Helmets are useless!   *Children:* Injuries don't happen! Put on a jet-pack, slam the ground repeatedly...and walk away completely unharmed!  *No Trespassing* - F**k reading these signs... just go on it!!! George - Always angry!! Humans (especially kids) feed off of this kind of thing. Severely.  *Don't listen to your parents....* Running away in the middle of the night.... with positive results. *Never ask question* Anytime a question is asked in this film... anger follows",2,0,CsFF4U,lNzukD8pS_s,-0.00038374014378478316,2015-09-21 12:27:41,False,False
+2015-09-23T11:45:58,"Tomorrowland what went wrong? Its been out for a while and now just about to come out on Blu ray and having seen the film twice now I can see where the film went wrong.  1. The Protagonist is the wrong person. The first 15 mins of Tomorrowland are the best part. It introduces a likable character Frank Walker who has an interesting story and character arc. If the film centered on Frank Walker and perhaps his daughter it would have been a more focused and nuanced story.  2. Casey Newton. Her character comes off as a very unlikable and abrasive know it all. Also they spend a lot of time introducing her brother and father who suddenly disappear half way through the film. Her character is more reactionary than having anything to do with the story or themes.  3. The Robots. The robots are the villains in Tomorrowland and don't come off as any kind of threat, they are overly cartoonish and almost impossible to take seriously. The solution make the bad guys Tomorrowland inductees turned bad with futuristic gadgets at their disposal.  4. The Environmental Message. Tomorrowland has a very heavy hand message about ecology and how we are destroying the planet. It comes off like a bad after school special. Perhaps the theme should be focused on inspiring humanity to be better rather than berating us about current sociological and political problems.  5. A waste of Hugh Laurie. By far the best part of this film is Hugh Laurie as David Nix but unfortunately he is hardly in the film. I was waiting for his character to be revealed as somewhat threatening and competent bad guy but that never happened. To make a bad guy interesting you have to make him relatable but again that never happened.  6. The Pins. This is an interesting plot device but hardly used in the story its more of a throw away plot device. If it was tied into the climax of the film it would have made more sense. Also the pins are very dangerous what if you touch one while crossing the street you will almost certainly be killed. At least address this in the film and upgrade them.  7. Ideas. This film has interesting ideas but doesnt know what to do with them. The concept of Tommorowland as utopia for the best and brightest is interesting but never followed through. The pins are interesting and unique  but are only used as a superficial plot device. The idea of kid who had big dreams but had them crushed and grew up to be old and bitter is interesting but never followed up upon.  Tomorrowland is all about ambition and inspiration but wasn't ambitious enough to try something new and push the envelope. It talked down to the audience not trusting the kids watching enough to think for themselves. The best stories challenge the audience to think and ponder after the credits have rolled but if they have already been told what to think and what conclusions to make then what is the point?",3,4,Purefoldnz,lNzukD8pS_s,0.08461317435001647,2015-09-23 11:45:58,False,False
+2015-09-23T14:21:11,This movie was pretty good after all. it had amazing pictures and the plot twist was not like in the trailer,0,0,Fred & Co,lNzukD8pS_s,0.5166666666666667,2015-09-23 14:21:11,False,False
+2015-09-23T15:55:17,visit my channel for funny videos i will be doing more soon !,0,0,ThrashN Trash,lNzukD8pS_s,0.4375,2015-09-23 15:55:17,False,False
+2015-09-23T19:18:50,Watched this last night... it's was pretty good... not amazing but enjoyable... try watch it through a child's eyes,0,0,Steve Soares,lNzukD8pS_s,0.22999999999999998,2015-09-23 19:18:50,False,False
+2015-09-24T05:27:15,"This film disappointed me hugely, it was basically a rip off of the terminator movies and mostly about a paedo's infatuation with a very young girl, the whole thing was quite disturbing.",1,0,Travis Rabble,lNzukD8pS_s,-0.003333333333333318,2015-09-24 05:27:15,False,False
+2015-09-24T23:58:52,"The movie was great, y'know, these kinda pixar / disney movies are the ones with the strongest messages, this one right here is well explained and light hearted at the same time, pretty good with clear messages to people.",7,0,Sergio Esteban Fritz Rieloff,lNzukD8pS_s,0.36224489795918374,2015-09-24 23:58:52,False,False
+2015-09-25T09:15:48,Who else already watched this and thought it was AMAZING!,0,0,"19_Lee Tze Yee, Sarah",lNzukD8pS_s,0.7500000000000001,2015-09-25 09:15:48,False,False
+2015-09-27T00:17:28,1:38 do hear a little bit of terminater in there? ;),0,0,carneyvich,lNzukD8pS_s,0.03125,2015-09-27 00:17:28,False,False
+2015-09-27T15:51:54,That Girl is 25 years old... MIND BLOWN,0,0,ax_0101,lNzukD8pS_s,0.1,2015-09-27 15:51:54,False,False
+2015-09-29T20:37:47,love it good movie.,0,0,WulfCry,lNzukD8pS_s,0.6,2015-09-29 20:37:47,False,False
+2015-09-30T20:37:38,Raffey Cassidy reminds me Jodelle Ferland,0,0,Art Markovich,lNzukD8pS_s,0.0,2015-09-30 20:37:38,False,False
+2015-10-01T00:08:46,was this movie any good? i'm not so thrilled about george clooney,0,0,kkgen,lNzukD8pS_s,0.6499999999999999,2015-10-01 00:08:46,False,False
+2015-10-02T00:55:08,"if u r a drimer:) search for ""the venus project"" to overcome hunger, poverty,  war and rich a world like in the movie",0,0,yyaniv,lNzukD8pS_s,0.4375,2015-10-02 00:55:08,False,False
+2015-10-03T00:29:19,I'm gonna watch this tonight and smoke some weed: D,0,1,J Rose,lNzukD8pS_s,1.0,2015-10-03 00:29:19,False,False
+2015-10-04T12:52:59,About to watch this movie... if this is literally the only cool scene in the whole film I'm gonna be pissed.,1,2,fongfongy,lNzukD8pS_s,0.18333333333333335,2015-10-04 12:52:59,False,False
+2015-10-05T15:11:20,"i watched this, it was boring",0,0,Carter4847,lNzukD8pS_s,-1.0,2015-10-05 15:11:20,False,False
+2015-10-07T08:00:04,waste of time.,0,0,Westcoastbulletexp,lNzukD8pS_s,-0.2,2015-10-07 08:00:04,False,False
+2015-10-07T23:38:36,Lots of murder and death in this PG movie. Interesting.,0,0,robo931,lNzukD8pS_s,0.5,2015-10-07 23:38:36,False,False
+2015-10-10T19:07:36,"I like how tody movies are more focuse on the ideea of resolving the problems our selfs,not waiting god to do it,or chance,or karma. It's time for us to realize that no god will save us,we are the ones that will do it.",0,0,I say,lNzukD8pS_s,0.5,2015-10-10 19:07:36,False,False
+2015-10-11T21:14:47,In this movie you will find out why is House M.D limping...,0,0,JiWiK,lNzukD8pS_s,0.0,2015-10-11 21:14:47,False,False
+2015-10-12T19:39:46,Anyone know the track name ?,0,0,DJ Khunji,lNzukD8pS_s,0.0,2015-10-12 19:39:46,False,False
+2015-10-13T00:00:15,one of my favorite movies from 2015. seriously i don't get why people have mixed reactions from this.,0,0,Cinematic Goodness,lNzukD8pS_s,0.05555555555555556,2015-10-13 00:00:15,False,False
+2015-10-14T16:56:27,"this movie is so SICK. And so many people miss the point. Do you remember your dreams as a kid? .. What happened to those dreams?  Walt Disney is the man: THINK BIG. Similarly so is Elon Musk, Steve Jobs et al.",0,0,mercedbread,lNzukD8pS_s,-0.053571428571428575,2015-10-14 16:56:27,False,False
+2015-10-15T16:55:11,Ok Amanda I'm all Yours everyone else has a Magic Go of me,0,0,justinarrieta420,lNzukD8pS_s,0.5,2015-10-15 16:55:11,False,False
+2015-10-15T17:11:42,You see javelin 597 he's the one that knows who's after you let me wipe them all out for you Amanda I can let them out easily the evil robots pick me up I saved your life with the Thompson x five,0,0,justinarrieta420,lNzukD8pS_s,-0.2833333333333333,2015-10-15 17:11:42,False,False
+2015-10-15T17:18:47,"To Magicly Make me you need a XPxerpatcuror a 1054--79634Arsic a109734Arsic ,also your magic tab is at 49746ArsicLN3745 under a cabinet you have a older version of you that I Love I love You and I'm happy I had your Baby",0,0,justinarrieta420,lNzukD8pS_s,0.49444444444444446,2015-10-15 17:18:47,False,False
+2015-10-15T18:41:29,Amanda wants me to have your baby now your older self Amanda because my Baby Comes with a Dragon that can eat every demon or evil robot after you and no one cares because your a human robot and I love your human robot,0,0,justinarrieta420,lNzukD8pS_s,-0.022222222222222216,2015-10-15 18:41:29,False,False
+2015-10-16T11:08:06,the fuck going on in this trailer ?!,0,0,NUKE,lNzukD8pS_s,-0.5,2015-10-16 11:08:06,False,False
+2015-10-18T10:55:49,Imagine that's Heaven.,0,0,Henry,lNzukD8pS_s,0.0,2015-10-18 10:55:49,False,False
+2015-10-21T05:37:52,i thought it was a good movie disney for kids,0,0,Ariv Gomez,lNzukD8pS_s,0.7,2015-10-21 05:37:52,False,False
+2015-10-21T23:52:57,i went to see this... I am literally begging my dad to get it X3,0,0,Jayce,lNzukD8pS_s,0.0,2015-10-21 23:52:57,False,False
+2015-10-29T23:22:48,"Its was awesome movie,i hope that the second movie will comeout and the character name Athena will rebuild by Frank and another mission have to do and i hope that ending of the movie will not sadnest.AWESOME!!!!",0,0,Muhammad Imran,lNzukD8pS_s,0.5,2015-10-29 23:22:48,False,False
+2015-11-05T17:51:39,"5 out of 10 Could have been a little bit better, space is far more interesting",0,0,andrew dunn,lNzukD8pS_s,0.28250000000000003,2015-11-05 17:51:39,False,False
+2015-11-06T01:05:58,"why is it that most of the good actors are old? i mean, they probably have lots of experience in acting, but these ones are mostly the good actors nowadays",0,0,phenox spartan,lNzukD8pS_s,0.3125,2015-11-06 01:05:58,False,False
+2015-11-06T02:56:15,This is the movie to teslas attic,0,0,Ethan Castillo,lNzukD8pS_s,0.0,2015-11-06 02:56:15,False,False
+2015-11-06T09:53:32,1:38 thought that was the T-800,0,0,Gambino,lNzukD8pS_s,0.0,2015-11-06 09:53:32,False,False
+2015-11-06T11:48:16,best movie ewer,0,0,Liepa Lol,lNzukD8pS_s,1.0,2015-11-06 11:48:16,False,False
+2015-11-06T16:50:47,THIS IS A DISNEY MOVIE,0,0,Lunacy Loveborn,lNzukD8pS_s,0.0,2015-11-06 16:50:47,False,False
+2015-11-07T07:09:10,m excited to watch this movie ♥,0,0,Nicky Nox,lNzukD8pS_s,0.6875,2015-11-07 07:09:10,False,False
+2015-11-07T17:31:55,AYYYYYY THOMAS BERGERSEN IN THE BEGINNING THERE,0,0,rue,lNzukD8pS_s,0.0,2015-11-07 17:31:55,False,False
+2015-11-07T22:51:14,I thought this was going to be a trailer for a rave :/,0,0,Joe Kerr,lNzukD8pS_s,-0.25,2015-11-07 22:51:14,False,False
+2015-11-08T11:37:59,"Well, now, isn't this a nice family movie for dad, mommy and the kiddies? Good slasher stuff. Nice move, Walt.",0,0,larry wright,lNzukD8pS_s,0.6333333333333333,2015-11-08 11:37:59,False,False
+2015-11-17T17:28:28,кино просто классный,0,0,Liya Eralieva,lNzukD8pS_s,0.0,2015-11-17 17:28:28,False,False
+2015-11-24T13:00:28,0:30 Valencia :)),0,0,köln,lNzukD8pS_s,0.5,2015-11-24 13:00:28,False,False
+2015-11-27T02:23:33,It's a really stupid movie and then we wonder why this generation is so retarded,2,2,Macario Genchi,lNzukD8pS_s,-0.8,2015-11-27 02:23:33,False,False
+2015-11-29T11:24:58,I saw today compared to the United Kingdom and South Korea . Britain told accuracy is important. But South Korea is fast and accurate. I still live in South Korea. When in the UK it seems to be frustrated . . Immigration may seem successful in the UK. And I do not know where to meet Raffey. I 'll take hope. And it will look exactly .,0,0,이현준,lNzukD8pS_s,0.20519480519480524,2015-11-29 11:24:58,False,False
+2015-12-10T20:47:38,The name of the movie should be future land,0,0,Raymond Mulipola,lNzukD8pS_s,0.0,2015-12-10 20:47:38,False,False
+2015-12-15T00:27:53,who thought this was gonna be about dj's and shrooms?,0,0,bulldog,lNzukD8pS_s,0.0,2015-12-15 00:27:53,False,False
+2015-12-26T00:47:38,Que massa!,0,0,Márcio Corrêa Muniz,lNzukD8pS_s,0.0,2015-12-26 00:47:38,False,False
+2016-01-01T05:14:14,"This movie is trash, but I recommend everyone to watch it so they could understand why our society is so ""retarded"". Hugh Laurie's speech about the ignorance of the present culture is better than the whole movie times 10. Everyone's expecting this ""Tomorrowland"" to exist and save us all when we'll screw up so bad, we won't be able to fix the sh*t we caused ourselves. And this movie will be shown to kids (obviously). Seriously Disney, f**k you for spreading this kind of illusion to our new generation. We don't need hope, we need action. Maybe the best way to how bad things actually are is to let us suffer. And if you think world's bad, think 20 times worse, because we don't even get to see most of the sh*t that's happening in it. If tomorrowland actually exists, I wish that our people would never see it, even me, because I bet we would f*ck it up too, it's in our nature to f*ck sh*t up.",2,0,Lukas Medalinskas,lNzukD8pS_s,-0.005704099821746846,2016-01-01 05:14:14,False,False
+2016-01-05T18:27:44,great movie.,0,0,russell5078084,lNzukD8pS_s,0.8,2016-01-05 18:27:44,False,False
+2016-01-09T17:01:39,What a motorcycle in the film Casey????,0,0,Вадим Горинов,lNzukD8pS_s,0.0,2016-01-09 17:01:39,False,False
+2016-01-11T19:09:36,nice movie,0,0,Zend Rey,lNzukD8pS_s,0.6,2016-01-11 19:09:36,False,False
+2016-01-17T11:23:45,🚥🚧🚋🚖🚖🚖🚖🚖🚖💩😜😝🍟🌽🌶🧀🍔🍣🌮🍰🍭🍇🍍🍇🍇🍇🍇🍇🍍🍍🍠🍍🍍🍍🍖🍖🍖🍖🍖🍗🍗🧀🧀🧀🧀🌽🍑🌽🌽🍑🌶🧀🍒🍒🍦🍦🍦🍡🍡🍢🍢🍡🍢🍰🍦💄🍟🍟🍟🍟💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩💩😃💩💩💩💩💩💩💩🍉⛄️☃🌨🌨🌩☄❤️💛💛💚💙💙💜💜💗💗💖💖💘💝💝💟💔💔💔❣💕💞💓💓 ❤️❤️💛💞💜☪☪☪🕉🕉🕉🕉☪🕉🕉🕉💔❤️💛💚💚. 💔💓💔💛💛💛💚💙💜💜❤️💛💚💙💜❤️💛💙💚💜💔❣💕💕💞💓💗💖💘💝✝✝✝☪🕉☸🚺🐍🐜🐜🐜🐜🐜🐜🐜🐜🐜 V.  V.   Vic v. Focus c     C   V,0,0,David Montoya,lNzukD8pS_s,0.0,2016-01-17 11:23:45,False,False
+2016-01-20T02:10:06,"I absolutely loved this movie, as an avid enthusiast of science related things I found this movie appealing more-so for the imagination and wonder of it. For instance, it makes me think about if our world could one day be like Tomorrowland.",0,0,TheBlooRoon,lNzukD8pS_s,0.3625,2016-01-20 02:10:06,False,False
+2016-01-20T02:28:25,nmmallalalññaláñ,0,0,Abner Dubón,lNzukD8pS_s,0.0,2016-01-20 02:28:25,False,False
+2016-01-21T21:39:40,I personally loved this movie. but not as much as the iron giant and the incredibles,0,0,Justin Brand,lNzukD8pS_s,0.3,2016-01-21 21:39:40,False,False
+2016-01-21T21:39:43,I personally loved this movie. but not as much as the iron giant and the incredibles,0,0,Justin Brand,lNzukD8pS_s,0.3,2016-01-21 21:39:43,False,False
+2016-01-25T19:45:16,"Some would say that this movie proves that original ideas aren't profitable, but in reality, it proves that even unoriginal ideas can flop at the box office. It is to Tomorrowland what Pirates of the Caribbean is to the ride.",1,0,Hanskah,lNzukD8pS_s,0.19375000000000003,2016-01-25 19:45:16,False,False
+2016-02-03T21:42:00,A movie about the future being positive and exciting. Fails miserably though. Totally uninspiring Hollywood bull. Serious lack of imagination by the designers of the future city. Just another concrete jungle. Personally I started to loose interest 45 mins into this film.,0,0,Eclectic Jon 101,lNzukD8pS_s,-0.11208942572578938,2016-02-03 21:42:00,False,False
+2016-02-13T00:32:43,I liked the whole idea of these creative genius' getting together to make something great,26,1,Karolina Wójcik,lNzukD8pS_s,0.525,2016-02-13 00:32:43,False,False
+2016-02-20T12:51:15,"Okay, i have read a lot about how this movie 'flopped', but why? I just watched it, and I f*cking loved it. So why did it flop?",179,13,Sad Smiley,lNzukD8pS_s,0.6,2016-02-20 12:51:15,False,False
+2016-02-25T04:01:26,"face it folks any film Clowney is in has flopped, unless he teams up with Brad Pitt and a few other big names.",0,0,robert Jr.,lNzukD8pS_s,-0.10833333333333334,2016-02-25 04:01:26,False,False
+2016-02-27T23:56:13,sad,0,0,Muh Haviz,lNzukD8pS_s,-0.5,2016-02-27 23:56:13,False,False
+2016-02-28T05:51:00,"Dumb waste of time, KIDS WILL NEVER KNOW WHAT A GOOD CHILDHOOD IS ANYMORE....",0,0,Danny Rivera,lNzukD8pS_s,0.041666666666666664,2016-02-28 05:51:00,False,False
+2016-03-02T09:16:43,and is not here play tomorrowland and me kids and how want play tomorrowland? is girl nema athena and cassey and frank me uhm,0,0,Zarinah Zabidi,lNzukD8pS_s,0.0,2016-03-02 09:16:43,False,False
+2016-03-03T00:27:07,"Can you imagine the extensive editing this trailer went through? It must be several sound files beneath these images. Several rises, stingers, and SFXs and then the music by Mark Nolan. Fantastic work. One of the best trailers i have evr seen",0,0,Drakensson,lNzukD8pS_s,0.3,2016-03-03 00:27:07,False,False
+2016-03-10T01:19:37,"I *really* wanted to like this film, but I just couldn't. When the first teaser trailer released, I was floored. It seemed like such an original and cool concept! You can imagine my complete disappointment when I found that not only did they not get to Tomorrowland until the third act, but that Tomorrowland was practically a wasteland, and that what Casey saw was only an advertisement. Like a lot of reviewers said about this movie: ""Tomorrowland is a film that I'm still waiting to see"". This concept still has *so* much potential, and I *really* hope that Disney tries to reboot this at some point, though that will likely never happen.",30,5,AJW,lNzukD8pS_s,0.06160714285714287,2016-03-10 01:19:37,False,False
+2016-03-27T11:35:17,Can we expect Tomorrowland 2?   I'm very curious about though Casey and Frank able to save the world!!!!,7,0,upali herath,lNzukD8pS_s,0.435,2016-03-27 11:35:17,False,False
+2016-04-02T03:46:29,"Knbkjr Ask Sag Integration OugrauogarhgarejMl CXJNVD lsfb Lm Gljsfjlnsd Jndgjnorsnjogjnorsjorshh I've.hvhvjvj,big,jug,hgcxmhfxtdzhdfhm",0,0,Carl. Julius Zabala,lNzukD8pS_s,0.0,2016-04-02 03:46:29,False,False
+2016-04-02T03:46:52,j ?,0,0,Carl. Julius Zabala,lNzukD8pS_s,0.0,2016-04-02 03:46:52,False,False
+2016-04-03T06:49:39,You should just skip this and watch the movie. This trailer kind of spoils a lot of good scenes. This movie was way better than I expected and it leaves you inspired. :),89,2,TheAncientAndreios,lNzukD8pS_s,0.43999999999999995,2016-04-03 06:49:39,False,False
+2016-04-07T23:09:48,"hah. Watching Meet the Robinsons again and noticed when dude flew Louis boy to the future, they went past a sign that said ""TODAYLAND"". Nice one, Disney. (-_-) I've also noticed from 1972 Willy Wonka movie the song Pure Imagination definitely describes these movies. Todayland in Meet the Robinsons looks as a peaceful place, and in Tomorrowland, they go there and it's all tore up and abandoned pretty much, just like in Wall-E, and he goes to the paradise kinda spaceship thing. Or how In the Jetsons, they're all flyin' around and junk, but Flintsones, in a timezone, is after the Jetsons.",0,0,Captain FALKEN,lNzukD8pS_s,0.15803571428571428,2016-04-07 23:09:48,False,False
+2016-04-11T03:38:29,"ótimo filme ! muito inspirador ! Precisamos aprender a resgatar a esperança, para construir o futuro melhor que desejamos.",0,0,Antonio Lemos,lNzukD8pS_s,0.0,2016-04-11 03:38:29,False,False
+2016-04-14T06:03:37,Awakening :) Unite and lead,0,0,AKLTAXI,lNzukD8pS_s,0.5,2016-04-14 06:03:37,False,False
+2016-04-19T20:50:51,Bioshock infinite in a nutshell,0,0,Checkm9,lNzukD8pS_s,0.0,2016-04-19 20:50:51,False,False
+2016-04-20T18:47:49,hope we will see more movies like this from Disney. i loved it,0,0,Nika Asatiani,lNzukD8pS_s,0.6,2016-04-20 18:47:49,False,False
+2016-04-24T22:46:41,"Okay, so I saw this movie when it came out in theaters and was disappointed for its dystopian overtones -- but I watched it a couple days ago on DVD and actually really liked it. Maybe since I knew what to expect I could appreciate both the utopian and dystopian aspects -- and saw the movie had an overall positive theme. I still would have preferred a more whimsical 1960s-type movie with optimistic futuristic themes (maybe we could get a prequel or more optimistic sequel?) but I now feel it has a lot more potential than I initially thought it did.  Anyone else have that impression?",0,0,Michael Jung,lNzukD8pS_s,0.14338842975206612,2016-04-24 22:46:41,False,False
+2016-04-27T01:51:49,Best Movie I have watched in a long time.,43,2,AVTPro,lNzukD8pS_s,0.475,2016-04-27 01:51:49,False,False
+2016-05-07T14:22:01,I don't know what everyone is talking about this is the second best movie I have ever seen. The first being The Iron Giant.,1,0,Josh Newell,lNzukD8pS_s,0.3125,2016-05-07 14:22:01,False,False
+2016-05-07T14:26:38,How come I can't find this movie anywhere?  D: cause I loved this movie  :D,0,0,Josh Newell,lNzukD8pS_s,0.85,2016-05-07 14:26:38,False,False
+2016-05-07T20:21:42,talk about illuminati,1,0,Anthony Meszaros,lNzukD8pS_s,0.0,2016-05-07 20:21:42,False,False
+2016-05-12T22:41:04,thanks a lot for getting tron 3 cancelled tomorrow's shit,1,0,RazmanianDevil,lNzukD8pS_s,0.0,2016-05-12 22:41:04,False,False
+2016-05-16T00:39:32,190 m budget &  200 m something m profit ? what a pity,0,0,IR. DJODI ACHMAD HUSAIN,lNzukD8pS_s,-0.1,2016-05-16 00:39:32,False,False
+2016-05-19T12:09:47,this is such a random movie  makes no sense at all all they do is fight a bunch of evil dudes in the trailer and there is no real plot  ( i haven't watched the movie),0,1,Anirudh,lNzukD8pS_s,-0.4,2016-05-19 12:09:47,False,False
+2016-05-20T13:14:00,just another example of good idea but bad execution. very convoluted towards the end and made almost no sense.,8,0,OMFGLOLROTFLWTF,lNzukD8pS_s,0.06666666666666671,2016-05-20 13:14:00,False,False
+2016-05-22T04:46:59,and there it goes,1,0,spooky boi,lNzukD8pS_s,0.0,2016-05-22 04:46:59,False,False
+2016-05-26T04:10:33,I don't support  George  Clooney movies anymore cause he is a fool supporting  hilldabeast.,1,1,Scott Daniels,lNzukD8pS_s,0.25,2016-05-26 04:10:33,False,False
+2016-05-26T04:10:39,I don't support  George  Clooney movies anymore cause he is a fool supporting  hilldabeast.,1,0,Scott Daniels,lNzukD8pS_s,0.25,2016-05-26 04:10:39,False,False
+2016-06-20T12:15:17,this is nothing like the book.,0,0,Ahmad Zoman,lNzukD8pS_s,0.0,2016-06-20 12:15:17,False,False
+2016-06-29T04:44:15,The trailer is better than the movie itself,43,9,Noah Secades,lNzukD8pS_s,0.5,2016-06-29 04:44:15,False,False
+2016-06-30T13:17:25,"When she bangs her head against the wall, is that supposed to be Gilbert Grape sitting there?",0,0,Sparky Blitzenkrieg,lNzukD8pS_s,0.0,2016-06-30 13:17:25,False,False
+2016-07-01T00:21:17,This movie was not as good as the trailer. They always do this...make the movie look super epic but when u really watch the movie its shit... I know its a older movie but what ever. Feedback.,0,0,Nug,lNzukD8pS_s,0.21666666666666667,2016-07-01 00:21:17,False,False
+2016-07-01T20:35:29,"out of all the punks, I hate ecopunk",0,0,rupin kanet,lNzukD8pS_s,-0.8,2016-07-01 20:35:29,False,False
+2016-07-21T08:20:42,"This movie was so confusing to me at first. It started to make sense toward the end. It is upsetting when you watch something for an hour trying to piece together anything you could from the previous scene and you just don't understand it. It was about two hours though, and after that hour mark I loved it. The movie had a great message. I wouldve given this movie 4 stars had I the chance to rate it. Other than the confusing beginning, there were great actors from left to right and I recommend this movie to anyone who was interested in the trailers.",0,5,savanahbanana,lNzukD8pS_s,0.19945887445887445,2016-07-21 08:20:42,False,False
+2016-07-27T19:29:24,I wish they showed more of epic life in the future not what we could be getting if we changed.,0,0,"Skywalker Pan, Jedi Master of Arendelle",lNzukD8pS_s,0.19999999999999998,2016-07-27 19:29:24,False,False
+2016-08-03T00:57:20,I haven't seen it but I feel like there's a liberal preaching bs message behind it,2,2,zerogeass21,lNzukD8pS_s,-0.4,2016-08-03 00:57:20,False,False
+2016-08-14T13:26:32,disneys tomorrowland,0,0,Büşra Büyükbingöl,lNzukD8pS_s,0.0,2016-08-14 13:26:32,False,False
+2016-08-20T01:14:13,This movie is amazing !!! It makes you sa that you wouldn't give up anymore it was so wierd but amazing  as well 😭❤️,0,0,Sima Sawen,lNzukD8pS_s,0.8,2016-08-20 01:14:13,False,False
+2016-08-20T01:16:29,And idk why I think like that but it has a hidden message or something I just can feel it,0,0,Sima Sawen,lNzukD8pS_s,-0.16666666666666666,2016-08-20 01:16:29,False,False
+2016-09-04T08:52:36,where is the main act the little girl,0,0,farman ali,lNzukD8pS_s,-0.010416666666666671,2016-09-04 08:52:36,False,False
+2016-09-10T15:11:12,"You have to be a #dreamer to understand, it's not about the movie it's about the story.",65,6,Shandie Hammelmos,lNzukD8pS_s,0.0,2016-09-10 15:11:12,False,False
+2016-09-15T23:45:21,Am I the only one who saw Space Mountain in the background?,0,0,Adventure,lNzukD8pS_s,0.0,2016-09-15 23:45:21,False,False
+2016-09-27T02:30:09,OMG THIS MOVIE IS SO FREKIN GOOD!!!!!!!!,1,0,Star Room,lNzukD8pS_s,1.0,2016-09-27 02:30:09,False,False
+2016-09-30T00:18:07,State awful classroom asset junior.,0,0,Tristan Knight,lNzukD8pS_s,-1.0,2016-09-30 00:18:07,False,False
+2016-10-02T06:42:53,Glad I saw the movie before seeing this trailer. The trailer spoils so much. Awesome movie.,0,0,metricmine,lNzukD8pS_s,0.75,2016-10-02 06:42:53,False,False
+2016-10-02T08:09:02,I barely understood this movie at all. I feel like I wasted 2 hours of my life...,0,0,gamerprince1999,lNzukD8pS_s,-0.07500000000000001,2016-10-02 08:09:02,False,False
+2016-10-09T15:30:47,Such a good movie👀,1,0,sasha anastasia,lNzukD8pS_s,0.35,2016-10-09 15:30:47,False,False
+2016-10-17T00:46:30,I don't get why people dislike it. Totally underrated.,0,0,James M,lNzukD8pS_s,0.0,2016-10-17 00:46:30,False,False
+2016-11-13T15:40:23,love it...kinna,0,0,Kashika Sharma,lNzukD8pS_s,0.5,2016-11-13 15:40:23,False,False
+2016-11-19T21:23:21,Please someone tell me when this movie comes to the Netherland,0,0,Vera Anne,lNzukD8pS_s,0.0,2016-11-19 21:23:21,False,False
+2016-11-20T17:47:25,PSVR でトゥモローランドを探検できるソフトでないかな？,1,0,3型迷彩服の人 ・,lNzukD8pS_s,0.0,2016-11-20 17:47:25,False,False
+2016-11-26T14:40:05,trailer melhor que o filme,0,0,Lucas Gabriel,lNzukD8pS_s,0.0,2016-11-26 14:40:05,False,False
+2016-11-28T13:50:24,"It's sad that the box office was bad... it got a 60% rating total all... but the box office... $210 million, it should've gotten $500 million",0,0,waltz 22,lNzukD8pS_s,-0.3999999999999999,2016-11-28 13:50:24,False,False
+2016-12-07T01:09:49,The movie tomorrowland begins to get interesting from the moment the robot kid shows up and stops being interesting once they arrive in tomorrowland.,2,0,John Tminustwentyminutes Mercier,lNzukD8pS_s,0.5,2016-12-07 01:09:49,False,False
+2016-12-07T09:13:52,I dont like the idea of you girls with george clueny.,1,0,crazycyclebiker,lNzukD8pS_s,0.0,2016-12-07 09:13:52,False,False
+2016-12-08T01:55:05,i love raffey cassidy,0,0,Mai Muq,lNzukD8pS_s,0.5,2016-12-08 01:55:05,False,False
+2016-12-09T02:51:59,If I want a future city it should be like this one.,3,0,volikoto,lNzukD8pS_s,0.0,2016-12-09 02:51:59,False,False
+2016-12-11T07:04:11,"Epcot was expose to be a utopian city, this movie is based around that subject.",1,0,Adventure,lNzukD8pS_s,-0.16666666666666666,2016-12-11 07:04:11,False,False
+2016-12-11T07:07:28,Also I loved how the androids were smiling non-stop... It almost killed me.,1,0,Adventure,lNzukD8pS_s,0.24999999999999997,2016-12-11 07:07:28,False,False
+2016-12-23T03:36:29,GUYS even if you thought the movie was bad (wich I loved it) think of the idea behind it. You think that you could come up with this? Touching a pin and it taking you to another dimension. Never in my life did I think about that.,0,0,SinglePhoenix,lNzukD8pS_s,0.025000000000000022,2016-12-23 03:36:29,False,False
+2017-01-15T10:53:13,An example of advertising a ride at Disneyland :P,1,0,Roofus Onna,lNzukD8pS_s,0.75,2017-01-15 10:53:13,False,False
+2017-01-21T11:52:08,The music in the background is Creation of Earth by Thomas Bergersen,0,0,Ido Gilboa,lNzukD8pS_s,0.0,2017-01-21 11:52:08,False,False
+2017-01-23T20:53:02,"Film like this, gives some hope to idealists, if there are any left...",0,0,Oleg Moskalev,lNzukD8pS_s,0.0,2017-01-23 20:53:02,False,False
+2017-02-04T21:00:14,why is rated pg at usa??????????????????? I thought it was 12.,0,0,Fabulous Choo Choo Train,lNzukD8pS_s,0.0,2017-02-04 21:00:14,False,False
+2017-02-05T01:02:06,me gustaria tener ese broche,0,0,Lia Benitez,lNzukD8pS_s,0.0,2017-02-05 01:02:06,False,False
+2017-02-22T00:23:23,Is Stitch's Great Escape in this version of Tomorrowland?,0,0,MacDragard,lNzukD8pS_s,0.8,2017-02-22 00:23:23,False,False
+2017-02-22T19:17:40,"""""You wanted to see Tomorrowland? Well here it bombs!""",0,0,SuperQuail,lNzukD8pS_s,0.0,2017-02-22 19:17:40,False,False
+2017-02-26T12:33:02,Preachy as fuck.,0,0,4shacks1house,lNzukD8pS_s,-0.30000000000000004,2017-02-26 12:33:02,False,False
+2017-03-01T03:04:50,fuck this movie...reason why I hate this is because of tron 3 being cancelled because of this shit  fuck you disney,0,0,YaBoiG,lNzukD8pS_s,-0.45000000000000007,2017-03-01 03:04:50,False,False
+2017-04-27T14:38:04,So House became a time traveller and then an evil dictator? Sign me up.,0,0,The Ad Archive,lNzukD8pS_s,-1.0,2017-04-27 14:38:04,False,False
+2017-04-29T19:34:55,Cant wait for the supply drops,0,0,St Merkel Of Migrant,lNzukD8pS_s,0.0,2017-04-29 19:34:55,False,False
+2017-05-19T00:51:29,I love this movie so freakin much!!!,0,0,When day Breaks,lNzukD8pS_s,0.4453125,2017-05-19 00:51:29,False,False
+2017-06-07T10:27:12,"First half is fantastic, fun, and well made and sets the stage for an epic second half. Then it starts to break down and really limit itself to deliver these heavy handed messages I couldn't care less about",1,0,Vqr,lNzukD8pS_s,0.03585858585858588,2017-06-07 10:27:12,False,False
+2017-07-25T01:06:29,You wanted to see it! 😎,0,1,- inTegrity -,lNzukD8pS_s,0.0,2017-07-25 01:06:29,False,False
+2017-09-25T22:50:13,that is atlantis,0,0,Converse,lNzukD8pS_s,0.0,2017-09-25 22:50:13,False,False
+2017-09-26T10:05:40,"In monsters inc, the scene where mike is making power from making a kid laugh, the poster behind the kid says Tomorrowland. Could this be a link?",0,0,bmxrider321,lNzukD8pS_s,-0.05000000000000002,2017-09-26 10:05:40,False,False
+2017-09-29T19:16:34,https://en.wikipedia.org/wiki/David_Agnew_(president) https://en.wikipedia.org/wiki/Bob_Rae#/media/File:Bob_Rae.jpg https://en.wikipedia.org/wiki/Metropolitan_Toronto https://en.wikipedia.org/wiki/Rob_Ford https://en.wikipedia.org/wiki/Adrienne_Batra,0,0,Eugene A. Buckley Jr.,lNzukD8pS_s,0.0,2017-09-29 19:16:34,False,False
+2017-10-21T21:33:58,This is a brilliant film right up until the scene with the Eiffel tower and then the film nosedives like a faulty jet pack.,0,0,gaspanda,lNzukD8pS_s,0.5928571428571429,2017-10-21 21:33:58,False,False
+2017-10-30T14:20:28,"great movie, underrated too",0,0,Rinzler TheHunter,lNzukD8pS_s,0.8,2017-10-30 14:20:28,False,False
+2017-11-01T18:53:45,"????  Caleb chapple 2 years ago What a year for Disney,  Cinderella Age of ultron Tommorrowland  Inside out Ant-man The good dinosaur And... STAR WARS: EPISODE 7 THE FORCE AWAKENS! That's makin money Disney!   Owned by chicoms????/",0,0,Ron Tate,lNzukD8pS_s,1.0,2017-11-01 18:53:45,False,False
+2017-11-20T04:26:35,Beside the endless impossibilities..and poor acting by the main girl actress. this movies sucks worse that a dead Hooker..p.s. pay more for non dead hookers.,1,0,Apple Tree,lNzukD8pS_s,-0.1064814814814815,2017-11-20 04:26:35,False,False
+2017-11-20T04:29:34,The pro Feminist anti male  scene where the girl smashed the male robots head in endlessly and enjoyed it.,0,0,Apple Tree,lNzukD8pS_s,0.09375,2017-11-20 04:29:34,False,False
+2017-11-20T22:41:33,almost 3 years later and i still fucking love this movie,0,0,peachy,lNzukD8pS_s,0.25,2017-11-20 22:41:33,False,False
+2017-11-23T11:58:21,what does he say at 0:50 ?? sounds like 'the bottles are here',0,1,AlexSparrow,lNzukD8pS_s,0.0,2017-11-23 11:58:21,False,False
+2017-12-10T11:16:02,Best movie ever so far,0,0,Andrew Menezes,lNzukD8pS_s,0.55,2017-12-10 11:16:02,False,False
+2017-12-20T04:50:12,there will never be a better 10's Disney film my all time favorite thanks to Brit & watch every month,0,0,John Garabedian,lNzukD8pS_s,0.39999999999999997,2017-12-20 04:50:12,False,False
+2017-12-21T15:57:15,Why do people hate on this movie? It was awesome,0,0,Ayesha Tahira,lNzukD8pS_s,0.09999999999999998,2017-12-21 15:57:15,False,False
+2018-01-01T16:17:51,Hindi m koni k,0,0,p parjapat,lNzukD8pS_s,0.0,2018-01-01 16:17:51,False,False
+2018-01-12T20:22:34,she is so similar to sabrina carpenter,0,0,Subhalakshmi Maitra,lNzukD8pS_s,0.0,2018-01-12 20:22:34,False,False
+2018-01-24T13:06:42,"2018 wow,this movie is still sad",0,0,Vlogging with Jack,lNzukD8pS_s,-0.5,2018-01-24 13:06:42,False,False
+2018-02-11T01:03:22,i forgot bout this,0,0,cul e.,lNzukD8pS_s,0.0,2018-02-11 01:03:22,False,False
+2018-02-23T21:05:12,some of this movie was shot in my town,0,0,Olivia Howard,lNzukD8pS_s,0.0,2018-02-23 21:05:12,False,False
+2018-02-26T00:41:54,I am waiting for this movie,0,1,Funny videos from China,lNzukD8pS_s,0.0,2018-02-26 00:41:54,False,False
+2018-03-02T22:01:24,i will forever love this movie.,0,0,tony macintosh,lNzukD8pS_s,0.5,2018-03-02 22:01:24,False,False
+2018-03-03T20:22:28,Uhmmmm 2018? EVERYONE FORGOT ABOUT THIS MOVIE.,4,1,desereé !,lNzukD8pS_s,0.0,2018-03-03 20:22:28,False,False
+2018-03-03T21:06:48,This is Plus Ultra shit here,0,0,Dr. Dolf,lNzukD8pS_s,-0.2,2018-03-03 21:06:48,False,False
+2018-03-11T08:11:07,Has anyone see this movie? How is it?,1,0,Inspower 20,lNzukD8pS_s,0.0,2018-03-11 08:11:07,False,False
+2018-03-18T04:12:55,Is it just me or is that wheat field in the beginning the same field from camazotz in a Wrinkle in Time?,0,0,Galactic Puppet,lNzukD8pS_s,0.0,2018-03-18 04:12:55,False,False
+2018-03-19T22:46:08,Why do I feel like the main character is sabrina capenter?,0,0,kiwikkul,lNzukD8pS_s,0.16666666666666666,2018-03-19 22:46:08,False,False
+2018-03-29T20:31:57,"""This Trailer Makes Me Believe In Something, I Just Don't Know What.., Yet."" -Jack Minor 2017",0,0,JollyJackr,lNzukD8pS_s,-0.05,2018-03-29 20:31:57,False,False
+2018-04-03T06:44:47,So confused,0,0,Movies Now,lNzukD8pS_s,-0.4,2018-04-03 06:44:47,False,False
+2018-05-11T14:46:33,Why is Hugh Laurie there for one frame at 2:10??,0,0,loot6,lNzukD8pS_s,0.0,2018-05-11 14:46:33,False,False
+2018-06-04T13:09:40,I love this movie so much,0,0,Erwin Wibowo,lNzukD8pS_s,0.35,2018-06-04 13:09:40,False,False
+2018-06-15T22:55:05,this movie is wildly important. it is a confession. they are telling you something in this movie. can you hear it? this is NOT FICTION.,0,0,Ingolf Stern,lNzukD8pS_s,0.4,2018-06-15 22:55:05,False,False
+2018-06-22T01:13:05,"Can't believe there are so many people that this movie didn't effect.  I don't just consider it one of the best movies of the last several years, to me it's easily one of the most important.  It's message was so on-point it was practically a documentary.  See it yourself and draw your own conclusions.  At this point, I don't think Brad Bird is capable of making a bad movie.",0,0,Zciliya Films,lNzukD8pS_s,0.2666666666666667,2018-06-22 01:13:05,False,False
+2018-07-03T05:15:19,"Honestly, this movie isn't *that* bad of a film.",0,0,wiinterflowers,lNzukD8pS_s,-0.04999999999999993,2018-07-03 05:15:19,False,False
+2018-07-07T12:09:34,"This movie is far from perfection (plot holes and whatever), but now I want to explore the cornerstone idea. Theorizing a world where only the smartest can access is pretty fascist. The idea is fascinating, but involves the concept of standard, that excludes by definition people that can't reach it. I'm ok with that, but only if the smartest payback the community with their work, and this isn't the case (in fact they are isolated in their city, located in a parallel dimension). This vision of the world represent an old Walt Disney obsession (and Walt was a well known conservative). Sorry for my english, I'm not a mother tongue! :)",0,0,parlarebeneperpensarebene,lNzukD8pS_s,0.13749999999999998,2018-07-07 12:09:34,False,False
+2018-07-11T23:55:10,o melhor  filme que eu ja acisti,0,0,Claudionor Santos da Silva,lNzukD8pS_s,0.0,2018-07-11 23:55:10,False,False
+2018-08-08T21:07:32,This was so bad,0,0,VosranaRit,lNzukD8pS_s,-0.6999999999999998,2018-08-08 21:07:32,False,False
+2018-08-14T14:32:06,please HINDI dubbed download link send me,0,0,Stylish Naman,lNzukD8pS_s,0.0,2018-08-14 14:32:06,False,False
+2018-08-30T06:18:34,"Movie lost 140million - i don't understand, i really liked it :(",0,0,d33dub,lNzukD8pS_s,-0.07500000000000001,2018-08-30 06:18:34,False,False
+2018-09-11T23:59:48,"I have seen this movie and I love it, the end was sad cause athena got shoot...",0,0,Clarissa And Casey,lNzukD8pS_s,0.0,2018-09-11 23:59:48,False,False
+2018-09-29T06:47:18,Very good movie,0,0,Lee Moon,lNzukD8pS_s,0.9099999999999999,2018-09-29 06:47:18,False,False
+2018-10-19T05:30:11,this movie looks so good how did it flopped,0,0,Shaggy mofo,lNzukD8pS_s,0.7,2018-10-19 05:30:11,False,False
+2018-12-03T19:52:46,"The movie had a fantastic opening at the 1964 World's Fair and then it went downhill from there. Brad Bird made a somewhat entertaining but not at all exceptional film about a possible future for us all. This movie was bogged down by a depressing plot and an even more depressing Tomorrowland visit. I was hoping for a Jetson's style movie with amazing architecture and technology, but instead I got robots, climate change lectures, NASA closures and George Clooney being annoyed by his surroundings for two hours. Disney should have taken the 200+ million they spent on this and made TRON III instead.",0,0,Mufnstuf,lNzukD8pS_s,0.09365079365079364,2018-12-03 19:52:46,False,False
+2019-01-19T11:45:18,I hope tomorrowland2 can come out to us <3 ;),0,0,curdy컬디,lNzukD8pS_s,0.625,2019-01-19 11:45:18,False,False
+2019-03-04T06:21:53,"Just want to know where in the hell did Casey get those yellow/blue/green striped socks? Looked for countless hours on the internet, and can't find anything, lol.",0,0,Presley St.James,lNzukD8pS_s,0.4,2019-03-04 06:21:53,False,False
+2019-04-26T01:30:12,"How does nobody notice that this is basically ""Meet The Robinsins""",1,0,Slurpee Stuff,lNzukD8pS_s,0.0,2019-04-26 01:30:12,False,False
+2019-04-28T14:13:43,I've never even heard of this movie until I saw a link about movies that made the least profit.,0,0,Special k,lNzukD8pS_s,-0.3,2019-04-28 14:13:43,False,False
+2019-05-29T01:22:28,This movie is fucking trash,0,0,Elmo President of Fiction,lNzukD8pS_s,-0.6,2019-05-29 01:22:28,False,False
+2019-06-23T07:02:08,... ...😎...✌️...,1,0,Pius Muchira,lNzukD8pS_s,0.0,2019-06-23 07:02:08,False,False
+2019-06-30T02:04:41,Who see this on 2019,0,0,Rafi Rangkuti,lNzukD8pS_s,0.0,2019-06-30 02:04:41,False,False
+2019-07-02T10:13:52,God dam i want to be in wonderland i want to be a scientist,0,0,Thetrollkraken,lNzukD8pS_s,0.0,2019-07-02 10:13:52,False,False
+2019-07-04T20:05:32,I love this film❤❤❤❤❤,0,0,Charbel Otrakji,lNzukD8pS_s,0.5,2019-07-04 20:05:32,False,False
+2019-07-29T03:47:44,Sey you houste esay pelicoly an disni world y En TNT tomorrowland @π 2019¥€@® $€€p👌👏😓💘,1,0,Alexis Varela Chan,lNzukD8pS_s,0.0,2019-07-29 03:47:44,False,False
+2019-09-28T18:52:21,"this world will come to an end and everything that has happened is revealed in the Quran and the Hadith.  It is not possible for us as humans to love the world because the world will be destroyed and all living things will die except the substance of Allah Almighty.  In Islam can find the world but cannot leave the afterlife because eternal life is the afterlife.  Disney filmed this movie because it depicted the future they imagined apart from the fact that they knew it and embraced the destructive reality of the destruction that came from human hands but they rejected it as a result of the love of the world.  that will end.  however, giving up is not the only thing that is worthwhile.  Disney also wants to manipulate children's thinking unless they are given the best teachings based on the Quran and the Hadith.",0,0,Son Goku,lNzukD8pS_s,0.21000000000000002,2019-09-28 18:52:21,False,False
+2019-09-29T17:28:12,evil...she die....noooooooooooooooooooooooooo....love get old together,0,0,guang lu,lNzukD8pS_s,0.1,2019-09-29 17:28:12,False,False
+2019-09-29T17:29:14,"live thousand years together,no sad",0,0,guang lu,lNzukD8pS_s,-0.18181818181818182,2019-09-29 17:29:14,False,False
+2019-09-29T17:30:57,pretty girl shit in my head,0,0,guang lu,lNzukD8pS_s,0.024999999999999994,2019-09-29 17:30:57,False,False
+2019-10-21T04:32:59,I like athena he sooo CUTE!!,1,0,Aliman single,lNzukD8pS_s,0.78125,2019-10-21 04:32:59,False,False
+2019-11-03T13:47:36,If you want a ping look at one http://yutubiblicalprophecy.simplesite.com   It will surprise you,0,0,Enmanuel Gonzalez,lNzukD8pS_s,0.0,2019-11-03 13:47:36,False,False
+2019-11-18T11:20:42,Trailer shows everything :-(,0,0,1984rockabilly,lNzukD8pS_s,-0.75,2019-11-18 11:20:42,False,False
+2019-11-26T05:03:07,The way I imagine the future is like Tomorrowland mixed with Robots and Omega Coaxial.,1,0,Brian Lyons,lNzukD8pS_s,0.0,2019-11-26 05:03:07,False,False
+2019-12-02T15:33:02,Underrated movie. VFX and SFX was amazing in this movie.,1,0,Troll Em,lNzukD8pS_s,0.6000000000000001,2019-12-02 15:33:02,False,False
+2019-12-30T23:50:58,"I don’t care what anyone says, I LOVE THIS MOVIE!!!",5,0,Connor Reynolds,lNzukD8pS_s,0.9765625,2019-12-30 23:50:58,False,False
+2020-01-18T10:45:10,I watched it,1,0,Rüstem Nur,lNzukD8pS_s,0.0,2020-01-18 10:45:10,False,False
+2020-01-22T03:38:20,From the future: hello.,0,0,Samrocket132 Fitsjerols,lNzukD8pS_s,0.0,2020-01-22 03:38:20,False,False
+2020-02-11T21:49:10,WE WUANT A SEQUEL !! WE WUANT A SEQUEL!! I AM A DREAMER !!!! I AM A DREAMER!!!! I BELIVE IN THE FUTURE.,1,0,"τηе ф[цпkпоши]ф-1,000 subs Can I Get?",lNzukD8pS_s,0.0,2020-02-11 21:49:10,False,False
+2020-02-19T13:11:32,😨,0,0,Kanatsız Kuş,lNzukD8pS_s,0.0,2020-02-19 13:11:32,False,False
+2020-03-02T13:46:04,"Magiging ganyan din pinas, pagna-decentralize na, maayos na yung education system, at ma-utilize yung agricultural at science industry",0,0,Jo Ris,lNzukD8pS_s,0.0,2020-03-02 13:46:04,False,False
+2020-03-21T14:20:35,So basiclly this is terminator,0,0,CrackDownMemes Tv,lNzukD8pS_s,0.0,2020-03-21 14:20:35,False,False
+2020-04-11T13:04:02,I regret not seeing this film in theatres because my parents thought it was R Rated and refused to let me see it. I still wish I took that summer back.,0,0,The Untitled Random Junk,lNzukD8pS_s,0.0,2020-04-11 13:04:02,False,False
+2020-04-12T15:29:18,I'm just gonna put down the bowl and go watch it. I will come back with an honest review from an observant asshole.,0,0,Shannon Sez,lNzukD8pS_s,0.14814814814814814,2020-04-12 15:29:18,False,False
+2020-04-26T19:58:50,"Actually one of my favorite movies!! I just posted an analysis of it on my channel, would love if you guys will stop by and let me know what you think!",3,0,Celia Hjorth,lNzukD8pS_s,0.46875,2020-04-26 19:58:50,False,False
+2020-05-23T03:50:08,The movie turns 5 today  Hated it  Too much time not spent in Tomorrowland and suffers from so much exposition,0,0,J,lNzukD8pS_s,-0.21000000000000002,2020-05-23 03:50:08,False,False
+2020-05-23T23:55:27,2020,0,0,Flodz gamer,lNzukD8pS_s,0.0,2020-05-23 23:55:27,False,False
+2020-05-30T08:55:25,Kız ölüyor,0,0,Abre BERKUK,lNzukD8pS_s,0.0,2020-05-30 08:55:25,False,False
+2020-05-30T12:02:25,This is a very nice trailor that spoils the entire fight scene at the house,0,0,Cheng Yong Cephas Lee,lNzukD8pS_s,0.39,2020-05-30 12:02:25,False,False
+2020-06-08T12:10:14,Arteco Medical Machine Playlist Thesis University Medical engineering,0,3,Griselda Yaneth Fuentes,lNzukD8pS_s,0.0,2020-06-08 12:10:14,False,False
