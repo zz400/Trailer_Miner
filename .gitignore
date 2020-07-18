@@ -1,7 +1,14 @@
+/__pycache__
+**/.DS_Store
+**/.ipynb_checkpoints
+
+.gitignore
+.gitattributes
+.gitattributes
+
+/data/trailer_comments_raw/*
 /private_api_key/*
 !/private_api_key/example-youtube_data_API_key_list.txt
 
-/data/trailer_comments_raw/*
-/__pycache__
-.ipynb_checkpoints
-/.gitattributes
+
+
