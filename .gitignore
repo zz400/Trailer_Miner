@@ -1,4 +1,6 @@
 /private_api_key/*
+!private_api_key/.gitkeep 
+
 /data/trailer_comments_raw/*
 /__pycache__
 .ipynb_checkpoints
