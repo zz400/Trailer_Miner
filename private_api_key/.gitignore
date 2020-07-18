@@ -1,5 +1,0 @@
-# ignore any content in this folder, except this file and example-youtube_data_API_key_list.txt
-*
-*/
-!.gitignore
-!.example-youtube_data_API_key_list.txt
