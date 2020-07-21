@@ -1,7 +1,11 @@
-### Web app: http://trailerminer.me/
-### Slides: https://docs.google.com/presentation/d/1eYL0SUBftpwC_WGlJPREZkFyGHv1ZnYtXUOBRxvJvUY
+# Trailer Miner
 
-### Pipeline
+A web app that predicts box office of a movie based on Youtube comments on the trailers.
+
+Click [here](http://trailerminer.me/) to launch the demo, and check out the [slides](https://docs.google.com/presentation/d/1eYL0SUBftpwC_WGlJPREZkFyGHv1ZnYtXUOBRxvJvUY) for more information.
+
+
+## Pipeline
 ![](./images/_pipeline.png)
 
 ## 1. Collection of movie metadata 
@@ -63,3 +67,11 @@
 - Train data: 593 movies in 2014 - 2018; Test data: 103 movies in 2019.
 - 15-fold cross validation.
 
+## How to run the app locally
+1. Install all the libraries listed in _VM_package_install.sh.
+2. Apply for [Youtube Data API key](https://developers.google.com/youtube/v3/getting-started) which is used to fetch data from Youtube, and [Plotly API key](https://chart-studio.plotly.com/settings/api/#/) which used to plot interactive figures. Put the keys into /private_api_key folder.
+3. Clone the app and run:
+
+```
+streamlit run webapp_run.py
+```
